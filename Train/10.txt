@@ -1,0 +1,411 @@
+Research Article
+Excitation-Inhibition Dynamics Regulate Activity Transmission Through the Perirhinal–Entorhinal Network
+Author links open overlay panelJanske G.P.WillemsWytse J.WadmanNatalie L.M.Cappaert
+Show more
+https://doi.org/10.1016/j.neuroscience.2019.05.031Get rights and content
+Under a Creative Commons licenseopen access
+Highlights
+•
+In response to superficial cortical input, excitation precedes inhibition in superficial and deep principal PER-LEC neurons.
+
+•
+The window of net excitability is larger in superficial principal neurons than in deep layer neurons.
+
+•
+Parvalbumin interneurons initiate inhibition onto principal neurons with a very consistent timing.
+
+•
+Only superficial and not deep layer principal neurons in the PER-LEC region fire in response to superficial cortical input.
+
+
+Abstract
+The perirhinal (PER) – lateral entorhinal (LEC) network plays a pivotal role in the information transfer between the neocortex and the hippocampus. Anatomical studies have shown that the connectivity is organized bi-directionally: the superficial layers consist of projections running from the neocortex via the PER-LEC network to the hippocampus while the deep layers form the output pathway back to the neocortex. Although these pathways are characterized anatomically, the functional organization of the superficial and deep connections in the PER-LEC network remains to be revealed. We performed paired recordings of superficial and deep layer principal neurons and found that a larger population of superficial neurons responded with action potential firing in response to superficial cortical input, compared to the deep layer population. This suggested that the superficial network can carry information from the cortex towards the hippocampus. The relation between the excitatory and inhibitory input onto the deep and superficial principal neurons showed that the window of net excitability was larger in superficial principal neurons. We performed paired recordings in superficial layer principal neurons and parvalbumin (PV) expressing interneurons to address how this window of opportunity for spiking is affected in superficial principal neurons. The PV interneuron population initiated inhibition at a very consistent timing with increasing stimulus intensity, whereas the excitation temporally shifted to ensure action potential firing. These data indicate that superficial principal neurons can transmit cortical synaptic input through the PER-LEC network because these neurons have a favorable window of opportunity for spiking in contrast to deep neurons.
+
+Previous article in issueNext article in issue
+Abbreviations
+ACSFartificial cerebrospinal fluidAHPafterhyperpolarizationAiPagranular insular cortexANOVAanalysis of varianceAPaction potentialCcaudaldeepdeep layerEexcexcitatory reversal potentialEinhinhibitory reversal potentialEPSCexcitatory post-synaptic currentGABAgamma-aminobutyric acidGexcexcitatory conductanceGinhinhibitory conductanceIexcexcitatory synaptic currentIinhinhibitory synaptic currentImmembrane currentIPSCinhibitory post-synaptic currentLlateralLEClateral entorhinal cortexMmedialmACSFmodified artificial cerebrospinal fluidPERperirhinal cortexPrNprincipal neuronPVparvalbumin expressing interneuronRrostralRmmembrane resistanceRMPresting membrane potentialSEMstandard error of the meansupersuperficial layer
+Key words
+perirhinal cortexlateral entorhinal cortexparvalbumin expressing interneuronswindow of opportunitymouse
+INTRODUCTION
+The perirhinal (PER) and the lateral entorhinal (LEC) cortex are a crucial part of the cortico-hippocampal circuitry, since these cortices function as a gateway between neocortical areas and subcortical structures, and the hippocampus to ensure processing of object information, attention and motivation (Burwell and Amaral, 1998a, Burwell, 2000, Burwell and Witter, 2002, Fernández and Tendolkar, 2006, van Strien et al., 2009, Cappaert et al., 2014, Keene et al., 2016). The projections to the PER and LEC originate, amongst others, in the neocortex; in turn the PER and LEC project to the hippocampal formation (for review see Cappaert et al., 2014). Anatomical studies have shown that longitudinal connections from the neocortex towards the hippocampus mainly run through the superficial layers of the PER and LEC (for review see Menno P. Witter et al., 2017), whereas the deep layers form a return network of connections (M. P. Witter et al., 1986, Witter et al., 1989, Tamamaki and Nojyo, 1993, Suzuki and Amaral, 1994, Burwell and Amaral, 1998b). Based on this anatomical topographical organization, it is hypothesized that activity traveling towards the hippocampus does so via the superficial layers of the PER-LEC (Menno P. Witter, 1993, Ruth et al., 1988) and, after hippocampal processing, is transferred back to the neocortex by the deep layer network (Buzsáki, 1996, Canto et al., 2008). According to this theory, synaptic input to the superficial and deep layers should be strictly divided to ensure separate transmission of neuronal activity through the superficial and deep layers (Biella et al., 2002, Pelletier et al., 2004, Willems et al., 2016, Willems et al., 2018). Physiological data showed that stimulation of the PER superficial layers results in significant activation of the LEC superficial layers specifically (de Villers-Sidani et al., 2004). Additionally, deep layer PER-LEC neurons are strongly inhibited after neocortical stimulation, blocking the output pathway of the hippocampus, while the input pathway is activated by input evoked action potential firing in the PER superficial layer neurons (Biella et al., 2002, Willems et al., 2018). This data suggests that the PER-LEC deep layers are actively inhibited to block the output network of the hippocampus, while the superficial layers are facilitated when neocortical information has to be transmitted towards the hippocampus. The differences in simultaneously processed synaptic input between the superficial and deep layer network still remain to be revealed.
+
+It is known that an inhibitory synaptic response follows the brief excitatory response in both the superficial and deep layer neurons of the PER and LEC after a short pulse neocortical stimulus (Biella et al., 2001, Willems et al., 2018). The timing of the inhibition and excitation - and thus the length of the resulting period of net excitation - could well be the discriminating factor as to whether or not the action potential threshold will be reached, determining the success of information propagation through the network. Therefore, the current study investigates whether differences in timing and amplitude of the excitatory and inhibitory synaptic inputs onto the superficial and deep layer neurons determine the differences in output response of these two distinct populations.
+
+Previous studies showed that the inhibition in the PER and LEC evoked by cortical input originates in the local inhibitory network (Martina et al., 2001, Willems et al., 2018). Potential candidates for this strong, local inhibitory control are parvalbumin expressing (PV) interneurons, which can evoke large inhibitory currents because they innervate the perisomatic region of principal neurons (Pfeffer et al., 2013). PV interneurons are present in both superficial and deep layers of the PER-LEC network (Barinka et al., 2012, Cappaert et al., 2014). In the deep layers, PV interneurons are recruited in a feedforward manner, evoking a large inhibitory conductance in principal neurons after stimulation of the neocortex (Willems et al., 2018). This fast acting inhibition creates only a small window of opportunity for action potential generation and prevents the principal neurons from sustained firing. This supports the hypothesis that the deep layers are not involved, and even actively silenced, when activity is traveling from the neocortex towards the hippocampus. It is therefore expected that the superficial PER-LEC neurons are more responsive to neocortical stimuli in order to transmit activity from the PER, via the LEC towards the hippocampus.
+
+This study addresses how principal neurons in the superficial layer are recruited by a stimulation of the superficial agranular insular cortex (AiP), an afferent from the PER-LEC network involved in emotional, interoceptive and exteroceptive signal processing (Burwell, 2000, Nieuwenhuys, 2012, Mathiasen et al., 2015). The course of the evoked excitation and inhibition in the superficial layers is compared with the situation in the deep layer neurons. Moreover, the role of local superficial layer PV interneurons in evoking the inhibition in this network is explored.
+
+Experimental Procedures
+Animals
+Experiments were performed on 22 male and female Pvalbtm1(cre)Arbr (Hippenmeyer et al., 2005) / Gt(ROSA)26Sortm1(EYFP)Cos (Srinivas et al., 2001) (PV/YFP) transgenic mice. Age of the animals was between P28 and P42. Animal care and experiments were approved by the Animal Care and Use committee of the University of Amsterdam and were in accordance with European guidelines.
+
+Slice preparation
+Animals were killed by decapitation. The brain was rapidly removed and kept in ice-cold modified artificial cerebrospinal fluid (mACSF) containing (in mM): 120 choline chloride, 3.5 KCl, 5 MgSO4, 1.25 NaH2PO4, 0.5 CaCl2, 25 NaHCO3, 10 D-glucose (pH 7.4; 300–315 mOsmol), continuously oxygenated with 95% O2/5% CO2. Horizontal slices (400 μm thick) containing the neocortical AiP, PER and LEC (Fig. 1A, Willems et al., 2016) were cut in ice-cold mACSF using a VT1200S vibratome (Leica Biosystems, Nussloch, Germany). The AiP projects to the PER and LEC in vivo (Furtak et al., 2007, Mathiasen et al., 2015). In the horizontal slice preparation used, the functional projections are preserved (von Bohlen und Halbach and Albrecht, 2002, Mathiasen et al., 2015, Willems et al., 2016, Willems et al., 2018). Slices were incubated for at least 15 min in ACSF containing (in mM): 120 NaCl, 3.5 KCl, 1.3 MgSO4, 1.25 NaH2PO4, 2.5 CaCl2, 25 NaHCO3, 10 D-glucose, continuously oxygenated with 95% O2/5% CO2 (pH 7.4; 300–315 mOsmol) at 32 °C, where after they were kept at room temperature until recordings started.
+
+Fig. 1
+Download high-res image (518KB)Download full-size image
+Fig. 1. Responsiveness of superficial and deep layer principal neurons after AiP stimulation. A. Top: lateral view of the mouse brain with a dotted line indicating the slice plain for the horizontals slice shown at the bottom. Bottom: Schematic overview of a horizontal mouse brain slice indicating the stimulus electrode in the AiP and the recorded superficial (green) and deep (black) layer neuron pairs (n = 23) in the PER-LEC network. The pairs are connected with a thin line. B. Typical examples of a superficial and deep neuron, recorded at clamped currents resulting in membrane potentials of − 90 to − 50 mV, showing evoked action potential firing after AiP stimulation (▼) at the maximal stimulus intensity. C. The fraction of superficial (green) and deep (black) layer neurons in the recorded population that respond to the maximal stimulus with at least one action potential in three consecutive recordings as a function of membrane potential. D. The spike probability as a function of membrane potential at maximal stimulus intensity. Asterisk (*) indicate P < .05. E. The spike probability as a function of membrane potential and increasing stimulus intensities in superficial (left) and deep (right) layer principal neurons.
+
+Abbreviations: R, rostral; M, medial, C, caudal; L, lateral; AiP, agranular insular cortex; PER, peririhinal cortex; LEC, lateral entorhinal cortex.
+
+Paired recordings of principal neurons in the superficial and deep layers
+In total 23 superficial and deep layer principal neuron pairs were recorded in the PER and LEC. The mouse brain atlas was used to localize the PER and LEC in our slice preparation (Paxinos and Franklin, 2001). Patch pipettes were pulled (model P-87, Sutter Instrument, Novato, CA) with a resistance of 3–5 MΩ. Whole-cell recordings were performed using an intracellular solution containing (in mM): 131.25 K-gluconate, 8.75 KCl, 10 HEPES, 0.5 EGTA, 4 MgATP, 0.4 Na2GTP (pH 7.4; 295–300 mOsmol).
+
+Slices were mounted in a perfusion chamber on a Scientifica SliceScope Pro 6000 (Scientifica, Uckfield, UK) and perfused with ACSF of 30 °C at a rate of 2 mL/min. PER and LEC principal neurons were selected based on their large soma. A superficial neuron was patched first, from where we drew an imaginary line perpendicular to the pia. The second cell of the patched pair, a deep layer principal neuron, was selected on this imaginary line. Whole-cell recordings were made using an Axopatch 200A and 200B amplifier (Molecular Devices, Sunnyvale, CA). The signals were filtered at 10 kHz, sampled at 100 kHz and digitized using a NI-DAQ USB-6259 (National Instruments, Austin, TX). Software for data-acquisition and all analysis was custom-made in MATLAB (MathWorks, Natick, MA). Voltage was corrected online for a − 14 mV junction potential. The neurons were approached with slight pressure on the pipette. When the pressure was released the seal resistance between cell and pipet-cell had to reach a value of 1 GΩ before break in. Access resistance was compensated for at least 50–60% and only recordings with an access resistance lower than 20 MΩ, which did not change more than 25% over the recording time, were accepted for further analysis. Immediately after break in, the resting membrane potential was determined in current clamp mode.
+
+Paired recordings of principal neurons and PV interneurons in the superficial layer
+Paired recordings of one PV interneuron and one principal neuron were performed in the superficial PER-LEC network. PV expressing interneurons were identified using transgenic mice conditionally expressing YFP driven by the PV promotor dependent cre-recombinase expression. YFP was excited at 470 nm using a LED (PE-100, CoolLed Ltd., Andover, UK) and fluorescence was observed using a 479 ± 40 nm emission filter (Thorlabs Inc., Newton, NJ). The maximal inter-soma distance between the principal neuron and the PV interneuron pair was 200 μm. The firing properties of each neuron were recorded by injecting currents into the cell that stepped the membrane voltage from − 100 to − 30 mV. Connectivity between the principal neuron – PV interneuron pair was tested by evoking action potentials in the principal neuron at reproducible moments using a frozen noise current injection (Zeldenrust et al., 2013). PV interneurons were clamped at the reversal potential for GABAA mediated current (− 70 mV) to isolate the excitatory post-synaptic currents (EPSCs, Fig. 5A). We strived to induce a firing rate of 1–2 Hz in the principal neuron. The reversed configuration was used to establish PV to principal neuron connectivity. In this case, the principal cell was clamped at − 50 mV in order to record inhibitory post-synaptic currents (IPSCs) (Fig. 5B). At this holding potential the excitatory currents are inward and the inhibitory currents are outward, allowing the separation of excitatory and inhibitory components.
+
+Stimulus-evoked synaptic currents were recorded in principal neurons in voltage clamp at a holding potential of − 70 mV, while action potential firing was recorded in current clamp in PV interneurons in response to AiP stimulation. We adjusted the stimulus strength to the neuron receiving the smallest input because we recorded the synaptic input in response to the same stimulus in two separate neurons. The stimulus strength that evoked the maximal amplitude response in the neuron with the smallest response was taken as the 100% stimulus intensity. Evoked synaptic currents were recorded at five holding potentials (between − 90 and − 50 mV) in the principal neuron while PV firing was recorded in current clamp at the same time. This allowed comparing the evoked inhibitory conductance in the principal neuron with the spiking of a representative PV neuron.
+
+Electrical stimulation
+A bipolar tungsten stimulus electrode (World Precision Instruments, Sarasota, FL) with a tip separation of 125 μm was placed under visual guidance in the superficial layers of the AiP. A bipolar bi-phasic square pulse (160 μs/phase) was applied using a DS4 current stimulator (Digitimer Ltd., Hertfordshire, UK). Stimuli were repeated three times (10 s interval) to acquire an average response.
+
+Data analysis
+A synaptic response was detected when the signal exceeded 8 times the standard deviation of the baseline signal within a time period of 75 ms after the stimulus. The latency of the synaptic response was determined as the time difference between the stimulus and the timepoint where the response was detected. In each response the maximum value (peak) was detected together with its moment of occurrence in respect to the stimulus. The maximum amplitude and the moments of its occurrence of the action potentials were determined using MATLAB (peakdet function; Borges, 2015), from which the instantaneous and mean firing rates were calculated.
+
+Decomposition of evoked synaptic currents in principal neurons
+Pharmacologically blocking of the excitatory or inhibitory components in a circuit does profoundly change the state of the circuit and thus affects more than just the targeted synapse. Therefore we used linear decomposition of the synaptic responses recorded in the principal neurons as described in Willems et al. (2018). This analysis is based on continuous measurement of the evoked synaptic input at various holding potentials (Borg-Graham et al., 1998). Under the assumption that in voltage clamp the total synaptic current is a linear summation of excitatory and inhibitory currents, linear decomposition can separate the two underlying components if we know their different reversal potentials. The post-synaptic cell was clamped at a range of potentials between − 90 mV and − 50 mV, each time activating an identical synaptic conductance. In this range interference by action potentials is not an issue. After subtraction of the stimulus independent background current, this results in a membrane current (Im), composed of an time-dependent excitatory (Iexc) and an inhibitory (Iinh) synaptic current:
+
+The size of these currents is given by the multiplication of their conductances (Gexc and Ginh) and driving forces: the differences between the actual membrane voltage Vm and the reversal potentials (Eexc and Einh):
+
+This equation can be rewritten as the instantaneous linear relation between membrane current and membrane voltage:
+
+This linear I/V relation (Im = a * Vm + b) can be determined at each moment in time. Both conductances can then be extracted from the fit:
+
+We performed this calculation over the 100 ms time period after the stimulus with 0.1 ms time resolution. Assuming that there are only glutamatergic and GABAAergic synapses activated with time-invariant reversal potentials at 0 mV and − 70 mV (Purves et al., 2001, Melzer et al., 2012), Gexc and Ginh describe the time course of both stimulus evoked synaptic conductances in the cell.
+
+The instantaneous relation between Gexc and Ginh was defined by the excitability ratio (Eratio) as a function of time after the stimulus:
+where Gm represents the membrane conductance of the cell in the absence of synaptic activity. Eratio can take values between 0 (complete dominance of inhibition) and infinity (complete dominance of excitation), while it stabilizes at 1 in the absence of synaptic conductance.
+
+The decomposition method may introduce some limitations. Firstly, a possible limitation is the estimation of the reversal potentials. As we do know the exact composition of the internal solution of the pipet (and thus the inside of the neuron) and external solution in the bath, the error will be limited. (Higley and Contreras, 2006). Secondly, we assume that there are only glutamatergic and GABAAergic synapses and do not incorporate possible GABAB synapses in the decomposition. The metabotropic GABAB receptor is much slower than the GABAA receptor (time of peak 200 vs. 14 ms, respectively; Mott et al., 1993). As we analyzed only the first 100 ms of our synaptic responses, we considered it justifiable to ignore the GABAB component. Thirdly, the recordings are performed at the soma of the pyramidal neurons. Inputs at the distal dendrites of principal neurons may propagate less reliably to the soma. However, we are mostly interested in the cumulative synaptic effects at the level of the soma which are ultimately responsible for spike generation.
+
+Statistics
+Unless otherwise mentioned, values are reported as mean and standard error of the mean (SEM). Statistical analysis was performed using MATLAB or Prism 6 (Graphpad Software Inc., La Jolla, CA). Pairwise comparisons were made using Student's t-test; multiple comparisons were performed using ANOVA with the appropriate post-hoc tests. Relations were analyzed using linear regression. Comparisons between responsive and non-responsive neurons were performed using the non-parametric Mann–Whitney U test (Table 2). P < .05 was assumed to reject the null hypothesis.
+
+RESULTS
+Stimulus induced firing in superficial and deep layer principal neurons
+Since previous studies suggested that the superficial layers of the PER-LEC network are the main route for activity from the neocortex to the hippocampus (de Villers-Sidani et al., 2004, Willems et al., 2018), we investigated whether principal neurons in the superficial layers are more responsive to cortical input than deep layer neurons. To address this, we stimulated the superficial layers of the abutting AiP in horizontal acute mouse brain slices and performed paired whole cell recordings of deep and superficial principal neurons (n = 23 pairs, Fig. 1A). We stimulated the AiP at the intensity evoking the maximal synaptic response (average maximal intensity = 904 ± 68 μA) and recorded the membrane potential changes at 5 increasing holding currents keeping the membrane potential at − 90 to − 50 mV (Fig. 1B).
+
+Both the deep layer principal neurons and the superficial principal neurons could spike in response to AiP stimulation. The neurons were classified as responsive when they fired an action potential after at least 1 stimulus at 1 membrane voltage. The fraction of responsive neurons varied: AiP stimulation evoked action potential firing in 12/23 superficial layer principal neurons and 4/23 deep layer principal neurons (Fig. 1C). Furthermore, the spiking probability, calculated by the number of times at least 1 spike was evoked in three consecutive recordings, was larger in superficial principal neurons at increasing membrane potentials (Fig. 1D). The same trend was found when we stimulated the AiP at lower stimulus intensities (Fig. 1E).
+
+There could be several explanations for this difference in responsiveness between superficial and deep layer principal neurons. In the following part we will consider the intrinsic properties of neurons and the evoked synaptic strength.
+
+Differences in intrinsic properties between deep and superficial neurons
+To examine whether the differences found in the stimulus-evoked spiking probability between superficial and deep layer principal neurons result from their intrinsic properties, we applied a series of current injections and determined the passive and active properties of the neuronal membrane. Table 1 shows the measured intrinsic properties. Interestingly, the only difference between superficial and deep layer neurons was the firing threshold, which was slightly more hyperpolarized for superficial neurons. Superficial and deep layer neurons did not show differences on other properties like resting membrane potential, resistance, capacitance, sag, action potential amplitude, after hyperpolarization amplitude and spike width.
+
+Table 1. Intrinsic properties of superficial and deep layer principal neurons.
+
+Property	Superficial
+(n = 23)	Deep
+(n = 23)
+RMP (mV)	− 61.0 ± 1.5	− 60.3 ± 1.1
+Rm (MΩ)	131 ± 11	133 ± 11
+Capacitance (pF)	23.8 ± 2.5	20.9 ± 1.4
+Membrane τ (ms)	11.0 ± 0.8	11.0 ± 1.0
+Sag (mV)	2.30 ± 0.21	2.26 ± 0.29
+Time to first AP (ms)	63 ± 11	65 ± 6
+AP threshold (mV)	− 39.1 ± 0.8	− 36.2 ± 1.1*
+AP threshold - RMP (mV)	21.9 ± 1.8	24.2 ± 1.8
+AP amplitude (mV)2	105.4 ± 1.4	100.8 ± 2.9
+AHP amplitude (mV)1	13.0 ± 1.8	9.2 ± 1.7
+Spike half width (ms)	0.77 ± 0.02	0.83 ± 0.03
+All values are mean ± SEM. All values are measured at the current step above threshold, asterisks indicate the significance level (t-test, * P < .05).
+
+Abbreviations: RMP, resting membrane potential; Rm, membrane resistance; AP, action potential; AHP, afterhyperpolarization.
+
+
+1
+AHP amplitude is the difference between threshold and the deepest point of the afterhyperpolarization.
+
+2
+AP amplitude is the difference between threshold and the maximum of the AP.
+
+We compared the properties of responsive and non-responsive neurons within the superficial and deep layers to further elucidate if the intrinsic properties influence the likelihood of action potential firing in response to a stimulus (Table 2). The responsive and non-responsive neurons in the superficial layers showed differences in their action potential threshold, the resting membrane potential and action potential threshold, action potential amplitude, and half width (Table 2). Deep layer neurons only showed a difference in membrane resistance between responsive and non-responsive neurons.
+
+Table 2. Intrinsic properties of responsive and non-responsive principal neurons.
+
+Property	Superficial	Deep
+Responsive
+(n = 12)	Non-responsive
+(n = 11)	Responsive
+(n = 4)	Non-responsive
+(n = 19)
+RMP (mV)	− 59.1 ± 2.0	− 63.0 ± 2.1	− 62.3 ± 1.6	− 59.9 ± 1.3
+Impedance (MΩ)	135 ± 13	126 ± 20	89 ± 12	143 ± 13*
+Capacitance (pF)	20.4 ± 2.0	27.6 ± 4.5	23.4 ± 1.4	20.4 ± 1.6
+Membrane τ (ms)	10.4 ± 1.0	11.5 ± 1.1	9.0 ± 2.3	11.4 ± 1.1
+Sag (mV)	2.3 ± 0.3	2.4 ± 0.3	3.0 ± 0.7	2.1 ± 0.3
+Time to first AP (ms)	50 ± 5	77 ± 23	56 ± 11	67 ± 7
+AP threshold (mV)	− 41.3 ± 0.6	− 36.6 ± 1.0**	− 38.0 ± 2.8	− 35.8 ± 1.2
+△ AP threshold - Vm (mV)	17.7 ± 2.4	26.4 ± 2.2*	24.3 ± 1.8	24.1 ± 2.1
+AP amplitude (mV)	108 ± 1	102 ± 3*	108 ± 7	99 ± 3
+AHP amplitude (mV)	15.5 ± 2.5	10.3 ± 2.6	3.8 ± 1.6	10.4 ± 1.9
+Spike half width (ms)	0.73 ± 0.02	0.81 ± 0.03*	0.83 ± 0.01	0.83 ± 0.03
+All values are mean ± SEM. Comparisons between responsive and non-responsive neurons were performed using the non-parametric Mann–Whitney U test. All values are measured at the current step above threshold, asterisks indicate the significance level (* P < .05, ** P < .01).
+
+Abbreviations: RMP, resting membrane potential; AP, action potential; AHP, afterhyperpolarization.
+
+
+These marginal differences in intrinsic properties can only provide a partial explanation for the differences in responsiveness to the AiP stimulation. It is however likely that the properties of the synaptic input also play an important role in the distinct responses of superficial and deep layer principal neurons.
+
+The timing and amplitude of the synaptic input differs between deep and superficial neurons
+To examine the synaptic input onto superficial and deep layer principal neurons, we recorded the stimulus evoked synaptic currents at a membrane potential of − 90 mV at the stimulus intensity evoking the maximal response in 23 superficial-deep layer neuron pairs (Fig. 1A).
+
+The latency difference between the evoked responses in the superficial and deep layer neurons was 1.7 ± 0.5 ms, implying that the superficial neuron received the synaptic input earlier than the deep layer neuron (t-test, P = .0047; Fig. 2A, B). The peak amplitude of the evoked response was larger in superficial neurons compared to deep layer neurons (t-test, P = .0031; Fig. 2A, D). This larger peak amplitude of the evoked responses in superficial neurons could either result from a stronger synaptic projection onto the superficial layer neurons or from a larger excitability ratio of the synaptic input. The onset latency and the peak amplitude of the synaptic input in the superficial and deep principal neurons recorded at various distances from the stimulation electrode in the PER and LEC did not point to a relevant difference of this relation in both regions (regression analysis n.s.; Fig. 2C, E).
+
+Fig. 2
+Download high-res image (394KB)Download full-size image
+Fig. 2. Comparison of stimulus evoked responses in superficial and deep layer principal neurons. A. Typical example of the evoked synaptic current in a paired recording of superficial (green) and deep (black) layer neurons after AiP stimulation (▼ indicates the moment of stimulation). The trace represents the average ± SEM of three consecutive recorded responses. Scale bars: 5 ms, 100 pA. B-D. Comparison of the latency (B, superficial: 5.1 ± 0.2 ms, deep: 6.8 ± 0.5 ms) and peak amplitude (D, superficial: 819 ± 116 pA, deep: 381 ± 75 pA) of the evoked synaptic responses, gray lines connect the values of the simultaneously recorded superficial (green) and deep (black) layer neurons. C-E The onset latency (C) and the peak amplitude (E) of superficial and deep layer principal neurons did not change with increasing distance from the AiP stimulus electrode. Asterisks indicate the significance level ** <.01.
+
+Abbreviations: AiP, agranular insular cortex; super, superficial layer principal neurons; deep, deep layer principal neurons.
+
+Synaptic input in superficial principal neurons has a larger excitability ratio
+As synaptic currents most likely consist of excitatory and inhibitory components, we decomposed the stimulus-evoked synaptic conductance into the excitatory and inhibitory conductance in 22 pairs of superficial and deep layer principal neurons.
+
+Fig. 3 shows the stimulus activated excitatory conductance (Gexc) and inhibitory conductance (Ginh) after AiP stimulation in response to the maximal stimulus intensity in superficial and deep layer neurons. The latency of the evoked Gexc (t-test, P = .0258; Fig. 3A, B) and Ginh (t-test, P = .0299; Fig. 3D, E) was smaller in superficial layer neurons compared to deep layer neurons. The peak amplitude of the Gexc was larger in superficial layer neurons, compared to deep layer neurons (t-test, P = .0043; Fig. 3A, C). The evoked Ginh showed the same result (Fig. 3D): the peak was larger in superficial layer neurons, when compared to deep layer neurons (t-test, P = .0153; Fig. 3D, F).
+
+Fig. 3
+Download high-res image (636KB)Download full-size image
+Fig. 3. Comparison of the evoked synaptic excitatory and inhibitory conductances after AiP stimulation. A. Typical example of the stimulus evoked Gexc in superficial (green) and deep layer (black) neurons at the maximal stimulus intensity (▼ indicates the moment the stimulus was applied). The trace represents the average ± SEM of three consecutive recorded responses. B-C. The latency (superficial: 4.9 ± 0.2 ms, deep: 6.5 ± 0.6 ms, B) and peak amplitude (superficial: 6.3 ± 1.1 nS, deep: 3.0 ± 0.7 nS, C) of the evoked Gexc in superficial and deep layer neurons. The boxes (■) show the mean with SEM, the gray lines connect the recorded pairs. D. Typical example of the stimulus evoked Ginh in superficial (green) and deep layer (black) neurons at the maximal stimulus intensity. The trace represents the average ± SEM of three consecutive recorded responses. E-F. The latency (superficial: 7.2 ± 0.4 ms, deep: 9.2 ± 0.7 ms, E) and peak amplitude (superficial: 14.0 ± 2.4 nS, deep: 8.1 ± 1.4 nS, F) of the evoked Ginh in superficial and deep layer neurons. G. The difference in latency (△T) between the evoked Ginh and Gexc (superficial: 2.4 ± 0.4 ms, deep: 2.7 ± 0.5 ms), calculated by subtracting the Gexc latency from the Ginh latency. H. Top: The average excitability ratio after a stimulus (▼) at 50% (left) and 100% (right) stimulus intensity in the total recorded population of superficial and deep layer neurons. Bottom: the average evoked Gexc at 50% (left) and 100% (right) stimulus intensity in the total recorded population of superficial and deep layer neurons. I. The comparison of the peak amplitude of the excitability ratio (superficial: 1.35 ± 0.08, deep: 1.17 ± 0.04) evoked after stimulation at 100% stimulus intensity. J. Comparison of the time shift between the peak latency of the Gexc (4.4 ± 0.6 ms) and Ginh (1.2 ± 0.9 ms) in superficial and deep layer principal neurons after stimulation at 100% stimulus intensity, calculated by subtracting the Gexc peak latency from the Ginh peak latency. Asterisks indicate the significance level (*<.05, **<.01).
+
+Abbreviations: Gexc, excitatory conductance; Ginh, inhibitory conductance; AiP, agranular insular cortex; super, superficial layer principal neurons; deep, deep layer principal neurons.
+
+The Ginh was evoked later than the Gexc in both superficial and deep layer neurons (t-test, superficial P < .0001, deep P < .0001; Fig. 3B, E) and the time difference between the evoked Gexc and Ginh was comparable between superficial and deep layer neurons (Fig. 3G). The Ginh peak amplitude was larger than the Gexc peak amplitude in both superficial and deep layer neurons (t-test, superficial P = .0012, deep P = .00025; Fig. 3C and F).
+
+To address the dynamics of the interaction between the evoked excitation and inhibition in time, we determined the excitability ratio at 50% (Fig. 3H left) and 100% (Fig. 3H right) stimulus intensity. We found that the progression of the evoked excitability ratio was comparable for 50% and 100% stimulus intensity (Fig. 3H top), despite the Gexc peak amplitude increased with intensity (Fig. 3H bottom). Since the excitability ratio is unchanged at 50% and 100% stimulus intensity, the excitation and inhibition scaled comparably with the stimulus. Moreover, we found that the positive peak of the excitability ratio is larger in superficial layer neurons (t-test, P = .0112; Fig. 3I).
+
+We subtracted the latency of the Gexc peak from the Ginh peak to determine the peak time difference and this resulted in a longer delay between the Gexc and Ginh peak in superficial neurons compared to deep layer neurons (t-test, P = .0236; Fig. 3J). This indicates that the peak of the Gexc and Ginh occurred in quick succession in deep layer neurons, thereby decreasing in the peak excitability ratio.
+
+A large peak in the excitability ratio will create a window of opportunity for the neuron to spike in response to the stimulus. This implies that the timing of the evoked excitation and inhibition plays a role in regulating the spiking of superficial and deep layer neurons in the PER-LEC network.
+
+Effect of stimulus intensity on the dynamics of excitation and inhibition in superficial principal neurons
+The timing of inhibition and excitation in the superficial layers principal neurons was examined in more detail by recording the inhibitory and excitatory conductance after stimulation at 5 stimulus intensities (i.e. 25%, 50%, 75%, and 100% stimulus intensity) in 16 superficial principal neurons.
+
+Fig. 4A shows typical examples of the evoked Gexc and Ginh (top traces) and excitability ratio (bottom traces) after AiP stimulation at increasing stimulus intensities. The kinetics of the evoked conductances at 100% stimulus intensity showed that the peak Ginh was larger than the peak Gexc (t-test, P = .0403; Fig. 4C) and the latency of the Ginh was larger than for the Gexc (t-test, P < .0001; Fig. 4B). A repeated measures ANOVA was conducted to address the effect of stimulus intensity on the latency of the evoked Gexc and Ginh. Interestingly, the latency of the Gexc decreased with increasing stimulus intensities (repeated measures ANOVA, F(3,14) = 8.430, P = .0012) with the slope of the linear trend being − 0.135 ms/% and an R2 of 0.02 (linear regression, P < .0001, Fig. 4D). The latency of the Ginh was not affected by the increase in stimulus intensity (repeated measures ANOVA n.s., Fig. 4D).
+
+Fig. 4
+Download high-res image (601KB)Download full-size image
+Fig. 4. Dynamics of the evoked excitatory (Gexc) and inhibitory (Ginh) conductance in superficial layer principal neurons after AiP stimulation. A. Top: Typical example traces of the evoked Gexc (blue) and Ginh (red) after stimulation at 25, 50, 75, and 100% of the stimulus intensity evoking the maximal response. Bottom: Typical example traces of the evoked excitability ratio after stimulation at 25, 50, 75, and 100% of the stimulus intensity evoking the maximal response. The trace represents the average ± SEM of three consecutive recorded responses. B-C. Comparison of the latency (Gexc: 5.3 ± 0.5 ms, Ginh: 8.5 ± 0.6 ms, B) and peak amplitude (Gexc: 5.9 ± 1.6 nS, Ginh: 7.8 ± 1.4 nS, C) of the Gexc (blue) and Ginh (red) after AiP stimulation at the maximal intensity (100%). The boxes (■) show the mean with SEM (n = 16), the gray lines connect the recorded pairs. D. Average latency of the Gexc and Ginh at 25, 50, 75, and 100% stimulus intensity.
+
+Abbreviations: Gexc, excitatory conductance; Ginh, inhibitory conductance; AiP, agranular insular cortex.
+
+This data showed that the Gexc is evoked before the Ginh, but with a smaller peak. Furthermore, the latency of the Gexc is affected by the stimulus intensity, whereas the Ginh is generally evoked with a latency independent of the stimulus intensity. This suggests that the population of interneurons in the PER-LEC network is activated at a consistent moment after the stimulus, independent of the stimulus intensity. To address this issue, we determined how the inhibitory network of the superficial layers behaves upon AiP stimulation.
+
+Direct recruitment of PV interneurons after AiP stimulation
+Since the inhibitory input follows the excitation in superficial and deep layer principal neurons, it is likely that this inhibition originates from interneuron activity in the local PER-LEC network. To understand the role of the local inhibitory network in the superficial layers of the PER-LEC in more detail, we performed recordings of 16 PV interneuron - principal neuron pairs to reveal the dynamics of principal neuron and PV interneuron recruitment. PV interneurons differed in their intrinsic properties compared to principal neurons (Table 3).
+
+Table 3. Intrinsic properties of principal neurons and PV interneurons.
+
+Property	Principal neuron
+(n = 16)	PV interneuron
+(n = 16)
+RMP (mV)	− 63.6 ± 1.8	− 64.8 ± 1.7
+Impedance (MΩ)	87.4 ± 12.7	76.6 ± 5.9
+Capacitance (pF)	22.3 ± 2.0	15.4 ± 1.3**
+Sag (mV)	2.1 ± 0.3	0.8 ± 0.1***
+Time to first AP (ms)	34 ± 5	13 ± 4**
+AP threshold (mV)	− 40.4 ± 0.82	− 37.7 ± 0.8*
+△ AP threshold - Vm (mV)	23.2 ± 2.1	27.1 ± 2.1
+AP amplitude (mV)	105.1 ± 2.6	73.3 ± 1.6***
+AHP amplitude (mV)	12.7 ± 2.9	33.3 ± 1.1***
+Spike half width (ms)	0.77 ± 0.04	0.44 ± 0.01***
+All values are mean ± SEM. All values are measured at the current step above threshold, asterisks indicate the significance level (t-test, * < .05, ** < .01, *** < .001).
+
+Abbreviations: RMP, resting membrane potential; AP, action potential; AHP, afterhyperpolarization.
+
+
+To determine the connectivity between a principal neuron and a PV interneuron, we evoked action potentials in one neuron and recorded the evoked EPSC or IPSC in the other (for details see Willems et al., 2018). Fig. 5 shows examples of the paired recordings in the PER-LEC superficial layers. We found direct connectivity from the principal neuron onto the PV interneuron in 3 out of 16 pairs (Fig. 5A) and 1 out of 16 pairs showed a direct connection from PV interneuron to principal neuron (Fig. 5B). This data indicates that the connectivity for both feedforward (Fig. 5A) and feedback (Fig. 5B) inhibition is present in the superficial layers of the PER-LEC.
+
+Fig. 5
+Download high-res image (419KB)Download full-size image
+Fig. 5. Paired recordings of principal neurons (PrN) and PV interneurons.A. Typical example of a coupled pair, showing a PrN (black) to PV (red) connection. The top trace shows the evoked action potentials in the PrN and the bottom trace shows the action potential evoked EPSCs in the PV interneuron, recorded at a membrane potential of − 70 mV. B. Typical example of a coupled pair, showing a PV (red) to PrN (black) connection. The top trace shows the evoked action potentials in the PV interneurons and bottom trace shows the action potential evoked IPSCs in the PrN, recorded at a membrane potential of − 50 mV. C. Schematic overview of the distribution of recorded PrN-PV pairs. One dot represents one pair; the distance between simultaneously recorded neurons was never more than 200 μm. D. Typical example of the evoked synaptic current, at a − 70 mV membrane potential, in a PrN (black) and PV (red) interneuron after AiP stimulation (▼) at max stimulus intensity. E-F. Comparison of the latency (PrN: 5.7 ± 0.5 ms, PV: 4.8 ± 0.4 ms, E) and peak amplitude (PrN: 659 ± 180 pA, PV: 1493 ± 278 pA, F) of the evoked synaptic response in PrN-PV interneuron pairs after AiP stimulation at max stimulus intensity. The squares (■) show the mean with SEM, the gray lines connect the recorded pairs.
+
+Abbreviations: PrN, principal neuron; PV, parvalbumin expressing interneuron; AiP, agranular insular cortex.
+
+To further address the dynamics of principal neuron and PV interneuron recruitment, we stimulated the AiP at the maximal stimulation intensity (977 ± 116 μA) and recorded the evoked synaptic responses simultaneously in the principal neuron and PV interneuron pair. Fig. 5C shows an overview of the distribution of the recorded pairs in a schematic drawing of a slice. All recorded principal neuron – PV interneuron pairs (16/16) both received AiP evoked synaptic input upon stimulation. The PV interneurons received their input before the principal neurons (t-test, P = .0008; Fig. 5D, E) and the synaptic input in the PV interneurons had a larger peak amplitude than the principal neurons (t-test, P = .0057; Fig. 5D, F).
+
+This data indicates that the PV interneurons in the superficial layers are functionally connected to principal neurons and can deliver their inhibitory input to the principal neurons in the local PER-LEC network. PV interneurons are also recruited earlier than the principal neurons and the input onto the PV interneurons is considerably larger than the input onto the principal neurons. This suggests that the PV interneurons could be responsible for the inhibition observed in the superficial principal neurons. However, a prerequisite is that the PV interneurons must be able to fire action potentials quickly after the AiP stimulation.
+
+Principal neuron and PV interneuron action potential firing after AiP stimulation
+To address the action potential firing after AiP stimulation in both superficial layer principal neurons and PV interneurons, the neurons were held at 5 holding potentials between − 90 to − 50 mV by injecting current while the AiP was stimulated at 4 stimulus intensities between 25 and 100%. Fig. 6A shows typical examples of a recorded principal neuron – PV interneuron pair. At the maximal stimulus intensity, 5/16 principal neurons and 13/16 PV interneurons evoked action potentials. PV interneurons fired earlier than principal neurons (t-test, P = .0109; Fig. 6B) after stimulation. The spike probability of evoked action potential firing was larger in PV interneurons compared to principal neurons at all membrane voltages (t-test, P < .01 at all 5 holding potentials, Fig. 6C). Furthermore, higher stimulus intensities resulted in a higher spike probability in PV interneurons compared to principal neurons (t-test, P < .001 at all 4 stimulus intensities, Fig. 6D), indicating that the PV interneurons fired action potentials easier than the principal neurons.
+
+Fig. 6
+Download high-res image (486KB)Download full-size image
+Fig. 6. Evoked action potential firing in principal neurons and PV interneurons. A. Typical example traces of a recorded principal neuron (black) – PV interneuron (red) pair showing the evoked action potential firing at increasing stimulus intensities of 25, 50, 75, and 100% of the maximal stimulus. Evoked firing was recorded at 5 increasing membrane potentials, ranging from − 90 to − 50 mV. AiP stimulation was applied at the ▼. B. Comparison of the average spike time of the first spike evoked in the principal neuron (6.9 ± 0.5 ms, black) and PV interneuron (10.9 ± 1.9 ms, red) at 100% stimulus intensity. C. Spike probability of the stimulus evoked action potential firing in principal neurons (black) and PV interneurons (red) at 100% stimulus intensity. D. Spike probability of the stimulus evoked firing in principal neurons (black) and PV interneurons (red) at increasing stimulus intensities, when recorded at a membrane voltage of − 60 mV. E. The spike time of the first spike evoked in principal neurons (black) and PV interneurons (red) after stimulation at increasing stimulus intensities, when recorded at a membrane voltage of − 60 mV. Numbers indicate the N-value of how many cells spiked upon stimulation.
+
+Abbreviations: PrN, principal neuron; PV, parvalbumin expressing interneuron; AiP, agranular insular cortex.
+
+We showed above that the timing of inhibitory conductance was consistent at increasing stimulus intensities, whereas the latency of the excitatory conductance systematically became smaller (Fig. 4). As expected, we found that the first spike in the PV interneurons was evoked consistently at the same time in relation to the stimulus, independent of the stimulus intensity, whereas the first spike occurred earlier in time in the principal neurons with increasing stimulus intensity (Fig. 6A, E). We hypothesize that the PV interneurons are the main driver for the inhibitory conductance evoked in principal neurons after stimulation.
+
+PV interneurons account for the fast acting inhibition in principal neurons
+Next, we related the PV firing to the inhibitory synaptic component in the principal neurons. To examine whether the firing of PV interneurons in the local PER-LEC network can account for the Ginh recorded in principal neurons, we simultaneously recorded the synaptic conductance in the principal neurons and the action potential firing in the PV interneuron after AiP stimulation.
+
+Fig. 7A shows example traces of the spiking pattern of a PV interneuron and the simultaneously recorded Ginh in the principal neuron at increasing stimulus intensities (25, 50, 75, and 100% of the maximal stimulus intensity). We observed that the Gexc was evoked before the first spike in the PV interneuron at different stimulus intensities (Table 4, Fig. 7B, blue). The Ginh however, was evoked around the first spike time of the PV interneuron (Table 4, Fig. 7B, red). To address whether the PV interneuron population can account for the large inhibitory conductance evoked in principal neurons, we examined whether the number of spikes before the peak Ginh was related to the simultaneously recorded peak amplitude of the Ginh in the principal neuron. We found a strong correlation between the number of evoked spikes in the PV interneuron before the peak Ginh and the peak amplitude of the Ginh in the principal neuron after stimulation of at all stimulus intensities (linear regression, 25%: P = .0038, 50%: P = .0003, 75%: P = .0004, 100%: P = .0002; Fig. 7C). This data suggests that the spiking of the PV interneurons specifically can result in the large Ginh evoked in the principal neurons after AiP stimulation.
+
+Fig. 7
+Download high-res image (528KB)Download full-size image
+Fig. 7. PV interneuron firing can account for the fast acting Ginh evoked in principal neurons. A. Typical example traces of the evoked Gexc (blue trace) and Ginh in the principal neuron (red trace) with on top the rasterplot of the action potentials simultaneously evoked in the PV interneuron after stimulation at 25, 50, 75 and 100% of the maximal stimulus intensity. AiP stimulation was applied at the ▼. The trace represents the average of three consecutive recorded responses. B. Distribution plots of the timing of the Gexc (blue) and Ginh (red) in relation to the first spike time (at 0 ms) at 4 stimulus intensities. C. Relation between the number of PV spikes occurring before the Ginh peak and the Ginh peak amplitude at 4 stimulus intensities (25%: rS = 0.76, 50%: rS = 0.83, 75%: rS = 0.82, 100%: rS = 0.84).
+
+Abbreviations: PV, parvalbumin expressing interneuron; Gexc, excitatory conductance; Ginh, inhibitory conductance; AiP, agranular insular cortex.
+
+Table 4. Timing of the Gexc and Ginh relative to the first PV spike.
+
+Stimulus intensity	Gexc	Ginh	P-value (t-test)
+25%	− 2.4 ± 0.4 ms	− 0.03 ± 0.6 ms	.0007
+50%	− 2.6 ± 0.7 ms	0.1 ± 0.5 ms	.0007
+75%	− 1.9 ± 0.3 ms	1.8 ± 1.2 ms	.0097
+100%	− 2.0 ± 0.3 ms	1.0 ± 0.5 ms	.0000
+All values are mean ± SEM.
+
+Abbreviations: Gexc, excitatory conductance; Ginh, inhibitory conductance; AiP, agranular insular cortex.
+
+
+DISCUSSION
+This study was conducted to answer the question whether neocortical input is transmitted via the superficial layers of the PER-LEC network. We showed earlier that a strong inhibitory response in the deep layers blocks the output pathway of the hippocampus (Willems et al., 2018) and we hypothesize that the superficial layers are facilitated due to different activation of inhibition and excitation in the local network. In this study we compared action potential firing and the transient excitation-inhibition dynamics in response to a neocortical stimulus in the AiP to examine the differences in excitability between the superficial and deep layers of the PER-LEC network. This revealed that the synaptic strength is larger in superficial layer principal neurons and the timing of excitation and inhibition results in a larger peak in the excitability ratio. Hereby, the synaptic input induces action potentials in superficial layer neurons, regulated by accurate timing of PV interneuron mediated inhibition.
+
+Principal neurons in the superficial layers are more responsive to AiP stimulation than in the deep layers
+The recruitment of the principal neurons in the superficial and deep layers of the PER-LEC differs in response to AiP stimulation in this particular mouse brain slice preparation: a larger population of neurons responded to a synaptic input with action potential firing in the superficial layers than in the deep layers. These findings are in line with data of de Villers-Sidani et al. (2004) showing that there is a separated bidirectional pattern of synaptic interactions in the superficial and deep layers of the PER-LEC network (de Villers-Sidani et al., 2004).
+
+Superficial layer neurons had a slightly lower threshold for action potential firing compared to deep layer principal neurons. It is however unlikely that this small difference solely can explain the large difference in the number of responsive neurons, since the voltage difference between the resting membrane potential and the AP threshold was not different. Moreover, the synaptic strength was much larger in superficial layer neurons. Anatomical in vivo data showed evidence that projections from the AiP along the rostrocaudal axis mainly converge onto the superficial layers and less onto the deep layers of the PER and LEC (Mathiasen et al., 2015). It is therefore expected that the differences in responsiveness are due to the differences in synaptic strength. As different track tracing experiments show slightly different density results across layers (Mathiasen et al., 2015, Leitner et al., 2016) and distinct classes of superficial principal neurons are identified (Beggs and Kairiss, 1994, Canto and Witter, 2012), it would be interesting to focus on differences the physiological properties in specific cortical layers.
+
+After stimulation of the AiP superficial layers, the evoked excitatory and inhibitory responses were first detected in the superficial layer neurons and subsequently the deep layer neurons received input. To understand this latency difference, the morphological differences between deep and superficial layer neurons should be taken in consideration. A detailed analysis of the morphology of LEC neurons showed that the dendritic tree of superficial layer neurons mainly stays in the superficial layers whereas deep layer neuron dendrites extend into all layers of the LEC (Lingenhöhl and Finch, 1991, Canto and Witter, 2012). Accordingly, AiP axons running superficially could target the dendrites of both superficial and deep layer neurons within this superficial area. However, more time is needed to conduct the evoked synaptic currents along the large dendritic tree to the deep layer somas as the dendritic conduction time in these large deep layer principal neurons can take up to 5 ms before the synaptic evoked current reaches the soma (Jarsky et al., 2005). Consistent with this, we found that the deep neurons receive the synaptic input 1.7 ms later than the superficial layer neurons.
+
+The excitability ratio revealed that the net excitatory input is larger and earlier in superficial principal neurons compared to deep layer neurons. This period of net excitability forms a window of opportunity for spiking which is thus larger in superficial neurons. The fast inhibition following the excitation in both superficial and deep layer neurons can track and control the action potential firing on a millisecond time scale (Denève and Machens, 2016). Furthermore, a balanced cortical network ensures reliable operation of the network in response to various synaptic inputs (Rubin et al., 2017). In line with this theory is the concept that these separate cortical networks have to operate accurately: if superficial layers are transmitting activity, deep layers should be silenced. Evidence for this concept is found in vivo in the medial entorhinal cortex, where deep layer neurons are particularly silent compared to superficial neurons during a novel environment exploration task (Burgalossi et al., 2014).
+
+These experiments were performed in an in vitro brain slice paradigm to understand the responses of superficial and deep layer neurons to a single synaptic input from the AiP. It has to be noted that in the in vivo brain, neurons in the cortex are constantly bombarded with synaptic noise, resulting in a high conductance state (Destexhe et al., 2003). It is therefore likely that neurons are more responsive in vivo, than when they are recorded in vitro. Still, the synaptic strength difference found in this study persists, eventually also resulting in a more responsive population of superficial layer neurons, compared to the deep layers.
+
+Altogether, these findings confirm the hypothesis that AiP input drives the superficial layers of the PER-LEC network to transmit the activity while the output pathway in the deep layers is inhibited.
+
+PV interneurons tightly regulate the inhibitory input onto superficial layer neurons
+Superficial layer principal neuron activity has to be tightly regulated by input from inhibitory interneurons. This study showed that local PV interneurons in the superficial layers are functionally connected to principal neurons. Analysis of the AiP evoked synaptic currents revealed that PV interneurons receive excitatory input earlier and they spike faster, compared to principal neurons, indicating that PV interneurons in the superficial layers are directly activated after AiP stimulation. PV interneurons are recruited in a comparable way in the PER-LEC deep layers, with the only difference that PV interneurons are more effective in blocking the principal neuron output in the deep layers in response to a superficial AiP stimulus (Willems et al., 2018).
+
+We found that the first emitted spike of the superficial layer principal neurons and PV interneurons behaves differently to increasing stimulus intensities: the latency of the first spike in the principal neuron decreased with increasing stimulus intensity, while the PV interneuron spiked at a constant, stimulus intensity independent, latency. In line with this, we found that the excitatory conductance arose earlier at higher stimulus intensities, whereas the inhibitory conductance was evoked at a consistent time after every stimulus in the superficial principal neurons, creating a window of opportunity for spiking.
+
+PV interneurons played a crucial role in the construction of this small window of opportunity for principal neuron firing. The very strong correlation between the amount of spikes in the PV interneuron and the peak amplitude of the simultaneously recorded inhibitory conductance in the principal neuron illustrated that the PV interneurons account for the large inhibitory conductance evoked in the principal neurons. This suggests that local PV interneurons regulate the inhibition onto principal neurons and thereby control the temporal firing pattern of principal neurons (Miles et al., 1996, Klausberger and Somogyi, 2008). Furthermore, PV interneurons in the superficial layers probably behave very similarly, as one population, since the total amount of inhibition evoked in principal neurons is likely the result of the activity of many PV interneurons (Packer and Yuste, 2011).
+
+Mechanism for gating cortical input by the PER-LEC network
+A gate from the neocortex to the hippocampus, formed by the PER-LEC network, is hypothesized to actively select relevant information (de Curtis and Paré, 2004). The regulation of principal neuron firing by PV interneurons can be the underlying mechanism of this gate. This study showed that the time and amplitude relation between excitatory and inhibitory input neurons – the excitability ratio – evoked in principal creates a window of opportunity for spiking, selecting information for downstream information transfer. This gating mechanism consists of two aspects: 1) the accuracy of PV interneuron firing and 2) the timing and amplitude of the excitatory input. PV interneurons have been shown to respond promptly after receiving synaptic input, ensuring very consistent inhibition in principal neurons. Only when the timing of excitation is early enough and the excitatory input is large enough, the principal neuron can spike before the accurately timed inhibition emerges. Via the regulation of PV interneuron accuracy and timing of excitation in principal neurons, highly relevant information can be conducted to the hippocampus for processing.
+
+Together, this suggests that interference with the PV interneuron activity can influence the activity transmission through the PER-LEC network (Miles et al., 1996). However, the mechanism necessary for gating – to allow or retain information flow, is not elucidated in this study. Long range input from other brain structure might be necessary to operate the gating mechanism. Such regulation is for example seen in the form of long range septal input to the entorhinal cortex which can regulate principal neurons activity by inhibiting local network interneurons (Melzer et al., 2012).
+
+This study showed that superficial and deep layer neurons respond in a different fashion to a synaptic input from the AiP superficial layers. Superficial neurons have a favorable excitability ratio, created by different timing of the activated excitation and inhibition in the neuronal population. With increasing stimulus intensity, the activation of excitation occurs earlier, while the timing of the inhibition remains unchanged, creating accuracy in the activity of the excitatory network. The subsequent change in excitability ratio creates a larger window of opportunity for action potential firing in the superficial layer principal neurons in order to transmit neuronal activity towards to hippocampus for processing.
+
+Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Declaration of Competing Interest
+The authors declare no competing financial interests.
+
+References
+Barinka et al., 2012
+F Barinka, M Salaj, J Rybář, E Krajčovičová, H Kubová, R Druga
+Calretinin, parvalbumin and calbindin immunoreactive interneurons in perirhinal cortex and temporal area Te3V of the rat brain: qualitative and quantitative analyses
+Brain Res, 1436 (2012), pp. 68-80
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Beggs and Kairiss, 1994
+JM Beggs, EW Kairiss
+Electrophysiology and morphology of neurons in rat perirhinal cortex
+Brain Res, 665 (1994), pp. 18-32
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Biella et al., 2001
+G Biella, L Uva, M de Curtis
+Network activity evoked by neocortical stimulation in area 36 of the Guinea pig perirhinal cortex
+J Neurophysiol (2001), pp. 164-172
+CrossRefView Record in ScopusGoogle Scholar
+Biella et al., 2002
+G Biella, L Uva, M de Curtis
+Propagation of neuronal activity along the neocortical-perirhinal-entorhinal pathway in the Guinea pig
+J Neurosci, 22 (22) (2002), pp. 9972-9979
+View Record in ScopusGoogle Scholar
+von Bohlen und Halbach and Albrecht, 2002
+O von Bohlen und Halbach, D Albrecht
+Reciprocal connections of the hippocampal area CA1, the lateral nucleus of the amygdala and cortical areas in a combined horizontal slice preparation
+Neurosci Res, 44 (1) (2002), pp. 91-100
+View Record in ScopusGoogle Scholar
+Borges, 2015
+M Borges
+Peak detection
+Retrieved from
+https://www.mathworks.com/matlabcentral/fileexchange/47264-peakdet (2015)
+(January)
+Google Scholar
+Borg-Graham et al., 1998
+LJ Borg-Graham, C Monier, Y Frégnac
+Visual input evokes transient and strong shunting inhibition in visual cortical neurons
+Nature, 393 (6683) (1998), pp. 369-373
+CrossRefView Record in ScopusGoogle Scholar
+Burgalossi et al., 2014
+A Burgalossi, M von Heimendahl, M Brecht
+Deep layer neurons in the rat medial entorhinal cortex fire sparsely irrespective of spatial novelty
+Frontiers in Neural Circuits, 8 (2014), p. 74
+Google Scholar
+Burwell, 2000
+RD Burwell
+The parahippocampal region: corticocortical connectivity
+Ann N Y Acad Sci, 911 (2000), pp. 25-42
+View Record in ScopusGoogle Scholar
+Burwell and Amaral, 1998a
+RD Burwell, DG Amaral
+Cortical afferents of the perirhinal, postrhinal, and entorhinal cortices of the rat
+J Comp Neurol, 398 (2) (1998), pp. 179-205
+CrossRefView Record in ScopusGoogle Scholar
+Burwell and Amaral, 1998b
+RD Burwell, DG Amaral
+Perirhinal and postrhinal cortices of the rat: interconnectivity and connections with the entorhinal cortex
+J Comp Neurol, 391 (3) (1998), pp. 293-321
+CrossRefView Record in ScopusGoogle Scholar
+Burwell and Witter, 2002
+RD Burwell, MP Witter
+MP Witter, FG Wouterlood (Eds.), The Parahippocampal region: Organization and role in cognitive function, Oxford University Press (2002), pp. 35-59
+Basic anatomy of the parahippocampal region in monkeys and rats
+Google Scholar
+Buzsáki, 1996
+G Buzsáki
+The hippocampo-neocortical dialogue
+Cereb Cortex, 6 (2) (1996), pp. 81-92
+CrossRefView Record in ScopusGoogle Scholar
+Canto and Witter, 2012
+CB Canto, MP Witter
+Cellular properties of principal neurons in the rat entorhinal cortex. I. the lateral entorhinal cortex
+Hippocampus, 22 (6) (2012), pp. 1256-1276
+CrossRefView Record in ScopusGoogle Scholar
+Canto et al., 2008
+CB Canto, FG Wouterlood, MP Witter
+What does the anatomical organization of the entorhinal cortex tell us?
+Neural Plast, 2008 (2008), Article 381243
+Google Scholar
+Cappaert et al., 2014
+N Cappaert, N Van Strien, MP Witter
+Hippocampal formation
+G Paxinos (Ed.), The rat nervous system, Elsevier, Amsterdam (2014), pp. 511-573
+Google Scholar
+de Curtis and Paré, 2004
+M de Curtis, D Paré
+The rhinal cortices: a wall of inhibition between the neocortex and the hippocampus
+Prog Neurobiol, 74 (2) (2004), pp. 101-110
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Denève and Machens, 2016
+S Denève, CK Machens
+Efficient codes and balanced networks
+Nat Neurosci, 19 (3) (2016), pp. 375-382
+CrossRefView Record in ScopusGoogle Scholar
+Destexhe et al., 2003
+A Destexhe, M Rudolph, D Paré
+The high-conductance state of neocortical neurons in vivo
+Nat Rev Neurosci, 4 (9) (2003), pp. 739-751
+CrossRefView Record in ScopusGoogle Scholar
+Fernández and Tendolkar, 2006
+G Fernández, I Tendolkar
+The rhinal cortex: “gatekeeper” of the declarative memory system
+Trends Cogn Sci, 10 (8) (2006), pp. 358-362
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Furtak et al., 2007
+SC Furtak, SM Wei, KL Agster, RD Burwell
+Functional neuroanatomy of the parahippocampal region in the rat: the perirhinal and postrhinal cortices
+Hippocampus, 17 (9) (2007), pp. 709-722
+CrossRefView Record in ScopusGoogle Scholar
+Higley and Contreras, 2006
+MJ Higley, D Contreras
+Balanced excitation and inhibition determine spike timing during frequency adaptation
+J Neurosci, 26 (2) (2006), pp. 448-457

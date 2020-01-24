@@ -1,0 +1,468 @@
+Map reading, navigating from maps, and the medial
+temporal lobe
+Zhisen J. Urgolitesa,b, Soyun Kimc
+, Ramona O. Hopkinsd,e,f, and Larry R. Squirea,b,g,h,1
+a
+Veterans Affairs San Diego Healthcare System, San Diego, CA 92161; b
+Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093; c
+Department of Neurobiology and Behavior, University of California, Irvine, CA 92697; d
+Department of Psychology, Brigham Young University, Provo,
+UT 84143; e
+Neuroscience Center, Brigham Young University, Provo, UT 84143; f
+Department of Medicine, Pulmonary and Critical Care Division,
+Intermountain Medical Center, Murray, UT 84143; g
+Department of Neurosciences, University of California, San Diego, La Jolla, CA 92093; and h
+Department
+of Psychology, University of California, San Diego, La Jolla, CA 92093
+Contributed by Larry R. Squire, October 27, 2016 (sent for review October 10, 2016; reviewed by Howard Eichenbaum and Joseph R. Manns)
+We administered map-reading tasks in which participants navigated
+an array of marks on the floor by following paths on hand-held maps
+that made up to nine turns. The burden on memory was minimal
+because the map was always available. Nevertheless, because the
+map was held in a fixed position in relation to the body, spatial
+computations were continually needed to transform map coordinates
+into geographical coordinates as participants followed the maps.
+Patients with lesions limited to the hippocampus (n = 5) performed
+similar to controls at all path lengths (experiment 1). They were also
+intact at executing single moves to an adjacent location, even when
+trials began by facing in a direction that put the map coordinates and
+geographical coordinates into conflict (experiment 2). By contrast, one
+patient with large medial temporal lobe (MTL) lesions performed
+poorly overall in experiment 1 and poorly in experiment 2 when trials
+began by facing in the direction that placed the map coordinates and
+geographical coordinates in maximal conflict. Directly after testing, all
+patients were impaired at remembering factual details about the task.
+The findings suggest that the hippocampus is not needed to carry out
+the spatial computations needed for map reading and navigating from
+maps. The impairment in map reading associated with large MTL lesions may depend on damage in or near the parahippocampal cortex.
+hippocampus | memory | spatial navigation
+Two views have been central to discussions about the function of
+the hippocampus. One view grew out of work with humans,
+and emphasizes the importance of the hippocampus for memory
+(1, 2). By this view, the hippocampus is important for the formation
+of long-term (declarative) memory, not for immediate memory or
+for its maintenance by what is ordinarily termed working memory.
+The second view grew out of work with rodents, and emphasizes
+the importance of the hippocampus for spatial navigation (3, 4).
+The suggestion here is that the hippocampus is needed to perform
+certain online spatial computations. In one sense, these views are
+compatible because spatial memory is a type of memory. However,
+a potential conflict arises when one turns to tasks of spatial navigation that are manageable within working memory. What is the
+role of the hippocampus in this circumstance?
+A number of studies have explored the possible importance of
+the human hippocampus for spatial tasks, including navigation.
+For example, one study reported hippocampal activity during
+topographical learning of a real-world environment (through
+viewing films) but less activity during the learning of events that
+occurred in the environment (5). Other studies reported that the
+hippocampus exhibited more activity when participants accurately navigated through familiar, virtual-reality towns than when
+participants needed only to follow a marked route through the
+same towns (6, 7). In addition, patients with hippocampal lesions
+were impaired at navigational tasks involving recently explored
+environments (8–10).
+It is notable that the spatial tasks in these studies appear to
+involve either encoding of spatial information into long-term
+memory or retrieval of recently acquired spatial information. A
+question therefore remains about the role of the hippocampus in
+spatial navigation tasks that might be manageable within working
+memory, which is thought to be independent of the hippocampus.
+For example, in tasks of path integration, participants search for a
+target in the dark and then try to return to the start point. In this
+situation, working memory appears to support performance. Participants report trying to hold the start location in mind and trying
+to update their position as they move. Moreover, even healthy
+individuals performed successfully only when they traveled short
+distances in a short amount of time and made no more than two or
+three turns. With more complex paths, participants became lost
+and performed poorly (11). In two studies, performance on path
+integration tasks was fully intact in patients with hippocampal lesions or large medial temporal lobe (MTL) lesions (11, 12).
+There are other tasks that require different spatial computations
+from path integration and that place even less burden on memory.
+For example, consider a task of navigation that requires following a
+path as directed by a hand-held map that is always in a fixed position relative to the body. In this case, there is little burden on
+memory because the map is always available. Nevertheless, because
+the map is held in a fixed position, spatial computations are continually needed as one moves through space to transform map
+coordinates into spatial coordinates in the environment. The
+question of interest is whether performance in such a task would be
+intact after hippocampal lesions (because working memory can
+support performance as needed). Alternatively, performance might
+be impaired because the spatial requirements of the task depend
+on the hippocampus, and the hippocampus supports certain spatial
+functions regardless of the burden on memory.
+Significance
+The hippocampus has been linked to both memory and spatial
+cognition, but these ideas are not entirely compatible. We administered navigation tasks in which participants transformed
+map coordinates into geographical coordinates to follow paths
+indicated on maps. Patients with limited hippocampal lesions
+performed normally. A patient with large lesions that damaged
+the hippocampus as well as the adjacent parahippocampal gyrus
+was impaired. All the patients were impaired at remembering
+facts about the task. The findings suggest that the spatial computations needed for navigating from maps are independent of
+the hippocampus. The impairment after large medial temporal
+lobe lesions may result from damage to the posterior parahippocampal gyrus. The findings emphasize the importance of
+the hippocampus for memory functions.
+Author contributions: S.K. and L.R.S. designed research; S.K. performed research; R.O.H.
+contributed new reagents/analytic tools; Z.J.U. and S.K. analyzed data; and Z.J.U. and
+L.R.S. wrote the paper.
+Reviewers: H.E., Center for Memory and Brain, Boston University; and J.R.M., Emory
+University.
+The authors declare no conflict of interest.
+1
+To whom correspondence should be addressed. Email: lsquire@ucsd.edu.
+www.pnas.org/cgi/doi/10.1073/pnas.1617786113 PNAS | December 13, 2016 | vol. 113 | no. 50 | 14289–14293
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+NEUROSCIENCE
+It was reported informally that the severely amnesic patient
+H.M. was impaired in a map-reading task when he needed to
+follow a path indicated on a map (13), but no details were given.
+To illuminate the role of the hippocampus in spatial navigation, we
+have administered map-reading tasks that required navigation but
+were intended to be manageable within working memory. In the
+tasks, participants navigated an array of marks on the floor by
+following paths on hand-held maps (Fig. 1). We gave these tests to
+five memory-impaired patients with damage limited to the hippocampus, one patient with large MTL lesions, and controls (13 in
+experiment 1; 12 in experiment 2).
+Results
+Experiment 1. Performance was measured as the percentage of
+successfully completed paths at each path length (three trials per
+path length) (Fig. 2A). For all three groups of participants,
+performance declined as the total number of turns in a path
+increased. The hippocampal patients performed similar to the
+controls across path lengths (F[1,16] = 0.07, P > 0.10). The patient with large MTL lesions performed worse than the controls
+at all path lengths (Ps ≤ 0.05), except for the paths involving two
+turns. Both the hippocampal patients and the MTL patient were
+markedly impaired at remembering factual details about the
+experiment (Ps < 0.01; Fig. 2B).
+For hippocampal patients and controls, longer paths were
+more difficult than shorter paths simply because there was a
+constant probability of error at each turn (Fig. 3). As a result, as
+turns accumulated and paths grew longer, it became more difficult to complete the path correctly. Fig. 3 shows that the error
+rate was similar for turns that occurred early and late along the
+path. For example, the error rates for both the hippocampal and
+control groups at turns 8 and 9 were virtually the same as the
+error rates at turns 1 and 2 (t[17] = 0.06, P > 0.10). Note that a
+constant error rate at each turn (5% for controls and hippocampal patients) closely predicted performance scores on paths
+of different lengths. Specifically, a regression analysis using this
+constant error rate to predict performance scores across path
+lengths explained 75.2% of the variance in the hippocampal
+group (r = 0.87, P < 0.01) and 64.8% of the variance in the
+control group (r = 0.80, P < 0.01). The patient with large MTL
+lesions had irregular error rates across turns (Fig. 3).
+Experiment 2. Performance was measured as the number of successfully completed trials for each facing direction (Fig. 4). For
+controls, trials that began by facing south were marginally more
+difficult than trials that began by facing other directions (Ps <
+0.06). The hippocampal patients performed similar to the controls
+at all facing directions (F[1,15] = 0.41, P > 0.10). The patient with
+MTL lesions performed similar to the controls when he began by
+facing north, east, or west (Ps > 0.10) but was severely impaired
+when he began by facing south (P < 0.05). Several controls and
+patients commented that the trials were more difficult when they
+began by facing south. One patient commented that “you had to
+visualize yourself facing north.” Another patient stated, “you gotta
+look for the N [north].”
+In both experiments 1 and 2, hippocampal patients performed
+similarly on the two test sessions. In experiment 1, the hippocampal patients scored 71.7 ± 6.3% correct on the first test and
+80.8 ± 4.5% correct on the second test (P = 0.10; controls 78.9 ±
+5.8%). In experiment 2, the hippocampal patients scored 86.7 ±
+3.3% correct on the first test and 89.2 ± 3.9% correct on the
+second test (P > 0.10; controls 91.0 ± 4.2%). G.P. scored 45.8%
+correct and then 54.2% correct in experiment 1 and 91.7%
+correct and then 75.0% correct in experiment 2.
+Discussion
+We investigated the role of the hippocampus in map reading.
+Participants navigated an array of marks on the floor by following paths on hand-held maps. Because the maps were held in
+a fixed position relative to the body, spatial computations were
+continually needed as one moved through space to transform
+map coordinates into geographical coordinates. In experiment 1,
+Fig. 1. Sample maps from experiment 1 (Left) and experiment 2 (Right).
+Participants walked a 3 × 3 array (2.8-m square), following paths indicated
+on hand-held maps. The maps were held in a fixed position during testing,
+with north (indicated by N on the map) always farthest from the body. The
+letter N was also posted on the north wall of the room to indicate geographical north. In experiment 1, participants began by facing north, and
+path lengths ranged from one to nine turns. The move away from the start
+position (the highlighted circle) was not counted as a turn, so the sample
+map shown here consists of five turns. In experiment 2, participants began
+by facing a particular direction (north, south, east, or west) and then turned
+to make a single move to an adjacent location.
+Fig. 2. (A) Success rate at completing a path as a function of the total number of turns in the path (experiment 1). Three trials were given at each of eight
+path lengths (24 different maps). There were no paths involving four turns. (B) Accuracy at answering eight factual questions about the task immediately
+after completing the final path. CON, controls (n = 13); H, patients with lesions limited to the hippocampus (n = 5); MTL, a patient with large lesions of the
+MTL. Error bars denote SEs.
+14290 | www.pnas.org/cgi/doi/10.1073/pnas.1617786113 Urgolites et al.
+the paths required making one to nine turns. Patients with lesions
+limited to the hippocampus performed similar to controls at all path
+lengths (Fig. 2A). In addition, both patients and controls had similar
+error rates at each turn, regardless of whether a turn occurred early
+or late in the path (Fig. 3). Unlike the patients with hippocampal
+lesions, the patient with large MTL lesions performed poorly
+overall (except for paths involving two turns) and had irregular
+error rates. Last, both the hippocampal patients and the MTL patient were impaired at recalling factual details about the task immediately after completing the final path (Fig. 2B). In experiment 2,
+participants began each trial facing in a particular direction (north,
+south, east, or west). Participants then turned and made a single
+move in one direction as directed by the map. The hippocampal
+patients performed similar to the controls at all facing directions.
+The MTL patient performed as well as the controls when he began
+by facing north, east, or west. However, he was severely impaired
+when he began by facing south, the condition that placed map coordinates and geographical coordinates in maximal conflict.
+These findings suggest that the hippocampus is not needed for
+the spatial computations that support map reading and navigating
+from maps. In the study, the role of memory was minimal because
+the map was always available during testing, and participants
+needed only to keep the instructions in mind. In experiment 1, the
+error rates were constant at each turn. Thus, there was no cumulative burden on memory as paths increased in length. In experiment 2, participants needed only to view the map, transform the
+map coordinates into spatial coordinates for the room, and then
+execute a single move to an adjacent location.
+In earlier studies of path integration in patients with hippocampal lesions, patients also performed as well as controls, apparently by using working memory to hold a start location in mind
+as they moved through space (11, 12). These findings and the
+current findings are not inconsistent with the possibility that the
+computations needed for spatial tasks are carried out in parallel at
+more than one site (including the hippocampus). However, the
+findings count against the idea that the hippocampus is the only
+site that can carry out the computations.
+Our findings complement the results of earlier studies of spatial
+learning and memory. In these studies, patients with bilateral hippocampal damage or unilateral temporal lobe lesions learned about
+a new environment and were then tested for their ability to recall
+locations, navigate the environment, draw maps of the environment,
+or make judgments about the distance and proximity of locations
+(8–10). The patients were impaired on these tasks, consistent with
+the demonstrated importance of the hippocampus in tasks that require the formation of long-term memory. By contrast, the present
+study shows that performance on spatial tasks was intact after
+hippocampal lesions when the tasks did not require new learning,
+as in map reading. However, when a requirement for long-term
+memory was introduced in the same context, by asking questions about what occurred during testing, performance was
+markedly impaired.
+The MTL patient (G.P.) was impaired in map reading at nearly
+all path lengths (experiment 1) and at single-move paths when
+trials began by facing south (experiment 2). Note that south-facing
+trials were difficult for all participants (Fig. 4). In these trials, the
+map is rotated 180° from geographical north. Accordingly, the direction indicated by the arrow is opposite the direction in which the
+participants should move.
+Patient G.P. has extensive MTL damage that involves most of
+the hippocampus, entorhinal cortex, temporopolar cortex, perirhinal cortex, and parahippocampal cortex bilaterally [see ref. 14
+for eight coronal magnetic resonance (MR) images and detailed
+description of the lesion]. On the basis of neurohistological findings from a similar case (15), we recognize that loss of afferent and
+efferent connections to and from the MTL in G.P. could have
+resulted in abnormal tissue in areas beyond what was detected in
+the MR images. In any case, one possibility is that damage to the
+parahippocampal cortex is responsible for G.P.’s impairment. The
+parahippocampal cortex receives projections from dorsal visuospatial processing areas, including the posterior parietal cortex
+(16), and damage to the parahippocampal cortex in humans and
+nonhuman primates is sufficient to disrupt spatial learning and
+memory (17, 18). In addition, in humans, a region including the
+parahippocampal cortex (termed the parahippocampal place area)
+was found to respond selectively to scenes that showed layouts of
+local space, even when there was no requirement to learn or remember (19). Although G.P. does not exhibit the marked topographical disorientation that has been described after damage to
+this region (20, 21), he did poorly in the present study when he had
+to operate between different sets of spatial coordinates.
+Despite this impairment, G.P. performed well in earlier studies
+of path integration, which also require navigation and spatial
+computations (11, 12). Moreover, the severely amnesic patient E.P.
+(15), whose MTL lesion was similar to G.P.’s lesion, performed as
+well as controls at mentally navigating the environment where he
+and the controls grew up (22). E.P. was not tested on map reading.
+In any case, path integration and mental navigation tasks are not
+Fig. 4. Success rate at following map paths when facing different directions
+at the start point (experiment 2). Each path required only one move (Fig. 1,
+Right). Note that when a participant began by facing south, the orientation
+of the map (which was held in a fixed position against the body) was rotated
+180° from true north. Accordingly, the direction indicated by the arrow was
+opposite the direction in which the participant needed to move. Error bars
+denote SEs.
+Fig. 3. Probability of making an error on the nth turn of the path given
+perfect performance through turn n − 1 (n = 1–9; experiment 1). Trials
+ended when an error was made. Error bars denote SEs.
+Urgolites et al. PNAS | December 13, 2016 | vol. 113 | no. 50 | 14291
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+NEUROSCIENCE
+the same as map reading and do not require the specific computations that are needed in map reading to transform map coordinates into room coordinates. Accordingly, we suggest that executing
+the computations unique to map reading may depend on areas in
+or near the parahippocampal cortex that are part of the parahippocampal place area. The same suggestion may account for
+patient H.M.’s difficulty on an apparently similar task (13). That is,
+his impairment likely depends not on hippocampal damage but on
+damage to the adjacent cortex.
+Because G.P.’s memory impairment is so severe, we considered
+the possibility that his memory impairment might have somehow
+disrupted his performance on the map-reading tasks. For example,
+he might have forgotten the instructions, particularly in experiment 1, when he needed to follow maps through as many as nine
+turns. However, this possibility seems unlikely, because in other
+tests involving navigation, G.P. was readily able to hold instructions in mind (presumably in working memory) when trials extended across 15–30 s (11, 12). In other tests as well, his working
+memory capacity appeared to be intact (23, 24).
+In summary, patients with restricted hippocampal lesions performed as well as controls in two map-reading tasks, when participants needed to transform map coordinates into geographical
+coordinates. However, directly after testing, the patients were impaired at recalling facts about the task itself. In contrast to the
+findings for hippocampal patients, a patient with large MTL lesions
+was markedly impaired at both map-reading tasks. The findings
+indicate that the hippocampus is not needed to carry out the specific computations involved in map reading, although it is essential
+for remembering the facts about the testing session. We suggest that
+the impairment in map reading associated with large MTL lesions
+may result from damage in or near the parahippocampal cortex.
+Materials and Methods
+Participants. Six memory-impaired patients participated, five with bilateral
+lesions thought to be limited to the hippocampus (CA fields, dentate gyrus,
+and subicular complex) and one with larger MTL lesions (Table 1). Patients
+R.S. and D.A. became amnesic in 1998 and 2011, respectively, following a
+drug overdose and associated respiratory failure. Patient K.E. became amnesic in 2004 after an episode of ischemia associated with kidney failure and
+toxic shock syndrome. Patient L.J. (the only female) became amnesic in 1988
+during a 6-mo period with no known precipitating event. Her memory impairment has been stable since that time. Patient J.R.W. became amnesic in
+1990 following an anoxic episode associated with cardiac arrest.
+Estimates of MTL damage were based on quantitative analysis of MR images
+from 19 age-matched, healthy males for K.E., R.S., J.R.W., and G.P., 8 younger
+healthy males for D.A., and 11 age-matched, healthy females for patient L.J. (25).
+Patients K.E., R.S., J.R.W., L.J., and D.A. have an average bilateral reduction in
+hippocampal volume of 49%, 33%, 44%, 46%, and 35%, respectively. All values are more than 2.9 SDs from the control mean. On the basis of two patients
+(L.M. and W.H.) with similar bilateral volume loss in the hippocampus for whom
+detailed postmortem neurohistological information was obtained (2), the degree of volume loss in these six patients may reflect nearly complete loss of
+hippocampal neurons. The volume of the parahippocampal gyrus (including
+temporopolar, perirhinal, entorhinal, and parahippocampal cortices) is reduced
+by 11%, −5%, 12%, −17%, and −5% for K.E., R.S., J.R.W., L.J., and D.A., respectively (all values are within 2 SDs of the control mean). These values are
+based on published guidelines for identifying the boundaries of the parahippocampal gyrus (26, 27). Negative values indicate instances where the volume was larger for a patient than for controls.
+One patient (G.P.) has severe memory impairment resulting from viral
+encephalitis. His memory impairment is so severe that, during repeated
+testing over many weeks, he did not recognize that he had been tested
+before (28). G.P. has an average bilateral reduction in hippocampal volume
+of 96%. The volume of the parahippocampal gyrus is reduced by 94%. Eight
+coronal MR images from each patient, together with detailed descriptions of
+the lesions, can be found elsewhere (14).
+Thirteen healthy volunteers participated in experiment 1, including three
+females (mean age 64 ± 9.8 y; range 47–78 y; mean education14 ± 2.0 y;
+patients: mean age 59 y; mean education 13 y; Table 1). Twelve of these 13
+volunteers participated in experiment 2. All procedures were approved by
+the Institutional Review Board at the University of California, San Diego, and
+participants gave written informed consent before participation.
+Procedure. The tasks were based on a navigation test described earlier (29).
+Participants attempted to follow paths indicated on 30.5-cm × 30.5-cm maps
+(Fig. 1). The black letter “N” appeared at the top of each map to indicate
+north. The 3 × 3 array of circles on the maps corresponded to an array of nine
+circular markers (15.3-cm diameter) placed on the floor of an indoor space. The
+array on the floor measured 2.8-m square. A red letter N was fixed to the
+north wall of the room to indicate geographical north. Participants were asked
+to navigate the array on the floor by following the path indicated on the map.
+Importantly, they were instructed to maintain the map in a fixed orientation
+with the N on the map always away from the body. Participants were also
+instructed to walk only forward (i.e., not backward or sideways). Accordingly,
+as participants made turns, the orientation of the hand-held maps was frequently rotated away from true north. Thus, to navigate correctly, participants
+needed to continually translate the spatial coordinates of the map into geographical coordinates. One of the experimenters recorded the path taken by
+each participant. A trial ended when a participant made an error by moving to
+the wrong point on the floor.
+Table 1. Characteristics of memory-impaired patients
+WMS-R
+Patient Age, y Education, y WAIS-III IQ Attention Verbal Visual General Delay
+D.A. 31 12 95 104 90 91 90 56
+K.E. 72 13.5 108 114 64 84 72 55
+L.J. 76 12 101 105 83 60 69 <50
+R.S. 57 12 99 99 85 81 82 <50
+J.R.W. 51 12 90 87 65 95 70 <50
+G.P. 67 16 98 102 79 62 66 50
+The Wechsler Adult Intelligence Scale (WAIS-III) and the Wechsler Memory Scale-Revised (WMS-R) yield mean scores of 100 in the
+normal population with an SD of 15. The WMS-R does not provide numerical scores for individuals who score below 50. The IQ score
+for D.A. is from the Wechsler Adult Intelligence Scale IV.
+Table 2. Factual questions about experiment 1
+Item Questions
+i) How many sample maps did I show you while I was giving
+you the instructions?
+ii) How many practice trials were you given in the beginning
+of this test?
+iii) During the practice trials, who took you to the start dot?
+iv) How many regular trials do you think were given during
+this test?
+v) What was the color of the letter N on the map?
+vi) What was the color of the letter N on the whiteboard?
+vii) While following a path, what was the maximum number of
+turns you think you made?
+viii) While following a path, what was the minimum number
+of turns you think you made?
+14292 | www.pnas.org/cgi/doi/10.1073/pnas.1617786113 Urgolites et al.
+Experiment 1. Participants attempted to follow each of 24 different paths (Fig. 1,
+Left). The paths involved one, two, three, five, six, seven, eight, or nine turns (three
+of each of the eight types) and could start at any circle in the array except for the
+four circles at the corners. The number of turns in the path refers to the number of
+times during a trial that a participant needed to turn the body to proceed to the
+next point on the path. The first move away from the start position did not count
+as a turn. Testing began with two practice trials (no feedback).
+For formal testing, trials began with participants facing north and standing
+on the start circle. Immediately after completing all 24 trials, participants were
+asked to recall eight facts about the task (Table 2). Controls were tested once,
+and patients were tested twice with the same 24 maps (mean 65 d between
+tests). The factual questions were asked only after the first session. The maps
+were presented in a different mixed order for each participant.
+Experiment 2. Participants attempted to follow 24 different paths, each requiring only one move (Fig. 1, Right). Trials began with participants facing
+north (two trials), west (nine trials), east (five trials), or south (eight trials)
+and standing on one of the circles in the array (but not at a corner). The
+facing directions and the start locations were those that were the most
+difficult for participants in experiment 1. The end point of the path could be
+any of the adjacent circles in the array (except for the circle that could be
+reached by walking straight ahead). Before testing, two practice trials were
+given (with feedback). Controls were tested once, and patients were tested
+twice (mean 52 d between tests). The maps were presented in a different
+mixed order for each participant.
+ACKNOWLEDGMENTS. We thank Jennifer Frascino and Erin Light for
+assistance and Christine N. Smith for helpful comments. This work was
+supported by the Medical Research Service of the Department of Veterans
+Affairs (5I01CX000359), National Science Foundation 1120395, and National
+Institute of Mental Health 24600 (L.R.S.), and NIH Training Grants
+5T32AG000216 and 5T32MH020002 (to Z.J.U.).
+1. Squire LR (1992) Memory and the hippocampus: A synthesis from findings with rats,
+monkeys, and humans. Psychol Rev 99(2):195–231.
+2. Rempel-Clower NL, Zola SM, Squire LR, Amaral DG (1996) Three cases of enduring
+memory impairment after bilateral damage limited to the hippocampal formation.
+J Neurosci 16(16):5233–5255.
+3. Whitlock JR, Sutherland RJ, Witter MP, Moser MB, Moser EI (2008) Navigating from
+hippocampus to parietal cortex. Proc Natl Acad Sci USA 105(39):14755–14762.
+4. Bird CM, Burgess N (2008) The hippocampus and memory: Insights from spatial processing. Nat Rev Neurosci 9(3):182–194.
+5. Maguire EA, Frackowiak RS, Frith CD (1996) Learning to find your way: A role for the
+human hippocampal formation. Proc Biol Sci 263(1377):1745–1750.
+6. Maguire EA, et al. (1998) Knowing where and getting there: A human navigation
+network. Science 280(5365):921–924.
+7. Hartley T, Maguire EA, Spiers HJ, Burgess N (2003) The well-worn route and the path
+less traveled: Distinct neural bases of route following and wayfinding in humans.
+Neuron 37(5):877–888.
+8. Maguire EA, Burke T, Phillips J, Staunton H (1996) Topographical disorientation following unilateral temporal lobe lesions in humans. Neuropsychologia 34(10):
+993–1001.
+9. Spiers HJ, Burgess N, Hartley T, Vargha-Khadem F, O’Keefe J (2001) Bilateral hippocampal pathology impairs topographical and episodic memory but not visual pattern
+matching. Hippocampus 11(6):715–725.
+10. Guderian S, et al. (2015) Hippocampal volume reduction in humans predicts impaired allocentric spatial memory in virtual-reality navigation. J Neurosci 35(42):
+14123–14131.
+11. Kim S, Sapiurka M, Clark RE, Squire LR (2013) Contrasting effects on path integration
+after hippocampal damage in humans and rats. Proc Natl Acad Sci USA 110(12):
+4732–4737.
+12. Shrager Y, Kirwan CB, Squire LR (2008) Neural basis of the cognitive map: Path integration does not require hippocampus or entorhinal cortex. Proc Natl Acad Sci USA
+105(33):12034–12038.
+13. Corkin S (2013) Permanent Present Tense: The Unforgettable Life of the Amnesic
+Patient, H.M (Basic Books, New York).
+14. Knutson AR, Hopkins RO, Squire LR (2013) A pencil rescues impaired performance on
+a visual discrimination task in patients with medial temporal lobe lesions. Learn Mem
+20(11):607–610.
+15. Insausti R, Annese J, Amaral DG, Squire LR (2013) Human amnesia and the medial
+temporal lobe illuminated by neuropsychological and neurohistological findings for
+patient E.P. Proc Natl Acad Sci USA 110(21):E1953–E1962.
+16. Suzuki WA, Amaral DG (1994) Perirhinal and parahippocampal cortices of the macaque monkey: Cortical afferents. J Comp Neurol 350(4):497–533.
+17. Malkova L, Mishkin M (2003) One-trial memory for object-place associations after
+separate lesions of hippocampus and posterior parahippocampal region in the
+monkey. J Neurosci 23(5):1956–1965.
+18. Bohbot VD, et al. (2015) Role of the parahippocampal cortex in memory for the
+configuration but not the identity of objects: Converging evidence from patients with
+selective thermal lesions and fMRI. Front Hum Neurosci 9:431.
+19. Epstein R, Kanwisher N (1998) A cortical representation of the local visual environment. Nature 392(6676):598–601.
+20. Luzzi S, Pucci E, Di Bella P, Piccirilli M (2000) Topographical disorientation consequent
+to amnesia of spatial location in a patient with right parahippocampal damage.
+Cortex 36(3):427–434.
+21. Landis T, Cummings JL, Benson DF, Palmer EP (1986) Loss of topographic familiarity.
+An environmental agnosia. Arch Neurol 43(2):132–136.
+22. Teng E, Squire LR (1999) Memory for places learned long ago is intact after hippocampal damage. Nature 400(6745):675–677.
+23. Shrager Y, Levy DA, Hopkins RO, Squire LR (2008) Working memory and the organization of brain systems. J Neurosci 28(18):4818–4822.
+24. Jeneson A, Wixted JT, Hopkins RO, Squire LR (2012) Visual working memory capacity
+and the medial temporal lobe. J Neurosci 32(10):3584–3589.
+25. Gold JJ, Squire LR (2005) Quantifying medial temporal lobe damage in memoryimpaired patients. Hippocampus 15(1):79–85.
+26. Frankó E, Insausti AM, Artacho-Pérula E, Insausti R, Chavoix C (2014) Identification of
+the human medial temporal lobe regions on magnetic resonance images. Hum Brain
+Mapp 35(1):248–256.
+27. Insausti R, et al. (1998) MR volumetric analysis of the human entorhinal, perirhinal,
+and temporopolar cortices. AJNR Am J Neuroradiol 19(4):659–671.
+28. Bayley PJ, Frascino JC, Squire LR (2005) Robust habit learning in the absence of
+awareness and independent of the medial temporal lobe. Nature 436(7050):550–553.
+29. Semmes J, Weinstein S, Ghent L, Teuber H-L (1955) Spatial orientation in man after
+cerebral injury: I. Analyses by locus of lesion. J Psychol 39(1):227–244.
+Urgolites et al. PNAS | December 13, 2016 | vol. 113 | no. 50 | 14293
+PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+NEUROSCIENCE

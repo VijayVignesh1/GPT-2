@@ -1,0 +1,537 @@
+FGF14 is a regulator of KCNQ2/3 channels
+Juan Lorenzo Pabloa,b and Geoffrey S. Pitta,b,c,1,2
+a
+Department of Neurobiology, Duke University Medical Center, Durham, NC 27710; b
+Ion Channel Research Unit, Duke University Medical Center, Durham,
+NC 27710; and c
+Division of Cardiology, Department of Medicine, Duke University Medical Center, Durham, NC 27710
+Edited by Richard W. Aldrich, University of Texas at Austin, Austin, TX, and approved December 1, 2016 (received for review June 22, 2016)
+KCNQ2/3 (Kv7.2/7.3) channels and voltage-gated sodium channels
+(VGSCs) are enriched in the axon initial segment (AIS) where they
+bind to ankyrin-G and coregulate membrane potential in central
+nervous system neurons. The molecular mechanisms supporting
+coordinated regulation of KCNQ and VGSCs and the cellular
+mechanisms governing KCNQ trafficking to the AIS are incompletely understood. Here, we show that fibroblast growth factor
+14 (FGF14), previously described as a VGSC regulator, also affects
+KCNQ function and localization. FGF14 knockdown leads to a
+reduction of KCNQ2 in the AIS and a reduction in whole-cell KCNQ
+currents. FGF14 positively regulates KCNQ2/3 channels in a
+simplified expression system. FGF14 interacts with KCNQ2 at a
+site distinct from the FGF14–VGSC interaction surface, thus enabling the bridging of NaV1.6 and KCNQ2. These data implicate
+FGF14 as an organizer of channel localization in the AIS and provide insight into the coordination of KCNQ and VGSC conductances in the regulation of membrane potential.
+FGF14 | KCNQ2 | fibroblast growth factor homologous factors | axon initial
+segment | ankyrin-G
+Neurons express a wide diversity of ion channels and yet are
+able to target different channels specifically to cellular
+subcompartments such as the axon initial segment (AIS) (1, 2).
+Among the channels specifically targeted to the AIS are the
+voltage-gated sodium channels (VGSCs) and KCNQ2/3 (Kv7.2/
+Kv7.3) voltage-gated potassium channels (3–5). VGSCs are
+trapped in the AIS through binding to the scaffolding protein
+ankyrin-G (ank-G), which anchors transmembrane molecules to
+the spectrin–actin cytoskeleton (4, 6, 7). Localization of KCNQ2/3
+channels of the KV7 family to the AIS has been proposed to
+follow the model of VGSCs, because KCNQ2/3 channels contain
+the same ank-G binding motifs that trap VGSCs (8). Moreover,
+VGSCs and KCNQ2/3 channels both bind to the ankyrin repeats
+in ank-G, albeit at distinct but overlapping interaction sites (9,
+10). However, other determinants for AIS localization outside of
+the ankyrin-binding motif have been described, thus pointing to
+additional modes of regulation (11–13).
+The tight colocalization of KV7 channels with VGSCs has
+been postulated to confer specific coregulatory properties. In the
+soma, dendrites, and AIS, KV7 channels attenuate subthreshold
+depolarization by opposing a VGSC persistent current, whereas
+in the nodes, KV7 channels stabilize the membrane potential and
+protect VGSC channels from inactivation (14). Although ank-G
+serves as an AIS anchor for both KV7 channels and VGSCs, simultaneous binding of both channels to one ank-G molecule has
+not been demonstrated, and the molecular mechanisms underlying the coordination between Kv7 channels and VGSCs are incompletely understood. We hypothesized that fibroblast growth
+factor homologous factors (FHFs), a subfamily (FGF11–14) of fibroblast growth factors that function as intracellular modulators of
+VGSCs (15, 16) are candidate contributing factors. FHFs have
+been implicated in neurological diseases characterized by altered
+excitability, as exemplified by spinocerebellar ataxia 27 (SCA27)
+mutations in FGF14 (17, 18). Because FGF14 interacts directly
+with VGSCs, FGF14 mutations have been postulated to cause
+disease through VGSC dysfunction. Nevertheless, the pathologic
+mechanisms may be broader, as FGF14 also regulates presynaptic
+voltage-gated Ca2+ channels (19). Whether the disease process
+extends beyond dysregulation of VGSCs and voltage-gated Ca2+
+channels is not known.
+Here, we focused on the neuronally restricted FGF14 because
+it is highly localized to the AIS, it binds directly to VGSCs, and
+protects them from inactivation (16, 20–24). We therefore reasoned that FGF14 might coordinate KCNQ2/3 channels and
+VGSCs in the AIS. We report that FGF14 is critical to the
+regulation of KCNQ2 channels in hippocampal neurons. FGF14
+knockdown leads to a loss of KCNQ2 in the AIS and decreases
+KCNQ2/3 currents. VGSCs are not required for this regulation
+because FGF14 also increases KCNQ2/3 current in a heterologous expression system devoid of VGSCs. FGF14 interacts with
+KCNQ2 using an interface distinct from the well-defined VGSC
+binding site on FHFs. Thus, FGF14 can “bridge” VGSCs and
+KCNQ2. These data not only establish FGF14 as a regulator of
+KCNQ2 channels, but also show that FGF14 may be a broad
+organizer of AIS ion channels.
+Results
+Because of the restricted localization of FGF14 to the AIS and
+our recent data that FGF14 can regulate multiple ion channels,
+we first tested whether FGF14 also regulated the AIS-enriched
+KCNQ2 channels. We knocked down FGF14 in neurons by
+transfection with either a scrambled control shRNA exhibiting
+no homology to any expressed sequence in the rodent genome
+(Scr), or a previously validated shRNA specifically targeting
+rodent FGF14 (14KD) (19, 25) and visualized KCNQ2 in the
+AIS by immunocytochemistry. Neurons transfected with shRNA
+(Scr or 14KD) were identified by a GFP reporter and the AIS
+was identified by immunostaining for ank-G. An observer blinded to the shRNA treatment obtained images and quantified the
+abundance of KCNQ2 by measuring the integrated pixel intensity within the ank-G+ AIS. In neurons transfected with Scr,
+Significance
+KCNQ K+ channels and voltage-gated sodium channels (VGSCs)
+are both critical determinants of neuronal excitability and
+highly localized to the axon initial segment (AIS). Although
+these two classes of ion channels are functionally and spatially
+linked, information about their coregulation is lacking. Here we
+report that the VGSC regulator fibroblast growth factor 14
+(FGF14) is a regulator of KCNQ channels. FGF14 knockdown in
+hippocampal neurons leads to loss of KCNQ localization to the
+AIS and reduced KCNQ currents. Expressed heterologously,
+FGF14 is a positive regulator of KCNQ channels, ruling out an
+indirect VGSC-related effect. FGF14 is capable of binding VGSCs
+and KCNQ2 simultaneously at distinct interaction interfaces,
+providing a molecular basis for how these channel classes are
+coregulated in neurons.
+Author contributions: J.L.P. and G.S.P. designed research; J.L.P. performed research; J.L.P.
+contributed new reagents/analytic tools; J.L.P. and G.S.P. analyzed data; and J.L.P. and
+G.S.P. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+Present address: Cardiovascular Research Institute, Weill Cornell Medicine, New York, NY 10021.
+2
+To whom correspondence should be addressed. Email: geoffrey.pitt@med.cornell.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1610158114/-/DCSupplemental.
+154–159 | PNAS | January 3, 2017 | vol. 114 | no. 1 www.pnas.org/cgi/doi/10.1073/pnas.1610158114
+the intensity of KCNQ2 immunoreactivity in the AIS was 99 ±
+13% (normalized mean ± error propagated SEM) of the signal
+in untransfected cells on the same coverslip in the same field of
+view (n = 7 cells in same fields of view), demonstrating that
+neurons transfected with Scr were indistinguishable from
+untransfected cells (Fig. 1 A–D). In marked contrast, KCNQ2
+immunoreactivity in 14KD neurons was reduced by 57 ± 12%
+(P < 0.001) in the AIS (Fig. 1 E–H and M), whereas KCNQ2
+immunoreactivity in the AIS of untransfected neurons on the same
+coverslip was not different from Scr neurons. There was also a
+modest 29 ± 11% (P = 0.03) decrease in the somatic KCNQ2
+signal from 14KD neurons as quantified by integration across
+equal-area regions of interest (Fig. 1F; Scr n = 12, 14KD n = 11).
+Because these results were obtained with fully permeabilized
+neurons, this somatic staining likely reflects KCNQ2 channels in
+the endomembrane system en route to the AIS in these developing cells. The reduction of AIS-localized KCNQ2 in 14KD
+neurons was not due to disruption of the AIS, because the intensity and pattern of ank-G immunoreactivity was unchanged
+(Fig. 1 G and N). Moreover, the reduction in KCNQ2 appeared
+to be specific to knockdown of FGF14, because KCNQ2 immunoreactivity was unaffected by knockdown of the homologous
+FGF13 (Fig. 1 I–L and M), which is also abundant in hippocampal neurons and concentrated within the AIS (25). Together,
+these data suggested that FGF14 regulates the localization
+of KCNQ2 protein in hippocampal neurons, especially within
+the AIS.
+To determine whether FGF14 regulation of KCNQ2 has functional consequences, we analyzed whether FGF14 affected KCNQ2/3
+currents in a simplified expression system. When we expressed
+KCNQ2/3 in human embryonic kidney (HEK) cells with FGF14,
+we observed an approximate doubling of the K+ current amplitude
+at test potentials ≥ −20 mV compared with control cells that were
+transfected with KCNQ2/3 and empty vector (Fig. 2 A and B). The
+voltage dependence of activation was not significantly changed
+(Fig. 2C), suggesting that FGF14 did not alter channel properties
+(Fig. S1). Rather, using surface biotinylation (Fig. 2D), we determined that the amount of surface KCNQ2 is increased in the
+presence of FGF14, suggesting that the observed increase in
+currents is likely due to a larger number of KCNQ2 channels at
+the cell membrane. Further, that FGF14 affects KCNQ2/3 channels in a heterologous expression system makes it unlikely that
+FGF14 requires a neuronal-specific factor to regulate KCNQ2/3
+channels in neurons (Fig. 1).
+We therefore tested whether FGF14 knockdown in hippocampal neurons reduced the KCNQ current. To isolate the
+KCNQ current, we first recorded the basal K+ current amplitude
+after blocking voltage-gated Na+, Ca2+, and Kv1 currents with
+tetrodotoxin (TTX), Cd2+, and 4-aminopyridine (4-AP) respectively (basal, Fig. 3A). We then applied the KCNQ channel
+blocker, XE-991. Subtracting the remaining current (the XE991–resistant component) from the basal current gave a XE991–sensitive current (Fig. 3A, Right). Analyzing the XE-991–
+sensitive current showed that the current amplitude obtained
+after FGF14 knockdown was markedly reduced compared with
+Scr control (Fig. 3 B and C), consistent with the reduced KCNQ2
+signal by immunocytochemistry observed in the AIS after FGF14
+knockdown. The specificity of the effects of FGF14 are highlighted by comparing the consequences of FGF13 knockdown.
+As shown in Fig. 3 B and C, knockdown of FGF13 did not affect
+the KCNQ current. This effect was also consistent with the lack
+of reduction of KCNQ2 signal in 13KD cells demonstrated by
+immunocytochemistry (Fig. 1). Focusing on the XE-991–resistant
+component of the current, it was not significantly affected by
+Fig. 1. FGF14 knockdown leads to loss of AIS-localized KCNQ2. (A–D) Neurons
+transfected with scrambled control shRNA (GFP reporter, white signal) exhibit
+localization of (B) KCNQ2 to the AIS as marked by (C) ank-G. Nearby
+untransfected neurons have the same pattern. (E–H) Neurons transfected
+with FGF14-targeted shRNA (GFP reporter, white signal) lose more than half of
+(F) KCNQ2 immunoreactivity at the (G) AIS. Nearby untransfected neurons are
+unaffected. (I–L) Neurons transfected with FGF13-targeted shRNA do not exhibit loss of (J) KCNQ2 at the (K) AIS. (M) Quantification of KCNQ2 immunoreactivity via integrated pixel intensity reveals that 14KD but not 13KD
+significantly reduces KCNQ2 localization compared with Scr. (N) Ank-G is not
+significantly affected across treatments. (*P < 0.05; Scr n = 34, 14KD n = 21,
+13KD n = 40).
+Fig. 2. FGF14 increases KCNQ2/3 current in a heterologous expression system. (A) Exemplar K+ currents from HEK cells transfected with KCNQ2 and
+KCNQ3 (Q2/Q3) only or with FGF14 added (Q2/Q3 + FGF14). Currents were
+elicited via a voltage-step protocol in whole-cell voltage clamp. K+ currents
+from cells transfected with FGF14 were larger than currents from control
+cells. (B) Maximum current densities from two different test voltages show
+that the presence of FGF14 promotes larger KCNQ2/3 currents (*P < 0.05, n =
+11, Q2/Q3; n = 14, Q2/Q3 + FGF14). (C) The V1/2 for activation extracted from
+tail currents (Q2/Q3 = −17.83 ± 2.57 mV, Q2/Q3 + FGF14 = −21.24 ± 2.33 mV;
+P = 0.34) and slope factor (Q2/Q3 = 9.83 ± 0.46 mV, Q2/Q3 + FGF14 = 9.80 ±
+0.74 mV; P = 0.98) were not significantly changed. (D) More KCNQ2 channels are
+present at the cell membrane when FGF14 is expressed, as revealed by surface
+biotinylation (representative experiment from three independent trials).
+Pablo and Pitt PNAS | January 3, 2017 | vol. 114 | no. 1 | 155
+NEUROSCIENCE
+14KD, although it did trend down in comparison with Scr and 13KD
+(Fig. 3C). This may indicate that FGF14 can also affect other K+
+channels, although to a lesser degree than for KCNQ channels. In
+summary, the electrophysiology data from a heterologous expression
+system and from hippocampal neurons implicate direct regulation
+of KCNQ2 channels by FGF14, consistent with the reduced
+amount of KCNQ2 protein observed by immunocytochemistry in
+hippocampal neurons after FGF14 knockdown (Fig. 1).
+We therefore queried the consequences of FGF14 knockdown
+on integrated neuronal output. Consistent with the observed reduction in KCNQ2/3 K+ currents, and thus a reduction in voltagegated K+ channels open at the resting membrane potential, the
+input resistance of 14KD neurons was significantly higher than
+of Scr neurons (Fig. 4A). Further, the resting membrane potential of 14KD neurons was also more depolarized than for Scr
+neurons (Scr = −55.0 ± 1.1 mV, 14KD = −51.8 ± 0.8 mV, P <
+0.05; Scr n = 12, 14KD n = 15). A loss of repolarization was also
+suggested by two other observations. First, we observed a larger
+amplitude rise in interspike voltage during the course of a 500-ms
+current injection for 14KD neurons than for Scr neurons (Fig. 4 B
+and C). Second, during action potential trains initiated by current
+injection, we noted an increase in the voltages for threshold of
+subsequent action potentials in 14KD neurons, even though the
+threshold voltage for the first action potential was unchanged (Fig.
+4D). Finally, with current injections of increasing amplitude, fewer
+action potentials were elicited from 14KD neurons than from Scr
+control neurons (Fig. 4E), in agreement with previous work on
+FGF14 loss-of-function models (18, 22). Thus, FGF14 knockdown
+in neurons results in changes in passive membrane properties as
+well as excitability that can be explained by alterations to both
+potassium and sodium currents.
+We reasoned that FGF14 regulation of KCNQ2/3 might be
+mediated by a previously unrecognized FGF14 interaction with
+the KCNQ2/3 complex and tested this hypothesis by immunoprecipitating FGF14 from HEK cells transfected with KCNQ2,
+FGF14, or both. Immunoprecipitation (IP) of FGF14 coprecipitated KCNQ2 only when FGF14 was cotransfected (Fig. 5A).
+In contrast, the two most abundant isoforms of FGF13 did not
+exhibit an interaction with KCNQ2 (Fig. 5B), consistent with the
+lack of an effect on KCNQ2 localization and function after FGF13
+knockdown (Figs. 1 and 3). Thus, the regulation of KCNQ2/3 by
+FGF14 is likely due to a previously unrecognized interaction between FGF14 and KCNQ2.
+Having established KCNQ2 as an interacting partner of
+FGF14, we sought to delineate the FGF14 binding determinants
+on KCNQ2. First, we tested for direct interaction between
+FGF14 and a KCNQ2 C-terminal domain (CTD) construct
+(amino acids 319–658), hypothesizing parallels with VGSCs (26,
+27), the best-characterized FHF binding partners. The FHF interaction site in VGSCs is on the intracellular CTD adjacent to a
+calmodulin binding site and the KCNQ2 CTD also contains a
+calmodulin binding site (28–31). We therefore tested whether an
+untagged recombinant FGF14 (amino acids 70–252) copurified
+with a coexpressed 6xHis-tagged recombinant KCNQ2 C terminus construct and recombinant calmodulin. Whereas calmodulin copurified with the 6xHis-tagged KCNQ2 C terminus
+on a metal affinity column, FGF14 did not (Fig. 6A, Left). We
+also tested another CTD construct (amino acids 626–876) with
+similar results (Fig. 6A, Right). This construct did not have the
+IQ motif for CaM binding and, as expected, did not significantly
+copurify CaM. Having eliminated the KCNQ2 CTD as a direct
+FGF14 binding determinant, we performed the converse experiment and tested whether FGF14 bound to a KCNQ2 construct
+in which the C terminus was deleted (KCNQ2ΔCTD). We
+expressed both FGF14 and KCNQ2ΔCTD in HEK cells and
+immunoprecipitated FGF14. Indeed, the KCNQ2ΔCTD still
+coimmunoprecipitated, indicating that the KCNQ2 CTD is not
+Fig. 3. FGF14 knockdown leads to a decrease in XE-991–sensitive outward
+currents. (A) Currents from DIV10–11 neurons recorded in the presence of
+TTX, Cd2+, and 4-AP were elicited from a holding potential of −90 mV to
+steps from −100 mV to 40 mV (n, Scr = 16, 14KD = 21, 13KD = 16). KCNQ
+currents were defined as the noninactivating component of outward potassium current sensitive to 20 μm of XE-991. KCNQ currents from neurons
+transfected with FGF14-targeted shRNA (14KD) but not FGF13-targeted
+shRNA (13KD) neurons were smaller than currents from neurons transfected
+with a scrambled control shRNA (Scr). (Scale bar, 1 nA and 200 ms.)
+(B) Current–voltage relationships plotted for Scr, 13KD, and 14KD. Shown are
+basal current densities before application of XE-991 and current densities of the
+XE-991–sensitive component. (C) Maximum current amplitudes from the last
+100 ms of the 20-mV voltage step were significantly lower for 14KD than for Scr
+or 13KD. A smaller component of this current was XE-991 sensitive in 14KD
+neurons, indicating a loss of KCNQ currents. XE-991–resistant currents were not
+significantly changed although a decremental trend was observed (normalized
+mean ± error propagated SEM, *P < 0.05, ANOVA followed by Fisher’s least
+significant difference (LSD).
+Fig. 4. FGF14 knockdown changes intrinsic membrane properties and action potential generation. (A) The input resistance of 14KD neurons is higher
+than for Scr neurons. (B) Examples of action potential trains generated from
+100-pA injections into both Scr and 14KD neurons. In 14KD neurons, the rise
+in interspike voltage during the current injection step is higher. Quantification is shown in C. (D) The threshold for action potentials subsequent to
+the first action potential of a train is higher in 14KD neurons than it is in Scr
+control neurons. (E) Increasing current injections lead to decreased numbers
+of action potentials generated from 14KD neurons compared with Scr
+neurons. (*P < 0.05, Student’s t test; n = 11–15 cells each).
+156 | www.pnas.org/cgi/doi/10.1073/pnas.1610158114 Pablo and Pitt
+necessary for interaction with FGF14 (Fig. 6B). To further analyze a specific KCNQ2 intracellular domain(s) contributing to a
+possible direct interaction, we coexpressed the KCNQ2 N terminus with FGF14. Immunoprecipitation of FGF14, however,
+did not coimmunoprecipitate the KCNQ2 N terminus, although
+the full-length KCNQ2 was immunoprecipitated (Fig. 6C). Thus,
+FGF14 binding requires the smaller intracellular loops, interactions among multiple domains, or a mediator protein.
+Because sequence analysis of those KCNQ2 intracellular domains did not reveal any clear homology to the identified FHF
+binding site in VGSC CTDs, we hypothesized that the mode of
+binding between FGF14 and KCNQ2 differed from how FGF14
+and VGSCs interact and, consequently, the binding determinants
+on FGF14 would be distinct between KCNQ2 and VGSCs. Our
+structural analyses that had identified the VGSC binding surface
+on FGF14 (27) had previously shown that direct interaction
+between FGF14 and VGSCs could be disrupted when an exposed arginine residue in FGF14 (R117 in FGF14B) was mutated to an alanine (21). We therefore assessed whether
+immunoprecipitation of an R117A-mutant FGF14 (FGF14RA)
+coprecipitated KCNQ2. As we previously showed, immunoprecipitation of FGF14RA was incapable of coprecipitating NaV1.6.
+In stark contrast, however, immunoprecipitation of FGF14RA
+coprecipitated KCNQ2 (Fig. 7). This finding indicated separate
+interaction surfaces on FGF14 for binding VGSCs and KCNQ2.
+Distinct interaction surfaces for VGSCs and KCNQ2 on
+FGF14 implied that FGF14 might bind these two ion channels
+simultaneously, thereby providing a basis for KCNQ2/3 regulation of VGSC currents (14). To test this hypothesis, we coexpressed KCNQ2 and the VGSC NaV1.6 in the presence or
+absence of FGF14 and observed whether NaV1.6 coimmunoprecipitated with KCNQ2. Indeed, NaV1.6 coimmunoprecipitated with KCNQ2 only in the presence of FGF14 (Fig. 8).
+Together, these data indicated that FGF14 could bridge these
+two axonal ion channels.
+Discussion
+This report shows that FHFs regulate voltage-gated K+ channels.
+Although originally described as VGSC modulators, FHFs have
+increased their regulatory portfolios, recently shown to include
+voltage-gated Ca2+ channels and now K+ channels. We hypothesize that this FHF-dependent regulation of multiple ion channels is a mechanism for coordinating and integrating various ionic
+conductances. For example, regulation of KCNQ2 and VGSCs
+Fig. 5. FGF14 but not FGF13 binds to KCNQ2. (A) Coimmunoprecipitation
+experiments with heterologous expression of KCNQ2 and FGF14 show that
+immunoprecipitating FGF14 leads to the coimmunoprecipitation of KCNQ2.
+This result is not true when one of these proteins is omitted. KCNQ2 signal is
+decreased in input material (supernatant) only when FGF14 is present and
+immunoprecipitated, again indicating binding (representative experiment
+from four independent trials). Dark bands below the FGF14 bands are IgG
+from the antibodies used for the IP. (B) Immunoprecipitation of FGF13 (splice
+variants FGF13S or FGF13VY) leads to no discernible signal for coimmunoprecipitation of KCNQ2. This finding indicates that FGF13 does not bind to
+KCNQ2 (representative experiment from three independent trials). Dark
+bands below the FGF13 bands are IgG from the antibodies used for the IP.
+Fig. 6. FGF14 binding to KCNQ2 does not require the C terminus nor is the
+KCNQ2 N terminus sufficient for binding. (A) Copurification experiments
+with a 6xHis-tagged KCNQ2 C terminus show that calmodulin (CaM) binds,
+whereas FGF14 does not. A different KCNQ2 C terminus construct, without
+the CaM binding site, copurifies neither FGF14 nor CaM. (B) Immunoprecipitation of FGF14 is still capable of immunoprecipitating a KCNQ2 construct that lacks a C terminus. Omission of either protein does not yield a
+significant signal. (C) Immunoprecipitation of FGF14 does not coimmunoprecipitate HA-tagged KCNQ2 N terminus. Coimmunoprecipitation of the
+full-length HA-tagged KCNQ2 is shown as a positive control.
+Pablo and Pitt PNAS | January 3, 2017 | vol. 114 | no. 1 | 157
+NEUROSCIENCE
+within the AIS—where FGF14, KCNQ2, and VGSCs are
+concentrated—along with the observation that FGF14 bridges
+KCNQ2 and VGSCs provide context to recent data showing
+how KCNQ2/3 channels within the axon coordinate with VGSCs
+to control membrane potential (14). In that study, inhibition of
+KCNQ currents depolarized resting membrane potential because
+of loss of a counterbalance to the persistent inward current
+through VGSCs. Here, we observed that FGF14 knockdown
+and a resulting reduction in KCNQ2/3 currents were also associated with a slight but significant depolarization in resting
+membrane potential. Such an effect could not solely be predicted by previously reported FGF14-mediated reduction in
+VGSC currents (25), which would diminish the contribution of
+the opposing persistent VGSC current (21), because that result
+would lead to hyperpolarization. Thus, the direct effects we
+observed upon KCNQ currents after FGF14 knockdown suggest
+significant regulation of KCNQ channels.
+Adding support to this concept that FGF14 exerts its effects
+through concerted regulation of multiple ionic conductances are
+comparisons with previous studies of KCNQ inhibition in central
+nervous system neurons. The resulting effects after KCNQ inhibition (14, 32) are distinct from what we observed here after
+FGF14 knockdown. For example, inhibition of the M current
+with bath application of XE-991 produced more spikes with a
+given current injection. With FGF14 knockdown, however, we observed a rise in membrane potential and input resistance consistent
+with M-current inhibition, but we also observed decreases in spike
+frequency with current injection (Fig. 4). Specifically, we hypothesize that these differences result from FGF14 regulation of
+VGSCs as well as KCNQ2. Decreased excitability after current
+injection was previously reported for FGF14 loss of function (20,
+24) and was attributed to a loss of FGF14 regulation of VGSCs.
+Here we highlight additional effects of silencing FGF14, namely an
+increase in the baseline voltage over an action potential train,
+which indicate additional effects on repolarizing currents.
+Neurons deficient in FGF14 are less excitable, previously attributed to loss of function of VGSCs. Our results, using acute
+FGF14 knockdown that obviates any compensatory changes resultant from an embryonic knockout, offer an additional mechanism in that FGF14 deficiency also leads to a loss of function in
+KCNQ2/3 currents. In a previous study in cerebellar Purkinje
+neurons, action potential firing was impaired and the voltage dependence of steady-state VGSC inactivation was hyperpolarized
+after acute FGF14 knockdown (23). Hyperpolarizing injections
+restored repetitive firing, indicating the importance of membrane
+potential. As we showed here, FGF14 knockdown leads to the loss
+of repolarizing drive due to decreased KCNQ2/3 K+ current
+amplitude. Thus, the excitability deficits in 14KD neurons (Fig. 4),
+in animal models of Fg14 ablation (24, 33), or in patients with
+FGF14 mutations associated with SCA27 (17, 18), likely result
+from the multiple effects of loss of FGF14.
+Structural and biochemical characterization of the scaffolding
+molecule ank-G has shown that the ANK repeat domain contains
+several target binding sites (9). In agreement with this finding, Xu and
+Cooper reported that the modes of NaV and KCNQ2/3 binding to
+ank-G differ from each other (10). Thus, our work contributes to a
+broadening picture of the intricate molecular arrangements that define AIS organization. FGF14 knockdown does not affect ank-G (Fig.
+1) but ank-G knockdown does abolish AIS localization of FGF14
+(25). FGF14, therefore, is likely to function downstream of ank-G in
+ensuring proper localization of NaV and KCNQ2/3 at the AIS. The
+regulatory roles of FGF14 and ank-G are unlikely to be redundant
+because FGF14 knockdown affects these ion channels even with
+ank-G present; therefore, it is possible that FGF14 and ank-G are
+complementary or reinforcing in their regulation of AIS channels.
+Our biochemical analyses provide footprints for the interacting
+sites on FGF14 and on KCNQ2. First, the FGF14RA mutant on the
+VGSC interaction surface, which coprecipitated with KCNQ2 but
+not with NaV1.6, demonstrates that the interaction determinants on
+FGF14 for KCNQ2 are different from for VGSCs. Thus, the wellcharacterized VGSC CTD interaction surface on FHFs (22, 27) can
+be excluded. The demonstration that FGF14 can bind NaV1.6 and
+KCNQ2 simultaneously (Fig. 8) further points to an alternative interaction surface on FGF14. The globular nature of the FGF-like
+core domain in FGF14 provides several faces that remain unencumbered by an interaction with a VGSC. Within KCNQ2, we
+were able to eliminate about half of the protein—and even more of
+the intracellular domains—by demonstrating that a KCNQ2 channel
+devoid of its C terminus (KCNQ2ΔCTD) was still able to coprecipitate with FGF14 (Fig. 6B). Remaining candidate interaction sites
+within KCNQ2 include the small loops between transmembrane
+segments S2–S3 or S4–S5. It is also possible that the binding site for
+FGF14 consists of multiple domains or that there is a nonneuronalspecific mediator protein between FGF14 and KCNQ2.
+The decreased current amplitude of neuronal KCNQ channels
+(Fig. 3) after FGF14 knockdown is likely through a mechanism
+by which FGF14 regulates KCNQ2/3 surface expression, as indicated by surface biotinylation experiments (Fig. 2). In addition,
+Fig. 7. FGF14 binds to KCNQ2 at an interface distinct from NaV binding.
+Immunoprecipitation of wild-type FGF14 coimmunoprecipitates both NaV1.6
+and KCNQ2. In contrast, immunoprecipitation of a NaV binding-deficient
+FGF14RA mutant does not coimmunoprecipitate NaV1.6, but still retains the
+capability to coimmunoprecipitate KCNQ2 (representative experiment from
+three independent trials).
+Fig. 8. FGF14 bridges NaV1.6 and KCNQ2. Immunoprecipitation of KCNQ2 is
+only capable of coimmunoprecipitating NaV1.6 in the presence of FGF14.
+Omission of any of these three components leads to no signal (representative experiment from three independent trials).
+158 | www.pnas.org/cgi/doi/10.1073/pnas.1610158114 Pablo and Pitt
+FGF14 may help localize KCNQ2 in the AIS, as we observed a
+significant reduction of KCNQ2 signal in the AIS after FGF14
+knockdown (Fig. 1). Surface expression and current amplitude
+are not always correlated (34) but we find that FGF14 affects
+both parameters similar to what we previously showed for NaV
+channels (25). In this context, it would be interesting to explore
+whether VGSCs and KCNQ2 are coupled in their trafficking and
+localization at particular stages in neuronal development and
+whether FGF14 plays a role in such a process. Such a result
+would be consistent with recent evidence suggesting coregulation
+of members of the KCNQ and VGSC families (35).
+Materials and Methods
+Primary Hippocampal Culture and Transfection. Primary dissociated hippocampal cultures were prepared as described (37), with minor modifications.
+After 5 d in vitro (DIV) culture, the neurons were transiently transfected with
+0.2 μg plasmid DNA per coverslip using Lipofectamine 2000 (Invitrogen),
+according to the manufacturer’s instructions.
+Immunocytochemistry and Quantification. Cultured hippocampal cells were
+fixed with 2% (vol/vol) paraformaldehyde, blocked, and permeabilized with
+5% (vol/vol) fish skin gelatin, 0.1% Triton X-100 in PBS. Antibodies used were
+Thermo rabbit anti-KCNQ2 PA1-929 (1:200) and polyclonal goat anti–ank-G
+(1:1,000, gift from V. Bennett, Duke University, Durham, NC). Imaging was
+performed with a Zeiss LSM 780 confocal microscope using an oil immersion
+63× objective. Quantification using NIH ImageJ software was performed
+based on the methods of Grubb and Burrone (38). In all image analysis, the
+experimenter was blinded to the identity of the confocal channels.
+Western Blotting and Immunoprecipitation. Cells were lysed with 150 mM
+NaCl, 50 mM Tris, 1% sodium deoxycholate, and 1% Triton X-100. Homogenized proteins were incubated with primary antibodies overnight and
+immunoprecipitated with Protein A/G beads. Samples were run on Tris-glycine
+SDS/PAGE gels and transferred to PVDF membranes.
+Biotinylation. Transfected cells were biotinylated with 1 mg/mL EZ-Link Sulfo
+NHS-SS Biotinylation (Pierce) in cold PBS, then pulled down with NeutrAvidin
+beads (Pierce).
+Electrophysiological Recordings. Whole-cell voltage or current clamp recordings were obtained from cultured hippocampal cells or HEK 293T cells
+using an Axopatch 200B amplifier (Axon Instruments), with a 5-kHz bandwidth filter.
+Molecular Biology. The shRNA sequences targeting both FGF14 and FGF13
+were cloned into the pLVTHM plasmid (Addgene) and have been described
+previously (19, 25, 39).
+ACKNOWLEDGMENTS. We thank James Wu (Duke University) for help with
+protein expression.
+1. Lai HC, Jan LY (2006) The distribution and targeting of neuronal voltage-gated ion
+channels. Nat Rev Neurosci 7(7):548–562.
+2. Vacher H, Trimmer JS (2012) Trafficking mechanisms underlying neuronal voltagegated ion channel localization at the axon initial segment. Epilepsia 53(Suppl 9):
+21–31.
+3. Devaux JJ, Kleopa KA, Cooper EC, Scherer SS (2004) KCNQ2 is a nodal K+ channel.
+J Neurosci 24(5):1236–1244.
+4. Zhou D, et al. (1998) AnkyrinG is required for clustering of voltage-gated Na channels
+at axon initial segments and for normal action potential firing. J Cell Biol 143(5):
+1295–1304.
+5. Catterall WA (1981) Localization of sodium channels in cultured neural cells.
+J Neurosci 1(7):777–783.
+6. Jenkins PM, et al. (2015) Giant ankyrin-G: A critical innovation in vertebrate evolution
+of fast and integrated neuronal signaling. Proc Natl Acad Sci USA 112(4):957–964.
+7. Hedstrom KL, Ogawa Y, Rasband MN (2008) AnkyrinG is required for maintenance of
+the axon initial segment and neuronal polarity. J Cell Biol 183(4):635–640.
+8. Pan Z, et al. (2006) A common ankyrin-G-based mechanism retains KCNQ and NaV
+channels at electrically active domains of the axon. J Neurosci 26(10):2599–2613.
+9. Wang C, et al. (2014) Structural basis of diverse membrane target recognitions by
+ankyrins. eLife 3:3.
+10. Xu M, Cooper EC (2015) An Ankyrin-G N-terminal gate and protein kinase CK2 dually
+regulate binding of voltage-gated sodium and KCNQ2/3 potassium channels. J Biol
+Chem 290(27):16619–16632.
+11. Cavaretta JP, et al. (2014) Polarized axonal surface expression of neuronal KCNQ
+potassium channels is regulated by calmodulin interaction with KCNQ2 subunit. PLoS
+One 9(7):e103655.
+12. Liu W, Devaux JJ (2014) Calmodulin orchestrates the heteromeric assembly and the
+trafficking of KCNQ2/3 (Kv7.2/3) channels in neurons. Mol Cell Neurosci 58:40–52.
+13. Chung HJ, Jan YN, Jan LY (2006) Polarized axonal surface expression of neuronal
+KCNQ channels is mediated by multiple signals in the KCNQ2 and KCNQ3 C-terminal
+domains. Proc Natl Acad Sci USA 103(23):8870–8875.
+14. Battefeld A, Tran BT, Gavrilis J, Cooper EC, Kole MH (2014) Heteromeric Kv7.2/7.3
+channels differentially regulate action potential initiation and conduction in neocortical myelinated axons. J Neurosci 34(10):3719–3732.
+15. Smallwood PM, et al. (1996) Fibroblast growth factor (FGF) homologous factors: New
+members of the FGF family implicated in nervous system development. Proc Natl Acad
+Sci USA 93(18):9850–9857.
+16. Lou JY, et al. (2005) Fibroblast growth factor 14 is an intracellular modulator of
+voltage-gated sodium channels. J Physiol 569(Pt 1):179–193.
+17. van Swieten JC, et al. (2003) A mutation in the fibroblast growth factor 14 gene is
+associated with autosomal dominant cerebellar ataxia [corrected]. Am J Hum Genet
+72(1):191–199.
+18. Dalski A, et al. (2005) Mutation analysis in the fibroblast growth factor 14 gene:
+Frameshift mutation and polymorphisms in patients with inherited ataxias. Eur J Hum
+Genet 13(1):118–120.
+19. Yan H, Pablo JL, Pitt GS (2013) FGF14 regulates presynaptic Ca2+ channels and synaptic transmission. Cell Reports 4(1):66–75.
+20. Laezza F, et al. (2007) The FGF14(F145S) mutation disrupts the interaction of FGF14
+with voltage-gated Na+ channels and impairs neuronal excitability. J Neurosci 27(44):
+12033–12044.
+21. Yan H, Pablo JL, Wang C, Pitt GS (2014) FGF14 modulates resurgent sodium current in
+mouse cerebellar Purkinje neurons. eLife 3:e04193.
+22. Wang C, et al. (2014) Structural analyses of Ca2+/CaM interaction with NaV channel
+C-termini reveal mechanisms of calcium-dependent regulation. Nat Commun 5:4896.
+23. Bosch MK, et al. (2015) Intracellular FGF14 (iFGF14) is required for spontaneous and
+evoked firing in cerebellar Purkinje neurons and for motor coordination and balance.
+J Neurosci 35(17):6752–6769.
+24. Goldfarb M, et al. (2007) Fibroblast growth factor homologous factors control neuronal excitability through modulation of voltage-gated sodium channels. Neuron
+55(3):449–463.
+25. Pablo JL, Wang C, Presby MM, Pitt GS (2016) Polarized localization of voltage-gated
+Na+ channels is regulated by concerted FGF13 and FGF14 action. Proc Natl Acad Sci
+USA 113(19):E2665–E2674.
+26. Wang C, Wang C, Hoch EG, Pitt GS (2011) Identification of novel interaction sites that
+determine specificity between fibroblast growth factor homologous factors and
+voltage-gated sodium channels. J Biol Chem 286(27):24253–24263.
+27. Wang C, Chung BC, Yan H, Lee SY, Pitt GS (2012) Crystal structure of the ternary
+complex of a NaV C-terminal domain, a fibroblast growth factor homologous factor,
+and calmodulin. Structure 20(7):1167–1176.
+28. Yus-Najera E, Santana-Castro I, Villarroel A (2002) The identification and characterization of a noncontinuous calmodulin-binding site in noninactivating voltagedependent KCNQ potassium channels. J Biol Chem 277(32):28545–28553.
+29. Wen H, Levitan IB (2002) Calmodulin is an auxiliary subunit of KCNQ2/3 potassium
+channels. J Neurosci 22(18):7991–8001.
+30. Gamper N, Shapiro MS (2003) Calmodulin mediates Ca2+-dependent modulation of
+M-type K+ channels. J Gen Physiol 122(1):17–31.
+31. Xu Q, Chang A, Tolia A, Minor DL, Jr (2013) Structure of a Ca(2+)/CaM:Kv7.4 (KCNQ4)
+B-helix complex provides insight into M current modulation. J Mol Biol 425(2):
+378–394.
+32. Shah MM, Migliore M, Valencia I, Cooper EC, Brown DA (2008) Functional significance
+of axonal Kv7 channels in hippocampal pyramidal neurons. Proc Natl Acad Sci USA
+105(22):7869–7874.
+33. Wang Q, et al. (2002) Ataxia and paroxysmal dyskinesia in mice lacking axonally
+transported FGF14. Neuron 35(1):25–38.
+34. Choveau FS, Shapiro MS (2012) Regions of KCNQ K(+) channels controlling functional
+expression. Front Physiol 3:397.
+35. Rannals MD, et al. (2016) Psychiatric risk gene transcription factor 4 regulates intrinsic
+excitability of prefrontal neurons via repression of SCN10a and KCNQ1. Neuron 90(1):
+43–55.
+36. Goetz R, et al. (2009) Crystal structure of a fibroblast growth factor homologous
+factor (FHF) defines a conserved surface on FHFs for binding and modulation of
+voltage-gated sodium channels. J Biol Chem 284(26):17883–17896.
+37. Wang HG, George MS, Kim J, Wang C, Pitt GS (2007) Ca2+/calmodulin regulates
+trafficking of Ca(V)1.2 Ca2+ channels in cultured hippocampal neurons. J Neurosci
+27(34):9086–9093.
+38. Grubb MS, Burrone J (2010) Activity-dependent relocation of the axon initial segment
+fine-tunes neuronal excitability. Nature 465(7301):1070–1074.
+39. Wang C, et al. (2011) Fibroblast growth factor homologous factor 13 regulates Na+
+channels and conduction velocity in murine hearts. Circ Res 109(7):775–782.
+Pablo and Pitt PNAS | January 3, 2017 | vol. 114 | no. 1 | 159
+NEUROSCIENCE

@@ -1,0 +1,757 @@
+Temporal coding of reward-guided choice in the
+posterior parietal cortex
+David J. Hawelleka
+, Yan T. Wonga,b, and Bijan Pesarana,1
+a
+Center for Neural Science, New York University, New York, NY 10003; and b
+Department of Electrical and Electronic Engineering, The University of
+Melbourne, Melbourne, 3010 VIC, Australia
+Edited by Robert Desimone, Massachusetts Institute of Technology, Cambridge, MA, and approved October 12, 2016 (received for review April 22, 2016)
+Making a decision involves computations across distributed cortical
+and subcortical networks. How such distributed processing is
+performed remains unclear. We test how the encoding of choice
+in a key decision-making node, the posterior parietal cortex (PPC),
+depends on the temporal structure of the surrounding population
+activity. We recorded spiking and local field potential (LFP) activity
+in the PPC while two rhesus macaques performed a decision-making
+task. We quantified the mutual information that neurons carried
+about an upcoming choice and its dependence on LFP activity. The
+spiking of PPC neurons was correlated with LFP phases at three
+distinct time scales in the theta, beta, and gamma frequency bands.
+Importantly, activity at these time scales encoded upcoming
+decisions differently. Choice information contained in neural firing
+varied with the phase of beta and gamma activity. For gamma
+activity, maximum choice information occurred at the same phase as
+the maximum spike count. However, for beta activity, choice
+information and spike count were greatest at different phases. In
+contrast, theta activity did not modulate the encoding properties of
+PPC units directly but was correlated with beta and gamma activity
+through cross-frequency coupling. We propose that the relative
+timing of local spiking and choice information reveals temporal
+reference frames for computations in either local or large-scale
+decision networks. Differences between the timing of task information and activity patterns may be a general signature of distributed processing across large-scale networks.
+decision making | phase-of-firing | neural code | saccade | reach
+The posterior parietal cortex (PPC) integrates sensory signals
+for impending actions. Firing rates of neurons in the PPC
+encode movement intention and the temporal evolution of movement choices (1–13) as well as decision variables such as expected
+rewards, the subjective desirability during reward-guided decisions
+(14–18), and the certainty in perceptual decisions (19). Decisions
+are made within a network that extends across many regions of the
+brain (20–25), so efficient and flexible mechanisms are required to
+enable distributed computations. Dynamic and frequency-specific
+correlations in activity between brain areas are ubiquitous and offer
+potential physiological mechanisms supporting distributed computations in decision networks (13, 21, 26–34). We hypothesize that
+the encoding of decisions in the PPC should depend on the temporal structure present in neuronal activity. Previous studies have
+shown that coherently active ensembles of cells in the PPC predict
+reaction times (9) and movement choices (13, 21) better than
+neurons without coherent dynamics. However, whether and how
+the coding of decisions depends on the temporally structured firing
+of PPC neurons remains unknown. We examined temporal structure in the encoding of look-reach decisions by PPC neurons.
+Results
+We analyzed the activity of 149 units [97 units (31 single units
+and 66 multiunits) for monkey C and 52 units (14 single units and
+38 multiunits) for monkey R] and 186 simultaneously recorded
+local field potentials (LFP) (116 LFPs in monkey C and 70 LFPs
+in monkey R, one or two LFP electrodes per unit) from nearby
+(within ∼2 mm) electrodes. We first established the presence of
+firing-rate encoding of choice and the temporal structure of the
+neuronal activity in the PPC (11, 32, 35) before testing whether
+and how decision coding varies with the temporal structure of
+neuronal activity.
+PPC Neurons Encode Upcoming Movement Choices. We recorded neuronal activity while monkeys performed reward-guided look-andreach decisions. At the start of each trial, in the baseline epoch, the
+monkeys maintained touch and fixation on a central target. Then, in
+the choice epoch, they were presented with two alternatives, a circle
+and a triangle, and had to choose one with a combined look-andreach movement (Fig. 1A). We presented targets in two locations,
+randomly interleaved trial by trial. Both shapes were associated with
+changing reward magnitudes that presented a dynamic and challenging reward environment for the animals (Fig. S1). Each monkey
+reliably allocated its choices according to the shapes’ relative reward
+magnitudes (Fig. 1B). As expected, the firing rate of PPC neurons
+robustly encoded the upcoming movement choice. After choice
+target onset, units exhibited a strong transient increase in the firing
+rate regardless of the upcoming movement choice (Fig. 1C). Firing
+rates separated depending on the movement choice. We quantified
+the information about upcoming movements in the firing rate by
+estimating the mutual information (MI) between the movement
+choice and the firing rate (Fig. 1D). A total of 101 units (68%; 68
+units for monkey C and 33 units for monkey R) exhibited significant
+choice-MI in the choice epoch (200–1,000 ms after choice target
+onset) (permutation tests, P < 0.05).
+Decision-Related Activity Across Time Scales. We next assessed the
+temporal structure of PPC activity by estimating the spike-field
+coherence (SFC) and LFP power spectra. Overall 127 units (85%;
+Significance
+A central question in systems neuroscience is how cognitive
+functions can arise from the interplay of many different brain
+areas. For example the cognitive act of forming a decision requires a concerted computation involving sensory, mnemonic,
+and executive information residing in neural circuits that have
+different anatomical locations, that operate on different temporal scales, and that extend over different spatial dimensions.
+We find that in a central cortical hub—the posterior parietal
+cortex—firing rate information about upcoming decisions is
+pulsed according to intrinsic temporal structure in the betaand gamma-frequency ranges. The brain may use temporal
+structure at several time scales to support distributed computations that underlie reward-guided decisions.
+Author contributions: D.J.H., Y.T.W., and B.P. designed research; D.J.H., Y.T.W., and B.P.
+performed research; D.J.H. and B.P. analyzed data; and D.J.H., Y.T.W., and B.P. wrote
+the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: bijan@nyu.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1606479113/-/DCSupplemental.
+13492–13497 | PNAS | November 22, 2016 | vol. 113 | no. 47 www.pnas.org/cgi/doi/10.1073/pnas.1606479113
+84 units for monkey C and 43 units for monkey R) showed significant SFC with the nearby LFP during the baseline epoch (the
+500 ms preceding the target onset), and 119 units (79%; 78 units for
+monkey C and 41 units for monkey R) showed significant SFC
+during the choice epoch (200–700 ms after target onset). We found
+prominent SFC with a peak in the beta-frequency range (12–30 Hz)
+[permutation tests, familywise error probability (PFWER) < 0.05]
+(Fig. 2 A and B). Beta activity varied with task epoch. SFC and
+power (Fig. 2A, Inset) decreased significantly during the choice
+epoch compared with the baseline epoch [permutation tests, falsediscovery rate probability (PFDR) < 0.05] (Fig. 2A). In total 118 units
+[33 single units (73%) and 85 multiunits (82%)] were beta coherent
+during the baseline epoch, and 95 units [23 single units (51%) and
+72 multiunits (85%)] were beta coherent during the choice epoch.
+SFC also exhibited a peak in the theta-frequency range (2–8 Hz)
+(permutation tests, PFWER < 0.05) (Fig. 2 A and B). Theta SFC and
+LFP power did not differ between baseline and choice epochs
+(permutation tests, PFDR > 0.05) (Fig. 2A). We found that 102 units
+[22 single units (49%) and 80 multiunits (77%)] were theta coherent
+during the baseline epoch, and 98 units [20 single units (44%) and
+78 multiunits (75%)] were theta coherent during the choice epoch.
+Last, the activity in the gamma range (40–60 Hz) varied after the
+onset of the choice targets. Gamma-band SFC, but, interestingly, not
+LFP power, increased significantly during the choice epoch (permutation tests, PFDR < 0.05) (Fig. 2A). Extending the analysis to
+higher frequencies revealed no additional effects (Fig. S2A). Overall 45 units [11 single units (24%) and 34 multiunits (33%)] were
+gamma coherent during the touch-and-fixation epoch, and 48 units
+[11 single units (24%) and 37 multiunits (36%)] were gamma coherent during the choice epoch.
+Given the presence of activity at three distinct time scales, we
+wondered whether the activities co-occurred more often than
+would be expected by chance during the choice period. We found
+that 79 units [17 single units (38%) and 62 multiunits (60%)] were
+coherent both in the theta and beta ranges (Fisher’s exact test,
+PFWER = 2.27 × 10−8
+), 40 units [eight single units (18%), 32 multiunits (31%)] were coherent in the theta and gamma ranges
+(Fisher’s exact test, PFWER = 0.0052), and 42 units [10 single units
+(22%) and 32 multiunits (31%)] were coherent in the beta and
+gamma ranges (Fisher’s exact test, PFWER = 6.53 × 10−5
+). Thus, the
+units in the PPC often displayed temporal structure across multiple
+time scales.
+We also examined whether the observed temporal structure
+differed between the lateral and medial banks of the intraparietal
+sulcus (IPS). We found no significant difference (PFDR > 0.05)
+(Fig. S2 C and D). However, the distance between the electrode
+tips of the recording pairs influenced the SFC. Electrodes usually
+were separated from each other by about 2 mm during the recordings. However, when comparing the SFC for the half of the
+recordings with electrode tips near each other (median separation
+of 1.07 mm) and the half of the recordings with far electrode tips
+farther apart (median separation of 2.86 mm), we found that
+higher-frequency SFC (>20 Hz), particularly including the gamma
+500-800ms
+Choice Targets
+1000-1500ms
+↑
+Go
+Units (% sig)
+20
+40
+Mutual Information (Bit)
+x10-4
+Firing Rate (Sp./s)
+Time (s) Time (s)
+-.5 0 .5
+10
+30
+50
+Monkey C
+Monkey R
+.2
+.4
+.6
+.8
+1
+Probability Circle Choice
+Reward Difference (Norm.)
+-1 -.5 0 . 1 5
+A B
+C D
+40
+60
+80 In RF
+Out RF
+0
+-.5 0 .5 0
+2
+6
+4
+8
+Fig. 1. Neurons in the PPC encode upcoming movement choices. (A) Events
+during the behavioral task. At the beginning of each trial the animals maintained
+central touch-and-fixation for 500–800 ms. Two choice targets (a diametrically
+opposed circle and triangle) appeared. Either shape could appear on either side
+and were informative about average reward magnitudes that remained stable for
+50–60 trials before changing to new average magnitudes. After maintaining
+central touch-and-fixation for another 1,000–1,500 ms, the central stimuli turned
+off, instructing the animals to perform a combined reach-and-saccade movement
+to one shape. The animals were free to choose the target shape on each trial.
+(B) Fitted psychometric curves for monkey C and monkey R are shown in black
+and gray, respectively. (C) Firing rate dynamics for trials into (black) and out of
+(gray) the response field of units with significant choice-MI. Lines and shadings
+show the means and their 95% confidence interval, respectively. (D) MI time
+courses across all recorded units. The gray line and shading show the average raw
+MI and its 95% confidence interval. The black line shows the percent of units
+exhibiting significant MI in a sliding 100-ms window.
+Spike-Field Coh. .1
+.2
+Units (% sig.) 40
+80
+Frequency (Hz)
+20 40
+.05
+.15
+2 01 2 30 50
+100
+20
+60
+A B Log. Power
+3
+4
+5
+6
+p < 0.05
+θ β γ
+60
+Frequency (Hz)
+10 60 20 3 0 0 4 50
+C
+θ
+θ
+γ
+CI 95
+Mean
+Baseline: -500 - 0 ms
+Choice: 200 - 700 ms β
+β
+γ SFC Phase
+Fig. 2. Temporal structure of activity in the PPC. (A) Spike-field coherence
+during the baseline (500 ms before target onset, gray) and choice (200–700 ms
+after target onset, black) trial epochs. For comparison we chose equal time
+windows for the two epochs and avoided the visual onset transients of PPC
+activity in the first 200 ms after target onset. (Inset) The signal power at the LFPrecording electrodes during the same trial epochs. Shadings show 95% confidence intervals. Black bars near the x axis mark significant differences between
+the two trial epochs (FDR corrected, q < 0.05). (B) Percent of coherent units across
+frequencies for the two trial epochs. Background shadings schematically depict
+theta- (2–8 Hz), beta- (12–30 Hz), and gamma- (40–60 Hz) frequency ranges of
+interest used to average frequency bins. For the preferred SFC phases, see
+C. (C) Beta- and gamma- frequency phases during the baseline epoch for all
+coherent units. Data depict the circular average across all significant frequency
+bins and units in the theta- (2–8 Hz), beta- (12–30 Hz), and gamma- (40–60 Hz)
+frequency ranges. Lines indicate the 95% confidence interval.
+Hawellek et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13493
+NEUROSCIENCE
+activity, was stronger for electrode tips that were closer to each
+other (PFDR < 0.05) (Fig. S2 E and F). Thus, gamma activity
+appeared to be more local than either theta or beta activity.
+Examining the preferred phases of the SFC, we observed clustering around the downswing and trough of the LFP activity (Fig.
+2C). We found significant phase concentrations (Rayleigh tests, all
+PFWER < 0.05), during the baseline epoch that remained stable
+during the choice epoch. Phase concentrations did not differ significantly between epochs for all frequency ranges (Watson–
+Williams tests between epochs for all units with significant SFC
+during both epochs, all P > 0.05). Thus, PPC spiking contains temporal structure at three time scales—theta, beta, and gamma—that
+respond differently to choice. During choice, theta activity remained
+constant, beta activity decreased, and gamma activity increased.
+Choice Information Covaries with Beta and Gamma Activity. The
+temporal structure in PPC spiking suggests that neural encoding
+also may depend on the phase of the activity. We therefore
+tested whether choice-MI is modulated by LFP phase at each
+time scale. We defined eight different LFP phase bins and calculated how much choice-MI varies across the different bins
+(Fig. 3A). We analyzed the choice epoch 200–1,000 ms after
+choice target onset and included all units that exhibited significant SFC and significant choice-MI during the choice epoch [79
+units (53%); 54 units for monkey C and 25 units for monkey R).
+The period of 200–1,000 ms covered the choice epoch, avoiding
+visual onset transients present in the first 200 ms of PPC activity.
+Choice-MI varied significantly with LFP phases in the beta- and
+gamma-frequency ranges (permutation tests, PFWER < 0.05) (Fig.
+3A) but not with theta phases. Repeating the analysis based on
+modulation entropy, which makes fewer distributional assumptions,
+yielded similar results (SI Materials and Methods and Fig. S3B). The
+information that PPC units carried in their firing rates varied along
+phases in beta and gamma frequencies. To understand better how
+the beta and gamma phases affected spiking and choice-MI, we next
+examined the degree to which each measure depended on LFP
+phase.
+Beta Activity Modulates Information and Spiking Separately. We
+compared the distributions of spike counts and choice-MI
+according to beta and gamma activity in greater detail. To do so,
+we averaged the phase histograms of spike counts and choice-MI
+across the frequency bins with significantly modulated choice-MI
+within each frequency range (Fig. 3 B–G). In the beta-frequency
+band, the peak-to-trough modulation of spike counts was 13.6%,
+corresponding to a modulation in firing rate by about 6.6 spikes/s
+(Fig. 3B). Spiking was distributed symmetrically about the spikepreferred beta-phase with no significant differences in the
+amount of spiking between the bins before and after the spikepreferred beta-phase (permutation test, P = 0.99). Measuring the
+spike counts for evenly spaced beta-activity phase bins allowed us
+to study the temporal concentration (trigonometric moment) of
+spiking in great detail (see radial black lines in Fig. 3 B–F). The
+moment of the beta spike-count histogram was indistinguishable
+from the average spike-preferred beta phase during the analysis
+epoch, further indicating the symmetry of the distribution of spikes
+with beta-frequency phase.
+Choice-MI showed a peak-to-trough modulation by the beta
+activity of 15.3%. Unlike the spike counts, the choice-MI was
+asymmetric around the spike-preferred beta phase. The moment
+of the choice-MI histogram differed significantly from the moment
+of the beta spike-count histogram (permutation test, P < 10−4
+)
+with MI peaking during the downswing of the spiking cycle (Fig.
+3C). In other words, spike count and choice-MI peaked at different times during the beta activity. In line with this asymmetry,
+choice-MI was significantly elevated above the average choice-MI
+Spikes
+5 10
+0 -5
+CI 95
+Spike Pref.
+Phase
+0
++
+++
+-
+Diff. to random
+phases (%)
+Trigonometric
+Moment ± CI95
+p < 0.05
+p > 0.05
+CI 95
+A CD
+E
+Beta (β)
+F G
+Gamma (γ)
+Spikes orth-MI
+Phase
+Binning
+Frequency (Hz)
+10 20 30 40 50
+MI Modulation
+Strength
+x10-5
+1
+2
+3
+2
+β γ
+B
+pcorr < 0.05
+5 10
+0 -5
+2040
+0 -20
+2040
+0 -20
+1020
+0 -10
+1020
+0 -10
+60
+Spikes choice-MI orth-MI
+Spikes choice-MI
+Fig. 3. Choice information depends on beta and gamma LFP phases. (A) Modulation strength (resultant length of the complex average across phase bins) of choiceMI across a range of frequencies. The gray line depicts the significance threshold controlling the FWE across frequency bins at P = 0.05. Dark-shaded regions depict
+significant modulation of choice-MI. Lighter shading in the background depicts the beta- (12–30 Hz) and gamma- (40–60 Hz) frequency ranges. (B) Average phasedependent histogram of spike count for the beta-frequency range. Coloring of the phase bins in all histograms corresponds to the schematic phase binning shown in
+the center. The spike-preferred phase (dark green) is depicted as a trough in the schematic to capture the tendency of spiking to occur at or near the troughs of LFP
+activity. The green bin at 0 corresponds to the average spike-preferred phase in the 200–1,000 ms epoch after target onset. The radial distance for each phase bin
+indicates the difference in spike count to random phases. Error bars depict 95% confidence intervals. The radial black line depicts the trigonometric moment of the
+histogram; the 95% confidence interval is indicated at the end of the line. (C) The graphical depiction shown in B but for choice-MI. Data at each phase bin are as in B.
+Filled circles indicate choice-MI significantly different from the average choice-MI across all phase bins (permutation test, P < 0.05). (D) As in C but after the removal of
+the influence of spike count on choice-MI through regression, thus, termed orthogonal-MI. (E–G) As in B–D, respectively, for the gamma-frequency range.
+13494 | www.pnas.org/cgi/doi/10.1073/pnas.1606479113 Hawellek et al.
+for phase bins during the downswing of the beta activity and was
+significantly decreased for phase bins in the upswing of the beta
+activity (Fig. 3C, permutation tests, P < 0.05). To assess directly
+whether the beta activity varied with the spike counts and encoding
+properties of PPC neurons independently, we repeated the analysis
+after estimating an orthogonal-MI. To estimate the orthogonal-MI,
+we removed the spike-count histogram’s prediction about the shape
+of the choice-MI histogram for each unit through regression (Fig.
+3D and Fig. S4). The orthogonal-MI histogram was significantly
+modulated (permutation test, P < 10−4
+). Thus, beta activity independently correlated with the spike counts and choice encoding of
+PPC units.
+Information and Spike Counts Linked with Gamma Activity. We repeated
+the above analyses for gamma activity (Fig. 3 E–G). The peak-totrough modulation of spiking along the gamma phases was 6.2%,
+corresponding to a firing rate modulation of approximately three
+spikes/s. Similar to beta activity, the spike count was distributed
+symmetrically about the spike-preferred gamma phase (Fig. 3E). The
+moment of the spike-count histogram aligned with the average spikepreferred gamma phase. Peak-to-trough modulation of choice-MI by
+gamma activity was 12.3%. Choice-MI shared the same temporal
+concentration along gamma phases (Fig. 3F). We found no difference
+between the moments of choice-MI and spike count in the gamma
+activity (permutation test, P = 0.59). In line with this finding, the
+phase bin at the spike-preferred gamma phase exhibited significantly
+higher MI than the average histogram (permutation tests, P < 0.05).
+Choice-MI also was greater in the phase bin following the spikepreferred phase. The moment of choice-MI for gamma activity was
+significantly different from the moment of choice-MI for beta activity
+(permutation test, P = 10−4
+).
+We then estimated the orthogonal-MI for gamma frequency activity (Fig. 3G). The orthogonal-MI for gamma activity was distributed uniformly across phase bins (permutation test, P = 0.30). No
+phase bin exhibited differences from the average orthogonal-MI
+across gamma-phase bins (permutation tests, all P > 0.05). Thus,
+correlations between gamma activity, choice-MI, and spike counts
+were not independent. MI estimation may have been biased by the
+differing spike counts at different phases of activity. MI is positively
+biased for smaller samples and is spuriously high for phase bins with
+few spikes. We reestimated MI while stratifying spike counts to be
+equal across phase bins (SI Materials and Methods). The pattern of
+modulated choice-MI by beta and gamma activity persisted (Fig. S5).
+All results were consistent when the analyses were performed
+separately for each animal (Figs. S6 and S7). The pattern remained
+when selecting units based solely on beta or gamma coherence, low
+or high firing rates, the lateral and medial banks of the IPS, or near
+and far electrode pairs (Fig. S8). We found no significant relationship between theta LFP phases and choice-MI when repeating
+the analysis in Fig. 3A for units with significant theta-frequency SFC
+(Fig. S9A, permutation tests, PFWER > 0.05). Beta and gamma effects remained significant (permutation tests, PFWER < 0.05). The
+pulsed choice-MI was specific to the choice period as well as to units
+that encoded upcoming choices. It was absent during the baseline
+epoch and for coherent units without choice-MI (permutation tests,
+PFWER > 0.05) (Fig. S9 B and C). Overall, beta- and gammafrequency activity modulated information about reward-guided
+decisions present in the firing rate. Although fluctuations in spike
+counts and information temporally coincided for the gamma activity, information peaked later than spiking for beta activity.
+Beta Activity Couples Theta and Gamma Activity. The coupling of
+PPC spiking to multiple time scales of activity suggested that the
+different frequency ranges might show consistent relationships
+among each other. To shed light on possible interactions between the different time scales, we quantified the cross-frequency
+phase–amplitude coupling (PAC) (36) and N:M phase–phase
+locking (NML) (37). We found that beta activity was strongly
+coupled to theta and gamma activity.
+We analyzed the coupling strength and phase relationships for
+PAC and NML for all electrode pairs with significant SFC in the
+choice epoch (200–1,000 ms after target onset). We found significant PAC between theta phases and beta amplitudes (permutation test, P < 10−4
+) (Fig. 4A). PAC for theta phases and gamma
+amplitudes (permutation test, P = 0.031) and beta phases and
+gamma amplitudes (permutation test, P < 10−4
+) also was significant, albeit weaker (permutation tests, theta–beta vs. theta–gamma,
+P = 0.007; theta–beta vs. beta–gamma, P = 0.01; theta–gamma
+vs. beta–gamma, P = 0.48). In addition we found significant
+phase concentrations for the preferred PAC phases for the
+theta–beta and theta–gamma frequency combinations across the
+electrode pairs (Rayleigh tests: theta–beta, P < 10−5
+; theta–
+gamma, P = 0.007) (Fig. 4A). We found no significant concentration of the preferred PAC phase for the beta–gamma coupling
+(Rayleigh test, P = 0.22). Thus, the different time scales of PPC
+activity were nested with each other, with slower phases predicting
+faster amplitudes. The theta–beta PAC displayed the most pronounced interaction.
+We further investigated whether the frequency ranges
+exhibited a consistent phase relationships among each other. Phases
+at different frequencies can be coupled when the frequencies are
+integer multiples of each other with several cycles of a faster time
+scale consistently occurring at the same times within one cycle of a
+slower time scale (37–39). Again we found pronounced cross-frequency interaction involving the beta activity (Fig. 4C). The strongest
+phase–phase coupling was between the beta and gamma phases
+A
+CI 95
+Mean
+p < 0.05
+θ 5 Hz
+γ 45 Hz θ/γ
+β 20 Hz
+Phase-Amplitude Coupling B
+Phase-Phase Coupling
+β/γ
+CI 95
+Mean
+p < 0.05
+-.2
+.2
+.6
+1.8
+1.4
+1
+**
+* **
+θ/β θ/γ β/γ
+θ/β
+C D Coupling Strength (Z)
+* p < .05 ** p < .001
+**
+**
+-.5
+.5
+1.5
+2.5
+2
+1
+0
+0
+θ 5 Hz
+γ 40 - 50 Hz
+β 20 - 25 Hz
+θ/β θ/γ β/γ
+Coupling Strength (Z)
+Pref. Phase
+ns
+* ** **
+* ns *
+* p < .05 ** p < .001
+Fig. 4. Cross-frequency relationships between theta, beta, and gamma activity. (A) Coupling strengths of PAC between frequencies. Asterisks above
+bars mark the levels of significance for the difference from zero. Comparisons between bars are indicated above brackets. (B) Preferred phases for the
+PAC. Circles represent significant mean concentrations (Rayleigh test, P <
+0.05) across all electrode pairs, and lines depict their 95% confidence interval. (C) As in A for N:M phase–phase coupling. (D) As in B for the generalized phase difference of the N:M phase–phase coupling.
+Hawellek et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13495
+NEUROSCIENCE
+(permutation test, P < 10−4
+) followed by significant but weaker
+coupling between theta and beta phases (permutation test, P < 10−4
+;
+beta–gamma vs. theta–beta, P < 10−4
+; beta–gamma vs. theta–gamma,
+P < 10−4
+; theta–beta vs. theta–gamma, P = 0.038). Theta phases
+were not significantly coupled with gamma phases (permutation test,
+P = 0.27). The beta–gamma phase coupling had a consistent phase
+difference across electrode pairs with beta phases slightly leading
+gamma phases (Rayleigh test, P = 0.008) (Fig. 4D). The beta–
+gamma phase difference seemed to match roughly the dissociation
+of the moment of the choice-MI from spiking for beta activity. Beta–
+gamma phase–phase coupling could contribute to the temporal localization of the choice-MI with respect to the beta activity. However, we observed no correlation between the beta–gamma phase
+difference and the moment of the beta choice-MI phase histogram
+on a single-spike LFP level (circular correlation, same electrode
+pairs from Fig. 3; n = 79, r = −0.063, P = 0.55). We found no
+consistent phase difference for the theta–beta phase–phase coupling
+across electrode pairs (Rayleigh test, P = 0.93). The different time
+scales also displayed significant phase relationships, with the most
+pronounced coupling between gamma and beta activity.
+Overall, we identified three interrelated temporal modes of
+neuronal activity in the PPC. Beta activity took a central role and
+was most prominently coupled to slower theta activity through
+PAC and to faster gamma activity through phase–phase coupling.
+Discussion
+Our findings demonstrate a potential role for temporal coding in
+the PPC during the formation of decisions and add to a growing
+body of evidence linking firing rate information to ongoing
+population dynamics in cortex (35, 40–48). Theta-, beta-, and
+gamma-band LFP phases patterned spiking activity but had different relations to decision information. Gamma activity encoded task information at phases with the greatest spike rate. In
+contrast, beta activity encoded task information at phases when
+local populations were not the most active. Theta-band activity
+appeared as a relatively nonspecific influence on PPC spiking.
+We propose that differences in the timing of task information
+and activity patterns may be a general signature of distributed
+computations across decision networks.
+Beta and gamma activity showed a direct relation to the decision process and were modulated by the onset of decisions. The
+phases across both frequency regimes were coherent with each
+other and provided a meaningful temporal reference for decoding
+decision information contained in PPC neurons’ firing rates.
+These observations generally agree with recent findings positing
+that beta and gamma activity reflect different network-level processes. Specifically, gamma activity may reflect bottom-up–driven
+local processing, and beta activity may reflect top-down–driven
+processes that link local information to processing on a larger
+cortical scale (31, 49–52). The coherent relationship we observe
+between the gamma and beta activity suggests that decision signals
+in the PPC arise in the interaction between these two types of
+influences. An intriguing possibility is that PPC spiking may
+multiplex decision signals into beta and gamma channels (53).
+Consistent with the view that beta and gamma activity reflect
+two different network-level processes, we found that both choice
+information and spike counts were temporally aligned with
+gamma activity but choice information peaked later than the
+spike counts for the beta activity. These observations may reflect
+the more local nature of the gamma activity operating on faster,
+more immediate scales. In contrast, beta activity may be tuned to
+larger network scales, leading to a separation between choice
+information and excitability.
+Theta activity was present throughout the trial and at comparable
+levels before and after choice target onset. Theta phases did exhibit
+a weak relationship to the encoding properties of PPC firing rates.
+However, theta phases predicted beta and gamma frequency amplitudes during the choice epoch. These observations are in line
+with the view that theta-band activity may regulate activity on faster
+time scales (54, 55), potentially to subserve functions (e.g., mnemonic functions) in the interaction with subcortical or allocortical
+brain structures with prominent theta activity (56–58).
+Our observations agree well with previous reports on the impact
+of temporal structure on firing rate encoding in the primate cortex.
+During visual stimulation in primate primary visual cortex (48), the
+gamma activity enhances selectivity, primarily at around peak excitability. However, during working memory demands in primate
+prefrontal cortex (47), information about sequentially presented
+objects occurs at different times with respect to the beta activity.
+The dissociation that we observe between spike counts and
+choice information for beta activity raises questions about how
+the activity can be generated and how other neuronal populations can decode such activity efficiently. Specific spike times
+within temporally structured activity patterns can result from the
+interplay between excitatory drive and inhibition (40–42, 59, 60).
+Our results thus suggest that beta spiking in the PPC results from
+an asymmetric interaction between excitation and inhibition,
+producing a relatively less informative upswing and a more informative downswing of activity with similar activity magnitudes.
+The transmission of activity between neuronal ensembles may
+benefit from the alignment of excitability phases in downstream
+neurons with barrages of synchronized upstream activity (30, 31,
+61–65). Our findings are consistent with this view and suggest
+that beta and gamma activity may differ in the window of integration by downstream ensembles. Although the gamma activity may be most informative when spiking is greatest, the
+integration period for the beta activity may extend past the time
+of greatest synchronous activity to include a later period of peak
+information. In this way, the computations in the PPC may be
+functionally linked to the distributed ensembles underlying the
+formation of decisions (9, 13). In summary, we propose that the
+relative timing of local spiking and choice information reveals a
+temporal reference for computations across local and large-scale
+decision networks.
+Materials and Methods
+Please see SI Materials and Methods for a detailed description of the experimental setup and analytic methods. The experimental setup has been
+reported previously (13). Two adult male rhesus macaques (Macaca mulatta),
+monkey C (7.5 kg) and monkey R (6 kg), participated in this study. All surgical
+and animal care procedures were approved by the New York University
+Animal Care and Use Committee and were performed in accordance with
+the National Institutes of Health guidelines for the care and use of laboratory animals. Neuronal activity was recorded from the medial and lateral
+banks of the IPS up to ∼1 cm anterior to the lunate and parietal occipital
+sulci and ∼5–10 mm below the cortical surface (13). We targeted a square 16 ×
+16 mm recording chamber over the right IPS in monkey C [MRI-guided stereotaxic (Brainsight; Rogue Research)] and over the left IPS in monkey R
+(stereotactic coordinates: 7 P, 13 L). Electrodes were spaced at least 1 mm
+(median, 2.09 mm) apart. Recordings were referenced to the metal guide
+tube on the dura touching the cortical surface above the recording sites.
+Spectral estimates were derived using multitaper methods (time/bandwidth
+parameters, 500 ms and 5 Hz) (66, 67). Amplitudes for the PAC were estimated at 20 Hz and 45 Hz with time/bandwidth parameters of 250 ms and
+10 Hz. We removed the influence of trial-locked evoked potentials through
+regression from each trial before further analysis. For phase-dependent estimates we used eight phase bins centered at 0 and every π/4 steps with a
+width of π/3. We controlled the PFWER or the PFDR when multiple testing. For
+permutation tests the PFWER was controlled using rank-based maximum
+resample statistics (68, 69).
+ACKNOWLEDGMENTS. We thank Jorge Jaramillo and Timo van Kerkoele for
+helpful comments on the manuscript. This work was supported by the Leopoldina Fellowship Programme Grant (LPDS/LPDR 2012-09), NIH Grant R01
+EY024067, National Science Foundation CAREER Award BCS-0955701, an
+award from the Simons Collaboration for the Global Brain, and the Defense
+Advanced Research Projects Agency Systems-Based Neurotechnology for Emerging Therapies Program.
+13496 | www.pnas.org/cgi/doi/10.1073/pnas.1606479113 Hawellek et al.
+1. Snyder LH, Batista AP, Andersen RA (1997) Coding of intention in the posterior parietal cortex. Nature 386(6621):167–170.
+2. Batista a. P, Buneo CA, Snyder LH, Andersen RA (1999) Reach plans in eye-centered
+coordinates. Science 285(5425):257–260.
+3. Shadlen MN, Newsome WT (2001) Neural basis of a perceptual decision in the parietal
+cortex (area LIP) of the rhesus monkey. J Neurophysiol 86(4):1916–1936.
+4. Huk AC, Shadlen MN (2005) Neural activity in macaque parietal cortex reflects temporal integration of visual motion signals during perceptual decision making.
+J Neurosci 25(45):10420–10436.
+5. Cui H, Andersen RA (2007) Posterior parietal cortex encodes autonomously selected
+motor plans. Neuron 56(3):552–559.
+6. Gold JI, Shadlen MN (2007) The neural basis of decision making. Annu Rev Neurosci
+30:535–574.
+7. Scherberger H, Andersen RA (2007) Target selection signals for arm reaching in the
+posterior parietal cortex. J Neurosci 27(8):2001–2012.
+8. Bisley JW, Goldberg ME (2010) Attention, intention, and priority in the parietal lobe.
+Annu Rev Neurosci 33:1–21.
+9. Dean HL, Hagan MA, Pesaran B (2012) Only coherent spiking in posterior parietal
+cortex coordinates looking and reaching. Neuron 73(4):829–841.
+10. Hagan MA, Dean HL, Pesaran B (2012) Spike-field activity in parietal area LIP during
+coordinated reach and saccade movements. J Neurophysiol 107(5):1275–1290.
+11. de Lafuente V, Jazayeri M, Shadlen MN (2015) Representation of accumulating evidence for a decision in two parietal areas. J Neurosci 35(10):4306–4318.
+12. Latimer KW, Yates JL, Meister MLR, Huk AC, Pillow JW (2015) Single-trial spike trains
+in parietal cortex reveal discrete steps during decision-making. Science 349(6244):
+184–187.
+13. Wong YT, Fabiszak MM, Novikov Y, Daw ND, Pesaran B (2016) Coherent neuronal
+ensembles are rapidly recruited when making a look-reach decision. Nat Neurosci
+19(2):327–334.
+14. Platt ML, Glimcher PW (1999) Neural correlates of decision variables in parietal cortex.
+Nature 400(6741):233–238.
+15. Dorris MC, Glimcher PW (2004) Activity in posterior parietal cortex is correlated with
+the relative subjective desirability of action. Neuron 44(2):365–378.
+16. Sugrue LP, Corrado GS, Newsome WT (2004) Matching behavior and the representation of value in the parietal cortex. Science 304(5678):1782–1787.
+17. Seo H, Barraclough DJ, Lee D (2009) Lateral intraparietal cortex and reinforcement
+learning during a mixed-strategy game. J Neurosci 29(22):7278–7289.
+18. Louie K, Glimcher PW (2010) Separating value from choice: Delay discounting activity
+in the lateral intraparietal area. J Neurosci 30(16):5498–5507.
+19. Kiani R, Shadlen MN (2009) Representation of confidence associated with a decision
+by neurons in the parietal cortex. Science 324(5928):759–764.
+20. Samejima K, Ueda Y, Doya K, Kimura M (2005) Representation of action-specific reward values in the striatum. Science 310(5752):1337–1340.
+21. Pesaran B, Nelson MJ, Andersen RA (2008) Free choice activates a decision circuit
+between frontal and parietal cortex. Nature 453(7193):406–409.
+22. Kable JW, Glimcher PW (2009) The neurobiology of decision: Consensus and controversy. Neuron 63(6):733–745.
+23. Cisek P, Kalaska JF (2010) Neural mechanisms for interacting with a world full of
+action choices. Annu Rev Neurosci 33:269–298.
+24. Siegel M, Buschman TJ, Miller EK (2015) Cortical information flow during flexible
+sensorimotor decisions. Science 348(6241):1352–1355.
+25. Katz LN, Yates JL, Pillow JW, Huk AC (2016) Dissociated functional significance of
+decision-related activity in the primate dorsal stream. Nature 535(7611):285–288.
+26. Bressler SL, Menon V (2010) Large-scale brain networks in cognition: Emerging
+methods and principles. Trends Cogn Sci 14(6):277–290.
+27. Buzsáki G, Chrobak JJ (1995) Temporal structure in spatially organized neuronal ensembles: A role for interneuronal networks. Curr Opin Neurobiol 5(4):504–510.
+28. Buzsáki G, Draguhn A (2004) Neuronal oscillations in cortical networks. Science
+304(5679):1926–1929.
+29. Engel AK, Fries P, Singer W (2001) Dynamic predictions: Oscillations and synchrony in
+top-down processing. Nat Rev Neurosci 2(10):704–716.
+30. Fries P (2005) A mechanism for cognitive dynamics: Neuronal communication through
+neuronal coherence. Trends Cogn Sci 9(10):474–480.
+31. Fries P (2015) Rhythms for Cognition: Communication through coherence. Neuron
+88(1):220–235.
+32. Salinas E, Sejnowski TJ (2001) Correlated neuronal activity and the flow of neural
+information. Nat Rev Neurosci 2(8):539–550.
+33. Varela F, Lachaux JP, Rodriguez E, Martinerie J (2001) The brainweb: Phase synchronization and large-scale integration. Nat Rev Neurosci 2(4):229–239.
+34. Womelsdorf T, Fries P (2006) Neuronal coherence during selective attentional processing and sensory-motor integration. J Physiol Paris 100(4):182–193.
+35. O’Keefe J, Recce ML (1993) Phase relationship between hippocampal place units and
+the EEG theta rhythm. Hippocampus 3(3):317–330.
+36. Canolty RT, et al. (2006) High gamma power is phase-locked to theta oscillations in
+human neocortex. Science 313(5793):1626–1628.
+37. Tass P, et al. (1998) Detection of n:m phase locking from noisy data: Application to
+magnetoencephalography. Phys Rev Lett 81(15):3291–3294.
+38. Palva JM, Palva S, Kaila K (2005) Phase synchrony among neuronal oscillations in the
+human cortex. J Neurosci 25(15):3962–3972.
+39. Belluscio MA, Mizuseki K, Schmidt R, Kempter R, Buzsáki G (2012) Cross-frequency
+phase-phase coupling between θ and γ oscillations in the hippocampus. J Neurosci
+32(2):423–435.
+40. König P, Engel AK, Roelfsema PR, Singer W (1995) How precise is neuronal synchronization? Neural Comput 7(3):469–485.
+41. Mehta MR, Lee AK, Wilson MA (2002) Role of experience and oscillations in transforming a rate code into a temporal code. Nature 417(6890):741–746.
+42. Brody CD, Hopfield JJ (2003) Simple networks for spike-timing-based computation,
+with application to olfactory processing. Neuron 37(5):843–852.
+43. Lee H, Simpson GV, Logothetis NK, Rainer G (2005) Phase locking of single neuron
+activity to theta oscillations during working memory in monkey extrastriate visual
+cortex. Neuron 45(1):147–156.
+44. Montemurro MA, Rasch MJ, Murayama Y, Logothetis NK, Panzeri S (2008) Phaseof-firing coding of natural visual stimuli in primary visual cortex. Curr Biol 18(5):
+375–380.
+45. Kayser C, Montemurro MA, Logothetis NK, Panzeri S (2009) Spike-phase coding
+boosts and stabilizes information carried by spatial and temporal spike patterns.
+Neuron 61(4):597–608.
+46. Kayser C, Ince RAA, Panzeri S (2012) Analysis of slow (theta) oscillations as a potential
+temporal reference frame for information coding in sensory cortices. PLOS Comput
+Biol 8(10):e1002717.
+47. Siegel M, Warden MR, Miller EKE (2009) Phase-dependent neuronal coding of objects
+in short-term memory. Proc Natl Acad Sci USA 106(50):21341–21346.
+48. Womelsdorf T, et al. (2012) Orientation selectivity and noise correlation in awake
+monkey area V1 are modulated by the gamma cycle. Proc Natl Acad Sci USA 109(11):
+4302–4307.
+49. Donner TH, Siegel M (2011) A framework for local cortical oscillation patterns. Trends
+Cogn Sci 15(5):191–199.
+50. Hipp JF, Engel AK, Siegel M (2011) Oscillatory synchronization in large-scale cortical
+networks predicts perception. Neuron 69(2):387–396.
+51. van Kerkoerle T, et al. (2014) Alpha and gamma oscillations characterize feedback
+and feedforward processing in monkey visual cortex. Proc Natl Acad Sci USA 111(40):
+14332–14341.
+52. Bastos AM, et al. (2015) Visual areas exert feedforward and feedback influences
+through distinct frequency channels. Neuron 85(2):390–401.
+53. Akam T, Kullmann DM (2014) Oscillatory multiplexing of population codes for selective communication in the mammalian brain. Nat Rev Neurosci 15(2):111–122.
+54. Lakatos P, et al. (2005) An oscillatory hierarchy controlling neuronal excitability and
+stimulus processing in the auditory cortex. J Neurophysiol 94(3):1904–1911.
+55. Canolty RT, Knight RT (2010) The functional role of cross-frequency coupling. Trends
+Cogn Sci 14(11):506–515.
+56. Bragin A, et al. (1995) Gamma (40-100 Hz) oscillation in the hippocampus of the
+behaving rat. J Neurosci 15(1 Pt 1):47–60.
+57. Sirota A, et al. (2008) Entrainment of neocortical neurons and gamma oscillations by
+the hippocampal theta rhythm. Neuron 60(4):683–697.
+58. Lisman JE, Jensen O (2013) The θ-γ neural code. Neuron 77(6):1002–1016.
+59. Fries P, Nikolic D, Singer W (2007) The gamma cycle. Trends Neurosci 30(7):309–316.
+60. Wang X-J (2010) Neurophysiological and computational principles of cortical rhythms
+in cognition. Physiol Rev 90(3):1195–1268.
+61. König P, Engel AK, Singer W (1996) Integrator or coincidence detector? The role of
+the cortical neuron revisited. Trends Neurosci 19(4):130–137.
+62. Azouz R, Gray CM (2003) Adaptive coincidence detection and dynamic gain control in
+visual cortical neurons in vivo. Neuron 37(3):513–523.
+63. Bruno RM, Sakmann B (2006) Cortex is driven by weak but synchronously active
+thalamocortical synapses. Science 312(5780):1622–1627.
+64. Nadasdy Z (2009) Information encoding and reconstruction from the phase of action
+potentials. Front Syst Neurosci 3:6.
+65. Zandvakili A, Kohn A (2015) Coordinated neuronal activity enhances corticocortical
+communication. Neuron 87(4):827–839.
+66. Mitra PP, Pesaran B (1999) Analysis of dynamic brain imaging data. Biophys J 76(2):
+691–708.
+67. Jarvis MR, Mitra PP (2001) Sampling properties of the spectrum and coherency of
+sequences of action potentials. Neural Comput 13(4):717–749.
+68. Nichols TE, Holmes AP (2002) Nonparametric permutation tests for functional neuroimaging: A primer with examples. Hum Brain Mapp 15(1):1–25.
+69. Hawellek DJ, et al. (2013) Altered intrinsic neuronal interactions in the visual cortex of
+the blind. J Neurosci 33(43):17072–17080.
+70. Benjamini Y, Hochberg Y (1995) Controlling the false discovery rate: A practical and
+powerful approach to multiple testing. J R Stat Soc B 57(1):289–300.
+71. Hurtado JM, Rubchinsky LL, Sigvardt KA (2004) Statistical method for detection of
+phase-locking episodes in neural oscillations. J Neurophysiol 91(4):1883–1898.
+Hawellek et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13497
+NEUROSCIENCE

@@ -1,0 +1,67 @@
+Generalization of amygdala LTP and conditioned fear
+in the absence of presynaptic inhibition
+Hamdy Shaban1, Yann Humeau1,2, Cyril Herry1, Guillaume Cassasus1, Ryuichi Shigemoto3, Stephane Ciocchi1,
+Samuel Barbieri4, Herman van der Putten5, Klemens Kaupmann5, Bernhard Bettler4 & Andreas Lu¨thi1
+Pavlovian fear conditioning, a simple form of associative learning, is thought to involve the induction of associative, NMDA receptor–
+dependent long-term potentiation (LTP) in the lateral amygdala. Using a combined genetic and electrophysiological approach, we
+show here that lack of a specific GABAB receptor subtype, GABAB(1a,2), unmasks a nonassociative, NMDA receptor–independent form
+of presynaptic LTP at cortico-amygdala afferents. Moreover, the level of presynaptic GABAB(1a,2) receptor activation, and hence the
+balance between associative and nonassociative forms of LTP, can be dynamically modulated by local inhibitory activity. At the
+behavioral level, genetic loss of GABAB(1a) results in a generalization of conditioned fear to nonconditioned stimuli. Our findings
+indicate that presynaptic inhibition through GABAB(1a,2) receptors serves as an activity-dependent constraint on the induction of
+homosynaptic plasticity, which may be important to prevent the generalization of conditioned fear.
+Induction of NMDA receptor–dependent long-term potentiation
+(LTP) in the lateral amygdala is thought to underlie the acquisition
+of classical fear conditioning in rodents1–3. Projection neurons in the
+lateral amygdala receive converging thalamic and cortical sensory
+afferents that are simultaneously active during sensory experience1.
+Whereas LTP at thalamic afferents is thought to be induced and
+expressed postsynaptically3–6 (but see ref. 7), associative coactivation
+of thalamic and cortical afferents induces presynaptic LTP at cortical
+afferents involving the heterosynaptic activation of presynaptic NMDA
+receptors8. Thus, by means of these receptors, cortical afferents are able
+to detect and integrate the coincident activity of neighboring excitatory
+inputs. Given that neuronal activity and plasticity in the lateral
+amygdala is tightly constrained by local GABAergic inhibition5,9–11,
+this raises the question of whether presynaptic integration is also
+subject to inhibitory control.
+Presynaptic GABAergic inhibition of excitatory synaptic transmission can be mediated by ionotropic GABAA (ref. 12) and metabotropic
+GABAB receptors13. In the lateral amygdala, GABAA receptor–mediated
+inhibition has a major role in postsynaptic integration5,9–11. Presynaptic LTP at cortical afferents, however, is insensitive to GABAA receptor–
+mediated inhibition8, suggesting that presynaptic GABAA receptors do
+not play a major role at cortico-amygdala afferents. Indeed, there is
+accumulating evidence suggesting a role for GABAB receptors in
+regulating amygdala-dependent fear and anxiety14. However, whereas
+a role for GABAB receptors in presynaptic inhibition and integration at
+glutamatergic synapses is well documented in many brain areas13,15–17
+including the basolateral amygdala18,19, nothing is known about their
+role in the lateral amygdala.
+Functional GABAB receptors are generally thought to be heterodimers containing a GABAB(1) and a GABAB(2) subunit20. The
+GABAB(1) subunit exists in two predominant differentially expressed
+isoforms—GABAB(1a) and GABAB(1b). These differ by virtue of the fact
+that the GABAB(1a) isoform contains two ‘sushi repeats’ in the N
+terminal domain20. In the lateral amygdala, GABAB receptors are
+expressed at moderate to high levels21,22 and can be activated by
+afferent stimulation in vitro and in vivo9–11. These earlier studies
+focused on somato-dendritic GABAB receptors that inhibit the postsynaptic neuron by activating inwardly rectifying Kir3-type K+ channels, which give rise to a slow inhibitory postsynaptic potential23.
+Here we took a combined genetic and electrophysiological approach
+to determine the role of presynaptic GABAB receptors during
+the induction of presynaptic LTP in the lateral amygdala.
+Moreover, we analyzed whether the observed effects on LTP in the
+lateral amygdala are accompanied by behavioral alterations in Pavlovian fear conditioning.
+RESULTS
+GABAB blockade unmasks nonassociative homosynaptic LTP
+Whole-cell current-clamp recordings from projection neurons showing
+spike frequency adaptation upon depolarizing current injection were
+obtained in the dorsal subdivision of the lateral amygdala4,5. Stimulation of afferent fibers from the internal capsule, containing thalamic
+afferents4, and of those from the external capsule, containing cortical
+afferents24 (Fig. 1a), elicited monosynaptic excitatory postsynaptic
+potentials (EPSPs) of similar amplitudes and slopes. Simultaneous
+stimulation of cortical and thalamic afferents with a single Poisson train
+Received 17 April; accepted 6 June; published online 2 July 2006; doi:10.1038/nn1732
+1Friedrich Miescher Institute for Biomedical Research, CH-4058 Basel, Switzerland. 2Centre National de la Recherche Scientifique, Unite´ Mixte de Recherche 7168,
+F-67084 Strasbourg, France. 3Division of Cerebral Structure, National Institute for Physiological Sciences, Myodaiji, Okazaki 444-8585, CREST, Japan Science and
+Technology Corporation, Kawaguchi, Japan. 4Pharmazentrum, Department of Clinical-Biological Sciences, University of Basel, CH-4056 Basel, Switzerland. 5Novartis Institutes for Biomedical Research, Novartis Pharma AG, CH-4002 Basel, Switzerland. Correspondence should be addressed to A.L. (andreas.luthi@fmi.ch).
+1028 VOLUME 9 [ NUMBER 8 [ AUGUST 2006 NATURE NEUROSCIENCE
+ARTICLES
+© 2006 Nature Publishing Group http://www.nature.com/natureneuroscience

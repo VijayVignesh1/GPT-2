@@ -1,0 +1,885 @@
+Rapid recovery from the effects of early monocular
+deprivation is enabled by temporary inactivation
+of the retinas
+Ming-fai Fonga
+, Donald E. Mitchellb
+, Kevin R. Duffyb
+, and Mark F. Beara,1
+a
+Picower Institute for Learning and Memory, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139;
+and b
+Department of Psychology and Neuroscience, Dalhousie University, Halifax, NS, Canada B3H 4R2
+Edited by Robert C. Malenka, Stanford University School of Medicine, Stanford, CA, and approved October 17, 2016 (received for review August 9, 2016)
+A half-century of research on the consequences of monocular
+deprivation (MD) in animals has revealed a great deal about the
+pathophysiology of amblyopia. MD initiates synaptic changes in
+the visual cortex that reduce acuity and binocular vision by causing
+neurons to lose responsiveness to the deprived eye. However, much
+less is known about how deprivation-induced synaptic modifications
+can be reversed to restore normal visual function. One theoretically motivated hypothesis is that a period of inactivity can reduce
+the threshold for synaptic potentiation such that subsequent
+visual experience promotes synaptic strengthening and increased
+responsiveness in the visual cortex. Here we have reduced this
+idea to practice in two species. In young mice, we show that the
+otherwise stable loss of cortical responsiveness caused by MD is
+reversed when binocular visual experience follows temporary
+anesthetic inactivation of the retinas. In 3-mo-old kittens, we show
+that a severe impairment of visual acuity is also fully reversed by
+binocular experience following treatment and, further, that prolonged retinal inactivation alone can erase anatomical consequences of MD. We conclude that temporary retinal inactivation
+represents a highly efficacious means to promote recovery of function.
+ocular dominance plasticity | metaplasticity | amblyopia | visual cortex |
+lateral geniculate nucleus
+Amblyopia is a widespread form of human visual disability
+that arises from imbalanced visual experience in the two
+eyes during infancy or early childhood. The core pathophysiological process underlying amblyopia is ocular dominance plasticity in the primary visual cortex (V1). Ocular dominance
+plasticity, evolutionarily conserved in mammals with binocular
+vision, has become a classic paradigm for studying how brain
+development is influenced by experience and deprivation. A
+brief period of monocular deprivation (MD) during early postnatal life causes functional depression of synapses in V1 that
+serve the deprived eye (1–7). Consequently, early-life MD severely and persistently degrades visual acuity through the deprived eye, which typically fails to recover spontaneously when
+binocular vision is restored (8–10). A critical step in developing targeted interventions for treating amblyopia is to identify
+strategies for reversing deprivation-driven synaptic modifications
+in V1.
+The traditional approach to promote recovery following MD
+has been to occlude the strong eye to force vision through the
+weak amblyopic eye. This “reverse occlusion” approach has been
+validated in animals (11, 12) and represents the cornerstone of
+current treatment (patching therapy) of human amblyopia (13–
+16). However, this treatment has well-known limitations that
+include poor compliance, potential loss of vision through the
+newly patched eye, failure to recover binocular vision, and a
+declining treatment efficacy with age (15, 17–21). Nevertheless,
+the success of reverse occlusion strategies demonstrates that severely weakened synaptic inputs in the brain can be rejuvenated
+under appropriate circumstances.
+An insight into how reverse occlusion might promote recovery
+came from a study in cat V1, which showed that neurons lose
+responsiveness to the newly occluded eye days before gaining
+responses to the newly open (amblyopic) eye (22). It is now
+understood that the qualities of cortical synaptic plasticity depend on the recent history of cortical activity, a property called
+metaplasticity (23). After a period of attenuated cortical activity,
+the threshold for synaptic potentiation is reduced (24–26). Thus,
+the period of quiescence that immediately follows initiation of
+reverse occlusion lowers the threshold for synaptic potentiation,
+enabling subsequent visual experience to increase synaptic effectiveness when it would have otherwise been without effect
+(27). An intriguing possibility is that imposition of a period of
+binocular inactivity following early MD could be sufficient to
+promote visual recovery without forcing the eyes to compete.
+In support of this concept, studies have shown that exposure
+of adult rats and kittens to a period of continuous darkness can
+prime the visual cortex for recovery from the effect of MD when
+vision is restored to the deprived eye (28–30). However, available data suggest that this priming effect requires ≥10 d of
+darkness, which cannot be interrupted, even briefly, by light
+exposure and cannot be substituted with binocular lid closure
+(31, 32). Further, work in kittens has shown that when initiated
+before 10 wk of age, exposure to total darkness itself can cause
+temporary visual impairment and even blindness before 7 wk of
+age (33). Thus, although these results show the potential of
+using insights gained from the study of synaptic plasticity to
+promote recovery of function (34), application of this approach
+to clinical practice presents many challenges.
+Significance
+Normal development of the visual cortex depends critically on
+early life visual experience. In humans, a disparity in the quality
+of vision between two eyes during infancy or early childhood
+leads to a visual impairment called amblyopia. In animal models,
+amblyopia can be induced early in life using a brief period of
+monocular deprivation via eyelid closure. Here we show in two
+evolutionarily divergent species that experimental amblyopia
+can be rapidly corrected if binocular visual experience is restored
+after temporarily silencing the retinas with a local anesthetic.
+These findings point the way to an approach for clinical management of amblyopia with advantages over the current standard of care.
+Author contributions: M.-f.F., D.E.M., K.R.D., and M.F.B. designed research; M.-f.F., D.E.M.,
+and K.R.D. performed research; M.-f.F., D.E.M., K.R.D., and M.F.B. analyzed data; and M.-f.F.,
+D.E.M., K.R.D., and M.F.B. wrote the paper.
+Conflict of interest statement: The authors disclose a patent filing on the use of retinal
+inactivation to treat human amblyopia.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+1
+To whom correspondence should be addressed. Email: mbear@mit.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1613279113/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1613279113 PNAS | December 6, 2016 | vol. 113 | no. 49 | 14139–14144
+NEUROSCIENCE
+In the current study, we set out to examine an alternative
+method involving temporary anesthetic inactivation of the
+retinas. For decades, researchers of visual system development have used tetrodotoxin (TTX) to investigate the consequences of blocking action potentials in retinal ganglion
+cells. A single dose, administered by microinjection into the
+vitreous humor, can locally block all impulse activity in the
+optic nerve for a day or two. Of significance, inactivation of
+one eye with TTX fails to trigger depression of deprived-eye
+responses in V1 that is observed after comparable periods of
+monocular deprivation by lid closure or image blurring (5, 7,
+35–37). Thus, brief inactivation of both eyes with TTX could
+potentially augment recovery of function by lowering the plasticity threshold without the liability associated with other forms
+of deprivation. Furthermore, because the retinas are silent until
+the drug wears off, compliance is assured.
+To test this hypothesis, we performed parallel studies in
+mice and kittens. Our interest in mice was driven by the utility
+of this species for mechanistic studies. Although the immediate effects of MD in mice have been well documented, less
+was known about the stability of these effects. Therefore, we
+first conducted a longitudinal electrophysiological study to
+track V1 responsiveness to stimulation of the two eyes in
+awake mice for several weeks following early-life MD. We
+found that 7 d of MD drove a profound reduction in visual
+cortical responsiveness to deprived eye vision that persisted
+through adulthood, validating this species as a model to study
+the pathophysiology of amblyopia. We then investigated the
+effect of bilateral retinal inactivation and observed a complete recovery from the effect of MD once binocular visual
+experience was restored. We also studied treatment effectiveness in the cat, which for decades has been the preferred
+species to study the effects of MD on visual system physiology, anatomy, and behavior. We found that bilateral retinal
+inactivation followed by a short period of binocular visual
+experience promoted fast recovery of the visual acuity of the
+deprived eye to normal levels. Further, we discovered that
+even in the absence of subsequent visual experience, prolonged TTX treatment led to recovery from the anatomical
+consequences of MD on the visual thalamus of kittens. Our
+experiments demonstrate, in two species, that temporary retinal
+inactivation is an effective strategy for promoting rapid recovery
+from MD-driven visual impairments.
+Results
+Monocular Deprivation Drives Lasting Visual Impairment in Mice.
+Mice are commonly used for mechanistic studies of ocular
+dominance plasticity in response to early-life MD (3, 5, 38).
+Recent investigations have focused on the mechanisms responsible for the loss of responsiveness to the deprived eye (39,
+40), but very little is known about the stability of these changes
+or whether they can be reversed. To address these questions,
+we chronically recorded visual evoked potentials (VEPs) in
+thalamo-recipient layer 4 of binocular V1 over the course of
+several weeks in three cohorts of mice (Fig. 1). One group had
+normal visual experience; the second was monocularly deprived
+by eyelid closure from postnatal day (P) 26 to P33 followed by
+normal binocular visual experience; and the third group was
+treated as the second except that the period of MD was followed
+by a single dose of TTX injected into the vitreous humor of both
+eyes (Fig. 1 A–C). TTX is a long-lasting voltage-gated sodium
+channel blocker, and in agreement with previous studies (7, 41),
+we found that a single dose completely abolished visual responses for 24–48 h, followed by a gradual recovery. In all MD
+cases, VEPs were recorded from V1 contralateral to the deprived eye (Fig. 1A).
+In agreement with previous reports (5, 42), 7-d MD drove a
+profound reduction in the magnitude of VEPs during presentation of phase-reversing sinusoidal grating stimuli to the deprived eye [Fig. 1D, Center; P = 0.0006; 0.2 cycles per degree
+(cpd)]. Further, we found that deprived-eye VEP magnitude
+remained significantly reduced after 1 wk and 1 mo of binocular visual experience following MD, compared with pre-MD
+baseline values (Fig. 1D, Center; 1 wk: P = 0.0246; 1 mo: P =
+0.0023) and to sham littermate controls (Fig. 1D, Left; 1 wk:
+P = 0.0020; 1 mo: P = 0.0204). The sustained depression of
+deprived-eye responses was also observed at lower and higher
+spatial frequencies (Fig. S1). These results demonstrate that
+the visual deficit observed after 7 d of MD is long lasting and further
+validate the mouse as a useful animal model of amblyopia.
+Temporary Retinal Inactivation Promotes Electrophysiological
+Recovery in Amblyopic Mice. After confirming depression of deprived-eye VEP magnitude immediately following 7-d MD (Fig.
+1D, Right; P = 0.0099; 0.2 cpd), a cohort of mice received a
+binocular intravitreal TTX injection, eliminating retinal activity
+for ∼2 d, followed by normal binocular experience. Subsequent
+VEP recordings revealed responses to the deprived eye that
+actually exceeded baseline values 1 wk later (P = 0.0562) and
+were no different from baseline 1 mo later (P = 0.9454). Visually
+evoked responses in animals that experienced binocular inactivation following MD were significantly increased over littermates that experienced MD only (Fig. 1 D and E; 1 wk: P <
+0.0001; 1 mo: P = 0.0028) and were statistically indistinguishable
+from sham littermate controls that had no MD (1 wk: P = 0.6442;
+1 mo: P = 0.7981). Assessment of VEPs measured with lower and
+higher spatial frequency stimuli (0.05 and 0.4 cpd, respectively)
+revealed similar trends, although recovery for the higher spatial
+frequency was not observed immediately, but instead occurred
+between 1 wk and 1 mo following the injection (Fig. S1). Meanwhile, binocular inactivation had no lasting impact on nondeprived
+eye responses (Fig. 1E and Fig. S1). Thus, whereas early-life MD
+in mice can drive a sustained deficit in V1 responsiveness to vision
+through the deprived eye, this deficit can be eliminated following
+binocular retinal inactivation.
+Temporary Retinal Inactivation Restores Visual Acuity in Amblyopic
+Kittens. Although mice are useful for mechanistic studies of
+amblyopia, the species with the longest history and richest
+database is the cat. Advantages of the cat include visual
+pathways that share a similar organization to those of primates, good visual acuity, stereoscopic vision, and functional
+and morphological responses to early MD that are very large
+and similar to those observed in primates. The lineage of
+modern cats and mice diverged early in mammalian evolution,
+even before the divarication of rodents and primates (43). A
+similar response to treatment in cats and mice would thus be
+consistent with evolutionary conservation of a common mechanism that might apply generally to visual mammals, including
+humans.
+Visual acuity was measured in kittens using a two-alternative
+forced-choice discrimination task (30, 44) (Fig. 2A). Consistent
+with previous studies, we found that 7-d MD initiated at P30
+induced a long-lasting deficit in deprived-eye visual acuity (Fig. 2
+B–D). In our first pilot experiment (animal C349) we injected the
+eyes with two doses of TTX 2 d apart, starting on P99, ∼2 mo
+after the deprived eye had been opened (Fig. 2B). Remarkably,
+within 1 wk of the return of normal acuity in the nondeprived eye
+(reflecting clearance of the TTX), we observed a rapid and
+complete recovery from amblyopia in the fellow deprived eye. To
+confirm this encouraging result, we repeated the experiment in
+three littermates using a similar experimental design (Fig. 2C).
+Assessed with the pupillary light reflex and visual placement
+behavior, it appeared that blockade of retinal activity lasted ∼5 d,
+with full restoration of vision through the nondeprived eye
+apparent 10 d after the first TTX dose. Over the next 10 d,
+acuity in the deprived (amblyopic) eyes of all three additional
+kittens increased until it was indistinguishable from that of the
+nondeprived eye.
+In a fifth kitten (C362) we attempted to investigate the
+effect of a single binocular dose of TTX at P94 (Fig. 2D). Unfortunately, although visuomotor behavior was affected by the
+14140 | www.pnas.org/cgi/doi/10.1073/pnas.1613279113 Fong et al.
+treatment, the kitten showed incomplete pupil dilation as well as
+weak light reflexes and visual placing responses. The animal’s
+impairment on the behavioral task indicated that retinal activity
+was at least partially disrupted, although the sustained visual
+reflexes suggested that activity blockade was incomplete. Interestingly, we also failed to observe any recovery of acuity in the
+deprived eye, suggesting that a partial activity blockade is insufficient for promoting visual recovery. We attempted a second
+TTX injection, 1.5 mo after the initial injection. This time, the
+treatment successfully blocked visual reflexes (indicative of a
+complete retinal activity blockade) in both eyes, and we observed
+a full recovery of acuity in the deprived eye over the next 2 wk
+(Fig. 2D). Together, these data suggest that complete blockade
+of retinal spiking is required to promote visual recovery, and
+that a single administration of an inactivating agent can promote normal visual acuity even several months after MD.
+Sustained Retinal Inactivation Drives Anatomical Recovery from
+Consequences of MD in Kittens. In cats as in monkeys, substantial
+shrinkage of neurons occurs in the layers of the lateral geniculate
+nucleus (LGN) that relay information to V1 from the deprived
+eye. Shrinkage of these neurons correlates well with the loss of
+their axonal arbors and synaptic influence in V1 (45–48). Thus,
+assessment of LGN cell-size changes after MD ± TTX has the
+potential to provide additional insight into how the treatment
+promotes recovery. We found that 7-d MD produced a clear
+deprivation effect (expressed as the percent difference in cell size
+between deprived and nondeprived LGN layers) (48) (Fig. 3 A
+and D), which was still apparent in animals receiving 2–3 doses of
+TTX every 2 d immediately following MD (Fig. 3D). This finding
+indicates that brief binocular activity blockade itself does not
+restore function to deprived-eye cortical inputs, but possibly
+primes the cortex for recovery when the TTX wears off and
+binocular vision is provided. However, we also found that with
+five binocular doses over 10 d, soma sizes in deprived layers of
+LGN returned to normal and the deprivation effect was eliminated (Fig. 3 B, D, and E). This striking finding contrasts with the
+effect of treating only the deprived eye with TTX, which further
+exacerbated the deprivation effect (Fig. 3 C and E). Thus, some
+aspects of recovery are experience independent, as they occur
+during the period of retinal inactivation and presumably provide a
+scaffold for visual recovery that ensues with subsequent binocular
+vision.
+Discussion
+Our experiments reveal that stable electrophysiological, anatomical, and behavioral consequences of early-life MD can be
+fully and rapidly reversed in two evolutionarily distant species,
+kittens and mice, when binocular visual experience is restored
+following temporary bilateral anesthetic inactivation of the retinas. These findings suggest the possibility of developing a treatment modality for amblyopia with significant advantages over the
+current standard of care.
+Kittens historically have been a preferred animal model to
+study ocular dominance plasticity, in part because of clear
+relevance of the findings to human amblyopia. As is the case in
+humans and nonhuman primates, MD and reverse occlusion
+are effective in kittens only during a well-defined sensitive
+period of early postnatal development; the physiological and
+anatomical changes in LGN and V1 correlate with altered
+acuity and binocularity assessed behaviorally; and temporary
+deprivation produces visual deficits that persist even when
+normal visual experience is restored. However, over the past
+A
+Contralateral eye Ipsilateral eye
+binocular V1
+(recording site) B
+Monocular
+VEPs
+Contralateral eye
+recording
+Ipsilateral eye
+recording
+C
+P23
+Implant Record
+P26
+Close eyelid
+or sham suture
+Contra:
+Ipsi:
+Age: P33 P40 P61
+Record Record
+Inject TTX or
+saline (binocular)
+Record
+Open eyelid or
+sham opening
+Habituate Contralateral eye Eyelid closure (or sham)
+Ipsilateral eye Retinal inactivation (or saline)
+...
+...
+E
+0
+50
+100
+150
+200
+VEP magnitude
+(% of baseline recording)
+Contralateral (deprived) Ipsilateral (non-deprived)
+Sham
+MD
+MD then TTX
+Sham
+MD
+MD then TTX
+baseline
+1 hour
+1 week
+1 month
+baseline
+1 hour
+1 week
+1 month
+Time since opening (or sham opening) contralateral eye
+† ‡ † § † §
+D Sham (n=11)
+Contralateral
+Ipsilateral
+baseline
+1 hour
+1 week
+1 month
+VEP magnitude (µV)
+0
+50
+100
+150
+200
+250
+300
+baseline
+1 hour
+1 week
+1 month
+Time since opening (or sham opening) contralateral eye
+50 µV
+500 ms
+MD then TTX (n=11)
+350
+*
+TTX
+MD (n=12)
+*
+* *
+baseline
+1 hour
+1 week
+1 month
+Fig. 1. Binocular retinal inactivation following MD promotes recovery of
+visually evoked responses in mouse V1. (A) Coronal section of mouse brain
+showing recording site relative to eyes. (B) Cartoon showing VEPs measured during visual stimulus presentation to the contralateral or ipsilateral
+eyes. (C) Experimental timeline. Seven days of MD or sham MD of the
+contralateral eye were followed by intravitreal injections of TTX or saline
+into both eyes. (D) Mean monocular VEP magnitudes for littermates that
+underwent sham eyelid closure followed by saline injections (sham, n =
+11), MD followed by saline injections (MD, n = 12), or MD followed by TTX
+injections (MD then TTX, n = 11). Deprived eye responses varied for each
+treatment group over time [time, F(3, 93) = 7.116, P < 10−3
+; treatment, F(2,
+31) = 7.963, P < 10−2
+; and interaction, F(6, 93) = 5.166, P < 10−3
+], with MD
+significantly reducing responses to vision through the deprived, contralateral eye compared with its own baseline (Dunnett: MD, P = 0.0006; MD
+then TTX, P = 0.0099; and sham, P = 0.5524) and compared with sham
+controls (Tukey: sham vs. MD, P = 0.0011; sham vs. MD then TTX, P =
+0.0093; and MD vs. MD then TTX, P = 0.82). Contralateral responses recovered following binocular retinal inactivation (Dunnett: baseline vs.
+1 wk, P = 0.0562 and baseline vs. 1 mo, P = 0.9454) and were statistically
+indistinguishable from sham controls (Tukey: 1 wk, P = 0.9866 and 1 mo,
+P = 0.9347). Error bars, SEM. Asterisks denote statistically significant differences from baseline (Dunnett, adjusted P < 0.05). Stimulus spatial frequency: 0.2 cpd. (E) Mean monocular VEP magnitudes over time
+normalized to baseline values. Contralateral VEP magnitudes varied for
+each treatment group over time [time, F(3, 93) = 5.514, P < 10−2
+; treatment, F(2, 31) = 7.481, P < 10−2
+; and interaction, F(6, 93) = 4.225, P < 10−3
+]. Error
+bars, SEM. Statistical significance between treatment groups (Tukey, P <
+0.05) is denoted by † (sham vs. MD), ‡ (sham vs. MD then TTX), or x (MD vs.
+MD then TTX). Ipsilateral VEP magnitudes were not significantly different
+across time or between treatment groups [time, F(3, 93) = 1.879, P =
+0.1386; treatment, F(2, 31) = 0.3222, P = 0.7270; and interaction, F(6, 93) =
+1.020, P = 0.4172].
+Fong et al. PNAS | December 6, 2016 | vol. 113 | no. 49 | 14141
+NEUROSCIENCE
+20 y, mice have supplanted other species for the investigation
+of visual cortical plasticity because of their numerous advantages for interventional mechanistic studies. Mice show many
+of the expected responses to temporary MD, including robust
+depression of deprived-eye responses. However, one unusual
+feature of mouse ocular dominance plasticity is that it persists
+well into adulthood (42), particularly when visual experience
+is enriched (49, 50). An additional complication is that the
+ocular dominance shift initiated in adults reverts spontaneously when binocular vision is restored (51, 52) or if both
+eyelids are closed (53). Thus, for the mouse to serve as a
+useful model for amblyopia following early-life MD, it was of
+particular importance to understand the degree to which the
+juvenile ocular dominance shift persists when binocular experience is restored. Previous studies in juvenile mice have
+shown that deprived-eye visual deficits persist through adulthood following 13-d MD ending at P32 (10), but not 4- to 5-d
+MD ending at P30 (51, 54). In our study, we monitored
+spontaneous recovery following 7-d MD (P26–P33). We took
+advantage of the fact that the effects of MD could be followed
+in the same animals through chronically implanted electrodes
+in V1. These longitudinal recordings revealed that like cats and
+primates, 7-d early MD in mice depresses responses to stimulation of the deprived eye, and this response depression persists
+for weeks. Whereas we did observe some evidence of spontaneous recovery during the first week after MD (Fig. S1B), deprived-eye responses in MD animals were still well below sham
+controls. These findings establish 7 d of early MD in mice as a
+useful protocol to investigate strategies for reversing ocular
+dominance plasticity and promoting recovery from amblyopia.
+It has been known for many years from work in kittens and
+monkeys that deprivation-induced synaptic depression can be
+reversed if normal vision is restored in the weak (amblyopic)
+eye and the fellow eye is occluded (11, 12). However, gains in
+the amblyopic eye often come at the expense of vision in the
+fellow eye, may be temporary, and are rarely accompanied by
+improvement in binocularity (9, 17–19). Further, as a treatment for human amblyopia, patching is limited by poor compliance, has a variable outcome, and is effective only when
+initiated in early childhood (16, 19). A better understanding of
+what allows recovery with patching might suggest improvements
+over the current standard of care. One view is that recovery is
+enabled by a reduction in cortical activity that occurs when the
+strong eye is occluded (27). Support for this idea comes from
+findings that exposure of rats (28) and kittens (30, 32) to
+complete darkness for 10–14 d can promote recovery from the
+effects of MD when visual experience is restored. The fact that
+darkness, but not bilateral lid closure (31) is effective suggests
+that a key variable in changing the threshold for cortical plasticity is the level and/or variance of residual retinal activity. Our
+current findings using TTX to silence retinal activity directly
+support this hypothesis.
+Dark exposure (to lower the plasticity threshold) followed by
+repetitive (55) or dichoptic (56) visual training exercises (to use
+binocular cooperativity to strengthen weak synapses in V1) offers a neurobiologically sound alternative to reverse occlusion
+(patching) as a treatment for amblyopia. However, previous
+studies in kittens have found that very brief daily light exposure eliminated the therapeutic effects of an otherwise uninterrupted 10-d period of darkness (32). Further, shortening
+the duration of absolute darkness to 5 d was insufficient to
+promote recovery of visual acuity or mobilize neuroplasticity
+mechanisms (30, 32). Therefore, the infrastructure and strict
+compliance requirements for effective dark exposure therapy
+could present a serious obstacle for clinical application of this
+approach, particularly to medically underserved communities
+(57, 58). In these respects, complete silencing of the retinas
+could offer significant advantages over dark exposure. Our data
+show rapid and complete recovery of visual responsiveness and
+acuity after binocular TTX treatment can be achieved following
+a single dose. In addition to shortening the treatment duration,
+pharmacological inactivation of the retinas represents a portable treatment that can circumvent compliance issues associated with enforcing an extended period of darkness. If the
+risks of the procedure and the duration of blockade can be
+minimized, while maintaining efficacy, the brevity of the period of visual incapacitation makes it potentially of greater
+appeal than the longer period of total darkness required to
+promote equivalent recovery. We believe the current findings are
+sufficiently compelling to justify additional preclinical studies to
+establish safety, minimal treatment duration, the maximal age of
+A Deprived eye
+Non-deprived eye
+Eyelid closure
+Retinal inactivation
+C
+TTX
+blind
+0
+1
+2
+3
+4
+5
+6
+7
+8
+open door
+Inject TTX
+Inject TTX
+Grating acuity
+(cycles/degree)
+DE
+BV
+NDE
+C363 C364 C365
+DE:
+NDE:
+Close eyelid Open eyelid
+0
+Days since opening deprived eye
+5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85
+P30 P37 P94 P96 P122
+Range of normal
+acuity @ P100
+D
+P30 P37
+DE:
+NDE:
+Close eyelid Open eyelid
+...
+...
+blind
+0
+1
+2
+3
+4
+5
+6
+7
+8
+open door Grating acuity (cycles/degree)
+Inject TTX Inject TTX
+DE
+NDE
+BV
+Days since opening deprived eye
+30 35 40 45 50 55 60 65 70 75 80 85 90 95 100
+105
+110
+115
+120
+P67 P94 P135 P157
+TTX (visual reflexes TTX
+not eliminated)
+?
+?
+DE
+BV
+B
+P67 P99 P101 P122
+Days since opening deprived eye
+blind
+0
+1
+2
+3
+4
+5
+6
+7
+8
+open door Grating acuity (cycles/degree)
+30 35 40 45 50 55 60 65 70 75 80
+TTX
+Inject TTX
+Inject TTX
+85
+DE:
+NDE:
+Close eyelid Open eyelid
+P30 P37
+...
+...
+Fig. 2. Binocular retinal inactivation following MD
+promotes recovery of visual acuity in behaving kittens.
+(A) The jumping stand used to test grating acuity. (B)
+Visual spatial acuity of the deprived eye (DE: blue) and
+nondeprived eye (NDE), assessed using binocular vision
+(BV: green) of a kitten (C349) that received two injections of TTX at P99 and P101. The period of complete
+and waning retinal inactivation that ensued is depicted
+by completeness of black shading. As with subsequent
+panels, the rearing history is displayed in schematic form
+above the graph. Gray shading shows the range of
+grating acuities measured in normal kittens by use of the
+same testing procedure. The designations “blind“ and
+“open door” refer, respectively, to an inability or ability
+to locate a closed door on the jumping stand by visual
+cues alone. (C) The visual acuity of the DE and NDE
+tested in three littermates (C363, C364, and C365) before
+and after two binocular intravitreal injections of TTX
+made at P94 and P96. All animals received a 7-d period
+of MD at P30 (NDE acuity assessed monocularly: yellow;
+other conventions as in A). (D) Results from C362 that
+received an initial binocular TTX injection at P94 that
+apparently did not achieve full retinal activity block as
+the pupils were not dilated fully and visual placing behavior was still evident. Although the animal appeared
+blind on the jumping stand, the acuity of the NDE recovered to normal in 8 d but the acuity of the DE
+recovered only to its preinjection level. Remarkably,
+following a second binocular intravitreal injection at
+P135 the acuity of this eye recovered to normal levels.
+14142 | www.pnas.org/cgi/doi/10.1073/pnas.1613279113 Fong et al.
+treatment effectiveness, and the maximal duration of MD that
+can be corrected.
+In light of the translational potential, it is important to
+consider questions and concerns raised by this approach.
+First, TTX is a highly potent blocker of sodium-dependent
+action potentials. Although systemic exposure to TTX can
+be lethal, this risk is minimized by microinjection into the
+eyes. TTX was chosen for our experiments because a single
+treatment produces a long-lasting block of sodium channels,
+but there are many other approaches to achieve the same
+goal of silencing retinal output and it will be important for
+future studies to evaluate these alternatives. Second, although intravitreal injections are a routine ophthalmological
+procedure, they are not entirely without risk to the retina.
+The benefits of this or related approaches (e.g., retrobulbar
+block) will need to be weighed carefully against the risk
+of complications. Finally, there is an obvious requirement
+for monitoring patient safety during the period of temporary blindness.
+Caveats aside, the remarkable effects of temporary inactivation of the visual pathway demonstrate that V1 synapses can be rejuvenated and at least some forms of amblyopia
+can be reversed. An urgent goal of future studies will be to
+assess precisely how retinal inactivation creates conditions in
+the ascending visual pathway that promote recovery. For
+example, it has been shown in mice that retinal silencing
+with TTX can promote bursting in the LGN (41) and burst
+stimulation of the geniculate can potentiate VEPs (59). Homeostatic adaptations that facilitate experience-dependent
+synaptic potentiation (24, 60, 61), such as reduced cortical
+inhibition and alterations in the properties of NMDA receptors (62–64), could also contribute to the therapeutic effects of retinal inactivation. We are encouraged to believe
+that the approach described here, and/or the knowledge gained
+by studying it, might ultimately have therapeutic potential for
+the treatment of amblyopia and other types of neurological
+rehabilitation.
+Materials and Methods
+All mouse experiments adhered to the National Institutes of Health Guide
+for the Care and Use of Laboratory Animals (65) and were approved by
+the Committee on Animal Care at the Massachusetts Institute of Technology (MIT). All cat experiments conformed to guidelines of the Canadian
+Council on Animal Care and were conducted according to protocols approved by the University Committee on Laboratory Animals at Dalhousie
+University. Details on experimental procedures are provided in SI Materials
+and Methods.
+ACKNOWLEDGMENTS. We thank Yasemin Atiyas, Julia Deere, and Filia
+Van Dessel for assistance with the collection of mouse data; Paige
+Northrup for assistance with the kitten studies; and Jeffrey Gavornik and
+Arnold Heynen for performing key pilot experiments. This research was
+supported by National Eye Institute Grant 5R01EYO23037-03 (to M.F.B.),
+Canadian Institutes of Health Research Grant 102653 (to K.R.D. and D.E.M.),
+Natural Sciences and Engineering Research Council Discovery Grants 298167
+(to K.R.D.) and 7660 (to D.E.M.), the Picower Institute Innovation Fund, and the
+Howard Hughes Medical Institute.
+A
+Non-deprived A1
+Deprived A1
+Deprived eye
+Non-deprived eye
+Eyelid closure
+Retinal inactivation
+P37
+Close eyelid Perfuse
+DE:
+NDE:
+Age: P30
+7d MD Ipsi eye
+DI = 16%
+B
+Non-deprived A1
+Deprived A1
+P37 P44
+Open eyelid Inject TTX (binoc)
+P39 P40 P42 P46
+Close eyelid Perfuse
+DE:
+NDE:
+Age: P30
+7d MD Ipsi eye then
+10d binocular TTX
+DI = -4.6%
+C
+Non-deprived A1
+Deprived A1
+Close eyelid
+DE:
+NDE:
+Open eyelid Inject TTX (DE) Perfuse
+Age: P39 P40 P42 P46 P30 P37 P44
+7d MD Ipsi eye then
+10d TTX into ipsi eye
+DI = 39%
+D
+Deprivation index
+(% difference)
+-10
+-5
+0
+5
+10
+15
+20
+25
+MD:
+TTX:
+7d
+10d
+7d
+6d
+7d
+4d
+7d
+-
+-
+-
+E
+2)
+0
+50
+100
+150
+200
+250
+300
+350
+left right DE NDE
+Normal 7d MD +
+Binoc TTX
+DE NDE
+7d MD +
+Monoc TTX
+A
+A1
+Fig. 3. Recovery of neuron soma size in the kitten LGN following prolonged
+binocular retinal inactivation. (A, Top) Schematic depicting rearing history.
+Kittens received retinal TTX immediately after the period of MD to isolate
+the effect of inactivation on recovery and in the absence of any visual experience. (Left) Low magnification image of the LGN stained for Nissl substance after 7-d MD started at P30. Arrow indicates deprived eye (DE) layer
+(lamina A1, ipsilateral to the DE). (Scale bar, 1 mm.) (Right) High magnification images from NDE (Top) and DE (Bottom) A1 layers after 7-d MD.
+(Scale bar, 25 μm.) (B and C) Same as A except that MD was followed by 10 d
+of binocular retinal silencing (B) or monocular retinal silencing of the DE
+(C). (D) Stereological quantification of neuron soma size within DE and NDE
+A and A1 LGN layers (deprivation index, DI) revealed that after MD, DE
+neurons recovered progressively during the period of binocular inactivation
+so that DE and NDE neurons were of equal size by 10 d. Dashed line denotes
+DI observed in normal kittens. Colors denote normal visual experience
+(green), 7-d MD alone (gray), or 7-d MD followed by binocular TTX (black).
+Center values and error bars, mean ± SD. (E) Average left- and right-eye
+neuron soma size from age-matched normal controls (Left), and when MD
+was followed by binocular (Center) or monocular (Right) retinal inactivation.
+The restoration of balanced DE and NDE neuron size induced by binocular
+inactivation was the product of recovery rather than generalized shrinkage
+because (i) compared with monocular inactivation the size of DE neurons
+after binocular treatment was significantly larger [F(2, 15) = 5.79, P = 0.013;
+Bonferroni, P < 0.05], and (ii) neuron size after binocular silencing was not
+different from normal control data (Bonferroni, P > 0.05). Dashed line denotes average value observed from normal kittens. Closed and open symbols
+indicate measurements from A and A1 LGN layers, respectively, and colors
+denote normal visual experience (green), the DE (blue), or the NDE (yellow).
+Center values and error bars, mean ± SD.
+Fong et al. PNAS | December 6, 2016 | vol. 113 | no. 49 | 14143
+NEUROSCIENCE
+1. Wiesel TN, Hubel DH (1963) Single-cell responses in striate cortex of kittens deprived
+of vision in one eye. J Neurophysiol 26:1003–1017.
+2. Shatz CJ, Stryker MP (1978) Ocular dominance in layer IV of the cat’s visual cortex and
+the effects of monocular deprivation. J Physiol 281:267–283.
+3. Gordon JA, Stryker MP (1996) Experience-dependent plasticity of binocular responses
+in the primary visual cortex of the mouse. J Neurosci 16(10):3274–3286.
+4. LeVay S, Wiesel TN, Hubel DH (1980) The development of ocular dominance columns
+in normal and visually deprived monkeys. J Comp Neurol 191(1):1–51.
+5. Frenkel MY, Bear MF (2004) How monocular deprivation shifts ocular dominance in
+visual cortex of young mice. Neuron 44(6):917–923.
+6. Khibnik LA, Cho KK, Bear MF (2010) Relative contribution of feedforward excitatory
+connections to expression of ocular dominance plasticity in layer 4 of visual cortex.
+Neuron 66(4):493–500.
+7. Coleman JE, et al. (2010) Rapid structural remodeling of thalamocortical synapses
+parallels experience-dependent functional plasticity in mouse primary visual cortex.
+J Neurosci 30(29):9670–9682.
+8. Harwerth RS, Smith EL, 3rd, Boltz RL, Crawford ML, von Noorden GK (1983) Behavioral studies on the effect of abnormal early visual experience in monkeys: Spatial
+modulation sensitivity. Vision Res 23(12):1501–1510.
+9. Mitchell DE (1988) The extent of visual recovery from early monocular or binocular
+visual deprivation in kittens. J Physiol 395:639–660.
+10. Prusky GT, Douglas RM (2003) Developmental plasticity of mouse visual acuity. Eur J
+Neurosci 17(1):167–173.
+11. Blakemore C, Van Sluyters RC (1974) Reversal of the physiological effects of monocular deprivation in kittens: Further evidence for a sensitive period. J Physiol 237(1):
+195–216.
+12. Blakemore C, Garey LJ, Vital-Durand F (1978) The physiological effects of monocular deprivation and their reversal in the monkey’s visual cortex. J Physiol 283:
+223–262.
+13. Drummond GT, Scott WE, Keech RV (1989) Management of monocular congenital
+cataracts. Arch Ophthalmol 107(1):45–51.
+14. Robb RM, Mayer DL, Moore BD (1987) Results of early treatment of unilateral congenital cataracts. J Pediatr Ophthalmol Strabismus 24(4):178–181.
+15. Birch EE, Swanson WH, Stager DR, Woody M, Everett M (1993) Outcome after very
+early treatment of dense congenital unilateral cataract. Invest Ophthalmol Vis Sci
+34(13):3687–3699.
+16. Lewis TL, Maurer D (2005) Multiple sensitive periods in human visual development:
+Evidence from visually deprived children. Dev Psychobiol 46(3):163–183.
+17. Murphy KM, Mitchell DE (1987) Reduced visual acuity in both eyes of monocularly
+deprived kittens following a short or long period of reverse occlusion. J Neurosci 7(5):
+1526–1536.
+18. Mitchell DE (1991) The long-term effectiveness of different regimens of occlusion on
+recovery from early monocular deprivation in kittens. Philos Trans R Soc Lond B Biol
+Sci 333(1266):51–79.
+19. Birch EE (2013) Amblyopia and binocular vision. Prog Retin Eye Res 33:67–84.
+20. Birch EE, Stager DR (1996) The critical period for surgical treatment of dense congenital unilateral cataract. Invest Ophthalmol Vis Sci 37(8):1532–1538.
+21. Ellemberg D, Lewis TL, Maurer D, Brent HP (2000) Influence of monocular deprivation
+during infancy on the later development of spatial and temporal vision. Vision Res
+40(23):3283–3295.
+22. Mioche L, Singer W (1989) Chronic recordings from single sites of kitten striate cortex
+during experience-dependent modifications of receptive-field properties. J Neurophysiol
+62(1):185–197.
+23. Abraham WC, Bear MF (1996) Metaplasticity: The plasticity of synaptic plasticity.
+Trends Neurosci 19(4):126–130.
+24. Kirkwood A, Rioult MC, Bear MF (1996) Experience-dependent modification of synaptic plasticity in visual cortex. Nature 381(6582):526–528.
+25. Philpot BD, Cho KK, Bear MF (2007) Obligatory role of NR2A for metaplasticity in
+visual cortex. Neuron 53(4):495–502.
+26. Kuo MC, Dringenberg HC (2009) Short-term (2 to 5 h) dark exposure lowers long-term
+potentiation (LTP) induction threshold in rat primary visual cortex. Brain Res 1276:
+58–66.
+27. Cooper LN, Bear MF (2012) The BCM theory of synapse modification at 30: Interaction
+of theory with experiment. Nat Rev Neurosci 13(11):798–810.
+28. He HY, Ray B, Dennis K, Quinlan EM (2007) Experience-dependent recovery of vision
+following chronic deprivation amblyopia. Nat Neurosci 10(9):1134–1136.
+29. Montey KL, Quinlan EM (2011) Recovery from chronic monocular deprivation
+following reactivation of thalamocortical plasticity by dark exposure. Nat Commun
+2:317.
+30. Duffy KR, Mitchell DE (2013) Darkness alters maturation of visual cortex and promotes fast recovery from monocular deprivation. Curr Biol 23(5):382–386.
+31. Duffy KR, Bukhamseen DH, Smithen MJ, Mitchell DE (2015) Binocular eyelid closure
+promotes anatomical but not behavioral recovery from monocular deprivation.
+Vision Res 114:151–160.
+32. Mitchell DE, MacNeill K, Crowder NA, Holman K, Duffy KR (2016) Recovery of visual
+functions in amblyopic animals following brief exposure to total darkness. J Physiol
+594(1):149–167.
+33. Mitchell DE, Crowder NA, Holman K, Smithen M, Duffy KR (2015) Ten days of darkness causes temporary blindness during an early critical period in felines. Proc Biol Sci
+282(1803):20142756.
+34. Cho KK, Bear MF (2010) Promoting neurological recovery of function via metaplasticity. Future Neurol 5(1):21–26.
+35. Rittenhouse CD, Shouval HZ, Paradiso MA, Bear MF (1999) Monocular deprivation
+induces homosynaptic long-term depression in visual cortex. Nature 397(6717):
+347–350.
+36. Heynen AJ, et al. (2003) Molecular mechanism for loss of visual cortical responsiveness
+following brief monocular deprivation. Nat Neurosci 6(8):854–862.
+37. Rittenhouse CD, et al. (2006) Stimulus for rapid ocular dominance plasticity in visual
+cortex. J Neurophysiol 95(5):2947–2950.
+38. Dräger UC (1978) Observations on monocular deprivation in mice. J Neurophysiol
+41(1):28–42.
+39. Smith GB, Heynen AJ, Bear MF (2009) Bidirectional synaptic mechanisms of ocular
+dominance plasticity in visual cortex. Philos Trans R Soc Lond B Biol Sci 364(1515):
+357–367.
+40. Cooke SF, Bear MF (2013) How the mechanisms of long-term synaptic potentiation
+and depression serve experience-dependent plasticity in primary visual cortex. Philos
+Trans R Soc Lond B Biol Sci 369(1633):20130284.
+41. Linden ML, Heynen AJ, Haslinger RH, Bear MF (2009) Thalamic activity that drives
+visual cortical plasticity. Nat Neurosci 12(4):390–392.
+42. Sawtell NB, et al. (2003) NMDA receptor-dependent ocular dominance plasticity in
+adult visual cortex. Neuron 38(6):977–985.
+43. Murphy WJ, et al. (2001) Resolution of the early placental mammal radiation using
+Bayesian phylogenetics. Science 294(5550):2348–2351.
+44. Mitchell DE, Giffin F, Timney B (1977) A behavioural technique for the rapid assessment of the visual capabilities of kittens. Perception 6(2):181–193.
+45. Guillery RW (1972) Binocular competition in the control of geniculate cell growth.
+J Comp Neurol 144(1):117–129.
+46. Hubel DH, Wiesel TN, LeVay S (1977) Plasticity of ocular dominance columns in
+monkey striate cortex. Philos Trans R Soc Lond B Biol Sci 278(961):377–409.
+47. Bear MF, Colman H (1990) Binocular competition in the control of geniculate cell size
+depends upon visual cortical N-methyl-D-aspartate receptor activation. Proc Natl
+Acad Sci USA 87(23):9246–9249.
+48. Duffy KR, Slusar JE (2009) Monocular deprivation provokes alteration of the neuronal
+cytoskeleton in developing cat lateral geniculate nucleus. Vis Neurosci 26(3):319–328.
+49. Matthies U, Balog J, Lehmann K (2013) Temporally coherent visual stimuli boost ocular dominance plasticity. J Neurosci 33(29):11774–11778.
+50. Greifzu F, et al. (2014) Environmental enrichment extends ocular dominance plasticity
+into adulthood and protects from stroke-induced impairments of plasticity. Proc Natl
+Acad Sci USA 111(3):1150–1155.
+51. Hofer SB, Mrsic-Flogel TD, Bonhoeffer T, Hübener M (2006) Prior experience enhances
+plasticity in adult visual cortex. Nat Neurosci 9(1):127–132.
+52. Rose T, Jaepel J, Hübener M, Bonhoeffer T (2016) Cell-specific restoration of stimulus
+preference after monocular deprivation in the visual cortex. Science 352(6291):
+1319–1322.
+53. Pham TA, et al. (2004) A semi-persistent adult ocular dominance plasticity in visual
+cortex is stabilized by activated CREB. Learn Mem 11(6):738–747.
+54. Kaneko M, Hanover JL, England PM, Stryker MP (2008) TrkB kinase is required for
+recovery, but not loss, of cortical responses following monocular deprivation. Nat
+Neurosci 11(4):497–504.
+55. Montey KL, Eaton NC, Quinlan EM (2013) Repetitive visual stimulation enhances recovery from severe amblyopia. Learn Mem 20(6):311–317.
+56. Li J, et al. (2013) Dichoptic training enables the adult amblyopic brain to learn. Curr
+Biol 23(8):R308–R309.
+57. Simons K (2005) Amblyopia characterization, treatment, and prophylaxis. Surv
+Ophthalmol 50(2):123–166.
+58. Courtright P, Hutchinson AK, Lewallen S (2011) Visual impairment in children in
+middle- and lower-income countries. Arch Dis Child 96(12):1129–1134.
+59. Cooke SF, Bear MF (2010) Visual experience induces long-term potentiation in the
+primary visual cortex. J Neurosci 30(48):16304–16313.
+60. Arendt KL, Sarti F, Chen L (2013) Chronic inactivation of a neural circuit enhances LTP
+by inducing silent synapse formation. J Neurosci 33(5):2087–2096.
+61. Félix-Oliveira A, Dias RB, Colino-Oliveira M, Rombo DM, Sebastião AM (2014) Homeostatic plasticity induced by brief activity deprivation enhances long-term potentiation in the mature rat hippocampus. J Neurophysiol 112(11):3012–3022.
+62. Quinlan EM, Olstein DH, Bear MF (1999) Bidirectional, experience-dependent regulation of N-methyl-D-aspartate receptor subunit composition in the rat visual cortex
+during postnatal development. Proc Natl Acad Sci USA 96(22):12876–12880.
+63. Philpot BD, Sekhar AK, Shouval HZ, Bear MF (2001) Visual experience and deprivation
+bidirectionally modify the composition and function of NMDA receptors in visual
+cortex. Neuron 29(1):157–169.
+64. Whitt JL, Petrus E, Lee HK (2014) Experience-dependent homeostatic synaptic plasticity in neocortex. Neuropharmacology 78:45–54.
+65. National Research Council (1985) Guide for the Care and Use of Laboratory Animals
+(Natl Acad Press, Washington, DC), 8th Ed.
+66. Olson CR, Freeman RD (1980) Profile of the sensitive period for monocular deprivation in kittens. Exp Brain Res 39(1):17–21.
+67. Wiesel TN, Hubel DH (1963) Effects of visual deprivation on morphology and physiology of cells in the cats lateral geniculate body. J Neurophysiol 26:978–993.
+68. Guillery RW, Stelzner DJ (1970) The differential effects of unilateral lid closure upon
+the monocular and binocular segments of the dorsal lateral geniculate nucleus in the
+cat. J Comp Neurol 139(4):413–421.
+69. Duffy KR, Holman KD, Mitchell DE (2014) Shrinkage of X cells in the lateral geniculate
+nucleus after monocular deprivation revealed by FoxP2 labeling. Vis Neurosci 31(3):
+253–261.
+70. Gellerman LW (1933) Chance orders of alternating stimuli in visual discrimination.
+J Genet Psychol 42:206–208.
+14144 | www.pnas.org/cgi/doi/10.1073/pnas.1613279113 Fong et al.

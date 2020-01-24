@@ -1,0 +1,563 @@
+Transmembrane protein 108 is required for
+glutamatergic transmission in dentate gyrus
+Hui-Feng Jiaoa,b,c,1, Xiang-Dong Sunc,1, Ryan Batesc,1, Lei Xiongc
+, Lei Zhangc
+, Fang Liuc
+, Lei Lic
+, Hong-Sheng Zhangc
+,
+Shun-Qi Wanga
+, Ming-Tao Xionga,b, Mihir Patelc
+, Alexis M. Stranahanc
+, Wen-Cheng Xiongc,d, Bao-Ming Lia,e,2,
+and Lin Meia,c,d,e,2
+a
+Institute of Life Science, Nanchang University, Nanchang 330031, China; b
+School of Life Sciences, Nanchang University, Nanchang 330031, China; c
+Department of Neuroscience and Regenerative Medicine, Medical College of Georgia, Augusta University, Augusta, GA30912; d
+Charlie Norwood Veterans
+Administration Medical Center, Augusta University, Augusta, GA30912; and e
+Jiangxi Medical School, Nanchang University, Nanchang 330031, China
+Edited by Solomon H. Snyder, The Johns Hopkins University School of Medicine, Baltimore, MD, and approved December 16, 2016 (received for review
+November 7, 2016)
+Neurotransmission in dentate gyrus (DG) is critical for spatial coding,
+learning memory, and emotion processing. Although DG dysfunction is
+implicated in psychiatric disorders, including schizophrenia, underlying
+pathological mechanisms remain unclear. Here we report that transmembrane protein 108 (Tmem108), a novel schizophrenia susceptibility
+gene, is highly enriched in DG granule neurons and its expression increased at the postnatal period critical for DG development. Tmem108
+is specifically expressed in the nervous system and enriched in the
+postsynaptic density fraction. Tmem108-deficient neurons form fewer
+and smaller spines, suggesting that Tmem108 is required for spine
+formation and maturation. In agreement, excitatory postsynaptic currents of DG granule neurons were decreased in Tmem108 mutant mice,
+indicating a hypofunction of glutamatergic activity. Further cell biological studies indicate that Tmem108 is necessary for surface expression
+of AMPA receptors. Tmem108-deficient mice display compromised sensorimotor gating and cognitive function. Together, these observations
+indicate that Tmem108 plays a critical role in regulating spine development and excitatory transmission in DG granule neurons. When
+Tmem108 is mutated, mice displayed excitatory/inhibitory imbalance
+and behavioral deficits relevant to schizophrenia, revealing potential
+pathophysiological mechanisms of schizophrenia.
+dentate gyrus | spine | glutamatergic transmission | AMPA receptors |
+schizophrenia
+Schizophrenia is a disabling psychiatric disorder that affects
+1% of the general population. It is thought to be a neurodevelopment disorder, as many symptoms appear or worsen during
+adolescence, a time of great transition and refinements in brain
+structure and function (1, 2). Consequently, patients display characteristic positive symptoms including delusions and hallucinations,
+negative symptoms including abnormal emotional reactivity and
+anhedonia and cognitive deficits. Underlying pathophysiological
+mechanisms have been explored extensively. The medial temporal
+lobe, including hippocampal dentate gyrus (DG), is thought to be
+involved in mediating aspects of psychosis and memory deficits in
+schizophrenia (3, 4). Impaired glutamatergic transmission in DG
+causes deficits in spatial coding, learning, and memory and emotion
+processing (5–7). However, detailed molecular mechanisms of DG
+dysfunction in schizophrenia remain unclear.
+Identification of risk genes in recent genetic studies has contributed to a better understanding of pathophysiological mechanisms of schizophrenia. Transmembrane protein 108 (TMEM108)
+has recently been linked with schizophrenia and alcoholism in
+genome-wide association studies (8, 9). In human, TMEM108 is
+located on chromosome 3q21-q22, a risk locus for bipolar disorder, schizophrenia and other psychosis (10, 11). In particular, an
+intronic single nucleotide polymorphism (SNP) (rs7624858) is
+associated with schizophrenia (8). These findings raise an important question regarding the physiological function of TMEM108
+and whether abnormal expression levels of TMEM108 impair
+neural development or function.
+Tmem108 is a transmembrane protein, initially identified as a
+protein (retrolinkin) that interacts with a neuronal isoform of
+bullous pemphigoid antigen 1 (BPAG1n4) and promotes retrograde axonal transport in dorsal root ganglia neurons (12).
+Tmem108 is also present in dendrites of hippocampal neurons
+and has been implicated in BDNF-induced TrkB endocytosis and
+dendrite outgrowth in cultured neurons (13, 14). However, genetic evidence is lacking regarding the in vivo function of
+Tmem108 and whether its mutation impairs neural development
+and causes schizophrenia-relevant behavioral deficits.
+Here we show that Tmem108 was highly enriched in DG
+granule neurons and that its expression is regulated by neural
+development. Knocking down Tmem108 impaired spine development in cultured DG granule cells; in agreement, Tmem108
+mutant (MT) mice displayed fewer and smaller spines. Both
+the frequency and amplitude of excitatory postsynaptic currents
+(EPSCs) of DG granule neurons were reduced in Tmem108 MT
+mice. Further molecular studies suggest that Tmem108 is required for maintaining synaptic AMPA receptors on DG granule
+neurons. Consequently, deletion of Tmem108 impaired spatial
+recognition memory, contextual fear memory, as well as sensorimotor function. Together, these observations indicate that
+Tmem108 is necessary for proper development of DG neuron
+circuitry and its deletion leads to hypofunction of the glutamatergic
+activity in the brain and behavioral deficits. Considering that
+Tmem108 is a susceptibility gene of schizophrenia, our study sheds
+light on potential pathophysiological mechanisms of this disorder.
+Significance
+Dentate gyrus (DG) dysfunction has been implicated in schizophrenia, a disabling psychiatric disorder. However, underlying
+pathophysiological mechanisms are not clear. We provide evidence that Tmem108, a novel schizophrenia-associated gene, is
+highly enriched in DG granule neurons. Tmem108 is required for
+spine development and glutamatergic transmission. Further investigations indicate a critical role of Tmem108 for AMPA receptor expression in postsynaptic compartments. Mutation of
+Tmem108 leads to schizophrenia-related behavioral deficits.
+These results provide insight into a potential pathophysiological
+mechanism for DG dysfunction in schizophrenia.
+Author contributions: H.-F.J., X.-D.S., R.B., W.-C.X., B.-M.L., and L.M. designed research; H.-F.J.,
+X.-D.S., R.B., L.Z., and M.-T.X. performed research; L.X., L.Z., F.L., L.L., H.-S.Z., S.-Q.W., and
+A.M.S. contributed new reagents/analytic tools; H.-F.J., X.-D.S., R.B., M.-T.X., and M.P.
+analyzed data; and H.-F.J., X.-D.S., and L.M. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+H.-F.J., X.-D.S., and R.B. contributed equally to this work.
+2
+To whom correspondence may be addressed. Email: lmei@augusta.edu or bmli@ncu.
+edu.cn.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1618213114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1618213114 PNAS | January 31, 2017 | vol. 114 | no. 5 | 1177–1182
+NEUROSCIENCE
+Results
+Enriched Expression of Tmem108 in the DG. Tmem108 is expressed
+in the nervous system and barely detectable in peripheral tissues
+(12) (Fig. S1A). In the brain, Tmem108 was enriched in DG of the
+hippocampus, compared with other brain regions (Fig. 1A). In
+agreement, quantitative real-time PCR (qRT-PCR) indicated that
+Tmem108 mRNA was highly expressed in the DG, relative to
+other hippocampal subfields and extrahippocampal regions (Fig. 1B).
+To further study the regional expression, we generated Tmem108
+mutant reporter mice because the available antibodies function
+poorly for immunohistochemical staining (15, 16). In this strain, the
+lacZ-containing cassette was inserted in the first coding exon (exon 3)
+(Fig. S1B). Under the control of the endogenous promoter, betagalactosidase (β-gal) activity was expected to faithfully indicate where
+Tmem108 is expressed. To avoid possible effect of Tmem108 mutation on brain structures, β-gal assay was performed using samples
+from heterozygous mice. As shown in Fig. 1C, β-gal activity was highly
+enriched in both suprapyramidal and infrapyramidal blades of the
+DG, areas where granule neurons locate. Little β-gal activity was
+detected in layers of CA1 or CA3 regions where pyramidal neurons
+are enriched, suggesting that Tmem108 was rather specifically
+expressed in DG granule neurons. β-Gal activity was detectable at a
+much lower level in the cortical region, mostly in layers 2/3. Together,
+these results suggest that Tmem108 is highly enriched in the DG of
+the hippocampus.
+Tmem108 expression in the hippocampus was developmentally
+regulated. As shown in Fig. 1 D and E, β-gal activity as well as
+Tmem108 protein was undetectable in the DG at postnatal day 1
+(P1) and became detectable at P7, although at a low level. The
+levels seemed to peak between P15 and P21 and remained at a high
+level at adult age. The enrichment of β-gal activity in suprapyramidal
+and infrapyramidal blades suggests that Tmem108 is expressed in
+granule cells. To test this hypothesis, we costained β-gal with different cell markers. As shown in Fig. 1F, β-gal colocalized with
+prospero homeobox protein 1 (Prox1), a marker of granule neurons
+(17), but not with polysialylated neuronal cell adhesion molecule
+(PSA-NCAM), a marker of neuronal precursors (18). Finally, we
+determined subcellular localization of Tmem108 and found that
+Tmem108 is enriched in the postsynaptic dense (PSD) fraction, but
+not presynaptic fraction (Fig. 1G). These results demonstrate that
+Tmem108 is specifically expressed in DG neurons and enriched in
+the PSD and that its expression temporally correlates with a period
+critical for spine development.
+Spine Abnormality of Tmem108-Deficient DG Granule Neurons. To
+determine whether Tmem108 regulates spine formation, we investigated the effects of changing Tmem108 levels. Neurons were
+isolated from P0 pups, transfected at DIV13, and fixed at DIV20
+for spine analysis. Neurons were stained with anti-Prox1 antibody,
+which helped to identify DG granule neurons (17) (Fig. S2A). As
+shown in Fig. 2 A and B, spine number was increased in DG
+neurons that were transfected with Flag-Tmem108, suggesting that
+higher levels of Tmem108 promotes spine formation. On the other
+hand, neurons transfected with Tmem108 shRNA, which was able
+to reduce Tmem108 expression (Fig. S2B), formed fewer spines,
+which was associated with reduced spine width and increased
+spine length (Fig. 2 A and B). These effects were specific as they
+were not observed in neurons transfected with scrambled shRNA,
+and it could be diminished by cotransfecting a shRNA-resistant
+Tmem108 (Fig. S2B and Fig. 2A). These results indicate an important role of Tmem108 in spine development.
+To determine whether Tmem108 deficiency alters spine development in vivo, we characterized Tmem108 MT mice. As
+shown in Fig. S1 B and C, the insertion of the lacZ-Neo cassette
+introduces a stop codon with a polyadenylation termination
+signal (15, 16), which would terminate or severely reduce transcription of the Tmem108 gene. In agreement, mRNA and
+protein of Tmem108 were dramatically reduced in homozygous
+mice (Fig. S1 D and E). Homozygous Tmem108-lacZ mice were
+viable and showed no difference in body weight, compared with
+wild-type littermates. Unless otherwise specified, WT and MT
+indicate, respectively, wild-type and homozygous mutant littermates in the study (Fig. S1F).
+Tmem108 mutation seemed to have no detectable effect on
+global anatomic structures of the brain (Fig. S3A). The hippocampal organization and number of granule neurons in DG were
+comparable between WT and MT mice (Fig. S3 B and C). Previous studies suggest that Tmem108 regulates dendritic outgrowth of hippocampal neurons (13, 14). As shown in Fig. S4,
+dendrite length and complexity of DG granule cells, revealed by
+Golgi staining, were similar between WT and MT mice (Fig. S4).
+Next, we quantified dendritic spines of DG granule neurons (Fig.
+2C). The spine density in the molecular layer of MT mice was
+significantly reduced, which was associated with decreased spine
+width and increased spine length (Fig. 2D), consistent with the
+results of in vitro knockdown experiments (Fig. 2 A and B). To
+determine that the spine abnormality was due to loss of
+Tmem108, we used in vivo electroporation to specifically express
+Tmem108 in DG neurons in MT mice (Fig. 2E). As shown in
+Fig. 2 F–H, Tmem108 reintroduction was able to diminish spine
+morphological deficits observed in Tmem108 MT mice.
+Abnormal Excitatory Transmission in Tmem108 MT DG Granule Neurons.
+Next, we examined synaptic transmission of DG granule neurons by
+characterizing spontaneous excitatory postsynaptic and inhibitory
+Fig. 1. Enriched expression of Tmem108 in the DG. (A) Tmem108 was highly
+expressed in DG regions in the brain. Tissues of indicated brain regions were
+collected from 2-mo-old WT mice and homogenized for Western blotting.
+β-Actin served as loading control. OB, olfactory bulb; Ctx, cortex; AH, ammon’s
+horn; DG, dentate gyrus; Hypo, hypothalamus; Str, striatum; and CB, cerebellum. (B) DG-enriched expression of Tmem108 mRNA in the brain. Total RNA of
+indicated brain regions was subjected to qRT-PCR. (C) X-Gal staining of coronal
+(Left) and sagittal (Right) brain sections of Tmem108 heterozygous mice. Arrow, DG. (Scale bar: 1 mm.) (D) Temporal regulation of β-gal activity in DG.
+Coronal sections of Tmem108 heterozygous mice at indicated ages were
+subjected to X-gal staining. (E) Tmem108 expression in the hippocampus at
+different stages. β-Actin served as loading control. (F) Colocalization of β-gal
+with DG granule neuron marker Prox1. Sections were stained with antibodies
+against β-gal, PSA-NCAM, and Prox1. Images in the dotted areas were enlarged and shown on the Right. (Scale bars: Left, 50 μm; Right, 30 μm.)
+(G) Tmem108 was enriched in the postsynaptic dense (PSD) fraction. Subcellular
+fractions of hippocampal tissues were probed for postsynaptic marker PSD95,
+presynaptic marker synaptotagmin, and Tmem108. SYT, synaptotagmin; S1,
+supernatant 1; S2, supernatant 2; P2, synaptosome-enriched pellet 2; Syn, synaptosome; Pre, presynaptic fraction; PSD, postsynaptic density fraction.
+1178 | www.pnas.org/cgi/doi/10.1073/pnas.1618213114 Jiao et al.
+postsynaptic currents (sEPSCs and sIPSCs, respectively). sEPSCs
+and sIPSCs were recorded in same cells by alternately clamping at
+reversal potentials of GABAA receptor-mediated (−70 mV) and
+glutamate receptor-mediated (0 mV) currents, respectively (19, 20)
+(Fig. 3A). The total excitatory charge transfer was decreased in MT
+mice compared with WT mice (Fig. 3B). However, the inhibitory
+synaptic charge was comparable (Fig. 3C). Consequently, the sEPSC/
+sIPSC ratio was decreased by almost 50% (Fig. 3D). To determine
+whether Tmem108 mutation altered evoked postsynaptic currents,
+we stimulated medial perforant pathway (MPP) with stimuli at
+gradually increasing intensity. As shown in Fig. 3 E–G, amplitudes of
+eEPSCs, but not eIPSCs, were reduced. These results suggest that
+the excitatory/inhibitory (E/I) balance was disrupted by Tmem108
+mutation, mostly due to impaired excitatory synaptic activity.
+To further dissect how excitatory strength was suppressed in
+Tmem108 MT mice, we recorded miniature EPSCs (mEPSCs) in
+DG granule neurons (Fig. 3H). Both the frequency and amplitude
+were significantly decreased in MT hippocampal slices (Fig. 3 I
+and J). However, no difference was found in mIPSC frequency
+or amplitude (Fig. S5). Together with sEPSC and sIPSC data
+(Fig. 3 A–C), these results indicate compromised glutamatergic
+transmission. To investigate whether glutamate release was impaired, we examined paired-pulse ratios of evoked EPSCs (Fig.
+3K). As shown in Fig. 3L, paired-pulse ratios in DG granule
+neurons were similar between WT and MT mice, indicating that
+Tmem108 deficiency has little effect on glutamate release, suggesting a postsynaptic deficit in MT mice.
+Together with morphological findings (Fig. 2), these electrophysiological results suggest that Tmem108 is necessary for
+synapse development and that glutamatergic hypofunction is due
+to a postsynaptic mechanism.
+Decreased AMPA Receptor Surface Level of Tmem108-Deficient DG
+Granule Neurons. Reduced spine number and EPSC could suggest
+reduced AMPA receptor levels in DG neurons. Unexpectedly,
+similar levels of AMPA receptors (GluA1 and GluA2) and NMDA
+receptors (GluN1, GluN2A, and GluN2B) were detected between
+control WT and Tmem108 MT tissue homogenates, suggesting
+Tmem108 mutation did not alter total amounts of these proteins in
+the hippocampus. Considering that Tmem108 is enriched in the
+PSD (Fig. 1G), we next tested whether AMPA receptors in the
+PSD were reduced. In fractions that are labeled by PSD95, but not
+synaptotagmin (Fig. 1G), GluA1 and GluA2 were reduced by 13%
+Fig. 2. Abnormal spine development of Tmem108-deficient DG granule
+neurons. (A) Representative images of dendritic spines of cultured DG neurons.
+Neurons were isolated from P0 pups, transfected at DIV13 with indicated
+constructs, and fixed and stained at DIV20. Veh, GFP vector; Tmem108, FlagTmem108; shRNA, Tmem108 short hairpin RNA; Scr shRNA, Scrambled short
+hairpin RNA; rTmem108, shRNA-resistant Flag-Tmem108. (Scale bar: 5 μm.)
+(B) Quantitative analysis of data in A. Spine number/10 μm (Left), width (micrometers, Middle), and length (micrometers, Right) were analyzed. (C) Representative spine images from Golgi staining. Dendrite segments were chosen
+from mature granule neurons, which located in the superficial granule cell
+layer. (Scale bar: 5 μm.) (D) Reduced spine number/10 μm (Left), width (micrometers, Middle), and length (micrometers, Right) of DG granule neurons in
+Tmem108 MT mice. (E) Diagram illustrating in vivo electroporation. Mouse
+pups at P0 were injected with indicated constructs into bilateral ventricles and
+electroporated. Twenty-eight days later, mice were subjected to spine analysis.
+(F) Representative images of electroporated granule neurons. Sections were
+stained with anti-GFP antibody. Image in the dotted areas was enlarged and
+are shown on the Right. (Scale bars: Left, 200 μm; Right, 50 μm.) (G) Representative spine images of granule neurons electroporated with indicated
+constructs. Veh, GFP vector; Tmem108, Flag-Tmem108. (Scale bar: 5 μm.)
+(H) Quantitative analysis of data in G. Spine number/10 μm (Left), width (micrometers, Middle), and length (micrometers, Right) were analyzed. Data were
+collected from three to four dendrite segments of each neuron; n = 15 and 20
+neurons in B and H, respectively; n = 20 neurons for WT or 19 for MT in D. n.s.,
+not significant; *P < 0.05; **P < 0.01; Student’s t test.
+Fig. 3. Tmem108 is required for excitatory synapse transmission of DG granule
+neurons. (A) Representative sEPSC (Top) and sIPSC (Bottom) traces. sEPSCs and
+sIPSCs were recorded in the same granule neuron at −70 mV and 0 mV, respectively. (Scale bars: 2 s and 10 pA.) (B) Redued sEPSC charge transfer. CsEPSC,
+charge transfer of sEPSC. pC, picocoulomb. (C) Similar sIPSC charge transfer between WT and MT mice. CsIPSC, charge transfer of sIPSC. (D) Decreased charge
+transfer ratio of sEPSC/sIPSC. (E) Representative eIPSC (Top) and eEPSC (Bottom)
+traces. Medial perforant pathway was stimulated at gradual increasing intensity
+(5–40 μA). eEPSC and eIPSC were recorded in the same granule neuron at −70 mV
+and 0 mV, respectively. (Scale bars: 20 ms and 200 pA.) (F and G) Quantatitive
+analysis of eEPSC and eIPSC. amp., amplitude; Sti., stimulus. (H) Representative
+mEPSC traces in DG granular neurons. (Scale bars: 2 s and 10 pA.) (I and J) Reduced mEPSC frequency (freq.) and mEPSC amplitude (amp.). (K) Representative
+sweeps with interstimulus interval of pair-pulse stimulations at 25 ms. (Scale
+bars: 10 ms and 20 pA.) (L) Similar paired-pulse ratio of the two genotypes.
+Three to five mice were used for each genotype. n = 19 neurons for WT or 18
+neurons for MT in B–D; n = 20, 25, and 25 neurons for both genotypes in F, I,
+and J, respectively; n = 13 neurons for WT, or 15 neurons for MT in L. *P < 0.05;
+**P < 0.01; ***P < 0.0001; Student’s t test for B–D, I, J, and L; two-way ANOVA,
+F(1,271) = 36.61 and F(1,263) = 1.84 for F and G, respectively.
+Jiao et al. PNAS | January 31, 2017 | vol. 114 | no. 5 | 1179
+NEUROSCIENCE
+and 25%, respectively (Fig. 4A). Similar reductions were obtained
+by concentration-dependent Western blot analysis (Fig. S6). The
+reduction of AMAP receptors was specific because levels of
+NMDA receptors were similar between WT and MT PSD fractions
+(Fig. 4 A and B). These results suggest that Tmem108 is necessary
+for proper expression of AMPA receptors at excitatory synapses.
+To test this hypothesis, we characterized GluA2 surface expression in cultured granule neurons. First, we determined whether
+Tmem108 was present in excitatory synapses of hippocampal granule cells. Due to lack of anti-Tmem108 antibody for staining, we
+cotransfected hippocampal neurons with Flag-Tmem108 and GFPGluA2. As shown in Fig. 4C, Flag-Tmem108 staining appeared as
+puncta in neurons. Tmem108 puncta colabeled with GFP-GluA2 in
+spines (arrow, Fig. 4C) as well as dendrites (triangle, Fig. 4C). These
+results indicate that Tmem108 is present at excitatory synapses, in
+agreement with subcellular fraction data.
+Next, we stained neurons for endogenous GluA2 under permeabilizing and nonpermeabilizing conditions to assess total
+and surface AMPA receptors, respectively (21) (Fig. 4 D and E).
+Granule neurons were identified by Prox1 antibody. GluA2
+staining was similar between permeabilized WT and MT granule
+neurons (Fig. 4D), indicating little change in total GluA2 level, in
+agreement with Western blot data (Fig. 4A). However, GluA2
+staining was reduced in nonpermeabilized MT granule neurons,
+compared with that of WT (Fig. 4E). Quantitatively, reduction was
+observed in the number of GluA2 puncta, the puncta area, and
+soma GluA2 intensity (Fig. 4F), suggesting that Tmem108 may
+regulate GluA2 trafficking. To test this hypothesis in the same
+neurons, we transfected GFP-GluA2 in granule cells. Surface
+GluA2 in live neurons was first labeled with chicken anti-GFP
+antibody (visualized by donkey anti-chicken antibody, red). Neurons were then fixed and stained with mouse anti-GFP antibody
+(visualized by goat anti-mouse antibody, green). As shown in
+Fig. S7 A and B, the GluA2 surface/total ratio was reduced in
+Tmem108 MT granule neurons, compared with WT neurons.
+These observations are in agreement with reduced eEPSC and
+mEPSC amplitudes in MT granule neurons. Together, these results suggest that Tmem108 promotes GluA2 surface expression,
+without changing total levels, and thus maintains spine morphology. This notion is supported by the observations that spine
+morphological deficits in Tmem108 MT DG neurons could be
+rescued by overexpressing GluA2 (Fig. 4 G and H). Notice that
+the effect of Tmem108 mutation was specific to Prox1-positive
+neurons (i.e., granule cells) and not to Prox1-negative neurons
+(presumably hippocampal pyramidal neurons) (Fig. S7 C–E).
+Behavioral Deficits in Tmem108 MT Mice. Abnormal locomotor activity is thought to correspond to psychomotor agitation of schizophrenic patients (22, 23). We examined MT mice in the open field
+test (Fig. 5A). Tmem108 MT mice traveled similar distances,
+Fig. 4. Decreased surface AMPA receptor of Tmem108 MT DG granule cells. (A) Reduced GluA1 and GluA2 in PSD fractions of MT mice. Subcellular fractions
+of hippocampal tissues were subjected to Western blot for different glutamatergic receptors. S1, supernatant 1; PSD, postsynaptic density fraction.
+(B) Quantitative analysis of data in A. Band densities of interested proteins were normalized by loading control β-actin; values of WT mice were taken as 1. n =
+3. (C) Colocalization of Tmem108 with GluA2 in dendrites and spines. DIV9 hippocampal neurons were cotransfected with Flag-Tmem108 and GFP-GluA2 and
+stained with anti-Flag and anti-GFP antibodies at DIV13. Image in dotted area was enlarged as shown in the Bottom. Arrow, double-positive puncta in spines;
+triangle, double-positive puncta in dendrites. (Scale bars: 30 μm and 5 μm.) (D and E) Reduced surface GluA2 levels (E), but no change in total GluA2 levels (D)
+in MT granule neurons. DIV15–17 hippocampal neurons were stained under permeabilized and nonpermeabilized conditions to assess total and surface
+GluA2 levels, respectively. Anti-Prox1 antibody was used to idenitify granule neurons. Image in dotted area was enlarged as shown in the Bottom. Side bar,
+glow scale of GluA2 staining intensity in arbitrary unit. (Scale bars: Top, 30 μm; Bottom, 5 μm.) (F) Quantitative analysis of data in D and E. Shown are GluA2
+puncta number/10 μm (Top Left), GluA2 puncta area (square micrometers, Top Right), and GluA2 soma intensity (normalized to WT, Bottom). (G) Representative images of DG granule neurons transfected with indicated constructs. Veh, mCherry vector; Tmem108, Flag-Tmem108; GluA2, GFP-GluA2. (Scale bar:
+5 μm.) (H) Quantitative analysis of data in G. Spine number/10 μm (Left), width (micrometers, Middle), and length (micrometers, Right) were analyzed. Data
+were collected from four dendrite segments of each neuron. n = 17 neurons for both genotypes in F; n = 15 neurons for each group in H. n.s., not significant;
+*P < 0.05; **P < 0.01; ***P < 0.001; paired Student’s t test for B; Student’s t test for F and H.
+1180 | www.pnas.org/cgi/doi/10.1073/pnas.1618213114 Jiao et al.
+compared with control WT mice within 30 min of test (Fig. 5 B
+and C), indicating no change in locomotor activity. Prepulse inhibition (PPI) is a test of sensory-motor gating that is often decreased in schizophrenic patients (24, 25). We used a combination
+of an auditory-evoked startle stimulus (120 dB) and three levels of
+prepulse stimuli (70, 75, and 80 dB) to measure PPI of MT mice
+(Fig. 5D). The baseline startle responses of WT and MT mice were
+similar (Fig. 5E), suggesting normal hearing and acoustic startle
+reflex. However, the level of PPI was substantially lower in MT
+mice than in WT mice (Fig. 5F). These results implicate that the
+Tmem108 MT mice were impaired in sensorimotor gating.
+Patients with schizophrenia have a wide range of cognitive
+function deficits, including impairment in learning and memory,
+executive function, and intelligence (26, 27). We tested spatial
+recognition memory of MT mice by using the Y maze (Fig. 5G).
+Tmem108 MT mice exhibited comparable number of arm entries
+(Fig. 5H), in agreement with no change in locomotor activity.
+However, the numbers of spontaneous alterations were significantly decreased in MT mice, compared with WT mice (Fig. 5I).
+These results suggest that Tmem108 deletion impaired spatial recognition memory. To further characterize the effects of Tmem108
+mutation on cognitive function, MT mice were subjected to contextual fear conditioning (Fig. 5J), a classical behavioral paradigm to
+test associative memory formation and consolidation. MT mice displayed similar freezing response to footshocks during training (Fig.
+5K), compared with WT mice, suggesting comparable ability in fear
+acquisition. However, the freezing time of MT mice in the absence of
+footshocks when reintroduced to the same cage 24 h later was significantly less than that of WT mice. This result suggests that deletion of Tmem108 suppressed fear memory consolidation (Fig. 5K).
+These results indicate that Tmem108 is required for proper cognitive
+function. Together, these observations indicate that Tmem108 mutation specifically impairs PPI and cognitive function without altering
+locomotor activity.
+Discussion
+In this paper, we provide evidence that Tmem108 was enriched
+in DG granule neurons and its expression increased at postnatal days, a period critical for neural development. Tmem108
+knockdown in cultured neurons and mutation in mice reduced
+spine number of DG granule neurons, and this effect could be
+rescued by reintroduction of Tmem108. Concomitantly, mEPSC
+frequency and amplitude as well as evoked EPSCs in DG granule
+neurons were reduced. These results indicate hypofunction of
+the glutamatergic entorhino–hippocampal pathway when Tmem108
+is deficient. Cell biological studies indicate that Tmem108 is necessary for surface expression of AMPA receptors. Behaviorally,
+MT mice exhibit impaired sensorimotor gating and cognitive
+function. Together, these observations indicate that Tmem108
+plays a critical role in regulating spine development and excitatory transmission in DG granule neurons. When Tmem108
+is mutated, mice displayed E/I imbalance and behavioral deficits relevant to schizophrenia, revealing potential pathophysiological mechanisms of schizophrenia.
+DG is a critical region for higher brain functions, including
+spatial coding, learning memory, and emotion processing (5, 6).
+Hypofunctional glutamatergic signaling in the DG has been observed in patients with schizophrenia (3, 4). However, underlying
+pathophysiological mechanisms are less clear. During the first
+2 wk after birth in mice, precursor granule cells migrate from the
+hilus to the granule cell layer of the DG, where they form synapses
+with other neurons (28, 29). Tmem108 expression in DG begins to
+increase at P7 and plateaus between P21 and P30. This unique
+temporal expression correlates with active synaptic pruning in the
+hippocampus (30, 31), suggesting a role of Tmem108 after the
+migration of granule precursor cells. In support of this hypothesis,
+in Tmem108 MT mice, the number of NeuN+ cells in the DG and
+dendritic arborization of granule cells were not changed. In contrast, dendritic spine density and size of DG granule neurons were
+reduced, and spine length was increased in Tmem108 MT mice,
+indicating that Tmem108 is necessary for spine formation and
+maturation. Ensuing hypofunction of the glutamatergic transmission leads to behavioral deficits associated with schizophrenia.
+AMPA receptors within the postsynaptic domain are critical for
+maintaining and strengthening spine structure and function (32–
+34). Knockout of GluA2, a subunit of AMPA receptor, causes
+spine deficits in DG granule cells (33). Tmem108 deficiency reduced AMPA receptor surface level of DG neurons without
+changing the total level. There was a concomitant reduction of
+AMPA receptors in the PSD fraction. This effect is specific because Tmem108 mutation had no effect on total or surface levels
+of NMDA receptors of DG neurons. Importantly, spine deficits in
+Tmem108 MT DG neurons could be rescued by overexpressing
+GluA2. A parsimonious interpretation of these results is that
+Tmem108 promotes surface expression of AMPA receptors that is
+necessary for spine development. AMPA receptor dynamics in
+spines are regulated by proteins that control the cytoskeleton. For
+example, the stabilization of postsynaptic AMPA receptors as well as
+spine morphology are regulated by small G proteins of the Rho
+family (35, 36). Rac and Cdc42 regulate spine stabilization by activating the Arp2/3 complex to promote actin nucleation and inhibit
+Fig. 5. Impaired behaviors of Tmem108 MT mice. (A) Representative traces of
+first 5 min in the open field test. Mice were placed in a chamber and movements were monitored for 30 min. (B and C) Similar distance traveled during
+30 min between WT and MT mice. Activity was summated at 5-min intervals
+over a 30-min period (B). (D) Diagram of PPI test. Response to auditory-evoked
+startle stimulus (120 dB) was measured. (E) Similar baseline startle responses of
+the two genotypes. (F) Reduced PPI in MT mice. (G) Diagram of Y-maze test.
+Mice were put in Y-shape maze for 8 min, and total arm entry number and
+spontaneous alternation were recorded. (H) Similar total arm entries of the
+two genotypes. (I) Fewer spontaneous alternations in MT mice. (J) Diagram
+of contextual fear conditioning. Footshocks were delivered four times (FS,
+0.7 mA, 2 s) during training. Twenty-four hours later, mice were reintroduced
+to the same box and freezing time was recorded for 5 min. (K) Similar fear
+acquisition, but reduced freezing time 24 h after training. BS, baseline; FS,
+footshock. n = 12–14 mice of both genotypes for each behavior test. *P < 0.05;
+*P < 0.05; Student’s t test for C, E, H, I, and K (consolidation); two-way ANOVA,
+F(1,75) = 5.45 for F; repeated two-way ANOVA, F(1,100) = 0.22 and F(1,100) =
+3.52 for B and K (acquisition), respectively.
+Jiao et al. PNAS | January 31, 2017 | vol. 114 | no. 5 | 1181
+NEUROSCIENCE
+actin depolymerization (37, 38). A recent study identified Tmem108
+as a binding partner of cytoplasmic FMRP-interacting protein 1/2
+(CYFIP1/2) to regulate Arp2/3 by promoting the formation of the
+wave regulator complex (14). The CYFIP1 gene is located in
+the 15q11.2 region of the human genome, which is implicated in the
+development of neurological and neuropsychiatric conditions such
+as autism spectrum disorder, epilepsy, intellectual disability, and
+schizophrenia (39–41). Its copy number variation is linked to both
+schizophrenia and autism spectrum disorder (40, 42). Down-regulating
+CYFIP1 levels increases the ratio of immature-to-mature spines
+and the mobility of surface AMPA receptors (41). Taken together, these observations could suggest that Tmem108 may regulate spines of DG granule neurons via interacting with CYFIP1/2.
+Exact mechanisms by which Tmem108 regulates spines and synaptic
+expression of AMPA receptors warrant further investigation.
+The SNP (rs7624858) that associates with schizophrenia is located between the first coding exon (exon 3) and exon 4. Being
+intronic, this SNP may interfere with the expression of the
+Tmem108 gene, although there are no data at the present that this
+SPN predicts a higher or lower level of mRNA or protein. We
+found that elevating the level of Tmem108 increased the number
+of spines in DG granule neurons in culture, whereas reducing
+its level diminishes the spines in cultured neurons as well as in
+Tmem108 MT mice. These observations suggest that a proper
+level of Tmem108 needs to be maintained for homeostasis of
+spines. Altered level, either high or low, could serve as a pathophysiological mechanism (43).
+Materials and Methods
+Reagents, generation of Tmem108 MT mice, qRT-PCR, X-gal assay, subcellular fractionation, cell culture and transfection, Golgi staining, in vivo
+electroporation of neonatal mice, electrophysiological analysis, immunostaining, behavior tests, and statistic analysis are described in SI Materials
+and Methods. Experimental procedures were approved by the institutional
+animal care and use committee (IACUC) of Augusta University.
+ACKNOWLEDGMENTS. We thank members of the L.M. and W.-C.X. laboratories for helpful discussions, Dr. Jia-jia Liu for antibody, and Dr. Richard
+Huganir for constructs. This work was supported in part by grants from the US
+National Institutes of Health (L.M. and W.-C.X.) and Veterans Affairs (L.M. and
+W.-C.X.), “Thousand Talents” Innovation Project from Jiangxi Province (L.M.),
+and National Natural Science Foundation of China (NSFC) Grants 31271171
+and 81471116 (to B.-M.L). L.M. is a Georgia Research Alliance Eminent Scholar
+in Neuroscience.
+1. Lewis DA, Lieberman JA (2000) Catching up on schizophrenia: Natural history and
+neurobiology. Neuron 28(2):325–334.
+2. Owen MJ, Sawa A, Mortensen PB (2016) Schizophrenia. Lancet 388(10039):86–97.
+3. Tamminga CA, Southcott S, Sacco C, Wagner AD, Ghose S (2012) Glutamate dysfunction in
+hippocampus: Relevance of dentate gyrus and CA3 signaling. Schizophr Bull 38(5):927–935.
+4. Stan AD, et al. (2015) Magnetic resonance spectroscopy and tissue protein concentrations together suggest lower glutamate signaling in dentate gyrus in schizophrenia. Mol Psychiatry 20(4):433–439.
+5. Kesner RP (2007) A behavioral analysis of dentate gyrus function. Prog Brain Res 163:
+567–576.
+6. Redondo RL, et al. (2014) Bidirectional switch of the valence associated with a hippocampal contextual memory engram. Nature 513(7518):426–430.
+7. Taylor AM, et al. (2013) Hippocampal NMDA receptors are important for behavioural
+inhibition but not for encoding associative spatial memories. Philos Trans R Soc Lond
+B Biol Sci 369(1633):20130149.
+8. O’Donovan MC, et al.; Molecular Genetics of Schizophrenia Collaboration (2008)
+Identification of loci associated with schizophrenia by genome-wide association and
+follow-up. Nat Genet 40(9):1053–1055.
+9. Heath AC, et al. (2011) A quantitative-trait genome-wide association study of alcoholism risk in the community: Findings and implications. Biol Psychiatry 70(6):513–518.
+10. Beveridge NJ, Cairns MJ (2012) MicroRNA dysregulation in schizophrenia. Neurobiol
+Dis 46(2):263–271.
+11. Kondo K, et al. (2013) Genetic variants on 3q21 and in the Sp8 transcription factor
+gene (SP8) as susceptibility loci for psychotic disorders: A genetic association study.
+PLoS One 8(8):e70964.
+12. Liu JJ, et al. (2007) Retrolinkin, a membrane protein, plays an important role in retrograde axonal transport. Proc Natl Acad Sci USA 104(7):2223–2228.
+13. Fu X, et al. (2011) Retrolinkin cooperates with endophilin A1 to mediate BDNF-TrkB early
+endocytic trafficking and signaling from early endosomes. Mol Biol Cell 22(19):3684–3698.
+14. Xu CC, Fu XP, Zhu SX, Liu JJ (2016) Retrolinkin recruits the WAVE1 protein complex to
+facilitate BDNF-induced TrkB endocytosis and dendrite outgrowth. Mol Biol Cell
+27(21):3342–3356.
+15. Tao Y, et al. (2009) Erbin regulates NRG1 signaling and myelination. Proc Natl Acad Sci
+USA 106(23):9477–9482.
+16. Tang T, et al. (2010) A mouse knockout library for secreted and transmembrane
+proteins. Nat Biotechnol 28(7):749–755.
+17. Lavado A, Oliver G (2007) Prox1 expression patterns in the developing and adult
+murine brain. Dev Dyn 236(2):518–524.
+18. Seki T, Arai Y (1993) Distribution and possible roles of the highly polysialylated neural
+cell adhesion molecule (NCAM-H) in the developing and adult central nervous system.
+Neurosci Res 17(4):265–290.
+19. Dani VS, et al. (2005) Reduced cortical activity due to a shift in the balance between
+excitation and inhibition in a mouse model of Rett syndrome. Proc Natl Acad Sci USA
+102(35):12560–12565.
+20. Zhou YD, et al. (2009) Arrested maturation of excitatory synapses in autosomal
+dominant lateral temporal lobe epilepsy. Nat Med 15(10):1208–1214.
+21. Tao Y, et al. (2013) Erbin interacts with TARP γ-2 for surface expression of AMPA
+receptors in cortical interneurons. Nat Neurosci 16(3):290–299.
+22. Jones CA, Watson DJ, Fone KC (2011) Animal models of schizophrenia. Br J Pharmacol
+164(4):1162–1194.
+23. Stanford SC (2007) The Open Field Test: Reinventing the wheel. J Psychopharmacol
+21(2):134–135.
+24. Gainetdinov RR, Mohn AR, Caron MG (2001) Genetic animal models: Focus on
+schizophrenia. Trends Neurosci 24(9):527–533.
+25. Yin DM, et al. (2013) Reversal of behavioral deficits and synaptic dysfunction in mice
+overexpressing neuregulin 1. Neuron 78(4):644–657.
+26. Keefe RS, Harvey PD (2012) Cognitive impairment in schizophrenia. Handb Exp
+Pharmacol (213):11–37.
+27. Johnstone EC, Crow TJ, Frith CD, Husband J, Kreel L (1976) Cerebral ventricular size
+and cognitive impairment in chronic schizophrenia. Lancet 2(7992):924–926.
+28. Altman J, Bayer SA (1990) Migration and distribution of two populations of hippocampal granule cell precursors during the perinatal and postnatal periods. J Comp
+Neurol 301(3):365–381.
+29. Li G, Kataoka H, Coughlin SR, Pleasure SJ (2009) Identification of a transient subpial
+neurogenic zone in the developing dentate gyrus and its regulation by Cxcl12 and
+reelin signaling. Development 136(2):327–335.
+30. Zafirov S, Heimrich B, Frotscher M (1994) Dendritic development of dentate granule
+cells in the absence of their specific extrinsic afferents. J Comp Neurol 345(3):472–480.
+31. Holtmaat AJ, et al. (2005) Transient and persistent dendritic spines in the neocortex
+in vivo. Neuron 45(2):279–291.
+32. McKinney RA, Capogna M, Dürr R, Gähwiler BH, Thompson SM (1999) Miniature synaptic
+events maintain dendritic spines via AMPA receptor activation. Nat Neurosci 2(1):44–49.
+33. Medvedev NI, et al. (2008) The glutamate receptor 2 subunit controls post-synaptic
+density complexity and spine shape in the dentate gyrus. Eur J Neurosci 27(2):315–325.
+34. Passafaro M, Nakagawa T, Sala C, Sheng M (2003) Induction of dendritic spines by an
+extracellular domain of AMPA receptor subunit GluR2. Nature 424(6949):677–681.
+35. Tashiro A, Yuste R (2004) Regulation of dendritic spine motility and stability by Rac1 and
+Rho kinase: Evidence for two forms of spine motility. Mol Cell Neurosci 26(3):429–440.
+36. Hotulainen P, Hoogenraad CC (2010) Actin in dendritic spines: Connecting dynamics
+to function. J Cell Biol 189(4):619–629.
+37. Penzes P, Rafalovich I (2012) Regulation of the actin cytoskeleton in dendritic spines.
+Synaptic Plasticity (Springer, Vienna), pp 81–95.
+38. Spence EF, Kanak DJ, Carlson BR, Soderling SH (2016) The Arp2/3 complex is essential
+for distinct stages of spine synapse maturation, including synapse unsilencing.
+J Neurosci 36(37):9696–9709.
+39. van der Zwaag B, et al. (2010) A co-segregating microduplication of chromosome
+15q11.2 pinpoints two risk genes for autism spectrum disorder. Am J Med Genet B
+Neuropsychiatr Genet 153B(4):960–966.
+40. Stefansson H, et al.; GROUP (2008) Large recurrent microdeletions associated with
+schizophrenia. Nature 455(7210):232–236.
+41. Pathania M, et al. (2014) The autism and schizophrenia associated gene CYFIP1 is
+critical for the maintenance of dendritic complexity and the stabilization of mature
+spines. Transl Psychiatry 4(3):e374.
+42. Levy D, et al. (2011) Rare de novo and transmitted copy-number variation in autistic
+spectrum disorders. Neuron 70(5):886–897.
+43. Mei L, Nave KA (2014) Neuregulin-ERBB signaling in the nervous system and neuropsychiatric diseases. Neuron 83(1):27–49.
+44. Wu H, et al. (2012) β-Catenin gain of function in muscles impairs neuromuscular
+junction formation. Development 139(13):2392–2404.
+45. Ting AK, et al. (2011) Neuregulin 1 promotes excitatory synapse development and
+function in GABAergic interneurons. J Neurosci 31(1):15–25.
+46. Tang FL, et al. (2015) VPS35 deficiency or mutation causes dopaminergic neuronal loss
+by impairing mitochondrial fusion and function. Cell Reports 12(10):1631–1643.
+47. Stranahan AM, et al. (2009) Voluntary exercise and caloric restriction enhance hippocampal
+dendritic spine density and BDNF levels in diabetic mice. Hippocampus 19(10):951–961.
+48. Yin DM, et al. (2013) Regulation of spine formation by ErbB4 in PV-positive interneurons. J Neurosci 33(49):19295–19303.
+49. Ito H, Morishita R, Iwamoto I, Nagata K (2014) Establishment of an in vivo electroporation method into postnatal newborn neurons in the dentate gyrus. Hippocampus
+24(12):1449–1457.
+50. Wen L, et al. (2010) Neuregulin 1 regulates pyramidal neuron activity via ErbB4 in
+parvalbumin-positive interneurons. Proc Natl Acad Sci USA 107(3):1211–1216.
+1182 | www.pnas.org/cgi/doi/10.1073/pnas.1618213114 Jiao et al.

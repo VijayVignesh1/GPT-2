@@ -1,0 +1,566 @@
+Loss of O-GlcNAc glycosylation in forebrain excitatory
+neurons induces neurodegeneration
+Andrew C. Wanga
+, Elizabeth H. Jensena
+, Jessica E. Rexacha
+, Harry V. Vintersb,c, and Linda C. Hsieh-Wilsona,1
+a
+Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, CA 91125; b
+Division of Neuropathology, Department of
+Pathology and Laboratory Medicine, David Geffen School of Medicine at University of California, Los Angeles, CA 90095; and c
+Department of Neurology,
+David Geffen School of Medicine at University of California, Los Angeles, CA 90095
+Edited by Carolyn R. Bertozzi, Stanford University, Stanford, CA, and approved October 31, 2016 (received for review April 30, 2016)
+O-GlcNAc glycosylation (or O-GlcNAcylation) is a dynamic, inducible posttranslational modification found on proteins associated
+with neurodegenerative diseases such as α-synuclein, amyloid precursor protein, and tau. Deletion of the O-GlcNAc transferase (ogt)
+gene responsible for the modification causes early postnatal lethality
+in mice, complicating efforts to study O-GlcNAcylation in mature
+neurons and to understand its roles in disease. Here, we report that
+forebrain-specific loss of OGT in adult mice leads to progressive neurodegeneration, including widespread neuronal cell death, neuroinflammation, increased production of hyperphosphorylated tau and
+amyloidogenic Aβ-peptides, and memory deficits. Furthermore, we
+show that human cortical brain tissue from Alzheimer’s disease patients has significantly reduced levels of OGT protein expression
+compared with cortical tissue from control individuals. Together,
+these studies indicate that O-GlcNAcylation regulates pathways critical for the maintenance of neuronal health and suggest that dysfunctional O-GlcNAc signaling may be an important contributor to
+neurodegenerative diseases.
+O-GlcNAc | glycosylation | neurodegeneration | tau | amyloid beta
+Despite the increasing prevalence of neurodegenerative diseases such as Alzheimer’s disease (AD) and Parkinson’s
+disease, there still are no effective treatments to prevent, cure, or
+stop neurons from degenerating. Neurodegeneration at the cellular level involves the dysfunction of several processes important for proper neuronal function and health, including synaptic
+plasticity (1), autophagy (2), mitochondrial dynamics (3), and
+cellular metabolism (4). An improved understanding of the
+protective factors responsible for maintaining neuronal health is
+essential for uncovering the biology of neuropathies and the
+development of more effective treatments for neurodegenerative
+conditions.
+O-GlcNAc glycosylation (or O-GlcNAcylation) is a dynamic
+posttranslational modification that regulates important processes
+such as transcription (5, 6), proteostasis (7), the stress response (8),
+autophagy (9), and metabolism (6, 10). The O-GlcNAc transferase
+enzyme OGT catalyzes the covalent attachment of N-acetyl-D-glucosamine to serine or threonine residues of proteins, whereas
+β-N-acetylhexosaminidase (also known as “O-GlcNAcase,” OGA)
+removes it (6). Although OGT is ubiquitously expressed, it is
+particularly abundant in neurons, where it is enriched in the nucleus (6) and at synapses (11). OGT participates in specialized
+neuronal processes, including activity-dependent transcription and
+long-term depression via regulation of cAMP-responsive element
+binding protein (CREB) (5) and the AMPA receptor GluA2
+subunit (12), respectively. O-GlcNAcylation also has been implicated in neurodegenerative diseases and is reported on proteins
+such as amyloid precursor protein (APP) (13), α-synuclein (14),
+neurofilament M (NFM) (15), and tau (16). Several studies have
+suggested neuroprotective roles for the modification. For example, increasing global levels of O-GlcNAcylation in neurons decreased the production of pathological forms of NFM and tau
+(15, 16) and directly inhibited the aggregation of both tau (17) and
+α-synuclein (18). Glycosylation of nicastrin, a component of the
+γ-secretase complex, enhanced the nonamyloidogenic processing
+of APP (13, 19). Moreover, raising O-GlcNAcylation levels by
+pharmacological inhibition of OGA attenuated amyloid-β deposition,
+tau phosphorylation, motor deficits, and memory impairments in
+certain AD mouse models (17, 19). On the other hand, studies also
+have suggested neurodegenerative roles for O-GlcNAcylation. For
+instance, increasing O-GlcNAcylation levels exacerbated neurodegenerative phenotypes of tauopathy, amyloid β-peptide, and polyglutamine expansion in Caenorhabditis elegans models, whereas
+decreasing O-GlcNAcylation levels rescued those phenotypes
+(20). Thus, it is unclear whether O-GlcNAcylation has neuroprotective or neurodegenerative functions and whether aberrant
+O-GlcNAc signaling plays a direct role in the induction of neuronal pathology in vivo.
+Understanding the functions of O-GlcNAcylation in the mature
+brain and in neurodegenerative diseases has been complicated
+by the difficulty of knocking out the ogt gene. Because OGT is
+ubiquitously expressed and is essential for cell-cycle progression
+and proliferation (6), constitutive deletion of OGT in mice
+resulted in embryonic lethality, and neuron-specific OGT deletion
+using a Syn1-Cre transgene led to severe developmental defects,
+increased phosphorylation of tau, and early postnatal lethality
+(21). In this study, we produced a forebrain-specific OGT conditional knockout (OGT cKO) mouse to assess the effects of
+O-GlcNAc depletion on learning, memory, and neuronal function in adult mice. The mice were phenotypically normal at
+birth but at 2 mo of age developed signs of severe, progressive
+neurodegeneration, including loss of neurons, gliosis, increased
+Significance
+O-GlcNAcylation is an abundant posttranslational modification
+suggested to have both neuroprotective and neurodegenerative
+functions. Although previous studies on O-GlcNAc have illustrated
+its potential to modulate preexisting phenotypes in neurodegenerative animal models, the importance of O-GlcNAcylation in both
+the induction of neuropathology and the functioning of healthy
+adult neurons remained unclear. We generated a forebrain-specific O-GlcNAc transferase conditional knockout mouse and found
+that diminution of O-GlcNAc signaling induced progressive neurodegeneration in vivo, including pathogenic processing of tau
+and amyloid precursor protein, widespread neuronal death, gliosis, and memory loss. These results indicate that O-GlcNAcylation
+regulates pathways critical for neuronal health and survival and
+that modulating O-GlcNAc signaling may represent a neuroprotective strategy for neurodegenerative diseases.
+Author contributions: A.C.W., E.H.J., J.E.R., and L.C.H.-W. designed research; A.C.W., E.H.J.,
+and J.E.R. performed research; H.V.V. contributed new reagents/analytic tools; A.C.W., E.H.J.,
+J.E.R., and L.C.H.-W. analyzed data; and A.C.W., E.H.J., J.E.R., H.V.V., and L.C.H.-W. wrote
+the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: lhw@caltech.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1606899113/-/DCSupplemental.
+15120–15125 | PNAS | December 27, 2016 | vol. 113 | no. 52 www.pnas.org/cgi/doi/10.1073/pnas.1606899113
+hyperphosphorylated tau and Aβ−peptides, altered expression
+of genes involved in inflammation and cell-cycle arrest, and
+memory impairments. Together, our studies link OGT and diminished O-GlcNAcylation to the induction of neuropathological phenotypes and may have important implications for the
+study and treatment of neurodegenerative diseases.
+Results
+Generation of Forebrain-Specific OGT cKO Mice. We generated OGT
+cKO mice by crossing floxed ogt (OGTfl) mice (21) with αCamKIICre transgenic mice (22). Because the αCamKII-Cre transgene is
+expressed between postnatal day 14–21 in excitatory neurons in the
+postnatal forebrain, including the cortex, hippocampus, caudate
+nucleus, thalamus, and hypothalamus (22), this approach circumvents complications associated with OGT ablation during prenatal
+development. OGT cKO mice were produced at expected frequencies and were indistinguishable from their WT littermates at
+birth. However, they began to show a significant reduction in weight
+gain at 7 wk of age (11% at 7 wk and 32% at 16 wk) (Fig. 1A). Loss
+of OGT protein expression occurred in hippocampal CA1, dentate
+gyrus (DG), and cortical neurons and coincided with the time
+course of O-GlcNAc signal depletion (Fig. S1). Beginning at 1 mo
+of age, O-GlcNAcylation was undetectable with a pan-specific
+O-GlcNAc antibody in 5–15% of hippocampal CA1, DG, and cortical neurons (Fig. 1 B and C). By 2–4 mo, depletion of O-GlcNAcylation peaked in 30–50% of CA1, DG, and cortical neurons (Fig.
+1C). By 6 mo, only 10–20% of the neurons lacked O-GlcNAc because of progressive neuronal death following OGT ablation. No
+change in OGT expression or O-GlcNAcylation levels was found in
+the cerebellum, which lacks αCaMKII-Cre transgene expression
+(Fig. S2). The observed forebrain-specific deletion of ogt was confirmed further by crossing the αCaMKII-Cre mice with RosaYFPfl
+mice (Fig. S2) and coincided well with previous examples of gene
+inactivation induced by the αCaMKII-Cre transgene (22).
+Loss of O-GlcNAcylation in OGT cKO Mice Leads to Progressive
+Neurodegeneration. Loss of OGT was accompanied by a diminution in the overall brain size and a progressive, profound reduction
+in hippocampal and cortical neurons (Fig. 2A). Global changes in
+brain morphology were detectable by Nissl staining, which revealed
+a dramatic shrinkage of the hippocampus and cortex by 4 mo (Fig.
+2B) and a significant decrease in cortical thickness at 4 and 6 mo
+(Fig. 2C). In the DG, a 23, 70, and 83% decrease in neuronal
+density was observed by neuronal nuclear antigen (NeuN) staining
+at 2, 4, and 6 mo, respectively (Fig. 1D). Similarly, neuronal loss
+was observed in the CA1 region of the hippocampus (20, 60, and
+60% decrease in neuronal density at 2, 4, and 6 mo, respectively),
+although the cortical neuronal density did not change (Fig. 1D),
+likely because of the significant reduction in cortical thickness.
+To evaluate the mechanism of neuronal death, we used TUNEL
+and Fluoro-Jade C (FJC) staining. The majority of DG neurons
+were TUNEL+ in 2-mo-old OGT cKO mice (Fig. 2D), demonstrating the presence of extensive apoptosis in the hippocampus. In
+addition, FJC staining revealed that more than 60% of DG neurons
+had degenerated at 2 mo (Fig. 2E). FJC staining also was observed
+in the cortex, increasing fivefold from 2 mo to 4 mo of age (Fig. S2).
+In contrast, no detectable labeling of hippocampal neurons by
+TUNEL or FJC was observed in WT mice. Interestingly, although
+most FJC+ neurons lacked O-GlcNAcylation, some neighboring
+O-GlcNAc+ neurons were also FJC+ (arrowheads in Fig. 2E).
+Increased Anxiety and Memory Impairments in OGT cKO Mice. To
+assess the functional consequences of conditional OGT knockout,
+we evaluated the mice in a series of behavioral tasks. At 5 mo of
+age, OGT cKO mice exhibited an excessive grooming phenotype
+and deficits in nest-making ability. In addition, OGT cKO mice
+displayed impaired exploratory behavior compared with WT mice
+Fig. 1. Characterization of OGT knockout and neuronal loss. (A) OGT cKO mice were smaller than WT
+mice and displayed significantly reduced weight gain
+beginning at 7 wk. (B) An anti–O-GlcNAc antibody was
+used to image total O-GlcNAc levels (green) in hippocampal NeuN+ neurons (red). (C) Quantification of
+O-GlcNAc− neurons in the CA1, DG, and cortical regions.
+(D) Quantification of NeuN+ neurons illustrates neuronal loss in the CA1 and DG of OGT cKO mice. *P < 0.05,
+**P < 0.005, ***P < 0.0005. (Scale bars: 50 μm.)
+Fig. 2. OGT cKO mice displayed reduced brain size and neurodegeneration.
+(A) Overall brain size was reduced at 4 and 6 mo in OGT cKO mice. (B and C)
+Nissl staining showed shrinking of cortical (brackets) and hippocampal (arrowheads) structures in OGT cKO mice (B) along with significant decreases in
+cortical thickness (C). (D) Costaining for O-GlcNAc (red) and TUNEL (green)
+identified apoptotic neurons in the hippocampus of OGT cKO mice. (E) Costaining for O-GlcNAc (red) and FJC (green) identified degenerating neurons in
+the hippocampus of OGT cKO mice, some of which were positive for O-GlcNAc
+(arrowheads). **P < 0.005. (Scale bars: 50 μm.)
+Wang et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15121
+NEUROSCIENCE
+in an open field test, including a reduction in the time spent in the
+center of the field and the total distance traveled (Fig. 3A).
+Rotarod tests revealed no differences between OGT cKO and WT
+mice, suggesting that the differences in the open field test were
+caused by increased anxiety-like behaviors rather than by motor
+function defects (Fig. S3).
+We also used a fear-conditioning paradigm to evaluate changes
+in the ability of OGT cKO mice to learn new associations. When
+tested 24 h after fear conditioning, the cKO mice displayed a small
+but significant deficit in amygdala-dependent cued freezing behavior at 2 mo but no change in hippocampus-dependent contextual freezing behavior (Fig. 3B). By 4 mo, however, significant
+deficits in both cued and contextual fear-related freezing behavior
+were observed (Fig. 3B). These results are consistent with the
+temporal pattern of neurodegeneration detected by histology and
+demonstrate a progressive impairment of fear-related associative
+learning and memory upon OGT depletion.
+Up-Regulation of Immune-Response and Cell-Cycle–Related Genes.
+To identify global transcriptional changes associated with the
+behavioral and histological phenotypes, we performed gene-expression microarray analyses. At 3 wk of age, only 10 differentially
+expressed genes were identified in the hippocampus of OGT cKO
+mice compared with WT mice, consistent with the minimal extent of
+OGT ablation and neuronal loss shown by histology (Fig. 1D and
+Table S1). In contrast, we observed a dramatic up-regulation of more
+than 900 genes in the hippocampus of 2-mo-old OGT cKO mice
+(Table S2). Among the most highly up-regulated genes were glial
+immune-response genes such as glial fibrillary acidic protein (Gfap),
+complement component 1q (C1q), and complement component 3
+(C3). Increased expression of these and other representative genes
+was confirmed independently by quantitative RT-PCR (qRT-PCR)
+(Table S3). Notably, many of the same genes are up-regulated in
+established familial AD mouse models (Table S3) (23, 24). Furthermore, genes that showed little alteration in the AD mouse
+model Tg2576/PS-1P264L/P264L, such as those encoding for GAP43,
+syntaxin, synaptophysin I, and synaptotagmin-I, were not differentially expressed in OGT cKO mice (Table S4) (23). Overall, the
+similarities in the transcriptional profiles between OGT cKO mice
+and AD mouse models suggest that they may share common underlying mechanisms of neurodegeneration.
+To determine whether entire networks of genes were deregulated in OGT cKO mice, a weighted gene coexpression network
+analysis (WGCNA) was performed to organize genes into biologically meaningful groups. WGCNA identified two gene
+modules that were significantly correlated with OGT deletion
+[cor = 0.71 (P = 3.8 × 10−28 and cor = 0.77 (P = 1.2 × 10−18)]
+(Fig. S4). Using Gene Ontology analysis, we found that one
+module was enriched with genes involved in the immune response
+(P < 3.4 × 10−4
+) such as Bcl-2 homologous antagonist killer
+(Bak1) and SH2-domain containing phosphatidylinositol-3,4,5-
+trisphosphate 5-phosphatase 2 (Inppl1). Bak1, a central proapoptotic member of the Bcl-2 family, is required for mitochondrial
+permeabilization and release of cytochrome c into the cytosol in the
+early stages of apoptosis (25). Enhanced expression of apoptosisand immune-related genes is consistent with the extensive apoptosis
+(Fig. 2D) and gliosis (see Fig. 5A) observed in OGT cKO mice and
+with the up-regulation of immune-response genes observed in other
+AD mouse models (24). A second module was enriched with genes
+involved in cell-cycle arrest (P < 3.8 × 10−5
+), including antigen Ki-67
+(Mki67), protein regulator of cytokinesis 1 (Prc1), and kinetochore
+protein Spc25 (Spc25) (Fig. S4).
+To explore further the connection between OGT ablation and
+cell-cycle arrest, we probed OGT cKO mice for evidence of altered neuronal cell-cycle progression. Although immunostaining
+of hippocampal neurons for proliferating cell nuclear antigen
+(PCNA) and BrdU revealed no appreciable differences (Fig. S5),
+we observed a significant increase in the levels of cyclin A2 in
+OGT cKO mice compared with WT mice (Fig. 4A). Cyclin A2 is
+an initiator of DNA replication during S-phase and is a wellestablished marker for cell-cycle progression (26). Moreover, the
+protein expression levels of cyclin-dependent kinase 5 (CDK5), a
+negative regulator of cell-cycle progression, decreased significantly in OGT cKO mice compared with WT mice, as determined by Western blot analysis (Fig. 4B). Although there was
+no change in CDK5 mRNA levels (Table S2), immunohistochemistry (IHC) analysis also indicated a specific reduction in
+CDK5 protein levels in O-GlcNAc–null hippocampal neurons
+(Fig. 4C), suggesting the potential for posttranscriptional regulation of CDK5 by O-GlcNAc. Taken together, these WGCNA,
+IHC, and Western blot analyses provide evidence of enhanced
+cell-cycle progression in the hippocampus of OGT cKO mice.
+OGT cKO Mice Recapitulate Neurodegenerative Phenotypes. Gliosis,
+the activation of microglia and astrocytes, is associated with neuroinflammation and the pathology of neurodegenerative disease.
+Fig. 3. Increased anxiety and impaired fear-related learning in OGT cKO
+mice. (A) In an open field test, OGT cKO mice showed a reduction in the time
+spent in the middle quadrant of the box and in the total distance traveled.
+(B) Deficits in cued fear conditioning were observed at 2 mo in OGT cKO
+mice, and deficits in both cued and contextual learning and memory were
+observed at 4 mo. n = 12 per group. *P < 0.05, **P < 0.005.
+Fig. 4. Effects of O-GlcNAcylation on cell-cycle progression. (A) An increase
+in the number of Cyclin A2+ neurons was observed by immunostaining in the
+DG of 2-mo-old OGT cKO mice relative to WT mice. n = 4. (Scale bar: 50 μm.)
+(B) A significant decrease in CDK5 expression levels was detected by Western
+blotting in the hippocampus of 2-mo-old OGT cKO mice. n = 8. (C) O-GlcNAc−
+negative neurons have decreased CDK5 immunostaining (arrowheads) in the
+hippocampus at 2 mo. CDK5 immunoreactivity was quantified in O-GlcNAc+
+(RL2+
+) and O-GlcNAc− (RL2−
+) neurons. n = 4. **P < 0.005, ***P < 0.0005. (Scale
+bar: 10 μm.) AU, arbitrary units.
+15122 | www.pnas.org/cgi/doi/10.1073/pnas.1606899113 Wang et al.
+OGT cKO mice displayed extensive gliosis, consistent with the
+observed up-regulation of immune-response genes. The astrocyte marker GFAP and the microglial marker Iba-1 were significantly increased (6.5- and 14.9-fold, respectively) in the
+hippocampus of OGT cKO mice compared with WT mice beginning at 2 mo of age (Fig. 5A). By 4 mo, gliosis had spread to
+the cortex (Fig. S5) and was strongly correlated with the spatiotemporal loss of O-GlcNAcylation (Fig. 1C).
+To determine whether OGT cKO mice displayed other neurodegenerative phenotypes, we investigated the levels of tau phosphorylation and aggregation. Phosphorylation of tau at Thr-205
+and Thr-231 has been associated with paired-helical filamentous
+(PHF) tau oligomers, which aggregate to form neurofibrillary
+tangles (NFTs) (27). We observed increased tau phosphorylation at
+these sites (1.8- and 2.9-fold, respectively) in the mossy fibers and
+cell bodies of DG neurons in OGT cKO mice compared with WT
+mice (arrowheads in Fig. 5B). This result was confirmed further by
+Western blot analysis, which demonstrated a significant increase
+in phosphorylated tau (1.4-fold each for pSer-202/Thr-205 and
+pThr-231) (Fig. 5C) in the hippocampus of OGT cKO mice. Interestingly, although an inverse relationship between tau phosphorylation and O-GlcNAcylation has been observed (16, 17), the
+overall levels of tau O-GlcNAcylation at Ser-400 were not significantly decreased in the hippocampus of 2-mo-old OGT cKO mice
+compared with WT mice (Fig. S5). Because phosphorylation of tau
+at these sites has been linked to its aggregation, Thioflavin S was
+used to evaluate the presence of protein aggregates in the hippocampus. At 6 mo of age, OGT cKO mice displayed Thioflavin S+
+protein deposits that were costained with a pThr-205 tau antibody
+(6.9-fold increase) (Fig. 5D and Fig. S5).
+Soluble oligomeric Aβ-peptides, which are produced by the
+proteolytic processing of APP, have been shown to inhibit hippocampal LTP, disrupt cognitive function, and induce apoptosis
+(28). We observed a 6.8-fold increase in the level of the 42-mer
+Aβ-peptide and a 2.7-fold increase in the level of the 40-mer Aβpeptide by ELISA in 6-mo-old OGT cKO mice compared with
+WT mice (Fig. 5E). Moreover, the ratio of 42/40-mer peptide
+increased by 2.5-fold, indicating enhanced accumulation of the
+more amyloidogenic 42-mer peptide (Fig. 5E) (28).
+OGT Levels Are Decreased in Human AD Brains. In light of the
+marked neurodegenerative phenotypes of OGT cKO mice, we
+examined whether human AD brains had reduced levels of OGT
+expression at the cellular level. Previously, both increases and
+decreases in O-GlcNAcylated proteins had been reported in the
+cerebral cortex of AD brains compared with control individuals (29,
+30). Notably, we found that cortical neurons from severe AD patients (Braak stage VI) displayed a 1.6-fold decrease in OGT protein levels compared with age- and sex-matched controls (Fig. 6), as
+revealed by IHC staining with an anti-OGT antibody. OGT protein
+levels in midstage AD patients (Braak stages IV and V) were also
+depleted, supporting the trend observed in severe AD patients, although the decrease was not statistically significant. These results
+demonstrate a correlation between lower OGT expression levels
+and the pathology of human neurodegeneration.
+Discussion
+In this study, we generated a forebrain-specific ogt cKO mouse to
+study the roles of O-GlcNAcylation in adult neurons. Because
+the mice survived to adulthood, the effects of ogt deletion on
+learning, memory, and adult neuronal function could be evaluated directly. Loss of OGT led to progressive neuronal death and
+other phenotypes associated with neurodegenerative diseases,
+including gliosis, activation of immune-response and cell-cycle
+genes, aberrant phosphorylation of tau, and amyloidogenic Aβ-42
+peptides. OGT cKO mice also displayed behavioral deficits such
+as abnormal nesting behavior, memory impairments, and increased anxiety, which are characteristics observed in neurodegenerative mouse models of AD (31), obsessive-compulsive disorder
+(32), and schizophrenia (33). Notably, we found that human AD
+patients showed a significant decrease in OGT protein expression
+levels in the frontal cerebral cortex compared with control individuals, and this decrease correlated with progressive cognitive decline.
+Together, our studies reveal important neuroprotective roles for
+O-GlcNAcylation and suggest that alterations in O-GlcNAc signaling may contribute to neuronal pathology.
+Both tau phosphorylation and APP processing were significantly
+altered in OGT cKO mice. Upon ogt deletion, we observed enhanced tau aggregation and hyperphosphorylation at sites associated with neurofibrillary tangles. These findings further support
+previous studies suggesting a reciprocal relationship between
+O-GlcNAc and phosphorylation on tau. For example, increasing
+global O-GlcNAc levels reduced tau phosphorylation at Ser-199,
+Thr-212, Thr-217, Ser-262, Ser-396, and Ser-422 in mouse brain
+slices (16). Moreover, inhibition of OGA elevated O-GlcNAc
+levels and decreased tau hyperphosphorylation in an AD mouse
+model (17). Although we observed no significant change in the
+levels of tau O-GlcNAcylated at Ser-400, it is possible that
+O-GlcNAcylation of tau is differentially regulated at specific sites
+Fig. 5. OGT cKO mice exhibited neuroinflammation
+and increased phosphorylated tau and Aβ-peptide
+levels. (A, Left) Elevated expression of the neuroinflammatory markers Iba-1 (green) and GFAP (red)
+in the CA1 hippocampus of 2-mo-old OGT cKO mice
+compared with WT mice. (Right) Total pixel intensity
+from each field of view was quantified, and the
+mean ± SEM is shown. n = 4. (B) Phosphorylation of
+tau (pThr-205, pThr-231) increased and accumulated
+in both the soma and axons of DG neurons (arrowheads) of 2-mo-old OGT cKO mice. Quantification is
+shown at right. (C) Increased levels of tau phosphorylated at p202/205 and p231 in 2-mo-old OGT cKO
+mice, as revealed by Western blotting. n = 8. (D) Thioflavin S+ aggregates accumulated in 6-mo-old OGT
+cKO mice and were costained with phosphorylated
+tau (pThr-205). (E) The Aβ 42-mer and 40-mer peptide
+levels and the 42/40-mer peptide ratio increased in
+6-mo-old OGT cKO mice, as quantified by ELISA. n = 4.
+*P < 0.05, **P < 0.005, ***P < 0.0005. (Scale bars:
+50 μm in A and B; 10 μm in D.)
+Wang et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15123
+NEUROSCIENCE
+or that a small amount of residual OGT may be sufficient to maintain
+O-GlcNAc levels at this site.
+Previous studies have suggested that higher O-GlcNAcylation
+levels can enhance nonamyloidogenic processing of APP by raising
+α-secretase activity (13) and lowering γ-secretase activity (19). In
+accordance with these observations, we found that loss of OGT enhanced the pathological processing of APP in vivo, increasing the
+ratio of the amyloidogenic 42-mer Aβ-peptide to the 40-mer. Notably, accumulation of hyperphosphorylated tau and Aβ-peptides is not
+observed in many neurodegenerative mouse models, and the two
+phenotypes are rarely observed together. For example, 5XFAD mice
+that express five different familial AD mutations in APP and presenilin1 showed no accumulation of hyperphosphorylated tau (34),
+and mutant P301L tau transgenic mice displayed no increases in
+amyloid beta load (35) despite the presence of extensive neuronal
+death. Thus, the defects in tau phosphorylation and APP processing
+observed in OGT cKO mice are not likely to be indirect effects
+caused by a global requirement for OGT in proper neuronal function
+and survival. Together, the findings suggest that the O-GlcNAc
+modification plays a central role in regulating both APP and tau and
+that dysfunctional O-GlcNAc signaling may contribute to improper
+APP processing and tau pathology.
+We performed gene microarray analyses to obtain insights into
+the global, systems-level changes induced by loss of OGT. Our
+studies revealed that several cell-cycle genes, including Mki67,
+Prc1, and Spc25, were up-regulated in OGT cKO mice. Consistent with an important role for OGT in cell-cycle regulation,
+O-GlcNAcylation previously has been shown to modulate cellcycle progression by prolonging cyclin A and B expression and
+catalyzing proteolytic maturation of the critical cell-cycle regulator, host cell factor-1 (HCF-1) (36, 37). Interestingly, several
+genes involved in controlling oxidative stress were also significantly up-regulated in OGT cKO mice, including heme oxygenase 1 (Hmox1), cyclooxygenase 1 (Ptgs1), and activity-dependent
+neuroprotective protein homeobox 2 (ADNP2). O-GlcNAcylation
+previously has been shown to be required for stress granule assembly in response to oxidative stress and to decrease oxidative
+stress in cardiomyocytes by reducing reactive oxygen species (8, 38).
+Thus, one important mechanism by which OGT may exert its neuroprotective effects is through the regulation of critical cell-cycle
+regulators and modulators of oxidative stress. The two-hit hypothesis
+of AD postulates that both oxidative stress and mitotic dysregulation
+are necessary and sufficient to cause the neurodegeneration associated with AD (39). Further supporting the gene-expression analyses,
+we found that cyclin A2, a marker of cell-cycle progression, was
+increased in OGT cKO mice, providing strong evidence for enhanced cell-cycle progression in the hippocampi of these mice.
+Moreover, CDK5 protein expression levels were significantly
+decreased upon loss of OGT. CDK5 represses neuronal cell-cycle
+advancement (40) and is an important upstream regulator of oxidative stress through phosphorylation of peroxiredoxin I/II and
+p53 (39). Interestingly, a recent paper suggests that blocking
+O-GlcNAcylation of CDK5 can lead to neuronal apoptosis by
+enhancing its association with the p53 pathway (41). Several other
+studies have implicated aberrant cell-cycle advancement in ADassociated neurodegeneration through deregulation of CDK5 levels
+and activity (40, 42). Together, these results suggest that a major
+mode by which OGT ablation leads to neurodegeneration is
+through cell-cycle dysfunction. Future studies will focus on understanding the detailed mechanisms by which OGT affects CDK5
+function, the cell cycle, and oxidative stress in neurons.
+Lagerlöf et al. reported that the tamoxifen-induced deletion of
+ogt from αCaMKII+ neurons in adult mice leads to obesity caused
+by overeating (43). This phenotype was the result of reduced
+satiety caused by OGT ablation in the paraventricular nucleus
+(PVN) of the hypothalamus. Interestingly, no change in neuronal
+number in the hippocampus or PVN was noted upon quantification of DAPI+ cells, although the age of the mice analyzed was not
+reported. There could be several explanations for the phenotypic
+differences between Lagerlöf’s model and ours. First, there likely
+are differences in the timing of the OGT knockout in the
+αCaMKII-Cre versus the αCaMKII-CreERT2 tamoxifen-inducible
+systems. In our study, loss of OGT and O-GlcNAcylation began at
+4 wk of age, and the neuronal loss and degenerative phenotypes
+were not significant until 8 wk of age. In the Lagerlöf study, tamoxifen injections were initiated at 6 wk of age, and phenotypic
+responses were monitored up to 4 wk later. Second, it is possible
+that the neurodegenerative phenotypes were not yet apparent
+during the window of their study, because tamoxifen-induced Cre
+recombination can take several days. Furthermore, variability in
+the location and timing of αCaMKII promoter-driven Cre recombination has been described previously and attributed to differences in the location of αCaMKII-Cre transgene insertion
+within the genome (44). Alternatively, excitatory forebrain neurons may be more vulnerable to OGT deletion at specific stages of
+maturation. Last, any effects on satiety in our model were likely
+obscured by the strong neurodegenerative phenotype. The phenotypic differences between the two OGT cKO models suggest
+that OGT plays specific roles in neuronal health and homeostasis
+during various stages, and they underscore the importance of the
+precise spatiotemporal coordination of O-GlcNAcylation.
+The O-GlcNAc modification appears to play multiple, complex
+roles in neurodegeneration, and previous studies paradoxically have
+suggested that decreasing O-GlcNAcylation has both neuroprotective and neurodegenerative effects (17, 20). We show that loss
+of O-GlcNAcylation in healthy neurons leads to progressive neurodegeneration in vivo, providing strong evidence that O-GlcNAc has
+neuroprotective functions in adult mammalian neurons. The neurodegenerative, transcriptional, and behavioral phenotypes observed
+in OGT cKO mice are shared by many AD mouse models, suggesting common mechanisms of neurodegeneration. It is noteworthy
+that loss of OGT alone is sufficient to induce neurodegenerative pathologies and that this neurodegeneration occurs relatively rapidly.
+Induction of such phenotypes in other mouse models generally requires mutation or overexpression of multiple familial AD-related
+proteins such as tau, APP, and presenilin (31), and the pathological
+phenotypes take 9–12 mo to progress (23, 31). The rapid course of
+neurodegeneration in OGT cKO mice underscores the critical importance of OGT in the maintenance of adult neuronal health and
+suggests that dysfunctional O-GlcNAc signaling may be an important
+contributor to neuronal pathology. Collectively, our studies provide a
+direct link between the ablation of O-GlcNAcylation and the induction of neurodegenerative phenotypes, suggesting that strategies to
+control O-GlcNAcylation and its neuroprotective effects may represent an approach for the treatment of neurodegenerative conditions.
+Fig. 6. Human AD brain tissue showed a significant reduction in OGT protein
+levels. (Left) The frontal cerebral cortex from AD patients was immunostained
+with an anti-OGT antibody (green) and with an anti-MAP2 antibody (red) as a
+control for neuronal number. (Right) A 1.6-fold reduction in neuronal OGT protein
+expression was observed in AD Braak stage VI patients (n = 8) compared with ageand sex-matched control individuals (n = 6). ***P < 0.0005. (Scale bars: 50 μm.)
+15124 | www.pnas.org/cgi/doi/10.1073/pnas.1606899113 Wang et al.
+Methods
+Human Tissue. Brain samples of frontal cortex from control (n = 6), Braak stage
+VI (n = 8), and Braak stage IV-V (n = 4) patients were obtained from the
+Alzheimer’s Disease Research Center at the University of California, Los Angeles.
+Samples were from patients with a similar age, sex, and postmortem interval.
+Mice. αCaMKII-Cre mice were provided by Mary Kennedy, California Institute of
+Technology, Pasadena, CA (22), and OGTfl mice (B6.129-Ogttm1Gwh/J) were
+purchased from Jackson Laboratories. Both lines were backcrossed six times into
+the C57/Bl6 background. Details of breeding are provided in SI Methods. All
+animal procedures were performed in accordance with the NIH Guide for the
+Care and Use of Laboratory Animals and approved by the Institutional Animal
+Care and Use Committee of the California Institute of Technology.
+IHC. Mice were transcardially perfused with 4% (wt/vol) paraformaldehyde
+(PFA) and were fixed overnight in 4% (wt/vol) PFA at 4 °C, followed by
+cryoprotection with 15–30% (wt/vol) sucrose. Sagittal sections (20 μm)
+were obtained using a Leica CM1850 cryostat and were stored in an ethylene glycol solution at −20 °C. Slices were stained with primary antibody in
+2% (vol/vol) goat serum, 0.1% Triton-X 100 in PBS overnight at 4 °C. Slices
+were mounted with Vectashield (Vector Labs, H1200), coded, and imaged with
+a Zeiss 700 confocal microscope, with the investigator blind to the genotype.
+Images were collected from slices spaced 100 μm apart through the region of
+interest. A minimum of 12 slices were quantified for each animal, and a
+minimum of four animals were evaluated for each genotype. Quantification of
+fluorescence intensity was performed as previously described (45) and was
+analyzed using a two-tailed, unpaired Student’s t test.
+Additional materials and methods, including detailed IHC procedures, behavioral experiments, ELISA, microarray, and qRT-PCR analyses, are provided in
+SI Methods. A list of primers used in this study can be found in Table S5.
+ACKNOWLEDGMENTS. We thank Dr. G. W. Hart for generously providing the
+AL-25 and AL-28 anti-OGT antibody; Dr. P. B. Dervan for quantitative PCR
+instrumentation; Dr. P. H. Patterson and Dr. K. Winden for helpful discussions;
+and John Thompson for careful reading of the manuscript. This research was
+supported by NIH Grant R01 GM084724-11 (to L.C.H-W.) and a National Defense Science and Engineering Graduate Fellowship (E.H.J.). H.V.V. was supported in part by National Institute on Aging Grant P50 AG16570.
+1. Palop JJ, Mucke L (2010) Amyloid-beta-induced neuronal dysfunction in Alzheimer’s
+disease: From synapses toward neural networks. Nat Neurosci 13(7):812–818.
+2. Wong E, Cuervo AM (2010) Autophagy gone awry in neurodegenerative diseases. Nat
+Neurosci 13(7):805–811.
+3. Chen H, Chan DC (2009) Mitochondrial dynamics–fusion, fission, movement, and
+mitophagy–in neurodegenerative diseases. Hum Mol Genet 18(R2):R169–R176.
+4. Mosconi L (2005) Brain glucose metabolism in the early and specific diagnosis of Alzheimer’s
+disease. FDG-PET studies in MCI and AD. Eur J Nucl Med Mol Imaging 32(4):486–510.
+5. Rexach JE, et al. (2012) Dynamic O-GlcNAc modification regulates CREB-mediated
+gene expression and memory formation. Nat Chem Biol 8(3):253–261.
+6. Hart GW, Slawson C, Ramirez-Correa G, Lagerlof O (2011) Cross talk between
+O-GlcNAcylation and phosphorylation: Roles in signaling, transcription, and chronic
+disease. Annu Rev Biochem 80:825–858.
+7. Hanover JA, Wang P (2013) O-GlcNAc cycling shows neuroprotective potential in
+C. elegans models of neurodegenerative disease. Worm 2(4):e27043.
+8. Ngoh GA, Watson LJ, Facundo HT, Jones SP (2011) Augmented O-GlcNAc signaling
+attenuates oxidative stress and calcium overload in cardiomyocytes. Amino Acids
+40(3):895–911.
+9. Guo B, et al. (2014) O-GlcNAc-modification of SNAP-29 regulates autophagosome
+maturation. Nat Cell Biol 16(12):1215–1226.
+10. Yi W, et al. (2012) Phosphofructokinase 1 glycosylation regulates cell growth and
+metabolism. Science 337(6097):975–980.
+11. Cole RN, Hart GW (2001) Cytosolic O-glycosylation is abundant in nerve terminals.
+J Neurochem 79(5):1080–1089.
+12. Taylor EW, et al. (2014) O-GlcNAcylation of AMPA receptor GluA2 is associated with a
+novel form of long-term depression at hippocampal synapses. J Neurosci 34(1):10–21.
+13. Jacobsen KT, Iverfeldt K (2011) O-GlcNAcylation increases non-amyloidogenic processing of the amyloid-β precursor protein (APP). Biochem Biophys Res Commun
+404(3):882–886.
+14. Morris M, et al. (2015) Tau post-translational modifications in wild-type and human
+amyloid precursor protein transgenic mice. Nat Neurosci 18(8):1183–1189.
+15. Lüdemann N, et al. (2005) O-glycosylation of the tail domain of neurofilament protein M in human neurons and in spinal cord tissue of a rat model of amyotrophic
+lateral sclerosis (ALS). J Biol Chem 280(36):31648–31658.
+16. Liu F, Iqbal K, Grundke-Iqbal I, Hart GW, Gong CX (2004) O-GlcNAcylation regulates
+phosphorylation of tau: A mechanism involved in Alzheimer’s disease. Proc Natl Acad
+Sci USA 101(29):10804–10809.
+17. Yuzwa SA, et al. (2012) Increasing O-GlcNAc slows neurodegeneration and stabilizes
+tau against aggregation. Nat Chem Biol 8(4):393–399.
+18. Marotta NP, et al. (2015) O-GlcNAc modification blocks the aggregation and toxicity of
+the protein α-synuclein associated with Parkinson’s disease. Nat Chem 7(11):913–920.
+19. Kim C, et al. (2013) O-linked β-N-acetylglucosaminidase inhibitor attenuates β-amyloid plaque and rescues memory impairment. Neurobiol Aging 34(1):275–285.
+20. Wang P, et al. (2012) O-GlcNAc cycling mutants modulate proteotoxicity in Caenorhabditis elegans models of human neurodegenerative diseases. Proc Natl Acad Sci
+USA 109(43):17669–17674.
+21. O’Donnell N, Zachara NE, Hart GW, Marth JD (2004) Ogt-dependent X-chromosomelinked protein glycosylation is a requisite modification in somatic cell function and
+embryo viability. Mol Cell Biol 24(4):1680–1690.
+22. Schweizer C, et al. (2003) The gamma 2 subunit of GABA(A) receptors is required for
+maintenance of receptors at mature synapses. Mol Cell Neurosci 24(2):442–450.
+23. Dickey CA, et al. (2003) Selectively reduced expression of synaptic plasticity-related genes
+in amyloid precursor protein + presenilin-1 transgenic mice. J Neurosci 23(12):5219–5226.
+24. Wu Z-L, et al. (2006) Comparative analysis of cortical gene expression in mouse
+models of Alzheimer’s disease. Neurobiol Aging 27(3):377–386.
+25. Tait SW, Green DR (2010) Mitochondria and cell death: Outer membrane permeabilization and beyond. Nat Rev Mol Cell Biol 11(9):621–632.
+26. Gong D, Ferrell JE, Jr (2010) The roles of cyclin A2, B1, and B2 in early and late mitotic
+events. Mol Biol Cell 21(18):3149–3161.
+27. Hanger DP, Anderton BH, Noble W (2009) Tau phosphorylation: The therapeutic
+challenge for neurodegenerative disease. Trends Mol Med 15(3):112–119.
+28. LaFerla FM, Green KN, Oddo S (2007) Intracellular amyloid-beta in Alzheimer’s disease. Nat Rev Neurosci 8(7):499–509.
+29. Liu F, et al. (2009) Reduced O-GlcNAcylation links lower brain glucose metabolism and
+tau pathology in Alzheimer’s disease. Brain 132(Pt 7):1820–1832.
+30. Förster S, et al. (2014) Increased O-GlcNAc levels correlate with decreased O-GlcNAcase
+levels in Alzheimer disease brain. Biochim Biophys Acta 1842(9):1333–1339.
+31. Oddo S, et al. (2003) Triple-transgenic model of Alzheimer’s disease with plaques and
+tangles: Intracellular Abeta and synaptic dysfunction. Neuron 39(3):409–421.
+32. Welch JM, et al. (2007) Cortico-striatal synaptic defects and OCD-like behaviours in
+Sapap3-mutant mice. Nature 448(7156):894–900.
+33. Lijam N, et al. (1997) Social interaction and sensorimotor gating abnormalities in mice
+lacking Dvl1. Cell 90(5):895–905.
+34. Oakley H, et al. (2006) Intraneuronal β-amyloid aggregates, neurodegeneration, and
+neuron loss in transgenic mice with five familial Alzheimer’s disease mutations: Potential factors in amyloid plaque formation. J Neurosci 26(40):10129–10140.
+35. Götz J, Chen F, van Dorpe J, Nitsch RM (2001) Formation of neurofibrillary tangles in
+P301l tau transgenic mice induced by Abeta 42 fibrils. Science 293(5534):1491–1495.
+36. Slawson C, et al. (2005) Perturbations in O-linked β-N-acetylglucosamine protein
+modification cause severe defects in mitotic progression and cytokinesis. J Biol Chem
+280(38):32944–32956.
+37. Capotosti F, et al. (2011) O-GlcNAc transferase catalyzes site-specific proteolysis of
+HCF-1. Cell 144(3):376–388.
+38. Ohn T, Kedersha N, Hickman T, Tisdale S, Anderson P (2008) A functional RNAi screen
+links O-GlcNAc modification of ribosomal proteins to stress granule and processing
+body assembly. Nat Cell Biol 10(10):1224–1231.
+39. Herrup K, Yang Y (2007) Cell cycle regulation in the postmitotic neuron: Oxymoron or
+new biology? Nat Rev Neurosci 8(5):368–378.
+40. Zhang J, et al. (2008) Nuclear localization of Cdk5 is a key determinant in the postmitotic state of neurons. Proc Natl Acad Sci USA 105(25):8772–8777.
+41. Ning X, et al. (June 17, 2016) The O-GlcNAc modification of CDK5 involved in neuronal apoptosis following in vitro intracerebral hemorrhage. Cell Mol Neurobiol,
+10.1007/s10571-016-0391-y.
+42. Zhang J, Li H, Zhou T, Zhou J, Herrup K (2012) Cdk5 levels oscillate during the neuronal cell cycle: Cdh1 ubiquitination triggers proteosome-dependent degradation
+during S-phase. J Biol Chem 287(31):25985–25994.
+43. Lagerlöf O, et al. (2016) The nutrient sensor OGT in PVN neurons regulates feeding.
+Science 351(6279):1293–1296.
+44. Tsien JZ, et al. (1996) Subregion- and cell type-restricted gene knockout in mouse
+brain. Cell 87(7):1317–1326.
+45. Zhang X, et al. (2005) A potent small molecule inhibits polyglutamine aggregation in
+Huntington’s disease neurons and suppresses neurodegeneration in vivo. Proc Natl
+Acad Sci USA 102(3):892–897.
+46. Southwell AL, Ko J, Patterson PH (2009) Intrabody gene therapy ameliorates motor,
+cognitive, and neuropathological symptoms in multiple mouse models of Huntington’s disease. J Neurosci 29(43):13589–13602.
+47. Haubensak W, et al. (2010) Genetic dissection of an amygdala microcircuit that gates
+conditioned fear. Nature 468(7321):270–276.
+48. Wojtowicz JM, Kee N (2006) BrdU assay for neurogenesis in rodents. Nat Protoc 1(3):
+1399–1405.
+49. Schmittgen TD, Livak KJ (2008) Analyzing real-time PCR data by the comparative C(T)
+method. Nat Protoc 3(6):1101–1108.
+50. Dudoit S, Yang Y, Callow M, Speed T (2002) Statistical methods for identifying differentially expressed genes in replicated cDNA microarray experiments. Stat Sin 12:111–139.
+51. Langfelder P, Horvath S (2008) WGCNA: An R package for weighted correlation
+network analysis. BMC Bioinformatics 9:559.
+52. Carlson M (2016) GO.db: A set of annotation maps describing the entire Gene Ontology. R package version 3.4.0. Available at https://bioconductor.org/packages/
+release/data/annotation/html/GO.db.html. Accessed November 11, 2016.
+53. Hu Z, et al. (2013) VisANT 4.0: Integrative network platform to connect genes, drugs,
+diseases and therapies. Nucleic Acids Res 41(Web Server issue):W225-31.
+Wang et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15125
+NEUROSCIENCE

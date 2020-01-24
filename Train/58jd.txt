@@ -1,0 +1,1402 @@
+Dynamic reorganization of striatal circuits during the
+acquisition and consolidation of a skill
+Henry H Yin1,2, Shweta Prasad Mulcare1, Monica R F Hila´rio1, Emily Clouse1, Terrell Holloway1,
+Margaret I Davis1, Anita C Hansson3, David M Lovinger1 & Rui M Costa1
+The learning of new skills is characterized by an initial phase of rapid improvement in performance and a phase of more gradual
+improvements as skills are automatized and performance asymptotes. Using in vivo striatal recordings, we observed regionspecific changes in neural activity during the different phases of skill learning, with the associative or dorsomedial striatum
+being preferentially engaged early in training and the sensorimotor or dorsolateral striatum being engaged later in training.
+Ex vivo recordings from medium spiny striatal neurons in brain slices of trained mice revealed that the changes observed in vivo
+corresponded to regional- and training-specific changes in excitatory synaptic transmission in the striatum. Furthermore, the
+potentiation of glutamatergic transmission observed in dorsolateral striatum after extensive training was preferentially expressed
+in striatopallidal neurons, rather than striatonigral neurons. These findings demonstrate that region- and pathway-specific
+plasticity sculpts the circuits involved in the performance of the skill as it becomes automatized.
+Learning to execute and automatize certain actions is essential for
+survival. The learning of new skills by trial and error, such as riding a
+bicycle or playing a piano, is characterized by an initial stage of rapid
+improvement in performance, followed by a phase of more gradual
+improvements as the skills are consolidated and performance asymptotes1–4. These two different phases of skill learning have distinct
+behavioral and physiological hallmarks1,5–7. For example, the early
+fast phase is susceptible to interference, whereas the later, more
+automatic, phase is more resistant to interference5. After consolidation,
+the memory of how to do things is long-lasting and it can last a lifetime
+for well-learned skills.
+Previous studies have shown that changes occur in neural activity in
+the striatum, the major input nucleus of the basal ganglia, during
+motor and procedural learning8–13. Some studies also suggested that
+the striatal circuits and processes engaged during the early and late
+phases of skill learning may differ2,3,14. For example, the dorsomedial or
+associative striatum (DMS, roughly homologous to the caudate in
+primates), which receives input primarily from association cortices
+such as the prefrontal cortex15,16, seems to be preferentially involved in
+the initial stages of visuomotor learning and during the rapid acquisition of action-outcome contingencies2,3,17. On the other hand, the
+dorsolateral or sensorimotor striatum (DLS, roughly homologous to
+the putamen in primates), which receives inputs from sensorimotor
+cortex15,16, is critical for the more gradual acquisition of habitual and
+automatic behavior2,3,18.
+We recorded neural activity in the associative and sensorimotor
+striatal regions during the different stages of skill learning in vivo and
+found that the task-related activity in these striatal regions differed
+during the acquisition and consolidation of a new skill, with the DMS
+being engaged during the early phase and the DLS being engaged
+during the late phase. We confirmed the differential involvement of
+these striatal regions in the different stages of skill learning using
+selective excitotoxic lesions of the dorsal striatum. We next investigated
+whether the changes in striatal neural activity observed during skill
+learning could be mediated by synaptic plasticity or excitability changes
+in medium spiny projection neurons in the dorsal striatum using an
+ex vivo approach and found that learning was accompanied by longlasting changes in glutamatergic transmission. These changes evolved
+dynamically during the different phases of skill learning; changes in the
+DMS were predominant early in training, whereas changes in the DLS
+emerged only after extensive training. Finally, we found that these longlasting changes in the DLS after extensive training were pathway
+specific and occurred predominantly in dopamine receptor 2 (D2)-
+expressing striatopalidal medium spiny neurons. Consistent with this
+observation, the performance of the skill after extended training
+became less dependent on the activation of D1-type dopamine receptors, which are mainly expressed in striatonigral neurons.
+RESULTS
+DMS and DLS involvement in early and late skill learning
+To investigate whether the different regions of the dorsal striatum were
+differentially engaged during the early and late phases of skill learning,
+we simultaneously recorded the activity of medium spiny neurons in
+the dorsolateral and dorsomedial striatal regions in vivo during the
+Received 24 October 2008; accepted 17 December 2008; published online 8 February 2009; doi:10.1038/nn.2261
+1Laboratory for Integrative Neuroscience, National Institute on Alcohol Abuse and Alcoholism, US National Institutes of Health, 5625 Fishers Lane, MSC 9411, Bethesda,
+Maryland 20852-9411, USA. 2Department of Psychology and Neuroscience, Center for Cognitive Neuroscience, Duke University, 103 Research Drive, Box 91050, Durham,
+North Carolina 27708, USA. 3Laboratory of Clinical and Translational Studies, National Institute on Alcohol Abuse and Alcoholism, US National Institutes of Health,
+10 Center Drive, Bethesda, Maryland 20892-1108, USA. Correspondence should be addressed to R.M.C. (costarui@mail.nih.gov).
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 3 [ MARCH 2009 333
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+different phases of skill learning (Fig. 1a,b). Motor-skill learning on the
+accelerating rotarod has been shown to have distinct early and late
+phases14,19. We bilaterally implanted six C57/Bl6J mice with microelectrode arrays that were designed to target these two striatal regions
+simultaneously (Supplementary Fig. 1 online) and trained the mice
+with ten trials a day for 8 d on an accelerating rotarod (see Methods;
+Fig. 1c). We then examined the changes in neuronal activity during the
+first two trials of training (naive), the last two trials of the first day
+(early) and the last two trials on day 8 (late). We quantified the
+modulation of the activity of putative medium spiny neurons during
+running versus the intertrial period, when the animal rested at the
+bottom of the apparatus in a relatively immobile state, using a rate
+modulation index of runrest
+run+rest 100 (Fig. 1b,d). In the DMS, the rate
+modulation increased during the early phase of training (F5, 458 ¼ 3.7,
+post hoc P o 0.05), but returned to naive levels with further training
+(no difference between naive and late phase, post hoc P 4 0.05). In the
+DLS, however, the modulation of firing rate increased gradually with
+training (post hoc P o 0.05). There was no difference between the naive
+group and the early group (P 4 0.05), but the rate modulation was
+significantly increased late in training compared with both naive and
+early groups (P o 0.05; Fig. 1d). The increased firing rate modulation
+in DLS during the late phase of skill learning was accompanied by a
+decrease in baseline firing rate during the intertrial period (naive ¼ 2.9
+± 0.4 Hz, early ¼ 3.2 ± 0.5 Hz, late ¼ 1.9 ± 0.3 Hz; planned
+comparisons: naive versus late, P ¼ 0.07; early versus late, P o 0.05),
+suggesting that the signal-to-noise ratio increased in DLS after
+extended training.
+Overall, the number of task-related neurons (in which firing rate was
+significantly modulated during running compared to the intertrial
+period, P o 0.01, see Methods) remained relatively constant throughout training in DMS (naive ¼ 70%, early ¼ 78%, late ¼ 78%), but
+increased slightly with training in DLS (naive ¼ 74%, early ¼ 80%, late
+¼ 89%). We also measured the proportion of neurons in each striatal
+region that were either positively (increased firing rate during running)
+or negatively (decreased firing rate during running) modulated during
+running (P o 0.01). In the DMS, there was a transient increase in the
+percentage of positively modulated neurons early in training (w2
+1,87 ¼
+7.9, P o 0.05), but the percentage returned to the level of the naive
+condition with extended training (Fig. 1e). Conversely, more neurons
+became positively modulated in the DLS after extended training,
+whereas fewer neurons became negatively modulated (w2
+1,160 ¼ 7.17,
+P o 0.05; Fig. 1e).
+We next assessed the effect of selective excitotoxic striatal lesions on
+the different phases of motor skill learning. Lesions of the dorsomedial
+or the dorsolateral striata did not alter initial performance on the
+rotarod, as indicated by similar levels of performance in lesioned and
+sham mice during the first two trials (naive DMS: F1,19 ¼ 1.3, P 4 0.05;
+DLS: F1,48 ¼ 1.3, P 4 0.05; Fig. 1f and Supplementary Fig. 2 online).
+However, lesions of the DMS reduced performance on the rotarod
+specifically during the early phase of training, whereas these lesions no
+longer impaired performance after extended training (early: F1,19 ¼ 4.6,
+P o 0.05; late: F1,19 ¼ 1.5, P 4 0.05), suggesting that the DMS is only
+required during the early phase. On the other hand, excitotoxic lesions
+of the DLS affected skill learning during the early phase and continued
+to impair performance substantially during the late phase (early:
+F1,48 ¼ 9.3, P o 0.05; late: F1,48 ¼ 10.5, P o 0.05), indicating that
+the performance of the skill in the late phase requires the DLS, but not
+the DMS.
+Region-specific plasticity during early and late learning
+We next investigated whether the region-specific changes observed
+in vivo were driven by glutamatergic synaptic plasticity or excitability
+–10
+–5
+0
+5
+10
+15 DLS
+Rate modulation (%)
+–10
+–5
+0
+5
+10
+15
+Naive
+n = 60
+Naive
+n = 105
+Early
+n = 58
+Early
+n = 91
+Late
+n = 59
+Late
+n = 91
+DMS
+Rate modulation (%)
+Naive Early Late 0
+20
+40
+60 Positive
+Negative
+DLS
+Percent neurons
+Naive Early Late 0
+20
+40
+60 Positive
+Negative
+DMS
+Percent neurons 100
+200
+300 NaiveEarly Late
+Day 1 Day 2 Day 3 Day 5 Day 4 Day 6 Day 7 Day 8
+Latency to fall (s)
+DMS
+Naive Early Late
+100
+200
+300 Lesion
+Sham
+Latency to fall (s)
+DLS
+Naive Early Late
+100
+200
+300 Lesion
+Sham
+Latency to fall (s)
+a b
+c
+d
+e
+10 ms
+0 100 200 300
+Time (s)
+0
+1
+2
+3
+4
+Frequency
+(impulses per s)
+–100
+f
+*
+*
+*
+Figure 1 In vivo recordings of neuronal activity in the DMS and DLS striatal
+regions during different phases of skill learning. (a) Example of a single-unit
+waveform (vertical bar 20 mV; horizontal 200 ms), interspike interval and
+cluster separation from noise on the basis of principal component analyses.
+(b) Example of a putative medium spiny neuron that increased firing rate
+(impulses per second) when the animal was running on the rotarod versus
+baseline (intertrial period). (c) Latency to fall off the rotarod throughout
+training for the implanted animals. (d) Average modulation of firing rate
+during running versus baseline in the DMS and DLS during the different
+phases of skill learning. The number of neurons recorded in the six animals
+is shown for each condition. (e) Percentage of task-related neurons that
+increased versus decreased firing rate when the animal was running in the
+rotarod compared with baseline in DMS and DLS during the different phases
+of skill learning. (f) Effects of excitotoxic lesions in DMS and DLS on the
+different phases of skill learning. Error bars indicate s.e.m.
+334 VOLUME 12 [ NUMBER 3 [ MARCH 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+changes in the striatum by training C57/Bl6J mice for either 1 d (early
+phase) or 8 d (late phase) on an accelerating rotarod (Fig. 2a) and
+investigating ex vivo the changes in DMS and DLS related to the
+different phases of skill learning (Fig. 2b). We observed that performance improved rapidly during the first day of training (early group:
+F9,339 ¼ 7.75, P o 0.05, post hoc first versus last trial, P o 0.05)
+and asymptoted after 3 d of training (late group: F70,247 ¼ 70, P o 0.05,
+post hoc; for the first trial of each day, latency increased significantly
+until day 3, and for the last trial of each day, latency increased until day
+2). Coronal slices containing the striatum were taken from trained and
+naive mice at least 72 h after the last training session.
+We first examined the effect of training on the magnitude of the
+evoked striatal field potentials using an input-output analysis. We
+found that the population spike amplitude in the DMS was larger in
+naive animals and decreased after extended training (F2,38 ¼ 3.22, P o
+0.05, post hoc naive versus late, P o 0.05; Fig. 2c). In contrast, the
+average population spike amplitude in the DLS was smaller in naive
+animals, but increased with training (F2,25 ¼ 9.01, P o 0.05, post hoc
+naive and early versus late, P o 0.05; Fig. 2c). Consistent with these
+findings the amplitude of the half maximal
+evoked response was higher in the DMS than
+in the DLS in naive animals (F1,27 ¼ 10.7, P o
+0.05; Fig. 2d), whereas the half maximal
+response amplitude was higher in the DLS
+after extended training (F1,27 ¼ 7.01, P o
+0.05). During the early training phase, the
+evoked responses were equally large in these
+two striatal regions (F1,12 ¼ 0.31, P o 0.05;
+Fig. 2c,d). Such results indicate that there are
+region-specific changes in responsiveness to
+afferent input stimulation as a skill is acquired
+and consolidated, which are consistent with
+the changes in neural activity that are observed
+in vivo.
+These training-dependent changes in
+evoked population spike amplitude could be
+the result of changes in synaptic strength or
+changes in excitability. To investigate whether
+the changes in the input-output function in
+these regions of dorsal striatum corresponded
+to changes in synaptic strength, we performed ‘saturation’ experiments using a wellestablished protocol for striatal long-term
+depression (LTD)20,21. If there was substantial
+synaptic potentiation in the DLS after extended training, then the
+synapses in this region would be further away from the ‘floor’ of the
+modification range22 and thus would be capable of undergoing further
+depression. We therefore predicted that it would be more difficult to
+saturate LTD in the DMS early in training, whereas it would take more
+inducing attempts to saturate LTD in the DLS after extended training.
+After 15 min of baseline recording, we applied tetanic stimulation four
+times, 30 min apart (each induction attempt consisted of two trains of
+100 pulses of 10-ms duration delivered at 100 Hz, delivered 10 s apart,
+using a stimulation strength that produced half the maximal response).
+In the DMS, the magnitude of the LTD induced after four tetani was
+greater at the onset of training (naive and early phase), but decreased
+with extended training, whereas the amount of induced LTD in the DLS
+increased in animals that received extended training (Fig. 2e,f). In
+naive animals, more tetani were needed to reach LTD saturation in the
+DMS than in the DLS, indicating that DMS synapses were further away
+from saturation than DLS synapses (naive F1,29 ¼ 4.18, P o 0.05;
+Fig. 2e). Conversely, more tetani were needed to reach LTD saturation
+in the DLS than in the DMS after extended training (F1,29 ¼ 4.54,
+DMS DLS
+DMS
+0
+0.1
+0
+0.2
+0.30.40.50.60.70.80.91.0
+0.1
+0
+0.3
+0.6
+0.9
+1.2
+1.5
+Naive (16)
+Late (17)
+Early (8)
+Stimulation (mA)
+Population spike
+ amplitude (mV)
+DLS
+0.2
+0.3
+0.40.50.60.7
+0.8
+0.9
+1.0
+0
+0.3
+0.6
+0.9
+1.2
+1.5
+1.8
+Naive (12)
+Early (6)
+Late (11)
+Stimulation (mA)
+Population spike
+amplitude (mV)
+Early
+DMS DLS
+0
+0.2
+0.4
+0.6
+0.8
+Late
+DMS DLS
+0
+0.2
+0.4
+0.6
+0.8
+*
+Naive
+DMS DLS
+0
+0.2
+0.4
+0.6
+0.8
+*
+Half maximal
+population spike
+amplitude (mV)
+–15 0 15 30 45 60 75 90 105 120
+50
+60
+70
+80
+90
+100
+110
+Late (14)
+Naive (13)
+Early (10)
+Time (min)
+a
+c
+e
+Late
+100
+200
+300
+Day 1 Day 2 Day 3 Day 4 Day 5 Day 6 Day 7 Day 8
+Latency to fall (s)
+–15 0 15 30 45 60 75 90 105 120
+50
+60
+70
+80
+90
+100
+110
+Naive (10)
+Late (15)
+Early (14)
+Time (min)
+Population spike
+amplitude (% of baseline)
+Early
+12345678910
+100
+200
+300
+Trial
+Latency to fall (s)
+d
+n = 34 n = 37
+DLS DMS
+b
+Naive
+DMS DLS
+0
+1
+2
+3
+4
+*
+Tetani until saturation
+Early
+DMS DLS
+0
+1
+2
+3
+4
+Late
+DMS DLS
+0
+1
+2
+3
+4
+*
+0.25
+mV
+2.5 ms
+0.25
+mV
+2.5 ms
+f
+Figure 2 Ex vivo striatal field potential recordings
+in the DMS and DLS during different phases of
+skill learning. (a) Performance of the animals on
+the accelerating rotarod for the early and late
+groups of ex vivo electrophysiology experiments.
+(b) Placement of the stimulating and recording
+electrodes for the ex vivo experiments. (c) Inputoutput function of striatal population spike
+amplitude versus afferent stimulation strength in
+the DMS and DLS. (d) Half-maximal evoked
+striatal population spike amplitude in the DMS
+and DLS. (e) Number of LTD tetani needed to
+reach saturation in the DMS and DLS. (f) LTD
+saturation in the DMS and DLS. The number of
+animals used for every condition is indicated.
+Representative traces are shown on the right.
+Error bars indicate s.e.m.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 3 [ MARCH 2009 335
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+P o 0.05; Fig. 2e). This pattern of results suggests that extended
+rotarod training results in synaptic potentiation in the DLS.
+Training-induced synaptic plasticity in DMS and DLS
+To further investigate the nature of these changes, we carried outex vivo
+whole-cell patch-clamp recordings from striatal medium spiny neurons
+in slices from trained and naive mice. We measured the excitatory
+postsynaptic potential (EPSP) slope in response to increasing afferent
+stimulation strengths in each striatal region (Fig. 3a). Consistent with
+our observations in the field recordings, the average synaptic strength
+was higher in the DMS earlier in training, but increased in the DLS after
+extended training (F4, 221 ¼ 6.7, P o 0.05; post hoc tests comparing late
+training group with all other groups, P o 0.05). During the early phase,
+the difference between the EPSP slope elicited in the dorsomedial and
+dorsolateral regions increased compared with naive animals, as evidenced by a larger EPSP slope being elicited even at our minimal
+stimulation strength (post hoc 0.2 mA, P o 0.05; Fig. 3b), but this
+difference disappeared during the late training phase.
+These changes in EPSP slope were specifically related to learning the
+skill and were not just induced by being exposed to the rotarod, as they
+were not observed in yoked animals that had similar handling and were
+placed on the rod for the same amount of time (Fig. 3b). In addition,
+we did not observe any changes in paired pulse ratio (which could
+indicate changes in the probability of presynaptic glutamate release;
+Supplementary Fig. 3 online), input resistance and the resting membrane potential of the neurons (Supplementary Table 1 online).
+Because the EPSP slope is proportional to the fast AMPA receptor–
+mediated component of glutamatergic transmission, these results
+suggest that extended training results in a long-lasting potentiation
+of the AMPA component specifically in the
+DLS. We further confirmed that the potentiation observed in the DLS was the result of an
+increase in the AMPA receptor component by
+recording spontaneous excitatory postsynaptic currents (sEPSCs) from medium spiny
+neurons in the DLS after extended training.
+We found that sEPSC amplitude (t13 ¼ 3.3,
+P o 0.05), but not frequency (t13 ¼ 1.6,
+P 4 0.05), was increased after extensive
+training, an indication of a postsynaptic (but
+not presynaptic) site of expression for the
+plasticity (Supplementary Fig. 4 online).
+We measured the relative amplitude of
+synaptic currents mediated by the NMDA
+and AMPA glutamatergic receptors in voltage-clamp recordings. To our surprise, we
+found a significant increase in the NMDA/
+AMPA ratio in the overtrained DLS, suggesting that the NMDA-mediated current
+increased even more than the AMPA component in this region after extended training
+(main effect of group: F4, 54 ¼ 5.36, P o
+0.05; post hoc comparisons, late group higher
+than all other groups, P o 0.05; Fig. 3c). No
+such increase in NMDA/AMPA ratio was
+observed in the DMS (F4, 39 ¼ 0.35, P 4 0.05).
+We also measured intrinsic excitability by
+injecting current into medium spiny neurons
+and recording the number of action potentials
+that were generated (Fig. 4). Although we
+observed a small reduction in excitability in
+the DMS after extended training, we found a significant increase in
+excitability in the DLS, already evident during the early phase and
+maintained during the late phase (naive and early versus late, planned
+comparisons at 600 pA of injected current, P o 0.05; Fig. 4a). This is
+consistent with the observation of increased population spike amplitude in DLS early in training (Fig. 2c) and with the effects of the DLS
+lesions early in training (Fig. 1f). However, the increase in excitability
+in the DLS cannot be attributed solely to the learning of the skill, as it
+was also observed in yoked controls (late versus late yoked, planned
+comparison, P 4 0.05; Fig. 4b), suggesting that these changes could
+arise from other factors such as the stress associated with the task. In the
+DMS, although the excitability was significantly reduced in the late
+phase group compared with the early or the naive conditions (planned
+comparisons at 600 pA of injected current, P o 0.05), there was no
+significant difference between the late group and its yoked controls
+(P 4 0.05), suggesting that this reduction in excitability may not be
+directly associated with learning.
+To examine the consequences of the changes in glutamatergic
+transmission and excitability for the relation between afferent excitatory input and the spiking of medium spiny neurons (output), we
+measured the effects of training on the threshold for spiking, as
+measured by the intensity of afferent stimulation needed to evoke an
+action potential in medium spiny neurons (Fig. 4c). We found that the
+average afferent stimulation intensity necessary to evoke a spike was
+lower in the DMS than in the DLS early in training (F1,28 ¼ 6.46, P o
+0.05; Fig. 4c,e). With extended training, however, the threshold afferent
+stimulation necessary to evoke spiking increased in the DMS and
+decreased significantly in the DLS (interaction training  region:
+F1,60 ¼ 9.634, P o 0.05; post hoc DMS versus DLS early, P o 0.05;
+Naive
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+5
+10 DMS
+DLS
+mA
+EPSP slope
+Early
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+5
+10 DMS
+DLS
+mA
+Late
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+5
+10 DMS
+DLS
+mA
+Early yoked
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+5
+10 DMS
+DLS
+mA
+Late yoked
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+5
+10 DMS
+DLS
+mA
+Naive
+Early
+Late
+Late yok
+Early yoked
+ed
+Late yoked
+0
+0.2
+0.4
+0.6
+12 (10)
+15 (7)
+16 (8)
+10 (6)
+6 (4)
+DLS
+Naive
+Early
+Late
+Early yoked
+0
+0.2
+0.4
+0.6
+8 (5)
+10 (7)
+10 (7)
+8 (6)
+6 (4)
+DMS
+NMDA+40 mV/AMPA–70 mV
+0 0.2 0.4 0.6 0.8 1.0
+0
+5
+10 Naive, 14 (7)
+Early, 14 (9)
+Late, 16 (6)
+DLS
+mA
+0 0.2 0.4 0.6 0.8 1.0
+0
+5
+10
+Naive, 13 (5)
+Early, 16 (8)
+Late, 15 (6)
+DMS
+mA
+EPSP slope
+100 ms
+200 pA
+AMPA (Vh = –70 mV)
+NMDA (Vh = +40 mV)
+a
+b
+5 mV
+10 ms
+c
+0
+0
+0
+0
+Figure 3 Ex vivo striatal whole cell recordings in the DMS and DLS during the different phases of skill
+learning. (a) Input-output function of EPSP slope versus stimulation strength. Representative traces are
+presented on the left. (b) The same measure is presented as in a, directly comparing synaptic strength in
+the DMS and DLS during the different phases of skill learning and in yoked controls. (c) NMDA/AMPA
+ratio in DMS and DLS during the different phases of skill learning. Representative traces are shown on
+the left. The number of neurons and number of animals (between brackets) are shown for each condition.
+Error bars indicate s.e.m.
+336 VOLUME 12 [ NUMBER 3 [ MARCH 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+DLS early versus late, P o 0.05; Fig. 4e). Because the EPSP magnitude
+that is necessary to evoke a spike did not change with training,
+this decrease in spike threshold in the DLS was probably caused by
+increased synaptic strength and not by increased excitability (Fig. 4d,e).
+These results are consistent with the firing rate modulation that was
+observed in these two striatal areas during skill acquisition and
+consolidation in vivo (Fig. 1) and suggest that these changes were
+mediated by long-lasting plasticity of glutamatergic synapses onto
+medium spiny neurons.
+Circuit-specific plasticity after extended training
+We observed potentiation of glutamatergic transmission in about 55%
+of the neurons recorded in the DLS after extended training. Medium
+spiny neurons projecting preferentially to the substantia nigra (striatonigral or ‘direct’ pathway) and medium spiny neurons projecting to
+the external globus pallidus (striatopallidal or ‘indirect’ pathway) have
+different dopamine receptor expression, different physiological properties and different plasticity mechanisms23–26. Until recently, long-term
+potentiation (LTP) induction in the striatum
+was thought to require D1-receptor activation27, suggesting that it would occur predominantly in striatonigral neurons, which
+preferentially express D1 receptors, and not
+in striatopalidal neurons, which mainly express D2 receptors. However, recent studies
+have shown that LTP can occur in both types
+of neurons, but by different mechanisms26. We
+therefore examined whether the long-lasting
+potentiation observed in DLS after extended
+training occurred in both striatonigral and
+striatopalidal neurons by recording from
+medium spiny neurons in the DLS of D2–
+enhanced green fluorescent protein (EGFP)
+mice that were extensively trained on the
+rotarod (Fig. 5a,b). These mice express
+EGFP under the D2 promoter and therefore
+allow the visualization of neurons that express
+D2 receptors, which are almost exclusively
+striatopallidal neurons (Fig. 5a)26. We
+observed that rotarod training resulted in a
+slight, but not significant, potentiation in the
+non–D2-expressing neurons (putative striatonigral neurons, no interaction between training and stimulation strength, F1,20 ¼ 0.49,
+P 4 0.05; no effect of training, F1,20 ¼ 2.35,
+P 4 0.05; no significant post hoc at each
+stimulation strength), but in a much greater
+potentiation in the D2-expressing neurons
+(striatopallidal, interaction between training
+and stimulation strength, F1,26 ¼ 4.10, P o
+0.05; effect of training, F1,26 ¼ 4.54, P o 0.05;
+post hoc significant at 1-mA stimulation
+strength) in the DLS of extensively trained
+animals (Fig. 5c). No training-induced
+differences were observed in paired pulse
+ratio and excitability in D2-EGFP neurons
+and non–D2-EGFP neurons (Supplementary
+Fig. 5 online).
+The difference in the magnitude of excitatory transmission potentiation between the
+striatonigral and striatopallidal neurons suggests that the indirect pathway becomes more engaged relative to the
+direct pathway as a skill is automatized. Whether its increased role is in
+suppressing unnecessary and competing motor programs or in facilitating automatic motor programs remains unclear. In rats, D1 receptor
+expression is slightly more prominent in ventrolateral and ventromedial
+striatum than in dorsolateral striatum, whereas D2 receptor expression
+is more abundant in dorsolateral striatum than in dorsomedial striatum28,29. By measuring D2 receptor binding in C57Bl6/J mice, we
+verified that D2 receptor membrane expression was much higher in DLS
+than DMS (F1,11 ¼ 122,5, P o 0.05; Fig. 5d), whereas membrane
+expression of D1 receptors was more similar between DMS and DLS
+(F1,10 ¼ 0.15, P 4 0.05; Fig. 5d). Therefore, we tested whether blocking
+D1 or D2 dopamine receptors, which are preferentially expressed in
+striatonigral and striatopallidal neurons, respectively, would differentially affect the performance of the skill early and late in training.
+We verified that blockade of D1 and D2 receptors in naive animals
+rendered the animals completely akinetic and incapable of staying on
+the rod during the first two trials of learning (overall effect, F3,19 ¼ 20.3,
+0 200 400 600
+0
+20
+40 Naive, n = 13 (6)
+Early, n = 13 (8)
+Late, n = 16 (8)
+DLS
+Current injected (pA)
+Spike frequency (Hz)
+0 200 400 600
+0
+20
+40 Naive, n = 10 (5)
+Early, n = 16 (9)
+Late, n = 13 (6)
+DMS
+Current injected (pA)
+Spike frequency (Hz)
+200 ms
+40 mV
+–73 mV
+Naive
+0 200 400 600
+0
+20
+40
+DLS
+DMS
+Injected current (pA)
+Spike frequency (Hz)
+Early
+0 200 400 600
+0
+20
+40
+DLS
+DMS
+Injected current (pA)
+Early yoked
+0 200 400 600
+0
+20
+40 DMS
+DLS
+Injected current (pA)
+Late
+0 200 400 600
+0
+20
+40
+DLS
+DMS
+Injected current (pA)
+Late yoked
+0 200 400 600
+0
+20
+40
+DLS
+DMS
+Injected current (pA)
+a
+b
+c d
+Naive
+Early
+Late
+Early yoked
+Late yoked
+0
+0.5
+1.0
+1.5
+2.0
+DMS
+Stimulation intensity
+(mA)
+Naive
+Early
+Late
+Early yoked
+Late yoked
+0
+0.5
+1.0
+1.5
+2.0
+DLS
+Naive
+Early
+Late
+Early yoked
+Late yoked
+0
+5
+10
+DMS
+EPSP slope
+Naive
+Early
+Late
+Early yoked
+Late yoked
+0
+5
+10
+DLS
+Threshold to spike
+Early Late
+0
+0.5
+1.0
+1.5
+2.0 DLS
+DMS
+Stimulation intensity
+(mA)
+Threshold to spike
+Early Late
+0
+2
+4
+6
+8
+10
+12
+DLS
+DMS
+EPSP slope
+e
+Figure 4 Training results in region-specific changes in excitability and in threshold to spike in the DLS
+and the DMS. (a) Changes in excitability in DMS and DLS during the different phases of skill learning.
+Representative traces are shown on the left. The number of neurons and number of animals (between
+brackets) are shown for each condition. (b) The same measure is presented as in a, directly comparing
+excitability in the DMS and DLS during the different phases of skill learning. (c) Threshold afferent
+stimulation strength for spiking. (d) Threshold EPSP slope for spiking. (e) The afferent stimulation
+strength, but not the EPSP slope, necessary to produce spike changes dynamically in DMS and DLS
+across the different phases of skill learning. Error bars indicate s.e.m.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 3 [ MARCH 2009 337
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+P o 0.05; post hoc saline versus D1 + D2, P o 0.05; Fig. 5e and
+Supplementary Video 1 online). Blockade of either D1 or D2 receptors
+alone also affected the performance of naive animals in the rotarod,
+although to a lesser extent than blockade of both D1 and D2 receptors
+(post hoc saline versus D1 or D2, P o 0.05; D1 + D2 versus D1 or D2,
+P o 0.05; D1 versus D2, P 4 0.05). During the early stage of training,
+the results were similar to those observed in naive animals (F3,57 ¼ 50.2,
+P o 0.05; post hoc as in naive). However, after extensive training, D1
+blockade no longer affected performance of the skill (F3,32.3 ¼ 32.3,
+P o 0.05; post hoc saline versus D1, P 4 0.05), whereas D2 blockade
+still affected the performance substantially (saline versus D2, P o 0.05).
+This suggests that D1 receptor activation is no longer necessary for the
+performance of the skill after extended training (Supplementary
+Video 2 online). Consistently, the performance of mice with both D1
+and D2 receptors blocked was similar to the performance of animals
+with D2 blockade alone (D1 + D2 versus D2, P 4 0.05).
+Taken together, these data suggest that, with extensive training, the
+potentiation of excitatory transmission onto medium spiny neurons of
+the DLS occurs predominantly in D2 receptor–expressing striatopallidal neurons at the same time that the performance of the skill becomes
+less dependent on the activation of D1 receptors, which are mainly
+expressed in striatonigral neurons.
+DISCUSSION
+The data presented here suggest that there is a
+substantial functional reorganization of the
+dorsal striatum during the acquisition and
+automatization of a motor skill. Long-term
+synaptic plasticity in the striatum has been
+observed with a variety of protocols in brain
+slices and in anesthetized animals20,21,30. To
+the best of our knowledge, the data reported
+here, both in vivo, in awake behaving mice,
+and ex vivo, in striata taken from trained mice,
+constitute the first evidence of region-specific
+and pathway-specific long-lasting synaptic plasticity in the striatum
+during the acquisition and consolidation of a skill. Taken together with
+previous studies showing that mice that lack LTP specifically in the
+striatum are impaired in skill learning31 and that LTP can be induced in
+the striatum in vivo by intracranial self-stimulation30, our studies
+indicate that long-lasting potentiation of glutamatergic transmission
+in the striatum is necessary for skill learning.
+A notable observation is the pronounced difference between the
+direction of changes observed in dorsolateral (sensorimotor) striatum
+and dorsomedial (associative) striatum during the different phases of
+skill learning. This pattern is consistent with previous work in both rats
+and monkeys suggesting distinct functional roles for these regions on
+the basis of the origin of their main cortical afferents, that is,
+sensorimotor versus association cortices2,3,17,18. In the associative
+striatum (DMS), potentiation of synaptic strength is only observed
+early in training, with extended training resulting in a return of
+synaptic strength back to naive levels. In contrast, no substantial
+potentiation of synaptic strength occurs during the early learning
+phase in the sensorimotor striatum (DLS), but long-lasting potentiation of glutamatergic transmission develops with extended training.
+How this long-lasting potentiation in DLS relates to skill automatization is still not clear, especially given that it was observed in a
+a
+b
+D2-EGFP
+DAPI
+D2-EGFP
+D1 Ab
+DAPI
+D2-EGFP
+DAPI
+c
+0
+100
+200
+300
+Day 1 Day 2 Day 3 Day 4 Day 5 Day 6 Day 7 Day 8
+Latency to fall (s)
+0 0.2 0.4 0.6 0.8 1.0
+0
+2
+4
+6
+8 Naive, n = 10
+Late, n = 15
+Non-D2
+mA
+Slope
+0 0.2 0.4 0.6 0.8 1.0
+0
+2
+4
+6
+8 Naive, n = 11
+Late, n = 17
+D2
+mA
+Slope
+e
+d
+Naive
+Post
+0
+50
+100
+150
+200
+(5)
+(5)
+(5)
+(5)
+Latency to fall (s)
+Early
+Pre Post
+0
+100
+200
+300
+(15)
+(15)
+(14)
+(14)
+Late
+Pre Post
+0
+100
+200
+300 Saline
+D1 antagonist
+D2 antagonist
+D1 + D2 antagonist
+(10)
+(10)
+(8)
+(9)
+D1 receptor
+DMS DLS
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+[
+3H]SCH 23390
+binding (fmol mg–1)
+D2 receptor
+DMS DLS
+0
+50
+100
+150
+200
+250
+[
+3H] Raclopride
+binding (fmol mg–1)
+Figure 5 Extensive training results in pathwayspecific plasticity. (a) GFP in D2-EGFP mice was
+not expressed in all medium spiny neurons (left,
+EGFP expression in green and nuclear staining
+with DAPI in blue). D1 receptor expression did not
+colocalize with GFP expression in D2-EGFP mice
+(middle, EGFP expression in green, D1 antibody
+staining in red and DAPI in blue). Visualization of
+striatal projections to globus pallidus revealed that
+GFP labeled cells were mainly striatopallidal
+neurons in D2-EGFP mice (right, EGFP expression
+in green and DAPI in blue). (b) Performance of
+D2-EGFP mice on the rotarod. (c) Whole cell
+recordings of GFP-positive cells and GFP-negative
+cells in D2-EGFP mice revealed long-lasting
+potentiation of glutamatergic transmission in
+the dorsolateral striatum, preferentially in
+striatopallidal neurons. (d) Binding studies in
+C57Bl6/J revealed that D2 membrane expression
+was much higher in DLS than in DMS, whereas
+D1 expression was more similar between DMS and
+DLS. (e) Acute blockade of D1, D2, or D1 and D2
+type dopamine receptors in naive animals and
+during the early and late phase of training
+revealed that performance in the rotarod became
+independent of D1-type dopamine receptor
+activation with extensive training, but was
+dependent on D2-type dopamine receptor
+activation. Error bars indicate s.e.m.
+338 VOLUME 12 [ NUMBER 3 [ MARCH 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+substantial proportion of the neurons; one possibility is that it could
+subserve the generation of central pattern generator–type ensembles in
+sensorimotor cortico-thalamo-striatal circuits32. Furthermore, it
+remains to be determined whether this long-lasting potentiation
+observed in DLS is accompanied by structural plasticity (for example,
+by an increase in the number of spines and synapses).
+A straightforward explanation for these observations is that early on
+in acquisition, during the fast phase of skill learning, the inputs from
+associative cortices into dorsomedial striatum are preferentially
+strengthened, whereas the inputs into sensorimotor striatum are
+gradually potentiated with extended training, as shown by an increase
+in synaptic strength, excitability, NMDA currents and firing rate
+modulation during running on the rotarod. These results are consistent
+with recent in vivo work showing that the coordination between
+cortical areas and striatal regions has a mediolateral gradient33. These
+findings provide a possible mechanism to explain previous results
+showing that these different striatal regions are involved in controlling
+goal-directed actions and automatic habitual responses, respectively,
+and that, with extended training, the control over behavior by the goaldirected system is replaced by the habit system2,3,17,18,34–36. Our lesion
+results suggest a model in which fast and slow skill learning develop in
+parallel in DMS and DLS, respectively, and not serially. DMS lesions
+seem to affect performance only early in training, but have no effect
+later on. However, DLS lesions affect behavior early in training and
+continue to affect it later on. This interpretation of our skill learning
+results is consistent with previous studies in operant conditioning
+showing that lesions of the DMS accelerate acquisition of an interval
+schedule of reinforcement, whereas lesions of the DLS impair it18, and
+that inactivation of the DLS in habitual animals renders the behavior
+goal-directed again37.
+Although these differences in medial and lateral plasticity in the
+dorsal striatum in vivo can be explained in part by differences in
+anatomical connectivity, the distribution of key receptors and differences in dopaminergic release and uptake may also be involved. For
+example, the CB1 endocannabinoid receptor, which is critical for habit
+formation, is more abundantly expressed in the dorsolateral striatum38.
+The role of dopamine during the different phases of skill learning is also
+complex, not only because its mechanisms of release and reuptake show
+substantial regional variation39,40, but also because it has different
+physiological effects on two populations of projection neurons in the
+striatum: D1 receptor–expressing and D2 receptor–expressing neurons26. We found that D2-expressing striatopallidal medium spiny
+neurons in the dorsolateral striatum showed a preferential increase in
+synaptic strength in comparison with striatonigral neurons after
+extensive training. This is, to the best of our knowledge, the first report
+showing an increase in synaptic strength in striatopallidal neurons as a
+result of learning and is consistent with recent results that reported LTP
+in this class of neurons26,41. These studies showed that the activation of
+A2A adenosine receptors, which are colocalized with D2 receptors, is
+critical for LTP in the striatopallidal pathway, whereas the activation of
+D1 receptors is critical for LTP in the striatonigral pathway26,41. In
+addition, a notable finding from our study is the increased NMDA and
+AMPA currents following extended training. A recent study has
+shown the importance of A2A receptors in the LTP of the NMDA
+component of glutamatergic transmission42; such a mechanism may
+well be critical for the training-induced potentiation that we observed
+in the DLS.
+We observed that performance on the rotarod became independent
+of D1 receptor activation with extensive training (expressed mainly in
+striatonigral neurons) but still required D2 receptor activation. These
+findings are consistent with previous studies using a Pavlovian
+approach task in rats43. We found it interesting that D1 and D2
+receptors seem to be differentially expressed in the medial and lateral
+regions of the dorsal striatum, with D2 receptor being more prominent
+laterally28,29 (Fig. 5). In addition, D1 receptors have lower affinity for
+dopamine binding than D2 receptors, suggesting that D1 receptor
+activation requires a phasic increase in dopamine release, whereas D2
+receptor activation can be achieved with tonic dopamine release44. This
+suggests that during early acquisition of a new skill, when dopaminergic neurons show a phasic increase in activity in response to
+novel elements of the task45, D1 receptors could be activated. With
+extensive training and the development of automaticity, however,
+phasic increases in dopaminergic activity can become less frequent45
+and, consequently, the dopamine that is released would mainly activate
+D2 receptors. Also, given the recent data indicating that D2-expressing
+striatopallidal neurons have more and stronger inhibitory projections
+to D1-expressing striatonigral neurons than the converse46, potentiation of glutamatergic transmission onto striatopallidal neurons could
+result in increased inhibition of striatonigral neurons and serve as a
+substrate for the competition between these different pathways in
+behavioral control.
+Our findings may have implications for our understanding of the
+symptoms of Parkinson’s disease. It is well-known that individuals
+with Parkinson’s disease can perform automatized movements, but
+have difficulty initiating voluntary movements47,48. The progressive
+loss of dopamine in Parkinson’s disease may first affect D1 receptor
+activation (lower affinity) and affect D2 receptor activation later on.
+Thus, our observation that D2-expressing striatopallidal neurons
+are potentiated after extensive training and that automatized movements can become independent of D1 receptor activation may
+provide a mechanistic explanation for the relative preservation of
+more automatic movements in Parkinson’s’ disease (see Supplementary Videos 1 and 2).
+In summary, we report evidence for extensive functional reorganization in the striatum during the acquisition and consolidation of a skill
+via region-specific and pathway-specific changes in synaptic strength.
+We observed that the neuronal activity in the dorsomedial and
+dorsolateral striata of awake behaving mice changed across the different
+phases of learning. These changes were accompanied by dynamic
+patterns of synaptic plasticity in the associative striatum (DMS) and
+the sensorimotor striatum (DLS) during the different phases of
+learning. Although synaptic strength in the DMS was greater early in
+training, extensive training induced long-lasting potentiation at
+excitatory synapses onto medium spiny neurons in the sensorimotor
+striatum (DLS). This potentiation in the DLS after extended training
+occurred predominantly in D2 receptor–expressing striatopalidal
+neurons at the same time that the performance of the skill became
+less dependent on the activation of D1 receptors, which are mainly
+expressed in striatonigral neurons. Together, these data provide a first
+glimpse into the dynamic reorganization in neural circuits as a skill is
+learned and automatized. These findings could shed light on why
+voluntary movements are more affected than automatized movements
+in individuals with Parkinson’s disease.
+METHODS
+Animals. All procedures were approved by the National Institute on Alcohol
+Abuse and Alcoholism Animal Care and Use Committee. Adult C57Bl6/J male
+mice (2–5-months-old) were used for all of the behavior and recording
+experiments, with the exception of the D2-EGFP mice, which were on a
+FVB/N;Swiss Webster genetic background. The C57Bl6/J male mice were
+purchased from Jackson Laboratory at the age of 6–8 weeks and were given
+at least 2 weeks to acclimate to the new environment.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 3 [ MARCH 2009 339
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Rotarod training. A computer-interfaced rotarod accelerating from 4–40
+rotations per min over 300 s was used (ENV-575M, Med Associates). Animals
+were trained with ten trials per day for either 1 d or 8 d (trained every other
+day). This training protocol was chosen on the basis of studies determining the
+time course of sensitivity of this task to interference, protein synthesis blockers
+(data not shown) and dopamine receptor antagonists (Fig. 5d). Each trial
+ended when the mouse fell off the rotarod or after 300 s had elapsed and there
+was a resting period of approximately 300 s between trials. Yoked animals were
+handled and placed in the rotarod in the same manner as the trained animals,
+but without the rotation of the rod. During the in vivo recordings, the
+beginning and end of the running period were signaled to the MAP recording
+system (Plexon) as events. The D1 receptor antagonist SCH-23390 (0.4 mg per
+kg of body weight, Sigma-Aldrich) and D2 receptor antagonist raclopride
+(2.0 mg per kg, Sigma-Aldrich) were dissolved in phosphate-buffered saline
+with 1% DMSO by volume (control injection) and injected intra-peritoneally
+at 10 ml kg1 (these doses completely block the effects of 3,4-dihydroxyL-phenylalanine after dopamine depletion49, indicating complete block of D1
+and D2 receptors in vivo).
+Lesions. Excitotoxic lesions of the striatum were performed by injecting NMDA
+into the striatum using a syringe pump (Razel Scientific) under general
+anesthesia with isofluorane. Two cannulae were inserted per striatum (two
+sites per dorsolateral or dorsomedial region on each hemisphere, one more
+anterior and one more posterior, along a line connecting +1.18 mm anteriorposterior, +2.0 mm medial-lateral with +0.22 mm anterior-posterior, +2.6 mm
+medial-lateral). We injected 0.25–0.4 ml of a 10 mg ml1 solution of NMDA
+per site (2.25 mm from the surface of the brain) at a rate of 5–10 ml h1.
+Animals were allowed to recover for at least 2 weeks before training
+started. Lesions were verified post-mortem after perfusion and overnight
+post-fixation with 4% paraformaldehyde (by weight) using Nissl staining
+of 50-mm brain slices.
+In vivo extracellular recording. Implanting of multi-electrode arrays and
+in vivo recordings of neural activity in awake behaving mice were carried out
+as described previously14. The multi-electrode arrays consisted of two rows of
+eight polyamide-coated tungsten microwires (35 mm, CD Neural). The two
+rows were separated by 1 mm, so that one row targeted the DLS and the other
+targeted the DMS; electrodes in a row were separated by B200 mm. The
+placement of the center of the array was 0.5 mm anterior to Bregma, 1.6 mm
+lateral to Bregma and 2.2–2.4 mm below the brain surface. The placement of
+the electrodes was verified post-mortem after perfusion and overnight postfixation with 4% paraformaldehyde, using Nissl staining of 50-mm brain slices.
+After at least 2 weeks of recovery after surgery, single-unit and multi-unit
+activity were recorded using the Plexon data acquisition system (Plexon).
+Neural activity was initially sorted using an online sorting algorithm and then
+re-sorted using an offline sorting algorithm on the basis of waveform,
+amplitude and the interspike interval histogram. Because separate analysis of
+single-unit activity did not yield different data from that of multi-unit activity,
+the two datasets were combined.
+Ex vivo slice recordings. The mice were killed by decapitation under halothane
+anesthesia and their brains were rapidly transferred to ice-cold modified
+artificial cerebrospinal fluid (aCSF) containing 194 mM sucrose, 30 mM NaCl,
+4.5 mM KCl, 1 mM MgCl2, 26 mM NaHCO3, 1.2 mM NaH2PO4 and 10 mM
+D-glucose. Modified aCSF was brought to pH 7.4 by aeration with 95% O2/
+5% CO2. Coronal sections (250 mm thick) were cut in ice-cold modified aCSF
+using a vibrotome 1000 and transferred immediately to normal aCSF containing 124 mM NaCl, 4.5 mM KCl, 2 mM CaCl2, 1 mM MgCl2, 26 mM NaHCO3,
+1.2 mM NaH2PO4 and 10 mM D-glucose maintained at pH 7.4 by bubbling
+with 95% O2/5% CO2 19–22 1C.
+Extracellular field recordings were obtained with micropipettes (2.5–5 MO)
+filled with 1 M NaCl solution. Slices were maintained at a temperature between
+28 and 32 1C, stable within ± 1 1C during the experiment and stimulated via a
+bipolar twisted-tungsten electrode placed in the striatum. For the LTD recordings, stimulus intensity was set to evoke a population spike amplitude that was
+approximately half the size of the maximal evoked response. The highfrequency stimulation protocol used to induce LTD in field potential recordings
+consisted of two 1-s duration trains of 100 pulses (each pulse lasted 10 ms)
+delivered at 100 Hz, with 10 s between trains.
+Whole-cell recordings were carried out as previously described50. Pipettes
+were pulled from borosilicate glass capillaries on a Flaming-Brown
+micropipette puller (Novato). The internal solution for voltage-clamp
+experiments contained 120 mM cesium methane sulfonate, 5 mM NaCl,
+10 mM tetraethylammonium chloride, 10 mM HEPES, 4 mM lidocaine
+N-ethyl bromide, 1.1 mM EGTA, 4 mM magnesium ATP and 0.3 mM
+sodium GTP, pH adjusted to 7.2 with CsOH and osmolarity set to
+298 mOsm with sucrose. The internal solution for current-clamp experiments contained 150 mM potassium gluconate, 2 mM MgCl2, 1.1 mM
+EGTA, 10 mM HEPES, 3 mM sodium ATP and 0.2 mM sodium GTP, with
+pH adjusted to 7.2 with KOH and osmolarity set to B300 mosM with
+sucrose. The external solution was aCSF with osmolarity adjusted to
+B315 with sucrose.
+Medium spiny neurons (soma diameter 5–10 mm) were identified visually
+with the aid of differential interference contrast–enhanced visual guidance. For
+the voltage-clamp experiments, the stimulus intensity was set to the level at
+which the EPSC amplitude (AMPA component) was 200–400 pA. Synaptic
+currents were recorded with an Axopatch 1D amplifier (Axon Instruments),
+filtered at 5 kHz and digitized at 10 kHz. Slices were maintained at a
+temperature between 28 and 32 1C, stable within ± 1 1C during the experiment.
+Fluorescent medium spiny neurons in the D2-EGFP mice were visualized using
+mercury arc lamp illumination and a Chroma cube U-41001 (Olympus BX51
+microscope), and classified as putative striatopallidal neurons, whereas nonfluorescent medium spiny neurons were classified as putative striatonigral
+neurons. Our identification was independently verified by differences in action
+potentials evoked by injected current.
+Statistics. Analyses of the rotarod behavior were carried out using one-way
+ANOVA. Analyses of slice electrophysiology were performed using one-way or
+two-way ANOVA, as appropriate. When appropriate, post hoc tests were applied
+(Fisher’s protected least-significant difference, PLSD). The number of attempts
+for each slice to reach saturation in Figure 1e was calculated using paired t tests
+comparing the 10 min preceding the attempt and the 10 min before the next
+attempt; the last attempt to produce a significant depression (P o 0.05) of the
+population spike amplitude was considered to be the saturation point. For the
+analyses of in vivo data (neural activity and lesion in Fig. 4) we considered the
+first two trials of the first day, the last two trials of the first day and the last two
+trials of the eighth day of training as naive, early and late phase, respectively14.
+Significant positive or negative modulation of firing rate during running for
+each neuron in Figure 4e was determined by using a 99% confidence
+interval on the basis of the distribution of spikes during the intertrial period.
+The data in Figure 4e were analyzed using the w2 statistic. Statistical
+analyses were performed using Statview (SAS), SPSS (SPSS) and Neuroexplorer (Neuroexplorer).
+Additional methods on immunofluorescence, dopamine receptor blockade,
+and autoradiography are available in the Supplementary Methods online.
+Note: Supplementary information is available on the Nature Neuroscience website.
+ACKNOWLEDGMENTS
+We thank T. Gremel and X. Jin for comments on the manuscript. This research
+was supported by the Division of Intramural Clinical and Basic Research of the
+National Institute on Alcohol Abuse and Alcoholism, US National Institutes
+of Health.
+AUTHOR CONTRIBUTIONS
+H.H.Y. planned the experiments, conducted the behavioral experiments
+and in vivo and ex vivo recordings, performed data analyses and wrote the
+manuscript. S.P.M. performed ex vivo field recordings and data analyses.
+M.R.F.H. performed lesions, histology and behavioral experiments. E.C.
+and T.H. performed behavioral experiments; M.I.D. carried out immunohistochemistry; A.C.H. performed the dopamine binding experiments; D.M.L.
+contributed to experimental design and the writing of the manuscript; and
+R.M.C. planned and supervised experiments, contributed to behavioral
+experiments, histology and in vivo recordings, performed data analyses and wrote
+the manuscript.
+340 VOLUME 12 [ NUMBER 3 [ MARCH 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Published online at http://www.nature.com/natureneuroscience/
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1. Karni, A. et al. The acquisition of skilled motor performance: fast and slow experiencedriven changes in primary motor cortex. Proc. Natl. Acad. Sci. USA 95, 861–868
+(1998).
+2. Miyachi, S., Hikosaka, O. & Lu, X. Differential activation of monkey striatal neurons in
+the early and late stages of procedural learning. Exp. Brain Res. 146, 122–126
+(2002).
+3. Miyachi, S., Hikosaka, O., Miyashita, K., Karadi, Z. & Rand, M.K. Differential roles of
+monkey striatum in learning of sequential hand movement. Exp. Brain Res. 115, 1–5
+(1997).
+4. Kargo, W.J. & Nitz, D.A. Improvements in the signal-to-noise ratio of motor cortex cells
+distinguish early versus late phases of motor skill learning. J. Neurosci. 24, 5560–5569
+(2004).
+5. Shiffrin, R.M. & Schneider, W. Controlled and automatic human information processing.
+II. Perceptual learning, automatic attending, and a general theory. Psychol. Rev. 84,
+127–190 (1977).
+6. Muellbacher, W. et al. Early consolidation in human primary motor cortex. Nature 415,
+640–644 (2002).
+7. Kleim, J.A. et al. Cortical synaptogenesis and motor map reorganization occur during
+late, but not early, phase of motor skill learning. J. Neurosci. 24, 628–633 (2004).
+8. Jenkins, I.H., Brooks, D.J., Nixon, P.D., Frackowiak, R.S. & Passingham, R.E. Motor
+sequence learning: a study with positron emission tomography. J. Neurosci. 14,
+3775–3790 (1994).
+9. Doyon, J., Owen, A.M., Petrides, M., Sziklas, V. & Evans, A.C. Functional anatomy of
+visuomotor skill learning in human subjects examined with positron emission tomography. Eur. J. Neurosci. 8, 637–648 (1996).
+10. Carelli, R.M., Wolske, M. & West, M.O. Loss of lever press–related firing of rat striatal
+forelimb neurons after repeated sessions in a lever pressing task. J. Neurosci. 17,
+1804–1814 (1997).
+11. Ungerleider, L.G., Doyon, J. & Karni, A. Imaging brain plasticity during motor skill
+learning. Neurobiol. Learn. Mem. 78, 553–564 (2002).
+12. Brasted, P.J. & Wise, S.P. Comparison of learning-related neuronal activity in the dorsal
+premotor cortex and striatum. Eur. J. Neurosci. 19, 721–740 (2004).
+13. Barnes, T.D., Kubota, Y., Hu, D., Jin, D.Z. & Graybiel, A.M. Activity of striatal neurons
+reflects dynamic encoding and recoding of procedural memories. Nature 437,
+1158–1161 (2005).
+14. Costa, R.M., Cohen, D. & Nicolelis, M.A. Differential corticostriatal plasticity during fast
+and slow motor skill learning in mice. Curr. Biol. 14, 1124–1134 (2004).
+15. Voorn, P., Vanderschuren, L.J., Groenewegen, H.J., Robbins, T.W. & Pennartz, C.M.
+Putting a spin on the dorsal-ventral divide of the striatum. Trends Neurosci. 27,
+468–474 (2004).
+16. McGeorge, A.J. & Faull, R.L. The organization of the projection from the cerebral cortex
+to the striatum in the rat. Neuroscience 29, 503–537 (1989).
+17. Yin, H.H., Ostlund, S.B., Knowlton, B.J. & Balleine, B.W. The role of the dorsomedial
+striatum in instrumental conditioning. Eur. J. Neurosci. 22, 513–523 (2005).
+18. Yin, H.H., Knowlton, B.J. & Balleine, B.W. Lesions of dorsolateral striatum preserve
+outcome expectancy, but disrupt habit formation in instrumental learning. Eur. J.
+Neurosci. 19, 181–189 (2004).
+19. Luft, A.R. & Buitrago, M.M. Stages of motor skill learning. Mol. Neurobiol. 32, 205–216
+(2005).
+20. Calabresi, P., Maj, R., Pisani, A., Mercuri, N.B. & Bernardi, G. Long-term synaptic
+depression in the striatum: physiological and pharmacological characterization.
+J. Neurosci. 12, 4224–4233 (1992).
+21. Lovinger, D.M., Tyler, E.C. & Merritt, A. Short- and long-term synaptic depression in rat
+neostriatum. J. Neurophysiol. 70, 1937–1949 (1993).
+22. Rioult-Pedotti, M.S., Friedman, D. & Donoghue, J.P. Learning-induced LTP in neocortex.
+Science 290, 533–536 (2000).
+23. Gerfen, C.R. et al. D1 and D2 dopamine receptor-regulated gene expression of
+striatonigral and striatopallidal neurons. Science 250, 1429–1432 (1990).
+24. Kreitzer, A.C. & Malenka, R.C. Endocannabinoid-mediated rescue of striatal LTD and
+motor deficits in Parkinson’s disease models. Nature 445, 643–647 (2007).
+25. Shen, W. et al. Cholinergic modulation of Kir2 channels selectively elevates dendritic
+excitability in striatopallidal neurons. Nat. Neurosci. 10, 1458–1466 (2007).
+26. Shen, W., Flajolet, M., Greengard, P. & Surmeier, D.J. Dichotomous dopaminergic
+control of striatal synaptic plasticity. Science 321, 848–851 (2008).
+27. Kerr, J.N. & Wickens, J.R. Dopamine D-1/D-5 receptor activation is required for longterm potentiation in the rat neostriatum in vitro. J. Neurophysiol. 85, 117–124 (2001).
+28. Savasta, M., Dubois, A. & Scatton, B. Autoradiographic localization of D1 dopamine
+receptors in the rat brain with [3H]SCH 23390. Brain Res. 375, 291–301 (1986).
+29. Joyce, J.N., Loeschen, S.K. & Marshall, J.F. Dopamine D-2 receptors in rat caudateputamen: the lateral to medial gradient does not correspond to dopaminergic innervation. Brain Res. 338, 209–218 (1985).
+30. Reynolds, J.N., Hyland, B.I. & Wickens, J.R. A cellular mechanism of reward-related
+learning. Nature 413, 67–70 (2001).
+31. Dang, M.T. et al. Disrupted motor learning and long-term synaptic plasticity in mice
+lacking NMDAR1 in the striatum. Proc. Natl. Acad. Sci. USA 103, 15254–15259
+(2006).
+32. Carrillo-Reid, L. et al. Encoding network states by striatal cell assemblies. J. Neurophysiol. 99, 1435–1450 (2008).
+33. Kasanetz, F., Riquelme, L.A., Della-Maggiore, V., O’Donnell, P. & Murer, M.G. Functional
+integration across a gradient of corticostriatal channels controls UP state transitions in
+the dorsal striatum. Proc. Natl. Acad. Sci. USA 105, 8124–8129 (2008).
+34. Yin, H.H. & Knowlton, B.J. The role of the basal ganglia in habit formation. Nat. Rev.
+Neurosci. 7, 464–476 (2006).
+35. Belin, D. & Everitt, B.J. Cocaine seeking habits depend upon dopamine-dependent
+serial connectivity linking the ventral with the dorsal striatum. Neuron 57, 432–441
+(2008).
+36. Takahashi, Y., Roesch, M.R., Stalnaker, T.A. & Schoenbaum, G. Cocaine exposure shifts
+the balance of associative encoding from ventral to dorsolateral striatum. Front. Integr.
+Neurosci. 1, 11 (2007).
+37. Yin, H.H., Knowlton, B.J. & Balleine, B.W. Inactivation of dorsolateral striatum enhances
+sensitivity to changes in the action-outcome contingency in instrumental conditioning.
+Behav. Brain Res. 166, 189–196 (2006).
+38. Hilario, M.R.F., Clouse, E., Yin, H.H. & Costa, R.M. Endocannabinoid signaling is critical
+for habit formation. Front. Integr. Neurosci. 1, 6 (2007).
+39. Wickens, J.R., Budd, C.S., Hyland, B.I. & Arbuthnott, G.W. Striatal contributions to
+reward and decision making: making sense of regional variations in a reiterated
+processing matrix. Ann. NY Acad. Sci. 1104, 192–212 (2007).
+40. Jedynak, J.P., Uslaner, J.M., Esteban, J.A. & Robinson, T.E. Methamphetamine-induced
+structural plasticity in the dorsal striatum. Eur. J. Neurosci. 25, 847–853 (2007).
+41. Flajolet, M. et al. FGF acts as a co-transmitter through adenosine A(2A) receptor to
+regulate synaptic plasticity. Nat. Neurosci. 11, 1402–1409 (2008).
+42. Rebola, N., Lujan, R., Cunha, R.A. & Mulle, C. Adenosine A2A receptors are essential for
+long-term potentiation of NMDA-EPSCs at hippocampal mossy fiber synapses. Neuron
+57, 121–134 (2008).
+43. Choi, W.Y., Balsam, P.D. & Horvitz, J.C. Extended habit training reduces dopamine
+mediation of appetitive response expression. J. Neurosci. 25, 6729–6733 (2005).
+44. Richfield, E.K., Penney, J.B. & Young, A.B. Anatomical and affinity state comparisons
+between dopamine D1 and D2 receptors in the rat central nervous system. Neuroscience
+30, 767–777 (1989).
+45. Ljungberg, T., Apicella, P. & Schultz, W. Responses of monkey dopamine neurons during
+learning of behavioral reactions. J. Neurophysiol. 67, 145–163 (1992).
+46. Taverna, S., Ilijic, E. & Surmeier, D.J. Recurrent collateral connections of striatal
+medium spiny neurons are disrupted in models of Parkinson’s disease. J. Neurosci.
+28, 5504–5512 (2008).
+47. Martin, J.P. The Basal Ganglia and Posture (Pitman Medical, London, 1967).
+48. Briand, K.A., Strallow, D., Hening, W., Poizner, H. & Sereno, A.B. Control of voluntary
+and reflexive saccades in Parkinson’s disease. Exp. Brain Res. 129, 38–48 (1999).
+49. Costa, R.M. et al. Rapid alterations in corticostriatal ensemble coordination during acute
+dopamine-dependent motor dysfunction. Neuron 52, 359–369 (2006).
+50. Gerdeman, G.L., Ronesi, J. & Lovinger, D.M. Postsynaptic endocannabinoid release is
+critical to long-term depression in the striatum. Nat. Neurosci. 5, 446–451 (2002).
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 3 [ MARCH 2009 341
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.

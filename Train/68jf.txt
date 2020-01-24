@@ -1,0 +1,973 @@
+Phase-to-rate transformations encode touch in cortical
+neurons of a scanning sensorimotor system
+John C Curtis1,2,4 & David Kleinfeld2,3
+Sensory perception involves the dual challenge of encoding external stimuli and managing the influence of changes in body
+position that alter the sensory field. To examine mechanisms used to integrate sensory signals elicited by both external stimuli
+and motor activity, we recorded from rats trained to rhythmically sweep their vibrissa in search of a target. We found a select
+population of neurons in primary somatosensory cortex that are transiently excited by the confluence of touch by a single vibrissa
+and the phase of vibrissa motion in the whisk cycle; different units have different preferred phases. This conditional response
+enables the rodent to estimate object position in a coordinate frame that is normalized to the trajectory of the motor output,
+as defined by phase in the whisk cycle, rather than angle of the vibrissa relative to the face. The underlying computation is
+consistent with gating by an inhibitory shunt.
+The perception of object location relative to the body depends on
+tracking sensor position—eyes for seeing or fingers for touching—as
+much as on the activation of those sensors by features of an object.
+Over a half century ago, von Holst1 emphasized that one cannot hope
+to understand sensation without consideration of the effects ‘‘produced on the sensory-receptors by the motor impulses which initiate
+a muscular movement.’’ von Holst factored the signals required for
+sensation into three components. One is an afferent signal that
+originates from environmental influences—for example, light for
+the case of looking and pressure for the case of touching—and is
+denoted ex-afference. A second component is an afferent signal that
+results from activation of sensory receptors by self-motion and is
+called reafference. The motor-driven sensory input can involve the
+same receptors that encode external stimuli, as in the case of
+peripheral reafference, or a separate group of receptors, as in the
+case of proprioception. A final sensory component may be provided
+by an efference copy of the motor command; this corresponds to the
+intended rather than actual motor activation of sensory receptors.
+The ex-afferent component can interact with one or both motor
+signals (that is, reafference or efference copy) to produce a perceptually stable representation of the identity and location of external
+stimuli relative to a changing body configuration.
+The coexistence and possible interaction of ex-afference, reafference
+and efference copy signals has been demonstrated from peripheral to
+thalamocortical levels2
+. In gaze control, reafferent signals of actual eye
+position and efference copy of the intended position of gaze3 gate the
+input to vestibular nuclei as part of the vestibular ocular response4. In
+the visual system, neurons in cat thalamus5 and primary visual cortex6
+respond to visual stimuli (the ex-afferent signal) and to the stimulation
+of extra-ocular muscle proprioceptors (a reafferent signal). Further,
+interactions between ex-afference visual signals and a presumed reafference of eye position have been observed at multiple levels of cortical
+processing in primates7. Responses to combinations of ex-afference,
+reafference and efference copy signals lie at the heart of transformations
+to place sensory input in body-centered coordinates. Yet mechanistic
+and conceptual understandings of how ex-afference and reafference
+interact to generate such transformations are lacking.
+Rats sweep their vibrissae through space with stereotypical rhythmic
+motions as they locomote and search for objects in their immediate
+environment. Multiple features of the rat vibrissa system make it an
+ideal nervous system for studying the interaction of ex-afference and
+reafference. First, behavioral work has shown that rats can determine
+the position of an object relative to that of its head through the use of a
+single moving vibrissa8. This implies that the underlying computation
+of touch in a head-centered coordinate system depends on the interaction of an ex-afference signal (that is, vibrissa contact) with either a
+reafference or an efference copy that reports vibrissa position. A
+substrate for such interactions is provided by anatomical connections
+among sensory and motor areas, at the levels of brainstem through
+cortex9,10, that form nested feedback loops11,12. Efferent signals give rise
+to rhythmic motor activity that results in stereotypical whisking
+behavior13. This motion in turn generates a robust peripheral reafference that is locked to the phase of the vibrissae in the whisk cycle14 and
+strongly modulates the output of neurons in vibrissa primary sensory
+(S1) cortex15–17, with different neurons having different preferred
+phases15. Recent evidence suggests that reafference and ex-afference
+signals are communicated along parallel pathways from the brainstem
+to cortex18,19. Thus ex-afferent and reafferent signals associated with
+vibrissa-based touch are likely to remain separate until they are allowed
+to interact in vibrissa S1 cortex.
+Received 24 November 2008; accepted 23 January 2009; published online 8 March 2009; doi:10.1038/nn.2283
+1Division of Biological Sciences, 2Computational Neurobiology Graduate Program and 3Department of Physics, University of California, San Diego, California, USA. 4Present address: Systems Neurobiology Laboratory, The Salk Institute for Biological Studies, San Diego, California, USA. Correspondence should be addressed to D.K.
+(dk@physics.ucsd.edu).
+492 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Here, we test the hypothesis that ex-afference touch signals are
+modulated by reafference signals associated with sensor motion to
+form a representation of object location relative to the animal’s body
+plan. We ask the following questions: first, what is the nature of exafferent vibrissa touch signals encoded by single units in vibrissa S1
+cortex? Past results consider only responses that are induced by passive
+rather than active vibrissa movement. Second, is touch represented in a
+coordinate system that is matched to the region currently scanned,
+defined by the phase of the vibrissa in the whisk cycle, or one that spans
+the full range of vibrissa position? Past results15–17 imply that the
+reafferent signal encodes phase, which suggests but does not establish
+that touch is also encoded in terms of phase. Finally, how can known
+cortical circuits give rise to the observed interaction of ex-afferent and
+reafferent signals?
+RESULTS
+Rats were trained to palpate a sensor with their vibrissae in either a freeranging (Fig. 1a) or a body-constrained (Fig. 1b) behavioral configuration. In both paradigms, whisking was accompanied by large
+movements of the head, so that contact of a vibrissa with the sensor
+spanned all possible phases of the whisk cycle (Supplementary Fig. 1
+online); there was a small but significant (P o 0.01) excess of touch
+events at protraction over retraction. Animals that succeeded in this
+task underwent surgery to implant a microwire head stage20 above
+vibrissa S1 cortex to record broadband electrical activity. These signals
+were subsequently sorted into single units21, as verified by the consistency of spike waveforms across instances and autocorrelation
+functions that decay toward zero at equal time
+(Fig. 1c). We established the principal
+vibrissa22 for each of two to four electrodes
+in S1 cortex and trimmed all but these vibrissae; no systematic differences in whisking or
+touch were observed that were related to different numbers of intact
+vibrissae. Further, microwires were implanted into the mystacial pad to
+record the differential electromyogram (rEMG) of the muscles that
+drive the vibrissa motion.
+The rectified rEMG was used to deduce the phase of the vibrissae,
+denoted f(t), during contact events and during periods of time when
+rats were coaxed to whisk freely in the air16. These epochs of freewhisking13 allowed the reafferent response to whisking to be assessed
+(Fig. 1d and Supplementary Fig. 2 online). Videographic imaging was
+used to deduce the phase and angular position, y(t), of the vibrissae
+surrounding contact events, and to confirm that only a single vibrissa
+touched the sensor (Fig. 1c). The resulting spike, rEMG data,
+videographic data and touch sensor signals were sufficient to calculate
+the spiking as a function of phase in the whisk cycle during
+free whisking as well as spiking as a function of both phase and
+absolute angle during epochs of vibrissa contact (Fig. 1d and Supplementary Fig. 2).
+The instantaneous phase in the whisk cycle is denoted f(t); this can
+be expressed as f(t) ¼ [2pfwhiskt – fwhisk]modulo 2p during rhythmic
+whisking, where fwhisk is the whisking frequency and fwhisk is the
+preferred phase. A preferred phase of fwhisk ¼ 0 corresponds to the
+protracted position, fwhisk ¼ ± p is the retracted position, and
+negative (positive) angles indicate protraction (retraction). The instantaneous angular position and phase are related by y(t) ¼ ymidpoint(t) +
+Dy(t)  cos[f(t)], when the midpoint, ymidpoint(t), and amplitude,
+Dy(t), vary only slowly on the timescale of the period of whisking,
+that is, 1/fwhisk.
+a
+c d
+b Figure 1 Experimental setups and data
+acquisition. (a) Free ranging apparatus. The rat
+cranes from a perch to contact a piezoelectric
+touch sensor that is held in position by a
+pneumatic piston and imaged with a high-speed
+camera. Five seconds after the initial contact the
+sensor is withdrawn and the rat receives a liquid
+food reward. Spike signals from stereotrodes in
+the rat’s cortex and EMG electrodes in the
+mystacial pad, along with contact, positional and
+video data, are logged. (b) Body restrained
+apparatus. The animal is wrapped in a sack that
+is held in a plastic tube. All other experimental
+features as in a, except that food is delivered from
+a port close to the animal’s head. (c) Examples
+of primary data surrounding contact events,
+including vibrissa position data, the rectified
+touch signal and accompanying video frames,
+the rectified rEMG and lowpass filtered rectified
+rEMG, and the neuronal activity from both
+channels of the stereotrode. We further show the
+spike times from two single units after sorting
+of the spike data; the bottom plots show the
+respective waveforms and autocorrelations.
+(d) The left strip shows the response of unit 1 in c
+to touch across multiple trials, together with the
+touch signal. The right strip shows the response
+during free whisking, together with the concurrent
+rEMG. The averages relative to contact and to
+the peak of the rEMG signals are shown at the
+bottom of the panel.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 493
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Single units respond during free whisking as well as touch
+We recorded 152 single units in the vibrissa S1 cortex of nine rats, a
+majority of which responded to whisking in free air. No differences
+were seen between free-ranging (Fig. 1a) versus body-constrained
+(Fig. 1b) paradigms. Cross-correlations between spiking activity and
+the rectified rEMG show that individual units tend to spike at specific
+phases of the whisk cycle (Fig. 2a–d, left column). The presence of units
+whose spike rate remains phasically modulated in time follows from the
+narrow distribution of whisking frequencies13 (fwhisk ¼ 8.7 ± 1.3 Hz;
+mean ± s.d.). In an extension of past work, we found that the spike rate
+during free whisking epochs appears unchanged from that during
+periods of negligible mystacial rEMG activity, such as when an animal
+walks without whisking (Fig. 2e). Thus whisking tends to reorganize
+the timing of spikes rather than add new spikes, which is reminiscent of
+the effect of finger taps on the response of neurons in the primary
+somatosensory area of monkeys23.
+Most single units responded to active touch (Fig. 2a–d, middle
+column). Three broad classes of responses emerged based on trialaveraged responses: rapid excitation (Fig. 2a), slow net inhibition
+(Fig. 2b) similar to that seen under nonwhisking conditions24 and
+slow net excitation (Fig. 2c). The temporal delineation between rapidly
+and slowly responding cells was sharp (Supplementary Fig. 3 online),
+and all classes of neurons contained both narrow and broad spike
+waveforms25 (Supplementary Fig. 4 online). Rapidly excited units
+responded to touch with phasic spiking that had a latency to onset of 5
+to 9 ms and ranged from 12 to 44 ms in duration. These units had the
+greatest maximum spike rate (Fig. 2f) and fired about 2% of their
+action potentials in bursts (Supplementary Fig. 5 online). They were
+largely confined to the granular and deep infragranular layers (Fig. 2g
+and Supplementary Fig. 6 online), which is consistent with data
+gathered from anesthetized animals in which whisking was driven by
+electrical stimulation of the vibrissa motor nerve18,26. Both categories
+of slowly responding neurons encode the behavioral task per se (as well
+as touch) in that their spike rates change as the rat cranes and whisks
+vigorously as it attempts to touch the sensor (Fig. 2c, middle row).
+Neurons that exhibited slow excitation upon touch dominated the
+supragranular and infragranular layers, whereas those with slow
+inhibitory responses were uniformly distributed among all layers
+(Supplementary Fig. 6).
+Phase in the whisk cycle gates the rapid touch response
+We observed that 20% of the single units were both rapidly excited by
+touch and modulated by whisking. These units, designated as RE
+touch/whisking neurons, form the locus of our analysis on the confluence of ex-afferent touch and reafferent whisking signals. Our goal
+was to test whether the touch responses were modulated by the phase of
+a
+b
+c
+d
+e
+f
+g
+Figure 2 Free whisking and exemplar touch responses of all single units. (a–d) Spike rates for rapidly excited (a), slowly inhibited (b), slowly excited (c) and
+no (d) response. The left column is a histogram of the average spike rate centered on the peaks of rEMG activity, which corresponds to the maximal
+protraction. Spike rates were fit with Poisson maximum likelihood estimates of a series of complex exponentials to determine the baseline firing rate and the
+dominant whisking frequency, amplitude and phase of each spike response (green line). The phase for the peak response is defined as fwhisk. The middle
+column is a histogram of the touch response, smoothed using Bayesian adaptive regression splines (green line). The last column shows the temporal waveform
+and autocorrelation function for the unit. The uncertainly in all cases is represented by 95% confidence intervals. (e) The spike rate for all units whose spike
+rate was significantly (P o 0.05) modulated by whisking versus the rate in the absence of whisking; in neither case did the vibrissae contact an object. A fit to
+the data of Ratewhisking ¼ slope Ratenonwhisking yields slope ¼ 1.05 ± 0.11 (mean ± 2 s.e.m.) for rapidly excited units and slope ¼ 1.03 ± 0.04 for all other
+units; neither slope is significantly different from unity (line). (f) Average response to touch over all single units in a given class of both whisking and touchsensitive units. The compendium is the percent of total responses across all single units. (g) The laminar distribution of single units that responded to active
+touch, independent of their whisking-related response (Supplementary Fig. 6).
+494 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+the vibrissa in the whisk cycle at the time of contact. We illustrate the
+analysis process in terms of the data for three example units whose
+preferred phases span the full range of whisking (Fig. 3a–d). First, we fit
+sinusoids to the rectified rEMG signal surrounding each contact event as a means to
+model rhythmic whisking and determine the
+phase in the whisk cycle at the time of contact
+(Fig. 3a). Second, a smooth rate function was
+fit to the event-averaged touch response for
+each unit (Fig. 3b). Third, individual touch
+responses were sorted into one of eight phase
+intervals within the whisk cycle. The average
+touch response within each phase interval was
+fit as a scaled version of the previously derived smooth rate function for
+that neuron (Fig. 3c); we note that the shape of the touch response
+appeared invariant to amplitude. Finally, the peak amplitude of the
+Figure 3 Examples of the interaction between
+phase in the whisk cycle, as determined from the
+rEMG signal, and the response of rapidly excited
+touch-sensitive single units. (a) Histograms of the
+spike responses to free whisking in air. The spike
+rates were fit with sinusoids (green line).
+(b) Histograms of the touch response, averaged
+over all events, as a function of time from the
+measured contact. The spike rates were fit with
+smooth curves (green line). (c) Histograms of the
+touch response parsed according to the phase in
+the whisk cycle upon contact. The phase interval
+is p/4 radians. The red curves correspond to the
+interval with the maximum response, and the
+black curves correspond to a lower response;
+these curves are scaled versions of smoothed trialaveraged touch responses in b. (d) Plots of the
+peak values of the touch response from the fits to
+each of the eight intervals of the touch responses
+in c; dots designate the example fits from c. The
+uncertainty represents the 95% confidence
+interval. A smooth curve through this data defines
+the phase of maximal touch response, denoted
+ftouch. (e) Curves derived from sinusoid fits of the
+pre- and post-touch response and smooth curves
+of the touch response are shown for the data of
+unit 3 and plotted on a logarithmic scale. The
+responses to touch events for whisking phases
+near f ¼ –(5/8)p are minimal and are close to the trough of the modulation of spiking by whisking. The touch response increases in amplitude for contact
+events close to the peak of the modulation of spiking by whisking, that is, near f ¼ (3/8)p.
+Retraction Protraction Retraction Protraction Retraction Protraction
+a bc d
+e
+a
+c
+b
+d
+Figure 4 Summary of the phase sensitivity and
+spike rate modulation of rapidly excited touchsensitive single units. (a) Scatter plot of the
+preferred phase for free whisking versus the
+preferred phase for touch. Shown are mean values
+plus 95% confidence intervals for the estimates
+of either phase. The data are consistent with
+ftouch ¼ fwhisk (P o 0.001). (b) Touch responses
+as a function of phase in the whisk cycle (gray),
+where each curve is normalized to its peak value
+and centered with respect to fwhisk, the preferred
+phase for the unit while the rat whisked in air. The
+solid black curve is the population average, and
+the dashed curve is the minimum relative spike
+activity. (c) The maximum spike rates during
+active touch (Max in inset) versus the average
+spike rates while whisking in air (Mean in inset).
+(d) Comparison of the modulation depths
+(equation (1)) of the spike rates for touch versus
+free whisking.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 495
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+eight fitted functions defined a tuning curve of touch response versus
+phase in the whisk cycle (Fig. 3d).
+We observed that the touch response for each unit is strongly
+modulated by vibrissa position, such that the response is maximal at
+or near the preferred phase during free whisking (compare panels in
+Fig. 3a with those in Fig. 3d); this is highlighted when the spike
+response is visualized on a logarithmic scale (Fig. 3e). There is no
+systematic change in the amplitude of whisking as a function of
+where contact occurs in the whisk cycle (Supplementary Fig. 7
+online). The maximum spike rate for the response to touch is about
+tenfold higher, on average, than the approximately 9-Hz average
+spike rate during whisking. The strong modulation of the touch
+response is suggestive of a nonlinear interaction between reafference
+and ex-afference.
+In general, RE touch/whisking units showed responses to touch that
+were tuned to the phase of the whisk cycle (28 of 35 units) (all responses
+in Supplementary Figs. 8 and 9 online). A summary shows that the
+phase at the maximal touch response for each unit, denoted as ftouch
+(Fig. 3d), is statistically equal to the unit’s preferred phase during free
+whisking; that is, ftouch Efwhisk (Fig. 4a). All values of preferred phase
+are represented, with a distribution that is biased toward retraction
+(Fig. 4a, side bars). All tuning curves are relatively broad, with an
+average half width at half maximum of 0.32p ± 0.05p radians (mean ±
+s.d.) (Fig. 4b, thick line); this coincides with the p/3 radian width for
+cosine-shaped tuning curves.
+We next determined whether the spike rate during free whisking
+is predictive of the peak rate upon touch. In contrast to nai¨ve
+expectations, the maximum rate upon touch was nearly independent of the average spike rate during free whisking (P ¼ 0.05)
+(Fig. 4c). A related analysis considers the modulation depth of
+the spike rates (Fig. 4d, inset)
+Modulation depth
+ Maximum spike rate  Minimum spike rate
+Mean spike rate
+ð1Þ
+The modulation depth of the tuning curve for the touch response was,
+on average, four times greater than that for the free whisking response.
+Neither the spike rate nor the modulation depth showed a systematic
+dependence on preferred phase in the whisk cycle (Supplementary
+Fig. 10 online). Critically, the modulation depth for touch at different
+phases in the whisk cycle was statistically independent (P ¼ 0.8) of the
+modulation of the rate during free whisking (Fig. 4d).
+Vibrissa angle is a poor modulator of the touch response
+We revisited the possibility that the spike response upon contact may be
+a function of angular position, which depends on the midpoint angle
+and amplitude of the whisk, in addition to phase in the whisk cycle
+(Fig. 4a,b). Position data were derived from videographic images
+during contact events (Fig. 1c). As a control, we compared the phase
+of the vibrissae in the whisk cycle at the time of contact derived from
+the videographic data (Fig. 5a,b and Supplementary Fig. 8) with the
+phases derived from the rEMG data. The two sets of data closely
+match (Supplementary Fig. 11 online). We next considered modulation in the spike rate upon contact as a function of position (Fig. 5c,d)
+and observed a relatively small and insignificant modulation.
+The modulation of the touch response by phase in the whisk cycle
+was relatively high: an average of 1.2 across the 2p radian range of phase
+(Fig. 5e). In contrast, the modulation of the touch response by position
+Figure 5 Comparison of the phase dependence
+versus angular position dependence of the touch
+response, derived from videographic analysis of
+vibrissa position, for rapidly excited touchsensitive single units. (a) Histograms of the touch
+response parsed according to the phase in the
+whisk cycle upon contact; phase interval is
+p/4 radians. The red curves correspond to the
+interval with the maximum response, and the
+black curves correspond to a lower response.
+(b) Plots of the peak values of the touch response
+from the fits to each of the eight intervals of the
+touch responses in a; dots designate the example
+fits from a. The uncertainty represents the 95%
+confidence interval. A smooth curve through this
+data defines the phase of maximal touch
+response. (c) Histograms of the touch response
+parsed according to the angular position of the
+vibrissa upon contact. The angle relative to the
+midline of the animal’s head was determined from
+videographic analysis of vibrissa position
+(Fig. 1c). The red curves correspond to the
+interval with the maximum response, and the
+black curves correspond to a lower response.
+(d) Plots of the peak values of the touch response
+from the fits to each of the eight intervals of the
+touch responses in c; dots designate the example
+fits from c. (e) Comparison of the modulation
+depths (equation (1)) of the spike rates for touch
+versus phase in the whisk cycle. We show the data
+with phase determined from videography (green)
+and phase determined from the rEMG (red;
+Fig. 4d). All points are significantly (P o 0.05) modulated. (f) Comparison of the modulation depths (equation (1)) of the spike rates for touch versus angular
+position in the whisk cycle. Only 4 of 28 points are significantly (P o 0.05) modulated. (g) The angular amplitude (orange arcs) and midpoint (blue arc) for
+whisking for each of the RE touch-sensitive single units. The bars denote the 95% range of variation of parameters across all trials.
+a
+e fg
+b c d
+496 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+averaged only 0.4 across the full range of whisking angles and was
+statistically significant (P o 0.05) in only 14% of the cases (Fig. 5f). As
+an average over all RE touch/whisking units, the amplitude of whisking
+varied by 121 between trials, or 70% of the average value of Dy, whereas
+the midpoint of the region of whisking varied by 61 between trials, or
+35% of the average amplitude (Fig. 5g). In summary, RE touch/
+whisking units encode touch in terms of phase, which is normalized
+to the particular amplitude and midpoint, as opposed to angular
+position, on a given trial.
+We consider the possibility that the broad tuning curve for the touch
+response as a function of phase in the whisk cycle (Fig. 4b) results from
+a preferred phase, ftouch, that is modulated by the amplitude or the
+frequency of whisking. Under these contingencies, the observed broad
+curve could be the sum of multiple narrow curves, each with a slightly
+different value of ftouch. For the example of unit three (Figs. 3 and 5),
+we observe no difference in either the preferred phase fwhisk or the
+width of the tuning curve when the dataset is equally divided based on
+trials with large-amplitude versus small-amplitude whisks (Fig. 6a–c).
+A similar invariance occurs when the dataset is equally divided based on
+trials with lower versus higher whisking frequencies (Fig. 6a,d,e), for
+which time delay could in principle lead to a frequency-dependent
+phase. Signal-to-noise constraints allowed us to perform this analysis
+for only 6 of the 28 RE touch/whisking units, yet all showed statistically
+significant invariance (P o 0.02) with regard to preferred phase and
+broad tuning (Supplementary Fig. 12 online).
+DISCUSSION
+Active sensing by the rat vibrissa system involves two sensory signals: a
+reafferent signal of motor activity that encodes the phase of the vibrissa
+in the whisk cycle and an ex-afferent signal that encodes touch (Fig. 2).
+We have shown that these two signals are merged in a highly nonlinear
+manner (Figs. 3 and 4) in vibrissa S1 cortex and that contact is coded
+with respect to vibrissa phase rather than angular position (Fig. 5). The
+coding is robust and invariant with respect to changes in whisking
+parameters (Fig. 6).
+The representation of contact in a normalized, relative coordinate
+system that is dynamically generated by the motor trajectory is somewhat similar to the coding of visual stimuli in dynamic, objectedcentered coordinates, as occurs in parietal and premotor cortices in
+primates7,27. This is in contrast to the static, retinotopic coordinates
+instantiated by primary visual areas. Coding in phase coordinates
+implies that there is a common pathway for the reafferent and exafferent signals, or that these signals follow separate pathways with
+similar adaptation. To the extent that separate pathways are used, as has
+been suggested18, we propose a neuronal circuit that computes the
+location of objects within a sensory field (Fig. 7a).
+Origin of the reafferent signal
+A reafference signal that encodes the phase in the whisking cycle is
+present at the level of primary sensory neurons in the trigeminal
+ganglion14,28. In animals that whisk (for example, mice, rats and
+gerbils), vibrissa follicles are innervated with both deep and superficial
+nerve endings29. Both innervations are distinct and highly structured,
+and they terminate in different regions of the trigeminal complex.
+Notably, animals that do not whisk (for example, cats, guinea pigs and
+rabbits) either completely lack superficial follicle receptors or the
+innervation is sparse and largely unstructured. This led to the hypothesis that superficial nerve innervation serves as proprioceptive reafference for vibrissa motion29. The mechanism by which compression of
+the follicle during movement is transformed into a phase code is
+unknown, but it could involve adaptation to the range of whisking30.
+A second issue involves the possibility that the reafference and exafference form separate thalamocortical tracks19. There are four pathways—one that involves posterior medial thalamus and three that
+involve subdivisions of ventral posterior medial thalamus—that originate from different populations of secondary sensory cells in the
+trigeminal nuclei31. Recent reports provide evidence (albeit controversial) that the posterior medial thalamic pathway encodes predominantly vibrissa motion18,32, whereas at least one of the ventral posterior
+medial thalamic pathways encodes predominantly touch18.
+Model for the interaction of contact and whisking signals
+A biophysical model for gating of the active touch response must
+account for four phenomena. First, the ex-afferent touch signals and
+the reafferent free whisking responses are enhanced at the same phase in
+the whisk cycle (Fig. 4a). Second, the spike rate amplitudes and
+modulation depths of the spike rates for touch and free whisking
+responses are independent (Fig. 4c,d). Third, the modulation of the
+touch response is much greater than the relatively small modulation of
+a
+b
+c
+d
+e
+Figure 6 Example of the phase dependence as a function of whisking
+parameters for a rapidly excited touch-sensitive single unit. (a) The response
+for unit 3 (Figs. 3 and 5) averaged over all trials, for which fwhisk ¼ 0.45 p.
+(b,c) The touch response for unit 3 parsed according to the angular position
+of the vibrissa upon contact and separated into low-amplitude (41 to 121, b)
+versus large-amplitude (131 to 251, c) whisks, with preferred phases
+fwhisk ¼ 0.46p and fwhisk ¼ 0.38p, respectively. The black curve is the
+combined response from a. (d,e) The touch response for unit 3 parsed
+according to the frequency of whisking and separated into low-frequency
+(5 to 9Hz, d) versus high-frequency (10 to 13 Hz, e) whisks, with preferred
+phases fwhisk ¼ 0.37p and fwhisk ¼ 0.40p, respectively.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 497
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+the spike rate by free whisking (Figs. 2d and 4c,d). Fourth, the whisking
+reafference essentially does not change the background spike rate
+(Fig. 2e).
+Summation of the ex-afferent and reafferent inputs, followed by a
+spike-generating mechanism whose firing rate is a steeply increasing
+function of input current, is a potential mechanism for the observed
+phenomena. However, a substantial increase in the slope of spike rate
+versus input current is unprecedented for cortical neurons33. A related
+scheme makes use of the summation of signals near threshold33.
+However, both whisking and touch events ride on a substantial background rate for all of our units (Figs. 2–4). Multiplication of the exafferent touch signal with the reafferent whisking signal is a potential
+nonlinearity that can strongly modulate the touch response by the
+phase in the whisk cycle. One expectation for this scheme that is
+implicit from studies on the multiplication of signals by neurons34–37 is
+that the amplitude of the touch response should track that of the
+whisking response. However, in contrast to this expectation, the
+modulation depth for touch at different phases in the whisk cycle
+was independent of the modulation of the rate during free
+whisking (Fig. 4d).
+We propose that shunting inhibition of a putative touch pathway by
+a whisking pathway provides a likely circuit to gate the touch response
+by the phase in the whisk cycle. Shunting inhibition38 also provides a
+means for one input to modulate the synaptic gain of a second input.
+A minimal model consists of a neuron with three compartments, each
+with a leak battery with resistance R and potential EL, arranged so that
+(i) an active zone has a bias battery, with conductance GB and potential
+EB, and generates spikes; (ii) a soma receives shunting—that is,
+GABAA-mediated synaptic input with a battery with conductance GS
+and inhibitory potential ES, where ES B EL; and (iii) a dendritic
+compartment receives excitatory synaptic input with a battery with
+conductance GE and excitatory potential EE
+(Fig. 7a). The sequential arrangement of the
+compartments, taken for simplicity to be one
+electrotonic length apart, allows the inhibitory
+whisking input to both modulate the background spike rate and gate an
+excitatory touch input (Figs. 2a and 3). Putative inhibitory neurons
+that are strongly modulated by whisking but not touch in close
+proximity to rapidly excited touch cells is consistent with our laminar
+analysis of different classes of single units (Fig. 2g and Supplementary
+Fig. 6).
+Insight into the mechanism of shunting inhibition can be gleaned
+from a linear analysis of the circuit because the spike rate tracks the
+membrane potential in the presence of high background activity39.
+For simplicity, we ignore the bias current and assume that the
+maximal synaptic conductances are large (Fig. 7a). Contact at the
+preferred phase in the whisk cycle, that is, f ¼ fwhisk so that RGS ¼
+0, leads to a membrane potential of Vm B (4EL + EE)/5 at the active
+zone, which exceeds the rest level Vm B EL. In contrast, when
+contact occurs at f ¼ fwhisk ± p, so that RGS c 1, the excitatory
+touch input is shunted by the inhibitory whisking input, and the
+membrane potential falls to Vm B (EL + ES)/2 + EE/(2RGS), which is
+close to the rest level. The independence of touch and whisking is
+seen by estimating their modulation depths (equation (1)), with Vm
+as a surrogate for spike rates
+Modulation depthj
+WhiskingC1
+4
+EL  ES
+EL
+
+
+
+
+
+
+
+ !ELES
+0 ð2Þ
+which approaches zero when the shunt and leak potentials are
+equal, and
+Modulation depthj
+TouchC 2
+5
+3ðEL  ESÞ + EE + j2ESj
+j3EL + ESj
+  !ELES
+1
+5 ð3Þ
+which approaches a constant in the same limit. Thus the modulation
+depth for touch can be both independent of that for whisking and
+larger, which is consistent with our observations (Fig. 4d).
+a
+c
+def
+b
+-
+Figure 7 Shunting-inhibition model for the phase
+sensitivity of active touch. (a) Circuit diagram for
+the three-compartment neuron that captures the
+essence of shunting inhibition. The whisking
+signal is ‘inverted’ by a local inhibitory neuron and
+acts as a shunt between distal excitatory touch
+input and the soma. (b) Example results from
+a numerical simulation of the circuit equation
+for our model; note the extra spike for ‘touch’
+near the preferred phase of fwhisk ¼ 0.
+(c) Example result for one model neuron. The
+same analysis tools were used as with the data
+for RE/touch units (Fig. 4). The left column is a
+histogram of the average spike rate centered on
+the peaks of EMG activity, corresponding to
+protraction. The next two columns are histograms
+of the touch response, shown as a composite and
+by phase in the whisk cycle. The right column
+shows the tuning curve. (d) The trial-averaged
+maximal spike rates during active touch versus
+the average spike rates while whisking in air;
+0.05 oRGB o 0.8. (e) The maximum spike rate
+upon contact versus the mean rate; 0 oRGSO
+o20 (equation (10)). (f) The modulation depth of
+the spike rate as a function of phase in the whisk
+cycle versus the modulation with phase in the
+whisk cycle; 0 oRGSO o20.
+498 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Numerical analysis of the model (Fig. 7a) with a Hindmarsh-Rose–
+type mechanism for spike generation and parameters appropriate for
+cortical neurons40 clearly shows that the response to touch is enhanced
+at the preferred phase in the whisk cycle (Fig. 7b,c). Simulations with
+different bias conductances show that whisking has only a marginal
+effect on the spike rate (Fig. 7d). Simulations with different shunt
+conductances show that the amplitude of the touch response is
+independent of the amplitude of the free whisking spike rate
+(Fig. 7e), and that modulation in the spike rate by changes in vibrissa
+position is both much greater than and independent of the modulation
+during free whisking (Fig. 7f). The proposed circuit can, in principle,
+be confirmed or refuted by recording the intracellular potential from
+layer 4 spiny stellate or star pyramidal cells in rats that are trained to
+whisk17,41. A combination of ion blockers and voltage clamping should
+reveal whether the whisking response is mediated by inhibitory input.
+Spike rates and angular resolution
+The average ongoing rate of spiking hovers around 9 Hz (Fig. 2e), and
+the average modulation of the spike rate by whisking per se is ± 2 spikes
+per second. This corresponds to B0.4 spikes per whisk, on top of a
+fluctuating background of B1 spike per whisk. We estimate that the
+output from B200 neurons must thus be summed to achieve a
+resolution of p/3 radians, as set by the tuning curve (Fig. 4b), to
+specify the phase in the whisk cycle on a single trial basis. Decoding
+schemes that make use of the absence of a response at nonpreferred
+phases may lower this estimate. On the other hand, the consensus view
+of the spike rate of neurons in vibrissa S1 cortex is evolving, with
+evidence from intracellular studies that the ongoing rates for many
+neurons may lie closer to 1Hz than 10Hz42,43. A lower average rate
+would increase the variability and increase the estimate.
+With regard to contact-induced spikes, active touch leads to an
+average, integrated response of 2 spikes per contact within a window of
+B20 ms (Fig. 3b); this further coincides with the time spent in each
+resolvable phase interval of p/3 radians (Fig. 4b). The additional spikes
+generated by active touch substantially exceed the B0.4 spikes generated by whisking alone and should be sensed with high fidelity.
+Resolution at a scale much finer than p/3 radians may be achieved
+by averaging the responses from multiple neurons. Finally, for the
+average whisking range of ±171 (Fig. 5g), the corresponding angular
+resolution is B51, which approximates the typical threshold for
+bilateral perceptual acuity with a vibrissa44.
+Relation to directional tuning
+Directional tuning is a common metric used to quantify neuronal
+response of vibrissa units in the anesthetized animal45. It measures the
+bias in the activity of neurons as a vibrissa is deflected in different
+directions. Notably, directional tuning forms a fine-scale map within a
+cortical column46.
+Directional tuning may be derived from an asymmetry in the phase
+preference of a neuron. With phase tuning for contact defined as T(f –
+ftouch) (Figs. 3d, 4b and 6), the directional tuning along the anteriorposterior axis is
+DðftouchÞ ¼ 2
+R 0
+p dffTðf  ftouchÞgodd
+R 0
+p dffTðf  ftouchÞgeven
+where odd and even refer to the odd and even parts of the function. The
+directional tuning is double-valued over the whisk cycle, so that the
+phase preference of a neuron cannot be uniquely determined from its
+directional preference. Nonetheless, to the extent that active and passive
+touch lead to neuronal responses with similar directional preference,
+neurons with different preferred phases in the whisk cycle are expected
+to conform to the map for directional tuning.
+METHODS
+Training and behavior. We successfully trained nine female Long-Evans rats
+(Charles River), 270 to 300 g initial weight, to whisk against a piezoelectric
+sensor (DT1–028K; Measurement Specialties Inc.) in return for a liquid food
+reward (0.2 ml per trial; LD–100; PMI Feeds). We used two behavioral
+paradigms. In the ‘free ranging’ paradigm (Fig. 1a), we trained unconstrained
+animals to perch on the edge of a platform and crane their necks to gain access
+to the sensor. Each trial was initiated when the rat first contacted the sensor. We
+collected video images at a frame rate of B100 frames per second while the rat
+palpated the sensor to confirm that the longest vibrissa touched the sensor.
+After an approximately 3-s period of palpation, the trial was terminated by
+removal of the sensor and concomitant pumping of the liquid reward to a
+nearby well on the platform. The sensor remained retracted for 5s, then was
+restored to its previous position so that a new trial could begin. In the ‘body
+constrained’ paradigm (Fig. 1b), we placed the animals in a sack and held them
+in a tube within proximity of a sensor. A trial began when an animal craned and
+initially touched the sensor and, as above, was terminated after a 3-s period of
+touch events.
+Successful learning of either of the above behaviors took about two weeks.
+Once training was completed, a small chamber that contained an array of 2 to 4
+stereotrodes was fit over the vibrissa area of parietal cortex and secured to the
+skull with screws and dental acrylic20. We individually advanced the stereotrodes through the dura into cortex with a vacuum insertion technique that
+prevented damage to the upper layers20. We threaded fine wires into the left and
+right mystacial pads to record the EMG13. The care and experimental
+manipulation of our animals were in strict accord with guidelines from the
+US National Institutes of Health and have been reviewed and approved by the
+Institutional Animal Care and Use Committee of the University of California,
+San Diego.
+After several days of post-operative recovery, we briefly anesthetized the
+animals and individually stimulated each contralateral vibrissa with a brief air
+puff 47 in order to determine the principal vibrissa response for each stereotrode. The designation of the principal vibrissa was based on the amplitude and
+latency of the stimulus-locked spikes48. Once we determined the principal
+vibrissae across the full complement of stereotrodes, we trimmed all other
+vibrissae at B1 mm from the surface of the skin. The rats were returned to
+their behavioral setup and invariably performed the task with the single, longest
+vibrissa. We then acquired spiking data with the electrode that had this vibrissa
+as its principal vibrissa; the electrode was lowered at the start of each recording
+session by 80 mm, or until single unit spikes were detected. Once this electrode
+had been lowered through the full depth of cortex, we trimmed the longest
+vibrissa and proceeded to take data from the next longest vibrissa, and so forth.
+Estimation of electrode depth. We exploited the stereotypic form of the radial
+current source density to identify the lamina of each recording. After all
+electrodes were lowered through the cortex and data collection was completed,
+the rat was anesthetized with 5% (w/v) halothane. All electrodes were fully
+retracted, then lowered in increments of 80 mm while air puffs were delivered at
+1.3 puffs per second to passively stimulate all of the vibrissae. We recorded the
+local field potential at each depth as an average over 100 air puffs16. The second
+spatial derivative was then calculated across all of the averaged local field
+potential responses to produce an estimate of the one-dimensional current
+source density profile for each electrode. Current sinks corresponded to the
+afferent inputs in layers 4 and 6A; these calibration data allowed us to specify
+the lamella and depth of every record (Fig. 2g and Supplementary Fig. 6).
+Data acquisition. Continuous time series from the cortical and EMG microwires were band-pass filtered from 0.35Hz (1 pole) to 10kHz (6 poles), and the
+piezoelectric sensor was band-pass filtered from 4 kHz (2 poles) to 8 kHz
+(2 poles). We sampled all data at 32 kHz and stored blocks of approximately 3 s
+in duration that incorporated each epoch of touch on computer disk, together
+with the time-locked video images. We obtained additional spike-train records,
+10 s in length, as animals were coaxed to whisk in air without contact by
+placing their home cage just out of reach16. We digitally high-pass filtered the
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 499
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+broadband cortical and EMG signals at 300 Hz (4 poles). Pairs of EMG signals
+that spanned the mystacial pad were subtracted to form the rEMG13.
+We collected high-speed videography (ES310 charge coupled device camera;
+Kodak, Inc.) acquired at 100 frames per second during trials where rats
+contacted the touch sensor with their vibrissae. Synchronization between video
+and electrophysiological data acquisition was accomplished through a hardware
+trigger on the Real-Time System Integration Bus (National Instruments). We
+calculated the angular position of the principal vibrissa on a frame-by-frame
+basis as the angle between one straight line that followed the midline of the
+snout and another straight line that followed the first 6 to 10 mm of the vibrissa
+shaft (Fig. 1c). The lines were drawn manually, for each frame, with the aid of a
+Matlab (The Mathworks)-based graphical user interface.
+Data analysis. An offline non-Gaussian cluster analysis algorithm21 was used to
+isolate spikes from an apparent common source in each cortical signal. We
+characterized modulation of the spike rate of single units during epochs of
+rhythmic whisking in air, which occurred before and after contact trials, by
+cross-correlating rEMG peak times with spike times. This method allowed us
+to normalize the correlation in terms of spike rate. We first band-pass filtered
+the rectified rEMG from 3 to 22 Hz and set an appropriate threshold for the
+signal as a means to isolate the interval that surrounded the peak of the
+waveform, then calculated the center of mass in these intervals to obtain a point
+process that represents the peaks of the rEMG. We then shifted this time series
+by 20 ms to account for the measured time delay between the onset of muscle
+activity, as measured by the rEMG, and movement of the vibrissae13. The
+resultant cross-correlation corresponds to the rEMG-triggered average spiking
+rate (Fig. 2a–d, gray histograms in left column, and Fig. 4a). The sinusoidal
+nature of the cross-correlation was characterized by Poisson-distributed maximum likelihood estimates (MLE) of the mean spike counts49 for a series of
+complex exponential functions that spanned the frequency range of 5 to 20 Hz,
+plus a constant term (function glmfit in Matlab with the log-link function).
+The frequency of the modulation was defined as the estimate with the highest
+likelihood among all of the complex exponential estimates in the series. We
+calculated the phase and amplitude of each response from the real and
+imaginary parts of the estimate. Finally, we normalized the cross-correlations
+in terms of spike rates by multiplying the spike counts in each bin by the width
+of the bin (2 ms) and dividing by the number of rEMG peaks in the average
+(Fig. 2a–d, gray histograms in left column, and Fig. 3a). We used sampling
+distributions of maximum likelihood estimators to construct 95% confidence
+intervals of the mean spike rate and parameter estimates.
+We estimated touch responses from contact-triggered averages, either across
+all trials (Fig. 2a–d, gray histograms in middle column, and Fig. 3b) or first
+parsed according to the phase of whisking at the time of contact (Fig. 3b, gray
+histograms). Smoothed values for all estimates made use of the Poissondistributed Bayesian adaptive regression splines nonparametric smoothing
+algorithm50 (http://lib.stat.cmu.edu/Bkass/bars).
+We determined the phases of touch events within the whisk cycle by fitting a
+series of complex exponentials to the band-pass filtered rEMG or to splineinterpolated videographic traces, centered in a 200-ms window that surrounded
+the time of vibrissa touch. The procedure was as described above for spike
+events, except that we now used a Gaussian- rather than Poisson-distributed
+MLE, as the rEMG data are a continuous function rather than a point process.
+We quantified goodness of fit by calculating the ratio of the amplitude of the fit
+relative to the r.m.s. residual of the fit; we discarded contact events with ratios
+less than two.
+To assess the touch responses as a function of phase in the whisk cycle, cycles
+in which touch occurred were first divided into eight intervals of p/4 radians.
+We then binned touch responses according to the interval in which the
+touch events occurred to produce a set of eight histograms for each single
+unit (Figs. 3c and 5a,e). To ensure that our results were statistically reliable
+across the full range of phase intervals, we excluded sessions with less than eight
+touch events in any phase interval. We then modeled touch responses for each
+whisk cycle phase interval with a Poisson-distributed MLE as scaled versions of
+the overall touch response, computed as described above (Fig. 3c–e, red and
+black curves). We used the peak amplitudes for each of the best fits to construct
+the tuning curve for the single unit (Figs. 3d and 5b). We calculated confidence
+intervals (95%) for mean spike rates from sampling distributions of maximum
+likelihood estimators. A similar procedure was followed to assess the touch
+responses as a function of angle in the whisk cycle, for which videographic data
+were used to determine vibrissa position relative to the midline (Fig. 1c).
+Model. The circuit model (Fig. 7a) consists of three compartments with equal
+membrane capacitances, C, and resistances, R, that are joined by a resistance of
+R so that the compartments are one electrotonic length apart in the absence of
+synaptic input. We define EL, EB, ES and EE as the reversal potentials for the
+leak, excitatory bias, inhibitory synaptic shunt and excitatory synaptic currents,
+respectively, GL as the fixed leak conductance, GB as the conductance of a slowly
+varying bias current, and GS and GE as the conductances for the vibrissa-driven
+inhibitory shunt and touch-driven excitation, respectively. For constant values
+of the conductances, the steady state subthreshold voltage of the active zone,
+denoted Vm, is given by:
+Vm ¼
+ð8+2RGS+4RGE+RGSRGEÞEL+RGBð5+2RGS+3RGE+RGSRGEÞEB+RGSð2+RGEÞES+RGEEE
+8+5RGB+2ð2+RGBÞRGS+ð5+3RGBÞRGE+ð2+RGBÞRGSRGE
+ð4Þ
+The full dynamics are found by solving five equations, which include a thirdorder Hindmarsh-Rose system to generate spikes in a cortical cell with
+adaptation, and additive band-limited Gaussian noise to approximate the
+variability in synaptic arrival time. We have
+dVm
+dt ¼ 1
+tm
+fða+bVm+cV2
+mÞðENa  VmÞ+
+RGRðEK  VmÞU+RGAðEK  VmÞW+
+RGBðEB  VmÞ+ðVs  VmÞ+Inoiseg
+ð5Þ
+dU
+dt ¼ 1
+tU
+fU+eVm+f +gðEKA  VmÞ
+2
+g ð6Þ
+dW
+dt ¼ 1
+tW
+fW+hðE1  VmÞðE2  VmÞg ð7Þ
+dVS
+dt ¼ 1
+tm
+fðES  VSÞRGS+ðEL  VSÞRGL+ðVm  VSÞ+ðVE  VSÞg ð8Þ
+dVE
+dt ¼ 1
+tm
+f g ð Þ EE  VE RGE+ð Þ EL  VE RGL+ð Þ VS  VE ð9Þ
+where the leak term RGL(EL –Vm) in the dynamics for Vm is subsumed in the
+active currents, and tm ¼ 1 ms, tU ¼ 1 ms, tW ¼ 99 ms, ENa ¼ 48 mV, EK ¼ –95
+mV, EKA ¼ –38 mV, ES ¼ EL ¼ –74 mV, EB ¼ EE ¼ +10 mV, E1 ¼ –75.4 mV,
+E2 ¼ –69 mV, RGR ¼ 26, RGA ¼ 13, RGB ¼ 0.2 (ranges 0.05 to 0.8), RGL ¼ 1,
+a ¼ 17.8, b ¼ 0.476 mV–1, c ¼ 3.38  103 mV–2, e ¼ 1.3  102, f ¼ 0.8,
+g ¼ 3.3  104 and h ¼ 1.1  103 in our simulations. The noise current has an
+r.m.s. value of 2.0 mV; the shunting inhibitory conductance was of the form
+RGS¼ RGSO
+2 f1+ cosð2pfwhiskt  fwhiskÞg ð10Þ
+where RGSO ¼ 10 (ranges 0 to 20) and fwhisk ¼ 9Hz; and the excitatory touch
+conductance was of the form
+RGE ¼ RGEOe
+ðttEOÞ
+2
+=2t2
+EO ð11Þ
+where RGEO ¼ 40, tEO ¼ 20 ms and tEO is a random variable with a mean of
+0.25 s that marks touch events.
+Note: Supplementary information is available on the Nature Neuroscience website.
+ACKNOWLEDGMENTS
+We thank S.B. Mehta for assistance with spike sorting, E.N. Brown and
+R.E. Kass for instruction on spike-train analysis, G.A. White for electronics
+support, E. Ahissar, W. Denk, M. Deschenes, M.E. Diamond, A.L. Fairhall,
+D.N. Hill and T.J. Sejnowski for relevant discussions, D. Matthews for reading
+of the manuscript, and the US National Institutes of Health (NS051177), the US
+National Science Foundation (IGERT) and the US/Israel Binational Foundation
+(2003222) for financial support.
+500 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Published online at http://www.nature.com/natureneuroscience/
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1. von Holst, E. Relations between the central nervous system and the peripheral organ.
+Br. J. Anim. Behav. 2, 89–94 (1954).
+2. Cullen, K.E. Sensory signals during active versus passive movement. Curr. Opin.
+Neurobiol. 14, 698–706 (2004).
+3. Sommer, M.A. & Wurtz, R.H. Influence of the thalamus on spatial visual processing in
+frontal cortex. Nature 444, 374–377 (2006).
+4. Roy, J.E. & Cullen, K.E. Dissociating self-generated from passively applied head motion:
+neural mechanisms in the vestibular nuclei. J. Neurosci. 24, 2102–2111 (2004).
+5. Lal, R. & Friedlander, M.J. Effect of passive eye position changes on retinogeniculate
+transmission in the cat. J. Neurophysiol. 63, 502–522 (1990).
+6. Ashton, J.A., Boddy, A. & Donaldson, I.M. Directional selectivity in the responses of units
+in cat primary visual cortex to passive eye movement. Neuroscience 13, 653–662
+(1984).
+7. Andersen, R.A., Snyder, L.H., Li, C.S. & Stricanne, B. Coordinate transformations in the
+representation of spatial information. Curr. Opin. Neurobiol. 3, 171–176 (1993).
+8. Mehta, S.B., Whitmer, D., Figueroa, R., Williams, B.A. & Kleinfeld, D. Active spatial
+perception in the vibrissa scanning sensorimotor system. PLoS Biol. 5, e15 (2007).
+9. Deschenes, M., Timofeeva, E., Lavalle´e, P. & Dufresne, E. The vibrissal system as a
+model of thalamic operations. Prog. Brain Res. 149, 31–40 (2005).
+10. Fox, K. Barrel Cortex 14–48. (Cambridge University Press, Cambridge, 2008).
+11. Kleinfeld, D., Berg, R.W. & O’Connor, S.M. Anatomical loops and their electrical
+dynamics in relation to whisking by rat. Somatosens. Mot. Res. 16, 69–88 (1999).
+12. Ahissar, E. & Kleinfeld, D. Closed loop neuronal computations: focus on vibrissa
+somatosensation in rat. Cereb. Cortex 13, 53–61 (2003).
+13. Berg, R.W. & Kleinfeld, D. Rhythmic whisking by rat: retraction as well as protraction of
+the vibrissae is under active muscular control. J. Neurophysiol. 89, 104–117 (2003).
+14. Szwed, M., Bagdasarian, K. & Ahissar, E. Coding of vibrissal active touch. Neuron 40,
+621–630 (2003).
+15. Fee, M.S., Mitra, P.P. & Kleinfeld, D. Central versus peripheral determinates of patterned
+spike activity in rat vibrissa cortex during whisking. J. Neurophysiol. 78, 1144–1149
+(1997).
+16. Ganguly, K. & Kleinfeld, D. Goal-directed whisking behavior increases phase-locking
+between vibrissa movement and electrical activity in primary sensory cortex in rat. Proc.
+Natl. Acad. Sci. USA. 101, 12348–12353 (2004).
+17. Crochet, S. & Petersen, C.C.H. Correlating membrane potential with behaviour using
+whole-cell recordings from barrel cortex of awake mice. Nat. Neurosci. 9, 608–609
+(2006).
+18. Yu, C., Derdikman, D., Haidarliu, S. & Ahissar, E. Parallel thalamic pathways for
+whisking and touch signals in the rat. PLoS Biol. 4, e124 (2006).
+19. Pierret, T., Lavallee, P. & Deschenes, M. Parallel streams for the relay of vibrissal
+information through thalamic barreloids. J. Neurosci. 20, 7455–7462 (2000).
+20. Venkatachalam, S., Fee, M.S. & Kleinfeld, D. Ultra-miniature headstage with 6-channel
+drive and vacuum-assisted micro-wire implantation for chronic recording from neocortex. J. Neurosci. Methods 90, 37–46 (1999).
+21. Fee, M.S., Mitra, P.P. & Kleinfeld, D. Automatic sorting of multiple unit neuronal signals
+in the presence of anisotropic and non-Gaussian variability. J. Neurosci. Methods 69,
+175–188 (1996).
+22. Simons, D.J. Response properties of vibrissal units in rat S1 somatosensory neocortex.
+J. Neurophysiol. 41, 798–820 (1978).
+23. Mountcastle, V.B., Talbot, W.H., Sakata, H. & Hyvarinen, J. Cortical neuronal mechanisms in flutter-vibration studied in unanesthetized monkeys, neuronal periodicity and
+frequency discrimination. J. Neurophysiol. 32, 452–484 (1968).
+24. Krupa, D.J., Wiest, M.C., Shuler, M.G., Laubach, M. & Nicolelis, M.A. Layer-specific
+somatosensory cortical activation during active tactile discrimination. Science 304,
+1989–1992 (2004).
+25. Bartho, P. et al. Identification of neocortical principal cells and interneurons by
+extracellular features. J. Neurophysiol. 92, 600–608 (2004).
+26. Derdikman, D. et al. Layer-specific touch-dependent facilitation and depression
+in the somatosensory cortex during active whisking. J. Neurosci. 26, 9538–9547
+(2006).
+27. Olson, C.R. Brain representation of object-centered space in monkeys and humans.
+Annu. Rev. Neurosci. 26, 331–354 (2003).
+28. Leiser, S.C. & Moxon, K.A. Responses of trigeminal ganglion neurons during natural
+whisking behaviors in the awake rat. Neuron 53, 117–133 (2007).
+29. Arvidsson, J. & Rice, F.L. Central projections of primary sensory neurons innervating
+different parts of the vibrissae follicles and intervibrissal skin on the mystacial pad of the
+rat. J. Comp. Neurol. 309, 1–16 (1991).
+30. Maravall, M., Petersen, R.S., Fairhall, A.L., Arabzadeh, E. & Diamond, M.E. Shifts in
+coding properties and maintenance of information transmission during adaptation in
+barrel cortex. PLoS Biol. 5, e19 (2007).
+31. Urbain, N. & Descheˆnes, M. A new thalamic pathway of vibrissal information modulated
+by the motor cortex. J. Neurosci. 27, 12407–12412 (2007).
+32. Masri, R., Bezdudnaya, T., Trageser, J.C. & Keller, A. Encoding of stimulus frequency
+and sensor motion in the posterior medial thalamic nucleus. J. Neurophysiol. 100,
+681–689 (2008).
+33. McCormick, D.A., Connors, B.W., Lighthall, J.W. & Prince, D.A. Comparative electrophysiology of pyramidal and sparsely spiny stellate neurons of the neocortex.
+J. Neurophysiol. 54, 782–806 (1985).
+34. Ahrens, K.F., Levine, H., Suhl, H. & Kleinfeld, D. Spectral mixing of rhythmic neuronal
+signals in sensory cortex. Proc. Natl. Acad. Sci. USA. 99, 15176–15181 (2002).
+35. Pena, J.L. & Konishi, M. Robustness of multiplicative processes in auditory spatial
+tuning. J. Neurosci. 24, 8907–8910 (2004).
+36. Andersen, R.A. & Mountcastle, V.B. The influence of angle of gaze upon the excitability
+of the light sensitive neurons of the posterior parietal cortex. J. Neurosci. 3, 532–548
+(1983).
+37. Salinas, E. & Abbott, L.F. A model of multiplicative neural responses in parietal cortex.
+Proc. Natl. Acad. Sci. USA. 93, 11956–11961 (1996).
+38. Koch, C., Poggio, T. & Torre, V. Nonlinear interactions in a dendritic tree: localization,
+timing, and role in information processing. Proc. Natl. Acad. Sci. USA. 80, 2799–2802
+(1983).
+39. Richardson, M.J., Brunel, N. & Hakim, V. From subthreshold to firing-rate resonance.
+J. Neurophysiol. 89, 2538–2554 (2003).
+40. Rudolph, M., Pospischil, M., Timofeev, I. & Destexhe, A. Inhibition determines
+membrane potential dynamics and controls action potential generation in awake and
+sleeping cat cortex. J. Neurosci. 16, 5280–5290 (2007).
+41. Lee, A.K., Manns, I.D., Sakmann, B. & Brecht, M. Whole-cell recordings in freely moving
+rats. Neuron 51, 399–407 (2006).
+42. de Kock, C.P., Bruno, R.M., Spors, H. & Sakmann, B. Layer- and cell-type-specific
+suprathreshold stimulus representation in rat primary somatosensory cortex. J. Physiol.
+(Lond.) 581, 139–154 (2007).
+43. Manns, I.D., Sakmann, B. & Brecht, M. Sub- and suprathreshold receptive field
+properties of pyramidal neurones in layers 5A and 5B of rat somatosensory barrel cortex.
+J. Physiol. (Lond.) 556, 601–622 (2004).
+44. Knutsen, P.M., Pietr, M. & Ahissar, E. Haptic object localization in the vibrissal system:
+behavior and performance. J. Neurosci. 26, 8451–8464 (2006).
+45. Bruno, R.M., Khatri, V., Land, P.W. & Simons, D.J. Thalamocortical angular tuning
+domains within individual barrels of rat somatosensory cortex. J. Neurosci. 19,
+7603–7616 (2003).
+46. Andermann, M.L. & Moore, C.I. A somatotopic map of vibrissa motion direction within a
+barrel column. Nat. Neurosci. 9, 543–551 (2006).
+47. Kleinfeld, D., Sachdev, R.N.S., Merchant, L.M., Jarvis, M.R. & Ebner, F.F. Adaptive
+filtering of vibrissa input in motor cortex of rat. Neuron 34, 1021–1034 (2002).
+48. Armstrong-James, M., Fox, K. & Das-Gupta, A. Flow of excitability within barrel cortex on
+striking a single vibrissa. J. Neurophysiol. 68, 1345–1358 (1992).
+49. Brown, E.N., Frank, L.M., Tang, D., Quirk, M.C. & Wilson, M.A. A statistical paradigm for
+neural spike train decoding applied to position prediction from ensemble firing patterns
+of rat hippocampal place cells. J. Neurosci. 18, 7411–7425 (1998).
+50. DiMatteo, I., Genovese, C.R. & Kass, R.E. Bayesian curve-fitting with free-knot splines.
+Biometrika 88, 1055–1071 (2001).
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 501
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.

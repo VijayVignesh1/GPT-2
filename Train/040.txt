@@ -1,0 +1,1510 @@
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+Encoding a temporally structured stimulus with
+a temporally structured neural representation
+Stacey L Brown, Joby Joseph & Mark Stopfer
+Sensory neural systems use spatiotemporal coding mechanisms to represent stimuli. These time-varying response patterns
+sometimes outlast the stimulus. Can the temporal structure of a stimulus interfere with, or even disrupt, the spatiotemporal structure
+of the neural representation? We investigated this potential confound in the locust olfactory system. When odors were presented in
+trains of nearly overlapping pulses, responses of first-order interneurons (projection neurons) changed reliably, and often markedly,
+with pulse position as responses to one pulse interfered with subsequent responses. However, using the responses of an ensemble of
+projection neurons, we could accurately classify the odorants as well as characterize the temporal properties of the stimulus. Further,
+we found that second-order follower neurons showed firing patterns consistent with the information in the projection-neuron
+ensemble. Thus, ensemble-based spatiotemporal coding could disambiguate complex and potentially confounding temporally
+structured sensory stimuli and thereby provide an invariant response to a stimulus presented in various ways.
+
+Visual1–4, auditory5–7, tactile8–10, and olfactory11–15 senses all use
+temporal coding mechanisms16 for which the timing, rather than just
+the rate, of action potentials is important for the neural representation
+of the stimulus17,18. If a neural response pattern significantly outlasts
+the stimulus, new stimuli might arrive before the response to a previous
+stimulus is complete19. This situation is particularly interesting in
+olfaction; in principal neurons, odor pulses can elicit response patterns
+that endure beyond the pulse’s offset11,14 and, further, natural odor
+plumes can have repeated, rapid and nearly overlapping encounters
+with olfactory receptors20. Given these potential confounds, how can
+neural systems use spatiotemporal representations to encode and
+decode temporally structured stimuli?
+In the locust, projection neurons in the antennal lobe—the analogs
+of vertebrate mitral cells21—respond to odors with complex spiking
+patterns that consist of epochs of excitation, inhibition and quiescence.
+These patterns vary with odor identity and concentration, and can
+greatly outlast the odor receptor neurons’ encounter with the odor11,14.
+The antennal lobe’s network of excitatory projection neurons and
+inhibitory local neurons generates these firing patterns when driven
+by input from olfactory receptor neurons22,23. These spiking patterns,
+distributed broadly across the projection neuron population, are parsed
+into brief segments by odor-evoked oscillations and are read by
+downstream follower neurons (the Kenyon cells) which receive convergent input from many projection neurons15,24 (R.A. Jortner and
+G. Laurent, Soc. Neurosci. Abstr. 412, 21, 2004). The oscillating projection neuron ensemble, through feed-forward inhibition, generates brief
+integration windows in the Kenyon cells24. Kenyon cells respond to
+odors with very sparse spiking, often demonstrating great specificity
+with respect to odors and even particular concentrations of odors25,26.
+
+Here we examine how the locust olfactory system responds to very
+short (100-ms) repeated odor pulses; the timing was chosen to approximate that observed in natural odor plumes20. In a turbulent environment, odor is carried in an intermittent fashion in the form of filaments
+of odor-laden air that vary in concentration, duration and frequency
+with which they appear. These factors are modulated by wind speed,
+amount of turbulence, delivery mechanism and distance from the odor
+source20,27. We selected stimulus parameters on the basis of odor plume
+measurements made outdoors, in which filaments were observed to
+encounter a sensor in a series of bursts that averaged about 100 ms in
+duration and arrived, on average, at approximately 500-ms intervals20.
+We made intracellular recordings from projection neurons and
+extracellular tetrode recordings from projection neurons and Kenyon
+cells in adult locusts. We delivered brief (100-ms) odor pulses in trains
+of 3 or 10 pulses; inter-pulse intervals ranged from 500 to 1,250 ms but
+were constant within a train. For each pulse pattern, we delivered blocks
+of 10 trials (15–30 s inter-trial interval), with the blocks given in random
+order. We used a variety of odorants and concentrations (see Methods).
+Our results showed that ensemble-based coding mechanisms can
+disambiguate complex and potentially confounding temporally structured sensory stimuli, thus providing an invariant response to a
+stimulus presented in different ways while preserving information
+about the stimulus timing.
+RESULTS
+Projection neuron responses vary with odor pulse pattern
+For most odor–projection neuron combinations, the number of spikes
+elicited by odor pulses changed reliably, and sometimes substantially,
+with pulse position, because lengthy responses to one pulse interfered
+
+National Institute of Child Health and Human Development, US National Institutes of Health, Building 35, Room 3A-102, Bethesda, Maryland 20892, USA.
+Correspondence should be addressed to M.S. (stopferm@mail.nih.gov).
+Received 15 August; accepted 19 September; published online 16 October 2005; doi:10.1038/nn1559
+
+1568
+
+VOLUME 8
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005 NATURE NEUROSCIENCE
+
+ARTICLES
+0.1 HEX
+
+1 OCT
+
+Figure 1 The responses of projection neurons
+change with odor and inter-pulse intervals. Rapid
+trains of odor pulses evoked responses that
+interfered with one another (see text). Example of
+a projection neuron (intracellular recording),
+responding to three odors (columns) presented in
+four patterns (rows). Black bars on abscissa: odor
+presentation times. Gray histograms, responses
+to ten consecutive trials exemplified by the
+intracellular trace; gray lines, simultaneous EAG
+recordings indicating afference from the antenna;
+note that the responses of the projection neurons
+may outlast this afference. Top row, single 100-ms
+pulse; second row, train of three 100-ms pulses
+with a 1,250-ms IPI; third row, train of three
+100-ms pulses with a 500-ms IPI; bottom row,
+single 1,000 ms pulse. Scale bar, 10 mV. 0.1
+HEX, diluted hexanol; 1 OCT, octanol; 0.1 T2H,
+diluted trans-2-hexen-1-ol.
+
+0.1 T2H
+
+Frequency (Hz)
+
+80
+40
+0
+
+80
+40
+0
+
+80
+40
+0
+–2
+
+0
+
+2
+
+4
+
+6
+
+0
+
+2
+Time (s)
+
+4
+
+6
+
+0
+
+with responses to subsequent pulses. We recorded intracellularly from
+211 projection neurons (in 92 experiments) and extracellularly (with
+tetrodes) from 117 projection neurons (in 14 experiments) and 67
+Kenyon cells (in 10 experiments). In a typical intracellular recording
+(Fig. 1), the projection neuron responded reliably to a single, brief
+pulse of diluted (0.1) hexanol (see Methods) with a quick burst of
+spikes which was followed by another, smaller burst and a lengthy
+hyperpolarization. The projection neuron also spiked reliably in
+response to each of the pulses in a three-pulse train (with inter-pulse
+intervals, IPIs, of 500 ms and 750 ms). Note that the electroantennogram (EAG) response decreased in amplitude over the pulse trains,
+probably indicating olfactory receptor adaptation; this recovered
+within seconds, before the next trial. For another odorant (1 octanol),
+single pulses elicited only inhibition, whereas trains of three pulses
+Cell 8
+0.01 HXA
+1 pulse
+
+6
+
+reliably elicited spikes for the second and third pulses (but not the first).
+For 0.1 trans-2-hexanol, single pulses and trains with a 750-ms IPI
+elicited reliable spiking, whereas trains with the 500-ms IPI elicited
+reliable spiking only for the first and third pulses (but not the second).
+Responses to trains of odor pulses often included strong and reliable
+bursts of spikes after the last pulse; these ‘after-responses’ became
+longer and more intense as the duration of individual odor pulses
+increased (see, for example, Fig. 1, bottom, 1-s odor pulse). The timing
+and intensity of excitatory and inhibitory odor response components in
+this projection neuron reflected multiple underlying mechanisms (see
+Discussion) and determined how closely the bursts of spikes could
+track each separate odor pulse within a train.
+We obtained similar results from extracellular recordings made
+simultaneously from multiple projection neurons (Fig. 2). Different
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0.01
+1
+
+3 pulses,
+1,250 ms IPI
+
+HXA
+
+10 pulses,
+500 ms IPI
+4
+Time (s)
+
+4
+
+OCT
+
+3 pulses,
+500 ms IPI
+
+0
+
+2
+
+Cell
+1
+
+Trial
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+80
+40
+0
+
+0.01
+
+8
+1
+
+Figure 2 The responses of projection neurons to odors
+and the extent of interference between overlapping
+HEX
+responses patterns vary greatly depending on the odor
+0.01
+and the cell. Spike-time raster plots show simultaneous
+extracellular recordings from nine projection neurons, in
+1
+response to four odor-pulse delivery patterns (ten trials
+each) for four odorants, each at two concentrations. Inset,
+enlarged example of a particular combination of odor and GER
+0.01
+projection neuron. Gray bars indicate odor delivery times.
+Stimuli were delivered in random order but are organized
+here in the sequence shown in the inset. Note the variety
+1
+of responses observed in different projection neurons
+and to different odors and concentrations.
+
+NATURE NEUROSCIENCE VOLUME 8
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005
+
+1569
+
+ARTICLES
+Figure 3 Over time, the responses of projection neurons varied more across
+odors and concentrations than across trials. The average Euclidian distance
+(see text and Methods) for every 50-ms snapshot of the projection-neuron
+ensemble response is shown for each of the odor pulse patterns tested
+(indicated by red bars on the abscissa). In the ensemble response over time,
+repeated trials of the same odor and concentration elicited small variations
+from the baseline (red line), whereas trials with changes in concentration of
+the same odor (green) or changes of odors at the same concentrations (blue)
+elicited, respectively, larger variations from the baseline and from each other.
+From top: single 100-ms pulse; three pulses with a 500-ms IPI; three pulses
+with a 1,250-ms IPI; ten pulses with a 500-ms IPI. Error bars, s.d.
+
+100
+
+50
+
+0
+
+Euclidean distance (arbitrary units)
+
+50
+
+and 3% to all but the last pulse. Thus, for most projection neurons, the
+temporal structure of the odor interfered with the temporal structure of
+its neural representation.
+
+0
+100
+
+50
+
+0
+100
+
+50
+
+0
+–2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Time (s)
+
+projection neurons responded in different ways to the same stimulus
+pulses. In some neurons, spikes elicited by some odors faithfully
+tracked every pulse in a train (see, for example, the response of cell 8 to
+0.01 hexanal, Fig. 2 inset); however, this was atypical, and such a
+projection neuron responded differently when the animal was presented with a different odor (see cell 8’s response to 1 OCT). None of
+the 117 projection neurons in our extracellular set were able to reliably
+track the pulse timing of all odor-concentration combinations.
+Of the 936 odor–projection neuron combinations in our set,
+719 elicited spikes. For most of these combinations, the number of
+spikes generated varied significantly (P o 0.05; see Methods) with
+pulse position: 59% showed significant changes over three pulses with a
+500-ms IPI, and 68% showed significant changes over ten pulses with a
+500-ms IPI. In about one-third of the cases in which spikes were
+elicited, the changes were substantial. For example, 10% of the odor–
+projection neuron combinations resulted in spiking in response to only
+the first pulse; 10% to all but the first pulse; 7% to only the last pulse;
+
+Analyzing responses of an ensemble of projection neurons
+Multiple projection neurons converge onto their follower neurons
+(which include Kenyon cells; R.A.J. and G.L., Soc. Neurosci. Abstr.
+412, 21, 2005), and odors are represented by spiking activity distributed
+across ensembles of projection neurons11,14. We considered that,
+despite the interference-induced variability observed in the responses
+of individual projection neurons, invariant properties of the stimulus
+might emerge at the ensemble level. Thus, we pooled our set of
+extracellularly recorded projection neurons so as to approximate a
+portion of the projection-neuron population found in the antennal
+lobe (see Methods) and then examined the set’s information content.
+We sought to analyze the projection-neuron ensemble response as it
+evolved during and after each stimulus presentation. Therefore, we
+binned the firing patterns of each projection neuron into brief (50-ms
+or 100-ms) time segments and then constructed, for each time segment, a separate response vector consisting of the binned firing of each
+of the 117 projection neurons26. Thus, each vector had 117 elements
+and represented a ‘snapshot’ of the transient coactivity of projection
+neurons in the ensemble at a given point in time. This technique
+allowed us to make rigorous comparisons between responses. The
+vectors could be treated as points within a 117-dimensional response
+space; the Euclidean distance between these points provided a measure
+of the similarity of the response patterns. By considering a series of
+vectors representing consecutive points in time, we were able to
+compare responses as they evolved. We found that (as is already evident
+from the examples in Figs. 1 and 2) the responses were reliable (Fig. 3):
+(i) repeated trials with the same odor and concentration elicited
+
+a
+
+3
+
+b
+
+4
+3
+
+2
+
+2
+1
+1
+
+Figure 4 Cross-correlations indicate that the response of the projectionneuron ensemble evolves gradually over the duration of the response.
+(a–d) For each delivery pattern of the 1 hexanol odorant, the cross-correlation
+coefficients (P o 0.001; see Methods) were calculated between consecutive
+50-ms bins of the ensemble response. The cross-correlations obtained from
+other odorants were similar. Comparing the response to a single pulse with
+itself over time shows a correlated region between 150- and 300-ms wide,
+indicating that the subset of projection neurons active during the response
+evolves gradually. Also, responses to any given pulse in a train were highly
+correlated with other responses to pulses in that train. Red bars, odor pulse
+times. (a) Single 100-ms pulse; (b) three pulses with a 500-ms IPI; (c) three
+pulses with a 1,250-ms IPI; (d) ten pulses with a 500-ms IPI. Note the
+different time scales.
+
+1570
+
+0
+
+0
+0
+
+c
+
+1
+
+2
+
+3
+
+0
+
+1
+
+2
+
+3
+
+4
+
+d
+
+5
+
+8
+
+1
+
+4
+Time (s)
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+100
+
+6
+
+3
+
+0.8
+0.6
+
+4
+
+2
+
+0.4
+2
+
+1
+
+0.2
+0
+
+0
+
+0
+0
+
+VOLUME 8
+
+1
+
+[
+
+2
+3
+Time (s)
+
+4
+
+NUMBER 11
+
+5
+
+[
+
+0
+
+2
+
+4
+
+6
+
+8
+
+NOVEMBER 2005 NATURE NEUROSCIENCE
+
+ARTICLES
+
+a
+
+b
+Single pulse
+4
+
+Three pulses
+4
+
+100-ms duration
+
+0
+
+0
+5
+
+2
+2
+
+0
+
+0
+2
+
+5
+0
+
+0
+2
+
+4 5
+
+c
+
+4 5
+
+d
+
+Three pulses
+4
+LLE 3
+
+Ten pulses
+4
+
+500-ms IPI
+
+2
+
+2
+
+0
+2
+2
+
+500-ms IPI
+
+0
+5
+0
+LLE 2
+
+2
+
+2
+2
+
+0
+LLE 1
+
+5
+0
+2
+
+4 5
+GER
+
+0
+
+OCT
+
+4 5
+
+HEX
+
+HXA
+
+responses that were similar to one another; (ii) changing the odor
+concentration elicited response patterns that quickly began to differ
+from baseline and also from patterns elicited by different concentrations; and (iii) changing the odor identity elicited response patterns
+that were even further from baseline and from each other.
+The patterns of activity elicited by the odorants changed gradually
+during and after the stimulus for any given coactivity snapshot,
+ensemble responses were highly and significantly correlated with the
+responses obtained from snapshots before and after it as is evident in
+the correlation plots (Fig. 4a). Further, responses to multiple odor
+pulses were highly and significantly correlated with each other
+(Fig. 4b–d). Notably, relatively abrupt changes in correlation occurred
+during the pulse trains, as new responses appeared to truncate ongoing
+responses (Fig. 4b–d).
+
+patterns of the projection-neuron ensemble; thus they illustrate the fact
+that gradually changing subgroups of projection neurons within the
+ensemble were transiently coactive during and after the odor presentation. Trajectories representing repeated trials were superimposable,
+which indicates that ensemble responses were reliable and reproducible. The trajectories elicited by different odorants looped through
+separate regions of the response space because different odors transiently activated different subgroups of projection neurons within the
+ensemble. Also, we found that each odor pulse within a train, regardless
+of the IPI, elicited a trajectory that looped through and re-circled the
+same odor-specific regions of response space as did the single odor
+pulse (Fig. 5b–d). The response of the projection-neuron ensemble,
+considered piecewise, was odor specific and invariant with respect to
+the odor-pulse pattern.
+
+100
+75
+50
+
+Visualizing ensemble responses to odor pulses
+To visualize the gradually evolving ensemble responses, we first reduced
+the dimensionality of the snapshot vectors using local linear embedding
+(LLE), a technique suitable for high-dimensional, nonlinear and
+gradually changing data26,28 (see Methods). Then, we plotted the first
+three dimensions so as to obtain a series of points that, when joined in
+sequence, formed a trajectory representing the response over time to
+each odor presentation (Fig. 5).
+Single, brief pulses of odorant elicited simple response trajectories
+looping away from, and then back to, the rest point (Fig. 5a). These
+trajectories were constructed by sampling, in brief time bins, the firing
+
+25
+0
+100
+75
+50
+Percentage correct
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+2
+2
+
+1,250-ms IPI
+
+2
+
+2
+
+Figure 5 Visualization of the projection-neuron ensemble responses over time
+reveals invariant odor-specific trajectories, regardless of odor delivery pattern.
+(a–d) Different odor delivery patterns; colors indicate different odorants. The
+trajectories, describing the evolution of the ensemble response over time,
+return to the same areas of response space over repeated trials and remain in
+the same orientation, regardless of odor delivery pattern. The longer IPI
+allows the trajectory to return to the spontaneous state after each pulse;
+however, the shorter IPI causes the trajectories to loop away from the
+spontaneous state within the odor space. Three-dimensional embedding
+using LLE was computed for each time point (100-ms bins), for 5 s from the
+onset of the first odor pulse, averaged over three trials. Consecutive time
+points were joined together to form distinct trajectories for each odor
+response. Short black lines indicate the trajectory point 0.5 s after the onset
+of the stimulus; gray arrows indicate the direction of the trajectory over time.
+GER, geraniol; OCT, octanol; HEX, hexanol; HXA, hexanal. For clarity, only
+responses to the higher concentration of each odor are shown here; the
+response trajectories for the lower concentration were shorter but occupied
+the same manifolds as did the higher ones. (High- and low-concentration
+response trajectories are shown together in Supplementary Fig. 2.)
+
+25
+0
+100
+75
+50
+25
+
+Figure 6 Ensemble responses are well classified, regardless of odor delivery
+pattern. Any given 50-ms template could effectively classify the odors. Blue
+line, result of an unsupervised classification algorithm applied separately to
+every 50-ms time bin for all the different odor delivery patterns (red bars on
+abscissa). Chance level, 12.5%. Classification success exceeded 80%
+throughout, independent of the pulse sequence. Red and green lines
+indicate classification performance obtained by applying a single 50-ms bin
+‘template.’ Arrows indicate the templates (red, from the single pulse; green,
+from the second in the train of ten pulses). Classification success far
+exceeded chance for all delivery patterns and registered a peak at the
+time of each odor pulse.
+
+NATURE NEUROSCIENCE VOLUME 8
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005
+
+0
+100
+75
+50
+25
+0
+–2
+
+0
+
+2
+
+4
+Time (s)
+
+6
+
+8
+
+10
+
+1571
+
+The existence of odor-specific, transiently
+coactive subgroups of projection neurons (as
+revealed by the distance, correlation and trajectory analyses) suggested that the responses
+should contain sufficient information about
+the odorants to allow the stimulus to be
+effectively classified—even given only brief
+snapshots of time. Indeed, we found that a
+simple, unsupervised classification algorithm,
+using only the eight most significant dimensions in the dataset (see Methods), could
+effectively distinguish the eight odor-concentration combinations from one another; using
+any given 50-ms time bin during the odor
+response, the algorithm was successful at classifying the odors (80–100% classification success), regardless of the pulse pattern (Fig. 6).
+Thus, the information available in any brief
+snapshot of the ensemble response is sufficient
+to classify the odors, independent of their
+temporal presentation characteristics.
+
+a6
+Time (s)
+
+Correlation
+(P < 0.001)
+1
+0.6
+
+a
+
+KC 1
+
+b
+
+1,000 ms pulse
+
+1,250 ms IPI
+
+c
+
+500 ms IPI
+
+d
+
+500 ms IPI
+
+4
+2
+
+0.3
+0
+
+0
+
+e
+Time (s)
+
+100
+60
+P < 0.002
+Chance
+
+f
+
+g
+
+h
+
+6
+
+Template
+classification
+
+30
+12.5
+
+Classification
+success (%)
+
+4
+2
+0
+0
+
+2
+
+4
+
+6
+
+0
+
+2
+
+6 0
+Time (s)
+
+4
+
+2
+
+4
+
+6
+
+0
+
+2
+
+4
+
+6
+
+Figure 7 Correlation and classification analyses show that responses to single odor pulses are
+comparable to responses during odor pulse trains. (a–h) Correlation (a–d) and classification (e–h)
+analyses, comparing responses to single pulses (ordinate) to responses to trains of three or ten pulses
+(abscissa) over time, show common response features regardless of the odor presentation pattern. The
+common features (subgroups of transiently coactive projection neurons) allow for high levels of
+successful response classification, particularly during the onsets and offsets of responses. Correlations
+shown are significant (P o 0.001). Classification probabilities were determined as described in Methods
+and in Supplementary Figure 5. Red bars on axes represent odor pulse times.
+
+Recognizing time-varying features of the
+odor stimulus
+However, the evolving trajectories indicate
+gradual, continuous changes in the composition of odor-specific sets of transiently coactive projection neurons.
+This raises interesting questions: (i) if odor recognition requires the
+matching of a transient stimulus-elicited activity pattern with a stored
+template, do many different templates—each representing different
+points along the trajectory—need to be stored?; and (ii) does a template
+representing one odor-presentation pattern match the projectionneuron ensemble activity created by a different presentation pattern
+of the same odorant?
+We found that projection-neuron ensemble responses evoked by one
+presentation pattern were highly and significantly correlated with the
+
+KC 2
+
+KC 3
+
+Odor 1
+
+responses evoked by the same odorant presented in a different pattern
+(Fig. 7a–d). This suggests that cross-classification should be successful.
+We then used our projection-neuron activity vectors as templates, each
+template representing a 50-ms snapshot of the ensemble activity evoked
+by different odors presented in different patterns. We tried to classify
+responses evoked by one presentation pattern using responses evoked
+by the other patterns (Fig. 7e–h). The resulting template classification
+diagram for single, brief (100-ms) odor pulses reveals an evolving series
+of useful templates (Fig. 7e)—no single time bin was optimally effective
+during and after the stimulus. However, because the ensemble response
+patterns evolved gradually, any given 50-ms template could effectively
+classify much longer (150–300 ms-long) portions of the response.
+When we applied the template sequence formed from the single
+pulse to the responses evoked by a widely spaced (1,250-ms IPI) train of
+three pulses, a similar effect emerged (Fig. 7f): odors were successfully
+classified throughout the responses—although with the greatest success
+during the first part of each response. When the single-pulse template
+was applied to a three-pulse train with a shorter (500-ms) IPI,
+classification was again successful throughout the responses, but this
+time the best classification occurred at the beginning and the end of
+
+Odor 2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+0
+
+2
+
+4
+
+6
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+2
+
+2
+
+1
+
+1
+
+0
+
+0
+
+2
+
+4
+
+6
+
+0
+0
+
+2
+
+4
+
+6
+
+8
+Time (s)
+
+1572
+
+8
+
+Time (s)
+
+b
+Frequency (Hz)
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+0
+
+2
+
+4
+
+6
+
+8
+
+8
+
+Figure 8 Kenyon cells fire sparsely throughout the odor responses.
+(a) Examples of Kenyon-cell responses to different odors and presentation
+patterns. Individual Kenyon cells revealed preferences for odors and response
+times. KC 1 and KC 2 were recorded simultaneously; odor 1: 1 octanol; odor
+2: trans-2-hexen-1-ol. For KC 3, odor 1: 1 octanol; odor 2: 1 hexanol. KC 1
+responded to most presentations of one odorant regardless of presentation
+pattern, but did not respond to a different odorant. KC 2 responded reliably
+but exclusively to the onset of an odor pulse or train for one odorant, but did
+not respond to other odorants. Finally, KC 3 responded to both odorants,
+although with differently timed responses for each, firing throughout odor 1,
+but only during the ‘after-response’ of odor 2. (b) Histograms of the firing
+frequencies, over time, of all 67 examined Kenyon cells, shown for each odor
+delivery pattern. Spiking occurred throughout the odor response but was most
+frequent at the beginning.
+
+VOLUME 8
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005 NATURE NEUROSCIENCE
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+each pulse in the series (Fig. 7g). The arrival of each new pulse seemed
+to truncate the period of classification success, because the onset
+responses differed from the offset responses; however, the last pulse
+of the train elicited a lengthy offset response that matched the offset
+of the single pulse. The response to a ten-pulse train with a
+500-ms IPI effectively matched the response to the single pulse, mainly
+during the train’s onset but also at other times during each of the ten
+pulses (Fig. 7h). We obtained similar results from all possible crossclassification matches (data not shown).
+Thus, a single stored 50-ms template was sufficient for recognizing
+the ensemble-wide activity patterns evoked by an odorant, regardless of
+the odorant’s presentation pattern (Fig. 6); by tracking the templatematches over time, we were able to obtain a description of the timevarying features of the stimulus (its odor, concentration and timing
+pattern). Multiple templates, if available, could serve to distinguish and
+recognize the onsets of pulses of a given odor.
+Responses of downstream neurons to odor pulses
+Our analysis of the ensemble response was based on the integration
+properties of the projection-neuron followers, the Kenyon cells. Thus,
+our analysis leads to predictions for Kenyon cell behavior. Because
+different subsets of projection neurons were coactivated by different
+odors and because these subsets converge onto Kenyon cells, we
+expected the responses in some Kenyon cells to be odor specific.
+Further, because the projection-neuron subsets that were coactive
+during the brief Kenyon cell integration window continuously changed
+during the odor response, we expected that Kenyon cells would respond
+to different odors at different times during this evolution. Also, because
+the ensemble response patterns elicited by trains of odor pulses tended
+to repeat with each pulse (that is, the trajectories re-circled portions of
+the same response space), we expected that the Kenyon cells would
+respond at particular times during the odor trains. Our recordings
+from Kenyon cells confirmed these predictions (Fig. 8), showing that
+individual Kenyon cells can respond with some specificity to different
+odors and to different temporal features of an odor presentation. Taken
+collectively, the data show that the Kenyon cells responded throughout
+the ensemble response but most prominently during response onset.
+DISCUSSION
+We examined how a temporally structured stimulus is encoded by a
+temporally structured distributed neural representation. The responses
+of individual first-order interneurons (projection neurons in the locust
+antennal lobe) indicated that the two types of temporal structures
+significantly interfered with each other. However, this potential confound was resolved by considering the responses of these neurons in the
+context of their ensemble activity; this activity was sufficiently informative to allow the accurate detection and classification of the invariant
+properties of the stimulus and its temporal structure. Second-order
+‘decoder’ interneurons (Kenyon cells) responded as predicted on the
+basis of the information available in the first-order ensemble response.
+Spatiotemporal coding mechanisms—including those subserving
+vision1–4, audition5–7, touch8–10 and olfaction11–15—are common in
+neural systems. In most cases, neural responses are brief (although
+some neurons, such as those in inferior temporal cortex, show
+sustained firing following brief visual stimuli1) and seem to track the
+stimuli closely. The potential for confounds between temporally
+structured stimuli and their neural representations seems greatest in
+olfaction, where the response duration in principal neurons often
+outlasts the odor stimuli11,14,15.
+Olfactory receptor neurons in insects can follow rapid odor-pulse
+trains29–32 precisely; in particular, macroglomerular projection
+
+NATURE NEUROSCIENCE VOLUME 8
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005
+
+neurons, specialized for pheromone detection, have been shown to
+track the timing of pheromone plumes reliably33–35. Some insects, for
+example, seem to use this information when moving toward pheromone sources36–38. However, non-pheromonal afferent activity that is
+relatively stimulus locked is reformatted by the circuitry of the antennal
+lobe into complex spatiotemporal activity patterns distributed across
+the population of projection neurons11,15,22,26,39. These activity
+patterns, which vary with—and thus contain information about—
+odor identity and concentration (Figs. 1 and 2), are further parsed into
+a series of gradually evolving snapshots, roughly 50 ms long, by an
+oscillatory synchronization mechanism driven by the circuitry of the
+antennal lobe24. Projection neurons provide the only pathway for
+olfactory information from the antennal lobe to reach other neural
+targets, including the Kenyon cells. The locust antennal lobe contains
+about 830 projection neurons19; recent results suggest that more than
+100 of these converge onto each of about 50,000 Kenyon cells (R.A.J.
+and G.L., Soc. Neurosci. Abstr. 412, 21, 2004). Odor identity information has been shown to be broadly distributed across the ensemble of
+projection cells11,24,26. (In the locust, the extent to which this convergence is genetically or otherwise specified is not known; by comparison,
+genetic labeling techniques have shown that Drosophila have some wellspecified connectivity40,41.)
+Our analysis adhered to these features of olfactory anatomy and
+physiology; we used techniques that permitted us to examine the odorelicited responses in an ensemble of more than 100 projection neurons
+in a series of brief time bins (Supplementary Fig. 1). Odorants evoked
+responses in most projection neurons (Fig. 2). Measures of the interresponse Euclidean distance (Fig. 3) and cross-correlation (Fig. 4)
+indicated (i) that the responses evolved gradually during and after
+the stimulus, (ii) that different odor concentrations evoked responses
+that differed from each other to some extent, and (iii) that different
+odorants evoked responses that differed to a greater extent.
+These responses were reliable over repeated trials and could be
+visualized as trajectories looping through a high-dimensional representation space (Fig. 5, Supplementary Fig. 2). These results confirm
+our earlier work26.
+Odor stimuli tend to repeat in nature because of iterative olfactory behaviors such as sniffing42 and antennal sweeping43 and also
+because of turbulence, which can deliver an odor to receptors as a
+series of transient encounters with odor filaments20. We found that,
+most of the time, the long, complex projection-neuron responses
+to each of the odor pulses within a train interfered with each
+other (Fig. 1). Yet we found no projection neurons that closely tracked
+trains of all odors, and thus no evidence for a specialized ‘channel’
+for stimulus timing as exists in auditory systems. Nonetheless, when
+our set of 117 projection neurons was considered together, responses
+to multiple and rapid pulses were sufficiently correlated with one
+another (Fig. 7) to permit the odors to be accurately classified,
+regardless of the odor-pulse presentation pattern (Figs. 6 and 7).
+Indeed, trajectory representations of the ensemble response show
+largely overlapping, re-circling patterns corresponding to each odor
+pulse in a train (Fig. 5). Any given 50-ms time bin contained enough
+information to successfully serve as a template to classify odors (Fig. 6).
+Further, we found that single 50-ms templates taken from one
+presentation pattern could successfully classify responses to other
+presentation patterns (Fig. 6); thus, the olfactory system need not
+memorize every permutation of odor and presentation pattern in
+order to recognize a particular odor in the future. Additionally, by
+describing brief portions of odor responses, such as the response onset
+(as in Fig. 6), templates can characterize the temporal properties of the
+odor stimulus.
+
+1573
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+When the IPI was brief, each new ensemble response truncated the
+previous one, as is evident in the correlation analyses (Figs. 4 and 7)
+and trajectory representations (Fig. 5). This truncation left the early
+portion of each response largely intact. Although useful templates
+could be drawn from any time in the response, the onset of the response
+to each pulse in the train provided the most reliable across-pulse and
+across-pattern templates (Fig. 6). Notably, the most effective templates occurred about 300 ms after the ensemble response onset
+(Supplementary Fig. 3)—the earliest time at which maximal odoridentifying information is available from projection-neuron responses
+(see Fig. 6d in ref. 26). Thus, the circuitry of the antennal lobe seems to
+be largely ‘reset’ by each new stimulus pulse. As a result, regardless of
+the presentation pattern, each odor-specific ensemble response begins
+similarly and then follows a similar trajectory.
+We observed up to 68% variability in the responses to each
+combination of projection neuron and odor; these responses were
+calculated cumulatively over either three or ten pulses. However, the
+response variability between any one pulse and any other was less than
+68%. For example, for the series of three pulses with a 500-ms IPI,
+the percentages of neurons that changed their responses significantly
+(P o 0.05; see Methods) between the first and second, first and third,
+and second and third pulses were 26.67%, 30.1% and 22.3%, respectively. In addition, of the projection neurons that changed their
+responses, only 20.62% of the neurons changed their responses across
+all pulse pairs. Thus, considered only pair-wise (that is, between any
+given pulse and another), most individual projection neurons had
+similar responses, thus providing a foundation for extracting invariance. It is critical to note, however, that the subset of projection
+neurons that responded consistently for one pair of pulses was not the
+same as the subset that responded consistently for a different pair. For
+example, only 54.8% of the projection neurons that significantly
+changed their responses between the first and second pulses also
+changed their responses between the first and third pulses. Our analysis
+shows that the problem of response classification can be solved by the
+convergence of many projection neurons onto Kenyon cells. The
+Kenyon cells each examine a large ensemble of projection neurons,
+which—by virtue of its large size—will contain enough projection neurons that respond consistently to a given stimulus. The
+remaining highly variable responses, which could dominate a smaller
+ensemble (Supplementary Fig. 4), would be insufficient to prevent
+successful classification.
+How large should a projection-neuron ensemble be if responses are
+to be classified successfully? If we assume that the connectivity between
+projection neurons and Kenyon cells is imprecisely specified, Kenyon
+cells cannot know which subset of the projection neurons will provide
+faithful, stimulus-tracking responses for any given odor and pulse
+pattern. With our set of 117 projection neurons, we achieved classification success far better than chance (Fig. 6). We also found, not
+surprisingly, that response classification deteriorated when we used
+successively smaller subsets of projection neurons for our analysis
+(Supplementary Fig. 4; see also Fig. 6e in ref. 26). Classification with
+smaller projection-neuron ensembles might be possible with more
+precisely specified mapping between projection neurons and Kenyon
+cells, experience-dependent plasticity or both.
+We analyzed brief (50-ms) time bins of activity because Kenyon cells
+seem to sample the projection-neuron ensemble on this time scale24. It
+is not known whether neurons that succeed Kenyon cells in the
+olfactory pathway are able to integrate olfactory information over
+longer durations (as was predicted in a previous study44). Not surprisingly, we found that longer templates, formed by concatenating up to
+20 of the 50-ms templates, marginally improved odor classification, but
+
+once the template duration exceeded the IPI of the odor train, classification deteriorated (data not shown). Thus, if the IPI is unpredictable
+or variable, as is the case in most natural odor plumes, brief samples of
+activity may be of the most general utility. A system designed to use
+such samples would function well when it encounters rapid trains of
+brief odor pulses (such as, for instance, when an odor source is distant).
+When odor samples are encountered at longer and more widely spaced
+intervals, the same system could continue to extract and memorize the
+additional, partially redundant information available in the longer
+responses—consistent with behavioral results showing that animals
+require more time to solve difficult olfactory tasks45.
+In Kenyon cells, the responses to odors were consistent with the
+information detectable by the convergence of multiple projection
+neurons: as previously described26, Kenyon cells fired in response to
+particular odors and concentrations, and at particular times. Over the
+trains of odor pulses, individual Kenyon cells responded reliably at
+particular times to the pulses (Fig. 8a, KC 1,2). If a Kenyon cell
+responded to more than one test odorant, the response time could
+be different for different odorants (Fig. 8a, KC 3). This timing
+preference probably results from the transient coactivity of subgroups
+of projection neurons that converge onto a given Kenyon cell; through
+such convergence, Kenyon cells correspond to particular points along
+the response trajectory of the projection-neuron ensemble. As a group,
+Kenyon cells responded during and briefly following odor presentations, with small activity peaks for each pulse; notably, however, most
+responses occurred at the onset of each odor train (Fig. 8b). When the
+inter-pulse interval was brief (that is, 500 ms), Kenyon cells responded
+most often to the first pulse but continued to respond throughout the
+train. Given our relatively sparse sampling of the large Kenyon-cell
+population, it remains an open and interesting question why the first
+pulse elicited the strongest responses.
+There is no behavioral evidence to suggest that locusts use information about the temporal presentation characteristics of odors. Our
+results, however, suggest that such timing information is available
+within the olfactory response. We speculate that animals would benefit
+from detecting and recognizing characteristic timing features of an
+odor plume, such as its onset, continued presence and offset; we predict
+that one could, for example, train animals to respond behaviorally to
+specific, rewarded temporal features in a complex odor sequence.
+Multiple factors seem to underlie the changes in the response
+patterns of projection neurons and Kenyon cells over the course of a
+rapid train of odor pulses. In projection neurons, these factors include
+the cumulative superimposition of long-lasting, odor-driven excitatory
+and inhibitory inputs from afferent, projection and local neurons
+within the antennal lobe. These factors constrain the firing patterns
+of projection neurons and thus constitute the mechanism underlying
+the partial circuit reset triggered by each odor pulse. In addition, there
+are at least two forms of plasticity: rapid but short-lived adaptation in
+odor receptors (detected as decreasing EAG amplitude, Fig. 1); and
+gradual but long-lasting ‘fast learning’ within the lobe46,47. Kenyon cells
+are additionally influenced by feed-forward inhibition from the lateral
+horn24. We are presently exploring these mechanisms and their interactions in detail (S.L.B. and M.S., unpublished data).
+
+1574
+
+VOLUME 8
+
+METHODS
+Animals. Experiments were performed on 116 intact adult locusts (Schistocerca
+americana) of both sexes from our crowded colony. Animals were immobilized
+and stabilized with wax; one antenna was secured intact and the other
+was removed and used to record an electroantennogram (see below).
+The brain was exposed, desheathed and superfused with locust saline as
+previously described11.
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005 NATURE NEUROSCIENCE
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+Odor stimulation. Dried and activated carbon-filtered air (0.75 liter min–1)
+flowed continuously across the antenna through a Teflon tube (6.35 mm inner
+diameter) placed perpendicular to and within 4 mm of the intact antenna.
+A large vacuum funnel was placed 10 cm behind the antenna so as to quickly
+remove odorants. Twenty milliliters of each liquid odorant—either neat or
+diluted in mineral oil (J.T. Baker)—were placed in 60-ml glass bottles;
+the odors, drawn from the headspace above these odorants, were puffed by a
+pneumatic picopump (WPI) into the continuously flowing air stream, thus
+further diluting the odorant. The timing of odor release was controlled by a
+Master-8 stimulus generator (A.M.P.I.) or by a custom computer program. The
+odorants used in the intracellular recordings were 1-hexanol, 1-octanol, hexanal
+(Fluka), geraniol (Sigma), trans-2-hexen-1-ol and 2-heptanone (Aldrich) as
+well as extracts of strawberry, cinnamon, peach, lime (Balducci’s), wintergreen
+and Sambuca (Wagner’s), used neat or dilutions of 10:1 and 100:1. For the
+extracellular recordings, 1-hexanol, geraniol, 1-octanol and hexanal were used
+neat and at 100:1 dilutions (denoted throughout the text as 1 and 0.01).
+Electrophysiology. Electroantennogram recordings (EAGs) were made by
+inserting chlorided silver wire electrodes (0.127 mm diameter, WPI) into the
+cut ends of an isolated antenna. Wires were secured with small drops of wax
+and fed into a DC amplifier (Brownlee Precision). Intracellular recordings were
+made from neurons in the antennal lobe using sharp glass micropipettes (outer
+diameter 1.0 mm; Warner Instruments); these had been pulled with a
+Sutter P97 horizontal puller (Sutter Instruments) and filled with 0.5 M
+potassium acetate and 5% neurobiotin (Vector Laboratories) to yield resistances of 80–230 MO. The data were digitally acquired at a sampling rate of
+5 kHz (LabView software; PCI-6602 DAQ and PCI-MIO-16E-4 hardware,
+National Instruments) and stored on a PC hard drive; they were then analyzed
+off-line using MATLAB (MathWorks).
+Multiunit recordings from the projection neurons were made using
+16-channel, 4  4 silicon probes (NeuroNexus Technologies) and from the
+Kenyon cells using custom-made twisted wire tetrodes24 with a 16-channel DC
+amplifier (Biology Electronics Shop, Caltech). The data were digitally sampled
+at 15 kHz. Multiunit projection-neuron and Kenyon-cell spike sorting was
+achieved offline by a four-wire, whole-waveform algorithm (Spike-O-Matic48)
+implemented in Igor (Wavemetrics). Spike sorting was conservative: we
+analyzed only those clusters that were unambiguously defined and clearly
+separated from one another throughout the experiment. The criteria we used to
+select these clusters included the following: (i) nearest cluster projections had to
+lie at least 5 standard deviations (s.d.) apart, (ii) no more than 2% of the ISIs
+were under 20 ms and (iii) the waveform s.d. could not exceed 5%. These
+criteria are described elsewhere48.
+Analysis. All analyses were performed using custom programs in MATLAB. To
+determine whether the odor-elicited spike numbers changed significantly with
+pulse position, we used the following algorithm: (i) we evaluated whether a
+particular combination of odor and projection neuron elicited spikes—defined
+as an increase over the baseline firing rate by 6.5 s.d., in any post-stimulus
+50-ms bin (this procedure yielded response detection that closely matched an
+observer’s judgments); (ii) we then performed a two-way analysis of variance
+(ANOVA) on the spike counts obtained, over ten repeated trials, during the
+500 ms after each pulse.
+To analyze the response of the projection-neuron ensemble (117 projection
+neurons) over time, we constructed a series of 117-dimensional vectors, each
+representing the ensemble’s firing during a single 50- or 100-ms time bin; each
+vector element consisted of the number of spikes in a single projection neuron
+during the time bin. We refer to these vectors as snapshots, as they represent the
+ensemble response at a moment in time.
+Beginning at 2 s before the first odor pulse, we collected data for a total of
+15 s; then, to measure the Euclidean distance between ensemble response
+vectors, these data were binned into 50-ms time bins. The Euclidean distance
+for one group (that is, all trials, odors or concentrations) is given by the average
+across all pairs within the group. For two groups, the distance is given by the
+average across all pairs from the two groups.
+The cross-correlations between the response vectors were computed for each
+combination of time bins in the ensemble response as follows: if x is the
+117-dimensional vector representing the response to a given odor, then for the
+
+NATURE NEUROSCIENCE VOLUME 8
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005
+
+ith trial, x(i), the cross-correlation between the responses at times k and l (that
+is, xk(i) and xl(i)) is calculated as
+10
+X
+i¼1
+
+!
+xTk ðiÞxl ðiÞ =
+
+10
+X
+i¼1
+
+!
+xTk ðiÞxk ðiÞ
+
+10
+X
+
+!!1=2
+xTl ðiÞxl ðiÞ
+
+i¼1
+
+We then averaged across odors to get the cross-correlation at the (k,l)th point in
+the plot. Estimates were made using ten trials, and only correlations with
+significance of P o 0.001 (t-test) are shown.
+For nonlinear dimensionality reduction with locally linear embedding
+(LLE)28, we used code from S. Roweis (http://www.cs.toronto.edu/~roweis/
+lle). The LLE method first finds a linear transformation, invariant to rotation
+and scaling, that represents each point in terms of each of its neighbors. Then a
+representation with reduced dimensionality is calculated by estimating a new set
+of points that satisfies the above transformation with respect to all the points.
+When applied to our data, principal component analysis (PCA) yielded results
+that were qualitatively similar to those from LLE, but—because our high-dimensional data were not well described by linear functions—LLE characterized and
+separated the response trajectories more effectively. The input to LLE consisted
+of the 117-dimensional snapshot vectors, each 100-ms wide and averaged over
+three trials. Qualitatively similar results were obtained using 50-ms time bins.
+LLE was calculated for the four different pulse sequences jointly and later plotted
+on separate, matching axes. LLE gave qualitatively similar results for a wide
+range of neighborhood values (between 10 and 20), indicating the genuine presence of low-dimensional manifolds that are well characterized by this analysis.
+For the classification analysis, we used the 50-ms time bins. The high
+dimensionality of our dataset could permit spurious over-classification of
+odors; to avoid this, we first reduced the dimensionality of our dataset using
+PCA. For classification based on templates, we applied the k-means function in
+MATLAB to the first eight dimensions in our dataset. Our choice of eight
+dimensions (which together contributed 32% of the variance) was based on
+standard practice: we identified the elbow in a scree plot of our eigenvalues49.
+Neighbors were decided on the basis of the Euclidean distance. For templatebased classification, the templates were the centroids of ten repeated trials. To
+estimate the confidence level of our template-based classification, a histogram
+of the percentage of template-based classification was calculated from ensemble
+activity at times before the odors were presented; the probability of obtaining
+430% classification success in the absence of a stimulus was o0.002
+(Supplementary Fig. 5).
+We pooled projection neurons sampled from 14 experiments to approximate a single, large (technically unfeasible) recording from a single animal.
+This raises the possibility of including in our set multiple examples of the same
+projection neuron from different animals. However, an inspection of the odor
+responses of our 117 projection neurons suggested that no duplicates existed.
+Further, we performed a 10,000-iteration Monte Carlo simulation of our
+sampling process with the same numbers of projection neurons (between 3
+and 17) and animals (14) as in our data. Results showed a non-zero, but very
+small, probability for the duplication of any projection neuron (see Supplementary Fig. 6; for a discussion of this issue, see ref. 26).
+Note: Supplementary information is available on the Nature Neuroscience website.
+
+ACKNOWLEDGMENTS
+We are grateful to members of the Stopfer lab for helpful discussions. This work
+was funded by an intramural grant from the National Institutes of Health, the
+National Institute of Child Health and Human Development.
+COMPETING INTERESTS STATEMENT
+The authors declare that they have no competing financial interests.
+Published online at http://www.nature.com/natureneuroscience/
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+
+1. Fuster, J.M. & Jervey, J.P. Neuronal firing in the inferotemporal cortex of the monkey in a
+visual memory task. J. Neurosci. 2, 361–375 (1982).
+2. Richmond, B.J., Optican, L.M., Podell, M. & Spitzer, H. Temporal encoding of twodimensional patterns by single units in primate inferior temporal cortex. I. Response
+characteristics. J. Neurophysiol. 57, 132–146 (1987).
+
+1575
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+3. McClurkin, J.W., Optican, L.M., Richmond, B.J. & Gawne, T.J. Concurrent processing
+and complexity of temporally encoded neuronal messages in visual perception. Science
+253, 675–677 (1991).
+4. Meister, M. Multineuronal codes in retinal signaling. Proc. Natl. Acad. Sci. USA 93,
+609–614 (1996).
+5. Nagarajan, S.S. et al. Representation of spectral and temporal envelope of twitter
+vocalizations in common marmoset primary auditory cortex. J. Neurophysiol. 87, 1723–
+1737 (2002).
+6. Gehr, D.D., Komiya, H. & Eggermont, J.J. Neuronal responses in cat primary auditory
+cortex to natural and altered species-specific calls. Hear. Res. 150, 27–42 (2000).
+7. Machens, C.K. et al. Representation of acoustic communication signals by insect
+auditory receptor neurons. J. Neurosci. 21, 3215–3227 (2001).
+8. Jones, L.M., Depireux, D.A., Simons, D.J. & Keller, A. Robust temporal coding in the
+trigeminal system. Science 304, 1986–1989 (2004).
+9. Arabzadeh, E., Zorzin, E. & Diamond, M.E. Neuronal encoding of texture in the whisker
+sensory pathway. PLoS Biol. 3, E17 (2005).
+10. Jones, L.M., Lee, S., Trageser, J.C., Simons, D.J. & Keller, A. Precise temporal responses
+in whisker trigeminal neurons. J. Neurophysiol. 92, 665–668 (2004).
+11. Laurent, G. & Davidowitz, H. Encoding of olfactory information with oscillating neural
+assemblies. Science 265, 1872–1875 (1994).
+12. Hamilton, K.A. & Kauer, J.S. Responses of mitral/tufted cells to orthodromic and
+antidromic electrical stimulation in the olfactory bulb of the tiger salamander.
+J. Neurophysiol. 59, 1736–1755 (1988).
+13. Meredith, M. Patterned response to odor in mammalian olfactory bulb: the influence of
+intensity. J. Neurophysiol. 56, 572–597 (1986).
+14. Laurent, G., Wehr, M. & Davidowitz, H. Temporal representations of odors in an olfactory
+network. J. Neurosci. 16, 3837–3847 (1996).
+15. Wehr, M. & Laurent, G. Odour encoding by temporal sequences of firing in oscillating
+neural assemblies. Nature 384, 162–166 (1996).
+16. Lestienne, R. Spike timing, synchronization and information processing on the sensory
+side of the central nervous system. Prog. Neurobiol. 65, 545–591 (2001).
+17. Theunissen, F. & Miller, J.P. Temporal encoding in nervous systems: a rigorous definition.
+J. Comput. Neurosci. 2, 149–162 (1995).
+18. Laurent, G., MacLeod, K., Stopfer, M. & Wehr, M. Dynamic representation of odours by
+oscillating neural assemblies. Entomol. Exp. Appl. 91, 7–18 (1999).
+19. Laurent, G. A systems perspective on early olfactory coding. Science 286, 723–728
+(1999).
+20. Murlis, J. & Jones, C.D. Fine-scale structure of odor plumes in relation to insect
+orientation to distant pheromone and other attractant sources. Physiol. Entomol. 6,
+71–86 (1981).
+21. Hildebrand, J.G. & Shepherd, G.M. Mechanisms of olfactory discrimination: Converging
+evidence for common principles across phyla. Annu. Rev. Neurosci. 20, 595–631
+(1997).
+22. Wehr, M. & Laurent, G. Relationship between afferent and central temporal patterns in
+the locust olfactory system. J. Neurosci. 19, 381–390 (1999).
+23. Bazhenov, M. et al. Model of cellular and network mechanisms for odor-evoked temporal
+patterning in the locust antennal lobe. Neuron 30, 569–581 (2001).
+24. Perez-Orive, J. et al. Oscillations and sparsening of odor representations in the mushroom body. Science 297, 359–365 (2002).
+25. Laurent, G. & Naraghi, M. Odorant-induced oscillations in the mushroom bodies of the
+locust. J. Neurosci. 14, 2993–3004 (1994).
+26. Stopfer, M., Jayaraman, V. & Laurent, G. Intensity versus identity coding in an olfactory
+system. Neuron 39, 991–1004 (2003).
+
+27. Murlis, J., Elkinton, J.S. & Carde, R.T. Odor plumes and how insects use them. Annu.
+Rev. Entomol. 37, 505–532 (1992).
+28. Roweis, S.T. & Saul, L.K. Nonlinear dimensionality reduction by locally linear embedding. Science 290, 2323–2326 (2000).
+29. Bau, J., Justus, K.A. & Carde, R.T. Antennal resolution of pulsed pheromone plumes in
+three moth species. J. Insect Physiol. 48, 433–442 (2002).
+30. Barrozo, R.B. & Kaissling, K.E. Repetitive stimulation of olfactory receptor cells in
+female silkmoths Bombyx mori L. J. Insect Physiol. 48, 825–834 (2002).
+31. Marion-Poll, F. & Tobin, T.R. Temporal coding of pheromone pulses and trains in
+Manduca sexta. J. Comp. Physiol. A 171, 505–512 (1992).
+32. Lemon, W. & Getz, W. Temporal resolution of general odor pulses by olfactory sensory
+neurons in American cockroaches. J. Exp. Biol. 200, 1809–1819 (1997).
+33. Lei, H. & Hansson, B.S. Central processing of pulsed pheromone signals by antennal
+lobel neurons in the male moth Agrotis segetum. J. Neurophysiol. 81, 1113–1122
+(1999).
+34. Heinbockel, T., Christensen, T.A. & Hildebrand, J.G. Temporal tuning of odor responses
+in pheromone-responsive projection neurons in the brain of the sphinx moth Manduca
+sexta. J. Comp. Neurol. 409, 1–12 (1999).
+35. Vickers, N.J., Christensen, T.A., Baker, T.C. & Hildebrand, J.G. Odour-plume dynamics
+influence the brain’s olfactory code. Nature 410, 466–470 (2001).
+36. Vickers, N.J., Christensen, T.A. & Hildebrand, J.G. Combinatorial odor discrimination in
+the brain: attractive and antagonist odor blends are represented in distinct combinations
+of uniquely identifiable glomeruli. J. Comp. Neurol. 400, 35–56 (1998).
+37. Willis, M.A. & Avondet, J.L. Odor-modulated orientation in walking male cockroaches
+Periplaneta americana, and the effects of odor plumes of different structure. J. Exp. Biol.
+208, 721–735 (2005).
+38. Justus, K.A. & Carde, R.T. Flight behaviour of males of two moths, Cadra cautella and
+Pectinophora gossypiella, in homogeneous clouds of pheromone. Physiol. Entomol. 27,
+67–75 (2002).
+39. Lemon, W.C. & Getz, W.M. Rate code input produces temporal code output from
+cockroach antennal lobes. Biosystems 58, 151–158 (2000).
+40. Jefferis, G.S. et al. Developmental origin of wiring specificity in the olfactory system of
+Drosophila. Development 131, 117–130 (2004).
+41. Ramaekers, A. et al. Glomerular maps without cellular redundancy at successive levels
+of the Drosophila larval olfactory circuit. Curr. Biol. 15, 982–992 (2005).
+42. Fontanini, A., Spano, P. & Bower, J.M. Ketamine-xylazine-induced slow (o1.5 Hz)
+oscillations in the rat piriform (olfactory) cortex are functionally correlated with respiration. J. Neurosci. 23, 7993–8001 (2003).
+43. Okada, J. & Toh, Y. Spatio-temporal patterns of antennal movements in the searching
+cockroach. J. Exp. Biol. 207, 3693–3706 (2004).
+44. Nowotny, T., Rabinovich, M.I., Huerta, R. & Abarbanel, H.D. Decoding temporal
+information through slow lateral excitation in the olfactory system of insects. J. Comput.
+Neurosci. 15, 271–281 (2003).
+45. Abraham, N.M. et al. Maintaining accuracy at the expense of speed: stimulus similarity
+defines odor discrimination time in mice. Neuron 44, 865–876 (2004).
+46. Bazhenov, M., Stopfer, M., Sejnowski, T.J. & Laurent, G. Fast odor learning improves reliability of odor responses in the locust antennal lobe. Neuron 46, 483–492
+(2005).
+47. Stopfer, M. & Laurent, G. Short-term memory in olfactory network dynamics. Nature
+402, 664–668 (1999).
+48. Pouzat, C., Mazor, O. & Laurent, G. Using noise signature to optimize spike-sorting
+and to assess neuronal classification quality. J. Neurosci. Methods 122, 43–57 (2002).
+49. Joliffe, I.T. Principal Component Analysis (Springer-Verlag, New York, 1986).
+
+1576
+
+VOLUME 8
+
+[
+
+NUMBER 11
+
+[
+
+NOVEMBER 2005 NATURE NEUROSCIENCE
+
+

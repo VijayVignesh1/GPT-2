@@ -1,0 +1,1185 @@
+COMPUTATIONAL NEUROSCIENCE: A BRIEF
+OVERVIEW
+Ali A. Minai
+Department of Electrical and Computer Engineering, University of Cincinnati, Cincinnati, Ohio, USA.
+Correspondence to: Dr. Ali A. Minai, Associate Professor of Electrical and Computer Engineering, University of Cincinnati,
+Cincinnati, OH 45221-0030, USA. Tel. +01-513-556-4783. Email: Ali.Minai@uc.edu
+ABSTRACT
+Computational and mathematical modeling is an increasingly useful approach for
+investigating the functionality of the nervous system. Though such modeling has been
+used for decades, recent advances in computational power and numerical techniques have
+greatly expanded its scope, with a corresponding increase in research activity. This paper
+presents a brief – and necessarily incomplete – review of methods and applications in
+computational neuroscience.
+Computational neuroscience refers to the use of mathematical and computational models
+in the study of neural systems. It is part of the larger – increasingly active – discipline of
+computational biology, which applies computational modeling to all aspects of biological
+organisms. Quantitative modeling has been a key component of research in neuroscience
+for many decades. Indeed, one of the most celebrated achievements in the field – the
+Hodgkin-Huxley model for the generation of action potentials1
+ – was a triumph of the
+quantitative approach. Also, much of what is understood about the functionality of the
+visual, auditory and olfactory systems, as well as the neural basis of learning and
+memory, has been informed by mathematical and computational modeling. Nevertheless,
+it is fair to say that, until recently, computational modeling represented only a small part
+of the total research effort in neuroscience, which has traditionally been dominated by
+experimental studies. This has begun to change for several reasons which are discussed in
+the next section. The recent move towards computational modeling has opened up new
+directions of research, and allowed investigation of issues beyond those that are
+accessible to direct experimental study. More importantly, it has brought new ideas from
+fields such as statistical physics, information theory, nonlinear systems theory and
+engineering into neuroscience, providing a richer conceptual framework for answering
+the most difficult fundamental questions in the field. This overview discusses the
+motivation for the use of computational modeling in neuroscience, briefly describes some
+of the approaches, and looks at a few areas where these approaches have been fruitful.
+Several excellent texts providing details of methods and applications in computational
+neuroscience are now available.2,3,4,5,6,7,8,9,10,11
+ 
+MOTIVATION
+The primary motivation for using computational modeling is, of course, to understand the
+behavior of the system under study using mathematical analysis and computer simulation.
+This is certainly the case in neuroscience. However, the application of computational
+modeling to living systems – and especially to the nervous system – is significant
+because, unlike many physical systems where such modeling is used (e.g., planetary
+systems, fluid flows, mechanical devices, structures, etc.), biological systems can be seen
+explicitly as processors of information. Thus, computational models in these systems are
+not just tools for calculation or prediction, but often elucidate essential functionality. In
+the case of neuroscience, this can be seen in terms of two related roles served by
+computational modeling. These are: 1) Determining what the various parts of the nervous
+system do; and 2) Determining how they do it. Each of these is discussed next.
+Obtaining a Functional Description of the Nervous System
+Experimental studies of the nervous system at all levels – sub-cellular, cellular and
+systemic – are critical for understanding the anatomical structures and physiological
+processes of the system, but these observations must then be organized into a coherent
+model of system functionality. This is only possible if the appropriate conceptual
+elements for such a functional description are available. Psychologists and neurologists
+have traditionally used performance (or its deficits) as the basis for assigning
+functionality to components of the nervous system, which has produced useful
+qualitative and phenomenological models. These are often sufficient for clinical
+purposes, but provide only limited understanding of the system per se. An alternative (or
+complementary) approach is provided by viewing the nervous system as acquiring,
+transforming, storing and using information to control an extremely complex system –
+the body – embedded in a complex dynamic environment. In this view, the functionality
+of the system emerges from lower level phenomena such as membrane potential
+dynamics, dendritic current flows, channel kinetics, synaptic plasticity, etc., much as the
+functionality of a computer emerges from the currents and voltages in its components.
+As with the computer, the emergent functionality of the nervous system depends on the
+underlying phenomena but cannot be described entirely in their terms. To truly
+understand this functionality, it is necessary to relate the concrete phenomena measured
+by experiments to the abstractions of information processing – and ultimately to the
+phenomena of cognition and behavior. Computational modeling does this by providing a
+well-developed formalism relating signals and information. Through such modeling,
+mathematical and computational can be applied directly to the nervous system, leading
+to a coherent quantitative and testable functional description of the brain rather than a
+qualitative model or a compendium of observations. 
+Elucidating the Physical Basis of Nervous System Functionality
+The nervous system processes information at many scales, ranging from molecules to
+large networks comprising millions of neurons. For the information-based model of
+nervous system functionality to work, it is essential to explain how phenomena at each
+level arise from those at lower levels, e.g., how the recognition of objects in the visual
+field relates to signals generated by visual system neurons, or how the activity of
+individual motor neurons produces smooth limb trajectories. Unfortunately,
+experimental methods often do not provide the data necessary for this. In particular, the
+data needed to understand how networks of neurons process information collectively is
+very difficult to obtain. Current technology allows in vivo access to the nervous system
+mainly at the extremes: high resolution intracellular and extracellular data through single
+electrode recordings, and low resolution regional activity data through functional
+magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). Though
+electrode arrays12 are now fairly widely used, they still provide extracellular access only
+to a few hundred neurons at best. However, most functional networks in areas such as
+the hippocampus and cerebellum (two of the better studied regions) comprise anywhere
+from a few hundred thousand to several million cells. Information processing in these
+networks occurs through self-organized dynamic patterns of activity spanning large parts
+of the system.12,13,14,15,16,17 These emergent patterns can no more be understood by
+looking at the activity of individual cells (or even a few hundred cells) than the meaning
+of a book discerned by reading individual letters. Nor can large-scale data from fMRI
+studies supply the resolution necessary to see these patterns and relate them to
+interactions between cells. Computational modeling provides a way out of this dilemma
+by allowing the study of network models – as large as desired – constructed using
+neuron models that are themselves based on cell-level data obtained from
+experiments.18,2,3,4,5,9,10 These model networks can be simulated computationally under
+a variety of situations to give insight into how the corresponding networks in the brain
+might work. Specific issues such as the effect of synaptic modification, modulation by
+external signals, or the significance of particular connectivity patterns, can be studied,
+and hypotheses that cannot be tested directly can be provisionally validated or rejected
+in simulation. In many cases, models are becoming an indispensable tool in the
+hypothesize-and-test loop of neuroscience . Computational models allow investigators to
+try out their “what-if” intuitions in simulation, leading to better hypotheses and better
+designed experiments with greater likelihood of success. Of course, the quality of the
+results depends on the quality of the models, but the models have become increasingly
+good with advances in numerical techniques, computational power and experimental
+methods.5,10
+
+As the focus of interest in neuroscience moves from phenomena to functionality,
+computational modeling is also being used to address previously inaccessible problems
+such as the neural basis of cognition and even consciousness.20,21,11 Issues of
+representation, intention and executive control are being explored at the interface of
+neuroscience and artificial intelligence,22 and the understanding of the brain as an
+extremely sophisticated information processing system continues to advance. 
+METHODS
+Computational neuroscience is an extensive discipline encompassing many approaches.
+This overview only considers two principal categories of methods that account for most
+of the research in the field. These are: 1) Single neuron models; and 2) Network models.
+Network models use the neuron models, often in their simpler forms.
+Single Neuron Models
+A large number of models have been proposed for modeling the behavior of single
+neurons, ranging from the extremely complex to the extremely simple (or simplistic).
+However, it is useful to identify the following broad classes:
+1. Compartmental Models: This is the most detailed class of neuron models, where the
+cell is modeled as a set of compartments, each representing a small patch of the cell
+membrane assumed to be isopotential (i.e., having a uniform membrane potential).3
+Each dendritic compartment is modeled as an electrical circuit (Figure 1) with the
+equation:
+[ ]
+R
+V V
+g t E V
+dt
+dV C
+r
+j
+j j
+−
+= ∑ ( (1) ) − +
+where V is the membrane potential, Vr is the resting membrane potential, R is the passive
+membrane resistance of the patch, C is its capacitance, Ej
+ is the reversal potential of
+synapse j on the path, and gj
+ (t) is the time-varying conductance of synapse j. The
+synaptic conductance undergoes a transient change following the arrival of each action
+potential spike at the pre-synaptic terminal, producing a post-synaptic potential (PSP) of
+the appropriate polarity. The term dV/dt represents the rate of change for V with respect
+to COMPUTATIONAL NEUROSCIENCE: A BRIEF
+OVERVIEW
+Ali A. Minai
+Department of Electrical and Computer Engineering, University of Cincinnati, Cincinnati, Ohio, USA.
+Correspondence to: Dr. Ali A. Minai, Associate Professor of Electrical and Computer Engineering, University of Cincinnati,
+Cincinnati, OH 45221-0030, USA. Tel. +01-513-556-4783. Email: Ali.Minai@uc.edu
+ABSTRACT
+Computational and mathematical modeling is an increasingly useful approach for
+investigating the functionality of the nervous system. Though such modeling has been
+used for decades, recent advances in computational power and numerical techniques have
+greatly expanded its scope, with a corresponding increase in research activity. This paper
+presents a brief – and necessarily incomplete – review of methods and applications in
+computational neuroscience.
+Computational neuroscience refers to the use of mathematical and computational models
+in the study of neural systems. It is part of the larger – increasingly active – discipline of
+computational biology, which applies computational modeling to all aspects of biological
+organisms. Quantitative modeling has been a key component of research in neuroscience
+for many decades. Indeed, one of the most celebrated achievements in the field – the
+Hodgkin-Huxley model for the generation of action potentials1
+ – was a triumph of the
+quantitative approach. Also, much of what is understood about the functionality of the
+visual, auditory and olfactory systems, as well as the neural basis of learning and
+memory, has been informed by mathematical and computational modeling. Nevertheless,
+it is fair to say that, until recently, computational modeling represented only a small part
+of the total research effort in neuroscience, which has traditionally been dominated by
+experimental studies. This has begun to change for several reasons which are discussed in
+the next section. The recent move towards computational modeling has opened up new
+directions of research, and allowed investigation of issues beyond those that are
+accessible to direct experimental study. More importantly, it has brought new ideas from
+fields such as statistical physics, information theory, nonlinear systems theory and
+engineering into neuroscience, providing a richer conceptual framework for answering
+the most difficult fundamental questions in the field. This overview discusses the
+motivation for the use of computational modeling in neuroscience, briefly describes some
+of the approaches, and looks at a few areas where these approaches have been fruitful.
+Several excellent texts providing details of methods and applications in computational
+neuroscience are now available.2,3,4,5,6,7,8,9,10,11
+ 
+MOTIVATION
+The primary motivation for using computational modeling is, of course, to understand the
+behavior of the system under study using mathematical analysis and computer simulation.
+This is certainly the case in neuroscience. However, the application of computational
+modeling to living systems – and especially to the nervous system – is significant
+because, unlike many physical systems where such modeling is used (e.g., planetary
+systems, fluid flows, mechanical devices, structures, etc.), biological systems can be seen
+explicitly as processors of information. Thus, computational models in these systems are
+not just tools for calculation or prediction, but often elucidate essential functionality. In
+the case of neuroscience, this can be seen in terms of two related roles served by
+computational modeling. These are: 1) Determining what the various parts of the nervous
+system do; and 2) Determining how they do it. Each of these is discussed next.
+Obtaining a Functional Description of the Nervous System
+Experimental studies of the nervous system at all levels – sub-cellular, cellular and
+systemic – are critical for understanding the anatomical structures and physiological
+processes of the system, but these observations must then be organized into a coherent
+model of system functionality. This is only possible if the appropriate conceptual
+elements for such a functional description are available. Psychologists and neurologists
+have traditionally used performance (or its deficits) as the basis for assigning
+functionality to components of the nervous system, which has produced useful
+qualitative and phenomenological models. These are often sufficient for clinical
+purposes, but provide only limited understanding of the system per se. An alternative (or
+complementary) approach is provided by viewing the nervous system as acquiring,
+transforming, storing and using information to control an extremely complex system –
+the body – embedded in a complex dynamic environment. In this view, the functionality
+of the system emerges from lower level phenomena such as membrane potential
+dynamics, dendritic current flows, channel kinetics, synaptic plasticity, etc., much as the
+functionality of a computer emerges from the currents and voltages in its components.
+As with the computer, the emergent functionality of the nervous system depends on the
+underlying phenomena but cannot be described entirely in their terms. To truly
+understand this functionality, it is necessary to relate the concrete phenomena measured
+by experiments to the abstractions of information processing – and ultimately to the
+phenomena of cognition and behavior. Computational modeling does this by providing a
+well-developed formalism relating signals and information. Through such modeling,
+mathematical and computational can be applied directly to the nervous system, leading
+to a coherent quantitative and testable functional description of the brain rather than a
+qualitative model or a compendium of observations. 
+Elucidating the Physical Basis of Nervous System Functionality
+The nervous system processes information at many scales, ranging from molecules to
+large networks comprising millions of neurons. For the information-based model of
+nervous system functionality to work, it is essential to explain how phenomena at each
+level arise from those at lower levels, e.g., how the recognition of objects in the visual
+field relates to signals generated by visual system neurons, or how the activity of
+individual motor neurons produces smooth limb trajectories. Unfortunately,
+experimental methods often do not provide the data necessary for this. In particular, the
+data needed to understand how networks of neurons process information collectively is
+very difficult to obtain. Current technology allows in vivo access to the nervous system
+mainly at the extremes: high resolution intracellular and extracellular data through single
+electrode recordings, and low resolution regional activity data through functional
+magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). Though
+electrode arrays12 are now fairly widely used, they still provide extracellular access only
+to a few hundred neurons at best. However, most functional networks in areas such as
+the hippocampus and cerebellum (two of the better studied regions) comprise anywhere
+from a few hundred thousand to several million cells. Information processing in these
+networks occurs through self-organized dynamic patterns of activity spanning large parts
+of the system.12,13,14,15,16,17 These emergent patterns can no more be understood by
+looking at the activity of individual cells (or even a few hundred cells) than the meaning
+of a book discerned by reading individual letters. Nor can large-scale data from fMRI
+studies supply the resolution necessary to see these patterns and relate them to
+interactions between cells. Computational modeling provides a way out of this dilemma
+by allowing the study of network models – as large as desired – constructed using
+neuron models that are themselves based on cell-level data obtained from
+experiments.18,2,3,4,5,9,10 These model networks can be simulated computationally under
+a variety of situations to give insight into how the corresponding networks in the brain
+might work. Specific issues such as the effect of synaptic modification, modulation by
+external signals, or the significance of particular connectivity patterns, can be studied,
+and hypotheses that cannot be tested directly can be provisionally validated or rejected
+in simulation. In many cases, models are becoming an indispensable tool in the
+hypothesize-and-test loop of neuroscience . Computational models allow investigators to
+try out their “what-if” intuitions in simulation, leading to better hypotheses and better
+designed experiments with greater likelihood of success. Of course, the quality of the
+results depends on the quality of the models, but the models have become increasingly
+good with advances in numerical techniques, computational power and experimental
+methods.5,10
+
+As the focus of interest in neuroscience moves from phenomena to functionality,
+computational modeling is also being used to address previously inaccessible problems
+such as the neural basis of cognition and even consciousness.20,21,11 Issues of
+representation, intention and executive control are being explored at the interface of
+neuroscience and artificial intelligence,22 and the understanding of the brain as an
+extremely sophisticated information processing system continues to advance. 
+METHODS
+Computational neuroscience is an extensive discipline encompassing many approaches.
+This overview only considers two principal categories of methods that account for most
+of the research in the field. These are: 1) Single neuron models; and 2) Network models.
+Network models use the neuron models, often in their simpler forms.
+Single Neuron Models
+A large number of models have been proposed for modeling the behavior of single
+neurons, ranging from the extremely complex to the extremely simple (or simplistic).
+However, it is useful to identify the following broad classes:
+1. Compartmental Models: This is the most detailed class of neuron models, where the
+cell is modeled as a set of compartments, each representing a small patch of the cell
+membrane assumed to be isopotential (i.e., having a uniform membrane potential).3
+Each dendritic compartment is modeled as an electrical circuit (Figure 1) with the
+equation:
+[ ]
+R
+V V
+g t E V
+dt
+dV C
+r
+j
+j j
+−
+= ∑ ( (1) ) − +
+where V is the membrane potential, Vr is the resting membrane potential, R is the passive
+membrane resistance of the patch, C is its capacitance, Ej
+ is the reversal potential of
+synapse j on the path, and gj
+ (t) is the time-varying conductance of synapse j. The
+synaptic conductance undergoes a transient change following the arrival of each action
+potential spike at the pre-synaptic terminal, producing a post-synaptic potential (PSP) of
+the appropriate polarity. The term dV/dt represents the rate of change for V with respect
+to COMPUTATIONAL NEUROSCIENCE: A BRIEF
+OVERVIEW
+Ali A. Minai
+Department of Electrical and Computer Engineering, University of Cincinnati, Cincinnati, Ohio, USA.
+Correspondence to: Dr. Ali A. Minai, Associate Professor of Electrical and Computer Engineering, University of Cincinnati,
+Cincinnati, OH 45221-0030, USA. Tel. +01-513-556-4783. Email: Ali.Minai@uc.edu
+ABSTRACT
+Computational and mathematical modeling is an increasingly useful approach for
+investigating the functionality of the nervous system. Though such modeling has been
+used for decades, recent advances in computational power and numerical techniques have
+greatly expanded its scope, with a corresponding increase in research activity. This paper
+presents a brief – and necessarily incomplete – review of methods and applications in
+computational neuroscience.
+Computational neuroscience refers to the use of mathematical and computational models
+in the study of neural systems. It is part of the larger – increasingly active – discipline of
+computational biology, which applies computational modeling to all aspects of biological
+organisms. Quantitative modeling has been a key component of research in neuroscience
+for many decades. Indeed, one of the most celebrated achievements in the field – the
+Hodgkin-Huxley model for the generation of action potentials1
+ – was a triumph of the
+quantitative approach. Also, much of what is understood about the functionality of the
+visual, auditory and olfactory systems, as well as the neural basis of learning and
+memory, has been informed by mathematical and computational modeling. Nevertheless,
+it is fair to say that, until recently, computational modeling represented only a small part
+of the total research effort in neuroscience, which has traditionally been dominated by
+experimental studies. This has begun to change for several reasons which are discussed in
+the next section. The recent move towards computational modeling has opened up new
+directions of research, and allowed investigation of issues beyond those that are
+accessible to direct experimental study. More importantly, it has brought new ideas from
+fields such as statistical physics, information theory, nonlinear systems theory and
+engineering into neuroscience, providing a richer conceptual framework for answering
+the most difficult fundamental questions in the field. This overview discusses the
+motivation for the use of computational modeling in neuroscience, briefly describes some
+of the approaches, and looks at a few areas where these approaches have been fruitful.
+Several excellent texts providing details of methods and applications in computational
+neuroscience are now available.2,3,4,5,6,7,8,9,10,11
+ 
+MOTIVATION
+The primary motivation for using computational modeling is, of course, to understand the
+behavior of the system under study using mathematical analysis and computer simulation.
+This is certainly the case in neuroscience. However, the application of computational
+modeling to living systems – and especially to the nervous system – is significant
+because, unlike many physical systems where such modeling is used (e.g., planetary
+systems, fluid flows, mechanical devices, structures, etc.), biological systems can be seen
+explicitly as processors of information. Thus, computational models in these systems are
+not just tools for calculation or prediction, but often elucidate essential functionality. In
+the case of neuroscience, this can be seen in terms of two related roles served by
+computational modeling. These are: 1) Determining what the various parts of the nervous
+system do; and 2) Determining how they do it. Each of these is discussed next.
+Obtaining a Functional Description of the Nervous System
+Experimental studies of the nervous system at all levels – sub-cellular, cellular and
+systemic – are critical for understanding the anatomical structures and physiological
+processes of the system, but these observations must then be organized into a coherent
+model of system functionality. This is only possible if the appropriate conceptual
+elements for such a functional description are available. Psychologists and neurologists
+have traditionally used performance (or its deficits) as the basis for assigning
+functionality to components of the nervous system, which has produced useful
+qualitative and phenomenological models. These are often sufficient for clinical
+purposes, but provide only limited understanding of the system per se. An alternative (or
+complementary) approach is provided by viewing the nervous system as acquiring,
+transforming, storing and using information to control an extremely complex system –
+the body – embedded in a complex dynamic environment. In this view, the functionality
+of the system emerges from lower level phenomena such as membrane potential
+dynamics, dendritic current flows, channel kinetics, synaptic plasticity, etc., much as the
+functionality of a computer emerges from the currents and voltages in its components.
+As with the computer, the emergent functionality of the nervous system depends on the
+underlying phenomena but cannot be described entirely in their terms. To truly
+understand this functionality, it is necessary to relate the concrete phenomena measured
+by experiments to the abstractions of information processing – and ultimately to the
+phenomena of cognition and behavior. Computational modeling does this by providing a
+well-developed formalism relating signals and information. Through such modeling,
+mathematical and computational can be applied directly to the nervous system, leading
+to a coherent quantitative and testable functional description of the brain rather than a
+qualitative model or a compendium of observations. 
+Elucidating the Physical Basis of Nervous System Functionality
+The nervous system processes information at many scales, ranging from molecules to
+large networks comprising millions of neurons. For the information-based model of
+nervous system functionality to work, it is essential to explain how phenomena at each
+level arise from those at lower levels, e.g., how the recognition of objects in the visual
+field relates to signals generated by visual system neurons, or how the activity of
+individual motor neurons produces smooth limb trajectories. Unfortunately,
+experimental methods often do not provide the data necessary for this. In particular, the
+data needed to understand how networks of neurons process information collectively is
+very difficult to obtain. Current technology allows in vivo access to the nervous system
+mainly at the extremes: high resolution intracellular and extracellular data through single
+electrode recordings, and low resolution regional activity data through functional
+magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). Though
+electrode arrays12 are now fairly widely used, they still provide extracellular access only
+to a few hundred neurons at best. However, most functional networks in areas such as
+the hippocampus and cerebellum (two of the better studied regions) comprise anywhere
+from a few hundred thousand to several million cells. Information processing in these
+networks occurs through self-organized dynamic patterns of activity spanning large parts
+of the system.12,13,14,15,16,17 These emergent patterns can no more be understood by
+looking at the activity of individual cells (or even a few hundred cells) than the meaning
+of a book discerned by reading individual letters. Nor can large-scale data from fMRI
+studies supply the resolution necessary to see these patterns and relate them to
+interactions between cells. Computational modeling provides a way out of this dilemma
+by allowing the study of network models – as large as desired – constructed using
+neuron models that are themselves based on cell-level data obtained from
+experiments.18,2,3,4,5,9,10 These model networks can be simulated computationally under
+a variety of situations to give insight into how the corresponding networks in the brain
+might work. Specific issues such as the effect of synaptic modification, modulation by
+external signals, or the significance of particular connectivity patterns, can be studied,
+and hypotheses that cannot be tested directly can be provisionally validated or rejected
+in simulation. In many cases, models are becoming an indispensable tool in the
+hypothesize-and-test loop of neuroscience . Computational models allow investigators to
+try out their “what-if” intuitions in simulation, leading to better hypotheses and better
+designed experiments with greater likelihood of success. Of course, the quality of the
+results depends on the quality of the models, but the models have become increasingly
+good with advances in numerical techniques, computational power and experimental
+methods.5,10
+
+As the focus of interest in neuroscience moves from phenomena to functionality,
+computational modeling is also being used to address previously inaccessible problems
+such as the neural basis of cognition and even consciousness.20,21,11 Issues of
+representation, intention and executive control are being explored at the interface of
+neuroscience and artificial intelligence,22 and the understanding of the brain as an
+extremely sophisticated information processing system continues to advance. 
+METHODS
+Computational neuroscience is an extensive discipline encompassing many approaches.
+This overview only considers two principal categories of methods that account for most
+of the research in the field. These are: 1) Single neuron models; and 2) Network models.
+Network models use the neuron models, often in their simpler forms.
+Single Neuron Models
+A large number of models have been proposed for modeling the behavior of single
+neurons, ranging from the extremely complex to the extremely simple (or simplistic).
+However, it is useful to identify the following broad classes:
+1. Compartmental Models: This is the most detailed class of neuron models, where the
+cell is modeled as a set of compartments, each representing a small patch of the cell
+membrane assumed to be isopotential (i.e., having a uniform membrane potential).3
+Each dendritic compartment is modeled as an electrical circuit (Figure 1) with the
+equation:
+[ ]
+R
+V V
+g t E V
+dt
+dV C
+r
+j
+j j
+−
+= ∑ ( (1) ) − +
+where V is the membrane potential, Vr is the resting membrane potential, R is the passive
+membrane resistance of the patch, C is its capacitance, Ej
+ is the reversal potential of
+synapse j on the path, and gj
+ (t) is the time-varying conductance of synapse j. The
+synaptic conductance undergoes a transient change following the arrival of each action
+potential spike at the pre-synaptic terminal, producing a post-synaptic potential (PSP) of
+the appropriate polarity. The term dV/dt represents the rate of change for V with respect
+to COMPUTATIONAL NEUROSCIENCE: A BRIEF
+OVERVIEW
+Ali A. Minai
+Department of Electrical and Computer Engineering, University of Cincinnati, Cincinnati, Ohio, USA.
+Correspondence to: Dr. Ali A. Minai, Associate Professor of Electrical and Computer Engineering, University of Cincinnati,
+Cincinnati, OH 45221-0030, USA. Tel. +01-513-556-4783. Email: Ali.Minai@uc.edu
+ABSTRACT
+Computational and mathematical modeling is an increasingly useful approach for
+investigating the functionality of the nervous system. Though such modeling has been
+used for decades, recent advances in computational power and numerical techniques have
+greatly expanded its scope, with a corresponding increase in research activity. This paper
+presents a brief – and necessarily incomplete – review of methods and applications in
+computational neuroscience.
+Computational neuroscience refers to the use of mathematical and computational models
+in the study of neural systems. It is part of the larger – increasingly active – discipline of
+computational biology, which applies computational modeling to all aspects of biological
+organisms. Quantitative modeling has been a key component of research in neuroscience
+for many decades. Indeed, one of the most celebrated achievements in the field – the
+Hodgkin-Huxley model for the generation of action potentials1
+ – was a triumph of the
+quantitative approach. Also, much of what is understood about the functionality of the
+visual, auditory and olfactory systems, as well as the neural basis of learning and
+memory, has been informed by mathematical and computational modeling. Nevertheless,
+it is fair to say that, until recently, computational modeling represented only a small part
+of the total research effort in neuroscience, which has traditionally been dominated by
+experimental studies. This has begun to change for several reasons which are discussed in
+the next section. The recent move towards computational modeling has opened up new
+directions of research, and allowed investigation of issues beyond those that are
+accessible to direct experimental study. More importantly, it has brought new ideas from
+fields such as statistical physics, information theory, nonlinear systems theory and
+engineering into neuroscience, providing a richer conceptual framework for answering
+the most difficult fundamental questions in the field. This overview discusses the
+motivation for the use of computational modeling in neuroscience, briefly describes some
+of the approaches, and looks at a few areas where these approaches have been fruitful.
+Several excellent texts providing details of methods and applications in computational
+neuroscience are now available.2,3,4,5,6,7,8,9,10,11
+ 
+MOTIVATION
+The primary motivation for using computational modeling is, of course, to understand the
+behavior of the system under study using mathematical analysis and computer simulation.
+This is certainly the case in neuroscience. However, the application of computational
+modeling to living systems – and especially to the nervous system – is significant
+because, unlike many physical systems where such modeling is used (e.g., planetary
+systems, fluid flows, mechanical devices, structures, etc.), biological systems can be seen
+explicitly as processors of information. Thus, computational models in these systems are
+not just tools for calculation or prediction, but often elucidate essential functionality. In
+the case of neuroscience, this can be seen in terms of two related roles served by
+computational modeling. These are: 1) Determining what the various parts of the nervous
+system do; and 2) Determining how they do it. Each of these is discussed next.
+Obtaining a Functional Description of the Nervous System
+Experimental studies of the nervous system at all levels – sub-cellular, cellular and
+systemic – are critical for understanding the anatomical structures and physiological
+processes of the system, but these observations must then be organized into a coherent
+model of system functionality. This is only possible if the appropriate conceptual
+elements for such a functional description are available. Psychologists and neurologists
+have traditionally used performance (or its deficits) as the basis for assigning
+functionality to components of the nervous system, which has produced useful
+qualitative and phenomenological models. These are often sufficient for clinical
+purposes, but provide only limited understanding of the system per se. An alternative (or
+complementary) approach is provided by viewing the nervous system as acquiring,
+transforming, storing and using information to control an extremely complex system –
+the body – embedded in a complex dynamic environment. In this view, the functionality
+of the system emerges from lower level phenomena such as membrane potential
+dynamics, dendritic current flows, channel kinetics, synaptic plasticity, etc., much as the
+functionality of a computer emerges from the currents and voltages in its components.
+As with the computer, the emergent functionality of the nervous system depends on the
+underlying phenomena but cannot be described entirely in their terms. To truly
+understand this functionality, it is necessary to relate the concrete phenomena measured
+by experiments to the abstractions of information processing – and ultimately to the
+phenomena of cognition and behavior. Computational modeling does this by providing a
+well-developed formalism relating signals and information. Through such modeling,
+mathematical and computational can be applied directly to the nervous system, leading
+to a coherent quantitative and testable functional description of the brain rather than a
+qualitative model or a compendium of observations. 
+Elucidating the Physical Basis of Nervous System Functionality
+The nervous system processes information at many scales, ranging from molecules to
+large networks comprising millions of neurons. For the information-based model of
+nervous system functionality to work, it is essential to explain how phenomena at each
+level arise from those at lower levels, e.g., how the recognition of objects in the visual
+field relates to signals generated by visual system neurons, or how the activity of
+individual motor neurons produces smooth limb trajectories. Unfortunately,
+experimental methods often do not provide the data necessary for this. In particular, the
+data needed to understand how networks of neurons process information collectively is
+very difficult to obtain. Current technology allows in vivo access to the nervous system
+mainly at the extremes: high resolution intracellular and extracellular data through single
+electrode recordings, and low resolution regional activity data through functional
+magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). Though
+electrode arrays12 are now fairly widely used, they still provide extracellular access only
+to a few hundred neurons at best. However, most functional networks in areas such as
+the hippocampus and cerebellum (two of the better studied regions) comprise anywhere
+from a few hundred thousand to several million cells. Information processing in these
+networks occurs through self-organized dynamic patterns of activity spanning large parts
+of the system.12,13,14,15,16,17 These emergent patterns can no more be understood by
+looking at the activity of individual cells (or even a few hundred cells) than the meaning
+of a book discerned by reading individual letters. Nor can large-scale data from fMRI
+studies supply the resolution necessary to see these patterns and relate them to
+interactions between cells. Computational modeling provides a way out of this dilemma
+by allowing the study of network models – as large as desired – constructed using
+neuron models that are themselves based on cell-level data obtained from
+experiments.18,2,3,4,5,9,10 These model networks can be simulated computationally under
+a variety of situations to give insight into how the corresponding networks in the brain
+might work. Specific issues such as the effect of synaptic modification, modulation by
+external signals, or the significance of particular connectivity patterns, can be studied,
+and hypotheses that cannot be tested directly can be provisionally validated or rejected
+in simulation. In many cases, models are becoming an indispensable tool in the
+hypothesize-and-test loop of neuroscience . Computational models allow investigators to
+try out their “what-if” intuitions in simulation, leading to better hypotheses and better
+designed experiments with greater likelihood of success. Of course, the quality of the
+results depends on the quality of the models, but the models have become increasingly
+good with advances in numerical techniques, computational power and experimental
+methods.5,10
+
+As the focus of interest in neuroscience moves from phenomena to functionality,
+computational modeling is also being used to address previously inaccessible problems
+such as the neural basis of cognition and even consciousness.20,21,11 Issues of
+representation, intention and executive control are being explored at the interface of
+neuroscience and artificial intelligence,22 and the understanding of the brain as an
+extremely sophisticated information processing system continues to advance. 
+METHODS
+Computational neuroscience is an extensive discipline encompassing many approaches.
+This overview only considers two principal categories of methods that account for most
+of the research in the field. These are: 1) Single neuron models; and 2) Network models.
+Network models use the neuron models, often in their simpler forms.
+Single Neuron Models
+A large number of models have been proposed for modeling the behavior of single
+neurons, ranging from the extremely complex to the extremely simple (or simplistic).
+However, it is useful to identify the following broad classes:
+1. Compartmental Models: This is the most detailed class of neuron models, where the
+cell is modeled as a set of compartments, each representing a small patch of the cell
+membrane assumed to be isopotential (i.e., having a uniform membrane potential).3
+Each dendritic compartment is modeled as an electrical circuit (Figure 1) with the
+equation:
+[ ]
+R
+V V
+g t E V
+dt
+dV C
+r
+j
+j j
+−
+= ∑ ( (1) ) − +
+where V is the membrane potential, Vr is the resting membrane potential, R is the passive
+membrane resistance of the patch, C is its capacitance, Ej
+ is the reversal potential of
+synapse j on the path, and gj
+ (t) is the time-varying conductance of synapse j. The
+synaptic conductance undergoes a transient change following the arrival of each action
+potential spike at the pre-synaptic terminal, producing a post-synaptic potential (PSP) of
+the appropriate polarity. The term dV/dt represents the rate of change for V with respect
+to 
+COMPUTATIONAL NEUROSCIENCE: A BRIEF
+OVERVIEW
+Ali A. Minai
+Department of Electrical and Computer Engineering, University of Cincinnati, Cincinnati, Ohio, USA.
+Correspondence to: Dr. Ali A. Minai, Associate Professor of Electrical and Computer Engineering, University of Cincinnati,
+Cincinnati, OH 45221-0030, USA. Tel. +01-513-556-4783. Email: Ali.Minai@uc.edu
+ABSTRACT
+Computational and mathematical modeling is an increasingly useful approach for
+investigating the functionality of the nervous system. Though such modeling has been
+used for decades, recent advances in computational power and numerical techniques have
+greatly expanded its scope, with a corresponding increase in research activity. This paper
+presents a brief – and necessarily incomplete – review of methods and applications in
+computational neuroscience.
+Computational neuroscience refers to the use of mathematical and computational models
+in the study of neural systems. It is part of the larger – increasingly active – discipline of
+computational biology, which applies computational modeling to all aspects of biological
+organisms. Quantitative modeling has been a key component of research in neuroscience
+for many decades. Indeed, one of the most celebrated achievements in the field – the
+Hodgkin-Huxley model for the generation of action potentials1
+ – was a triumph of the
+quantitative approach. Also, much of what is understood about the functionality of the
+visual, auditory and olfactory systems, as well as the neural basis of learning and
+memory, has been informed by mathematical and computational modeling. Nevertheless,
+it is fair to say that, until recently, computational modeling represented only a small part
+of the total research effort in neuroscience, which has traditionally been dominated by
+experimental studies. This has begun to change for several reasons which are discussed in
+the next section. The recent move towards computational modeling has opened up new
+directions of research, and allowed investigation of issues beyond those that are
+accessible to direct experimental study. More importantly, it has brought new ideas from
+fields such as statistical physics, information theory, nonlinear systems theory and
+engineering into neuroscience, providing a richer conceptual framework for answering
+the most difficult fundamental questions in the field. This overview discusses the
+motivation for the use of computational modeling in neuroscience, briefly describes some
+of the approaches, and looks at a few areas where these approaches have been fruitful.
+Several excellent texts providing details of methods and applications in computational
+neuroscience are now available.2,3,4,5,6,7,8,9,10,11
+ 
+MOTIVATION
+The primary motivation for using computational modeling is, of course, to understand the
+behavior of the system under study using mathematical analysis and computer simulation.
+This is certainly the case in neuroscience. However, the application of computational
+modeling to living systems – and especially to the nervous system – is significant
+because, unlike many physical systems where such modeling is used (e.g., planetary
+systems, fluid flows, mechanical devices, structures, etc.), biological systems can be seen
+explicitly as processors of information. Thus, computational models in these systems are
+not just tools for calculation or prediction, but often elucidate essential functionality. In
+the case of neuroscience, this can be seen in terms of two related roles served by
+computational modeling. These are: 1) Determining what the various parts of the nervous
+system do; and 2) Determining how they do it. Each of these is discussed next.
+Obtaining a Functional Description of the Nervous System
+Experimental studies of the nervous system at all levels – sub-cellular, cellular and
+systemic – are critical for understanding the anatomical structures and physiological
+processes of the system, but these observations must then be organized into a coherent
+model of system functionality. This is only possible if the appropriate conceptual
+elements for such a functional description are available. Psychologists and neurologists
+have traditionally used performance (or its deficits) as the basis for assigning
+functionality to components of the nervous system, which has produced useful
+qualitative and phenomenological models. These are often sufficient for clinical
+purposes, but provide only limited understanding of the system per se. An alternative (or
+complementary) approach is provided by viewing the nervous system as acquiring,
+transforming, storing and using information to control an extremely complex system –
+the body – embedded in a complex dynamic environment. In this view, the functionality
+of the system emerges from lower level phenomena such as membrane potential
+dynamics, dendritic current flows, channel kinetics, synaptic plasticity, etc., much as the
+functionality of a computer emerges from the currents and voltages in its components.
+As with the computer, the emergent functionality of the nervous system depends on the
+underlying phenomena but cannot be described entirely in their terms. To truly
+understand this functionality, it is necessary to relate the concrete phenomena measured
+by experiments to the abstractions of information processing – and ultimately to the
+phenomena of cognition and behavior. Computational modeling does this by providing a
+well-developed formalism relating signals and information. Through such modeling,
+mathematical and computational can be applied directly to the nervous system, leading
+to a coherent quantitative and testable functional description of the brain rather than a
+qualitative model or a compendium of observations. 
+Elucidating the Physical Basis of Nervous System Functionality
+The nervous system processes information at many scales, ranging from molecules to
+large networks comprising millions of neurons. For the information-based model of
+nervous system functionality to work, it is essential to explain how phenomena at each
+level arise from those at lower levels, e.g., how the recognition of objects in the visual
+field relates to signals generated by visual system neurons, or how the activity of
+individual motor neurons produces smooth limb trajectories. Unfortunately,
+experimental methods often do not provide the data necessary for this. In particular, the
+data needed to understand how networks of neurons process information collectively is
+very difficult to obtain. Current technology allows in vivo access to the nervous system
+mainly at the extremes: high resolution intracellular and extracellular data through single
+electrode recordings, and low resolution regional activity data through functional
+magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). Though
+electrode arrays12 are now fairly widely used, they still provide extracellular access only
+to a few hundred neurons at best. However, most functional networks in areas such as
+the hippocampus and cerebellum (two of the better studied regions) comprise anywhere
+from a few hundred thousand to several million cells. Information processing in these
+networks occurs through self-organized dynamic patterns of activity spanning large parts
+of the system.12,13,14,15,16,17 These emergent patterns can no more be understood by
+looking at the activity of individual cells (or even a few hundred cells) than the meaning
+of a book discerned by reading individual letters. Nor can large-scale data from fMRI
+studies supply the resolution necessary to see these patterns and relate them to
+interactions between cells. Computational modeling provides a way out of this dilemma
+by allowing the study of network models – as large as desired – constructed using
+neuron models that are themselves based on cell-level data obtained from
+experiments.18,2,3,4,5,9,10 These model networks can be simulated computationally under
+a variety of situations to give insight into how the corresponding networks in the brain
+might work. Specific issues such as the effect of synaptic modification, modulation by
+external signals, or the significance of particular connectivity patterns, can be studied,
+and hypotheses that cannot be tested directly can be provisionally validated or rejected
+in simulation. In many cases, models are becoming an indispensable tool in the
+hypothesize-and-test loop of neuroscience . Computational models allow investigators to
+try out their “what-if” intuitions in simulation, leading to better hypotheses and better
+designed experiments with greater likelihood of success. Of course, the quality of the
+results depends on the quality of the models, but the models have become increasingly
+good with advances in numerical techniques, computational power and experimental
+methods.5,10
+
+As the focus of interest in neuroscience moves from phenomena to functionality,
+computational modeling is also being used to address previously inaccessible problems
+such as the neural basis of cognition and even consciousness.20,21,11 Issues of
+representation, intention and executive control are being explored at the interface of
+neuroscience and artificial intelligence,22 and the understanding of the brain as an
+extremely sophisticated information processing system continues to advance. 
+METHODS
+Computational neuroscience is an extensive discipline encompassing many approaches.
+This overview only considers two principal categories of methods that account for most
+of the research in the field. These are: 1) Single neuron models; and 2) Network models.
+Network models use the neuron models, often in their simpler forms.
+Single Neuron Models
+A large number of models have been proposed for modeling the behavior of single
+neurons, ranging from the extremely complex to the extremely simple (or simplistic).
+However, it is useful to identify the following broad classes:
+1. Compartmental Models: This is the most detailed class of neuron models, where the
+cell is modeled as a set of compartments, each representing a small patch of the cell
+membrane assumed to be isopotential (i.e., having a uniform membrane potential).3
+Each dendritic compartment is modeled as an electrical circuit (Figure 1) with the
+equation:
+[ ]
+R
+V V
+g t E V
+dt
+dV C
+r
+j
+j j
+−
+= ∑ ( (1) ) − +
+where V is the membrane potential, Vr is the resting membrane potential, R is the passive
+membrane resistance of the patch, C is its capacitance, Ej
+ is the reversal potential of
+synapse j on the path, and gj
+ (t) is the time-varying conductance of synapse j. The
+synaptic conductance undergoes a transient change following the arrival of each action
+potential spike at the pre-synaptic terminal, producing a post-synaptic potential (PSP) of
+the appropriate polarity. The term dV/dt represents the rate of change for V with respect
+to COMPUTATIONAL NEUROSCIENCE: A BRIEF
+OVERVIEW
+Ali A. Minai
+Department of Electrical and Computer Engineering, University of Cincinnati, Cincinnati, Ohio, USA.
+Correspondence to: Dr. Ali A. Minai, Associate Professor of Electrical and Computer Engineering, University of Cincinnati,
+Cincinnati, OH 45221-0030, USA. Tel. +01-513-556-4783. Email: Ali.Minai@uc.edu
+ABSTRACT
+Computational and mathematical modeling is an increasingly useful approach for
+investigating the functionality of the nervous system. Though such modeling has been
+used for decades, recent advances in computational power and numerical techniques have
+greatly expanded its scope, with a corresponding increase in research activity. This paper
+presents a brief – and necessarily incomplete – review of methods and applications in
+computational neuroscience.
+Computational neuroscience refers to the use of mathematical and computational models
+in the study of neural systems. It is part of the larger – increasingly active – discipline of
+computational biology, which applies computational modeling to all aspects of biological
+organisms. Quantitative modeling has been a key component of research in neuroscience
+for many decades. Indeed, one of the most celebrated achievements in the field – the
+Hodgkin-Huxley model for the generation of action potentials1
+ – was a triumph of the
+quantitative approach. Also, much of what is understood about the functionality of the
+visual, auditory and olfactory systems, as well as the neural basis of learning and
+memory, has been informed by mathematical and computational modeling. Nevertheless,
+it is fair to say that, until recently, computational modeling represented only a small part
+of the total research effort in neuroscience, which has traditionally been dominated by
+experimental studies. This has begun to change for several reasons which are discussed in
+the next section. The recent move towards computational modeling has opened up new
+directions of research, and allowed investigation of issues beyond those that are
+accessible to direct experimental study. More importantly, it has brought new ideas from
+fields such as statistical physics, information theory, nonlinear systems theory and
+engineering into neuroscience, providing a richer conceptual framework for answering
+the most difficult fundamental questions in the field. This overview discusses the
+motivation for the use of computational modeling in neuroscience, briefly describes some
+of the approaches, and looks at a few areas where these approaches have been fruitful.
+Several excellent texts providing details of methods and applications in computational
+neuroscience are now available.2,3,4,5,6,7,8,9,10,11
+ 
+MOTIVATION
+The primary motivation for using computational modeling is, of course, to understand the
+behavior of the system under study using mathematical analysis and computer simulation.
+This is certainly the case in neuroscience. However, the application of computational
+modeling to living systems – and especially to the nervous system – is significant
+because, unlike many physical systems where such modeling is used (e.g., planetary
+systems, fluid flows, mechanical devices, structures, etc.), biological systems can be seen
+explicitly as processors of information. Thus, computational models in these systems are
+not just tools for calculation or prediction, but often elucidate essential functionality. In
+the case of neuroscience, this can be seen in terms of two related roles served by
+computational modeling. These are: 1) Determining what the various parts of the nervous
+system do; and 2) Determining how they do it. Each of these is discussed next.
+Obtaining a Functional Description of the Nervous System
+Experimental studies of the nervous system at all levels – sub-cellular, cellular and
+systemic – are critical for understanding the anatomical structures and physiological
+processes of the system, but these observations must then be organized into a coherent
+model of system functionality. This is only possible if the appropriate conceptual
+elements for such a functional description are available. Psychologists and neurologists
+have traditionally used performance (or its deficits) as the basis for assigning
+functionality to components of the nervous system, which has produced useful
+qualitative and phenomenological models. These are often sufficient for clinical
+purposes, but provide only limited understanding of the system per se. An alternative (or
+complementary) approach is provided by viewing the nervous system as acquiring,
+transforming, storing and using information to control an extremely complex system –
+the body – embedded in a complex dynamic environment. In this view, the functionality
+of the system emerges from lower level phenomena such as membrane potential
+dynamics, dendritic current flows, channel kinetics, synaptic plasticity, etc., much as the
+functionality of a computer emerges from the currents and voltages in its components.
+As with the computer, the emergent functionality of the nervous system depends on the
+underlying phenomena but cannot be described entirely in their terms. To truly
+understand this functionality, it is necessary to relate the concrete phenomena measured
+by experiments to the abstractions of information processing – and ultimately to the
+phenomena of cognition and behavior. Computational modeling does this by providing a
+well-developed formalism relating signals and information. Through such modeling,
+mathematical and computational can be applied directly to the nervous system, leading
+to a coherent quantitative and testable functional description of the brain rather than a
+qualitative model or a compendium of observations. 
+Elucidating the Physical Basis of Nervous System Functionality
+The nervous system processes information at many scales, ranging from molecules to
+large networks comprising millions of neurons. For the information-based model of
+nervous system functionality to work, it is essential to explain how phenomena at each
+level arise from those at lower levels, e.g., how the recognition of objects in the visual
+field relates to signals generated by visual system neurons, or how the activity of
+individual motor neurons produces smooth limb trajectories. Unfortunately,
+experimental methods often do not provide the data necessary for this. In particular, the
+data needed to understand how networks of neurons process information collectively is
+very difficult to obtain. Current technology allows in vivo access to the nervous system
+mainly at the extremes: high resolution intracellular and extracellular data through single
+electrode recordings, and low resolution regional activity data through functional
+magnetic resonance imaging (fMRI) and magnetoencephalography (MEG). Though
+electrode arrays12 are now fairly widely used, they still provide extracellular access only
+to a few hundred neurons at best. However, most functional networks in areas such as
+the hippocampus and cerebellum (two of the better studied regions) comprise anywhere
+from a few hundred thousand to several million cells. Information processing in these
+networks occurs through self-organized dynamic patterns of activity spanning large parts
+of the system.12,13,14,15,16,17 These emergent patterns can no more be understood by
+looking at the activity of individual cells (or even a few hundred cells) than the meaning
+of a book discerned by reading individual letters. Nor can large-scale data from fMRI
+studies supply the resolution necessary to see these patterns and relate them to
+interactions between cells. Computational modeling provides a way out of this dilemma
+by allowing the study of network models – as large as desired – constructed using
+neuron models that are themselves based on cell-level data obtained from
+experiments.18,2,3,4,5,9,10 These model networks can be simulated computationally under
+a variety of situations to give insight into how the corresponding networks in the brain
+might work. Specific issues such as the effect of synaptic modification, modulation by
+external signals, or the significance of particular connectivity patterns, can be studied,
+and hypotheses that cannot be tested directly can be provisionally validated or rejected
+in simulation. In many cases, models are becoming an indispensable tool in the
+hypothesize-and-test loop of neuroscience . Computational models allow investigators to
+try out their “what-if” intuitions in simulation, leading to better hypotheses and better
+designed experiments with greater likelihood of success. Of course, the quality of the
+results depends on the quality of the models, but the models have become increasingly
+good with advances in numerical techniques, computational power and experimental
+methods.5,10
+
+As the focus of interest in neuroscience moves from phenomena to functionality,
+computational modeling is also being used to address previously inaccessible problems
+such as the neural basis of cognition and even consciousness.20,21,11 Issues of
+representation, intention and executive control are being explored at the interface of
+neuroscience and artificial intelligence,22 and the understanding of the brain as an
+extremely sophisticated information processing system continues to advance. 
+METHODS
+Computational neuroscience is an extensive discipline encompassing many approaches.
+This overview only considers two principal categories of methods that account for most
+of the research in the field. These are: 1) Single neuron models; and 2) Network models.
+Network models use the neuron models, often in their simpler forms.
+Single Neuron Models
+A large number of models have been proposed for modeling the behavior of single
+neurons, ranging from the extremely complex to the extremely simple (or simplistic).
+However, it is useful to identify the following broad classes:
+1. Compartmental Models: This is the most detailed class of neuron models, where the
+cell is modeled as a set of compartments, each representing a small patch of the cell
+membrane assumed to be isopotential (i.e., having a uniform membrane potential).3
+Each dendritic compartment is modeled as an electrical circuit (Figure 1) with the
+equation:
+[ ]
+R
+V V
+g t E V
+dt
+dV C
+r
+j
+j j
+−
+= ∑ ( (1) ) − +
+where V is the membrane potential, Vr is the resting membrane potential, R is the passive
+membrane resistance of the patch, C is its capacitance, Ej
+ is the reversal potential of
+synapse j on the path, and gj
+ (t) is the time-varying conductance of synapse j. The
+synaptic conductance undergoes a transient change following the arrival of each action
+potential spike at the pre-synaptic terminal, producing a post-synaptic potential (PSP) of
+the appropriate polarity. The term dV/dt represents the rate of change for V with respect
+to
+Inhibitory and excitatory synapses are handled naturally in this method by having
+opposite polarities of reversal potential. Dendritic trees with branching topologies are
+represented by individual compartments connected together by conductances. The
+theory of conduction in electrical cables provides a remarkably accurate model of
+dendritic conduction.23,24 The soma and the axon are also modeled using compartments,
+but each compartment corresponds to a Hodgkin-Huxley (H-H) model circuit1
+ with
+synaptic conductances replaced by active conductances corresponding to the various ion
+channels. Sometimes, simpler oscillator models of action potential generation, such as
+the Fitzhugh-Nagumo or the Morris-Lecar model, are used.3
+Compartmental models have been developed to include such details as dendritic delays,
+nonlinear synaptic interactions, receptor properties (e.g., NMDA vs. AMPA), spine
+geometries, neurotransmitter release dynamics, etc.3,4,5,10 Typically, simulations with
+compartmental models focus on single cells, or a small number of cells, though largescale models are becoming more common. An early example of successful
+compartmental models at the network level was the work of Traub and Miles on the
+hippocampus.19
+2. Integrate-and-Fire Models: These models are derived from the compartmental
+models by making three crucial simplifications: 1) The entire neuron is modeled by a
+single compartment, thus ignoring the cell’s geometry (and most other complexities); 2)
+Synapses are not modeled using ion channels (and their reversal potentials) but as
+nominal parameters; and 3) The generation of the action potential is modeled
+phenomenologically rather than by a H-H or oscillator model. A typical integrate-andfire model for the membrane potential of a neuron i would be:
+= − +∑ ∑ −
+k
+jk
+j
+ij
+i i w t t
+R
+V
+dt
+dV C δ ( ) (2)
+gexc (t)
+C
+ginh (t)
+Einh(t) Eexc(t)
+R V(t)
+Figure 1: Equivalent circuit model of a dendritic compartment.
+Excitatory and inhibitory conductances are shown separately with
+reversal potentials of opposite polarity.
+Vr
+where wij is the weight (efficacy) of the jth synapse, tjk is the time at which the kth spike
+arrives at synapse j, and δ(t) is the Dirac delta function representing the spike. Each time
+the membrane potential reaches a threshold Vth, neuron i fires a spike of its own.
+Integrate-and-fire models have been used most widely in network-level modeling of the
+nervous system.2,3,4,7,8,9,25 More complex versions where the neuron is represented by a
+full Hodgkin-Huxley type model instead of Eq. (2) are also used because they allow
+explicit study of specific ionic currents and their effects on cell behavior.3,9,26
+3. Rate Models: These models are a simplification of the integrate-and-fire models,
+where the spike train represented by ∑δ(t-tjk) is replaced by a continuous variable, fj(t),
+representing the spiking rate – or firing rate – of the pre-synaptic cell, j, at time t.
+Typically, the firing rate is a sigmoidal function of the cell’s membrane potential, for
+example:
+[ ]
+1
+( ) 1 exp( )
+−
+j = + − Vj
+f t λ (3)
+where λ is a parameter controlling the nonlinearity of the dependence. Rate models are
+much easier to simulate and analyze than integrate-and-fire models, and are widely used
+in neural network models.27,28,25
+
+4. Threshold Models: Finally, the simplest class of neuron models simply views neurons
+as all-or-none devices,29,30 essentially replacing the sigmoid function of Eq. (3) above
+with a binary threshold. A cell that is sufficiently excited thus has a nominal firing rate
+of 1 (active), while an insufficiently excited cell has a rate of 0 (inactive). Obviously,
+this is a gross simplification, but it allows the simulation and analysis of very large-scale
+networks, and can provide very valuable intuitive results regarding the collective
+behavior of such systems.31 The use of threshold models has also allowed the application
+of methods from statistical physics to analyze the dynamics of large-scale networks,
+which has been extremely fruitful.32
+
+Network Models
+Since most meaningful information processing in the nervous system occurs at the
+collective level, it is the behavior of networks rather than neurons that is of primary
+interest in explaining functionality. Anatomy obviously varies considerably across
+different neural regions, but two canonical types of network architectures have been
+identified as being of general interest because they occur in many systems. These are:
+1. Feed-Forward Networks: In this architecture, signals flow unidirectionally from one
+set of neurons to another without any feedback. While the presence of interneurons
+usually means that truly feed-forward architectures are rare in the brain, such networks
+often comprise the most important component of larger networks where feedback effects
+can be ignored or modeled separately. A well-known instance of a feed-forward network
+is Hubel and Wiesel’s model of feature detectors in simple cells and complex cells of the
+primary visual cortex 33,34 (see below). The projections in feed-forward networks can be 
+excitatory or inhibitory, and feed-forward inhibition represents an important mechanism
+to regulate neural activity.17 Figure 2 shows a network with the same set of pre-synaptic
+cells supplying monosynaptic feed-forward excitation and disynaptic feed-forward
+inhibition to a population of post-synaptic cells. Varying activity levels in the presynaptic population produce proportionate inhibition on the post-synaptic cells, thus
+maintaining relatively uniform sensitivity to excitatory inputs in the latter. Feed-forward
+networks are often used to model directed projections from the principal neurons of one
+area to another (e.g., from the entorhinal cortex to the hippocampus, or from the lateral
+geniculate nucleus (LGN) to the visual cortex).
+2. Recurrent Networks: This is the other major class of networks, where the outputs of
+cells in a layer feed back to the same cell population or to upstream populations. As
+more is learned about the anatomy of the nervous system, it is becoming increasingly
+clear that feedback projections play a role fully as important as the primary feed-forward
+connections, modulating, refining and transforming the flow of information in the
+forward path. The thalamocortical loop is a well-known (and widely modeled) example
+of a large-scale recurrent system in the brain.35 Another prominent example occurs in
+region CA3 of the mammalian hippocampus, which has been proposed as a model for
+associative memory.36 Indeed, the hippocampus shows several levels of recurrent
+connectivity, which has been used in several models of the system.19,37,38,39,40,41,42,43
+Recurrent networks have also been used to model short-term memory,44 and theoretical
+results from network models have been compared with data from the cortex.45 As with
+feed-forward networks, recurrent connectivity can be excitatory or inhibitory. Feedback
+inhibition is very important for sharpening the response of a neural population to
+improve discrimination in response. Figure 3 shows a network comprising two groups of
+excitatory neurons in a cell layer with recurrent self-excitation and recurrent mutual
+inhibition. When stimulated by an external input, the recurrent cross-inhibition forces
+the groups to compete, eventually focusing activity in one group. This is an example of a
+competitive “winner-take-all” (WTA) mechanism, and has been proposed in models of
+the prefrontal cortex 17,25,26 and the hippocampus.41 The WTA mechanism is also crucial
+for the tuning of feature-detectors in the visual system.8,16
+ISSUES AND APPLICATIONS
+Computational models have been used to address almost every issue of interest to
+neuroscientists – notably for elucidating the functionality of systems such as the
+hippocampus, cerebellum, sensory cortices, etc. 4,7,8,9,11,13,14,15,16,19,20,21 However, it is
+instructive to note some very fundamental issues where computational modeling has
+made a crucial difference. These are presented only as a sample, and do not represent
+anything close to an exhaustive list.
+Pre-Synaptic Cells
+Post-Synaptic Cells
+Inhibitory
+Interneurons
+Excitatory Synapse
+Inhibitory Synapse
+Figure 2: Feed-Forward Network 
+The Nature of Neural Coding
+Perhaps the most fundamental issue for a systemic understanding of neural functionality
+is the nature of neural coding. If the nervous system’s primary function is to process
+information, it is critical to understand how information is represented and
+communicated. In the simplest sense, neurons encode information in an all-or-none
+(binary) fashion with each action potential. However, a neuron’s output clearly
+represents a more informative signal, encoding the recent history of activity on its
+synapses. The debate on neural coding has focused mainly on two possibilities: 1) Rate
+coding, where information is represented by the average firing rate of the neuron over
+some suitable period, and 2) Temporal coding, where the specific timing of spikes
+carries information. Quantitative analysis and computational modeling have been used
+extensively to investigate this issue,46,47,48,49,2 with results suggesting the both types of
+coding are used in the brain to carry different types of information. A related issue is
+whether neurons use spatial or temporal correlations between spikes to encode
+information. There is evidence that populations of cortical neurons use synchrony for
+encoding,50,51,52 while location-coding cells of the hippocampus (place cells) use the
+phase of the background theta oscillation in its encoding mechanism.53 Both these
+phenomena have been modeled extensively.54,55,56,57,58,59
+Excitatory Module 1 Excitatory Module 2
+Inhibitory Module 1 Inhibitory Module 2
+External
+Stimulus
+Response 1 Response 2
+Figure 3: A competitive recurrent network.
+Excitatory Synapse
+Inhibitory Synapse 
+The Neural Basis of Learning
+Another key issue that has been investigated through modeling is whether and how
+synaptic modification underlies learning in the nervous system. Since the discovery of
+long-term potentiation (LTP)60 in synapses, it has become increasingly clear that change
+in synaptic efficacy based on correlation between the activities of the pre- and postsynaptic cells is a key component of learning, thus confirming a hypothesis first
+proposed by the psychologist Donald Hebb in 1949.61 With the rapid growth in
+experimental data,62,63,64 several computational models have been proposed for such
+“Hebbian” learning,65,66,67,68,69,70,37,71,72,73,74,75,76 and it remains one of the most actively
+investigated issues in neuroscience.
+Models of Memory
+If, as is widely held, patterns of activity across neural populations represent meaningful
+information (e.g., objects, concepts, identifiers, etc.), memory involves the persistence of
+these patterns. Most interest has focused on long-term memory, which is thought to be
+mediated by long-term potentiation (LTP) 60,62 and depression (LTD),63 and is critically
+dependent on the hippocampus.77,78 Recurrent networks in the hippocampus – especially
+the CA3 and CA1 regions – have been proposed as models of associative
+memory36,6,37,38,40,42,59 because such networks can sustain persistent patterns of activity
+and recall them when cued with partial patterns.27,31,32 Recently, researchers have also
+investigated short-term or working memory, which appears to involve the prefrontal
+cortex (PFC) and the hippocampus.17,79 The issue of short-term memory capacity – the
+well-known 7±2 rule, which states that approximately seven items can be held in
+working memory at a time – has been studied through computational modeling.43 It has
+been proposed that the PFC has a columnar structure similar to the visual cortex,17,52 and
+computational models have been used to study the functionality of such
+systems.80,81,82,83,84,25,45 Based on experimental data, a computational model of memory
+using a modular hierarchy has been proposed recently as a general framework for
+memory.18,85
+Visual Information Processing
+One of the earliest successful applications of computational modeling was in explaining
+the emergence of feature detectors in the early visual system. In their famous model,
+Hubel and Wiesel 33,34 showed how input from several centre-surround detectors in the
+lateral geniculate nucleus (LGN) could produce orientation-selective detectors in the
+simple cells of the visual cortex. Later work has built on these ideas to develop
+extremely accurate models of feature-based information extraction in the visual
+system.69,86,87,88,89 Computational modeling has also been used to explain the formation
+of orientation and ocular dominance columns in the visual cortex,16,90,91 and the
+processes of segmentation, edge-detection and object recognition.57 The olfactory and
+auditory systems have also seen extensive computational modeling. 
+Cognitive Control
+The capacity for exerting executive control over actions is a fundamental human ability,
+and one that is often impaired in diseases such as schizophrenia. It has long been known
+that the prefrontal cortex is involved in this function. As the functional anatomy and
+physiology of the PFC has become clearer,52 it has become possible to develop
+computational models of cognitive control that show how the PFC can, over time, learn
+“rules of behavior” to modulate reflexive or stereotypical motor responses generated by
+the brain, 52,25,92,93 These models use recurrent networks, LTP and competitive inhibition
+to account for the decision processes involved in control. In addition to elucidating an
+essential aspect of human behavior, such models also promise better understanding of
+mental illness.
+Models of Neurological Disorders
+Most serious neurological disorders are known or hypothesized to represent systemic
+functional disruptions, and therefore provide an ideal opportunity for useful
+computational modeling. By far the most widely modeled disorder is epilepsy, which is
+known to arise from pathological synchronized activity in the cortex or hippocampus.
+Several researchers have used computational models to investigate the underlying causes
+of this phenomenon,94,95,96,97,98 including disinhibition, synaptic modification,
+entrainment and anatomical changes. Alzheimer’s disease,99,100 schizophrenia,101,102 and
+other disorders have also been modeled.103,104
+
+Neuroengineering: Applied Computational Neuroscience
+The next frontier in the application of computational modeling in neuroscience is its use
+in actual devices that become part of the nervous system. As the information processing
+underlying cognition and sensorimotor control is understood better, deficits in these
+areas can be remedied by supplying the missing computation artificially. Research in
+this broad area has two major components. The first is brain-machine interfacting: the
+use of brain signals to control robotic devices such as artificial limbs 105,106 – an
+application of obvious utility for individuals with paralysis or amputation. An excellent
+review of the state-of-the art in this area is given by Lebedev and Nicolelis.107 The other,
+closely related, direction is that of neuroprosthetics: devices that can be implanted in the
+brain to replace the function of a neural organ such as the retina or some part of the
+cortex or hippocampus.108 These differ from implants such as those used to control
+seizures or Parkinsonism in that they actually provide the information processing
+function that the brain has lost. Though the field of neuroengineering (or bionics, as it is
+sometimes called in the popular press) is in its infancy, it is likely to provide the ultimate
+payoff from computational neuroscience’s view of the brain as an information
+processing system. 
+
+CONCLUSION
+As discussed above, computational modeling has been applied to many other issues and
+areas in neuroscience – far too numerous to even be listed in this brief review. Notable
+omissions include models of sensory systems, the motor system, cerebellum,
+hippocampus, basal ganglia, neuromodulatory mechanisms, attentional mechanisms,
+memory consolidation, fear conditioning, and numerous processes at the subcellular and
+molecular level. Several texts listed in the references below provide much more detailed
+information on methods and applications.2,3,4,5,6,7,8,9,10 With two very versatile and welldocumented simulation platforms – GENESIS 5
+ and NEURON 10 – available for
+modeling at all levels of detail, computational neuroscience is rapidly becoming an
+essential part of the larger neuroscientific enterprise
+References
+1. Hodgkin AL, Huxley AF. A quantitative description of membrane current and its
+application to conduction and excitation in nerve. J Physiol 1952; 117: 500-544.
+2. Rieke FM, Warland D, de Ruyter van Steveninck R, et al. Spikes: Exploring the
+Neural Code. 1997 Cambridge, MA: MIT Press.
+3. Koch C. Biophysics of Computation: Information Processing in Single Neurons.
+1998 New York: Oxford University Press.
+4. Koch C, Segev I (eds.). Methods in Neuronal Modeling: From Synapses to
+Networks. 1998 Cambridge, MA: MIT Press.
+5. Bower JM, Beeman D. The Book of GENESIS: Exploring Realistic Neural
+Models with the General Neural Simulation System. 1998; Santa Clara, CA:
+Telos.
+6. Rolls ET, Treves A. Neural Networks and Brain Function. 1998 New York:
+Oxford University Press.
+7. Abbott L, Sejnowski TJ (eds.). Neural Codes and Distributed Representations:
+Foundations of Neural Computation. 1999 Cambridge, MA: MIT Press.
+8. Dayan P, Abbott LF. Theoretical Neuroscience: Computational and
+Mathematical Modeling of Neural Systems. 2001 Cambridge, MA: MIT Press.
+9. Gerstner W, Kistler WM, Spiking Neuron Models: Single Neurons, Populations,
+Plasticity. 2002 Cambridge, UK: Cambridge University Press.
+10. Carnevale NT, Hines ML. The NEURON Book. 2006 Cambridge, UK:
+Cambridge University Press.
+11. Ito M, Miyashita Y, Rolls ET. Cognition, Computation & Consciousness. 1997
+New York: Oxford University Press.
+12. Wilson MA, McNaughton BL. Dynamics of the hippocampal ensemble code for
+space. Science 1993; 261:1055-1058.
+13. Kelso JAS. Dynamic Patterns: The Self-Organization of Brain and Behavior.
+1995 Cambridge, MA: MIT Press.
+14. Arbib MA, Erdi P, Szentagothai J. Neural Organization: Structure, Function and
+Dynamics. 1998 Cambridge, MA: MIT Press.
+15. Georgopoulos AP, Schwarz AB, Kettner RE. Neuronal population coding of
+movement direction. Science 1986; 243: 1416-1419.
+16. Linsker R. From basic network principles to neural architecture (Parts 1, 2 & 3).
+Proc Natl Acad Sci USA 1986; 83:7508-7512, 8390-8394, 8779-878

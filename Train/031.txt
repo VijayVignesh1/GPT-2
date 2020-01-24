@@ -1,0 +1,1787 @@
+ARTICLES
+
+Tuning of synapse number, structure and function
+in the cochlea
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Alexander C Meyer1,6, Thomas Frank1,6, Darina Khimich1,6, Gerhard Hoch1, Dietmar Riedel2,
+Nikolai M Chapochnikov1,3, Yury M Yarin1,4, Benjamin Harke5, Stefan W Hell5,
+Alexander Egner5 & Tobias Moser1,3
+Cochlear inner hair cells (IHCs) transmit acoustic information to spiral ganglion neurons through ribbon synapses. Here we have
+used morphological and physiological techniques to ask whether synaptic mechanisms differ along the tonotopic axis and within
+IHCs in the mouse cochlea. We show that the number of ribbon synapses per IHC peaks where the cochlea is most sensitive
+to sound. Exocytosis, measured as membrane capacitance changes, scaled with synapse number when comparing apical and
+midcochlear IHCs. Synapses were distributed in the subnuclear portion of IHCs. High-resolution imaging of IHC synapses
+provided insights into presynaptic Ca21 channel clusters and Ca21 signals, synaptic ribbons and postsynaptic glutamate receptor
+clusters and revealed subtle differences in their average properties along the tonotopic axis. However, we observed substantial
+variability for presynaptic Ca21 signals, even within individual IHCs, providing a candidate presynaptic mechanism for the
+divergent dynamics of spiral ganglion neuron spiking.
+
+After processing by the mammalian ear’s exquisite micromechanics
+and mechanoelectrical transduction, acoustic information is encoded
+at the afferent synapses of IHCs with high temporal precision1,2.
+Presynaptic active zones of IHCs contain a synaptic ribbon, a multiprotein structure that tethers synaptic vesicles3,4 and ensures a large
+pool of readily releasable vesicles5–8. Stimulus–secretion coupling is
+governed by CaV1.3 L-type Ca2+ channels9,10 that tightly control the
+release of glutamate from nearby fusion-competent vesicles2,8,11 onto
+postsynaptic AMPA receptors12,13 on the unbranched peripheral axon
+of the bipolar spiral ganglion neuron (SGN)14. As a result, each SGN
+receives input from only one IHC active zone, while each IHC drives
+several SGNs.
+Whether and how the number and properties of afferent synapses
+of the cochlea are ‘tuned’ for optimal sound encoding remains an
+important question (refs. 15,16, for example). The frequency
+selectivity of SGNs is primarily determined by the location of the
+innervated IHC on the cochlea’s tonotopic axis, providing a place
+code for frequency (refs. 17,18, for example). In addition, studies
+of small samples of synapses from distinct cochlear regions have
+indicated that the innervation density varies along the length of
+the cochlea19–21. Moreover, it has been shown that SGNs covering
+a narrow frequency range differ markedly in spontaneous and
+evoked firing rates, sound threshold and dynamic range (for
+example, refs. 22,23) and that they collectively encode a large
+range of sound pressures. It is generally believed, but not yet
+
+directly proven, that each IHC makes contact with such physiologically diverse SGNs. If true, the heterogeneity of SGN dynamics
+could be caused by pre- and postsynaptic mechanisms7,19,24,25.
+Pioneering work on the cat cochlea suggested that lowspontaneous-rate SGNs preferentially contact active zones with
+large or even multiple synaptic ribbons at the neural side of IHCs
+(toward the modiolus), whereas high spontaneous rate SGNs are
+driven by small, ‘simple’ synapses at the abneural IHC side (toward
+the outer hair cells)24.
+Here we have used patch-clamp, confocal imaging of IHC presynaptic Ca2+ signals; confocal, 4Pi26,27 and stimulated emission
+depletion (STED)28 microscopy of immunolabeled synapses; and
+electron microscopy to characterize the distribution of afferent
+synapses as well as their structure and function at different tonotopic regions of the cochlea. Having investigated thousands of
+synapses in hundreds of IHCs, we provide a continuous representation of synapse number per IHC along the entire mouse cochlea, and
+we show that synapse density parallels the neuronal population audiogram. Using STED microscopy, we provide optical,
+nanometer-scale measurements of individual clusters of presynaptic
+Ca2+ channels and postsynaptic AMPA receptors. Whereas
+average structural and functional synapse properties varied only
+slightly along the cochlea’s tonotopic axis, we found considerable
+heterogeneity of presynaptic Ca2+ signals among the synapses in
+IHCs in a given region.
+
+1InnerEarLab, Department of Otolaryngology and Center for Molecular Physiology of the Brain, University of Göttingen, Göttingen, Germany. 2Laboratory of Electron
+Microscopy, Max-Planck-Institute for Biophysical Chemistry, Göttingen, Germany. 3Bernstein Center for Computational Neuroscience, University of Göttingen, Göttingen,
+Germany. 4Clinic of Otorhinolaryngology, Department of Medicine, Technical University of Dresden, Dresden, Germany. 5Department of NanoBiophotonics, Max-PlanckInstitute for Biophysical Chemistry, Göttingen, Germany. 6These authors contributed equally to the work. Correspondence should be addressed to T.M. (tmoser@gwdg.de) or
+A.E. (aegner@gwdg.de).
+
+Received 6 October 2008; accepted 12 February 2009; published online 8 March 2009; doi:10.1038/nn.2293
+
+444
+
+VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+Figure 1 The number of afferent synapses per
+53%
+3%
+IHC co-varies with ABR threshold along the
+500 µm
+10 µm
+tonotopic axis. (a) Projections of confocal stacks
+of immunostained mouse IHC afferent synapses
+at different tonotopic locations (red, anti-CtBP2/
+RIBEYE; green, anti-GluR2/3; blue, Hoechst
+Hoechst GluR2/3 CtBP2/RIBEYE
+34580 nuclear stain). Percentages indicate the
+normalized location of the imaged IHCs in the
+95%
+9%
+cochlea (0%, apical end; 100%, basal end).
+Center: montage of the low-magnification view of
+fragments of the full explanted organ of Corti.
+Red circles, locations of the confocal images.
+(b) Synaptic cochleograms and tone-burst ABR
+audiograms of NMRI and C57BL/6 mice
+Mouse
+Gerbil
+Frequency
+Frequency
+(together, more than 15,000 synapses) overlaid
+0.7 1
+2
+4 6 8 1216 24 32 48 64 kHz
+6 8
+12 16
+24 32
+48 64 kHz
+by relating distance to cochlear apex to the
+30
+30
+0
+20
+CAP threshold
+18
+tonotopic map of mice of strain CBA (top axis ).
+(ref. 29)
+40
+25
+ABR C57BL/6
+NMRI mice: red open circles, number of synapses
+20
+50
+15
+20
+per IHC (26 ears, P15–P20); red filled circles,
+60
+ABR threshold (average ± s.e.m., ten ears from six
+40
+15
+70
+10
+mice). C57BL/6: black open squares, number of
+ABR NMRI
+C57BL/6 P30
+10
+synapses per IHC (two ears, P30); connected
+Gerbil P28
+80
+60
+NMRI P15-P20
+2nd-order polynomial fit
+black filled squares, ABR threshold. Continuous
+2nd-order polynomial fit
+90
+5 0
+5 0
+2
+4
+6
+8
+10 11.2 mm
+1
+2
+3
+4
+5
+6.2 mm
+black line: fit of a quadratic function to the
+0
+20
+40
+60
+80
+100%
+0
+20
+40
+60
+80
+100%
+collective data set of both mouse lines.
+Apex
+Base
+Apex
+Base
+Position
+Position
+(c) Synaptic cochleograms (circles): number of
+synapses per IHC (more than 10,000 synapses in six ears from four P28 gerbils), plotted against a tonotopic map (taken from ref. 29) and frequencydependent compound action potentials (CAP) thresholds (from ref. 29) (red line). Continuous black line: fit of a quadratic function to the data.
+
+a
+
+b
+
+c
+
+b
+
+Synapses per IHC
+
+Apical
+
+c
+
+Abneural
+
+z-distance from nucleus
+center (µm)
+
+r
+
+
+
+0
+
+n = 373 synapses
+from 23 midcochlear
+IHCs
+
+–5
+
+–10
+–15
+
+2 4 6 8
+µm
+
+NUMBER 4
+
+.5 1
+
+0.0 0.5 1.0 1.5 2.0 2.5
+–1
+Synapse density (µm )
+
+f
+
+Neural
+
+1.5
+
+2
+
+Normalized frequency
+
+e
+
+Neural
+
+Basal
+
+d
+
+Apical
+
+[
+
+Neural
+
+z
+
+0.15
+
+0.10
+
+0.05
+
+0.00
+Abneural
+
+NATURE NEUROSCIENCE VOLUME 12
+
+Basal
+
+5
+
+Basal
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Synapses per IHC
+
+a
+
+Apical
+
+Figure 2 Spatial distribution of afferent synapses
+within IHCs of one tonotopic region. (a) Cartoon
+illustrating the analysis and the use of cylindrical
+coordinates for descriptions of synapse position.
+(b) Four en face views of six midcochlear IHCs
+and their afferent synapses (red dots), overlaid
+after normalization of synapse coordinates in the
+z axis (from the center of the nucleus to the basal
+end) and in the radius, r (according to the width
+at nuclear level) of each IHC. Scale bars, 5 mm.
+(c) Histogram shows synapse number as a
+function of axial distance from the center of the
+cell’s nucleus (z) for a total of twenty-three
+midcochlear IHCs. (d) Polar scatter plot of 373
+synapses mapped in cylindrical coordinates
+(radius (r) and angle (y) are displayed). (e) Polar
+histogram of synapse density in 361 sectors.
+The sum of all 10 sectors equals the average
+synapse number of 16.2 per cell. (f) Histogram
+of the nearest neighbor distance distribution of
+373 synapses.
+
+CAP threshold (dB)
+
+ABR threshold (dB SPL)
+
+count by the number of IHC nuclei6. The study used hearing mice
+(as determined by auditory brainstem responses (ABR)) of two
+wild-type laboratory strains (C57BL/6N, postnatal day (P) 30; and
+NMRI, P15–P20). We approximated their collective synaptic cochleograms by a quadratic function (Fig. 1b) to describe synapse number
+per IHC along the tonotopic axis (see Supplementary Table 1 online
+for fit coefficients). In gerbils (P28), we counted only synaptic
+ribbons because we were not able to stain postsynaptic glutamate
+receptor clusters reliably (Fig. 1c; Supplementary Fig. 1 and Supplementary Table 1). The synaptic cochleograms were then related to
+hearing thresholds as estimated by ABR recordings (Fig. 1b; mice
+were thereafter used for immunohistochemistry) or compound
+action potentials24 (Fig. 1c) using published place-frequency
+maps18,29. For both species, the synaptic cochleograms peaked within
+
+RESULTS
+Tonotopic synapse density map and subcellular distribution
+First, we assessed the number of ribbon synapses per IHC throughout
+the entire cochlea (creating a synaptic cochleogram) of mice (Fig. 1a,b;
+high-frequency hearing) and gerbils (Fig. 1c and Supplementary Fig. 1
+online; low-frequency hearing) by confocal microscopy of immunolabeled, whole-mount organs of Corti. The microdissected parts of the
+organ of Corti were aligned for measuring the distance of a given
+synapse to the apex of the cochlea (see Methods; Fig. 1a). We identified
+IHC ribbon synapses as colocalized spots of presynaptic ribbons (using
+antibody to transcription factor CtBP2 sharing homologous domain
+with RIBEYE, the main protein component of the synaptic ribbon)
+and postsynaptic GluR2/3 (labeling the AMPA receptor clusters)
+immunofluorescence in stacks of confocal sections, and divided their
+
+[
+
+APRIL 2009
+
+Abneural
+
+0
+
+1
+2
+3
+4
+5
+6
+Distance to nearest neighbor (µm)
+
+445
+
+ARTICLES
+
+d
+
+RIBEYE
+
+RIBEYE
+
+e
+
+700
+600
+
+Confocal
+STED
+
+500
+400
+300
+200
+
+0
+0 100 200 300 400 500 600 700
+Short object axis (nm)
+
+g
+
+700
+
+Object long axis (nm)
+
+Confocal
+
+Ribbons
+Apical (n = 144)
+Midcochlear (n = 136)
+
+100
+
+Midcochlear
+
+Midcochlear
+
+Apical
+
+600
+500
+400
+300
+200
+100
+
+Ca2+-channel clusters
+Apical (n = 84)
+Midcochlear (n = 82)
+
+STED
+
+0
+0 100 200 300 400 500 600 700
+Object short axis (nm)
+
+Apical
+
+Midcochlear
+
+i
+
+Fluoresc. intensity (a.u.)
+
+CaV1.3
+
+GluR2/3 RIBEYE
+
+h
+
+4
+
+Apical
+Midcochlear
+(from ref. 12)
+
+Confocal
+
+STED
+
+8
+
+3
+
+6
+
+2
+
+4
+
+1
+
+2
+
+0
+–1.0
+
+0
+–0.5
+0.0
+0.5
+1.0
+Distance from center (µm)
+
+j
+
+Merge
+
+the most sensitive region of the cochlea at B17 (mice) or B24 (gerbils)
+synapses per IHC and declined toward the cochlear apex and base.
+Next, we studied the synapse distribution within apical (distance to
+cochlear apex 200 ± 100 mm, n ¼ 2 mice; Supplementary Fig. 2 online)
+and midcochlear (1,700 ± 400 mm, n ¼ 4 mice; Fig. 2) IHCs. Stacks of
+confocal images obtained from organs of Corti immunolabeled for
+CtBP2/RIBEYE and calbindin-28k, a Ca2+-binding protein marking
+the IHC cytosol, were aligned according to the tonotopic axis (indicated by the row of IHCs) to identify synaptic ribbons and IHC nuclei
+(see Methods). Synapses were assigned to IHCs based on their distance
+to the center of the nearest IHC’s nucleus. Data were discarded if
+assignments were ambiguous. The position of each synapse was
+expressed in cylindrical coordinates (z-axial position, with z ¼ 0 at
+the center of the nucleus; radius r and angle y as illustrated in Fig. 2a)
+after normalizing the distance between the center of the nucleus and the
+basal end of each IHC to the respective mean value of all analyzed IHCs.
+We observed a strong base-to-apex decline in synapse abundance
+from the base of the IHC to its apex and a rather uniform distribution
+
+446
+
+Figure 3 Ribbon synapse morphology in the
+apical cochlea (100–400 mm) and mid-cochlea
+(1,300–2,100 mm) of the mouse (P16–P21).
+(a–c) Representative electron micrographs of
+midcochlear (a,b) and apical (c) synapses, after
+either high-pressure rapid freeze and freezesubstitution (HPF, a) or aldehyde fixation (chem.,
+b and c). Scale bar, 100 nm. (d) Representative
+confocal (top) and STED (bottom) images of
+40-nm beads (left) and fluorescently labeled
+synaptic ribbons of apical (middle) and
+midcochlear (right) IHCs. Scale bar, 2 mm.
+(e) Long versus short axes for apical (blue) and
+midcochlear (red) ribbons. Grey bar: resolution
+limit of the STED microscope in front (lower
+boundary) and behind (upper boundary) the
+sample. (f) Representative confocal (top) and
+STED (bottom) images of immunolabeled CaV1.3
+clusters of an apical and a midcochlear IHC
+imaged 15–20 mm deep in the sample. Scale bar,
+1 mm. The double cluster in the midcochlear IHC
+was associated with a very large RIBEYE signal
+(not shown). (g) Long versus short axes for apical
+(blue) and midcochlear CaV1.3 clusters (red).
+Expected density (Supplementary Fig. 5) overlaid
+as contour plot. (h–j) Imaging of postsynaptic
+AMPA receptor clusters (green, GluR2/3; red,
+RIBEYE) contacting apical and midcochlear IHCs.
+(h) Ring-like appearance of clusters oriented en
+face. Scale bar, 2 mm. (i) Fluorescence (fluoresc.)
+profiles from STED en face views of apical (blue)
+and midcochlear (red) clusters. Profiles were
+centered at half the distance of the two side-peaks
+for alignment. Gray bars, counts of immunogold
+particles as a function of distance from synapse
+center (rat IHC, taken from ref. 12); a.u., arbitrary
+units. (j) Two leftmost panels: representative
+deconvolved xy-confocal and STED sections of
+clusters. Middle panel: same cluster overlaid with
+confocal image of ribbon. Scale bar, 500 nm. Two
+rightmost panels: more synapses.
+
+Apical, chem.
+
+Number of particles
+
+© 2009 Nature America, Inc. All rights reserved.
+
+f
+
+Apical
+
+c
+
+Midcochlear, chem.
+
+Long object axis (nm)
+
+40 nm beads
+
+b
+
+PSF range
+
+Midcochlear, HPF
+
+PSF range
+
+a
+
+along y. This is exemplified in views from
+all four sides of six overlaid midcochlear
+IHCs (Fig. 2b). We further described the
+synapse distribution as functions of z-position
+(Fig. 2c) and angle y (Figs. 2d,e). The
+distribution of the three-dimensional nearest
+neighbor distance had a mean of B2 mm and did not show obvious
+higher-order peaks (Fig. 2f, estimated before normalization of cell
+dimensions). The synapse distribution was similar for IHCs in the apex
+of the cochlea, except for a tendency of synapses to accumulate in the
+apical and basal IHC sectors (Supplementary Fig. 2).
+Synapse morphology as a function of tonotopic position
+The size of the synaptic ribbon largely determines the vesicle complement of each synapse (reviewed in ref. 3) and was previously used to
+approximate the area of the active zone over which Ca2+ channels are
+distributed30,31. The size of postsynaptic AMPA receptor clusters is a
+key determinant of synaptic strength (for example, refs. 32,33). Thus,
+we explored IHC synapse morphology in apical and midcochlear
+regions using high-resolution fluorescence microscopy of immunolabeled IHC synapses, as well as electron microscopy.
+Electron microscopy was performed on ultrathin sections of first
+apical turns of cochleae. First, we compared the synaptic ultrastructure
+after (i) chemical immersion fixation or (ii) high-pressure rapid freeze
+
+VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+dimensions of point spread function
+(PSF), B150  150 nm; axial dimension,
+Apical (mean ± s.d.)
+Midcochlear (mean ± s.d.)
+P-value
+B500 nm at the position of the synapses in
+the tissue for Fig. 3d–g). The resolution of
+CaV1.3 cluster long axis (STED)
+327 ± 95 nm (n ¼ 84)
+320 ± 97 nm (n ¼ 82)
+P ¼ 0.40
+the
+STED microscope decreases with the
+228 ± 59 nm (n ¼ 84)
+208 ± 55 nm (n ¼ 82)
+P o 0.01
+CaV1.3 cluster short axis (STED)
+depth
+of penetration into the tissue and
+Ribbon long axis (STED)
+379 ± 62 nm (n ¼ 144)
+357 ± 63 nm (n ¼ 136)
+P o 0.001
+was controlled by measuring the PSF with
+Ribbon long axis (EM)
+228 ± 60 nm (n ¼ 29)
+223 ± 59 nm (n ¼ 37)
+P ¼ 0.74
+Ribbon short axis (STED)
+299 ± 46 nm (n ¼ 144)
+273 ± 39 nm (n ¼ 136)
+P o 0.001 100-nm fluorescent beads in front and
+behind the sample (Fig. 3e,g; SupplemenRibbon short axis (EM)
+118 ± 27 nm (n ¼ 29)
+117 ± 36 nm (n ¼ 37)
+P ¼ 0.86
+tary Fig. 4). The short and long axes of
+Ribbon cross-section (EM)
+21,337 ± 8,609 nm2 (n ¼ 29) 20,495 ± 9,795 nm2 (n ¼ 37) P ¼ 0.28
+fluorescence spots in the STED sections
+15.1 ± 3.5 (n ¼ 27)
+12.7 ± 3.7 (n ¼ 34)
+P ¼ 0.01
+NumSV o50 nm from ribbon (EM)
+5.5 ± 4.2 (n ¼ 27)
+0.8 ± 1.0 (n ¼ 34)
+P o 0.001 were approximated as the full widths at
+NumSV 450 nm from ribbon (EM)
+SV diameter (EM, CF)
+41.4 ± 5.7 nm (n ¼ 411 SVs)
+44.6 ± 5.6 nm (n ¼ 431 SVs) P o 0.001 half maximum (FWHM) of two orthogonal
+SV diameter (EM, HPF)
+–
+48.7 ± 8.2 nm (n ¼ 156 SVs)
+gaussian functions (Fig. 3e,g). They were
+GluR2/3 cluster (STED) ‘size’
+884 ± 15 nm (n ¼ 16)
+751 ± 11 nm (n ¼ 19)
+P o 0.01
+slightly but significantly larger for apical
+‘Width’
+180 ± 0.71 nm
+193 ± 0.89 nm
+P ¼ 0.39
+ribbons (Table 1 and Supplementary
+2.5 ± 0.9
+2.3 ± 0.7
+P ¼ 0.45
+Ratiomax/min
+Fig. 4). On average, the mean apparent
+Postsynaptic density (EM)
+819 ± 154 nm (n ¼ 29)
+888 ± 200 nm (n ¼ 30)
+P ¼ 0.74
+axes ((short + long)/2) differed by 25 nm
+between the two locations. The ratios of
+EM, electron microscopy; NumSV, number of synaptic vesicles; SV, synaptic vesicle; CF, chemical fixation; HPF, high pressure freeze;
+‘size’ of GluR2/3 clusters, sum of peak-to-peak distance and average FWHM of the two peaks in a fluorescence profile of the cluster
+long to short apparent axes were statistically
+(Fig. 3i); ‘width’, average of FWHM of the two fluorescence peaks; ratiomax/min, ratio of peak fluorescence (average over one-half FWHM
+around the peak location) and minimal fluorescence (average over one-half FWHM around the minimum location).
+indistinguishable (apical, 1.27 ± 0.16,
+n ¼ 144; midcochlear, 1.31 ± 0.19, n ¼
+and subsequent freeze substitution (Supplementary Fig. 3 and Sup- 136; P ¼ 0.08) and were consistent with an ellipsoid ribbon structure.
+CaV1.3 Ca2+ channels cluster at active zones of hair cells11,35. Using
+plementary Methods online) because the latter method may better
+34
+preserve synapse morphology . We did not observe obvious differ- STED microscopy, we studied size and shape of immunolabeled CaV1.3
+ences in the complement of vesicles; the mean vesicle diameter estimate clusters in IHCs at the two different tonotopic positions (Fig. 3f,g). The
+in the chemically fixed tissue was smaller by less than 10% (Fig. 3a,b; size of the observed fluorescent spots (two-dimensional FWHM)
+Table 1). Therefore, we used chemical fixation for further analyses. We ranged between 140 nm and 650 nm; hence, one of the object axes
+did not detect significant differences in ribbon size and shape (short was typically above the resolution limit of this STED microscope but in
+and long axes, cross-sectional area), nor in the length of the post- many cases too small for estimation by confocal microscopy. Nearby
+synaptic density (PSD) between midcochlear (Fig. 3a,b) and apical Ca2+ channel clusters (Fig. 3f, right panel), which are readily resolved
+(Fig. 3c) IHC synapses (Table 1). We quantified the abundance by STED microscopy but not discernable by confocal microscopy,
+of synaptic vesicles at the active zone for ribbon-associated (o50 nm existed rarely (o10% of all analyzed synapses). The average size and
+from ribbon) and unassociated (450 nm from ribbon) vesicles. There shape of the synaptic CaV1.3 clusters were similar for apical and
+were slightly more ribbon-associated vesicles and substantially midcochlear IHCs (Fig. 3g, Table 1 and Supplementary Fig. 5 online)
+more unassociated ones in apical synapses compared to midcochlear (mean apparent axis: apical 278 ± 71 nm, n ¼ 84; midcochlear 264 ± 69
+ones (Table 1).
+nm, n ¼ 82, P ¼ 0.10; axis ratio: apical 1.45 ± 0.30; midcochlear 1.56 ±
+Optical microscopy of immunolabeled subcellular structures enables 0.42; P ¼ 0.06). We modeled the two-dimensional projection of
+high throughput analysis, providing a robust basis for statistical randomly oriented objects (after convolution with the point spread
+comparison. IHC ribbons, Ca2+ channel clusters and aspects of post- function of the STED microscope; Supplementary Fig. 5) because the
+synaptic AMPA receptor clusters (see below) are at or below the real three-dimensional shape of the clusters cannot be readily deduced
+resolution limit of confocal microscopy (B250 nm). Therefore, we from the data. We simulated variably sized objects with several
+used high-resolution 4Pi microscopy (one-dimensional axial resolu- geometric shapes aiming to match the experimentally observed distion B100 nm; Supplementary Fig. 4 online) and STED microscopy tributions of short and long axes (see Supplementary Fig. 5). The data
+(two-dimensional lateral resolution B50–150 nm, Fig. 3; three- could be reasonably well described by assuming a flat, oblate ellipsoid
+dimensional spherical resolution B150 nm, Supplementary Movie 1 with diameter 420 ± 130 nm, short axis below the resolution limit
+online) in addition to confocal microscopy to compare those structures (Fig. 3g). We cannot exclude the existence of subclusters in mice, as
+between apical and midcochlear synapses. Note that these measure- proposed for frog hair cells35, but, if present, those must be separated by
+ments report apparent rather than absolute object size because of less than 150 nm.
+immunolabeling and fluorescence imaging, and thereby overestimate
+AMPA receptor clusters, detected as GluR2/3 immunofluorescent
+true object size. However, this does not impede the comparison spots, showed a ring-like shape when oriented in parallel with the xy
+between synapses of different tonotopic regions or sectors of IHCs.
+plane (Fig. 3h–j), indicating a gradient of receptor density in the plane
+To study ribbons, we analyzed 4Pi images stacks as described of the PSD with an off-center maximum. The ring-like fluorescence
+previously6. The analysis revealed overlapping distributions of apparent pattern was confirmed by high-resolution three-dimensional STED
+axial diameter of ribbons between apical and midcochlear IHCs, microscopy (Supplementary Movie 1). We cannot entirely rule out
+indicating similar ribbon size and shape (Supplementary Fig. 4). We lower accessibility to antibody labeling of AMPA receptors in the center
+fitted gaussian functions to the distributions and found that the of the synapse. However, we consider this highly unlikely, as a similar
+means and s.d. values (for apical, 323 ± 57 nm, n ¼ 193 ribbons; gradient of receptor density was found in a previous immunoelectron
+for midcochlear, 324 ± 62 nm, n ¼ 168 ribbons) were indistinguish- microscopy study of rat IHC afferent synapses12, where antigen accesable. Compared to confocal microscopy implemented on the same sibility should not be a concern owing to postembedding immunogold
+microscope, STED yielded superior resolution (Fig. 3d,f; lateral labeling of AMPA receptors in ultrathin sections. En face views of AMPA
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Table 1 Morphology of ribbons synapses in apical and midcochlear IHCs
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009
+
+447
+
+ARTICLES
+(DCm) in IHCs from those apical and midcochlear
+regions (Fig. 4a) that had also been
+50
+40
+morphologically investigated (Figs. 1–3).
+40
+20
+IHCs at these two locations had 14.0 ± 0.3
+Midcochlear
+30
+0
+DTA: 1,400 µm Apical
+(midcochlear) and 9.7 ± 0.7 (apical) synapses,
+20
+0
+DTA:
+respectively, and, as judged from their resting
+10
+300 µm
+–50
+0
+membrane capacitance (midcochlear IHCs
+–100
+30
+8.7 ± 1.1 pF, n ¼ 11; versus apical IHCs 7.7
+20
+–150 10 ms 50 ms 100 ms 200 ms
+10
+± 0.7 pF, n ¼ 14), they differed slightly in size.
+Apical
+0
+We recorded their Ca2+ currents and memd
+e
+Midcochlear
+0
+50
+100
+150
+200
+Vm (mV)
+brane capacitance increments in the perfoDuration of depolarization (ms)
+0
+–80 –60 –40 –20 0 20 40 60
+rated-patch configuration in response to step
+–100
+depolarizations to –14 mV (Fig. 4b,c). For
+Apical
+200
+f
+Midcochlear
+100
+-200
+most stimuli, we identified larger exocytic
+250
+0
+0.4
+DCm for midcochlear IHCs. Exocytosis of
+200
+0
+–400
+–0.4
+midcochlear and apical IHCs could be
+–0.8
+150
+–1.2
+100
+roughly matched when scaling the responses
+–600
+200
+Apical
+100
+(n = 19)
+50
+of apical IHCs by the ratio of the number of
+0
+Midcochlear
+I (pA)
+–800 Ca
+0.4
+synapses (1.44; Fig. 4c).
+(n = 14)
+0
+0.0 0.2 0.4 0.6 0.8 1.0 1.2
+–0.4
+Mean ICa (nA)
+–0.8
+Midcochlear IHCs tended to show larger
+–1.2
+peak Ca2+ currents (ratio of peak currents;
+0
+5
+10
+15
+20
+Time (ms)
+under non-augmenting conditions (2 mM
+[Ca2+], perforated-patch): 1.1, augmenting
+Figure 4 Exocytosis scales with the number of afferent synapses per IHC. (a) Distance-to-apex (DTA)
+conditions
+(10 mM extracellular [Ca2+],
+measurement of representative tonotopic regions used for patch-clamp recordings, identified by locally
+5 mM BayK8644, whole-cell): 1.2, Fig. 4d
+removed rows of outer hair cells and pillar cells (ellipses). Scale bar, 200 mm. (b) Average membrane
+capacitance (Cm) traces (baseline subtracted) and calcium current (ICa) of apical (n ¼ 11; gray) and
+and Supplementary Table 2 online). The
+midcochlear (n ¼ 14; black) IHCs in response to 10-, 50-, 100- and 200-ms depolarizations. (c) Mean
+difference in Ca2+ current integrals (Fig. 4c)
+exocytic DCm (top) and Ca2+ current integrals (bottom) of the same cells as a function of stimulus
+did not reach statistical significance, probably
+duration. Scaled apical (dotted line) is Cm of apical IHCs multiplied by 1.44 (ratio of the number of
+because of the more pronounced Ca2+ current
+synapses for midcochlear and apical IHCs). (d) Average current–voltage relationships (thick traces with
+inactivation in midcochlear IHCs (Fig. 4b).
+symbols) of apical (n ¼ 19, thin gray traces) and midcochlear (n ¼ 14, thin black traces) IHCs in
+Neither were voltage dependence and kinetics
+augmenting conditions (10 mM extracellular [Ca2+], 5 mM BayK8644). (e,f) Analysis of Ca2+ tail current
+of Ca2+ current activation different (Supplefluctuations in augmenting conditions: (e) Pulse protocol and typical examples of current ensemble
+variance and mean of an apical and a midcochlear IHC, respectively. (f) Variance–mean relationships of
+mentary Fig. 6 online). Assuming an excluall apical and midcochlear IHCs (light and dark thin traces, respectively) and grand mean for both cell
+sively synaptic localization of Ca2+ channels
+populations (thick traces with symbols). Error bars, s.e.m.
+and given the roughly comparable size of
+synaptic clusters of Ca2+ channels (Fig. 3),
+receptor clusters were analyzed by fitting the STED (Fig. 3i) fluorescence one would have expected the peak Ca2+ currents in midcochlear and
+profiles with a sum of two gaussians. As expected, the limited resolution apical IHCs to scale with the number of synapses, as seen for exocytosis.
+of confocal microscopy led to an overestimation of the peak width The observed discrepancy could be due to differences in channel open
+(confocal B350 nm; STED B180 nm (lateral resolution o 80 nm for probability or single-channel current among IHCs at the two positions.
+this microscope)), and thus we based further analysis solely on STED When analyzing fluctuations among repetitively evoked Ca2+ tail
+microscopy. Whereas the width of the peaks was statistically indistin- currents under augmenting conditions (Fig. 4e,f), we found more
+guishable between apical and midcochlear clusters, we found slightly Ca2+ channels (1.34:1, midcochlear/apical), a slightly higher open
+larger peak-to-peak distances (apical 683 ± 84 nm, n ¼ 16; midco- probability and a somewhat smaller single-channel current in the
+chlear 562 ± 85 nm, n ¼ 19) and total sizes for clusters of apical synapses midcochlear cells (see Supplementary Table 2).
+(Table 1). The outer diameter of the cluster roughly matched the length
+Conclusions from whole-cell recordings on synaptic Ca2+ channels
+of the PSD as measured by electron microscopy (Table 1), indicating would be confounded by the presence of extrasynaptic Ca2+ channels.
+that AMPA receptors populate most of the PSD. On average, the To directly compare synaptic Ca2+ signaling at different tonotopic
+fluorescence peaks were about twofold brighter than the center, for places, we used fast confocal imaging of IHCs loaded with Fluo-5N.
+both apical and midcochlear AMPA receptor clusters (Table 1).
+Depolarization caused the rapid appearance of spatially restricted
+fluorescence hotspots in the basolateral compartment of IHCs
+Tonotopy of IHC presynaptic physiology
+from hearing mice (Fig. 5a) that were mediated by voltage-gated
+Recent studies have used patch-clamp recordings of Ca2+ currents and Ca2+ influx and localized with ribbons40, as previously described in
+membrane capacitance changes (DCm) to study the presynaptic prop- nonmammalian hair cells36,41,42. Once such Ca2+ microdomains were
+erties of hair cells of various species (for review, see ref. 3). It remains to identified in confocal sections, we used spot detection (continuous
+be clarified whether this technique reports exclusively synaptic Ca2+ read-out of fluorescence from the maximum-intensity location
+current and exocytosis in IHCs35–37 or also a significant extrasynaptic inside the Ca2+ microdomain (Fig. 5b,c) and perpendicular line
+fraction of channels and/or vesicles5,6,11,38,39. We also wondered scans (Fig. 5d,e) to study the kinetics (Fig. 5b), voltage dependence
+whether, on top of the number of synapses, their function may (Fig. 5c) and FWHM (Fig. 5e) of these synaptic Ca2+ signals
+also vary along the cochlea’s tonotopic axis15,16,30,31,37. We first studied during 20-ms depolarizations). On average, these properties were
+whole-cell Ca2+ currents and exocytic membrane capacitance changes indistinguishable between apical and midcochlear IHCs (Table 2).
+
+c
+
+60
+
+Midcochlear (n = 11)
+Apical (n = 14)
+Apical, scaled
+
+∆Cm (fF)
+
+Apical
+Midcochlear
+
+QCa (pC)
+
+ICa (pA)
+
+© 2009 Nature America, Inc. All rights reserved.
+
+ICa (nA) Var. (pA2) ICa (nA) Var. (pA2) Vm (mV)
+
+448
+
+60 200 ms
+
+Variance (pA2)
+
+b
+
+∆Cm (fF)
+
+a
+
+VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+
+b
+
+40
+
+F – F0 (a.u.)
+
+a
+
+30
+20
+10
+Apical (n = 25)
+Midcochlear (n = 25)
+
+0
+–10
+40
+
+c
+–80
+
+50
+
+–60
+
+60
+70
+Time (ms)
+
+–40
+
+–20
+
+80
+
+20
+
+5
+
+Vm (mV)
+
+90
+
+40
+
+10
+15
+20
+
+0
+
+200
+
+400
+
+600
+
+800
+
+25
+
+F – F0 (a.u.)
+
+Apical (n = 21)
+Midcochlear (n = 21)
+F – F0 (a.u.)
+
+30
+35
+
+20 ms
+
+150
+
+100
+
+FWHM (µm)
+
+e
+
+200
+
+F – F0 (a.u.)
+
+0.8
+0.6
+0.4
+
+NUMBER 4
+
+[
+
+APRIL 2009
+
+(y
+)
+
+ar
+
+al
+
+le
+
+ic
+
+ch
+
+co
+
+M
+
+id
+
+Ap
+
+(n = 15)
+
+(n = 12)
+
+(n = 15)
+
+)
+
+(y
+
+(x
+
+(x
+)
+
+ar
+
+al
+
+[
+
+le
+
+ic
+
+ch
+
+co
+
+id
+
+M
+
+NATURE NEUROSCIENCE VOLUME 12
+
+)
+
+(n = 17)
+
+and starting xy-position in repetitive xy-scans,
+followed by (ii) selection of the brightest pixel
+50
+0.0
+identified during lateral spot displacement
+along one dimension (from the starting position). Moreover, we obtained a second esti0
+mate by fitting gaussian functions to the line
+scans, and we found the variability comparable (Supplementary Table 3). The scatter of fluorescence amplitude
+Variability among afferent synapses of individual IHCs
+Although Ca2+ microdomains were on average similar in populations (see Methods) for 65 individual synapses in 20 apical and midcochlear
+from the two tonotopic positions, they varied greatly among individual IHCs responding to 20 ms depolarizations to –7 mV (Fig. 6a) had a
+synapses, regardless of cell location. When comparing Ca2+ signals coefficient of variation (CV) of 0.63. Similar variability was also found
+measured at the two tonotopic locations, their amplitudes showed the for the background-normalized data (DF/F0, CV ¼ 0.61), arguing
+largest variance, but substantial differences among Ca2+ microdomains against a contribution of variation in dye concentration.
+were also observed for the FWHM and voltage of half activation
+Even synapses of an individual IHC differed up to tenfold in their
+(Supplementary Table 3 online). For spot detection, we carefully fluorescence amplitude (Fig. 6b; maximum/minimum DF on average,
+searched for the maximum-intensity location by (i) adjusting focus 4.5-fold; average CV ¼ 0.57 for seven apical IHCs). The variance
+among the fluorescence changes was not
+Table 2 Properties of synaptic Ca2+ signals as a function of tonotopic position
+systematic with time (Fig. 6b), arguing
+against Ca2+ current run-down, indicator
+Apical (mean ± s.e.m.)
+Midcochlear (mean ± s.e.m.)
+P-value
+bleaching, or buffer saturation being sizeable contributors. The trial-to-trial variaSpot detection
+2+
+Peak DF (F – F0, a.u.)
+39.1 ± 5.3 (n ¼ 25)
+39.3 ± 4.5 (n ¼ 25)
+P ¼ 0.97 bility of DF of the same Ca microdomain
+1.0 ± 0.1 (n ¼ 25/25)
+1.0 ± 0.1 (n ¼ 25/25)
+P ¼ 0.97 was small (CV ¼ 0.09). We found only
+Aonset,fast (ms)
+17 ± 8 (n ¼ 8/25)
+60 ± 38 (n ¼ 12/25)
+P ¼ 0.16 weak, although significant, correlations
+Aonset,slow (ms)
+2.3 ± 0.7 (n ¼ 8/25)
+1.5 ± 0.4 (n ¼ 12/25)
+P ¼ 0.16 between fast-onset kinetics and fluoresAonset,fast/Aonset,slow
+1.1 ± 0.1 (n ¼ 25/25)
+1.0 ± 0.1 (n ¼ 25/25)
+P ¼ 0.24 cence amplitude (Fig. 6c; linear correlation
+Adecay,fast (ms)
+8 ± 1 (n ¼ 13/25)
+28 ± 10 (n ¼ 13/25)
+P ¼ 0.11 coefficient Pr ¼ 0.28, P o 0.05), and
+Adecay,slow (ms)
+5.1 ± 0.8 (n ¼ 13/25)
+3.9 ± 0.7 (n ¼ 13/25)
+P ¼ 0.27 FWHM of Ca2+ microdomains and their
+Adecay,fast/Adecay,slow
+fluorescence amplitude (Fig. 6d; Pr ¼
+–26.1 ± 3.8 (n ¼ 13)
+–26.1 ± 2.0 (n ¼ 13)
+P ¼ 0.28 –0.23, P o 0.05). Taken together, these
+V1/2 (mV)
+Slope (mV)
+7.3 ± 1.4 (n ¼ 13)
+6.3 ± 0.6 (n ¼ 13)
+P ¼ 0.65 correlations argue against a substantial contribution of defocus from the Ca2+ microLine scan
+domain’s center to the observed variance.
+x FWHM (mm)
+0.6 ± 0.1 (n ¼ 17)
+0.7 ± 0.1 (n ¼ 15)
+P ¼ 0.09
+We therefore interpret these differences to
+y FWHM (mm)
+0.6 ± 0.1 (n ¼ 12)
+0.6 ± 0.1 (n ¼ 15)
+P ¼ 0.35
+mostly reflect genuine variance among
+Exponential fitting was used to estimate the on- and off-kinetics of the synaptic Ca2+ microdomain signals. A double-exponential fit was
+Ca2+ signals of the individual synapses.
+accepted if the time constants differed by at least a factor of 3 and if both components were sizeable. A, amplitude of the fluorescence
+Next, we asked whether active zones
+component indicated in the subscript; V1/2, voltage of half-maximal fluorescence increase; slope, steepness of the voltage-dependent
+increase of the fluorescence change. V1/2 and slope were obtained by fitting Boltzmann functions to the fluorescence–voltage
+with
+different properties segregated along
+2+
+relationships (Fig. 5c). FWHM, full width at half-maximum of the time-averaged Ca microdomain fluorescence. x and y designate the
+the perimeter of the IHC, as previously
+directions of the orthogonal line scans; a.u., arbitrary fluorescence intensity units.
+0.2
+
+Ap
+
+© 2009 Nature America, Inc. All rights reserved.
+
+d
+
+Figure 5 Synaptic Ca2+ signals are comparable at
+different tonotopic locations. (a) xy scan reveals
+hotspots of Fluo-5N fluorescence in the base of a
+P14 IHC (loaded with 400 mM Fluo-5N and 2 mM
+EGTA; dotted line, IHC border) during membrane
+depolarization to –7 mV (red bar, time of
+depolarization). Resting fluorescence (F0) was
+subtracted. Scale bar, 2 mm; a.u., arbitrary
+fluorescence intensity units. (b) Fluorescence time
+courses for Ca2+ microdomains in apical (gray)
+and midcochlear (black) IHCs. Data were obtained
+at high temporal resolution at the brightest pixel
+of the hotspot (spot detection; see Methods)
+(dotted crosshairs in a), on which the laser beam
+was parked. Red bar, depolarization to –7 mV.
+(c) Ca2+ microdomain amplitude as a function of
+membrane potential. The average DF amplitude
+over the last 15 ms of the respective spot
+detection response to 20 ms depolarizations is
+plotted. (d) Line scan. Dashed line in left panel,
+IHC border. (e) Spatial extent of Ca2+
+microdomains. FWHM values were obtained
+by fits of gaussian functions to time-averaged
+(20 ms) line scans (d). Error bars, s.e.m.
+
+449
+
+ARTICLES
+
+b
+
+F – F0 (a.u.)
+
+80
+60
+40
+20
+0
+
+60
+40
+
+d
+
+20
+
+80
+
+0
+
+f
+
+1.6
+
+© 2009 Nature America, Inc. All rights reserved.
+
+(F – F0) / F0
+
+1.4
+
+Neural (n = 10)
+Abneural (n = 14)
+
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+60
+
+70
+Time (ms)
+
+80
+
+Neural (n = 46)
+Abneural (n = 43)
+
+0.8
+0.4
+
+15
+
+g
+
+10
+
+5
+
+90
+
+15
+
+10
+
+Figure 6 Intracellular variability of synaptic Ca
+microdomains. (a) Time course of fluorescence at
+the center of Ca2+ microdomains during 20-ms
+depolarization to peak Ca2+ current potential
+(–7 mV, as described in Fig. 5c; n ¼ 65 Ca2+
+microdomains in 20 IHCs); a.u., arbitrary
+fluorescence intensity units. (b) Ca2+ microdomain
+amplitude within individual IHCs as a function
+of time of acquisition. (c,d) Ca2+ microdomain
+amplitude (DF amplitude over the last 15 ms
+of data in a) correlates weakly with fast onset
+kinetics (c, linear correlation coefficient
+Pr = 0.28, n = 65) and with its FWHM (d;
+Pr = 0.23, n = 87). DF amplitude and FWHM
+were obtained by fitting gaussian functions to
+time-averaged line scans. (e) Differences in
+average peak Ca2+ microdomain amplitude
+between neural and abneural synapses
+(P o 0.05, for peak amplitude). Gray bands,
+s.e.m. (f,g) Overlapping distributions of short and
+long ribbon axes of neural and abneural synapses
+of apical IHCs (distance to apex, 100–300 mm) as
+estimated by STED microscopy.
+
+5
+
+the mouse, this region encodes the range of
+B10–20 kHz, which is important, for examLong object axis (nm)
+ple, for the perception of wriggling calls of
+mouse pups46. Each SGN conveys information
+transmitted by one hair cell synapse to several neurons of the cochlear
+nucleus, which in turn integrate information from several SGNs. The
+reliability and acuity of afferent information provided by a region of the
+cochlea will increase with the number of innervating SGNs.
+Here we took advantage of the tonotopic gradient of synapse number
+but uniform average presynaptic morphology in the mouse cochlea to
+ask whether whole-cell Ca2+ current and exocytic DCm scaled with the
+number of ribbon synapses, as would be expected if both occurred
+exclusively at the synapse. This was indeed found to be the case for
+exocytosis, as previously described for turtle hair cells37. Although we
+cannot exclude some contribution of vesicles fusing outside the active
+zone to exocytosis seen during prolonged stimulation3,47, we suppose
+that much of this sustained release occurs at the synapse. This view is
+supported by paired pre- and postsynaptic recordings from rat IHC
+synapses8. These data revealed AMPA receptor current integrals that
+were compatible with the notion of sustained exocytosis—as reported
+by capacitance measurements—reflecting synaptic release.
+Our STED data suggest that, at the IHC synapse, AMPA receptors
+have a peripheral, ‘ring-like’ density maximum, which correlates with
+electron microscopy data on the rat cochlea12. The observed receptor
+distribution seems well suited for the efficient detection of glutamate
+release, in particular if this release occurs preferentially at the circumference of the ribbon35. It deviates from the uniform receptor distribution of glutamatergic CNS synapses suggested by immunoelectron
+microscopy (ref. 12; see review in ref. 48).
+The Ca2+ current integral was not significantly different between
+apical and midcochlear IHCs. In part, this can be attributed to the
+stronger Ca2+ current inactivation in IHCs in the higher frequency
+region, which is consistent with findings in the gerbil49. Still, even
+the initial Ca2+ current was somewhat less correlated to synapse
+number than exocytosis. Similar findings were obtained in the turtle
+cochlea, where low-frequency synapses were assumed to mediate
+larger Ca2+ influx37. Unlike that study, we conclude, based on
+analysis of Ca2+ current, synaptic Ca2+ signals and Ca2+ channel
+cluster size that, except for inactivation, Ca2+signaling of the
+average mouse IHC synapse is structurally and functionally similar
+
+0
+200 300 400 500 600 700
+
+Short object axis (nm)
+
+suggested in the cat24. We used confocal Ca2+ imaging and STED
+microscopy of immunolabeled ribbons in the neural and abneural 601
+sectors to test for potential functional and morphological differences of
+the respective synapses. Abneural synapses on average showed a smaller
+fluorescence increment (Fig. 6e; DF/F0 neural/abneural ratio, 1.6). The
+distributions of short (Fig. 6f) and long axes of ribbons (Fig. 6g) were
+indistinguishable, suggesting that the average ribbon size did not differ
+among neural and abneural synapses in mouse IHCs.
+DISCUSSION
+Our findings demonstrated that tonotopic variations in the sensitivity
+of the mammalian cochlea are paralleled by the density of its afferent
+innervation. We present nanoscale estimates of the size of ribbons, Ca2+
+channel and AMPA receptor clusters at the IHC synapse for two
+different tonotopic regions. Although substantially changing in number, IHC synapses in these cochlear regions differ only slightly in
+structure. Exocytosis of IHCs scaled with the number of synapses,
+which, together with the comparable average properties of presynaptic
+Ca2+ signals, suggests a fairly uniform average synapse function in these
+two regions and also, presumably, further along the cochlea’s tonotopic
+axis. However, Ca2+ signals showed substantial heterogeneity among
+synapses of an individual IHC, providing a potential presynaptic
+substrate for the divergent spiking properties of the SGNs that are
+driven by a given IHC.
+Quantitative light microscopy of whole-mounted organs of Corti
+allowed assembly of continuous synaptic cochleograms for mouse
+(high-frequency hearing) and gerbil (low-frequency hearing) with a
+sample size and frequency resolution exceeding those of previous
+electron microscopy studies17,20,21,43. Synaptic cochleograms were
+well described by quadratic functions, providing a simple and useful
+tool for future studies on cochlear neurotransmission. The shape of the
+mouse synaptic cochleogram roughly followed that of the mouse
+behavioral audiogram44, that of the neural population audiogram
+(for example, Fig. 1) and that of the distortion product otoacoustic
+emission audiogram (for example, ref. 45). We interpret these findings
+as better neural sampling from the most sensitive cochlear regions. In
+
+450
+
+1.6
+1.2
+
+100 200 300
+Peak intensity (F – F0)
+
+0
+50
+
+20 40 60 80 100
+Peak intensity (F – F0)
+
+10
+20
+30
+40
+Experiment time (min)
+
+Absolute frequency
+
+e
+
+0
+
+2.5
+2.0
+1.5
+1.0
+0.5
+
+Absolute frequency
+
+20 ms
+
+c
+τonset, fast (ms)
+
+100
+
+Individual IHCs (n = 16)
+Average trace
+100
+
+FWHM (µm)
+
+Peak fluorescence intensity (F – F0)
+
+a
+
+200 300 400 500 600 700
+
+VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009 NATURE NEUROSCIENCE
+
+© 2009 Nature America, Inc. All rights reserved.
+
+ARTICLES
+in the two frequency regions. The existence of extrasynaptic Ca2+
+channels, as suggested by single channel recordings from bullfrog
+hair cells39, is likely to explain the small remaining mismatch
+between the scaling of number of Ca2+ channels (1.34) and number
+of synapses (1.44).
+Using various approaches, we compared, at two different frequency
+regions, key morphological determinants of IHC synaptic transmission, including synaptic ribbons and vesicle complement, synaptic Ca2+
+channel clusters and postsynaptic density. We found only subtle
+differences (Fig. 3, Table 1), all indicative of slightly larger IHC
+synapses in the apex of the cochlea. Testing the functional relevance
+of these tonotopic differences requires more sensitive detection, such as
+in paired pre- and postsynaptic recordings8.
+However, we found considerable variability for all of the investigated
+morphological and functional synapse parameters (Fig. 3, Tables 1 and
+2, Supplementary Table 3 and Supplementary Fig. 4 and 5). Although
+this limits detection of small systematic changes along the tonotopic
+axis, it probably relates to the important question in auditory research
+of the mechanisms behind the different functional properties of SGNs.
+Pioneering work primarily in the cat cochlea has identified morphological correlates for high and low spontaneous firing rate SGNs (for
+example, active zone morphology, abneural versus neural insertion;
+diameter and mitochondrial content of the peripheral axon)14,22,24,43.
+In the present study, we observed slightly lower synaptic Ca2+ signals in
+the abneural sector of IHCs and found ribbon sizes to be comparable
+for neural and abneural synapses. These findings seem hard to reconcile
+with a systematically higher activity of abneural synapses in mouse
+IHCs, for which one might have expected larger ribbons providing
+more releasable vesicles3 and more Ca2+ channels.
+Nevertheless, our experiments revealed substantial heterogeneity
+between Ca2+ signals at active zones within individual IHCs (Fig. 6b
+and Supplementary Table 3). Furthermore, we found a large variation
+of CaV1.3 channel cluster size (CV ¼ 0.3), and, assuming a constant
+channel density in the cluster, we propose that differences in channel
+number contribute to this heterogeneity. Placement of synapses with
+different properties seems rather random in mouse IHC. Future studies
+combining imaging of synaptic Ca2+ signals with readouts of transmitter release and/or postsynaptic response7,8 will test how this
+translates into differences of transmitter release among the synapses
+of an individual mouse IHC.
+METHODS
+Animals. C57BL/6 and NMRI (Naval Medical Research Institute) mice aged
+2–4 weeks and 4-week-old gerbils were used for experiments. Animal experiments complied with national animal care guidelines and were approved by the
+University of Göttingen Board for animal welfare and the animal welfare office
+of the state of Lower Saxony.
+Auditory brainstem responses. See Supplementary Methods.
+Patch-clamp and confocal Ca2+ imaging. IHCs from apical coils of freshly
+dissected organs of Corti from NMRI and C57BL/6 mice (P14–18) were patchclamped as described5. The pipette solution for perforated-patch recordings
+contained (in mM) 140 cesium gluconate, 13 tetraethylammonium (TEA)-Cl,
+10 CsOH-HEPES buffer, 1 MgCl2, and 250 mg/ml amphotericin B, pH 7.2. The
+pipette solution for whole cell recordings contained (in mM) 135 cesium
+glutamate, 13 TEA-Cl, 20 CsOH-HEPES, 1 MgCl2, 2 Mg-ATP, 0.3 Na-GTP,
+2 EGTA (10 for biophysical analysis of Ca2+ currents), 0.4 Fluo-5N (penta-K+
+salt, Invitrogen; for confocal imaging), pH 7.0. The extracellular solution
+contained (in mM) 105 NaCl, 35 TEA-Cl, 2.8 KCl, 2 CaCl2 (10 for fluctuation
+analysis, 5 for confocal imaging, balanced by NaCl), 1 MgCl2, 10 NaOHHEPES, 10 D-glucose and 0.005 BayK8644 (Tocris, for fluctuation analysis),
+pH 7.2 (7.3 for whole-cell recordings). EPC-9 amplifiers controlled by Pulse or
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009
+
+Patchmaster software (HEKA Elektronik) were used for measurements. All
+voltages were corrected for liquid-junction potentials. Currents were low-pass
+filtered at 14 kHz and 2 kHz and sampled at 100 kHz and 10 kHz for whole-cell
+recordings and perforated-patch recordings, respectively. Cells that showed a
+holding current exceeding 50 pA were discarded from analysis. Ca2+ currents
+were further isolated using a P/n protocol. Series resistance was required to be
+below 30 MO for perforated-patch experiments and averaged 10.0 ± 0.5 MO
+(n ¼ 59) in the fluctuation analysis experiments. Fluctuation analysis was
+performed similarly to that previously described11. To account for channel
+gating-related and filter-induced correlations between neighboring currentvariance data points, we fitted the variance-over-mean data by an estimated
+generalized least-squares method (Supplementary Table 2). The first 600 ms of
+the tail current routinely were discarded. To avoid errors introduced by
+remaining, uncancelled capacitive transients, we subtracted a scaled version
+of the transient that was evident at the beginning of the depolarization step (see
+Fig. 4e) from the mean current trace (after calculation of the ensemble
+variance). Membrane capacitance increments (DCm) were measured
+as previously described5. Interstimulus periods were 2–3 s between sweeps,
+1–2 min between ensembles for confocal imaging, and 30–70 s for
+exocytosis measurements.
+Confocal Ca2+ imaging was performed as described40, using a Fluoview 300
+confocal scanner mounted on an upright microscope (BX50WI) equipped with
+a 0.9 numerical aperture (NA), 60, water immersion objective (all Olympus)
+and a 50-mW, 488-nm, solid-state laser (Cyan, Newport-Spectraphysics).
+Fluorescent hotspots were identified in xy-scans during 200-ms depolarizations
+(0.5% of maximum laser intensity) and further characterized using spot
+detection (‘point scan’ mode of the confocal scanner, temporally averaged to
+yield an effective sampling rate of 1.85 kHz, 0.05% of maximum laser intensity)
+and line scans (at a rate of 0.74 kHz, 0.25% of maximum laser intensity). Spot
+detection measurements and line scans were repeated 5 and 10 times,
+respectively, to improve signal-to-noise ratio. Peak DF estimates of spot
+detection measurements were obtained after repetitive boxcar smoothing
+(2-ms box). On average, we characterized 3.1 and 1.7 spots per IHC for
+apical-basal and neural-abneural comparisons, respectively. The average Ca2+
+current rundown at the end of the experiment was 30% of the maximum
+current. For investigating intracellular differences, Ca2+ microdomain characterization was followed by acquisition of a z-stack of the indicator-filled cell so
+that its location could be retrieved.
+Immunohistochemistry. Immunostaining was performed as previously
+described6. Briefly, the freshly dissected apical cochlear turns were fixed with
+4% paraformaldehyde for 1 h on ice, with 2% formaldehyde for 10 min at
+20–22 1C (for staining with antibody to GluR2/3 (anti-GluR2/3)), or for
+25 min in 99% methanol at –20 1C (for anti-CaV1.3). For harvesting the fulllength organs of Corti, cochleae were fixed by cochlear perfusion with 2%
+formaldehyde for 10 min. The following antibodies were used: mouse IgG1
+anti-CtBP2 (also recognizing the ribbon protein RIBEYE; BD Biosciences,
+1:150), rabbit anti-GluR2/3 (Chemicon, 1:200), rabbit anti-calbindin (Swant,
+1:400), rabbit anti-CaV1.3 (Alomone Labs, 1:75) and secondary Alexa Fluor
+488– and Alexa Fluor 568–labeled antibodies (Molecular Probes, 1:200) as well
+as Atto-647N (AttoTech, 1:60 dilution in PBS with addition of 2% normal goat
+serum) for STED microscopy. In some experiments, nuclei were stained with
+Hoechst 34580 (Molecular Probes, 1:1,000).
+Confocal, 4Pi and STED microscopy. Confocal morphological images were
+acquired using a laser scanning confocal microscope (Leica TCS SP5, Leica
+Microsystems) with 405-nm (diode), 488-nm (argon) and 561-nm (diodepumped solid state) lasers for excitation and a 63 oil immersion objective
+(NA ¼ 1.4). Whole-mount preparations of the organ of Corti allowed us to
+analyze several IHCs in a row, as previously described6. For three-dimensional
+reconstructions of the specimen, z-axis stacks of two-dimensional images were
+taken with a step size of 0.049 mm, 0.2 mm or 0.3 mm. Multifocal 4Pi
+microscopy with water immersion lenses (NA 1.2) at a two-photon excitation
+wavelength of 870 nm (average power, 1.5 mW for each of the 4Pi foci) was
+performed at a custom microscope as described6,26,27. For STED imaging,
+two different microscopes were used: (i) a Leica TCS STED microscope
+(Fig. 3d–g) using two pulsed lasers for excitation (diode laser, 635 nm,
+
+451
+
+ARTICLES
+o90 ps) and stimulated emission (Ti:sapphire, 750 nm, B300 ps), with both
+lasers running at a repetition rate of 80 MHz and synchronized to each
+other to ensure optimal STED efficiency in the focal plane; and (ii) a custom
+microscope50 (Fig. 3h–j). This microscope used identical lasers but allowed for
+higher STED powers and therefore exhibited a resolution of B50 nm and
+B150 nm for two-dimensional (x,y) and three-dimensional (x,y,z) imaging,
+respectively. Single confocal and STED images of ribbons and Ca2+ channel
+clusters were acquired after adjusting the focus of the 100 oil immersion lens
+(NA ¼ 0.7 or 1.4) to the fluorescence maximum of an object of interest, as
+found in a xz-scan.
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Electron microscopy. See Supplementary Methods.
+Data analysis. Data was analyzed using Matlab (MathWorks), Igor Pro
+(Wavemetrics) and ImageJ software. Figures were assembled for display in
+Adobe Photoshop and Illustrator software. Mean DCm and Ca2+ current
+estimates are grand means calculated from the mean estimates of individual
+IHCs. Means were expressed ± s.d. (or s.e.m. when noted). If applicable (that is,
+as determined by normality of the distribution (Jarque-Bera test) and equal
+variances between (F-test) the two samples), an unpaired, two-tailed t-test was
+used to compare the two samples. In all other cases, a Mann-WhitneyWilcoxon test was used.
+Image analysis. For synaptic cochleograms, CtBP2/RIBEYE immunofluorescence spots in the basolateral portion of IHCs (up to the apical end of the
+CtBP2-stained nucleus) were counted in z-stacks and divided by the number of
+IHCs (taken as the quantity of nuclei in the field of view). Estimation of the
+cellular synapse distribution was performed using custom-written MATLAB
+routines (available at http://www.innerearlab.uni-goettingen.de/) that included
+(i) alignment of the image stacks with the tonotopic axis, (ii) image segmentation into ribbons (positive, if more than four connected voxels were above
+threshold) and nuclei, (iii) center of mass calculation for both types of
+structures (by a three-dimensional gaussian fit in the case of nuclei), (iv)
+assignment of ribbons to the closest IHC nucleus, (v) alignment of the
+individual IHC’s z-axis to a common z-axis, (vi) normalization of the cell’s
+z-extent (measured from the center of the nucleus to the basal end of the IHC)
+to the population average and (vii) vector calculation. For Figure 2b, we also
+normalized the radial extent of the IHCs for improved superposition.
+The FWHM in confocal and STED images was estimated using gaussian
+functions (two-dimensional for morphology, one-dimensional for functional
+imaging). The two-dimensional data in Figure 3j was linearly deconvolved with
+a two-dimensional gaussian PSF (FWHM of 70 nm for the STED and 250 nm
+for the confocal).
+Note: Supplementary information is available on the Nature Neuroscience website.
+
+ACKNOWLEDGMENTS
+We thank E. Neher, M. Göpfert, R. Nouvian, N. Strenzke, M. Müller and
+A. Lysakowski for comments on the manuscript; K. Wadel and C. Henrich for
+participation in an early stage of the project; A. Neef for image analysis support;
+J. Hegerman and S. Eimer for support with high-pressure rapid freeze and freeze
+substitution; and C. Rüdiger and M. Köppler for technical assistance. This work
+was supported by grants from the Deutsche Forschungsgemeinschaft (Center for
+Molecular Physiology of the Brain; T.M., A.E. and S.W.H), a Lichtenberg
+Fellowship from the state of Lower Saxony (T.F.), the European Commission
+(Eurohear, T.M.), the Max-Planck-Society (Tandemproject, T.M.), BMBF
+(Bernstein Center for Computational Neuroscience Göttingen, T.M.) and an
+intramural grant from the University of Göttingen Medical School (A.C.M.).
+AUTHOR CONTRIBUTIONS
+The study was designed by T.M., A.C.M., A.E. and T.F. The experimental
+work was performed by A.C.M., T.F., D.K., D.R., G.H., N.M.C., Y.M.Y. and
+B.H. S.W.H. co-developed the super-resolution microscopes.
+Published online at http://www.nature.com/natureneuroscience/
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1. Fuchs, P.A. Time and intensity coding at the hair cell’s ribbon synapse. J. Physiol. 566,
+7–12 (2005).
+
+452
+
+2. Moser, T., Neef, A. & Khimich, D. Mechanisms underlying the temporal precision of
+sound coding at the inner hair cell ribbon synapse. J. Physiol. (Lond.) 576, 55–62
+(2006).
+3. Nouvian, R., Beutner, D., Parsons, T.D. & Moser, T. Structure and function of the hair cell
+ribbon synapse. J. Membr. Biol. 209, 153–165 (2006).
+4. Sterling, P. & Matthews, G. Structure and function of ribbon synapses. Trends Neurosci.
+28, 20–29 (2005).
+5. Moser, T. & Beutner, D. Kinetics of exocytosis and endocytosis at the cochlear inner hair
+cell afferent synapse of the mouse. Proc. Natl. Acad. Sci. USA 97, 883–888 (2000).
+6. Khimich, D. et al. Hair cell synaptic ribbons are essential for synchronous auditory
+signalling. Nature 434, 889–894 (2005).
+7. Griesinger, C.B., Richards, C.D. & Ashmore, J.F. Fast vesicle replenishment allows
+indefatigable signalling at the first auditory synapse. Nature 435, 212–215 (2005).
+8. Goutman, J.D. & Glowatzki, E. Time course and calcium dependence of transmitter
+release at a single ribbon synapse. Proc. Natl. Acad. Sci. USA 104, 16341–16346
+(2007).
+9. Platzer, J. et al. Congenital deafness and sinoatrial node dysfunction in mice lacking
+class D L-type Ca2+ channels. Cell 102, 89–97 (2000).
+10. Brandt, A., Striessnig, J. & Moser, T. CaV1.3 channels are essential for development and
+presynaptic activity of cochlear inner hair cells. J. Neurosci. 23, 10832–10840 (2003).
+11. Brandt, A., Khimich, D. & Moser, T. Few CaV1.3 channels regulate the exocytosis of a
+synaptic vesicle at the hair cell ribbon synapse. J. Neurosci. 25, 11577–11585
+(2005).
+12. Matsubara, A., Laake, J.H., Davanger, S., Usami, S. & Ottersen, O.P. Organization of
+AMPA receptor subunits at a glutamate synapse: a quantitative immunogold analysis of
+hair cell synapses in the rat organ of Corti. J. Neurosci. 16, 4457–4467 (1996).
+13. Glowatzki, E. & Fuchs, P.A. Transmitter release at the hair cell ribbon synapse. Nat.
+Neurosci. 5, 147–154 (2002).
+14. Liberman, M.C. Morphological differences among radial afferent fibers in the cat
+cochlea: an electron-microscopic study of serial sections. Hear. Res. 3, 45–63 (1980).
+15. Rutherford, M.A. & Roberts, W.M. Frequency selectivity of synaptic exocytosis in frog
+saccular hair cells. Proc. Natl. Acad. Sci. USA (2006).
+16. Johnson, S.L., Forge, A., Knipper, M., Munkner, S. & Marcotti, W. Tonotopic variation in
+the calcium dependence of neurotransmitter release and vesicle pool replenishment at
+mammalian auditory ribbon synapses. J. Neurosci. 28, 7670–7678 (2008).
+17. Liberman, M.C. The cochlear frequency map for the cat: labeling auditory-nerve fibers of
+known characteristic frequency. J. Acoust. Soc. Am. 72, 1441–1449 (1982).
+18. Muller, M., von Hunerbein, K., Hoidis, S. & Smolders, J.W. A physiological placefrequency map of the cochlea in the CBA/J mouse. Hear. Res. 202, 63–73 (2005).
+19. Liberman, M.C., Dodds, L.W. & Pierce, S. Afferent and efferent innervation of the cat
+cochlea: quantitative analysis with light and electron microscopy. J. Comp. Neurol. 301,
+443–460 (1990); erratum 304, 341 (1991)..
+20. Slepecky, N.B., Galsky, M.D., Swartzentruber-Martin, H. & Savage, J. Study of afferent
+nerve terminals and fibers in the gerbil cochlea: distribution by size. Hear. Res. 144,
+124–134 (2000).
+21. Francis, H.W., Rivas, A., Lehar, M. & Ryugo, D.K. Two types of afferent terminals innervate cochlear inner hair cells in C57BL/6J mice. Brain Res. 1016, 182–194 (2004).
+22. Liberman, M.C. Single-neuron labeling in the cat auditory nerve. Science 216,
+1239–1241 (1982).
+23. Taberner, A.M. & Liberman, M.C. Response properties of single auditory nerve fibers in
+the mouse. J. Neurophysiol. 93, 557–569 (2005).
+24. Merchan-Perez, A. & Liberman, M.C. Ultrastructural differences among afferent
+synapses on cochlear hair cells: correlations with spontaneous discharge rate.
+J. Comp. Neurol. 371, 208–221 (1996).
+25. Ruel, J. et al. Dopamine inhibition of auditory nerve activity in the adult mammalian
+cochlea. Eur. J. Neurosci. 14, 977–986 (2001).
+26. Hell, S. & Stelzer, E.H.K. Properties of a 4Pi-confocal fluorescence microscope. J. Opt.
+Soc. Am. A 9, 2159–2166 (1992).
+27. Egner, A., Jakobs, S. & Hell, S.W. Fast 100-nm resolution three-dimensional microscope
+reveals structural plasticity of mitochondria in live yeast. Proc. Natl. Acad. Sci. USA 99,
+3370–3375 (2002).
+28. Hell, S.W. & Wichmann, J. Breaking the diffraction resolution limit by stimulated
+emission: stimulated emission depletion microscopy. Opt. Lett. 19, 780–782 (1994).
+29. Muller, M. The cochlear place-frequency map of the adult and developing Mongolian
+gerbil. Hear. Res. 94, 148–156 (1996).
+30. Wu, Y.C., Tucker, T. & Fettiplace, R. A theoretical study of calcium microdomains in
+turtle hair cells. Biophys. J. 71, 2256–2275 (1996).
+31. Martinez-Dunst, C., Michaels, R.L. & Fuchs, P.A. Release sites and calcium channels in
+hair cells of the chick’s cochlea. J. Neurosci. 17, 9133–9144 (1997).
+32. Masugi-Tokita, M. et al. Number and density of AMPA receptors in individual synapses in
+the rat cerebellum as revealed by SDS-digested freeze-fracture replica labeling.
+J. Neurosci. 27, 2135–2144 (2007).
+33. Tokuoka, H. & Goda, Y. Activity-dependent coordination of presynaptic release probability and postsynaptic GluR2 abundance at single synapses. Proc. Natl. Acad. Sci.
+USA 105, 14656–14661 (2008).
+34. Rostaing, P., Weimer, R.M., Jorgensen, E.M., Triller, A. & Bessereau, J.L. Preservation of
+immunoreactivity and fine structure of adult C. elegans tissues using high-pressure
+freezing. J. Histochem. Cytochem. 52, 1–12 (2004).
+35. Roberts, W.M., Jacobs, R.A. & Hudspeth, A.J. Colocalization of ion channels involved in
+frequency selectivity and synaptic transmission at presynaptic active zones of hair cells.
+J. Neurosci. 10, 3664–3684 (1990).
+36. Tucker, T. & Fettiplace, R. Confocal imaging of calcium microdomains and calcium
+extrusion in turtle hair cells. Neuron 15, 1323–1335 (1995).
+
+VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+43. Tsuji, J. & Liberman, M.C. Intracellular labeling of auditory nerve fibers in guinea pig:
+central and peripheral projections. J. Comp. Neurol. 381, 188–202 (1997).
+44. Ehret, G. Age-dependent hearing loss in normal hearing mice. Naturwissenschaften 61,
+506–507 (1974).
+45. Liberman, M.C. et al. Prestin is required for electromotility of the outer hair cell and for
+the cochlear amplifier. Nature 419, 300–304 (2002).
+46. Ehret, G. Common rules of communication sound perception. in Behavior and Neurodynamics for Auditory Communication (ed. J.S. Kanwal & G. Ehret) 85–114 (Cambridge
+University Press, Cambridge, 2006).
+47. Fuchs, P.A., Glowatzki, E. & Moser, T. The afferent synapse of cochlear hair cells.
+Curr. Opin. Neurobiol. 13, 452–458 (2003).
+48. Nusser, Z. AMPA and NMDA receptors: similarities and differences in their synaptic
+distribution. Curr. Opin. Neurobiol. 10, 337–341 (2000).
+49. Johnson, S.L. & Marcotti, W. Biophysical properties of CaV1.3 calcium channels in
+gerbil inner hair cells. J. Physiol. (Lond.) 586, 1029–1042 (2008).
+50. Harke, B. et al. Resolution scaling in STED microscopy. Opt. Express 16, 4154–4162
+(2008).
+
+© 2009 Nature America, Inc. All rights reserved.
+
+37. Schnee, M.E., Lawton, D.M., Furness, D.N., Benke, T.A. & Ricci, A.J. Auditory hair cellafferent fiber synapses are specialized to operate at their best frequencies. Neuron 47,
+243–254 (2005).
+38. Beutner, D., Voets, T., Neher, E. & Moser, T. Calcium dependence of exocytosis and
+endocytosis at the cochlear inner hair cell afferent synapse. Neuron 29, 681–690
+(2001).
+39. Rodriguez-Contreras, A. & Yamoah, E.N. Direct measurement of single-channel Ca2+
+currents in bullfrog hair cells reveals two distinct channel subtypes. J. Physiol. (Lond.)
+534, 669–689 (2001).
+40. Frank, T., Khimich, D., Neef, A. & Moser, T. Mechanisms contributing to synaptic Ca2+
+signals and their heterogeneity in hair cells. Proc. Natl. Acad. Sci. USA (in the press).
+41. Issa, N.P. & Hudspeth, A.J. Clustering of Ca2+ channels and Ca2+-activated K+ channels
+at fluorescently labeled presynaptic active zones of hair cells. Proc. Natl. Acad. Sci. USA
+91, 7578–7582 (1994).
+42. Zenisek, D., Davila, V., Wan, L. & Almers, W. Imaging calcium entry sites
+and ribbon structures in two presynaptic cells. J. Neurosci. 23, 2538–2548
+(2003).
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2009
+
+453
+
+

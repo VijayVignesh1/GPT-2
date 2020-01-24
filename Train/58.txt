@@ -1,0 +1,649 @@
+Covariation of axon initial segment location and
+dendritic tree normalizes the somatic action potential
+Mustafa S. Hamadaa,b, Sarah Goethalsc
+, Sharon I. de Vriesa
+, Romain Brettec
+, and Maarten H. P. Kolea,b,1
+a
+Department of Axonal Signaling, Netherlands Institute for Neuroscience, Royal Netherlands Academy of Arts and Sciences (KNAW), 1105 BA Amsterdam,
+The Netherlands; b
+Cell Biology, Faculty of Science, Utrecht University, 3584 CH Utrecht, The Netherlands; and c
+Sorbonne Universités, Université Pierre et
+Marie Curie (UPMC) Univ Paris 06, INSERM, CNRS, Institut de la Vision, 75012 Paris, France
+Edited by Bruce P. Bean, Harvard Medical School, Boston, MA, and approved November 4, 2016 (received for review May 12, 2016)
+In mammalian neurons, the axon initial segment (AIS) electrically
+connects the somatodendritic compartment with the axon and
+converts the incoming synaptic voltage changes into a temporally
+precise action potential (AP) output code. Although axons often
+emanate directly from the soma, they may also originate more
+distally from a dendrite, the implications of which are not wellunderstood. Here, we show that one-third of the thick-tufted layer
+5 pyramidal neurons have an axon originating from a dendrite and
+are characterized by a reduced dendritic complexity and thinner
+main apical dendrite. Unexpectedly, the rising phase of somatic
+APs is electrically indistinguishable between neurons with a somatic
+or a dendritic axon origin. Cable analysis of the neurons indicated
+that the axonal axial current is inversely proportional to the AIS
+distance, denoting the path length between the soma and the start
+of the AIS, and to produce invariant somatic APs, it must scale with
+the local somatodendritic capacitance. In agreement, AIS distance
+inversely correlates with the apical dendrite diameter, and model
+simulations confirmed that the covariation suffices to normalize
+the somatic AP waveform. Therefore, in pyramidal neurons, the AIS
+location is finely tuned with the somatodendritic capacitive load,
+serving as a homeostatic regulation of the somatic AP in the face of
+diverse neuronal morphologies.
+axon initial segment | action potential | dendrites | axon |
+computational model
+The axon initial segment (AIS) specifies in vertebrate neurons
+a single domain for the final integration of synaptic input and
+the initiation of action potentials (APs) (1, 2). To rapidly produce large inward and outward currents mediating the AP, the
+AIS contains a complex arrangement of cytoskeletal and transmembrane proteins clustering high densities of voltage-gated
+sodium (Nav) and potassium (Kv) channels in the axolemma
+(2–4). Although the composition of ion channels is critical for
+initiation and regulation of firing patterns, there are emerging
+insights that the AIS is not operating in isolation but is also
+subject to activity-dependent changes in size and location
+constrained by the local dendritic branch geometry and the
+passive cable properties (5–7). Experimental studies linking
+changes in AIS length and neuronal output showed that an increased length facilitates AP generation (6, 8). In these cases, the
+net increased excitability is a logical consequence of the larger
+Nav conductance. However, predicting the impact of AIS location
+on neuronal output is more complex. Experimental studies
+showed that an activity-dependent distal shift of the AIS is associated with decreased AP output (5). In contrast, model simulations showed that shifting the AIS distally promotes excitability
+(9). One of the critical factors influencing AIS excitability is the
+large somatodendritic membrane area acting as current sink for
+sodium current generated in the AIS (10–12). In this view, a distal
+anatomical location of the AIS increases electrical compartmentalization and facilitates axonal AP generation. Indeed, the local
+depolarization in the AIS is proportional to the axial resistance
+between the soma and the AP initiation site, which increases with
+distance from the soma (11). However, increasing the distance
+between soma and AIS will be unfavorable for synapse to spike
+coupling, because it increases voltage attenuation and thereby,
+reduces the possibility for synaptic potentials to cross the AP
+threshold in the AIS (13). Furthermore, pyramidal neurons require axonal APs to rapidly depolarize the soma and activate
+somatic voltage-gated Nav channels to produce the dendritic
+back-propagating AP (14, 15).
+In view of the importance of AIS location in neuronal excitability, it is striking that the reported intercellular variability
+within neuron cell types is large. In 50 to 70% of dopaminergic
+and GABAergic neurons of the substantia nigra, the axon arises
+from dendrites, even up to ∼260-μm distance from the soma
+(16–18). In fact, an axon origin from a dendrite is even a defining feature of some hippocampal interneurons (19, 20).
+Furthermore, about 30 to 60% of the pyramidal neurons in the
+hippocampus have an axon emerging from a basal (or sometimes, an apical) dendrite up to ∼40-μm distance from the soma
+(20, 21), and also, in the neocortex, axons have been observed to
+emerge from basal dendrites (19, 22, 23). Here, we investigated
+whether AIS location plays a functional role in neocortical pyramidal neuron excitability. We found that AIS distance from
+the soma but not length strongly and inversely correlates with
+the dendritic morphology and follows the theoretical relationship predicted by cable theory when resistive coupling between
+the soma and axon adjusts a longitudinal current that normalizes somatic AP generation. The large intercellular variation in
+AIS location thus reflects structural homeostatic scaling to normalize the somatic AP in the face of diverse morphologies of
+dendritic trees.
+Significance
+Neurons generate highly reliable and temporally precise action
+potentials with a spatial onset in the axon initial segment. The
+axon initial segment location relative to the soma is, however,
+highly variable across neurons within the same cell class. Here,
+we experimentally and theoretically investigated the structure–
+function relationship of axon distances in neocortical pyramidal
+neurons. We discovered a scaling principle between the size of
+the dendritic tree and the axon distance supported by the cable
+properties and electrophysiological recordings. The work reveals
+that axons are not randomly positioned but covary with dendrites normalizing the somatic action potential in the face of
+diverse cellular morphologies.
+Author contributions: M.H.P.K. designed research; M.S.H., S.G., S.I.d.V., R.B., and M.H.P.K.
+performed research; R.B. contributed new reagents/analytic tools; M.S.H., S.G., R.B., and
+M.H.P.K. analyzed data; and M.S.H., R.B., and M.H.P.K. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+1
+To whom correspondence should be addressed. Email: m.kole@nin.knaw.nl.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1607548113/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1607548113 PNAS | December 20, 2016 | vol. 113 | no. 51 | 14841–14846
+NEUROSCIENCE
+Results
+Thick-Tufted Layer 5 Neurons Have Diverse Axonal Origins. To characterize the diversity in axon locations in layer 5 pyramidal neurons,
+we colabeled tissue sections containing the primary somatosensory
+hind limb region from adult Wistar rats with Gp-anti–NeuN, a
+somatodendritic marker, Rb–anti-Ankyrin G, an AIS marker, and
+M-anti–SMI-32 (Sternberger monoclonal-incorporated antibody
+32), a neurofilament marker, for type 1 (thick-tufted) layer 5 neurons (24) (Fig. 1A). SMI-32+ primary axons could be observed
+emanating from either the soma or a basal dendritic branch (Fig.
+1B). Population analysis (n = 7 animals; two to three sections per
+animal) showed that neurons with an axon origin from a dendrite,
+hereby referred to as “axodendritic” neurons, constitute one-third
+of the population of SMI-32+ neurons (Fig. 1C). The large fraction
+of pyramidal neurons with an axon starting from a basal dendrite
+may indicate that they represent a distinct subtype. Based on
+electrophysiological and anatomical features, two major types of
+layer 5 pyramidal neurons have been identified: intracortically
+(corticocortical) projecting slender tufted layer 5 neurons and
+subcortically [corticosubcortical (CS)] projecting thick-tufted layer 5
+neurons (24–26). Although SMI-32 typically labels thick-tufted layer
+5 neurons, they may be further divided into subpopulations (24, 25).
+To test whether axodendritic and axosomatic neurons project to
+different targets, we injected fluorescent retrograde beads in the
+spinal cord (C2/3) (Fig. S1). Fluorescent retrobeads were localized
+exclusively in the somata of superficial and deep layer 5 neurons in
+the somatosensory and motor cortices. From a total of 313 analyzed
+neurons, 178 were back-labeled with fluorescent retrobeads. Within
+the population of layer 5 neurons with identified axon origin (somatic
+or dendritic), 58% of the axosomatic neurons projected to C2/3 (n =
+160 of 277) compared with 46% of the axodendritic neurons (n = 17
+of 37; Fisher’s exact test, P = 0.2167) (Fig. S1), indicating equal
+subcerebral targeting of both subtypes. Next, we made whole-cell
+recordings from visually identified pyramidal layer 5 neurons and
+filled them with biocytin for posthoc immunofluorescence using βIVspectrin to identify the axon location (n = 38 cells; 27 animals).
+Similarly, a large fraction of neurons was axodendritic (50%; n = 19
+of 38). The dendritic organization of both subtypes showed that
+apical dendrites branched extensively in layer 1, consistent with a CS
+cell type (Fig. 1D, Fig. S2, and Table S1). Interestingly, quantitative
+analysis showed that the sum of dendritic branches was smaller in the
+basal region of the axodendritic neurons (Fig. 1E and Table S1). This
+difference was further supported by a Sholl analysis revealing that the
+density of basal dendrites was significantly lower in axodendritic
+neurons (two-way ANOVA, P < 0.05, n = 26) (Fig. 1F). Additional
+comparison of branches as a function of distance from the soma
+showed that axodendritic neurons have fewer (basal and apical)
+dendritic sections within a proximal region of 100–200 μm from the
+cell body and a lower complexity of both basal and apical dendritic
+sections (Fig. 1 F and G). Taken together, these results indicate that
+the subcellular axon origin is not associated with a specific subtype
+but is associated with quantitative differences in the dendritic tree.
+0%
+100%
+1
+2/3
+4
+5
+1
+2/3
+4
+5
+Axosomatic Axodendritic Difference
+ Axosomatic
+ Axodendritic
+D
+G
+1
+2/3
+4
+5
+F
+Basal Apical
+E
+Axodendritic
+Axosomatic
+n = 35
+n = 87
+A NeuN Ankyrin G BSMI-32 Ankyrin G NeuN Axodendritic Axosomatic
+Axosomatic Axodendritic
+C
+27%
+–14%
+40
+20
+0
+sn iot cesr et in ictir dneD
+Soma 400 800 1200
+Radius (µm)
+–400
+*
+*
+* 4
+2
+0
+ytit nau Q
+0 3 6 9
+ Basal branch order
+8
+4
+0
+0 10 20 30
+Apical branch order
+*
+Fig. 1. Axodendritic layer 5 pyramidal neurons are abundant in the neocortex and characterized by a smaller dendritic tree. (A) z-Projected confocal scan of a tripleimmunofluorescence labeling for NeuN (somatodendritic marker; blue), Ankyrin G (an AIS marker; green), and SMI-32 (type 1 pyramidal cell marker; white). SMI-32+
+neurons with identified axon location are indicated (yellow). (Scale bar: 25 μm.) (B, Left) Single fluorescence channels and merged image of an axodendritic neuron. (B,
+Right) Merged scan of an axosomatic neuron. Red arrowheads indicate the start of the AIS. d, Axodendritic; s, axosomatic. (Scale bar: 20 μm.) (C) Axodendritic neurons
+constitute one-third of the SMI-32+ neurons (28.7%; 35 of 122). (D) Representative examples of 3D reconstructed dendritic trees of axosomatic and axodendritic
+neurons. (Scale bar: 100 μm.) (E) Average heat maps of (Left) axosomatic (n = 13) and (Center) axodendritic (n = 13) neurons. (Right) Note the higher density of basal
+dendrites in the subtracted heat map. (F) Sholl plot of axosomatic (○) and axodendritic (●) neurons at 20-μm intervals. Two-way repeated measures ANOVA interaction
+P = 0.0651, intersections P < 0.0001, and subtype P < 0.0001. Bonferroni’s posthoc test. Error bars represent SEM. *P < 0.05. (G) Axodendritic neurons possess lower
+branch order of the basal dendrites. Basal branch order: two-way ANOVA interaction P = 0.3468, branch order P < 0.0001, and subtype P = 0.030. Bonferroni’s posthoc
+test. Apical branch order: two-way ANOVA interaction P = 0.0165, branch order P < 0.0001, and subtype P = 0.0016. Error bars represent SEM. *P < 0.05.
+14842 | www.pnas.org/cgi/doi/10.1073/pnas.1607548113 Hamada et al.
+The Dendritic Morphology Scales Specifically with AIS Distance. Salient
+characteristics of axodendritic layer 5 neurons were their relatively
+narrow diameter of the proximal apical dendritic trunk (Fig. 2 A
+and B and Table S2) and smaller somatic cross-sectional area (Fig.
+2 A and B and Table S2), consistent with their reduced dendritic
+organization (Fig. 1 E and F). To obtain a single measure for AIS
+location, we determined the AIS distance (AISΔ) as the linear path
+length from the base of the soma to the start of the dense expression of either βIV-spectrin or Ankyrin G (Fig. 2A). In contrast
+to previous observations in mouse hippocampal pyramidal neurons
+(21), we never detected Ankyrin G or βIV-spectrin immunofluorescence signals in the dendritic branches connecting the axon,
+suggesting that AISΔ accurately reflects the anatomical distance
+from the soma. In axodendritic neurons, AISΔ was significantly
+more distal compared with axosomatic neurons (Fig. 2 A and B and
+Table S2). The size of the AIS compartment was, however, constant; neither AIS length nor the 2D area were different between
+subtypes (Table S2). Interestingly, specifically, the AISΔ inversely
+and strongly correlated with the apical dendrite diameter (Fig. 2C
+and Table S3). A correlation between the axonal and dendritic
+organization was further corroborated when plotting AISΔ against
+the total number of dendritic nodes (Fig. 2D and Table S3) and the
+total dendritic length as well as the total dendritic area (Fig. S3). In
+contrast, neither AIS length nor the area correlated with apical
+dendritic diameter (Table S3). These findings suggest that, in the
+population of thick-tufted layer 5 neurons, the AISΔ is fine-tuned
+with the anatomical organization of dendrites.
+Somatodendritic Capacitive Load Predicts Axonal Coupling Resistance.
+To examine whether AISΔ, ranging from 1.5 to 20 μm, impacts
+neuronal excitability, we examined the somatically recorded AP
+properties. The first rate of rise (dVm dt –1
+) component of the somatic
+AP reflects the axonal axial current charging the somatodendritic
+capacitor (14). If the local somatodendritic capacitance is constant,
+dVm dt –1 is expected to vary as a function of AISΔ because of the
+axial resistance (Ra). In striking contrast to the predictions, the first
+peak in the dVm dt –1 showed no difference between the subtypes
+(Fig. 3 A–C, Fig. S4, and Table S4), and did not correlate with
+AISΔ (Fig. 3C). Similarly, the second, somatic component was also
+not different (Table S4). Also, the onset rapidness, defined as the
+slope of a linear fit to the AP phase plot (dVm dt –1 vs. Vm; with
+units of milliseconds–1
+), was not different (∼78 ms–1
+) (Table S4).
+Theoretical work predicts that increasing AISΔ is associated
+with a more hyperpolarized AP voltage threshold (11). Although
+AP voltage threshold was significantly more hyperpolarized in
+axodendritic neurons (∼3 mV, P = 0.0005) (Table S4), it did not
+correlate with AISΔ (r = –0.332, P = 0.055) (Table S3). The AP
+voltage threshold rather correlated with the apical dendritic diameter (r = 0.488, P = 0.003) (Table S3), and the larger apical
+dendritic diameter (capacitive load) required larger current amplitudes to reach threshold compared with axodendritic neurons
+(P = 0.0095) (Table S4). Taken together, AISΔ alone does not
+explain differences in spike generation.
+If the maximal Nav conductance (gNa) within the AIS is constant,
+the axial current should theoretically be larger with a more proximal
+AIS location. Because the somatodendritic capacitance (Cm) acts as
+a current sink, the axial current Iaxon should flow toward the soma
+and leave the neuron as capacitive current: Iaxon = Cm × dVm dt –1
+.
+Based on these concepts, we hypothesized that the larger capacitance of axosomatic neurons is matched with the larger axial
+current expected for more proximal AIS locations. This idea is
+supported by the observation that apical dendrites in the axosomatic
+neurons are, on average, ∼2 μm larger in diameter (Fig. 2 A and B)
+and strongly correlated with the AISΔ (Fig. 2C and Table S3). It
+may be predicted that AISΔ is inversely proportional to the capacitance of a characteristic length of apical dendrite, which scales
+as d−3=2
+, where d is the apical dendritic diameter. Indeed, correlation of the transformed geometrical data showed that AISΔ is wellpredicted by apical d−3=2 (Fig. 3D). To examine more closely the
+relationship with resistive coupling ðRaÞ, we determined for each
+cell the specific coupling Ra based on the 3D reconstructions assuming a specific intracellular cytoplasmic resistance ðRi) of 150 Ω
+cm (Materials and Methods). Interestingly, there was a strong linear
+relationship between Ra and AISΔ (Fig. 3E), suggesting that branch
+diameters are not greatly different between the subtypes. Next,
+using the coupling Ra estimates, we tested whether apical d−3=2 is a
+predictor for Ra and found a significant linear relationship (Fig. 3F).
+These data suggest that resistive coupling increases with smaller
+dendritic capacitance to reduce Iaxon during spike initiation and that
+the scaling of coupling Ra with dendrites is independent of a somatic or dendritic origin of the axon.
+Biophysical Analysis of Dendritic and Axonal Tuning of the Somatic
+AP. To understand how AISΔ influences the capacitive depolarization of the somatodendritic membrane by the axonal AP,
+we examined a simple biophysical model consisting of a cylindrical axon (diameter of 1.5 μm) connected to a larger cylindrical
+somatodendritic compartment (diameter of 6 μm and length of
+A
+Axo-s
+Axo-d
+C D
+2 4 6 8 10 12
+Apical d (µm)
+25
+20
+15
+10
+5
+0
+IS A Δ ) m(µ
+25
+20
+15
+10
+5
+0
+20 40 60 80 100 120
+Total dendritic nodes
+IS A Δ ) m(µ
+d
+Soma
+d
+AISΔ
+Soma
+B
+Biocytin βIV-spectrin
+12 ***
+8
+4
+0
+r et e mia dl a ic pA ) m(µ
+20 ***
+15
+10
+5
+0
+IS A Δ ) m(µ
+1200
+800
+400
+0
+aer a a moS m(µ 2
+)
+* Axo-d
+Axo-s
+r = –0.731*** r = –0.596**
+AISΔ
+Fig. 2. Dendritic morphology correlates with AIS distance. (A, Left) z-Projected
+confocal images of filled axosomatic and axodendritic layer 5 neurons (blue)
+overlaid with βIV-spectrin (green). (A, Right) Schematic with AISΔ indicating
+the linear path from soma base to start of βIV-spectrin expression. Yellow
+closed arrowheads indicate start and end of the βIV-spectrin immunofluorescence signal; yellow open arrows indicate apical dendrite diameter.
+d, Apical diameter. (Scale bar: 20 μm.) (B) Axodendritic neurons possess smaller
+apical dendritic diameter and somata but longer AISΔ. Two-way unpaired
+student’s t test. Axodendritic, n = 19; axosomatic, n = 19. Error bars represent
+SEM. Axo-d, axodendritic; Axo-s, axosomatic. *P < 0.05; ***P < 0.00001. (C)
+Correlation analysis between AISΔ and apical dendrite diameter. Pearson’s
+test; n = 38. ***P < 0.0001. (D) Correlation analysis between AISΔ and total
+sum of dendritic nodes. Pearson’s test; n = 26. **P = 0.001.
+Hamada et al. PNAS | December 20, 2016 | vol. 113 | no. 51 | 14843
+NEUROSCIENCE
+500 μm) (Fig. 4A). Kv channels, somatodendritic Nav conductance,
+and the inactivation component of Nav channels were excluded
+(11). When Nav channels open, the membrane potential in the AIS
+rises toward the sodium reversal potential (ENa) (Fig. 4B). Because
+there were no Nav channels between soma and AIS in the model,
+this region should be mostly resistive (resistance Ra). Therefore,
+the axonal current should be Iaxon =ðENa − VsÞ=Ra, where Vs is the
+somatic voltage. We assumed that Vs remains far from ENa and
+close to spike threshold during the initial rise of the somatic AP
+owing to the large somatodendritic capacitance (more precisely, Vs
+rises from spike threshold to somatic threshold, both well below
+ENa). This simplified account indicated that Iaxon ∝1=Ra, and because resistance is linearly proportional to the path length (Fig.
+3E), it follows that Iaxon ∝1=ðAISΔÞ. A more precise analysis yields
+Iaxon ∝ 1=ðAISΔ +δÞ, where δ is a positive shift calculated from the
+parameters (Fig. S5 and SI Materials and Methods). Iaxon must
+charge a large cylindrical somatodendritic compartment with a
+dendritic diameter (d). The voltage response of a cylinder to a
+current scales with diameter as d−3=2 (27). Therefore, for the
+voltage response at the soma to be independent of the diameter,
+AISΔ must scale as d−3=2 (Materials and Methods and Fig. S5). As
+predicted, peak Iaxon and dVm dt –1 do not depend on leak currents
+(Fig. S5) or AIS length in the range tested but are inversely related
+with AISΔ (Fig. 4C). In general, our theoretical analysis predicts
+that initial dVm dt –1 should scale with dendritic diameter as d−3=2
+,
+and we found numerically and theoretically that those scaling factors were well in line with the experimentally observed relationship
+(Fig. 4D). Finally, is the covariation between dendrites and axons
+sufficient to tune the somatic AP? To test this idea, we varied
+the dendritic diameter between 2 and 8 μm in the model and tuned
+the AISΔ so as to obtain a constant somatic dVm dt –1 of 350 V s–1
+.
+The results from the numerical simulation (Fig. 4E) agreed well
+with this prediction and showed that the AISΔ and the dendritic
+size interact as observed experimentally (compare with Fig. 3D).
+Geometry of the Somatodendritic Compartment Normalizes the
+Consequence of Axon Coupling to the Dendrite. Next, to test how
+dendrites and AISΔ interact in neurons with complex morphologies and the presence of voltage-gated channels, we created a
+A B
+C
+E F
+D
+Fig. 3. Similarity in AP waveform but inverted correlation between AIS distance and dendritic diameter. (A) Overlaid voltage traces of somatic APs (blue,
+axodendritic; AISΔ = 18 μm; red, axosomatic; AISΔ = 3 μm). (Scale bar: 10 ms,
+10 mV.) (Inset) Somatic APs plotted on an expanded timescale. (Scale bar:
+0.1 ms, 10 mV.) (B) Corresponding phase plots of the APs shown in A. (C) The
+first peak in the dVm dt
+–1 did not correlate with AISΔ. Pearson’s test (P = 0.203);
+n = 36. Axo-d, axodendritic; Axo-s, axosomatic. (D) Correlation plot showing AISΔ
+scales with apical d−3=2. Pearson’s test; n = 38. ***P < 0.0001. (E) AISΔ distance is
+linearly related to coupling Ra. Pearson’s test; n = 33. ***P < 0.0001. (F) Correlation of apical d−3=2 vs. coupling Ra. Pearson’s test; n = 33. ***P < 0.0001.
+A B
+C
+D E
+Fig. 4. Numerical simulations predict that dendritic scaling with AIS distance
+normalizes the somatic AP. (A) Illustration of the simplified conductance-based
+model of a pyramidal neuron with cylindrical dendrite/axon (blue) and AIS
+(red). AISΔ (gray) is 5-μm and 45-μm long (diameter of 1.5 μm). Nav (m1
+)
+channels do not inactivate, and Kv channels are not included. (B) Voltage
+waveforms of the AIS (red) and soma (blue; interface of axon and dendrite)
+during AP initiation. Note the lack of repolarization in the simple model.
+(C, Left) Somatic Iaxon and dVm dt
+–1 were independent of AIS length. (C, Right)
+Somatic Iaxon and dVm dt
+–1 showed a strong dependence on AISΔ. (D) Somatic
+dVm dt
+–1 plotted against apical diameter (d) in log–log scale (blue circles). The
+correlation is fitted with a power law function with exponential of −1.22
+(black line) compared with the theoretical prediction of –1.5 (black dashed
+line). (E) Combination of C, Right and D. AISΔ was adjusted to obtain a constant somatic dVm dt
+–1 of 350 V s–1 for dendrite diameters between 2.0 and
+8.0 μm and plotted as a function of d−3=2 (blue circles). The line represents the
+linear regression of the data.
+14844 | www.pnas.org/cgi/doi/10.1073/pnas.1607548113 Hamada et al.
+conductance-based multicompartmental model based on an axosomatic layer 5 pyramidal neuron (Materials and Methods and Fig.
+5A). Based on the βIV-spectrin immunofluorescence signal, the
+AISΔ (2.1 μm) and AIS length (39.5 μm) were precisely implemented in the model (28) (Fig. S6). To test the role of Ra in the
+optimized model, we fixed the diameter of the section representing
+AISΔ to 2 μm and varied the segment length between 2 and 40 μm
+(Fig. 5 B and C). The critical role of AISΔ was evident by the steep
+hyperpolarization of the voltage threshold (Fig. S6) and the decrease of the initial dVm dt –1 of the model APs (Fig. 5C) in similar
+magnitude as predicted with the simplified biophysical model (Fig.
+4C). With an AISΔ of 30 μm, the initial dVm dt –1 reduced substantially, causing a temporal delay in the onset of the somatic AP
+and producing, subsequently, AP reflection in the axon. With an
+AISΔ of 40 μm, the somatic AP failed (Fig. 5 B and C). Increasing
+AISΔ thus facilitates axonal output but negatively impacts the antidromic AP. Finally, to test whether the reduction of Iaxon with
+distal AIS positions can be accounted for by reducing the somatodendritic capacitive load, we positioned the AIS at ∼18 μm from the
+soma. The AIS shift reduced the initial rising phase of the somatic
+AP by ∼179 V s–1 (Fig. 5D), in line with the expected increase in
+resistive coupling (Fig. 4C). Furthermore, in agreement with the
+numerical and theoretical predictions, when the somatic and apical
+dendritic diameters were reduced by 30% (reflecting the average
+dendritic diameter of axodendritic neurons) (Fig. 2B), the initial peak
+in the dVm dt –1 increased selectively and reached approximately
+similar amplitude compared with the control AP (Fig. 5D). Together,
+these simulations with realistic morphologies show that covariation of
+dendritic geometry and AIS distance suffices to tune the somatic AP.
+Discussion
+In this study, we identified that a large fraction of adult thicktufted rat layer 5 pyramidal neurons has an axon emanating from
+a basal dendrite (Fig. 1). These observations are in line with
+earlier reports using Golgi staining or EM from layer 2/3 or 5
+pyramidal cells in a range of different cortical areas and species
+(19, 22, 23) or in hippocampal pyramidal neurons (20, 21) and
+support the notion that variation in axon location is a common
+principle of the cellular architecture of pyramidal cells. Cable
+theory predicts that the axial resistance between the AIS and the
+soma has a strong impact on spike initiation (11). Although the
+resistive coupling values across the population spanned more
+than one order of magnitude (from ∼0.1 to 2.5 MΩ) (Fig. 3), we
+surprisingly could not identify a functional impact of AISΔ on
+somatically recorded AP properties (Table S3). To achieve uniform APs at the soma, our theoretical analyses and compartmental
+simulations predict that AISΔ should be inversely related with the
+local somatodendritic capacitance. The anatomical properties of
+layer 5 pyramidal neurons were well in line with these theoretical
+predictions and revealed a strong correlation, with the correct order of magnitude, with the apical dendrite diameter and number of
+dendritic nodes (Fig. 2 and Table S3). These experimental results
+support the theory of resistive coupling (11), predicting that the
+main determinants of the first component of the somatic AP are
+local geometry and intracellular resistivity.
+Scaling of AIS location with somatodendritic morphology may be
+a general feature of neurons. For example, in midbrain dopaminergic neurons, axons often emanate from a dendrite that is larger
+in diameter (16–18). In these cells, the dendritic APs are electrically
+isolated during synaptic potentials and often characterized by
+temporal imprecision, failure, reverberation, and/or reflection (18).
+Because dopaminergic cells release neurotransmitter from somatodendritic sites, it is thought that dendritic origin of the AIS facilitates somatodendritic autoinhibition (18). In other cell types, the
+AIS location is linked to unique electrical computations. For example, in auditory neurons in chicks, the AIS distance, ranging
+between 0- and 50-μm distance, is adapted to enable frequency
+tuning (6, 13). Consistent with predictions from axial resistive
+coupling, the distal AIS position in these cells is characterized by
+smaller somatic AP amplitudes but with the distinct advantage of
+axonal AP output being phase-locked to higher input frequencies in
+the kilohertz range. Uncoupling the axon from charging the soma in
+some cell types, thus, benefits local axonal computations.
+In pyramidal neurons, however, the AIS not only integrates incoming synaptic inputs and transforms them into output patterns but
+at the same time, plays a critical role in the antidromic direction to
+depolarize the somatodendritic membrane capacitance with sufficient magnitude and speed to activate the somatic Nav channels
+initiating the back-propagating spike (15, 29, 30). These observations
+of invariable somatic APs are in agreement with recordings in hippocampal CA1 pyramidal neurons with AIS distances ranging between ∼1.0 and 20 μm showing little, if any, difference in the somatic
+AP (21). In that study, it was shown that axon coupling to basal
+dendrites facilitates synapse-evoked dendritic spike generation in the
+axon-carrying dendrite (21). Although we did not examine the
+presence of local basal dendritic spikes, our integrated electrophysiological and morphological approach suggests that the anatomical
+A
+B
+C D
+Fig. 5. Dendritic morphology and AIS distance in a realistic compartmental
+model normalize the somatic AP. (A) Part of the morphological reconstruction
+encompassing soma, proximal basal and apical dendrites (blue), and the AIS
+(red) used in compartmental modeling. The AISΔ of 2 μm represents the
+control morphology. Alternative models were made with increasing AISΔ
+(gray). (Scale bar: 20 μm.) (B) Simulation of single APs at the soma (blue)
+overlaid with the experimentally recorded AP as constraint (black) and corresponding simulated AP waveform in the distal AIS (red). Somatic and AIS APs
+for different AISΔ values. Note the failure of somatic (but not axonal) AP
+generation with a 40-μm AISΔ. (Scale bar: 0.1 ms, 10 mV.) (C) First dVm dt
+–1 of
+the somatic APs (blue) and the peak dVm dt
+–1 of the AIS AP (red). Data series
+are fitted with single exponential functions. *Somatic AP failure. (D) Phase plot
+of the simulated APs showing how adjusting AISΔ to 18 μm reduced the first
+dVm dt
+–1 by ∼179 V s–1
+. Decreasing the somatodendritic compartment by 30%
+sufficed to recover the amplitude in the first dVm dt
+−1
+.
+Hamada et al. PNAS | December 20, 2016 | vol. 113 | no. 51 | 14845
+NEUROSCIENCE
+arrangement may rather serve geometrical homeostasis, normalizing
+the amplitude and rise time of the somatic AP. Back-propagating
+APs are implicated in a wide range of dendritic computations (31),
+acting as a retrograde signal for nonlinear integrative functions in the
+dendritic branches of cortical pyramidal neurons (32–34). Tuning the
+position of the axon and local dendritic area may ensure amplitude
+and temporal fidelity of the back-propagating spike during its transition from the axon to the soma and dendritic branches.
+The cellular and molecular mechanisms tuning the somatodendritic geometry together with the axon location remain to be determined. During the first weeks of development, when the
+dendritic tree rapidly expands, the AIS also shifts from its distal site
+to a more proximal location near the soma (35) and dynamically
+changes in length (36). One mechanism identified for activitydependent changes in AIS location includes the Ca2+ influx from
+L-type Ca2+ channels subsequently activating the cytosolic signaling
+pathways, including the Ca2+
+-calmodulin–sensitive phosphatase
+calcineurin (37). Such a molecular mechanism may also be suitable
+to link local somatodendritic Ca2+ elevations with cytoskeletal organization along the axon. This hypothesis remains to be established and would require simultaneous morphological analysis of
+dendrites and axons. The finding of a structural homeostatic scaling
+between axons and dendrites in pyramidal neurons may also have
+implications for the interpretation of activity-dependent relocation
+of the AIS along the longitudinal axis of the axon (5). Rather than
+reducing intrinsic excitability, our modeling predicts that shifting the
+AIS alone distally would weakly promote axonal firing (Fig. 5),
+consistent with theoretical and modeling results (9, 11). Furthermore, our results indicate that, in cortical pyramidal cells, the anatomical location of the AIS is to a large degree covarying with the
+local somatodendritic membrane area, ensuring the generation of
+uniform somatic APs in the face of highly variable dendritic loads.
+Materials and Methods
+All animal experiments were done in compliance with the European Communities Council Directive of November 24, 1986 (86/609/EEC) and were
+reviewed and approved by the animal welfare and ethics committee (DEC) of
+the KNAW under protocol number NIN 11.70. All details for electrophysiological
+recordings, numerical simulations, biophysical modeling, and compartmental
+NEURON modeling are described in SI Materials and Methods.
+ACKNOWLEDGMENTS. We thank Koke Helmes for support in the acquisition
+of the initial data. This work was supported by the Ecole des Neurosciences
+de Paris (R.B.), Agence Nationale de la Recherche Grant ANR-14-CE13-0003
+(to R.B.), an European Research Council (ERC) Starting Grant (European
+Union Seventh Framework Program Grant 261114), and National Multiple
+Sclerosis Society Grant RG 4924A1/1 (to M.H.P.K.).
+1. Rasband MN (2010) The axon initial segment and the maintenance of neuronal polarity. Nat Rev Neurosci 11(8):552–562.
+2. Kole MHP, Stuart GJ (2012) Signal processing in the axon initial segment. Neuron
+73(2):235–247.
+3. Xu K, Zhong G, Zhuang X (2013) Actin, spectrin, and associated proteins form a periodic cytoskeletal structure in axons. Science 339(6118):452–456.
+4. King AN, Manning CF, Trimmer JS (2014) A unique ion channel clustering domain on
+the axon initial segment of mammalian neurons. J Comp Neurol 522(11):2594–2608.
+5. Grubb MS, Burrone J (2010) Activity-dependent relocation of the axon initial segment
+fine-tunes neuronal excitability. Nature 465(7301):1070–1074.
+6. Kuba H, Oichi Y, Ohmori H (2010) Presynaptic activity regulates Na(+) channel distribution at the axon initial segment. Nature 465(7301):1075–1078.
+7. Kuba H, Yamada R, Ishiguro G, Adachi R (2015) Redistribution of Kv1 and Kv7 enhances neuronal excitability during structural axon initial segment plasticity. Nat
+Commun 6:8815.
+8. Kaphzan H, Buffington SA, Jung JI, Rasband MN, Klann E (2011) Alterations in intrinsic membrane properties and the axon initial segment in a mouse model of Angelman syndrome. J Neurosci 31(48):17637–17648.
+9. Gulledge AT, Bravo JJ (2016) Neuron morphology influences axon initial segment
+plasticity. eNeuro 3(1):ENEURO.0085-15.2016.
+10. Baranauskas G, David Y, Fleidervish IA (2013) Spatial mismatch between the Na+ flux
+and spike initiation in axon initial segment. Proc Natl Acad Sci USA 110(10):4051–4056.
+11. Brette R (2013) Sharpness of spike initiation in neurons explained by compartmentalization. PLOS Comput Biol 9(12):e1003338.
+12. Eyal G, Mansvelder HD, de Kock CPJ, Segev I (2014) Dendrites impact the encoding
+capabilities of the axon. J Neurosci 34(24):8063–8071.
+13. Kuba H, Ishii TM, Ohmori H (2006) Axonal site of spike initiation enhances auditory
+coincidence detection. Nature 444(7122):1069–1072.
+14. Kole MHP, et al. (2008) Action potential generation requires a high sodium channel
+density in the axon initial segment. Nat Neurosci 11(2):178–186.
+15. Stuart G, Spruston N, Sakmann B, Häusser M (1997) Action potential initiation and
+backpropagation in neurons of the mammalian CNS. Trends Neurosci 20(3):125–131.
+16. Blythe SN, Wokosin D, Atherton JF, Bevan MD (2009) Cellular mechanisms underlying
+burst firing in substantia nigra dopamine neurons. J Neurosci 29(49):15531–15541.
+17. Häusser M, Stuart G, Racca C, Sakmann B (1995) Axonal initiation and active dendritic
+propagation of action potentials in substantia nigra neurons. Neuron 15(3):637–647.
+18. Gentet LJ, Williams SR (2007) Dopamine gates action potential backpropagation in
+midbrain dopaminergic neurons. J Neurosci 27(8):1892–1901.
+19. Cajal SRY (1911) Histologie du Système Nerveux de l’Homme & des Vertébrés
+(A. Maloine, Paris).
+20. Amaral DG (1978) A Golgi study of cell types in the hilar region of the hippocampus in
+the rat. J Comp Neurol 182(4 Pt 2):851–914.
+21. Thome C, et al. (2014) Axon-carrying dendrites convey privileged synaptic input in
+hippocampal neurons. Neuron 83(6):1418–1430.
+22. Palay SL, Sotelo C, Peters A, Orkand PM (1968) The axon hillock and the initial segment. J Cell Biol 38(1):193–201.
+23. Peters A, Proskauer CC, Kaiserman-Abramof IR (1968) The small pyramidal neuron of
+the rat cerebral cortex. The axon hillock and initial segment. J Cell Biol 39(3):604–619.
+24. Molnár Z, Cheung AFP (2006) Towards the classification of subpopulations of layer V
+pyramidal projection neurons. Neurosci Res 55(2):105–115.
+25. Kim EJ, Juavinett AL, Kyubwa EM, Jacobs MW, Callaway EM (2015) Three types of
+cortical layer 5 neurons that differ in brain-wide connectivity and function. Neuron
+88(6):1253–1267.
+26. Groh A, et al. (2010) Cell-type specific properties of pyramidal neurons in neocortex
+underlying a layout that is modifiable depending on the cortical area. Cereb Cortex
+20(4):826–836.
+27. Rall W (1969) Time constants and electrotonic length of membrane cylinders and
+neurons. Biophys J 9(12):1483–1508.
+28. Hamada MS, Kole MHP (2015) Myelin loss and axonal ion channel adaptations associated with gray matter neuronal hyperexcitability. J Neurosci 35(18):7272–7286.
+29. Kole MHP, Stuart GJ (2008) Is action potential threshold lowest in the axon? Nat
+Neurosci 11(11):1253–1255.
+30. Moore JW, Stockbridge N, Westerfield M (1983) On the site of impulse initiation in a
+neurone. J Physiol 336:301–311.
+31. London M, Häusser M (2005) Dendritic computation. Annu Rev Neurosci 28:503–532.
+32. Larkum M (2013) A cellular mechanism for cortical associations: An organizing principle for the cerebral cortex. Trends Neurosci 36(3):141–151.
+33. Xu N-L, et al. (2012) Nonlinear dendritic integration of sensory and motor input
+during an active sensing task. Nature 492(7428):247–251.
+34. Stuart G, Schiller J, Sakmann B (1997) Action potential initiation and propagation in
+rat neocortical pyramidal neurons. J Physiol 505(Pt 3):617–632.
+35. Galiano MR, et al. (2012) A distal axonal cytoskeleton forms an intra-axonal boundary
+that controls axon initial segment assembly. Cell 149(5):1125–1139.
+36. Gutzmann A, et al. (2014) A period of structural plasticity at the axon initial segment
+in developing visual cortex. Front Neuroanat 8:11.
+37. Evans MD, et al. (2013) Calcineurin signaling mediates activity-dependent relocation
+of the axon initial segment. J Neurosci 33(16):6950–6963.
+38. Bortone DS, Olsen SR, Scanziani M (2014) Translaminar inhibitory cells recruited by
+layer 6 corticothalamic neurons suppress visual cortex. Neuron 82(2):474–485.
+39. Paxinos G, Watson C (2007) The Rat Brain in Stereotaxic Coordinates (Academic,
+Amsterdam), 6th Ed.
+40. Hines ML, Carnevale NT (2001) NEURON: A tool for neuroscientists. Neuroscientist
+7(2):123–135.
+41. Schmidt-Hieber C, Bischofberger J (2010) Fast sodium channel gating supports localized and efficient axonal action potential initiation. J Neurosci 30(30):10233–10242.
+42. Hallermann S, de Kock CPJ, Stuart GJ, Kole MHP (2012) State and location dependence of action potential metabolic cost in cortical pyramidal neurons. Nat Neurosci
+15(7):1007–1014.
+43. Battefeld A, Tran BT, Gavrilis J, Cooper EC, Kole MHP (2014) Heteromeric Kv7.2/7.3
+channels differentially regulate action potential initiation and conduction in neocortical myelinated axons. J Neurosci 34(10):3719–3732.
+44. Kole MHP, Bräuer AU, Stuart GJ (2007) Inherited cortical HCN1 channel loss amplifies
+dendritic calcium electrogenesis and burst firing in a rat absence epilepsy model.
+J Physiol 578(Pt 2):507–525.
+45. Goodman DFM, Brette R (2009) The brian simulator. Front Neurosci 3(2):192–197.
+46. Akers RM, Killackey HP (1978) Organization of corticocortical connections in the parietal cortex of the rat. J Comp Neurol 181(3):513–537.
+47. Coombs JS, Curtis DR, Eccles JC (1957) The interpretation of spike potentials of motoneurones.
+J Physiol 139(2):198–231.
+48. Kole MHP (2011) First node of Ranvier facilitates high-frequency burst encoding.
+Neuron 71(4):671–682.
+14846 | www.pnas.org/cgi/doi/10.1073/pnas.1607548113 Hamada et al.

@@ -1,0 +1,215 @@
+the economics, technology, and neuroscience of human capability formation
+James J. Heckman*
+Author information Article notes Copyright and License information Disclaimer
+This article has been cited by other articles in PMC.
+Go to:
+ABSTRACT
+This article begins the synthesis of two currently unrelated literatures: the human capital approach to health economics and the economics of cognitive and noncognitive skill formation. A lifecycle investment framework is the foundation for understanding the origins of human inequality and for devising policies to reduce it.
+
+Keywords: Barker hypothesis, critical periods, early childhood, sensitive periods
+Two currently unrelated bodies of research in economics point to the importance of the early years of childhood in shaping many adult outcomes. The “fetal programming” literature surveyed by Gluckman and Hanson demonstrates that in utero environments affect adult health (1, 2). Robert Fogel demonstrates an important empirical relationship between early nutrition and adult health (3, 4). Barker demonstrates the predictive power of environmental insults in utero and in infancy for the onset of adult coronary disease, stroke, diabetes, and hypertension (5). Birthweight, fetal and maternal nutrition, growth by 1 year of age, etc. are all predictive of later adult health.
+
+Although the literature on the epidemiology of disease has taken a life cycle, developmental perspective, this approach has not yet made its way into the mainstream of health economics. For example, the influential analysis of Grossman focuses exclusive attention on adult health investment decisions, treating the health endowment determined in childhood and the preferences of adults as parameters determined outside of his model (6, 7).
+
+Parallel to the epidemiological literature, there is an emerging developmental literature in economics that demonstrates the importance of early environmental conditions on the evolution of adolescent and adult cognitive and noncognitive skills (8, 9). These skills are important determinants of educational attainment, crime, earnings, and participation in risky behaviors (10). Like the fetal programming literature, this literature documents critical and sensitive periods in the development of human capabilities. Unlike the fetal programming literature, it also considers environmental influences on development over the entire life cycle of the child and on into adulthood. Remediation of early disadvantage and resilience receive much more attention in this literature than in the literature on health economics. Each literature has much to learn from the other. Evidence on the importance of early environments on a spectrum of health, labor market, and behavioral outcomes suggests that common developmental processes are at work.
+
+Cognitive and noncognitive skills, such as self-regulation, motivation, time preference, far-sightedness, adventurousness, and the like, affect the evolution of health capital through choices made by parents and children. Grossman (7) and Smith (11) show that education is an important determinant of health disparities. The recent literature in economics shows the importance of personality and cognition in affecting educational choices. Aspects of personality and cognition play additional roles in affecting health and healthy behaviors beyond their direct effect on education (10, 12).
+
+Those with greater self-control and conscientiousness follow medical instructions and take care of themselves in a variety of ways. Certain personality types are at greater risk for mental health disorders (L. Borghans, A. L. Duckworth, J. Heckman, and B. ter Weel, unpublished data). Personality factors affect learning (13). Adverse health conditions impair learning.† Schultz and Ram (14) show that raising health promotes investment in human capital. People with longer horizons and lower rates of time preference invest more in themselves. Lower rates of time preference are associated with greater cognitive skills. Those with higher IQs are more farsighted (have lower time preference) because they envision future scenarios more clearly (15). The recent literature on personality and preference formation establishes causal impacts of parental inputs and other environmental factors on cognitive and noncognitive skills (ref. 9; L. Borghans, A. L. Duckworth, J. Heckman, B. ter Weel, unpublished data; and F. Cunha, J. Heckman, and S. M. Schennach, unpublished data). The parameters of the Grossman model are in fact the outputs of a developmental model.
+
+The developmental focus adopted in this article suggests previously uncharted channels of policy influence to remediate well documented health disparities. Early childhood interventions that affect personality traits and cognitive skills that promote health can be effective policy tools in preventing and curing disease.
+
+A simple investment framework unifies the literature on health and skill formation. It also reveals currently unexplored avenues for future research. The framework can be used to analyze synergies in producing health, cognitive skills, and noncognitive skills, which we group together as human capabilities. An econometric approach based on dynamic latent variables operationalizes this framework. This approach recognizes the proxy nature of variables like birth-weight, height, nutrition, IQ scores, and measures of personality and mental illness that play prominent roles in empirical work in epidemiology, education and health economics.
+
+Go to:
+HUMAN DIVERSITY AND HUMAN DEVELOPMENT
+Any analysis of human development must reckon with nine facts. First, ability matters. A large number of empirical studies document that cognitive ability is a powerful determinant of wages, schooling, participation in crime and success in many aspects of social and economic life (10, 16, 17) including health (18).
+
+Second, abilities are multiple in nature. Noncognitive abilities (perseverance, motivation, time preference, risk aversion, self-esteem, self-control, preference for leisure) have direct effects on wages (controlling for schooling), schooling, teenage pregnancy, smoking, crime, performance on achievement tests, and many other aspects of social and economic life (refs. 10 and 19 and L. Borghans, A. L. Duckworth, J. Heckman, and B. ter Weel, unpublished data). They affect health choices [see the evidence on time preference and health in Grossman (7)]. Social and emotional factors affect adult health (12).
+
+Third, the nature versus nurture distinction, although traditional, is obsolete. The modern literature on epigenetic expression and gene environment interactions teaches us that the sharp distinction between acquired skills and ability featured in the early human capital literature is not tenable (1, 20, 21). Additive “nature” and “nurture” models, although traditional and still used in many studies of heritability and family influence, mischaracterize gene-environment interactions. Recent analyses in economics that break the “causes” of birthweight into environmental and genetic components ignore the lessons of the recent literature. Genes and environment cannot be meaningfully parsed by traditional linear models that assign unique variances to each component. Abilities are produced, and gene expression is governed by environmental conditions (21, 22). Behaviors and abilities have both a genetic and an acquired character. Measured abilities are the outcome of environmental influences, including in utero experiences, and also have genetic components.
+
+The literature on fetal programming emphasizes the importance of the environment in causing gene expression that gives rise to susceptibility to different diseases, abilities and personality characteristics. See ref. 1 for evidence on gene expression for disease and refs. 21 and 22 for evidence on environmental determinants of psychopathology and cognition. Some adverse early effects are more easily compensated than other effects. The concepts of remediation and resilience play prominent roles in economic analysis but are not featured in current discussions of health economics. (See, however, refs. 23 and 24 for analyses of biological and psychobiological mechanisms for resilience.)
+
+Fourth, ability gaps between individuals and across socioeconomic groups open up at early ages, for both cognitive and noncognitive skills, as do gaps in health status. Fig. 1 displays a prototypical pattern of a cognitive test score by age of child by socioeconomic status of the family. (Permanent income is the measure of socioeconomic status in this figure. See ref. 25 for the source of this figure and the precise definition of permanent income. Ref. 9 presents many additional graphs showing the emergence of early and persistent gaps in abilities.) Cunha et al. (25) present many graphs showing the early divergence of child cognitive and noncognitive skills by age across children of parents with different socioeconomic status. Levels of child cognitive and noncognitive skills are highly correlated with family background factors like parental education and maternal ability, which, when statistically controlled for, largely eliminate these gaps (25, 26). Currie presents parallel evidence on child health.† Case et al. (27) show that family income gradients in child health status emerge early and widen with age (see Fig. 2). Notice that a high y value is associated with lower health status on their graph. Experimental interventions with long-term follow up confirm that changing the resources available to disadvantaged children improves adult outcomes on a number of dimensions. See the studies surveyed in refs. 25 and 28.
+
+An external file that holds a picture, illustration, etc.
+Object name is zpq0250767780001.jpg
+Fig. 1.
+Children of the National Longitudinal Survey of Youth average standardized score for Peabody Individual Achievement Test-Math by family permanent income quartile. [Reproduced with permission from ref. 25 (Copyright 2006, North-Holland).]
+
+An external file that holds a picture, illustration, etc.
+Object name is zpq0250767780002.jpg
+Fig. 2.
+Health and income for children and adults, U.S. national health interview survey 1986–1995. Reprinted with permission from ref. 27.
+
+Fifth, for both animal and human species, there is compelling evidence of critical and sensitive periods in development. Some skills or traits are more readily acquired at certain stages of childhood than other traits (8). For example, on average, if a second language is learned before age 12, the child speaks it without an accent (29). If syntax and grammar are not acquired early on, they appear to be very difficult to learn later on in life (30). A child born with a cataract on the eye will be blind if the cataract is not removed within the first year of life.
+
+Different types of abilities appear to be manipulable at different ages. IQ scores become stable by age 10 or so, suggesting a sensitive period for their formation below age 10 (31). There is evidence that adolescent interventions can affect noncognitive skills (25). This evidence is supported in the neuroscience that establishes the malleability of the prefrontal cortex into the early 20s (32). This is the region of the brain that governs emotion and self-regulation. Rutter et al. (21, 22) present comprehensive summaries of age-dependent epigenetic and other gene-environment interactions for psychopathology, including aggression. Nagin and Tremblay show that early aggression predicts adult levels of criminality and violence (33). Barker and coauthors show the powerful influence of the mother's health, as determined by her lifetime experiences on child outcomes.
+
+On average, the later remediation is given to a disadvantaged child, the less effective it is. A study by Rutter and coauthors of adopted Romanian infants reared in severely deprived orphanage environments before their adoption supports this claim (34). The later an orphan was rescued from the social and emotional isolation of the orphanage, the lower was his or her later cognitive performance. Secondary school classroom remediation programs designed to combat early cognitive deficits have a poor track record.
+
+At historically funded levels, public job training programs and adult literacy and educational programs, like the GED, that attempt to remediate years of educational and emotional neglect among disadvantaged individuals, have a low economic return and produce meager effects for most persons. Much evidence suggests that returns to adolescent education for the most disadvantaged and less able are lower than the returns for the more advantaged (refs. 26 and 35 and P. Carneiro, J. Heckman, and E. J. Vytlacil, unpublished data).
+
+The available evidence suggests that for many skills and human capabilities, later intervention for disadvantage may be possible, but it is much more costly than early remediation to achieve a given level of adult performance (F. Cunha and J. Heckman, unpublished data). Barker and coauthors document that if intervention is administered in the first year after birth, compensation for undernutrition can produce greater risk for later diabetes and heart disease (ref. 36; Barker and coauthors only investigate compensation in the first year after birth). To date, the health economics literature has not systematically studied the effectiveness of remediation for adverse early environments, although it evaluates the efficacy of treatments of diseases that may be influenced by adverse early environments.
+
+Sixth, despite the low returns to interventions targeted toward disadvantaged adolescents, the empirical literature shows high economic returns for remedial investments in young disadvantaged children. (See W. S. Barnett, http://nieer.org/resources/files/BarnettBenefits.ppt; and ref. 25 and references therein.) This finding is a consequence of dynamic complementarity and self-productivity captured by the equations described in the next section. The evidence for interventions in low-birth-weight children suggests that early intervention can be effective (J. Brooks-Gunn, F. Cunha, G. Duncan, J. Heckman, and A. Sojourner, unpublished data). Olds (37) documents that perinatal interventions that reduce fetal exposure to alcohol and nicotine have substantial long-term effects on cognition, socioemotional skills, and on health and have high economic returns.
+
+Seventh, if early investment in disadvantaged children is not followed by later investment, its effect at later ages is lessened. Investments at different stages of the life cycle are complementary and require follow up to be effective (ref. 9 and F. Cunha and J. Heckman, unpublished data).
+
+Eighth, the effects of credit constraints on a child's adult outcomes depend on the age at which they bind for the child's family. Recent research summarized in (25, 26, 38) demonstrates the quantitative insignificance of family credit constraints in a child's college-going years in explaining a child's enrollment in college. Controlling for cognitive ability, under policies currently in place in American society, family income during a child's college-going years plays only a minor role in determining socioeconomic differences in college participation, although much public policy is predicated on precisely the opposite point of view. Controlling for ability, minorities are more likely to attend college than others despite their lower family incomes (see ref. 39 and the references therein). Augmenting family income or reducing college tuition at the stage of the life cycle when a child goes to college does not go far in compensating for low levels of early investment. It is the shortfall in adolescent abilities and motivations that account for minority college enrollment gaps. The gaps in health status by income evident in Fig. 2 likely diminish once early environmental factors are controlled for, but this remains to be rigorously established.
+
+Credit constraints operating in the early years have lasting effects on adult ability and schooling outcomes (refs. 40–42 and G. Duncan, A. Kalil, and K. Ziol-Guest, unpublished data). Evidence on the persistent effects of early malnutrition in utero and in the early years on adult health is consistent with this evidence (1, 3, 4).
+
+Ninth, socioemotional (noncognitive) skills foster cognitive skills and are an important product of successful families and successful interventions in disadvantaged families. They also promote healthy behaviors. Emotionally nurturing environments produce more capable learners. The Perry Preschool Program, which was evaluated by random assignment, did not boost participant adult IQ, but it did enhance the performance of participants on a number of dimensions, including scores on achievement tests, employment, and reduced participation in a variety of social pathologies. See ref. 43 and the figures and tables on the Perry program in ref. 9.
+
+Perseverance and motivation are also important factors in explaining compliance with medical protocols. A large body of evidence suggests that a person's mood and attitudes, as well as his social environment, account, in part, for the ability of persons to ward off and overcome various diseases and to age gracefully (12). The evidence that personality traits affect educational attainment (10) helps to explain how education, as a proxy, helps reduce disease gradients by socioeconomic class, as reported by Smith (11). Fig. 3 shows how greater cognitive and noncognitive skills reduce participation in smoking, a major health hazard (10).
+
+An external file that holds a picture, illustration, etc.
+Object name is zpq0250767780003.jpg
+Fig. 3.
+Probability of daily smoking by age 18, males by decile of cognitive and noncognitive factor. The highest decile of cognitive and noncognitive ability is “10.” The lowest decile is “1.” [Reproduced with permission from ref. 10 (Copyright 2006, Univ of Chicago Press).]
+
+Go to:
+A MODEL OF INVESTMENT IN HUMAN CAPABILITIES
+A model of capability formation unifies this evidence. Agents are assumed to possess a vector of capabilities at each age including pure cognitive abilities (e.g., IQ), noncognitive abilities (patience, self control, temperament, risk aversion, time preference), and health stocks. Health stocks include propensities for mortality and morbidity, including infant mortality. All capabilities are produced by investment, environment, and genes. These capabilities are used with different weights in different tasks in the labor market and in social life more generally. [Cunha et al. (25) propose a model of comparative advantage in occupational choice to supplement their model of skill formation.]
+
+The capability formation process is governed by a multistage technology. Each stage corresponds to a period in the life cycle of a child. Although the recent child development literature in economics recognizes stages of development (9, 25), the early literature on the economics of child development and the current literature on the economics of health do not (7, 44). In the developmental approach, inputs or investments at each stage produce outputs at the next stage. Qualitatively different inputs can be used at different stages and the technologies can be different at different stages of child development.
+
+The investment model used by Grossman focuses on adult investments where time and its opportunity cost play important roles (6, 7). For investments in childhood health, parents make decisions and child opportunity costs are less relevant (9). The outputs at each stage in our technology are the changes in capability at that stage. Some stages of the technology may be more productive in producing some capabilities than other stages, and some inputs may be more productive at some stages than at other stages. The stages that are more effective in producing certain capabilities are called “sensitive periods” for the acquisition of those capabilities. If one stage alone is effective in producing a capability, it is called a “critical period” for that capability. See Cunha and Heckman (9).
+
+The capabilities produced at one stage augment the capabilities attained at later stages. This effect is termed “self-productivity.” It embodies the ideas that capabilities are self-reinforcing and crossfertilizing and that the effects of investment persist. For example, emotional security fosters child exploration and more vigorous learning of cognitive skills. This has been found in animal species (45, 46) and humans (see refs. 13 and 47, interpreting the ability of a child to pay attention as a socioemotional skill). A higher stock of cognitive skill in one period raises the stock of next period cognitive skills. Higher levels of self-regulation and conscientiousness reduce health risks and avoid accidents. Higher levels of health promote learning. A second key feature of capability formation is “dynamic complementarity.” Capabilities produced at one stage of the life cycle raise the productivity of investment at subsequent stages. In a multistage technology, complementarity implies that levels of investments in capabilities at different ages bolster each other. They are synergistic. Complementarity also implies that early investment should be followed up by later investment in order for the early investment to be productive. Together, dynamic complementarity and self-productivity produce multiplier effects which are the mechanisms through which capabilities beget capabilities. This dynamic process can account for the emergence of socioeconomic differentials in health documented by Smith (11) and Case et al. (27).
+
+Dynamic complementarity and self-productivity imply an equity-efficiency tradeoff for late child investments but not for early investments (9). These features of the technology of capability formation have consequences for the design and evaluation of public policies toward families. In particular, they show why the returns to late childhood investment and remediation for young adolescents from disadvantaged backgrounds are so low for many investments, whereas the returns to early investment in children from disadvantaged environments are so high.
+
+Cunha and Heckman (9) and Carneiro et al. (48) formalize these concepts in an overlapping generations model. There is evidence on intergenerational linkages in health, personality, and skill formation (48, 49, †). Consider a household which consists of an adult parent and his/her child. Take parental stocks of skills as given. In a proper overlapping generations model, as developed in refs. 48 and 9, investment in parents is modeled, explaining the intergenerational transmission of health, personality, and cognition.
+
+Altruistic parents invest in their children. Let It denote parental investments in child capabilities when the child is t years old, where t = 1, 2, … , T. The first stage can be in utero investment. The output of the investment process is a skill vector. The parent is assumed to fully control the investments in the skills of the child, whereas in reality, as a child matures, he gains much more control over the investment process. (A sketch of such a model is discussed in ref. 48.) Thus, children with greater emotional skills and conscientiousness are less likely to be involved in risky teenage activities (see Fig. 3 and the evidence in ref. 10). These capabilities create a platform of adult capabilities and preferences which affect adult choices. Government inputs (e.g., publicly provided schooling) can be modeled as a component of It. It would be desirable to merge the model of parental investment with the model of adult investment, but that is beyond the scope of this article.
+
+At conception, the child receives genetic and environmental initial conditions θ1. As documented by Gluckman and Hanson (1) and Rutter (21), gene expression is triggered by environmental conditions. Let h denote parental capabilities (e.g., IQ, genes, education, income). These are products of their own parents' investments and genes. At each stage t, let θt denote the vector of capabilities. The technology of capability production when the child is t years old is
+
+equation image
+for t = 1, 2, …, T. (For analytical convenience, ft is assumed to be strictly increasing in It. I further assume strict concavity in It and twice continuous differentiability in all of its arguments.) More investment produces more capabilities (∂ft/∂It > 0).
+
+Substituting in Eq. 1 for θt, θt−1, … , repeatedly, one can rewrite the stock of capabilities at stage t + 1, θt+1, as a function of all past investments:
+
+equation image
+Dynamic complementarity arises when ∂2ft (h, θt, It)/∂θt∂I′t > 0, i.e., when stocks of capabilities acquired by period t − 1 (θt) make investment in period t (It) more productive. Such complementarity explains why returns to educational investments are higher at later stages of the child's life cycle for more able, more healthy and more motivated children (those with higher θt). Students with greater early capabilities (cognitive, noncognitive, and health) are more efficient in later learning of both cognitive and noncognitive skills and in acquiring stocks of health capital. The evidence from the early intervention literature suggests that the enriched early preschool environments provided by the Abecedarian, Perry, and Chicago Child–Parent Center program interventions promote greater efficiency in learning in school and reduce problem behaviors (25, 28). Enriched early environments produce healthier babies (1) (A. Bhargava, unpublished data).
+
+Self-productivity arises when ∂ft (h, θt, It)/∂θt > 0, i.e., when higher levels of capabilities in one period create higher levels of capabilities in the next period. For capability vectors, this includes own and cross effects. The joint effects of self-productivity and dynamic complementarity help to explain the high productivity of investment in disadvantaged young children but the lower return to investment in disadvantaged adolescent children for whom the stock of capabilities is low, and hence the complementarity effect is lower.
+
+This technology explains the evidence that the ability of a child to pay attention affects subsequent academic achievement. Healthier children are better learners.† This technology also captures the critical and sensitive periods in humans and animals documented for a number of aspects of development (8).
+
+Suppose, for analytical simplicity, that there are two stages of childhood, (T = 2). In reality, there are many stages in childhood, including preconception and in utero stages. Assume, for expositional simplicity, that θ1, I1, I2 are scalars. [Cunha et al. (25) analyze the vector case. See also ref. 9.] The adult stock of capability, h′ (= θ3), is a function of parental characteristics, initial conditions and investments during childhood I1 and I2:
+
+equation image
+The conventional literature in economics (44) assumes only one period of childhood when it addresses childhood at all. It does not distinguish between early investment and late investment. A general technology that captures a variety of interesting special cases of Eq. 3 is a constant elasticity of substitution (CES) production function
+
+equation image
+for φ ≤ 1 and 0 ≤ γ ≤ 1, where φ is a measure of how well late inputs substitute for early inputs. 1/(1 − φ) is called an elasticity of substitution. When φ = 1, I1 and I2 are perfect substitutes. When φ = −∞, I1 and I2 are perfect complements. The parameter φ governs how easy it is to compensate for low levels of stage 1 investment in producing later adult capability. See the analysis of this model in refs. 9 and 25.
+
+When φ is small, low levels of early investment I1 are not easily remediated by later investment I2. The other face of CES complementarity is that when φ is small, high early investment should be followed with high late investment if the early investment is to be harvested. In the extreme case, when φ → −∞, Eq. 4 converges to a model of perfect complements. This technology explains why returns to education are low in the adolescent years for disadvantaged (low h, low I1, low θ2) adolescents but are high in the early years. Without the proper foundation for learning (high levels of θ2) in technology 1, adolescent interventions have low returns. Bad initial conditions that create physical and mental impairments produce persistently less healthy adults (1, 5, 36).
+
+The CES share parameter γ is a capability multiplier. It captures the productivity of early investment not only in directly boosting h′ (through self-productivity) but also in raising the productivity of I2 by increasing θ2 through first-period investments. Thus, I1 directly increases θ2 which in turn affects the productivity of I2 in forming h′. γ captures the net effect of I1 on h′ through both self-productivity and direct complementarity. In a multiperiod model, the multiplier could vary across stages. The capability multiplier helps to explain why capabilities foster capabilities.
+
+The Optimal Lifecycle Profile of Capability Investments.
+Using technology 4, Cunha and Heckman (9) determine how the ratio of early to late investments varies as a function of φ and γ as a consequence of parental choices under different market arrangements concerning lending and borrowing. It is fruitful to review their analysis of the case without binding credit constraints.
+
+When φ = 1, so early and late investment are perfect CES substitutes, it is always possible to remediate early disadvantage. However, it is not always economically feasible to do so. The price of early investment is $1. The price of late investment is $1/(1 + r), where r is the interest rate and 1/(1 + r) is a discount factor. The amount of human capital (including health capital) produced from one unit of I1 is γ, whereas $ (1 + r) of I2 produces (1 + r) (1 − γ) units of human capital. Two forces act in opposite directions. High productivity of initial investment (as captured by the skill multiplier γ) drives the parent toward making early investments. The interest rate drives the parent to invest late. It is optimal to invest early if γ > (1 − γ) (1 + r). Epidemiologists are prone to neglect the costs of remediation when they demonstrate its possibilities.
+
+As φ → −∞, the optimal investment strategy sets I1 = I2. In this case, investment in the young is essential. However, later investment is needed to harvest early investment. On efficiency grounds, early disadvantages should be perpetuated, and compensatory investments at later ages are economically inefficient. In the general case, where −∞ < φ < 1, the optimal ratio of early to late investment is
+
+equation image
+Fig. 4 plots the ratio of early to late investment as a function of the skill multiplier γ under different values of the complementarity parameter φ, assuming r = 0.
+
+An external file that holds a picture, illustration, etc.
+Object name is zpq0250767780004.jpg
+Fig. 4.
+Ratio of early to late investment in human capital as a function of the skill multiplier for different values of complementarity. [Reproduced with permission from ref. 25 (Copyright 2006, North–Holland).]
+
+When CES complementarity is high, the skill multiplier γ plays a limited role in shaping the optimal ratio of early to late investment. High early investment should be followed by high late investment. As the degree of CES complementarity decreases, the role of the capability multiplier increases, and the higher the multiplier, the more investment should be concentrated in the early ages. Cunha and Heckman (9) analyze the effects of alternative credit market arrangements on optimal investment.
+
+Cognitive, Noncognitive, and Health Formation.
+This framework readily accommodates capability vectors. Child development is not just about cognitive skill formation although a lot of public policy analysis focuses solely on cognitive test scores to the exclusion of physical health and personality factors. Let θt denote the vector of capabilities, i.e., cognitive skills, noncognitive skills, and health capabilities: θt = (θtC, θtN, θtH). Let It denote the vector of investment in cognitive, noncognitive, and health capabilities: It = (ItC, ItN, ItH). Use h = (hC, hN, hH) to denote parental cognitive, noncognitive, and health capabilities. At each stage t, one can define a recursive technology for cognitive skills (k = C), noncognitive skills (k = N), and health (k = H):
+
+equation image
+Technology 6 allows for cross-productivity effects: cognitive skills may affect the accumulation of noncognitive skills and vice versa. Health capabilities facilitate the accumulation of cognitive and noncognitive skills. These technologies also allow for critical and sensitive periods to differ across different capability investments. Cognitive and noncognitive skills and health capabilities determine costs of effort, time preference and risk aversion parameters. By investment choices, parents shape preferences that govern the choices of children in a variety of dimensions.
+
+Accounting for preference formation explains the success of many early childhood programs targeted to disadvantaged children that do not permanently raise IQ but permanently boost social performance. [The Abecedarian early intervention program permanently boosted adult IQ (25).] Conscientiousness, farsightedness, persistence, and other personality features affect participation in risky activities, including smoking (ref. 10 and L. Borghans, A. L. Duckworth, J. Heckman, and B. ter Weel, unpublished data).
+
+Go to:
+ESTIMATING THE TECHNOLOGY: ACCOUNTING FOR THE PROXY NATURE OF INPUTS AND OUTPUTS
+F. Cunha and J. Heckman (unpublished data) and F. Cunha, J. Heckman, S. M. Schennach (unpublished data) estimate versions of technology 6 and show that many of the proxies for investment and outcomes that are used in the child development and health literatures are only crude proxies for the true variables they proxy. Systematically accounting for measurement error greatly affects estimates of technologies of skill formation and other behavioral relationships. Smoking is an error-laden proxy for noncognitive skill (10). Many articles in health economics rely on smoking (and other behaviors) as proxies for time preference (see the survey in ref. 7). The empirical literature on child development suggests that accounting for the proxy nature of smoking and adjusting for measurement error will improve the explanatory power and interpretability of the estimates of time preference on health choices.
+
+Go to:
+SUMMARY
+This article begins the process of synthesizing the modern literature on the economics of child development and the economics of health. A large literature documents the importance of the early years in determining adult capabilities of cognition, motivation, and health. A common developmental process appears to be in operation where cognitive and noncognitive skills and health capabilities at one stage of childhood cross-fertilize the productivity of investment at later stages. Using the technology of capability formation developed by Cunha and Heckman (9), one can organize and interpret a large body of evidence from diverse literatures. Accounting for the early emergence of abilities, personality parameters, and health stocks redirects the attention of health economists to the early years and to models of parental investment instead of toward models of adult investment as in Grossman (7).
+
+Simple economic models show the importance of accounting for early and late investments and for examining the technological possibilities and economic costs of late remediation for early environmental influence. Frameworks that account for the proxy nature of the measurements of inputs and outputs hold much promise, both in health economics and in the economics of child development.
+
+Go to:
+ACKNOWLEDGMENTS
+I thank Dora Costa, Flavio Cunha, Michael Grossman, Burton Singer, and an anonymous reviewer for helpful comments. A version of this paper was presented at the conference “Economic Causes and Consequences of Population Aging,” Robert Fogel's 80th birthday celebration, November 18, 2006. This research was supported by National Institutes of Health Grant R01-HD043411, National Science Foundation Grant SES-024158, the Committee for Economic Development with a grant from The Pew Charitable Trusts and the Partnership for America's Economic Success, and the J. B. Pritzker Consortium on Early Childhood Development at the Harris School of Public Policy, University of Chicago. The views expressed in this article are those of the author and not necessarily those of the above-mentioned supporters.
+
+Go to:
+ABBREVIATION
+CES	constant elasticity of substitution.
+Go to:
+FOOTNOTES
+The author declares no conflict of interest.
+
+This article is a PNAS Direct Submission.
+
+†Currie, J. (2006) Institut zur Zukunft der Arbeit Seminar, Apr. 7, 2006, Bonn, Germany.
+
+Go to:
+REFERENCES
+1. Gluckman PD, Hanson M. The Fetal Matrix: Evolution, Development, and Disease. Cambridge, UK: Cambridge Univ Press; 2005. [Google Scholar]
+2. Gluckman P, Hanson M. Mismatch: Why Our World No Longer Fits Our Bodies. Oxford: Oxford Univ Press; 2006. [Google Scholar]
+3. Fogel RW. In: Handbook of Population and Family Economics. Rosenzweig MR, Stark O, editors. Vol 1A. Amsterdam: Elsevier Science; 1997. pp. 433–481. [Google Scholar]
+4. Fogel RW. The Escape from Hunger and Premature Death, 1700-2100: Europe, America and the Third World. Cambridge, UK: Cambridge Univ Press; 2003. [Google Scholar]
+5. Barker DJP. Mothers, Babies and Health in Later Life. 2nd edition. Edinburgh, UK: Churchill Livingstone; 1998. [Google Scholar]
+6. Grossman M. J Polit Economy. 1972;80:223–255. [Google Scholar]
+7. Grossman M. In: Handbook of Health Economics. Culyer AJ, Newhouse JP, editors. Vol 1. Amsterdam: Elsevier; 2000. pp. 347–408. [Google Scholar]
+8. Knudsen EI, Heckman JJ, Cameron J, Shonkoff JP. Proc Natl Acad Sci USA. 2006;103:10155–10162. [PMC free article] [PubMed] [Google Scholar]
+9. Cunha F, Heckman JJ. Amer Econ Rev. 2007;97:31–47. [Google Scholar]
+10. Heckman JJ, Stixrud J, Urzua S. J Lab Econ. 2006;24:411–482. [Google Scholar]
+11. Smith JP. Proc Natl Acad Sci USA. 2007 in press. [Google Scholar]
+12. Ryff CD, Singer BH. J Gerontol B Psychol. 2005;60:B12–B23. [PubMed] [Google Scholar]
+13. Duncan GJ, Dowsett CJ, Claessens A, Magnuson K, Huston AC, Klebanov P, Pagani L, Feinstein L, Engel M, Brooks-Gunn J, Sexton H, Duckworth K, Japeli C. Dev Psychol. 2007 in press. [PubMed] [Google Scholar]
+14. Ram R, Schultz TW. Econ Devel Cult Change. 1979;27:399–421. [Google Scholar]
+15. Frederick S. J Econ Perspect. 2005;19:25–42. [Google Scholar]
+16. Heckman JJ. J Polit Economy. 1995;103:1091–1120. [Google Scholar]
+17. Murnane RJ, Willett JB, Levy F. Rev Econ Statist. 1995;77:251–266. [Google Scholar]
+18. Auld MC, Sidhu N. Health Econ. 2005;14:1019–1034. [PubMed] [Google Scholar]
+19. Bowles S, Gintis H, Osborne M. J Econ Lit. 2001;39:1137–1176. [Google Scholar]
+20. Pray LA. Scientist. 2004;18:14–20. [Google Scholar]
+21. Rutter M. Genes and Behavior: Nature–Nurture Interplay Explained. Oxford: Blackwell; 2006. [Google Scholar]
+22. Rutter M, Moffitt TE, Caspi A. J Child Psychol Psyc. 2006;47:226–261. [PubMed] [Google Scholar]
+23. Curtis WJ, Cicchetti D. Dev Psychopathol. 2003;15:773–810. [PubMed] [Google Scholar]
+24. Charney DS. Am J Psychiat. 2004;161:195–216. [PubMed] [Google Scholar]
+25. Cunha F, Heckman JJ, Lochner LJ, Masterov DV. In: Handbook of the Economics of Education. Hanushek EA, Welch F, editors. Amsterdam: North–Holland; 2006. pp. 697–812. [Google Scholar]
+26. Carneiro P, Heckman JJ. In: Inequality in America: What Role for Human Capital Policies? Heckman JJ, Krueger AB, Friedman BM, editors. Cambridge, MA: MIT Press; 2003. [Google Scholar]
+27. Case A, Lubotsky D, Paxson C. Amer Econ Rev. 2002;92:1308–1334. [PubMed] [Google Scholar]
+28. Blau D, Currie J. In: Handbook of the Economics of Education. Hanushek E, Welch F, editors. Vol 2. Amsterdam: North–Holland; 2006. pp. 1163–1278. [Google Scholar]
+29. Newport EL. Cognitive Sci. 1990;14:11–28. [Google Scholar]
+30. Pinker S. The Language Instinct: How the Mind Creates Language. New York: W. Morrow and Company; 1994. [Google Scholar]
+31. Schuerger JM, Witt AC. J Clin Psychol. 1989;45:294–302. [Google Scholar]
+32. Dahl RE. In: Annals of the New York Academy of Sciences. Dahl RE, Spear LP, editors. New York: New York Academy of Sciences; 2004. pp. 1–22. [PubMed] [Google Scholar]
+33. Nagin DS, Tremblay RE. Child Dev. 1999;70:1181–1196. [PubMed] [Google Scholar]
+34. O'Connor TG, Rutter M, Beckett C, Keaveney L, Kreppner JM English and Romanian Adoptees Study Team. Child Dev. 2000;71:376–390. [PubMed] [Google Scholar]
+35. Meghir C, Palme M. The Effect of a Social Experiment in Education, Institute for Fiscal Studies Technical Report W01/11. London: Institute for Fiscal Studies; 2001. [Google Scholar]
+36. Eriksson JG, Forsen T, Tuomilehto J, Osmond C, Barker DJP. Brit Med J. 2001;322:949–953. [PMC free article] [PubMed] [Google Scholar]
+37. Olds DL. Prev Sci. 2002;3:153–172. [PubMed] [Google Scholar]
+38. Carneiro P, Heckman JJ. Econ J. 2002;112:705–734. [Google Scholar]
+39. Cameron SV, Heckman JJ. J Polit Economy. 2001;109:455–499. [Google Scholar]
+40. Duncan GJ, Brooks-Gunn J. In: Consequences of Growing Up Poor. Duncan G, Brooks-Gunn J, editors. New York: Russell Sage Foundation; 1997. pp. 596–610. [Google Scholar]
+41. Dahl GB, Lochner LJ. Am Econ Rev. 2005 in press. [Google Scholar]
+42. Morris P, Duncan GJ, Clark-Kauffman E. Dev Psychol. 2005;41:919–932. [PubMed] [Google Scholar]
+43. Schweinhart LJ, Montie J, Xiang Z, Barnett WS, Belfield CR, Nores M. Lifetime Effects: The High/Scope Perry Preschool Study Through Age 40. Ypsilanti, MI: High/Scope Press; 2005. [Google Scholar]
+44. Becker GS, Tomes N. J Lab Econ. 1986;4:S1–S39. [Google Scholar]
+45. Suomi SJ. In: Developmental Health and the Wealth of Nations: Social, Biological, and Educational Dynamics. Keating DP, Hertzman C, editors. New York: Guilford; 1999. pp. 185–200. [Google Scholar]
+46. Meaney MJ. Annu Rev Neurosci. 2001;24:1161–1192. [PubMed] [Google Scholar]
+47. Raver CC, Garner PW, Smith-Donald R. In: School Readiness and the Transition to Kindergarten in the Era of Accountability. Pianta RC, Cox MJ, Snow KL, editors. Baltimore: Brookes; 2007. [Google Scholar]
+48. Carneiro P, Cunha F, Heckman JJ. Interpreting the Evidence of Family Influence on Child Development. Minneapolis: The Federal Reserve Bank; 2003. [Google Scholar]
+49. Bowles S, Gintis H, Osborne Groves M, editors. Unequal Chances: Family Background and Economic 

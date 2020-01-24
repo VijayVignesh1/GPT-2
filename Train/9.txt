@@ -1,0 +1,542 @@
+Kv1.1 channelopathy abolishes presynaptic spike width
+modulation by subthreshold somatic depolarization
+Umesh Vivekanandaa
+, Pavel Novakb
+, Oscar D. Belloa
+, Yuri E. Korchevc
+, Shyam S. Krishnakumara,d, Kirill E. Volynskia
+,
+and Dimitri M. Kullmanna,1
+a
+Institute of Neurology, University College London, London WC1N 3BG, United Kingdom; b
+School of Engineering and Materials Science, Queen Mary
+University of London, London E1 4NS, United Kingdom; c
+Department of Medicine, Imperial College London, London W12 0NN, United Kingdom;
+and d
+Department of Cell Biology, Yale University School of Medicine, New Haven, CT 06510
+Edited by Lily Yeh Jan, University of California, San Francisco, CA, and approved January 12, 2017 (received for review May 31, 2016)
+Although action potentials propagate along axons in an all-or-none
+manner, subthreshold membrane potential fluctuations at the soma
+affect neurotransmitter release from synaptic boutons. An important
+mechanism underlying analog–digital modulation is depolarizationmediated inactivation of presynaptic Kv1-family potassium channels,
+leading to action potential broadening and increased calcium influx.
+Previous studies have relied heavily on recordings from blebs formed
+after axon transection, which may exaggerate the passive propagation of somatic depolarization. We recorded instead from small
+boutons supplied by intact axons identified with scanning ion
+conductance microscopy in primary hippocampal cultures and asked
+how distinct potassium channels interact in determining the basal
+spike width and its modulation by subthreshold somatic depolarization. Pharmacological or genetic deletion of Kv1.1 broadened presynaptic spikes without preventing further prolongation by brief
+depolarizing somatic prepulses. A heterozygous mouse model of
+episodic ataxia type 1 harboring a dominant Kv1.1 mutation had a
+similar broadening effect on basal spike shape as deletion of Kv1.1;
+however, spike modulation by somatic prepulses was abolished.
+These results argue that the Kv1.1 subunit is not necessary for subthreshold modulation of spike width. However, a disease-associated
+mutant subunit prevents the interplay of analog and digital transmission, possibly by disrupting the normal stoichiometry of presynaptic potassium channels.
+channelopathy | synaptic transmission | potassium channel
+Although action potentials are generated at the axon initial
+segment in an all-or-none manner, synaptic transmission can
+be modulated by electrotonic propagation of subthreshold membrane depolarization from the soma (1–6). Inactivation of axonal
+Kv1-family channels contributes to “analog” signaling by broadening presynaptic action potentials (6–9). Investigations of presynaptic
+spike shape in small presynaptic boutons have relied heavily on
+extrapolation from recordings in blebs that form after axons have
+been transected (2, 6, 8, 9). A potential pitfall of this method is that
+the ion channels present in blebs may not be representative of the
+normal complement of channels at an unperturbed bouton. A
+further difficulty is that the attenuation of voltage with distance
+from the soma is likely to be smaller than when recording from an
+intact axon. Indeed, classical cable theory predicts that steady-state
+somatic voltage should decrease by ∼63% at one length constant if
+the axon is represented by an infinite cable, but only by ∼35% if it is
+sealed at the same point (10). The discrepancy increases as the axon
+is made shorter: if the axon is cut at half a length constant, the
+attenuation of steady-state voltage at its termination is only ∼29%
+of that predicted for an infinite cable. Given that the length constant of unmyelinated axons in the CNS has been estimated in the
+range of 400–600 μm (1–3, 9, 11), this implies that the modulation
+of action potential shape by passively propagating subthreshold
+somatic depolarization may have been greatly overestimated.
+Recordings from large mossy fiber boutons avoid the pitfalls of
+recording from axon blebs. However, although presynaptic depolarization broadened spikes and action-potential–evoked Ca2+
+transients in one study (12), this was not detected in other studies
+that examined subthreshold depolarization propagating from the
+soma (1, 3). Presynaptic recordings from calyceal synapses in the
+brainstem, furthermore, detected an increase in Ca2+ transients
+without change in spike shape upon depolarization, whether elicited
+by activation of presynaptic glycine receptors (13) or by direct
+current injection (14). The principles governing analog–digital
+modulation at large calyceal synapses may not, however, apply to far
+more abundant small presynaptic boutons of the forebrain, arguing
+the need for alternative recording methods to resolve the role of
+spike broadening. Presynaptic voltage-sensitive fluorescence measurements or loose patch clamp of fluorescent-dye–loaded axons
+may not detect submillisecond differences in action potential shape.
+To resolve the role of spike broadening by direct recording while
+avoiding the pitfalls of axon blebs, we used a variant of scanning ion
+conductance microscopy [hopping probe ion conductance microscopy (HPICM)] (15) to identify small intact presynaptic boutons in
+mouse hippocampal cultures for patch clamp. We have previously
+reported that boutons thus identified express sodium, potassium,
+and calcium channels (16), the full complement of channels required for action potential invasion and neurotransmitter release.
+We focus on the role of Kv1.1, a member of the Kv1 potassium
+channel family, which is expressed in the axons of pyramidal neurons (17). We show that action potential width recorded at the
+bouton is increased by relatively brief subthreshold depolarizing
+current injected at the soma of the same neuron. We further ask
+how Kv1.1 modulates spike shape and identify an unexpected difference between the effects of pharmacological and genetic deletion of Kv1.1 on the one hand and a dominant disease-associated
+missense mutation of the same subunit on the other.
+Significance
+Synaptic transmission depends on all-or-none action potentials.
+However, subthreshold membrane potential fluctuations at the
+cell body spread passively along the axon and affect the shape of
+presynaptic action potentials, calcium influx, and neurotransmitter release. Here we apply a superresolution method to identify
+small presynaptic terminals for patch clamp. Subthreshold modulation of action potentials is abolished by a mutation in the
+potassium channel Kv1.1 associated with the neurological channelopathy episodic ataxia type 1. Surprisingly, pharmacological or
+genetic ablation of Kv1.1 fails to prevent subthreshold modulation. Kv1.1 deletion and mutation have distinct effects on the
+composition and voltage sensitivity of presynaptic channels and
+consequently on modulation of neurotransmitter release.
+Author contributions: P.N., Y.E.K., S.S.K., K.E.V., and D.M.K. designed research; U.V. and
+O.D.B. performed research; U.V., K.E.V., and D.M.K. analyzed data; and D.M.K. wrote
+the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: d.kullmann@ucl.ac.uk.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1608763114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1608763114 PNAS | February 28, 2017 | vol. 114 | no. 9 | 2395–2400
+NEUROSCIENCE
+Results
+We first obtained a somatic whole-cell recording (Fig. 1A), and
+then used HPICM to obtain a high-resolution 3D topographical
+image of a small region within 100 μm of the patched soma,
+looking for a candidate bouton for patch clamp (Fig. 1B). We applied the following criteria: first, the bouton should be situated
+on top or to one side of, a dendrite, and part of its surface should be
+accessible to the vertical scanning nanopipette; second, axons connected to the bouton should be detected; and third, it should be
+clearly distinct from other neuronal structures. The scanning pipette
+tip was subsequently broken to widen its orifice by lowering it rapidly
+on an exposed region of the coverslip (16), before returning it to the
+identified bouton and obtaining a whole-cell patch-clamp recording.
+In ∼24% of cases, action potentials elicited at the soma were detected at the bouton, confirming that both pipettes recorded from
+the same neuron (Fig. 1C). The red fluorescent tracer Alexa Fluor
+568 routinely included in the bouton pipette labeled neighboring
+boutons either side of the targeted structure, providing morphological confirmation of the axon identity (Fig. 1D) and showing that
+the axon was not transected. The axon typically could not be traced
+back to the cell body because of its tortuous route. Nevertheless, the
+spike latency was nonsignificantly longer in the bouton than in the
+somatic recording (average ± SD soma–bouton difference: 0.02 ±
+0.10 ms, n = 53), consistent with action potential initiation at the
+axon initial segment and a mean distance of 200–300 μm (9).
+Of the Kv1 potassium channel family, Kv1.1 activates and,
+depending on coassembled subunits, inactivates at relatively negative membrane potentials (18, 19). It is widely expressed throughout the CNS (20, 21), including the axons of pyramidal neurons
+(17), and is therefore a strong candidate to mediate the effect of
+subthreshold somatic de- and hyperpolarization on presynaptic
+spike shape. We asked whether channels containing the Kv1.1
+subunit affect spike width by examining the effect of acute application of the selective blocker dendrotoxin-K (DTx-K, 20 nM) (22)
+on action potentials elicited by somatic depolarizing current pulses.
+The half-width of action potentials recorded at the soma was unaffected (Fig. 2A and Fig. S1). However, DTx-K application led to
+a 13 ± 3% (mean ± SEM) broadening of the action potential simultaneously recorded at the bouton (Fig. 2 A and B), consistent
+with targeting of the channel to the axon.
+We interleaved simultaneous somatic–bouton recordings in cultures obtained from wild-type (WT) and Kcna1−/− mice lacking
+Kv1.1 (23). Although somatic action potential width was not significantly different between genotypes, deletion of Kv1.1 broadened
+the presynaptic spike width by ∼25% (Kcna1−/−
+: 1.43 ± 0.1 ms, n =
+9; WT: 1.12 ± 0.04 ms, n = 29; Fig. S2 A and B). As expected,
+DTx-K had little or no effect on simultaneously recorded bouton or
+somatic spike width in Kcna1−/− neurons (Fig. S2 C and D).
+We compared the effect of pharmacological and genetic deletion
+of Kv1.1 to a mouse knockin model of episodic ataxia type 1 (EA1),
+a channelopathy caused by heterozygous mutations in the Kv1.1-
+encoding gene Kcna1 (24, 25). Kv1.1 coassembles with other
+members of the Kv1 family, and several EA1-associated mutations
+exert a dominant negative effect on other K+ channel subunits (26–
+28). The Kcna1V408A/+ mouse model of EA1 (29) therefore allows
+the effect of disrupting the normal composition of heteromultimeric
+Kv1 channels to be studied. Similar to Kcna1−/− neurons, presynaptic
+spikes were 25% broader in neurons from Kcna1V408A/+ than wildtype mice (Kcna1V408A/+
+: 1.40 ± 0.06 ms, n = 13; WT: 1.12 ±
+0.04 ms, see above; Fig. 2C). Furthermore, as in Kcna1−/− neurons,
+DTx-K was ineffective in Kcna1V408A/+ neurons, either in somatic
+(Fig. 2D and Fig. S3) or in bouton recordings (Fig. 2 D and E).
+A
+B
+C
+D
+Fig. 1. Dual recordings from the soma and small presynaptic bouton of the
+same neuron. (A) Transmitted light image of a neuron with somatic patch pipette, with a neighboring 6-μm × 6-μm region selected for HPICM indicated
+with the square. (B, Left) Schematics indicating HPICM in voltage-clamp mode
+(Top) and whole-cell recording from presynaptic bouton (Bottom). (Right)
+Height-coded image corresponding to highlighted area in A, showing bouton
+(arrow) supplied by an axon adjacent to a dendrite. (C) Simultaneous somatic
+and presynaptic recordings of action potential train elicited by somatic current
+injection from the same cell as in A. (D) Epifluorescence image (Top) and
+overlaid epifluorescence image on the transmitted light image (Bottom),
+showing neighboring boutons supplied by the same axon filled with Alexa
+Fluor 568 in the bouton pipette (after pipette withdrawal). The axon runs
+approximately horizontally through the image but typically could not be
+traced back to the soma. [Scale bars: (A) 20 μm, (B) 1 μm, and (D) 20 μm.]
+2396 | www.pnas.org/cgi/doi/10.1073/pnas.1608763114 Vivekananda et al.
+Broadening of spike width by DTx-K in wild-type neurons was
+also observed in experiments where a somatic recording was not
+obtained and where action potentials were elicited by current injection at the bouton (Fig. S4). DTx-K also failed to broaden
+spikes in Kcna1−/− and Kcna1V408A/+ boutons in this recording
+configuration, consistent with the results obtained with simultaneous soma–bouton recordings.
+These data show directly that Kv1.1 affects spike shape at the
+bouton. To investigate the role of Kv1.1 in the interplay of analog
+and digital signaling, we restricted our attention to neurons where
+paired somatic–bouton recordings were obtained. We examined
+the effect of injecting somatic currents ranging between –100 and
++50 pA immediately before a suprathreshold somatic depolarizing
+current. Prepulses were 200 ms in duration, approximating the
+time course of subthreshold excitatory postsynaptic potentials (1).
+No current was injected via the bouton pipette, thereby avoiding
+any errors arising from imperfect bridge balance.
+In neurons from wild-type mice the presynaptic action potential
+width showed a positive dependence on the prepulse, consistent
+with voltage-dependent inactivation of K+ currents (Fig. 3A). This
+relationship persisted when spike width was plotted against the
+voltage of the bouton membrane before the somatic depolarizing
+pulse used to evoke spiking (Fig. 3A). To quantify this dependence,
+we calculated the Spearman rank correlation coefficient ρ between
+the prepulse current (or bouton voltage) and the spike width in
+each experiment. The null hypothesis that ρ should be randomly
+distributed around 0 was rejected at P < 0.005 (n = 20, Wilcoxon
+signed-rank test; Fig. S5A). In parallel, to compare across neurons,
+we normalized the half-width measured in each neuron by the
+average width measured with –100- and –50-pA prepulses (Fig. 3B,
+filled symbols). This showed a consistent upward-concave relationship. Spike broadening was not accompanied by a detectable
+change in spike height.
+DTx-K had no significant effect on prepulse-dependent spike
+broadening (n = 18; dependence on prepulse current remained
+significant at P < 0.001, Wilcoxon signed rank test; Fig. 3B, open
+symbols). The modulation of spike width by subthreshold prepulses was unaffected by the drug UK-78282 (200 nM), which has
+been reported to block Kv1.3 and Kv1.4 channels (30) (Fig. S6).
+Moreover, when the same protocol was repeated in neurons from
+Kcna1−/− mice, a positive relationship between spike width and
+prepulse amplitude persisted (n = 9; Fig. 3C and Fig. S7). These
+results indicate that, contrary to expectation, Kv1.1 is not necessary for digital–analog modulation.
+In striking contrast to pharmacological or genetic deletion of
+Kv1.1, prepulses had no effect on spike width in Kcna1V408A/+
+neurons (Fig. 4 A and B; n = 10; Wilcoxon signed-rank test for ρ vs.
+somatic subthreshold current or bouton voltage: P = 0.8; Fig. S5B).
+The distributions of Spearman rank correlation coefficients in
+Kcna1V408A/+ and wild-type neurons were significantly different
+(P < 0.03, Mann–Whitney u test). Moreover, the normalized spike
+widths at 0 or 50 pA were significantly different (P = 0.05 and 0.02,
+respectively; unpaired t tests). The same conclusion held when
+Kcna1V408A/+ neurons were compared only to wild-type littermates
+(n = 10) recorded on the same days (normalized half-width for 0-
+and +50-pA prepulses: P = 0.02 and 0.01, respectively; Fig. S8). We
+further verified that the difference between wild-type and
+Kcna1V408A/+ neurons persisted when longer prepulses lasting 2 s
+were applied (9) (Fig. S9).
+A possible explanation for the unexpected consequence of the
+heterozygous V408A mutation is that it alters the stoichiometry of
+Kv1 channels. We therefore asked whether the relative abundance
+of different Kv1 subunits differs in cortical synaptosomes from
+adult wild-type and Kcna1V408A/+ mice. We concentrated on
+Kv1.1, Kv1.2, Kv1.3, Kv1.4, and Kv1.6, which are expressed in the
+CNS. None of the specific imunoreactive signals, normalized to
+the corresponding SNAP25 band intensity, differed significantly
+between wild-type and Kcna1V408A/+ mice, although there were
+nonsignificant trends for lower Kv1.3 and higher Kv1.6 (Fig. S10).
+Discussion
+The present study shows that brief subthreshold somatic depolarization robustly broadens presynaptic spikes in small boutons of untransected axons. The prepulses used here lasted either
+200 ms or 2 s, comparable to excitatory postsynaptic potentials
+propagating passively from the soma (1). The data thus fill a gap in
+the evidence that action potential width modulation by relatively
+brief subthreshold somatic depolarizations occurs in intact axons.
+At hippocampal mossy fiber synapses, presynaptic spike broadening leads to a proportional increase in Ca2+ influx (31), and a
+similar principle underlies signaling at basket cell terminals in the
+cerebellar cortex (32). Assuming a Ca2+ current cooperativity ∼2
+(33, 34), the ∼12% analog spike broadening seen here (Fig. 3B) is
+predicted to increase neurotransmitter release by ∼25%.
+A
+C
+D E
+B
+Fig. 2. Kv1.1 channels determine spike width. (A) Example recordings from
+one neuron before and after 20 nM DTx-K application. This neurotoxin had
+no effect on somatic spikes but led to broadening of presynaptic action
+potentials. (B) Presynaptic spike widths elicited by somatic current injection
+before and after DTx-K perfusion, showing a significant broadening (n = 24
+neurons, P < 0.001, paired t test). The diagonal line indicates no change.
+Filled symbol: mean ± SEM. (C) Action potentials recorded from boutons, but
+not somata, of Kcna1V408A/+ neurons were wider than in wild-type neurons
+(WT: n = 29; Kcna1V408A/+, n = 13; ***P < 0.001, unpaired t test). Spikes were
+also significantly narrower in boutons than somata in wild-type (P < 0.05,
+paired t test), but not Kcna1V408A/+ neurons. (D) Example traces showing
+failure of DTx-K to broaden either somatic or presynaptic spikes in a
+Kcna1V408A/+ neuron. (E) Summary data showing occlusion of presynaptic
+spike broadening by DTx-K and Kcna1V408A/+ (mean change: 1 ± 1%, n =12;
+P = 0.33). (Scale bar in A and D: 40 mV/1ms.)
+Vivekananda et al. PNAS | February 28, 2017 | vol. 114 | no. 9 | 2397
+NEUROSCIENCE
+This study also reveals an unexpected dissociation between the
+effects of manipulating Kv1.1 on the basal presynaptic spike width
+and on the modulation of spike width by membrane potential
+changes propagating passively from the soma. Pharmacological
+blockade or homozygous deletion of Kv1.1 broadened the action
+potential recorded in boutons but did not prevent the effect of
+subthreshold prepulses. This finding argues that, despite its relatively negative activation and inactivation kinetics, Kv1.1 is not
+absolutely necessary for spike width modulation by prepulses
+lasting 200 ms. Subthreshold modulation of spike width also
+persisted in the presence of a blocker of Kv1.3 and Kv1.4 channels. A heterozygous missense mutation of the Kv1.1-encoding
+gene Kcna1, in contrast, completely abolished the effect of prepulses on spike width, even though the basal spike width was no
+greater than when Kv1.1 was deleted.
+The results are particularly unexpected in the light of what is
+known of the functional consequences of the V408A mutation. In
+contrast to some EA1-associated mutations, the V408A mutation
+expressed in Xenopus oocytes has a relatively subtle effect on
+current density, voltage threshold, activation kinetics, and heterotetramerization (26, 28, 35–37). Furthermore the mutation paradoxically retards N-type inactivation, implying a gain of function
+that might offset a mild deleterious effect on channel function
+(38). Nevertheless, the mutation is embryonal-lethal in the homozygous state (29), unlike the homozygous null mutation, which
+is compatible with survival to adulthood in mice (23). A possible
+explanation for the results is that Xenopus oocyte recordings underestimate the severity of the dominant negative effect of the
+A1
+A3 A4
+A2
+B C
+Fig. 3. Blockade or deletion of Kv1.1 does not prevent analog modulation
+of presynaptic spike width. (A) Trace analysis from one wild-type cell
+showing bidirectional changes in presynaptic spike width by subthreshold
+somatic current injections before evoking action potentials. (A1) Superimposed spikes elicited after prepulses ranging between –100 pA and +50
+pA. Each trace is shown in bold until after the first spike. (Top) Experimental
+design showing somatic current injection protocol. (A2) Zoomed presynaptic
+spikes obtained following –100-pA and +50-pA prepulses (asterisks in A1). (A3)
+Spike half-width plotted against somatic current injection showing positive
+dependence (half-width was ranked –50 pA < –100 pA < 0 pA < +50 pA,
+yielding Spearman rank correlation coefficient ρ = 0.8). (A4) Half-width plotted against membrane potential measured at bouton before +200-pA somatic
+current injection to elicit spike. (B) Summary data obtained from wild-type
+neurons before (n = 20, filled symbols) and after DTx-K (n = 18, open symbols),
+showing persistence of analog modulation of spike width. Error bars indicate
+SEM. To compare among neurons, spike half-widths recorded in individual
+experiments were normalized by the average width measured with –100- and
+–50-pA prepulses. (C) Genetic deletion of Kv1.1 also failed to abolish prepulse-evoked spike broadening (n = 9; wild-type data are replotted from B and
+shown in gray). (Scale bar in A: 40 mV/1 ms.)
+A1
+A3 A4
+A2
+B
+Fig. 4. A heterozygous episodic ataxia mutation abolishes analog modulation of presynaptic spike width. (A) Absence of spike broadening in an example Kcna1V408A/+ neuron. Data are shown as in Fig. 3A. (A1) Superimposed
+spikes elicited after prepulses ranging between –100 pA and +50 pA. (A2)
+Zoomed presynaptic spikes following –100-pA and +50-pA prepulses. (A3)
+Spike half-width plotted against somatic current injection. (A4) Half-width
+plotted against bouton membrane potential prior to +200-pA somatic current
+injection. (B) Summary data from Kcna1V408A/+ neurons (n = 10; open symbols)
+superimposed on wild-type data (gray). Error bars are in some cases smaller
+than the symbols. **P < 0.01 (t test). (Scale bar in A: 40 mV/1 ms.)
+2398 | www.pnas.org/cgi/doi/10.1073/pnas.1608763114 Vivekananda et al.
+V408A mutation, resulting in functional loss of a wide range of
+Kv1 channels. Nevertheless, quantitative immunoblotting failed to
+reveal a substantial change in the relative proportion of different
+members of the Kv1 family in cortical synaptosomes. Homozygous
+deletion of Kv1.1, in contrast, may lead to the formation of Kv1
+channel stoichiometries that are able to substitute for Kv1.1-containing heteromultimers. Such channels most likely have kinetics
+that are slower or require a larger depolarization to activate,
+explaining the prolongation of the spike width, and yet undergo a
+similar slow inactivation upon sustained depolarization, explaining
+the persistence of analog modulation of spike width.
+Axonal Kv1 channels have also been implicated in shunting
+somatodendritic plateau potentials, thereby allowing attenuated
+spikes to repolarize fully and amplify as they propagate to the
+distal axon (39). This phenomenon has been studied with axon
+blebs and requires much larger depolarizations than the spike
+broadening studied here, although it occurs with a similar time
+course. The dependence of shunting on activation, and spike
+broadening on inactivation, of voltage-gated channels hints at
+functional heterogeneity of axonal channels composed of different Kv1 subunits.
+Episodic ataxia type 1 is dominated by paroxysms of cerebellar
+incoordination and myokymia (25). These are most likely attributable to abnormal GABA release from cerebellar basket cells
+(29) and to motor axon hyperexcitability, respectively (40), both
+sites where Kv1.1 is especially abundantly expressed (20, 21, 40,
+41). Indeed, presynaptic spike broadening has been demonstrated
+at these terminals in the Kcna1V408A/+ mouse (32). Nevertheless,
+epilepsy occurs in a high proportion of affected individuals (25,
+27), implying a role in circuit excitability in the forebrain. Whether
+impairment of analog–digital modulation contributes to this feature of the disease remains to be determined.
+Materials and Methods
+Neuronal Cultures and Recording Solutions. Experiments conformed to the
+Animals (Scientific Procedures) Act 1986, and were approved by the ethics
+committee of the UCL Institute of Neurology. Kcna1V408A/+ female mice were
+crossed with wild-type C57/BL6 mice. Hippocampal neurons were isolated from
+P1–P2 mouse pups and cultured in neurobasal-based medium either on an astrocyte feeder layer or on poly-D-lysine–treated coverslips. All recordings were
+conducted at ambient temperature (23 °C–26 °C) 12–19 d after plating. The
+standard extracellular solution used in all experiments contained 125 mM NaCl,
+2.5 mM KCl, 2 mM MgCl2, 2 mM CaCl2, 30 mM glucose, 0.01 mM NBQX,
+0.05 mM (2R)-amino-5-phosphonovaleric acid (APV), and 25 mM Hepes (pH 7.4).
+High-Resolution Scanning. Topographic images were obtained using a custommodified HPICM sample scanner (ICNano-S by Ionscope) and custom software
+as described previously (16). The scan head was mounted on an inverted
+Olympus IX71 microscope, with the nanopipette held vertically. Alexa Fluor
+568 epifluorescence images were obtained using a Cool White LED
+(OptoLED, Cairn Research) and a 520- to 570-nm band-pass excitation filter,
+a 565-nm long-pass dichroic mirror, and a 590-nm long-pass emission filter,
+and collected using an Evolve 512 EM-CCD camera (Photometrics).
+Fine-tipped nanopipettes, used both to probe the neuronal topography and to obtain patch-clamp recordings, were pulled from borosilicate
+glass (o.d. 1 mm, i.d. 0.5 mm; Sutter Instruments) using a laser puller
+(P-2000, Sutter Instruments). The pipette resistance was in the range of
+80–110 MΩ, corresponding to an estimated inner tip diameter of 90–125
+nm, before chopping for whole-bouton recordings. Nanopipettes were
+held in voltage-clamp mode with a Multiclamp 700B patch-clamp amplifier (Molecular Devices).
+Whole-Cell Patch Recordings. A soma was patched under light microscopy
+using a 3–5 MΩ conventional patch pipette filled with 130 mM K gluconate,
+10 mM KOH-Hepes, 1 mM KOH-EGTA, 10 mM KCl, 4 mM Mg-ATP, 0.5 mM
+Na-GTP (pH 7.35 with KOH). The nanopipette used for HPICM contained the
+same internal solution supplemented with 200 μM Alexa Fluor 568 (Invitrogen).
+After obtaining a high-resolution image of a candidate bouton, identified as
+above or adjacent to a dendrite and supplied by an axon, the nanopipette was
+broken on an area of bare coverslip as previously described (16). The widened
+pipette (resistance 30–45 MΩ, corresponding to an inner tip diameter of 300–450
+nm) was returned to the bouton to obtain a whole-cell recording and switched
+to current clamp mode. In a subset of experiments where the soma and bouton
+were not from the same cell, presynaptic spike widths were recorded by injecting
+current into the bouton after balancing the bridge (Fig. S4). In all other cases,
+spikes were evoked via the somatic pipette, and the bouton was recorded passively. Recordings were filtered at 5 kHz, digitized at 10 kHz, and acquired and
+analyzed off-line with custom LabVIEW (National Instruments) software. Cells
+where action potentials did not exceed 0 mV were discarded. The spike take-off
+point was estimated from the peak of the second time derivative of voltage, and
+spike half-width was measured at the half-way voltage between take-off and
+peak. Where several spikes were elicited, only the first was analyzed. For experiments where a bouton recording was obtained without a somatic recording,
+spikes were elicited with a 10-ms, 50-pA current injection. To assess analog
+modulation, 200-ms-long prepulses of amplitude –100 pA, –50 pA, 0 pA, and
++50 pA were applied at the soma before a 200-ms-long depolarizing (+200 pA)
+pulse to elicit one or more action potentials. If a spike occurred before the
++200-pA pulse, the trial was discarded. Protocols were repeated 30 times,
+before and after perfusion of 20 nM DTx-K, allowing 90 s for equilibration,
+and the data are shown as averages of the repetitions. No differences in
+resting membrane potential, input resistance or spike height were observed between genotypes or when comparing recordings before and after
+DTx-K application.
+Drugs and Toxins. AMPA, NMDA, GABAA, and GABAB receptors were routinely
+blocked with 10 μM 2,3-dihydroxy-6-nitro-7-sulfamoyl-benzo[f]quinoxaline2,3-dione, 50 μM (2R)-amino-5-phosphonovaleric acid, 100 μM picrotoxin, and
+1 μM CGP 52432. DTx-K (20 nM) was used to block Kv1.1 channels. APV was
+from Ascent. DTx-K and UK-78282 were from Alomone Labs. All other compounds were purchased from Tocris.
+Pure Synaptosome Preparation. Pure synaptosomes were prepared using
+protocols adapted from refs. 42, 43. Brain cortices from four wild-type or
+four Kcna1V408A/+ mice (6–8 wk old) were homogenized in 10 volumes of ice-cold
+Hepes-buffered sucrose (320 mM sucrose, 4 mM Hepes, pH 7.4, protease inhibitor mixture; Sigma S8830) using a motor driven glass-Teflon homogenizer at
+∼900 rpm with 15 gentle strokes. The homogenate was centrifuged at 1,000 × g
+for 10 min at 4 °C in a Ti 70.1 rotor (Beckman). The pellet (P1) was discarded and
+the supernatant (S1) was centrifuged at 10,000 × g for 15 min in the same rotor.
+The resulting pellet (P2) was resuspended in 10 volumes of Hepes-buffered sucrose and then respun at 10,000 × g for a further 15 min to yield a washed crude
+synaptosomal fraction. The supernatant was removed and the synaptosomeenriched pellet (P2′) was resuspended in 4 mL of homogenization buffer. The P2′
+fraction was then layered onto 3 mL of 1.2 M sucrose (supplemented with 4 mM
+Hepes pH 7.4, protease inhibitors), and centrifuged at 230,000 × g for 15 min in
+an SW55 Ti swinging bucket rotor (Beckman). The synaptosomes were recovered
+at the interface of Hepes-buffered sucrose and 1.2 M sucrose and diluted to 8 mL
+with ice-cold Hepes-buffered sucrose. The samples were then layered onto 4 mL
+of 0.8 M sucrose (supplemented with 4 mM Hepes pH 7.4, protease inhibitors)
+and centrifuged at 230,000 × g for 15 min in a Ti 70.1 rotor (Beckman). The
+resulting pellet containing pure synaptomes was resuspended in lysis buffer [1%
+Nonidet P-40, 50 mM Tris·HCl (pH 8), 150 mM NaCl, and 2 mM EDTA, protease
+inhibitor] and the protein concentration was then determined with a Bio-Rad
+protein assay solution with BSA as a standard.
+Western Blot Analyses. Equal amounts of proteins (30 μg per lane) from pure
+synaptosomal fraction of wild-type or Kcna1V408A/+ KI mice were separated by
+SDS/PAGE using Bis-Tris gradient gels (4–12% NuPAGE; Invitrogen) according
+to the manufacturer’s recommendations and electrophoretically transferred
+onto Immobilon-P transfer membranes (Millipore). Membranes were immunoblotted with the respective antibodies: rabbit anti-Kv1.1 (APC-161, Alomone
+Labs; 1:800), anti-Kv1.2 (APC-010, 1:1,500), anti-Kv1.3 (APC-101, 1:1,000), antiKv1.4 (APC-167, 1:500), anti-Kv1.6 (APC-003, 1:2,000), and anti-SNAP25 (Abcam
+ab5666; 1:2,000) at 4 °C overnight. Blots were then exposed to horseradish
+peroxidase-conjugated goat anti-rabbit IgG (17210, Bio-Rad Laboratories,
+1:5,000) for 1 h at room temperature. Blots were developed using ECL-Prime
+(GE Healthcare), visualized via a ChemiDoc Touch Imaging System, and analyzed using Image Lab 5.2 software (Bio-Rad Laboratories). For the quantifications, the signal intensity of each of the Kv1 bands was normalized to the
+signal intensity of the corresponding SNAP25 bands, and then the Kcna1V408A/+
+synaptosomes were expressed as a percentage of wild type.
+ACKNOWLEDGMENTS. We thank J. Maylie for the gift of the Kcna1V408A/+
+mice; S. Martin for help with breeding and genotyping; M. Cano, E. Tagliatti,
+and A. Vicente for preparation of neuronal cultures; and members of the Experimental Epilepsy Group for helpful comments. This work was supported by
+the Medical Research Council, the European Research Council, and the
+Wellcome Trust.
+Vivekananda et al. PNAS | February 28, 2017 | vol. 114 | no. 9 | 2399
+NEUROSCIENCE
+1. Alle H, Geiger JRP (2006) Combined analog and action potential coding in hippocampal mossy fibers. Science 311(5765):1290–1293.
+2. Shu Y, Hasenstaub A, Duque A, Yu Y, McCormick DA (2006) Modulation of intracortical synaptic potentials by presynaptic somatic membrane potential. Nature
+441(7094):761–765.
+3. Scott R, Ruiz A, Henneberger C, Kullmann DM, Rusakov DA (2008) Analog modulation
+of mossy fiber transmission is uncoupled from changes in presynaptic Ca2+. J Neurosci
+28(31):7765–7773.
+4. Debanne D, Bialowas A, Rama S (2013) What are the mechanisms for analogue and
+digital signalling in the brain? Nat Rev Neurosci 14(1):63–69.
+5. Christie JM, Chiu DN, Jahr CE (2011) Ca(2+)-dependent enhancement of release by
+subthreshold somatic depolarization. Nat Neurosci 14(1):62–68.
+6. Kim S (2014) Action potential modulation in CA1 pyramidal neuron axons facilitates
+OLM interneuron activation in recurrent inhibitory microcircuits of rat hippocampus.
+PLoS One 9(11):e113124.
+7. Bialowas A, et al. (2015) Analog modulation of spike-evoked transmission in CA3 circuits
+is determined by axonal Kv1.1 channels in a time-dependent manner. Eur J Neurosci
+41(3):293–304.
+8. Shu Y, Yu Y, Yang J, McCormick DA (2007) Selective control of cortical axonal
+spikes by a slowly inactivating K+ current. Proc Natl Acad Sci USA 104(27):
+11453–11458.
+9. Kole MHP, Letzkus JJ, Stuart GJ (2007) Axon initial segment Kv1 channels control
+axonal action potential waveform and synaptic efficacy. Neuron 55(4):633–647.
+10. Rall W (1959) Branching dendritic trees and motoneuron membrane resistivity. Exp
+Neurol 1(5):491–527.
+11. Jackson MB (1993) Passive current flow and morphology in the terminal arborizations
+of the posterior pituitary. J Neurophysiol 69(3):692–702.
+12. Ruiz A, Campanac E, Scott RS, Rusakov DA, Kullmann DM (2010) Presynaptic GABAA
+receptors enhance transmission and LTP induction at hippocampal mossy fiber synapses. Nat Neurosci 13(4):431–438.
+13. Turecek R, Trussell LO (2001) Presynaptic glycine receptors enhance transmitter release at a mammalian central synapse. Nature 411(6837):587–590.
+14. Awatramani GB, Price GD, Trussell LO (2005) Modulation of transmitter release by
+presynaptic resting potential and background calcium levels. Neuron 48(1):109–121.
+15. Novak P, et al. (2009) Nanoscale live-cell imaging using hopping probe ion conductance microscopy. Nat Methods 6(4):279–281.
+16. Novak P, et al. (2013) Nanoscale-targeted patch-clamp recordings of functional presynaptic ion channels. Neuron 79(6):1067–1077.
+17. Lorincz A, Nusser Z (2008) Cell-type-dependent molecular composition of the axon
+initial segment. J Neurosci 28(53):14329–14340.
+18. Stühmer W, et al. (1989) Molecular basis of functional diversity of voltage-gated
+potassium channels in mammalian brain. EMBO J 8(11):3235–3244.
+19. Grissmer S, et al. (1994) Pharmacological characterization of five cloned voltagegated K+ channels, types Kv1.1, 1.2, 1.3, 1.5, and 3.1, stably expressed in mammalian
+cell lines. Mol Pharmacol 45(6):1227–1234.
+20. Wang H, Kunkel DD, Schwartzkroin PA, Tempel BL (1994) Localization of Kv1.1 and
+Kv1.2, two K channel proteins, to synaptic terminals, somata, and dendrites in the
+mouse brain. J Neurosci 14(8):4588–4599.
+21. Veh RW, et al. (1995) Immunohistochemical localization of five members of the Kv1
+channel subunits: Contrasting subcellular locations and neuron-specific co-localizations in rat brain. Eur J Neurosci 7(11):2189–2205.
+22. Harvey AL, Robertson B (2004) Dendrotoxins: Structure-activity relationships and effects on potassium ion channels. Curr Med Chem 11(23):3065–3072.
+23. Smart SL, et al. (1998) Deletion of the K(V)1.1 potassium channel causes epilepsy in
+mice. Neuron 20(4):809–819.
+24. Browne DL, et al. (1994) Episodic ataxia/myokymia syndrome is associated with point
+mutations in the human potassium channel gene, KCNA1. Nat Genet 8(2):136–140.
+25. Rajakulendran S, Schorge S, Kullmann DM, Hanna MG (2007) Episodic ataxia type 1: A
+neuronal potassium channelopathy. Neurotherapeutics 4(2):258–266.
+26. Zerr P, Adelman JP, Maylie J (1998) Episodic ataxia mutations in Kv1.1 alter potassium
+channel function by dominant negative effects or haploinsufficiency. J Neurosci 18(8):
+2842–2848.
+27. Zuberi SM, et al. (1999) A novel mutation in the human voltage-gated potassium
+channel gene (Kv1.1) associates with episodic ataxia type 1 and sometimes with
+partial epilepsy. Brain 122(Pt 5):817–825.
+28. Adelman JP, Bond CT, Pessia M, Maylie J (1995) Episodic ataxia results from voltagedependent potassium channels with altered functions. Neuron 15(6):1449–1454.
+29. Herson PS, et al. (2003) A mouse model of episodic ataxia type-1. Nat Neurosci 6(4):
+378–383.
+30. Hanson DC, et al. (1999) UK-78,282, a novel piperidine compound that potently blocks
+the Kv1.3 voltage-gated potassium channel and inhibits human T cell activation. Br J
+Pharmacol 126(8):1707–1716.
+31. Geiger JR, Jonas P (2000) Dynamic control of presynaptic Ca(2+) inflow by fast-inactivating
+K(+) channels in hippocampal mossy fiber boutons. Neuron 28(3):927–939.
+32. Begum R, Bakiri Y, Volynski KE, Kullmann DM (2016) Action potential broadening in a
+presynaptic channelopathy. Nat Commun 7:12102.
+33. Bucurenciu I, Kulik A, Schwaller B, Frotscher M, Jonas P (2008) Nanodomain coupling
+between Ca2+ channels and Ca2+ sensors promotes fast and efficient transmitter
+release at a cortical GABAergic synapse. Neuron 57(4):536–545.
+34. Ermolyuk YS, et al. (2012) Independent regulation of basal neurotransmitter release
+efficacy by variable Ca2
++ influx and bouton size at small central synapses. PLoS Biol
+10(9):e1001396.
+35. D’Adamo MC, Liu Z, Adelman JP, Maylie J, Pessia M (1998) Episodic ataxia type-1
+mutations in the hKv1.1 cytoplasmic pore region alter the gating properties of the
+channel. EMBO J 17(5):1200–1207.
+36. Imbrici P, D’Adamo MC, Grottesi A, Biscarini A, Pessia M (2011) Episodic ataxia type 1
+mutations affect fast inactivation of K+ channels by a reduction in either subunit
+surface expression or affinity for inactivation domain. Am J Physiol Cell Physiol 300(6):
+C1314–C1322.
+37. Rea R, Spauschus A, Eunson LH, Hanna MG, Kullmann DM (2002) Variable K(+) channel
+subunit dysfunction in inherited mutations of KCNA1. J Physiol 538(Pt 1):5–23.
+38. Maylie B, Bissonnette E, Virk M, Adelman JP, Maylie JG (2002) Episodic ataxia type 1
+mutations in the human Kv1.1 potassium channel alter hKvbeta 1-induced N-type
+inactivation. J Neurosci 22(12):4786–4793.
+39. Apostolides PF, Milstein AD, Grienberger C, Bittner KC, Magee JC (2016) Axonal filtering allows reliable output during dendritic plateau-driven complex spiking in CA1
+NEURONS. Neuron 89(4):770–783.
+40. Brunetti O, et al. (2012) Kv1.1 knock-in ataxic mice exhibit spontaneous myokymic
+activity exacerbated by fatigue, ischemia and low temperature. Neurobiol Dis 47(3):
+310–321.
+41. Wang H, Kunkel DD, Martin TM, Schwartzkroin PA, Tempel BL (1993) Heteromultimeric K+ channels in terminal and juxtaparanodal regions of neurons. Nature
+365(6441):75–79.
+42. Hebb CO, Whittaker VP (1958) Intracellular distributions of acetylcholine and choline
+acetylase. J Physiol 142(1):187–196.
+43. Bai F, Witzmann FA (2007) Synaptosome proteomics. Subcell Biochem 43:77–98.
+2400 | www.pnas.org/cgi/doi/10.1073/pnas.1608763114 Vivekananda et al.

@@ -1,0 +1,496 @@
+Horizontal cells expressing melanopsin x are novel
+photoreceptors in the avian inner retina
+Luis P. Moreraa
+, Nicolás M. Díaza
+, and Mario E. Guidoa,1
+a
+Centro de Investigaciones en Química Biológica de Córdoba (Consejo Nacional de Investigaciones Científicas y Técnicas de la República Argentina),
+Departamento de Química Biológica, Facultad de Ciencias Químicas, Universidad Nacional de Córdoba, 5000 Cordoba, Argentina
+Edited by Aziz Sancar, University of North Carolina, Chapel Hill, NC, and approved September 27, 2016 (received for review June 5, 2016)
+In the vertebrate retina, three types of photoreceptors—visual
+photoreceptor cones and rods and the intrinsically photosensitive
+retinal ganglion cells (ipRGCs)—converged through evolution to
+detect light and regulate image- and nonimage-forming activities
+such as photic entrainment of circadian rhythms, pupillary light
+reflexes, etc. ipRGCs express the nonvisual photopigment melanopsin (OPN4), encoded by two genes: the Xenopus (Opn4x) and
+mammalian (Opn4m) orthologs. In the chicken retina, both OPN4
+proteins are found in ipRGCs, and Opn4x is also present in retinal
+horizontal cells (HCs), which connect with visual photoreceptors.
+Here we investigate the intrinsic photosensitivity and functioning
+of HCs from primary cultures of embryonic retinas at day 15 by
+using calcium fluorescent fluo4 imaging, pharmacological inhibitory treatments, and Opn4x knockdown. Results show that HCs
+are avian photoreceptors with a retinal-based OPN4X photopigment conferring intrinsic photosensitivity. Light responses in HCs
+appear to be driven through an ancient type of phototransduction
+cascade similar to that in rhabdomeric photoreceptors involving a
+G-protein q, the activation of phospholipase C, calcium mobilization, and the release of the inhibitory neurotransmitter GABA.
+Based on their intrinsic photosensitivity, HCs may have a key dual
+function in the retina of vertebrates, potentially regulating nonvisual
+tasks together with their sister cells, ipRGCs, and with visual photoreceptors, modulating lateral interactions and retinal processing.
+retina | light responses | horizontal cell | phototransduction | melanopsin
+I
+n the vertebrate retina, photoreceptors can be classified according to their function as canonical or noncanonical. The first
+group comprises specialized ciliary retinal neurons, cones, and
+rods in the outer retina, which participate in the image-forming
+processes associated with day/night vision. The second group is
+composed of intrinsically photosensitive retinal ganglion cells
+(ipRGCs) in the inner retina, which preferentially participate in
+the processing of photic inputs related to nonimage-forming
+tasks (photic synchronization of circadian rhythms, pupillary
+light reflexes, inhibition of pineal melatonin, etc.) (1–7). The
+photopigment melanopsin (OPN4) (1) confers photosensitivity
+to ipRGCs as clearly shown through later experiments with
+OPN4 knockout mice or OPN4 heterologous expression in
+nonretinal cells for loss or gain of function, respectively (8–11).
+Through evolution, OPN4 appears to have been encoded by at
+least two genes in vertebrates: Opn4x and Opn4m, the Xenopus
+and mammalian ortholog genes, respectively (12). Interestingly,
+the first-appearing vertebrates, nonmammals including fish,
+amphibians, and birds, possess both Opn4 genes whereas mammals only have Opn4m. Evidence suggests that during the course
+of evolution, mammals lost some visual opsins and Opn4x as they
+entered the nocturnal niche. In the chicken retina, different
+laboratories have reported the expression of Opn4 genes in outer
+nuclear, inner nuclear, and ganglion cell layer (GCL) cells (12–
+21). At the protein level, OPN4M was shown to be restricted to
+ipRGCs, whereas OPN4X was found in the GCL at embryo day
+8 (E8) but mostly in PROX1 (+) horizontal cells (HCs) by E15 (21);
+the homeobox gene PROX1 is a universal HC marker that is
+expressed from E8 forward (22, 23). These and other experiments
+raised a crucial question: Can Opn4x (+) HCs intrinsically respond
+to light? HCs are retinal interneurons lying adjacent to the outer
+plexiform layer and implicated in visual perception and the regulation of signaling between cones, rods, and bipolar cells, enhancing image contrast, color discrimination, and light adaptation.
+HCs are involved mainly in the lateral interactions of the outer
+retina (24, 25). Once determined, retinal HC precursors migrate,
+differentiate, and express a set of specific markers; the final inner
+nuclear positioning occurs around E15 (23, 26), the same time at
+which a very strong expression of OPN4X was observed (21).
+Molecular comparative biology indicates that rods and cones have
+evolved from a common ciliary photoreceptor precursor, whereas
+RGCs, amacrine cells, and HCs may have evolved from a common
+precursor with rhabdomeric photoreceptors (27). Two studies provide strong evidence of photoresponses in HCs in teleosts (28, 29),
+shown to express vertebrate ancient (VA) opsin and OPN4 and to
+intrinsically respond to light well beyond rod and cone responses
+(28–31). In this work we investigated the intrinsic photosensitivity of
+HCs from embryonic avian retina, the role of the nonvisual photopigment Opn4x in these photic responses, and the neurochemical
+features of the events triggered by the light stimuli.
+Results
+Characterization of HC Primary Cultures Expressing OPN4x. HCs
+isolated from the 2.5% phase of a BSA gradient obtained from
+disaggregated embryonic chicken retinas at E15 displaying positive immunoreactivity for the typical HC marker PROX1 (≥85%)
+after flow cytometry (Fig. S1) were cultured for 2–3 d under
+constant illumination conditions and immunostained for OPN4x.
+Fig. 1 shows OPN4x (+) immunoreactivity in most cells of the
+Significance
+In the vertebrate retina, three types of photoreceptors—visual
+photoreceptor cones and rods and intrinsically photosensitive
+retinal ganglion cells (ipRGCs)—converged through evolution to
+detect light and regulate image- and nonimage-forming activities. ipRGCs express the photopigment melanopsin (OPN4), encoded by two genes: the Xenopus (Opn4x) and mammalian
+(Opn4m) orthologs. In the chicken retina, both OPN4 proteins are
+found in ipRGCs. Opn4x is also present in retinal horizontal cells
+(HCs) connecting with visual photoreceptors. We show that HCs
+displaying intrinsic photosensitivity constitute photoreceptors
+requiring Opn4x expression and retinaldehyde, acting through an
+invertebrate-like phototransduction cascade and GABA release.
+These mechanisms may enable HCs to regulate nonvisual tasks
+with ipRGCs and lateral interactions with visual photoreceptors.
+Author contributions: L.P.M., N.M.D., and M.E.G. designed research; L.P.M. and N.M.D.
+performed research; M.E.G. contributed new reagents/analytic tools; L.P.M., N.M.D., and
+M.E.G. analyzed data; and M.E.G. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: mguido@fcq.unc.edu.ar.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1608901113/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1608901113 PNAS | November 15, 2016 | vol. 113 | no. 46 | 13215–13220
+NEUROSCIENCE
+2.5% phase. These cells also expressed PROX1 after subsequent
+immunopurification by an anti-OPN4x antibody (Fig. S2 A and
+B). Cultured cells also expressed mRNAs for another HC marker,
+Islet-1, and for Gq, the member of the G-protein family involved in
+the rhabdomeric-like photocascade (Fig. S2C). By contrast, only
+trace inmmunoreactivity associated with RETP1 (≤6%) and NF-200
+(≤5%), markers of photoreceptor cells and RGCs, respectively, was
+observed in the cultures (Fig. S2), and only when cultures were
+maintained for 5 d or longer were a few Muller glial cells seen using
+the specific marker glutamine synthase.
+Retinal cells from the 3% and 4% phases of the gradient also
+expressed OPN4x and upon magnification showed much longer
+neurites than those in HC cultures, likely denoting OPN4x (+)
+RGCs (Fig. 1).
+Endogenous Levels of Retinaldehyde Isomers and Light Responses in
+HCs. To function as a photopigment, OPN4 requires the presence
+of sufficient retinaldehyde isomers as the active chromophore
+(6–11). Results shown in Fig. 2 C and D indicate that HC cultures contained detectable basal levels of all-trans retinal. Nevertheless, to evoke significant light responses, 0.6 μM of exogenous
+all-trans retinal were added to the cultures in most experiments.
+Light response was then assessed by Ca2+ fluorescent imaging with
+Fluo4 in cells from disaggregated embryonic retinas at E15 kept in
+culture for several days (Fig. S3). When photic responses were
+evaluated in HC cultures, pulses of white light (1,000 lx) of different durations ranging from 5 to 50 s were able to promote
+significant increases in relative Ca2+ levels compared with basal
+fluorescence seen in the dark (P < 0.001 by ANOVA) (Figs. 2 and
+3). Responses were further increased with the addition of exogenous all-trans retinal (Fig. 2B). After light stimulation of different
+durations, relative levels of Ca2+ increased 50% from 5 s of exposure to 20–50 s (Fig. 3), and the time to peak revealed that the
+highest response in each experiment did not attain saturation
+along the photic stimuli. Moreover, when HCs were exposed to
+prolonged illumination stimuli of longer duration (5–10 min),
+sustained responses were observed in intracellular Ca2+ levels,
+peaking after 1 min of light onset (ΔF = 1.34 ± 0.06), decreasing
+by 50% after 3 min, and returning to basal levels minutes later.
+The decline in light responses was probably due to fluorescent
+indicator saturation after continuous light exposure. When two brief
+pulses of bright light were given to the cultures, separated by an
+interval of 5 min in the dark to allow for cell recovery, Ca2+ levels
+peaked immediately after the photic stimulation for both pulses
+(Fig. 3E). In addition, when light pulses of different wavelengths
+were tested in the Opn4x (+) HC cultures, using LEDs of similar
+intensities at 395–400 nm, 460 nm, and 625 nm for 5 s, the highest
+responses were visualized with blue light (Fig. S3D).
+OPN4X-Mediated Intrinsic Photosensitivity in HCs. We next investigated the role of OPN4X in conferring HC intrinsic photosensitivity by knocking down its expression and assessing the
+effect of light-evoked responses on fluorescent Ca2+ levels. Fig.
+S4 shows that the specific shRNA for Opn4x significantly decreased OPN4X expression (Fig. S4 A, B, E, and F). Light increases in intracellular somatic Ca2+ levels in control cultures
+treated with a scrambled sequence RNA (ssRNA) (Fig. 4 A and
+B) were completely attenuated in those cells positively transfected with Opn4x shRNA (Fig. 4 A and B; Fig. S4 C and D). Fig.
+4B indicates an almost 90% decrease compared with the control
+and a significant treatment effect (P < 0.001). In another series
+of experiments, when a chemically synthesized opsinamide was
+used to inhibit OPN4 activity as previously shown (32), no photic
+increases in fluorescent Ca2+ levels were found in HC cultures
+compared with cells treated with vehicle only (Fig. S5).
+Light-Triggered Events in HCs. To investigate the molecular events
+triggered by light downstream of OPN4X activation, we treated
+Opn4x-immunopurifed HC cultures with different Ca2+ chelators, retinal bleachers, or Gq protein and phospholipase C (PLC)
+inhibitors to examine their effect on fluorescent Ca2+ levels after
+light stimulation. The elevation in somatic Ca2+ levels by light
+observed in cultures treated with vehicle (Fig. 5 F and G) were
+completely abolished by treatment with U73122, a PLC inhibitor
+(Fig. 5 A and G), or with hydroxylamine, a retinal bleacher that
+strongly affects photopigment activity (Fig. 5 B and G). Suramin
+Fig. 1. Characterization of primary cultures of embryonic retinal cells obtained
+from the different phases of a discontinuous BSA gradient at day 15. (Left) Cell
+cultures from the different phases (2.5%, 3%, 4%) show positive immunoreactivity for Opn4x (green) in cell somas and processes; propidium iodide (PI, red)
+staining denotes cellular nuclei. (Right) Magnification (200×) of microphotographs from cell cultures from the 2.5–3% BSA gradient phases showing
+immunofluorescence colocalization (merge) between PI and Opn4x in cell
+somas and processes. OPN4 (+) immunoreactivity demarks the typical morphology of neuronal cells with shorter or longer processes as indicated in the
+selected square further magnified on the right.
+Fig. 2. Light-induced increase in Ca2+ levels measured by Fluo-4 AM fluorescent microscopy measured in HC cultures with (w/) or without (w/o) the
+addition of exogenous all-trans retinal (0.6 μM). (A) Intracellular increase in
+Ca2+ levels after light exposure for 10 s (yellow mark) without (w/o) exogenous all-trans retinal in individual cells (red) compared with levels with (w/)
+exogenous all-trans retinal (blue line) representing the average of photic
+responses in individual cells. (B) Graphical representation of relative fluorescent Ca2+ levels (ΔF) in HC cultures with (w/) or without (w/o) all-trans
+retinal (0.6 μM) administration in the culture medium. (C and D) Endogenous
+levels of all-trans retinal in primary cultures of HCs by HPLC determination
+(C) in both all-trans retinal stereoisomers, syn (peak at 357 nm) and anti
+(peak at 361 nm), by UV spectrum (D). Data are mean ± SEM (n = 3). Calcium
+fluorescent imaging was assessed as stated in Materials and Methods.
+13216 | www.pnas.org/cgi/doi/10.1073/pnas.1608901113 Morera et al.
+analogs were shown to act as direct antagonists of heterotrimeric
+G proteins (33) and reported to impair light responses in ipRGCs
+(11). We examined the effect of 100 μM suramin on HCs applied
+for 15–20 min before light stimulation and found that light responses were substantially abolished after treatment (Fig. 5 C
+and G). On the contrary, when specific inhibitors of the visual
+phototransduction cascade were used, such as the pertussis toxin
+(500 nM) that disrupts signaling through the Gi/o protein
+α-transducin or zaprinast (0.1 M), a specific phosphodiesterase 6
+(PDE6) inhibitor (6, 17), light responses were not affected in the
+cultures (Fig. S5 D and E).
+In an attempt to elucidate the calcium sources responsible for
+the light increases observed in somatic Ca2+ levels and because it is
+known that 2-aminoethoxydiphenyl borate (2-APB) is a membranepermeable blocker of the inositol 1,4,5-trisphosphate (IP3)-induced
+Ca2+ release from internal stores (34), we investigated the effect of
+2-APB on light responses in HCs; the treatment with 100 μM of
+2-APB before light exposure significantly inhibited light-mediated
+increases in intracellular Ca2+ levels (Fig. 5 D and G). Furthermore, photic responses were substantially blocked when HC cultures were treated with EGTA (1 mM), a known extracellular Ca2+
+chelating agent, before light stimulation (Fig. 5 E and G).
+HCs can regulate photoreceptor functioning upon depolarization, and GABA release may be implicated in lateral inhibition (35–37). To investigate its potential utilization as a
+neurotransmitter and its release in these cells under the different
+Fig. 3. Light-induced changes in intracellular Ca2+ levels measured by Fluo-4 AM fluorescent microscopy in HC cultures. (A–C and F) Individual cells in culture
+exhibit a significant response to light by increasing intracellular Ca2+ levels as seen in lighter color recordings. The red line represents the average response of
+all photosensitive cells assessed. Cells were exposed to a single brief white light pulse of 1,000 lx for 5 (A), 20 (B), or 50 s (C) or to two brief white light pulses of
+1,000 lx for 20 s (E). Light duration is marked with yellow in the axis. Plots shown in A–C and E represent the F/Fo ratio for the changes in fluorescence levels
+between each relative intensity level measured after a light stimulus of 1,000 lx (F) and the mean of intensities of serial pictures before stimulation (Fo).
+(D) Graphical representation of relative fluorescent Ca2+ levels (ΔF) calculated as indicated in Materials and Methods after 5 s, 20 s, and 50 s of light stimulation
+compared with dark controls. Data are mean ± SEM (n = 25 from three independent experiments); *P < 0.05 by Student t test. (F) A typical HC (magnification:
+600×) showing several processes grown after 3 d in culture loaded with Fluo-4 AM and displaying a significant increase in intracellular calcium fluorescence levels
+after light exposure, visualized in a pseudocolor scale with the highest response in red. Ca2+ levels were measured by Fluo-4 AM fluorescent microscopy as
+described in Materials and Methods.
+Morera et al. PNAS | November 15, 2016 | vol. 113 | no. 46 | 13217
+NEUROSCIENCE
+light conditions examined, HCs were loaded with 3
+H-GABA in
+the dark, the culture medium was washed out, and the cells were
+then exposed to bright light for 30 min or kept in the dark. HCs
+in culture take up radiolabeled GABA from the extracellular
+medium under control conditions (Fig. 6), and light stimulation
+significantly increased its release to the extracellular medium
+compared with dark controls (P < 0.001).
+Discussion
+Within the retina, HCs project laterally and integrate inputs
+from visual photoreceptor rods and cones, providing them with
+negative and positive feedback to generate an antagonistic, and
+to a lesser degree agonistic, center-surround receptive field
+(Scheme 1, Scenarios 1 and 3) (25). Each HC receives chemical
+synaptic inputs from many rods and cones and, in return, generates a feedback signal that alters HC neurotransmitter release.
+Through this neural network comprising HCs, rods, cones, and
+bipolar cells, light in the retina generates a representation of
+spatial contrast and visual detection of edges, color discrimination, and light adaptation (35, 36). HC feedback is critical
+for establishing the antagonistic receptive field-surround of the
+subsequent neuron in the visual path (the bipolar cell). HCs are
+thus responsible for lateral interaction and inhibition (24, 34,
+35). In the dark, HCs are depolarized as a consequence of glutamate release by visual photoreceptors, which in turn causes the
+release of GABA by HCs onto cone synapses promoting a
+neurochemical inhibition, proton release, or ephaptic signaling
+(35). Conversely, when the light is on, cones and rods become
+hyperpolarized, stopping the release of glutamate and thus preventing the depolarization and subsequent HC response. In addition to their typical role in the retinal circuits, in nonmammalian
+vertebrates HCs may conserve vestiges of ancient photoreceptor
+cells (Scheme 1, scenario 2) as clearly demonstrated for ipRGCs
+(2, 6, 17, 18). In teleosts, it has been reported that retinal HCs
+expressing VA opsin or OPN4 can intrinsically respond to light
+(28, 29). OPN4 is found in brain, iris, and retinal cells of vertebrates (1, 3, 5, 6, 12, 17–19) and highly conserved through evolution (38). In mammals OPN4 is confined to ipRGCs; however,
+the distribution of multiple Opn4s (Opn4m and Opn4x) in diverse
+retinal cell types of nonmammalian vertebrates suggests a biological function of higher complexity (see review in ref. 6). In the
+chicken retina, HCs express Opn4 mRNA (14, 19) and Opn4x
+protein (21). OPN4 is an ortholog of the Gq-coupled invertebrate
+opsins (6), and the photocascade operating in the OPN4 (+)
+ipRGCs clearly involves the participation of PLC, Ca2+ mobilization,
+Fig. 4. Calcium fluorescent imaging of HC cultures treated with the Opn4x
+shRNA. (A) Significant light-induced changes in intracellular Ca2+ levels
+found in HC cultures treated with the control ssRNA (red line) were drastically affected in cell cultures treated with the specific Opn4x shRNA (blue
+line). (B) Graphical representation of relative fluorescent Ca2+ levels (ΔF)
+after a brief white light pulse of 1,000 lx for 5 s in Opn4x shRNA-treated cell
+cultures compared with ssRNA-treated cells (control). Data are mean ± SEM
+(n = 15 from three independent experiments); ***P < 0.001 by Student t test.
+Fig. 5. Effect of retinal bleachers and nonvisual phototransduction cascade
+inhibitors on intracellular Ca2+ after light exposure in HC cultures. Significant
+light-induced changes (F/Fo) in intracellular Ca2+ levels visualized in HC cultures treated with the vehicle (control) (F) were drastically affected in cell
+cultures treated with the PLC inhibitor U73122 (5 μM) (A); the retinal
+bleacher hydroxylamine (Hyd, 30 mM) (B); the G-protein q inhibitor suramin
+(Sur, 100 μM) (C); the blocker of the IP3-induced Ca2+ release 2-APB (100 μM)
+(D); or a chelating agent, 1 mM EGTA (E). (G) Graphical representation of
+relative fluorescent Ca2+ levels (ΔF) after a brief white light pulse of 1,000 lx
+for 5 s in cell cultures treated with the effectors compared with vehicletreated controls. Data are mean ± SEM (n = 20 from three independent
+experiments); ***P < 0.001 by Student t test.
+13218 | www.pnas.org/cgi/doi/10.1073/pnas.1608901113 Morera et al.
+and TRP channel activation (18, 39–41). The embryological origin of these cells within the retina and other molecular features
+strongly suggest that ipRGCs and HCs are likely to derive from a
+common ancient photoreceptor cell. The present paper provides
+evidence that Opn4x-expressing HCs kept in culture in the
+presence of retinaldehyde intrinsically respond to light with significant and sustained increases in intracellular Ca2+ from internal IP3 stores but also in part from the extracellular medium.
+The cascade depends on G-protein q and PLC activation and
+ultimately leads to the release of intracellular GABA. Lightsensitive HCs can provide a plus-local regulation of visual photoreceptor function, further modifying neurotransmitter release
+and thus light intensity perception, because under this illumination condition HCs may increase negative feedback with a
+much stronger lateral inhibition of neighbor photoreceptors.
+One possible function of OPN4 is depolarization of the melanopsin-containing HCs themselves, which may inhibit the hyperpolarization responses of HCs triggered by light-dependent
+hyperpolarization of photoreceptor cells and thus regulate the
+negative feedback to visual photoreceptors. Accordingly, the
+OPN4-mediated depolarization of HCs by light may contribute
+to membrane potential regulation in the photoreceptor cells,
+modulating visual function. For its part, negative feedback reduces the dynamic range of the cone synapse by diminishing the
+maximal release rate of cones. By boosting neurotransmitter
+release from cones, positive feedback may recover the dynamic
+range lost in the negative feedback. Jackman and colleagues (25)
+propose that positive and negative feedbacks spread out differentially in the retina. Their results suggest that positive feedback
+acts locally; because there is no evidence of factors preventing
+positive feedback from causing runaway, this crucial role could
+be taken on by HCs expressing melanopsin. HCs cooperate in
+image-forming pathways with feedback signaling to cones and
+feed forward signaling to bipolar cells (42, 43). Here we provide
+evidence that HCs in culture release 3
+H-GABA upon 30 min of
+light exposure. Several mechanisms for HC feedback to photoreceptors have been proposed. HCs contain GAD, the synthesizing GABA enzyme (44, 45), and exhibit a direct GABAergic
+synaptic connection to ON and OFF bipolar cells (46) and to
+visual photoreceptors (47), showing that vesicular GABA release
+from HCs is required for feedback inhibition of photoreceptors.
+Despite basic similarities, cell number, layer length, photopigment localization, and physiological responses differ significantly
+in the inner retina of birds compared with that of primates; in fact,
+the avian retina is especially rich in HCs and amacrine cells and
+presents higher complexity of interconnections and intraretinal
+visual processing. The complex processing occurring in higher
+forebrain areas in primates is achieved at a lower level in birds,
+within the inner retina perhaps indicating one of the crucial differences between primate and avian visual systems.
+Our findings demonstrate that HCs are retinal photoreceptors
+expressing a retinaldehyde-based Opn4x photopigment that renders
+cells intrinsically photosensitive. In nonmammalian vertebrates
+these retinal interneurons may have a dual function, somehow
+regulating nonvisual tasks such as those in which ipRGCs are
+involved or lateral interactions with visual photoreceptors such
+as typical HCs (Scheme 1). Our findings leave many open questions
+as to the way in which this intrinsic photosensitivity affects in
+retinal circuits or why these sensitive interneurons were evolutionarily preserved in some species. The findings provide evidence of intrinsically photosensitive retinal HCs in birds that
+significantly increases the complexity of retinal neural circuits for
+light perception and visual processing.
+Materials and Methods
+For complete information on materials and methods, see SI Materials and
+Methods.
+Animal Handling. All experiments were performed in accordance with the Use
+of Animals in Ophthalmic and Vision Research of the Association for Research
+in Vision and Ophthalmology, approved by the local animal care committee
+(School of Chemistry, Universidad Nacional de Córdoba; Exp. 15–99-39796).
+Primary Cultures of Embryonic Horizontal Cells. HCs were purified from
+chicken neural retinas at E15 by a BSA discontinuous gradient of concentrations ranging from 1 to 4 % (wt/vol) as previously reported (48). Highly
+enriched HC cultures were characterized by specific HC markers as previously
+shown. See SI Materials and Methods for further information.
+RNA Isolation and RT-PCR. Total RNA from HC primary cultures was extracted
+using the TRIzol kit for RNA isolation (Invitrogen) (7, 48). See SI Materials and
+Methods for further information.
+An initial denaturation step of 1 min at 94 °C, 25 cycles of 60 s at 94 °C, 50 s
+at 60°–65 °C, 90 s at 72 °C, and a final 5-min elongation step at 72 °C.
+Fig. 6. 3
+H-GABA release in HC cultures after 30 min of light exposure. HCs
+were incubated for 30 min at 37 °C with 3
+H-GABA (0.5–1 mCi, specific activity
+87.1 Ci/mmol) in the dark, the culture medium was washed out, and cells
+were exposed to bright light for 30 min or kept in dark. Graphical representation showing 3
+H-GABA release in primary HC culture after 30 min of
+light (1,000 lx) and dark controls. Data are mean ± SEM (n = 40 from three
+independent experiments); ***P < 0.001 by Student t test.
+Glu Glu
+GABA
+Ca+2 Ca+2
+1 2 3
+Glu Glu
+GABA
+Scheme 1. Schematic representation of three different scenarios within the
+retina involving the synapses between visual photoreceptors and HCs after
+light stimulation. (Scenario 1) Upon light stimulation, classic HCs project laterally and integrate inputs from visual photoreceptor cones and rods, providing critical negative feedback for establishing an antagonistic receptive
+field. (Scenario 2) Intrinsically photosensitive HCs depolarize upon light stimulation, releasing GABA on the ephaptic synapse with visual photoreceptors,
+causing further hyperpolarization and a decrease in glutamate release. (Scenario 3) HCs may also transmit a positive feedback signal to cone terminals,
+elevating intracellular Ca2+ and accelerating neurotransmitter release.
+Morera et al. PNAS | November 15, 2016 | vol. 113 | no. 46 | 13219
+NEUROSCIENCE
+Amplification products (Table S1) were separated by 2% agarose gel electrophoresis and visualized by ethidium bromide staining.
+Opn4x Knockdown. The shRNA sequence to suppress Opn4x (GAAGCTAACTGGAGTGATG) and a scrambled DNA target sequence (ACTCCATACTCGACACCTA) were created using the siRNA Wizard InvivoGen. cDNAs
+encoding shRNAs were inserted in a discistronic vector pSuper.neo+GFP
+(pSuperRNAi System-OligoEngine) under the control of the H1 RNAIII polymerase promoter. The transfection marker GFP was under the control of the
+PGK promoter. The resulting plasmids were referred to as Opn4x shRNA and
+ssRNA. The plasmids were mixed with Lipofectamine 2000 and added to the
+retinal cultures 12 h after plating.
+Calcium Imaging by Fluo-4 AM Fluorescence Microscopy. Cells were grown in an
+eight-well Lab-Tek recording chamber (NuncTM) in a colorless DMEM (GIBCO)
+containing 0.1% of Pluronic acid F-127 and 5 μM Fluo-4 AM (InvitrogenMolecular Probes) Ca2+ indicator dye for 60 min at 37 °C. The fluorescence
+imaging technique was performed as described (7) with modifications by
+using Ca2+-sensitive indicator Fluo-4 AM excited at 515 nm (25.8 μW laser
+intensity) with a laser coupled to a confocal microscope (Olympus FluoView300). Changes in fluorescence levels were quantified as the ratio between
+each relative intensity level measured after a light stimulus of 1,000 lx (F)
+and the mean of intensities of serial pictures before stimulation (Fo). ΔF was
+calculated as the difference between the maximal (peak) and minimal values
+of relative fluorescence in light responses for each assessment. See SI
+Materials and Methods for further information.
+Retinoid Analysis. Primary cultures were homogenized in phosphate buffer
+containing 200 mM hydroxylamine and processed for retinoid analysis by
+HPLC as reported (7). See SI Materials and Methods for further information.
+3
+H-GABA Release. HCs were incubated for 30 min at 37 °C with 3
+H-GABA
+(0.5–1 μCi) in 500 μL of buffer containing 140 mM NaCl, 5 mM KCl, 2.5 mM
+CaCl2, 1 mM MgCl2, 10 mM Hepes, and 10 mM glucose, adjusted to pH 7.4
+with Tris base. The primary cultures were washed several times in fresh
+buffer to remove the excess 3
+H-GABA and exposed for 30 min to a 1,000-lx
+light stimulus. Supernatant was recovered, and radioactivity in the medium was determined in a scintillation counter. Fractional release was
+calculated as the ratio of radioactivity released/total radioactivity taken up
+by the culture.
+ACKNOWLEDGMENTS. We thank Dr. Ignacio Provencio for his critical reading
+of the manuscript and Drs. M. R. Mazieri and G. Miana for assistance in
+opsinamide synthesis. This work was supported by Agencia Nacional de Promoción Científica y Tecnológica–Fondo para la Investigación Científica y Tecnológica
+(PICT 2013-021), Consejo Nacional de Investigaciones Científicas y Técnicas de
+la Republica Argentina (PIP 2011), and Secretaría de Ciencia y Tecnología–
+Universidad Nacional de Córdoba.
+1. Provencio I, et al. (2000) A novel human opsin in the inner retina. J Neurosci 20(2):
+600–605.
+2. Berson DM, Dunn FA, Takao M (2002) Phototransduction by retinal ganglion cells that
+set the circadian clock. Science 295(5557):1070–1073.
+3. Hattar S, Liao HW, Takao M, Berson DM, Yau KW (2002) Melanopsin-containing
+retinal ganglion cells: Architecture, projections, and intrinsic photosensitivity. Science
+295(5557):1065–1070.
+4. Lucas RJ, et al. (2003) Diminished pupillary light reflex at high irradiances in melanopsin-knockout mice. Science 299(5604):245–247.
+5. Guido ME, et al. (2010) Inner retinal circadian clocks and non-visual photoreceptors:
+Novel players in the circadian system. Prog Neurobiol 92(4):484–504.
+6. Díaz NM, Morera LP, Guido ME (2016) Melanopsin and the non-visual photochemistry
+in the inner retina of vertebrates. Photochem Photobiol 92(1):29–44.
+7. Díaz NM, Morera LP, Tempesti T, Guido ME (March 17, 2016) The visual cycle in the
+inner retina of chicken and the involvement of retinal G-protein-coupled receptor
+(RGR). Mol Neurobiol, 10.1007/s12035-016-9830-5.
+8. Panda S, et al. (2003) Melanopsin is required for non-image-forming photic responses
+in blind mice. Science 301(5632):525–527.
+9. Hattar S, et al. (2003) Melanopsin and rod-cone photoreceptive systems account for
+all major accessory visual functions in mice. Nature 424(6944):76–81.
+10. Melyan Z, Tarttelin EE, Bellingham J, Lucas RJ, Hankins MW (2005) Addition of human
+melanopsin renders mammalian cells photoresponsive. Nature 433(7027):741–745.
+11. Qiu X, et al. (2005) Induction of photosensitivity by heterologous expression of
+melanopsin. Nature 433(7027):745–749.
+12. Bellingham J, et al. (2006) Evolution of melanopsin photoreceptors: Discovery and characterization of a new melanopsin in nonmammalian vertebrates. PLoS Biol 4(8):e254.
+13. Torii M, et al. (2007) Two isoforms of chicken melanopsins show blue light sensitivity.
+FEBS Lett 581(27):5327–5331.
+14. Tomonari S, Takagi A, Akamatsu S, Noji S, Ohuchi H (2005) A non-canonical photopigment, melanopsin, is expressed in the differentiating ganglion, horizontal, and
+bipolar cells of the chicken retina. Dev Dyn 234(3):783–790.
+15. Tomonari S, Takagi A, Noji S, Ohuchi H (2007) Expression pattern of the melanopsinlike (cOpn4m) and VA opsin-like genes in the developing chicken retina and neural
+tissues. Gene Expr Patterns 7(7):746–753.
+16. Bailey MJ, Cassone VM (2005) Melanopsin expression in the chick retina and pineal
+gland. Brain Res Mol Brain Res 134(2):345–348.
+17. Contin MAVD, Verra DM, Guido ME (2006) An invertebrate-like phototransduction cascade
+mediates light detection in the chicken retinal ganglion cells. FASEB J 20(14):2648–2650.
+18. Contín MA, et al. (2010) Light activation of the phosphoinositide cycle in intrinsically
+photosensitive chicken retinal ganglion cells. Invest Ophthalmol Vis Sci 51(11):5491–5498.
+19. Chaurasia SS, et al. (2005) Molecular cloning, localization and circadian expression of
+chicken melanopsin (Opn4): Differential regulation of expression in pineal and retinal
+cell types. J Neurochem 92(1):158–170.
+20. Lima LHRG, et al. (2006) Melanopsin in chicken melanocytes and retina. Biol Rhythm
+Res 37(5):393–404.
+21. Verra DM, Contín MA, Hicks D, Guido ME (2011) Early onset and differential temporospatial expression of melanopsin isoforms in the developing chicken retina.
+Invest Ophthalmol Vis Sci 52(8):5111–5120.
+22. Belecky-Adams T, et al. (1997) Pax-6, Prox 1, and Chx10 homeobox gene expression correlates
+with phenotypic fate of retinal precursor cells. Invest Ophthalmol Vis Sci 38(7):1293–1303.
+23. Doh ST, et al. (2010) Analysis of retinal cell development in chick embryo by immunohistochemistry and in ovo electroporation techniques. BMC Dev Biol 10:8.
+24. Thoreson WB, Mangel SC (2012) Lateral interactions in the outer retina. Prog Retin
+Eye Res 31(5):407–441.
+25. Jackman SL, Babai N, Chambers JJ, Thoreson WB, Kramer RH (2011) A positive feedback
+synapse from retinal horizontal cells to cone photoreceptors. PLoS Biol 9(5):e1001057.
+26. Poché RA, Reese BE (2009) Retinal horizontal cells: Challenging paradigms of neural
+development and cancer biology. Development 136(13):2141–2151.
+27. Arendt D (2003) Evolution of eyes and photoreceptor cell types. Int J Dev Biol 47(7-8):
+563–571.
+28. Cheng N, Tsunenari T, Yau KW (2009) Intrinsic light response of retinal horizontal cells
+of teleosts. Nature 460(7257):899–903.
+29. Jenkins A, et al. (2003) VA opsin, melanopsin, and an inherent light response within
+retinal interneurons. Curr Biol 13(15):1269–1278.
+30. Kojima D, Fukada Y (1999) Non-visual photoreception by a variety of vertebrate
+opsins. Novartis Found Symp 224:265–279; discussion: 279–282.
+31. Drivenes Ø, et al. (2003) Isolation and characterization of two teleost melanopsin
+genes and their differential expression within the inner retina and brain. J Comp
+Neurol 456(1):84–93.
+32. Jones KA, et al. (2013) Small-molecule antagonists of melanopsin-mediated phototransduction. Nat Chem Biol 9(10):630–635.
+33. Beindl W, et al. (1996) Inhibition of receptor/G protein coupling by suramin analogues. Mol Pharmacol 50(2):415–423.
+34. Bultynck G, et al. (2004) Thimerosal stimulates Ca2+ flux through inositol 1,4,5-trisphosphate receptor type 1, but not type 3, via modulation of an isoform-specific
+Ca2+-dependent intramolecular interaction. Biochem J 381(Pt 1):87–96.
+35. Kramer RH, Davenport CM (2015) Lateral inhibition in the vertebrate retina: The case
+of the missing neurotransmitter. PLoS Biol 13(12):e1002322.
+36. Kemmler R, Schultz K, Dedek K, Euler T, Schubert T (2014) Differential regulation of
+cone calcium signals by different horizontal cell feedback mechanisms in the mouse
+retina. J Neurosci 34(35):11826–11843.
+37. Liu X, Hirano AA, Sun X, Brecha NC, Barnes S (2013) Calcium channels in rat horizontal
+cells regulate feedback inhibition of photoreceptors through an unconventional
+GABA- and pH-sensitive mechanism. J Physiol 591(13):3309–3324.
+38. Borges R, Johnson WE, O’Brien SJ, Vasconcelos V, Antunes A (2012) The role of gene
+duplication and unconstrained selective pressures in the melanopsin gene family evolution and vertebrate circadian rhythm regulation. PLoS One 7(12):e52413.
+39. Graham DM, et al. (2008) Melanopsin ganglion cells use a membrane-associated
+rhabdomeric phototransduction cascade. J Neurophysiol 99(5):2522–2532.
+40. Hughes S, Jagannath A, Hankins MW, Foster RG, Peirson SN (2015) Photic regulation
+of clock systems. Methods Enzymol 552:125–143.
+41. Xue T, et al. (2011) Melanopsin signalling in mammalian iris and retina. Nature
+479(7371):67–73.
+42. Belgum JH, Copenhagen DR (1988) Synaptic transfer of rod signals to horizontal and
+bipolar cells in the retina of the toad (Bufo marinus). J Physiol 396:225–245.
+43. DeVries SH, Schwartz EA (1989) Modulation of an electrical synapse between solitary pairs
+of catfish horizontal cells by dopamine and second messengers. J Physiol 414:351–375.
+44. Vardi N, Kaufman DL, Sterling P (1994) Horizontal cells in cat and monkey retina
+express different isoforms of glutamic acid decarboxylase. Vis Neurosci 11(1):135–142.
+45. Dong CJ, Picaud SA, Werblin FS (1994) GABA transporters and GABAC-like receptors
+on catfish cone- but not rod-driven horizontal cells. J Neurosci 14(5 Pt 1):2648–2658.
+46. Wu SM, Yang XL (1992) Modulation of synaptic gain by light. Proc Natl Acad Sci USA
+89(24):11755–11758.
+47. Hirano AA, et al. (2016) Targeted deletion of vesicular GABA transporter from retinal
+horizontal cells eliminates feedback modulation of photoreceptor calcium channels.
+eNeuro 3(2):ENEURO.0148-15.2016.
+48. Morera LP, Díaz NM, Guido ME (2012) A novel method to prepare highly enriched
+primary cultures of chicken retinal horizontal cells. Exp Eye Res 101:44–48.
+13220 | www.pnas.org/cgi/doi/10.1073/pnas.1608901113 Morera et al.

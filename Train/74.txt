@@ -1,0 +1,556 @@
+Relationships between cortical myeloarchitecture and
+electrophysiological networks
+Benjamin A. E. Hunta
+, Prejaas K. Tewariea
+, Olivier E. Mougina
+, Nicolas Geadesa
+, Derek K. Jonesb
+, Krish D. Singhb
+,
+Peter G. Morrisa
+, Penny A. Gowlanda
+, and Matthew J. Brookesa,1
+a
+Sir Peter Mansfield Imaging Centre, School of Physics and Astronomy, University of Nottingham, Nottingham NG7 2RD, United Kingdom; and b
+Cardiff
+University Brain Research Imaging Centre, School of Psychology, Cardiff CF24 4HQ, United Kingdom
+Edited by Marcus E. Raichle, Washington University in St. Louis, St. Louis, MO, and approved October 7, 2016 (received for review May 27, 2016)
+The human brain relies upon the dynamic formation and dissolution
+of a hierarchy of functional networks to support ongoing cognition.
+However, how functional connectivities underlying such networks
+are supported by cortical microstructure remains poorly understood.
+Recent animal work has demonstrated that electrical activity
+promotes myelination. Inspired by this, we test a hypothesis that
+gray-matter myelin is related to electrophysiological connectivity.
+Using ultra-high field MRI and the principle of structural covariance,
+we derive a structural network showing how myelin density differs
+across cortical regions and how separate regions can exhibit similar
+myeloarchitecture. Building upon recent evidence that neural
+oscillations mediate connectivity, we use magnetoencephalography
+to elucidate networks that represent the major electrophysiological
+pathways of communication in the brain. Finally, we show that a
+significant relationship exists between our functional and structural
+networks; this relationship differs as a function of neural oscillatory
+frequency and becomes stronger when integrating oscillations over
+frequency bands. Our study sheds light on the way in which cortical
+microstructure supports functional networks. Further, it paves the
+way for future investigations of the gray-matter structure/function
+relationship and its breakdown in pathology.
+network | functional connectivity | myelination |
+magnetoencephalography | MRI
+The way in which integration of functionally specific brain regions supports ongoing cognition is one of the most important
+questions in neuroscience, and noninvasive in vivo imaging provides a tool to investigate this interregional connectivity in terms of
+both brain function and structure. Functional connectivity refers to
+statistical interdependencies between patterns of brain “activity”
+measured at separate cortical locations (1) and, even in the
+“resting state,” measured spontaneous brain activity defines nonrandom networks that are related to cognitive processes (2). The
+way in which these functional networks are supported by structural
+white-matter pathways is reasonably well understood (3). However,
+it is likely that the structure–function association extends to graymatter morphology, for which fundamental understanding is
+lacking. Structural morphology of the cortex is known to vary
+significantly between individuals, and does so in an organized
+fashion. For example, individuals with a high cortical volume in
+Broca’s area typically exhibit high cortical volume in Wernicke’s
+area, reflecting a language network (4). Similar observations can
+be made between other associated cortical regions (5, 6). This is
+known as structural covariance (7–9) and it allows the formation of
+matrices showing how structural properties of individual brain
+regions covary over subjects. In this paper, we assess structural
+covariance based upon cortical myeloarchitecture and probe its
+relationship to functional networks that are assessed based upon
+measured spontaneous brain activity.
+Noninvasive mapping of cortical myeloarchitecture (10, 11) has
+grown in popularity in recent years, fueled by an increased interest
+in myelination-based parcellation (12). The general finding is that
+primary sensory cortices tend to be heavily myelinated whereas
+regions associated with multisensory integration are less myelinated
+(10, 13). More localized spatial changes in myelination also exist;
+for example, subtle subdivisions between regions are apparent in
+visual (14, 15), somatosensory (16), and auditory (17) cortices.
+There is evidence of cross-species changes in myelination (18), with
+the brains of nonhuman primates more heavily myelinated than
+those of humans. Although still unproven, findings suggest that
+cortical myelin may inhibit plasticity; for example, early sensory
+areas may require less plasticity, and therefore more myelin,
+whereas higher-order areas have less myelination, which might
+enable greater plasticity (10). Cortical myelination has been shown
+to change throughout development, and is not established fully
+until the third decade of life (19, 20). However, no studies have yet
+used myelin mapping to examine structural covariance or the link
+between a cortical myelin network and functional connectivity.
+Previous work does show a direct link between myeloarchitecture
+and function (21–23). For example, a recent study (24) showed that
+optogenetic stimulation directed to increase neuronal firing in
+premotor cortex of mice promotes oligodendrogenesis and therefore myelination, thus providing a link between neuroelectrical
+activity and myeloarchitecture. Further work (25) suggests that the
+amount of cortical myelin in a region predicts the magnitude of
+electrophysiological responses. Taken together, the evidence converges to a hypothesis that, if neuronal firing acts to shape the
+spatial signature of myeloarchitecture, then networks reflecting the
+brain’s primary pathways of functional connectivity should be
+predictive of structural networks of intracortical myelin.
+Magnetoencephalography (MEG) characterizes electrical activity in the brain via measurement of extracranial magnetic fields
+(26). The MEG signal from any one brain region is dominated by
+neural oscillations (rhythmic changes in electrical activity) that are
+observable in the 1- to 200-Hz frequency range. Evidence suggests
+that these oscillations represent an intrinsic process by which both
+Significance
+This paper identifies a significant relationship between cortical
+myeloarchitecture and functional connectivity in the human
+brain. This is a significant step toward understanding the role
+of myelin in shaping large-scale neural networks. Our results
+extend recent work showing that electrical activity promotes
+myelination and add significant weight to the argument that
+neural oscillations are a core mediator of brain connectivity.
+Author contributions: D.K.J., K.D.S., P.G.M., P.A.G., and M.J.B. designed research; B.A.E.H.,
+P.K.T., O.E.M., and N.G. performed research; P.K.T., O.E.M., N.G., P.A.G., and M.J.B. contributed new reagents/analytic tools; B.A.E.H., P.K.T., O.E.M., N.G., and M.J.B. analyzed
+data; and B.A.E.H. and M.J.B. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+Data deposition: MEG and MT adjacency matrices have been deposited at www.figshare.
+com and can be found with DOI: 10.6084/m9.figshare.4056441.
+1
+To whom correspondence should be addressed. Email: matthew.brookes@nottingham.
+ac.uk.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1608587113/-/DCSupplemental.
+13510–13515 | PNAS | November 22, 2016 | vol. 113 | no. 47 www.pnas.org/cgi/doi/10.1073/pnas.1608587113
+short- and long-range functional connections in the brain are
+maintained. With this in mind, a growing body of work has begun
+to show that, via appropriate modeling of MEG data, networks of
+electrophysiological functional connectivity can be mapped (27–
+29). The rich temporal complexity of MEG signals means that
+multiple ways to characterize functional connectivity exist (30).
+However, one of the most robust methods is amplitude envelope
+correlation (AEC), which probes temporal relationships between
+the envelope of oscillations, in a frequency band of interest, at
+spatially separate brain regions. Our previous work has shown that
+this intrinsic mechanism of (noninvasively measured) electrophysiological coupling underpins many of the observable resting
+state networks (RSNs) (27, 31). Given that these measurements
+represent the principal long-range functional connections in the
+brain, and given the evidence that electrical activity mediates
+myelination, we hypothesized that networks of oscillatory envelope correlation, measured between parcellated regions and in
+multiple frequency bands, would allow prediction of a network of
+structural covariance representing myeloarchitecture.
+Results
+Fifty-eight volunteers (39 ± 12 y old, 27 male) took part in the study.
+Using ultra-high field MRI, we measured magnetization transfer
+(MT) (32) across the brain, which serves as a marker of myelin.
+These measurements were parcellated into 64 cortical regions
+according to the automated anatomical labeling (AAL) atlas (Table
+S1) and normalized by region volume to give myelin density estimates. Following this, assessment of structural covariance between
+all possible AAL region pairs allowed derivation of a network matrix
+showing the degree to which separate (AAL) regions exhibit similarities in their myeloarchitecture (see SI Further Analyses and Fig.
+S1 for an alternative methodology). The same individuals also underwent resting-state MEG acquisition. MEG data were parcellated
+according to the same atlas, and RSNs characterizing functional
+connectivity, between all possible AAL region pairs, were derived
+using AEC in five frequency bands. With the aid of a recently developed framework (31), we then characterized the relationship
+between the structural network, representing myelin density,
+and functional networks, representing the major pathways of
+electrophysiological communication.
+Myelin Maps. Fig. 1A shows the measured MT, averaged across
+subjects and plotted for all AAL regions. Red corresponds to high
+myelin density, blue indicates low myelin density, and gray shows
+regions where scan coverage was insufficient to gain an accurate
+estimate. High myelination was observed in primary sensory cortices,
+with statistical tests showing that this spatial variation was significant;
+for example, significantly (P < 0.001) higher myelination was found
+in primary motor cortex compared with the dorsolateral prefrontal
+cortex. A hemispheric division was also noted with significantly (P <
+0.01) higher MT in left compared with right sensorimotor cortex.
+Fig. 1B maps the cortical variation of correlation between myelin
+density and handedness (the latter measured using the Edinburgh
+Handedness Inventory). A positive correlation denotes regions
+where right handers have more myelin than left handers; a negative
+correlation denotes regions where left handers have more myelin
+than right-handed individuals. Note a significant (P < 0.05) split in
+the polarity of the correlation between hemispheres.
+MT Structural Covariation. The principle of structural covariance
+and the structural network are shown in Fig. 1 C and D, respectively. Fig. 1C shows correlation across subjects between myelin concentrations measured in left frontal inferior operculum
+(capturing Broca’s area) and left supramarginal gyrus (encompassing Wernicke’s area). Results show a significant (P < 0.001)
+positive correlation across subjects. Equivalent correlations can be
+derived between all possible AAL region pairs, and results are
+shown in Fig. 1D. Note that structural covariance between adjacent AAL regions is generally denoted by matrix elements close to
+the leading diagonal, whereas structural covariance between distal
+regions is represented far from the diagonal. The white boxes
+show structural covariance between homologous regions.
+MEG Networks. MEG functional connectivity matrices are shown in
+Fig. 2. All networks are represented by a matrix similar to that in
+Fig. 1D. The 3D brains display all connections within 5% of the
+maximum value. It is clear that network structure differs between
+bands: Theta oscillations support connections in frontal occipital
+and parietal areas whereas alpha band-mediated connections are
+predominantly occipital. The beta band shows more widespread
+connectivity but is dominated by parietal and occipital connections. The low-gamma band was dominated by a sensorimotor
+network.
+The Relationship Between Structural Covariance and MEG. Fig. 3A
+shows a “seed-based” structural covariance map (i.e., a single column in the matrix in Fig. 1D). Here, a seed region has been placed
+in right inferior parietal cortex; high values depict brain areas that
+show high structural covariance to the seed. A cross-hemispheric
+pattern is observable with high structural covariance between homologous regions. Fig. 3B shows the equivalent seed-based map
+Fig. 1. In vivo myelination measures and the structural network. (A) Mean MT contrast percentage for
+all AAL regions. High MT is reflective of high myelination. Note high levels of myelination in primary
+cortical regions. (B) Correlation between MT and
+handedness. Positive correlations show regions
+where myelin is higher in right handers. Negative
+correlations show regions where myelin is higher in
+left handers. (C) Example plot showing correlation
+over subjects between MT measured in the AAL regions capturing Broca’s and Wernicke’s areas. These
+correlations are the basis of the structural network.
+(D) The myelin structural network, represented as a
+matrix. Each element denotes cross-subject correlation in MT between two brain regions.
+Hunt et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13511
+NEUROSCIENCE
+calculated using beta band MEG data. Note the strong similarity
+between the functional (Fig. 3B) and the structural (Fig. 3A)
+networks. To generalize this relationship for all possible seed regions, we tested for correlation between the full MT matrix
+(representing all seeds; Fig. 1D) and the group-averaged functional connectivity matrices for all bands (Fig. 2). The resulting r2
+values (bar chart in Fig. 3C) show that functional networks measured in the beta and low-gamma bands predict significantly the
+spatial pattern of structural covariance. Neither theta nor highgamma bands showed a measurable relationship; the alpha band
+showed a trend. The inset images show seed regions for which
+structural covariance is best predicted by functional networks.
+Note that the structure/function relationship is strongest in parietal and occipital areas and weakest in the frontal lobes. It is
+noteworthy that the MEG-derived functional networks, particularly in the beta band, are driven in part by canonical RSNs (27),
+and by extension this suggests a significant relationship might also
+be found between the spatial signature of fMRI-derived RSNs and
+the structural network. This is indeed the case, and this significant
+relationship is shown in SI Further Analyses, Functional Connectivity and Myeloarchitecture in RSNs).
+Although functional networks in individual frequency bands
+show significant correlation, it is likely that the structural network
+exists to support functional connectivity in all bands. For this
+reason, we sought to integrate the five MEG networks to test
+whether such combination could better predict structure than
+independent frequency bands. Two approaches were used. First,
+all five MEG matrices were combined in a linear weighted sum.
+Second, these same matrices were supplemented by nonlinear
+terms, formed based upon the square of each MEG matrix, and
+again a weighted sum derived. Importantly, the nonlinear terms
+have specific meaning: For any squared matrix, a single element,
+say [1, 2], represents the inner product of the connectivity profile
+of region 1 and region 2. Because this product is related to covariation, the matrix element will be high if the connectivity profile
+of region 1 to the rest of the brain overlaps with the equivalent
+connectivity profile of region 2. In this way the squared terms can
+be thought of as representing brain regions that share connections
+to similar areas. Fig. 4 A–C show connectivity matrices representing
+the structural network (Fig. 4A) and its prediction based upon linear
+(Fig. 4B) and nonlinear (Fig. 4C) combinations of MEG networks.
+These relationships, along with that for the best single frequency
+band, are further visualized in Fig. 4 D and E, which show “seedbased” structural covariance (top row) alongside equivalent maps
+made using the beta band (upper middle), the best linear combination (lower middle), and the best nonlinear combination (bottom). Seeds were placed in right lateral visual cortex and left
+superior frontal cortex in Fig. 4 D and E, respectively.
+The relationship between structure and integrated functional connectivity is formalized in Fig. 4F, which shows r2 values representing
+correlation between the MT network and functional networks representing beta band only and linear and nonlinear predictions; the inset
+Fig. 2. MEG functional connectivity matrices. Matrices represent AEC in the (A) theta (4–8 Hz), (B) alpha (8–13 Hz), (C) beta (13–30 Hz), (D) low–gamma (30–
+70 Hz), and (E) high-gamma (70–120 Hz) bands. All matrices show Pearson correlation between AAL region pairs. The 3D plots shown depict all connections
+within 5% of the maximum value in each band.
+Fig. 3. The relationship between MEG networks
+and myelination. (A) Structural covariance between
+a seed region in right inferior parietal cortex and all
+other brain regions. (B) Seed-based functional connectivity, calculated using MEG in the beta band
+between the same seed region in inferior parietal
+cortex and all other regions. Note the similarity between A and B. (C) The bar chart shows correlation
+between the structural network (Fig. 1D) and the
+functional networks (Fig. 2). Correlation is measured
+over the whole matrix (i.e., for all possible seed regions) and is shown for all frequency bands. ** indicates a significant relationship; * indicates a trend.
+The inset images show which seed regions drive the
+relationship in the bar chart [i.e., red indicates a region whose structural connectivity (MT) profile and
+functional connectivity profile are highly correlated].
+13512 | www.pnas.org/cgi/doi/10.1073/pnas.1608587113 Hunt et al.
+images show seed regions for which structural covariance is best
+predicted by the functional networks. Fig. 4 G–I show the r2 values
+plotted alongside their representative null distributions. In all cases,
+correlation between the structural network and MEG networks falls
+outside the null distribution. Note also that this relationship gets
+stronger when allowing integration over frequency bands.
+Discussion
+Although recent years have seen significant progress in mapping the
+human connectome, the relationship between functional networks
+and cortical microstructure remains poorly understood. A recent
+study (24) in animals suggests that electrical activity promotes
+myelination. We therefore reasoned that, if functional networks
+represent major pathways of electrophysiological communication,
+then those pathways should shape myeloarchitecture and a significant relationship between functional connectivity and myelin
+should be observable. Our results support this, with significant
+correlation between the structural network and functional networks
+mediated by neural oscillations in the beta and low-gamma bands.
+This relationship became stronger when integrating MEG networks
+across frequency bands, suggesting that myeloarchitecture supports
+networks at all measurable electrophysiological timescales.
+The fact that our functional networks are measured directly
+using electrophysiological imaging (as distinct from indirectly using hemodynamics) adds an extra (frequency) dimension to our
+study. In the past, neural oscillations were largely ignored in favor
+of measurements of evoked responses. However, the last decade
+has seen a surge of interest, showing these oscillations to be an
+integral feature of brain function. Recent work suggests that oscillations gate information flow in the cortex (33) and implies that
+oscillations are an intrinsic form of functional coupling (34).
+Measurable connectivity depends critically on the frequency band
+studied; indeed, this is shown in Fig. 2 with marked spatial differences between bands. The fact that the relationship between
+functional networks and myelin was strongest in the beta band is
+not surprising given that previous work (27, 31) has shown that
+beta oscillations mediate long-range connections in a large number of RSNs (see also SI Further Analyses, Functional Connectivity
+Fig. 4. Predicting myelination based on integrated MEG networks. (A–C) Matrices representing (A) the MT network, (B) the best linear combination of MEG
+frequency bands to estimate MT, and (C) the best nonlinear prediction of MT. (D and E) Seed-based visualizations of structural and functional networks with
+seed regions in right lateral visual cortex (D) and left superior frontal cortex (E). The lower three rows show beta band and the linear and nonlinear predictions of the MT network (Top). (F) r2 values describing goodness-of-fit between structure and function for the best-fitting single frequency band (beta) and
+predictions based upon linear and nonlinear combinations of MEG frequency bands. The inset images show the seed regions driving these correlations. (G–I)
+The r2 values (circles) plotted against the null distributions for the beta band (G) linear (H) and nonlinear (I) combinations.
+Hunt et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13513
+NEUROSCIENCE
+and Myeloarchitecture in RSNs and Fig. S2). The ubiquitous nature
+of beta-mediated connections is therefore the likely reason why
+the structural network correlates best with this band. However, it
+should be pointed out that an inherent problem with MEG is
+signal-to-noise ratio (SNR), which drops with increasing frequency; it is possible that, at high frequency, the drop in correlation between functional connectivity and myeloarchitecture
+reflects this SNR limitation. This said, the significant improvement
+in prediction when combining frequency bands does imply that
+oscillations across all timescales relate significantly to myelin
+structure. Interestingly, the addition of nonlinear terms also improved prediction; given that these additional terms represent
+brain regions that share common connections it is tempting to
+suggest that shared connectivity also affects myeloarchitecture.
+Our estimation of myelin was based upon measurement of MT.
+Although serving as an efficient marker of myelination, it is important to note that there is no one-to-one relation between MT
+and myelin density. Further, if the present method was to be used
+in pathology care should be taken because the MT/myelin relationship may break down. Nevertheless, our results are in
+agreement with others, showing that the highest myelin concentration occurs in sensorimotor, auditory, and visual cortices. This
+finding supports an argument that myelin acts as a means to increase the speed of processing and inhibit plasticity in these primary sensory areas. On average, there was more myelin in left
+sensorimotor cortex than in right, and this likely reflects the fact
+that our cohort was biased toward right handers. In agreement with
+this, the hemispheric split shown in Fig. 1B suggests that this
+finding is reversed in left handers, implying that brain structure
+evolves to increase the speed of processing in the dominant
+hemisphere. Although such asymmetries in myelin have not been
+previously reported, associated asymmetries in function and
+structure have been shown previously both in humans (35–37) and
+animals (38). A potential limitation of our methods is that myelin
+concentration was parcellated according to the AAL atlas. Although this parcellation allowed derivation of network graphs that
+could be compared with MEG, the regional parcellation afforded
+by the AAL atlas does not take into account known differences in
+myelin signature throughout the cortex. In future studies, a brain
+parcellation based upon myeloarchitecture (as distinct from
+cytoarchitecture) would be of high value (12). Although our study is
+unique in characterizing structural covariance based upon myelin
+density, previous work has shown that structural covariance networks can also be formed based on macroscopic properties such as
+cortical thickness (4), and further that such networks correlate with
+functional connectivity (39). Here, myelin content was normalized
+by region volume, meaning that our finding of correlation between
+a structural network and functional connectivity is not related
+trivially to the previous finding on cortical thickness. However, the
+question of how myelin density relates to cortical thickness remains, and this should be the topic of future work.
+Given that the primary role of myelin is to increase the speed at
+which nerve impulses travel through neuronal pathways, it is intuitive that cortical myelination is shaped to support functional
+networks because this will act to maximize the efficiency of their
+formation. More speculative, however, is the process by which this
+structural support network evolves. Given that electrical activity
+on some particular pathway induces myelination, and given that
+RSNs emerge as early as the third trimester of gestation (40), it is
+tempting to argue that even before birth myeloarchitecture is
+being shaped by functional connectivity. Of course, the resulting
+structural changes would, in turn, refine functional connections
+and so the likelihood is that changes in myeloarchitecture and
+functional networks are linked intimately. This notion is supported
+by the fact that both myelination and functional connectivity
+change on a similar timescale throughout neurodevelopment. In
+the present study, our data preclude direct investigation of this
+interplay between structure and function. However, our study does
+pave the way for new investigations of this process via longitudinal
+studies of development. In addition, studies investigating how
+changing behavior alters both structure and function are becoming
+popular. This idea is not new (41), and recent evidence (42)
+suggests that both white-matter and gray-matter structure changes,
+even on a relatively fast timescale, when learning new skills. This
+research area would benefit from the use of tools presented here.
+Perhaps more importantly, our results have implications for future
+studies of disorders, in particular those involving demyelination or
+dysconnectivity. For example, gray-matter atrophy, lesions, and
+demyelination are a better correlate of physical disability and
+cognitive decline in multiple sclerosis than white-matter lesion
+load (43). In addition, inefficiency of functional networks has also
+been reported (39) in this disease. Our method might offer a
+means to link these findings. Similarly, severe psychosis has been
+linked with dysconnectivity (44), and recent work has begun to
+relate this to structural deficiencies (45). Once again, our work
+might offer a framework to link these abnormalities.
+Conclusion
+We have probed the relationship between gray-matter myelination
+and electrophysiological networks, showing a significant correlation.
+This relationship is strongest for networks mediated by beta oscillations but becomes stronger when integrating across frequency bands,
+suggesting that myeloarchitecture supports connectivity across all
+bands. Our study sheds light on the way in which cortical microstructure supports functional networks, the latter being mediated by
+neural oscillations. Further, it paves the way for future investigations
+of the structure/function relationship and its breakdown in pathology.
+Methods
+Myelination and Structural Covariance. Participants gave written informed
+consent and ethical approval was granted by the University of Nottingham
+Medical School Research Ethics Committee. MRI data were collected using a
+Phillips Achieva 7T system. A phase-sensitive inversion recovery T1 weighted
+image was acquired and used for MEG coregistration. MT data were obtained
+from z-spectra acquired using an MT-TFE sequence (46). MT imaging provides
+contrast based on the exchange of magnetization between free water and
+protons bound in macromolecules. Although it is likely that no one-to-one
+relationship exists, experimental and human studies have shown that MT is
+highly correlated with myelination, which is probably related to the high
+fraction of water in close proximity to myelin macromolecules. The procedure
+for extracting MT data from our imaging sequence has been described elsewhere (47). Briefly, z-spectra were corrected for B0 variation and fitted to a
+database of simulated spectra to extract myelination maps. To investigate
+structural covariation of myelin within the AAL regions, gray-matter-masked
+MT data were registered to the AAL atlas and a mean MT value was calculated
+for each region, for each participant. Due to confounding factors such as
+scanner drift, the modal value for each individual’s MT data was regressed from
+that individual’s regional values (7) (Fig. S3). Pearson correlation, measured
+across subjects, was used to quantify the relationship between MT values
+measured in AAL region pairs (Fig. 1C). These correlation values form elements
+of the structural matrix in Fig. 1D. An average MT map (Fig. 1A) was also
+generated by averaging regional MT values over participants. The relationship
+between myelination and handedness was probed via correlation between MT
+and handedness score.
+Resting-State MEG: Connectivity Analysis. Three hundred seconds of eyes-open
+resting-state MEG data were acquired using a 275-channel CTF MEG system operating in third-order synthetic gradiometer configuration (sampling frequency of
+1,200 Hz). Three head position indicator coils were placed at fiducial locations on
+the subject’s head and energized to facilitate continuous tracking of head location. Before acquisition, a 3D head digitization procedure was completed. Coregistration between MEG system geometry and individual brain anatomy was
+achieved by matching the digitized head surface to the equivalent surface
+extracted from an anatomical MRI. Functional connectivity was calculated between AAL regions. A scalar beamformer was used to obtain a single MEG signal
+representative of each region. These regional signals were frequency-filtered to
+the bands of interest and the confound of signal leakage mitigated using pairwise
+orthogonalization (48). The magnitude of the analytic signal, computed via a
+Hilbert transform, was used to generate the amplitude envelope of oscillations,
+for each regional time course in all frequency bands. Pearson correlation was then
+13514 | www.pnas.org/cgi/doi/10.1073/pnas.1608587113 Hunt et al.
+computed between envelopes for each region pair. In this way we generated a
+single adjacency matrix for each subject, and frequency band, representing
+whole-brain connectivity. These matrices were averaged over subjects.
+The Relationship Between MT and MEG. We measured correlation (r2
+) between
+the structural covariance matrix (Fig. 1D) and the group-averaged MEG networks
+(Fig. 2). To test statistically whether these correlation values were significant, we
+used a permutation test. A set of “pseudo-MEG matrices” were generated, each
+having spatial properties similar to the real matrices, but crucially they were not
+based on genuine data (SI Methods and Figs. S4 and S5). This approach accounts
+for the inherent spatial smoothness in the MEG-derived networks (SI Methods).
+Correlation between the structural matrix and 10,000 pseudomatrices yielded an
+empirical null distribution, and comparison of the genuine r2 value with the null
+distribution allowed computation of a P value.
+ACKNOWLEDGMENTS. This work was funded by Medical Research Council
+(MRC) New Investigator Research Grant MR/M006301/1, MRC Partnership
+Grant MR/K005464/1, and MRC Doctoral Training Grant MR/K501086/1.
+1. Biswal B, Yetkin FZ, Haughton VM, Hyde JS (1995) Functional connectivity in the motor
+cortex of resting human brain using echo-planar MRI. Magn Reson Med 34(4):537–541.
+2. Beckmann CF, DeLuca M, Devlin JT, Smith SM (2005) Investigations into resting-state
+connectivity using independent component analysis. Philos Trans R Soc Lond B Biol Sci
+360(1457):1001–1013.
+3. Meier J, et al. (2016) A mapping between structural and functional brain networks.
+Brain Connect 6(4):298–311.
+4. Lerch JP, et al. (2006) Mapping anatomical correlations across cerebral cortex (MACACC)
+using cortical thickness from MRI. Neuroimage 31(3):993–1003.
+5. Andrews TJ, Halpern SD, Purves D (1997) Correlated size variations in human visual
+cortex, lateral geniculate nucleus, and optic tract. J Neurosci 17(8):2859–2868.
+6. White LE, et al. (1997) Structure of the human sensorimotor system. II: Lateral symmetry. Cereb Cortex 7(1):31–47.
+7. He Y, Chen ZJ, Evans AC (2007) Small-world anatomical networks in the human brain
+revealed by cortical thickness from MRI. Cereb Cortex 17(10):2407–2419.
+8. Alexander-Bloch A, Giedd JN, Bullmore E (2013) Imaging structural co-variance between human brain regions. Nat Rev Neurosci 14(5):322–336.
+9. Mechelli A, Friston KJ, Frackowiak RS, Price CJ (2005) Structural covariance in the
+human cortex. J Neurosci 25(36):8303–8310.
+10. Glasser MF, Goyal MS, Preuss TM, Raichle ME, Van Essen DC (2014) Trends and
+properties of human cerebral cortex: Correlations with cortical myelin content.
+Neuroimage 93(Pt 2):165–175.
+11. Lutti A, Dick F, Sereno MI, Weiskopf N (2014) Using high-resolution quantitative
+mapping of R1 as an index of cortical myelination. Neuroimage 93(Pt 2):176–188.
+12. Glasser MF, et al. (2016) A multi-modal parcellation of human cerebral cortex. Nature
+536(7615):171–178.
+13. Glasser MF, Van Essen DC (2011) Mapping human cortical areas in vivo based on myelin
+content as revealed by T1- and T2-weighted MRI. J Neurosci 31(32):11597–11616.
+14. Sánchez-Panchuelo RM, Francis ST, Schluppeck D, Bowtell RW (2012) Correspondence
+of human visual areas identified using functional and anatomical MRI in vivo at 7 T.
+J Magn Reson Imaging 35(2):287–299.
+15. Sereno MI, Lutti A, Weiskopf N, Dick F (2013) Mapping the human cortical surface by
+combining quantitative T(1) with retinotopy. Cereb Cortex 23(9):2261–2268.
+16. Besle J, Sánchez-Panchuelo R-M, Bowtell R, Francis S, Schluppeck D (2014) Event-related
+fMRI at 7T reveals overlapping cortical representations for adjacent fingertips in S1 of
+individual subjects. Hum Brain Mapp 35(5):2027–2043.
+17. Dick F, et al. (2012) In vivo functional and myeloarchitectonic mapping of human
+primary auditory areas. J Neurosci 32(46):16095–16105.
+18. Glasser MF, et al. (2012) Improved Cortical Myelin Maps in Humans, Chimpanzees, and
+Macaques Allow Identification of Putative Areal Homologies (Society for Neuroscience, New Orleans).
+19. Deoni SCL, Dean DC, 3rd, Remer J, Dirks H, O’Muircheartaigh J (2015) Cortical maturation and myelination in healthy toddlers and young children. Neuroimage 115:147–161.
+20. Shafee R, Buckner RL, Fischl B (2015) Gray matter myelination of 1555 human brains
+using partial volume corrected MRI images. Neuroimage 105:473–485.
+21. Fields RD (2006) Nerve impulses regulate myelination through purinergic signalling.
+Novartis Found Symp 276:148–158; discussion 158–161, 233–237, 275–281.
+22. Fields RD (2015) A new mechanism of nervous system plasticity: Activity-dependent
+myelination. Nat Rev Neurosci 16(12):756–767.
+23. Pajevic S, Basser PJ, Fields RD (2014) Role of myelin plasticity in oscillations and synchrony of neuronal activity. Neuroscience 276:135–147.
+24. Gibson EM, et al. (2014) Neuronal activity promotes oligodendrogenesis and adaptive
+myelination in the mammalian brain. Science 344(6183):1252304.
+25. Helbling S, et al. (2015) Structure predicts function: Combining non-invasive electrophysiology with in-vivo histology. Neuroimage 108:377–385.
+26. Cohen D (1972) Magnetoencephalography: Detection of the brain’s electrical activity
+with a superconducting magnetometer. Science 175(4022):664–666.
+27. Brookes MJ, et al. (2011) Investigating the electrophysiological basis of resting state
+networks using magnetoencephalography. Proc Natl Acad Sci USA 108(40):16783–16788.
+28. Hillebrand A, Barnes GR, Bosboom JL, Berendse HW, Stam CJ (2012) Frequency-dependent
+functional connectivity within resting-state networks: an atlas-based MEG beamformer
+solution. Neuroimage 59(4):3909–3921.
+29. O’Neill GC, Barratt EL, Hunt BAE, Tewarie PK, Brookes MJ (2015) Measuring electrophysiological connectivity by power envelope correlation: A technical review on MEG
+methods. Phys Med Biol 60(21):R271–R295.
+30. Schölvinck ML, Leopold DA, Brookes MJ, Khader PH (2013) The contribution of
+electrophysiology to functional connectivity mapping. Neuroimage 80:297–306.
+31. Tewarie P, et al. (2016) Predicting haemodynamic networks using electrophysiology:
+The role of non-linear and cross-frequency interactions. Neuroimage 130:273–292.
+32. Wolff SD, Balaban RS (1989) Magnetization transfer contrast (MTC) and tissue water
+proton relaxation in vivo. Magn Reson Med 10(1):135–144.
+33. Zumer JM, Scheeringa R, Schoffelen J-M, Norris DG, Jensen O (2014) Occipital alpha
+activity during stimulus processing gates the information flow to object-selective
+cortex. PLoS Biol 12(10):e1001965.
+34. Engel AK, Gerloff C, Hilgetag CC, Nolte G (2013) Intrinsic coupling modes: Multiscale
+interactions in ongoing brain activity. Neuron 80(4):867–886.
+35. Amunts K, et al. (1996) Asymmetry in the human motor cortex and handedness.
+Neuroimage 4(3 Pt 1):216–222.
+36. Driver ID, et al. (2015) Hemispheric asymmetry in cerebrovascular reactivity of the
+human primary motor cortex: an in vivo study at 7 T. NMR Biomed 28(5):538–545.
+37. Toga AW, Thompson PM (2003) Mapping brain asymmetry. Nat Rev Neurosci 4(1):
+37–48.
+38. Sun T, Walsh CA (2006) Molecular approaches to brain asymmetry and handedness.
+Nat Rev Neurosci 7(8):655–662.
+39. Tewarie P, et al. (2014) Disruption of structural and functional networks in longstanding multiple sclerosis. Hum Brain Mapp 35(12):5946–5961.
+40. Doria V, et al. (2010) Emergence of resting state networks in the preterm human
+brain. Proc Natl Acad Sci USA 107(46):20015–20020.
+41. Hebb DO (1949) The Organization of Behavior: A Neuropsychological Theory (Taylor
+& Francis, Abingdon, UK).
+42. Draganski B, May A (2008) Training-induced structural changes in the adult human
+brain. Behav Brain Res 192(1):137–142.
+43. Calabrese M, et al. (2015) Exploring the origins of grey matter damage in multiple
+sclerosis. Nat Rev Neurosci 16(3):147–158.
+44. Friston KJ, Frith CD (1995) Schizophrenia: A disconnection syndrome? Clin Neurosci
+3(2):89–97.
+45. Iwabuchi SJ, Liddle PF, Palaniyappan L (2015) Structural connectivity of the salienceexecutive loop in schizophrenia. Eur Arch Psychiatry Clin Neurosci 265(2):163–166.
+46. Mougin O, Clemence M, Peters A, Pitiot A, Gowland P (2013) High-resolution imaging
+of magnetisation transfer and nuclear Overhauser effect in the human visual cortex
+at 7 T. NMR Biomed 26(11):1508–1517.
+47. Geades N, et al. (October 17, 2016) Quantitative analysis of the z-spectrum using a
+numerically simulated look-up table: Application to the healthy human brain at 7T.
+Magn Reson Med 10.1002/mrm.26459.
+48. Brookes MJ, Woolrich MW, Barnes GR (2012) Measuring functional connectivity in MEG:
+A multivariate approach insensitive to linear source leakage. Neuroimage 63(2):910–920.
+49. Filippini N, et al. (2009) Distinct patterns of brain activity in young carriers of the
+APOE-epsilon4 allele. Proc Natl Acad Sci USA 106(17):7209–7214.
+50. Oldfield RC (1971) The assessment and analysis of handedness: The Edinburgh inventory. Neuropsychologia 9(1):97–113.
+51. Tzourio-Mazoyer N, et al. (2002) Automated anatomical labeling of activations in
+SPM using a macroscopic anatomical parcellation of the MNI MRI single-subject brain.
+Neuroimage 15(1):273–289.
+52. Robinson S, Vrba J (1998) Functional neuroimaging by synthetic aperture magnetometry
+(SAM). Recent Advances in Biomagnetism, eds Yoshimoto T, Kotani M, Kuriki S, Karibe H,
+Nakasato N (Tohoko Univ Press, Sendai, Japan), pp 302–305.
+53. Brookes MJ, et al. (2008) Optimising experimental design for MEG beamformer imaging. Neuroimage 39(4):1788–1802.
+54. Sarvas J (1987) Basic mathematical and electromagnetic concepts of the biomagnetic
+inverse problem. Phys Med Biol 32(1):11–22.
+55. Huang MX, Mosher JC, Leahy RM (1999) A sensor-weighted overlapping-sphere head
+model and exhaustive head model comparison for MEG. Phys Med Biol 44(2):423–440.
+56. Brookes MJ, et al. (2016) A multi-layer network approach to MEG connectivity analysis. Neuroimage 132:425–438.
+57. Hipp JF, Hawellek DJ, Corbetta M, Siegel M, Engel AK (2012) Large-scale cortical
+correlation structure of spontaneous oscillatory activity. Nat Neurosci 15(6):884–890.
+58. Hall EL, Robson SE, Morris PG, Brookes MJ (2014) The relationship between MEG and
+fMRI. Neuroimage 102(Pt 1):80–91.
+59. Jenkinson M, Bannister P, Brady M, Smith S (2002) Improved optimization for the
+robust and accurate linear registration and motion correction of brain images.
+Neuroimage 17(2):825–841.
+60. Prichard D, Theiler J (1994) Generating surrogate data for time series with several
+simultaneously measured variables. Phys Rev Lett 73(7):951–954.
+Hunt et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13515
+NEUROSCIENCE

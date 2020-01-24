@@ -1,0 +1,1461 @@
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+A Drosophila kinesin required for synaptic bouton
+formation and synaptic vesicle transport
+Eunju Pack-Chung1,2, Peri T Kurshan1,2, Dion K Dickman1–3 & Thomas L Schwarz1,2
+The morphological transition of growth cones to synaptic boutons characterizes synaptogenesis. Here we have isolated mutations
+in immaculate connections (imac; CG8566), a previously uncharacterized Drosophila gene encoding a member of the Kinesin-3
+family. Whereas earlier studies in Drosophila implicated Kinesin-1 in transporting synaptic vesicle precursors, we find that Imac
+is essential for this transport. An unexpected feature of imac mutants is the failure of synaptic boutons to form. Motor neurons
+lacking imac properly target to muscles but remain within target fields as thin processes, a structure that is distinct from either
+growth cones or mature terminals. Few active zones form at these endings. We show that the arrest of synaptogenesis is not a
+secondary consequence of the absence of transmission. Our data thus indicate that Imac transports components required for
+synaptic maturation and provide insight into presynaptic maturation as a process that can be differentiated from axon outgrowth
+and targeting.
+
+When a neuronal growth cone reaches its target field and contacts
+appropriate cells, the axon terminal undergoes synaptic morphogenesis. This transformation is a complex process by which the
+filopodial specializations of the growth cone and apparatus for axon
+extension and navigation are replaced by stable varicose nerve terminals
+specialized for releasing neurotransmitter1. At present, the molecular
+and cellular mechanisms that guide the transition of growth cones to
+mature synapses are not well defined.
+Growth cones and synapses are structurally distinct. Networks of
+actin cytoskeleton support the outer edge of the growth cone, and the
+extension of microtubules can direct axonal growth2. By contrast,
+mature synapses contain machinery for stable interactions with postsynaptic specializations, distinct cytoskeletal arrangements, and the
+apparatus for transmitter release and recycling. This apparatus includes
+synaptic vesicles and the active zone, an electron-dense membrane
+region that contains Ca2+ channels and protein complexes necessary
+for transmitter release. Thus, there is a distinction between the
+components of a growth cone and a mature synapse that parallels
+their distinct morphologies.
+Synaptic components are primarily synthesized in the neuronal cell
+body and therefore, to be available for forming synapses, need to be
+transported down the axon3. Synapse formation, however, can occur
+within 30 min of initial axodendritic contact4. To permit this rapid
+transition, synaptic materials are present in axons before the onset of
+synaptogenesis and are subsequently captured by incipient synaptic
+contacts1,5. Transported as aggregates of membrane-bound organelles,
+these vesicular structures, which are sometimes called ‘packets’, include
+synaptic vesicle proteins (synaptotagmin-I, synaptobrevin, SV2 and
+synapsin-1) and plasma membrane proteins (Ca2+ channels). These
+
+cargos become immobilized at axo-dendritic contacts as part of a rapid
+process that leads to functional connectivity6,7. One transport organelle
+is known as a PTV (Piccolo-Bassoon transport vesicle) and is thought
+to provide many components of active zones1,8,9. Both the packets and
+the PTVs show bidirectional movement in axons6,8, but no motor has
+been shown to mediate this movement.
+These transport organelles occur in both peripheral and central
+synapses of vertebrates1,10, and analogous systems are probably needed
+at Drosophila neuromuscular junctions (NMJs). At this synapse, motor
+neuron growth cones transform to functional but immature NMJs
+within an hour of initial contact with target muscles11. Morphological
+maturation into synaptic boutons, however, requires 3–5 h. As in
+mammalian systems, synaptotagmin-I and other synaptic components
+are present in axons before they reach their targets. Bouton formation
+correlates with increases in synaptotagmin immunoreactivity, in clearand dense-cored vesicles, and in active zones12,13. Transport of these
+components during NMJ development is thus implied, although the
+motors that are required remain unknown.
+We now report the identification of a genetic locus encoding a
+kinesin that is required for presynaptic maturation. Mutations in the
+gene immaculate connections (imac; Flybase, CG8566) prevent nerve
+endings from transforming to synaptic boutons: growth cones become
+constricted but remain within contact fields as thin processes that lack
+varicosities or boutons. In addition to lacking synaptic and dense-core
+vesicle components, imac mutant nerve endings also contain very
+few active zones. Characterization of imac thus implicates a particular
+motor in the process of presynaptic maturation and provides insight
+into the relationships between motors and synapse formation and
+pre- and postsynaptic differentiation.
+
+1Program in Neurobiology, Children’s Hospital, 300 Longwood Avenue, Boston, Massachusetts 02115, USA. 2Department of Neurobiology, Harvard Medical School,
+220 Longwood Avenue, Boston, Massachusetts 02115, USA. 3Present address: Department of Biochemistry and Biophysics, University of California, San Francisco,
+1550 4th St., San Francisco, California 94158, USA. Correspondence should be addressed to T.L.S. (thomas.schwarz@childrens.harvard.edu).
+
+Received 2 April; accepted 7 June; published online 22 July 2007; doi:10.1038/nn1936
+
+980
+
+VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007 NATURE NEUROSCIENCE
+
+ARTICLES
+
+a
+4 mV
+0.5 s
+
+imac52
+
+Control
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+b
+
+c
+12
+
+12
+
+13
+
+13
+
+6
+
+6
+
+7
+
+7
+
+d
+
++/+ at 14 h
+
+f
+
+imac170
+
+e
+
+imac102/102
+
++/+
+
+g
+
+h
+
+imac116/116
+
+i
+
+12
+12
+13
+13
+6
+7
+
+6
+
++/+ at 21 h
+
+imac170
+
++/+
+
+7
+
+j
+
+k
+
+l
+
+imac 52
+
+imac102
+
+RESULTS
+imac mutants lack synaptic varicosities
+We performed a forward genetic screen to isolate genes affecting
+synapses. In this screen, the EGUF-hid method was used to produce
+homozygous mutant eyes in an otherwise heterozygous fly, and
+synaptic function was assessed by selecting for blindness and abnormal
+electroretinograms (ERGs)14,15. One complementation group consisted
+of eight independently derived alleles. Homozygous mutant eyes
+externally appeared normal and their ERGs showed robust responses
+to light (Fig. 1a); however, the ‘on-off transients’ of the ERG, which
+require synchronous synaptic transmission from the photoreceptors to
+second-order neurons, were absent in eyes that were homozygous for
+any of the mutant alleles (Fig. 1a; arrow). Homozygous flies of each
+allele died as unhatched late-stage embryos. The gross morphology of
+these embryos was comparable to that of a wild-type fly that has
+completed embryogenesis 20–22 h after egg-laying (AEL). The
+mutants, however, were paralyzed and lacked the coordinated muscle
+peristalsis required for hatching. This paralysis suggested a neurological
+deficit and we therefore examined the developmental pattern of
+individual neurons.
+Specifically, we explored the embryonic NMJ (Fig. 1b–l), a system in
+which the timing and anatomy of innervation and synaptogenesis have
+been described in detail11,13. For the intersegmental nerve b (ISNb),
+branches of which innervate the ventral longitudinal muscles on which
+we focused (muscles 6, 7, 11 and 12), the growth cones arrive by 12 h
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 8
+
+imac170
+
+[
+
+AUGUST 2007
+
+Figure 1 Defective photoreceptor synaptic
+transmission and motor neuron synapse formation
+in imac mutants. (a) imac mutants lacked ERG
+on-off transients. Responses to a light (red bar)
+in wild-type eyes (y,w; FRT42D GMR-hid 2R
+CL/FRT42D parental; EGUF/+) included a
+sustained component and transients (arrows) at
+light on and light off. The transients were absent
+in imac mutant eyes (y,w; FRT42D GMR-hid
+2R CL/FRT42D imac52 or imac170; EGUF/+).
+(b) Wild-type NMJ showing the arrangements of
+muscles (6, 7, 12 and 13) and ISNb motor
+neurons (orange) at 14 h AEL. (c–e) NMJs of 14-h
+embryos labeled with anti-FasII. (c) Growth cones
+of wild-type (+/+) ISNb nerve terminals showed
+branching along the appropriate muscle
+boundaries. (d,e) Both imac102/102 and
+imac116/116 nerves reached the target muscles but
+appeared abnormal. Filopodia-like processes were
+present in the muscle area of some flies (open
+arrow). (f) As b, but at 21 h AEL. (g–l) ISNb motor
+neurons at 21 h stained for HRP, a pan-neuronal
+marker. Distinct synaptic varicosities (arrow) were
+present in wild type (g) that were absent in imac
+mutants (h–l). Occasionally, an ectopic projection,
+also lacking boutons, from the neighboring nerve
+was observed (i, arrowhead). Boundaries of the
+ventral longitudinal muscles 12, 13, 6 and 7
+are marked by short lines. Unless otherwise
+noted, genotypes: +/+ (y,w; FRT42Diso), imac170
+(y+/,w; FRT42D imac170/Df(2R)DAlk21), imac52
+(y+/,w; FRT42D imac52/Df(2R)DAlk21), imac102
+(y+/,w; FRT42D imac102/Df(2R)DAlk21), imac160
+(y+/,w; FRT42D imac160/Df(2R)DAlk21). Scale
+bar, 10 mm.
+
+AEL. These contacts rapidly mature and, by
+B14 h AEL (stage 16), the neurites extend
+along boundaries between adjacent muscle
+fibers (Fig. 1b,c). These contacts then transform into synapses that have characteristic fine branches with varicosities or boutons that resemble ‘beads on a string’ (Fig. 1f,g).
+In mutant embryos from this complementation group, including
+those homozygous for null alleles (see below), ISNb axons had
+contacted their muscles by 14 h AEL (Fig. 1d,e). Despite normal
+axonal outgrowth and targeting, the contacts lacked extended branches.
+Filipodia-like structures were sometimes observed (Fig. 1d, open
+arrow), but were not restricted to muscle boundaries. At 21 h AEL,
+the nerve was visible in its target regions, but the contacts had not
+transformed into mature synapses (Fig. 1h–l); the nerves lacked the
+bead-like boutons seen in wild-type embryos (Fig. 1g, arrow). Instead,
+the endings and their branches were more constricted than those at
+14 h AEL and frequently retained some filipodia-like processes
+(Fig. 1i). The failure to form boutons was completely penetrant; it
+was observed in every abdominal segment of all genotypes examined
+(alleles imac52, imac102, imac160, imac116 and imac170 as homozygotes or
+in combination with Df(2R)DAlk21; Fig. 1).
+At times, axons at the boundary of muscles 12 and 13 were not
+observed, raising the possibility that some had retracted. Occasionally,
+we observed ectopic projections from neighboring nerves (Fig. 1i,
+arrowhead). These inputs form as a result of denervation of the target
+muscle fibers16 and were therefore consistent with the absence of
+synapses on these muscles. Unlike the mature boutons formed by
+ectopic branches in other mutants, however, those that formed in
+imac mutant embryos did not have boutons. Consequently, both
+imac160
+
+981
+
+ARTICLES
+
+982
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+2R094
+
+2R083
+
+in Drosophila but contains a forkheadassociated (FHA) domain, a characteristic of
+the Kinesin-3 family of motors19. Imac shows
+53C
+54D
+most homology to Unc-104, a Kinesin-3 from
+Df(2R)DAIk21
+Caenorhabditis elegans (51% amino acid
+identity), and the murine kinesins KIF1A
++ strand
+(53%) and KIF1Bb (51%; Supplementary
++/+
+– strand
+imac
+Fig. 1 online). Although the Drosophila
+genome predicts the existence of other
+g
+h
+b W58stop
+R911C
+members of the Kinesin-3 family, Imac is
+imac170
+imac102
+P12L
+the only member that includes a carboxy
+172
+G97S
+imac
+terminus pleckstrin homology (PH) domain,
+imac 52
+1671 aa
+a feature shared with Unc-104, KIF1A and
+imac 102
+KIF1Bb. imac170 has an early stop codon at
+76
+160
+50
+imac
+imac
+imac
+imac 116
+Trp58
+and therefore is likely to be a null allele.
+i
+j
+This allele was therefore used for most of the
+c
+d
+phenotypic analysis, either as a homozygote
+or over Df(2R)DAlk21 to avoid the effects of
+possible second-site mutations. Two of the
+102
+170
+imac ;UAS -imac
+imac
++/+
+alleles contain amino acid substitutions in
+the conserved motor domain (Fig. 2b). One
+Figure 2 imac encodes a kinesin. (a) Genomic map of imac, adapted from Flybase, showing the PLP
+of these, imac52, has a serine substitution at
+markers (2R083 and 2R094) and deficiency line used to localize the gene. Sequencing of a candidate
+Gly97,
+an essential residue in the ATP-binding
+gene in the region identified imac as Klp53D (CG8566). (b) Predicted domain structure of Imac and the
+locations of mutations in four alleles with altered splice sites (red arrowheads), in one nonsense allele,
+site of all kinesin motors. The arrest of preand in three missense alleles (black arrowheads). Motor domain, blue; coiled coils, gray; FHA domain,
+synaptic bouton formation in the imac52
+pink; PH domain, green; immunogen used, black bar. (c,d) Imac antibody staining of 21-h ventral nerve
+mutant was comparable to that in the null
+cords. (c) Imac immunoreactivity was enriched in the synapse-rich neuropil of the CNS and was also
+allele mutant, indicating that the developdetected in segmental nerves (arrowhead). (d) Lack of immunoreactivity in the imac170 mutant
+mental
+defect
+resulted
+from
+loss
+demonstrated specificity of the antibody. (e–j) Neuromuscular endings labeled with anti-HRP and anti–
+of an ATP-dependent motor function of
+synaptotagmin-I (SytI). Synaptic boutons and synaptotagmin-I were lacking in nerve endings of late-stage
+imac mutant embryos (g,h). Neuronal expression of a UAS-imac transgene enabled flies to hatch as firstImac (Fig. 1j).
+instar larvae with synaptic boutons (arrows) and concentrations of Syt1 at their terminals (i,j) similar to
+We generated polyclonal antibodies to a
+those of wild-type larvae (e,f). Genotypes: +/+ (y,w; FRT42Diso), imac170 (y+/,w; FRT42D imac170/
+portion
+of the stalk domain of Imac
+Df(2R)DAlk21), imac102 (y+/,w; FRT42D imac102/Df(2R)DAlk21), imac102; UAS-imac (y+/,w; FRT42D
+(Fig. 2b). Immunostaining of wild-type
+102
+imac /Df(2R)DAlk21; elavGAL4/UAS-imac). Scale bar, 10 mm.
+embryos at 21 h AEL showed enrichment of
+Imac in the nervous system, in particular in
+the normal innervation and the occasional ectopic projection the synapse-rich regions (Fig. 2c). Imac staining was absent in homowere incapable of normal morphogenesis. Thus, axonal outgrowth zygous mutant embryos, verifying the specificity of the antiserum for
+and targeting of mutant motor neurons occurred but subsequent Imac (Fig. 2d). In whole-mount embryos, neural expression of Imac
+synapse formation was arrested. We named the gene immaculate was first detected at stages 11–12 and remained enriched in the nervous
+connections (imac) to indicate the complete lack of synaptic boutons system for the remainder of embryogenesis (Supplementary Fig. 2
+online). The onset of Imac expression corresponds to the expression of
+in the mutant.
+many presynaptic proteins20. Thus, the temporal and spatial expression
+imac encodes a neuronal Kinesin-3 family member
+of Imac precludes a significant maternal contribution of the protein
+Polymerase chain reaction (PCR) length polymorphism (PLP) map- and instead is suggestive of a function late in neuronal development.
+ping17 placed imac between 53C and 54E (Fig. 2). A deficiency,
+Df(2R)DAlk21, that uncovered the region 53C7 to 53D (ref. 18) did Selective axonal transport defects in imac mutants
+not complement the imac alleles. In this region, a predicted gene The identification of Imac as a kinesin suggested that the arrest of
+encoding a kinesin homolog (FlyBase symbol Klp53D) was identified as synaptogenesis might result from a failure to transport necessary
+a plausible candidate gene. Sequencing of genomic DNA in all eight cargos. Homologs of Imac in C. elegans (Unc-104) and mouse
+alleles of imac identified point mutations that altered the predicted (KIF1A) are implicated in the transport of synaptic vesicle-associated
+protein product of this gene (Fig. 2b). Because these mutations were proteins21–23. In Drosophila neurons, by contrast, the conventional
+induced on an isozygous genetic background and because nearby genes kinesin (Kinesin-1 or KHC) has been reported to transport synaptic
+showed no sequence differences between one another or in comparison vesicles on the basis of the appearance of axonal aggregates of synaptic
+to the parental chromosome, the predicted kinesin was identified as vesicles in partial loss-of-function mutants of kinesin heavy chain
+Imac. This identification was confirmed by rescuing the embryonic (khc)24. We therefore examined the location of synaptic components
+lethality by expression of an imac cDNA transgene under control of in imac mutants. NMJs of wild-type embryos at 21 h AEL showed
+either a da-GAL4 or elav-GAL4 driver. With restored neuronal expres- clusters of various presynaptic components at synaptic boutons. For
+sion of the kinesin, mutant larvae emerged with synaptic boutons at example, synaptotagmin-I, a synaptic vesicle membrane protein, was
+their NMJs (Fig. 2i).
+restricted to discrete zones in the synaptic varicosities (Fig. 3a,b). Little
+The predicted Imac product (Fig. 2b; GenBank accession AF247761) or no synaptotagmin-I was observed along the axons of wild-type
+represents a kinesin isoform that has not previously been studied embryos. In imac mutants, however, synaptotagmin-I staining was
+
+a
+
+e
+
+HRP
+
+f
+
+Sytl
+
+VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007 NATURE NEUROSCIENCE
+
+ARTICLES
+
+a
+
+HRP
+
+Sytl
+
+b
+
+c
+
+HRP
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+HRP
+
+Sytl
+
+h
+
+ANF-GFP
+
+imac170
+
++/+
+
+e
+
+d
+
+f
+
+ANF-GFP
+
+g
+
+HRP
+
+imac170
+
++/+
+
+lacking both in the nerve endings and in the axon trunk (Fig. 3c,d).
+Synaptotagmin-I immunoreactivity was restored in the mutants by
+expressing imac cDNA in neurons (Fig. 2f,h,j). Similarly, terminal and
+axonal staining in the mutants was negligible with antibodies to the
+vesicular glutamate transporter (VGlut).
+Axon terminals can also release peptides that are stored in dense-core
+vesicles. These organelles are synthesized in the cell body and undergo
+kinesin-mediated, microtubule-dependent transport to the site of
+secretion25,26. To examine whether transport of dense-core vesicles
+was affected in imac mutants, we monitored the expression of a
+transgene encoding green fluorescent protein (GFP) fused to rat atrial
+natriuretic factor precursor (ANF). This transgene (UAS-ANF-GFP)
+undergoes processing, transport and release in a manner similar to
+other neuropeptides in Drosophila27. Robust expression of GFP puncta
+was observed at the synaptic terminals of control lines (Fig. 3f). We did
+not detect ANF-GFP in either the motor axons or their terminals in
+imac mutants (Fig. 3h). Thus, similar to the involvement of C. elegans
+Unc-104 in dense-core vesicle movement26, Imac probably mediates
+axonal transport of dense-core vesicles in Drosophila.
+Vesicle components accumulate in imac mutant cell bodies
+The lack of synaptic and dense-core vesicle components at the nerve
+terminals could be attributed to a failure to synthesize these proteins,
+an inability to export them from the cell bodies, or an inability to retain
+them at nascent synapses. To explore these possibilities, we examined
+the localization of the synaptic molecules in the CNS (Fig. 4). In the
+CNS of Drosophila embryos, the neuropil defines a cell body–free
+region that is enriched in synaptic contacts, axons and glia. The cortex,
+a region surrounding the neuropil, primarily contains the neuronal cell
+bodies. Cross-sections of the CNS can thus be used to monitor the
+concentrations of proteins in cell bodies relative to the axonal and
+synaptic regions in a broad sampling of neuronal types. Labeling the
+plasma membranes of neurons with antibodies to horseradish peroxidase (HRP), a neuronal membrane marker, revealed the overall
+architecture of the CNS (Fig. 4d). The density of membrane in the
+neuropil causes this structure to be more intensely labeled than the
+cortex. This pattern was not detectably altered in imac mutants,
+indicating that the mutants had no gross anatomical defect.
+Components of synaptic and dense-core vesicles were, however,
+markedly redistributed in imac mutants. Synaptotagmin-I immunoreactivity, for example, is normally intensely concentrated in the
+neuropil and scant in the cortex. In imac mutants this pattern was
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007
+
+Figure 3 Synaptic and dense-core vesicle
+proteins are absent in imac nerve endings.
+(a–h) Neuromuscular nerve endings of 21-h
+embryos stained for the neuronal membrane
+marker HRP (a,c,e,g), and either synaptotagmin-I
+(b,d) or the dense-core vesicle marker ANF-GFP
+(f,h). The synaptic varicosities of wild-type NMJs
+had distinct clusters of synaptotagmin-I (b) and
+ANF-GFP (f), but these clusters were missing in
+imac170 mutants (d,h). Genotypes for visualization
+of dense-core vesicles: +/+ (w; FRT42D; elavGAL4/UAS–ANF-GFP) and imac170 (w; FRT42D
+imac170/Df(2R)DAlk21; elav-GAL4/UAS-ANFGFP). Muscle boundaries are marked by short
+lines. Scale bar, 10 mm.
+
+reversed: synaptotagmin-I accumulated in cell
+bodies and was low in the neuropil (Fig. 4a).
+Synaptotagamin-I–GFP, expressed in the imac
+mutant nervous system by an elav-GAL4
+driver, showed the same redistribution (Supplementary Fig. 3 online).
+VGlut, normally found at a few CNS synapses that are glutamatergic,
+was similarly redistributed from neuropil to cell bodies in imac
+mutants (Fig. 4b), as was cysteine string protein (Supplementary
+Fig. 3) and ANF-GFP (Fig. 4c). The concentration of the vesicular
+proteins in imac mutant cell bodies indicates that these proteins are
+synthesized in the mutants. The loss of these markers from axon tracts
+and synaptic regions indicates a defect in their transport from the cell
+bodies. Absence of immunoreactivity of these molecules in the
+peripheral axons of motor neurons (Fig. 3) likewise supports the
+idea that Imac has a direct role in the transport of synaptic materials.
+In addition, live-cell imaging of vesicle precursors in the segmental
+nerves of an imac mutant has revealed defects in the anterograde
+movement of these cargos (R. Barkus and W. Saxton, personal
+communication), further substantiating the idea that Imac has a
+motor function.
+Some axonal transport persists in imac mutants
+To determine whether Imac is involved in the transport of other
+proteins and organelles, we examined the distribution of various
+intracellular components. The normal axonal growth and guidance
+observed in imac mutants implies that the transport of post-Golgi
+vesicles with new membrane and cell-surface proteins persists. As
+shown above (Figs. 1 and 4), the neuronal membrane marker, HRP,
+did not reveal any significant differences between wild type and imac
+mutants. We also assayed post-Golgi membrane trafficking in imac
+mutants by using a fusion of the extracellular and transmembrane
+domains of CD8 to a cytoplasmic GFP, a construct that serves as a
+nonspecific reporter of the constitutive transport of membrane proteins to the cell surface, including axons and terminals28. The distribution of CD8-GFP was not affected in imac mutants (Fig. 4h). Similarly,
+Fasciclin II (FasII), a Drosophila homolog of vertebrate neural
+cell-adhesion molecules and an essential regulator of motor neuron
+growth and guidance29, remained concentrated in the axon tracts and
+synaptic regions in imac mutants (Fig. 1c–e). Another plasma membrane protein, syntaxin, is needed for exocytosis and addition of
+membrane to the cell surface30. No change in the distribution of
+syntaxin, visualized with the monoclonal antibody 8C3, was detected
+in imac-null embryos (Fig. 4f). These data are consistent with our
+observation that axon outgrowth and targeting proceeds normally in
+imac mutants, and they demonstrate that the vesicles required for
+membrane extension and axon targeting are not conveyed by Imac. In
+
+983
+
+ARTICLES
+
+b
+
+N
+
+d
+
+e
+
+f
+
+C
+
+imac170
+
+C N
+
+c
+
+SytI
+
+ANF-GFP
+
+h
+
+HRP
+
+LAP
+
+i
+
+Syntaxin
+
+j
+
++/+
+
+g
+
+VGlut
+
+imac170
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
++/+
+
+a
+
+HRP
+
+CD8-GFP
+
+HRP
+
+addition, the data support the current model wherein mechanisms
+regulating membrane outgrowth are distinct from mature synaptic
+vesicle exocytosis28.
+Synaptic terminals are also enriched in mitochondria, an organelle
+transported by kinesin-1 (ref. 31). We visualized mitochondria using
+Mito-GFP, a mitochondrially targeted GFP variant32. Wild-type and
+imac mutant nerves had similar distributions of mitochondria, indicating
+their proper transport in motor neuron axons (Supplementary Fig. 3).
+Because of the absence of bead-like boutons in imac mutants, we
+examined the neuronal cytoskeletal component Futsch, a Drosophila
+protein with homology to the vertebrate microtubule-associated protein MAP1B (ref. 33). Loops of bundled, Futsch-containing microtubules are present in many wild-type synaptic boutons at NMJs of
+third-instar larvae and may contribute to the rounded structure of the
+bouton. By contrast, unbundled microtubules characterize growth
+cones, and Futsch is likely to contribute to the transition from
+unbundled to bundled microtubules. In embryos, however, the significance of Futsch at the NMJ is not known.
+In wild-type embryos, Futsch immunoreactivity was abundant in the
+axons of motor neurons and in synapses at the NMJ, although Futschimmunoreactive microtubule loops were discernible only occasionally
+in boutons (Fig. 4j). In imac mutants, Futsch was similarly detected in
+motor axons and at the NMJ, although the immunoreactivity was more
+discontinuous than in wild type. Consistent with the absence of
+
+984
+
+Figure 4 Synaptic vesicle proteins are selectively
+concentrated in cell bodies. (a–f) Ventral nerve
+cords of wild-type (top) and imac170 (bottom)
+21-h embryos. (a–c) Immunoreactivity of synaptic
+vesicle proteins (synaptotagmin-I and VGlut) and a
+dense-core marker (ANF-GFP) were concentrated
+in the neuropil (N) region of wild-type CNS, but
+were redistributed in imac mutants with more in
+the cell body–rich area of the cortex (C) and less
+in the neuropil (N). (d–f) Several other proteins
+showed unaltered distribution in imac mutants,
+including the membrane marker HRP (d), the
+cytoplasmic endocytosis protein LAP (e) and the
+plasma membrane protein syntaxin (f). (g–j) ISNb
+of wild-type (top) and imac170 (bottom) 21-h
+embryos. (g,h) Post-Golgi transport of CD8-GFP to
+neuronal membranes showed labeling similar to
+anti-HRP in both wild-type (w; FRT42D; elavGAL4/UAS-CD8-GFP) and imac170 (w; FRT42D
+imac170/Df(2R)DAlk21; elav-GAL4/UAS-CD8GFP) embryos. (i,j) Immunoreactivity of a
+cytoskeletal protein, Futsch, was observed in both
+wild-type and imac170 nerve endings. Futsch loops
+were occasionally detected in wild-type boutons
+(j, top; arrowhead and inset). imac170 nerves
+showed fragmented Futsch immunoreactivity
+(j, bottom; inset). Scale bars, 10 mm.
+
+boutons, no loops of Futsch immunoreactivity were seen in imac mutants. Although the
+distribution of Futsch suggests that changes
+have occurred in the cytoskeleton of imac
+mutants, the presence of Futsch at the endings
+indicates that this cytoskeletal protein is transported independently of Imac. This finding is
+consistent with the known movement of many
+cytoskeletal components by slow axonal transport34. In addition, the normal distribution of
+Futsch
+mitochondria and trans-Golgi–derived vesicle
+markers indicates that the failure to transport
+synaptic components cannot be secondary to microtubule defects.
+Likewise, the absence of boutons in imac mutants cannot be attributed
+to the absence of Futsch.
+We also examined the localization of two synaptic proteins that are
+cytoplasmic rather than organelle associated or cytoskeletal. Both
+proteins, LAP (also known as AP180) and endophilin, are involved
+in the endocytosis of synaptic vesicles35. Their distribution in the
+nervous system was enriched in, but not strictly limited to, the neuropil
+in both wild type and imac mutants (Fig. 4e and Supplementary Fig. 3
+online). Thus, the mislocalizations observed in imac mutants seem to
+be specific to a subset of synaptic proteins.
+Few active zones form in imac mutants
+The components of the active zone may arrive at nascent synapses, at
+least in part, through PTVs8, although this vesicle class has not been
+described in Drosophila. To determine the extent of active-zone transport and assembly in imac mutants, we examined an active-zone marker,
+monoclonal antibody nc82, which has been shown to recognize Brp, a
+member of the ELKS/CAST/ERC protein family and a probable component of the T-bar, a dense body that projects back into the cytoplasm
+from the electron density at the plasma membrane36. Wild-type NMJs
+at 21 h AEL showed clusters of nc82 puncta in boutons (66.0 ± 3.0
+puncta per ISNb ending on muscles 6, 7, 12 and 13; Fig. 5a,b). imac
+mutants showed only 11% of the puncta of wild type (7.5 ± 1.0; t-test,
+
+VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007 NATURE NEUROSCIENCE
+
+ARTICLES
+P ¼ 1.3  1021; Fig. 5c) and these puncta were also fainter (62% of the
+average intensity in wild type; Fig. 5e). This reduction could not be
+explained by a decrease in the surface area of nerve-muscle contacts in
+the mutant: the amount of nc82 puncta per HRP area was only 23% of
+that of wild type (Fig. 5e). To verify that puncta in imac mutants were
+not being missed owing to a decrease in the intensity of the nc82
+14-h AEL
+
+15-h AEL
+
+17-h AEL
+
+13-h AEL
+
+14-h AEL
+
+15-h AEL
+
+17-h AEL
+
+21-h AEL
+
++/+
+
+13-h AEL
+
+21-h AEL
+
+imac170
+
+b
+
+60
+40
+
+*
+
+20
+
+*
+
+*
+
+e
+
+200
+150
+100
+
+*
+
+*
+
+*
+
+*
+
+50
+0
+
+19
+15
+17
+Time (h AEL)
+
+13 h imac
+
+21 h +/+
+
+21 h imac
+
+80
+60
+40
+20
+
+0
+13
+
+13 h +/+
+
+120
+100
+
+% of wild type
+
+d
+
+80
+
+HRP area (µm2)
+
+c
+Number of puncta
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+a
+
+immunoreactivity, we recounted puncta with a higher confocal gain
+setting that could not be used on wild-type NMJs because of saturation
+and consequent optical merging of puncta. Even with this bias toward
+overcounting in the mutant, only 24% of the puncta seen in wild type
+were observed. In addition, within the area counted, many of the puncta
+in imac mutants occurred along the axons rather than at the endings,
+
+21
+
+13
+
+15
+17
+19
+Time (h AEL)
+
+21
+
+0
+Puncta
+
+HRP
+area
+
+Puncta Puncta
+/area intensity
+
+Puncta
+
+HRP
+area
+
+Puncta Puncta
+/area intensity
+
+Figure 5 Altered developmental distribution of the active-zone marker nc82 in imac mutants. (a,b) Time course of nc82 staining in ISNb of wild-type (a) and
+imac170 (b) embryos. ISNb endings onto muscles 6, 7, 12 and 13 were immunolabeled with anti-HRP (top, blue; bottom, white) and active zones were
+labeled with nc82 (top, yellow). Mutant nerve endings at the same time points did not develop boutons and contained few nc82 puncta; in particular, the
+large increase in nc82 fluorescence at 15 h AEL did not occur in imac mutants. Muscle boundaries are marked with short lines. Scale bar, 10 mm.
+(c,d) Quantification of the developmental time course of nc82 puncta (c) and HRP area (d) in ISNb nerve endings of wild-type (black, filled circles) and
+mutant (blue, open circles) embryos at 13–21 h AEL. (e) Quantification of nc82 distribution at 13 and 21 h AEL as a percentage of wild-type. The number
+of nc82 puncta, nc82 puncta intensity and HRP area in the mutant nerve endings were comparable to those in wild type at 13 h, but were markedly reduced
+at 21 h. Data are the mean ± s.e.m. (13 h, n ¼ 13 +/+, 10 imac170; 14 h, n ¼ 13 +/+, 7 imac170; 15 h, n ¼ 4 +/+, 4 imac170; 17 h, n ¼ 7 +/+, 6 imac170;
+21 h, n ¼ 19 +/+, 20 imac170). *P o 0.05 by t-test.
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007
+
+985
+
+ARTICLES
+
+a
+
+b
+
+c
+
+d
+
+N
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+e
+
+Mu
+
+M
+
+imac170
+
++/+
+
+imac170
+
+Figure 6 Synaptic vesicles are rare and active zones are few in imac nerve profiles. (a–e) Electron microscopy cross-sections of 21-h embryonic nerve endings.
+(a) Typical wild-type terminal profile showing synaptic vesicles, mitochondrion (M) and active zone (boxed). (b) Representative micrograph of an imac170 nerve
+ending (N) that is clear, lacks synaptic vesicles, and lies underneath the basal lamina (arrowhead) adjacent to the muscle (Mu). (c) Representative micrograph
+of the occasional active zone with a T-bar encountered in mutant nerve profiles. These densities were not associated with synaptic vesicles. (d,e) Enlargements
+of boxed areas in a and c, respectively. Scale bar, 200 nm.
+
+where they are normally located. In the CNS, the ratio of nc82 staining
+in the cell body region relative to the neuropil was also higher in imac
+mutants than in wild type (Supplementary Fig. 4 online).
+Because the shift in nc82 immunoreactivity was not as absolute as
+the difference observed for synaptic vesicle markers, we examined
+quantitatively the emergence of nc82 immunoreactivity at the NMJs of
+ISNb (Fig. 5). In wild type, a few puncta of nc82 immunoreactivity
+were detected at 13 and 14 h AEL, when the growth cone first contacts
+the muscle and processes begin to elongate along the muscle boundaries. At 15 h AEL, however, the number of puncta increased sharply,
+and modest further increases subsequently occurred until hatching
+(Fig. 5a,c). At 13 and 14 h AEL, imac embryos, like wild-type embryos,
+had only a few nc82 puncta. In imac mutants, however, the large
+increase at 15 h AEL did not take place. Instead, the number of puncta
+declined modestly for the remainder of embryonic development
+(Fig. 5b,c). Even taking into account the smaller surface area of the
+nerve-muscle contacts in imac mutants, nc82 puncta were sparser in
+imac mutants than in wild type (Fig. 5d,e). Despite their paucity, the
+presence of some nc82 puncta (but not synaptic vesicle proteins;
+Supplementary Fig. 4) in the mutants at early stages suggested that
+some active-zone protein can diffuse or be transported into the axons
+independently of imac, at least at this early
+stage. The lack of increase in nc82 staining,
+however, is an early phenotype of the mutants
+HRP
+a
+that is apparent before the stage at which
+varicosities fail to form.
+
+To determine the nature of the mutant nerve-muscle contacts and to
+look for signs of active-zone formation or vesicle accumulation that
+might not have been detected by immunocytochemistry, we performed
+electron microscopy. In a given cross-section through a wild-type
+embryo, we identified on average ten NMJs, amongst which five active
+zones and three T-bars were seen. Identification of wild-type NMJs was
+relatively straightforward in that terminals contained uniformly sized
+synaptic vesicles (Fig. 6a,d). In imac mutants, however, most nervemuscle contacts lacked vesicles and were therefore recognized on the
+basis of the close apposition of the electron-lucent nerve ending to the
+muscle fibers and the presence of the basement membrane overlying
+the nerve ending (Fig. 6b,c). By using these criteria, 0–2 nerve-muscle
+contacts were typically identified per section. The absence of synaptic
+vesicles made identification of the nerves more difficult in imac
+mutants and consequently some contacts may have been missed.
+To systematize our characterization of these nerve-muscle contacts,
+we undertook serial electron microscopy of cross-sections of imac
+embryos (see Methods). Active-zone and T-bar counts were normalized to the measured surface area of the neurite to take into account the
+paucity of recognizable contacts in imac mutants and changes in their
+size. Active zones were indeed recognized in imac mutant nerve
+
+b
+
+GluRIIC
+
+c
+
+d
+HRP
+
+Figure 7 Postsynaptic differentiation in imac
+mutants. (a–n) ISNb nerves of wild-type (a–f)
+and imac170 (g–n) 21-h embryos immunolabeled
+with anti-HRP (a,c,g,i) to visualize the nerve,
+anti-GluRIIC (b,d,h,j) to determine the extent of
+postsynaptic differentiation, and nc82 (e,k,m)
+to detect the presynaptic active zone.
+(c–f,i–n) Enlargements of boxed areas in a and g,
+respectively. Clusters of postsynaptic receptors
+were apparent near the neuronal membrane of
+both genotypes (a–d,g–j). These clusters (green)
+were directly opposite the presynaptic nc82
+puncta (magenta) in wild-type embryos (f). In
+imac mutants, nc82 immunoreactivity was faint
+at the gain settings used for wild-type embryos
+(k,l and Fig. 5). When the gain was increased
+(m,n), however, most of the clusters of GluRIIC
+were found to lie adjacent to faint nc82 puncta
+(n). Muscle boundaries are marked by white lines.
+Scale bar, 5 mm.
+
+986
+
+e
+
+f
+nc82
+
++/+
+
+g
+
+h
+
+GluRIIC
+
+i
+
+nc82
+
+j
+HRP
+
+k
+nc82
+
+m
+
+NUMBER 8
+
+nc82
+
+GluRIIC
+
+n
+nc82
+
+[
+
+GluRIIC
+
+l
+
+imac170
+
+VOLUME 10
+
+GluRIIC
+
+[
+
+nc82
+
+GluRIIC
+
+AUGUST 2007 NATURE NEUROSCIENCE
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+endings, but at B60% of the frequency encountered in wild type, when
+either the active-zone number or the active-zone area was normalized
+to the total neuronal surface area in the sections (Supplementary
+Table 1 online). imac mutants showed a greater reduction (17% of
+control) in T-bar frequency. In addition, imac T-bars were often smaller
+than wild-type T-bars. Occasionally, they were surrounded by diffuse
+electron-dense material that did not resemble membrane vesicles
+(Fig. 6e). On average, we counted 70 synaptic vesicle profiles per
+section of wild-type boutons. In all 120 sections examined from 29
+mutant nerve-muscle contacts, we observed only one region that
+contained any synaptic vesicle-like structures (16 structures in total,
+equivalent to 0.13 vesicle profiles per nerve cross-section). Thus, as
+expected from the immunocytochemistry (Figs. 3 and 5), imac nerve
+endings were less extensive, rarely if ever contained synaptic vesicles,
+and had few active zones and very few T-bars.
+Transmission mutants and postsynaptic development
+The absence of synaptic vesicles in imac terminals indicated that
+synaptic transmission did not occur; thus, it was possible that the
+absence of boutons was an indirect consequence of the lack of synaptic
+transmission. We therefore examined the embryonic NMJ of syntaxin1AD229, a null mutation of an essential component of the SNARE
+complex. Null alleles of syntaxin1A lack both evoked and spontaneous
+release of synaptic vesicles37. At 21 h AEL, however, the NMJs of
+syntaxin1AD229 retained distinct synaptic boutons (Supplementary
+Fig. 5 online). The terminals of syntaxin1AD229 were less elaborate,
+as shown previously38, but the boutons contained nc82 puncta
+(Supplementary Fig. 5). Similarly, formation of active zones and vesicle
+clusters occur at syntaxin1A NMJs37,38. Therefore, morphological formation of boutons cannot require synaptic transmission and the failure
+of synaptogenesis in imac mutants cannot be attributed to this cause.
+The lack of complete presynaptic differentiation in imac
+mutants enabled us to determine whether postsynaptic development
+proceeds in its absence. Ultrastructural data revealed the presence of
+postsynaptic membrane densities opposite presynaptic specializations
+in imac mutants (Fig. 6c,e). To determine the degree of postsynaptic
+differentiation, we immunolocalized glutamate receptors (GluRs). In
+imac mutants, discrete puncta of the subunits GluRIIC (Fig. 7h) and
+GluRIIA (data not shown) were evident at sites where the processes of
+the motor neurons contacted the muscle fibers, although they were
+largely absent elsewhere on the muscle. Most of these GluRIIC puncta
+were directly opposite the remaining faint nc82-immunoreactive
+puncta39 (Fig. 7k–n). Thus, the muscle fibers were competent to
+respond to nerve contact with specialization of the postsynaptic
+membrane, despite the incomplete differentiation and abnormal morphology of the presynaptic endings in imac mutants.
+DISCUSSION
+Our studies of imac mutants have revealed that a molecular motor has a
+role in presynaptic maturation and provide insight into the formation
+of synapses. Specifically, our phenotypic analysis demonstrates, first,
+that Imac transports components required for the morphological
+transformation of axonal growth cones to mature boutons; second,
+that the membrane and proteins that support axon outgrowth, axon
+guidance and target recognition do not rely on the same kinesin for
+their transport as the one that supports synaptogenesis; and third, that
+postsynaptic differentiation does not depend on synaptic vesicle
+clustering, synaptic transmission or presynaptic bouton formation.
+In addition, the finding that Imac is essential for the transport of
+synaptic vesicle precursors suggests that this is their primary motor,
+rather than KHC, as previously implicated24. Other components of the
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007
+
+synapse can be classified as either dependent or independent of Imac on
+the basis of their transport phenotype.
+Absence of synaptic boutons in imac mutants
+The phenotype of imac mutants is unprecedented despite extensive
+genetic analysis of the Drosophila NMJ as a model system for synapse
+development. Prior studies have uncovered molecules that are crucial
+to axon pathfinding40, and yet, despite mistargeting, axons in those
+mutants still form boutons if they reach a muscle. By contrast,
+mutation of imac affects all of the NMJs in the embryo that we have
+analyzed and prevents varicosity formation despite signs of appropriate
+outgrowth, guidance and nerve-target recognition. Many signaling
+pathways, including those mediated by electrical activity, Wingless,
+bone morphogenetic proteins, highwire and fasciclins, can regulate the
+growth and plasticity of these synapses41. These pathways influence
+bouton number and the size, length and branching of endings, but they
+do not prevent bouton formation outright. Likewise, mutants that
+affect synapse specificity in C. elegans (for example, syg-1 and syg-2)
+form structurally normal synapses42.
+It is interesting to compare the imac mutant with mutations altering
+the release of neurotransmitter at the synapse. In mammals and
+C. elegans, mutations in individual components of synaptic vesicles
+or the active zone, including mutations that prevent transmitter release,
+do not prevent growth cones from transforming into synapses and do
+not lead to the ultrastructural abnormalities observed in imac
+mutants1,43. In Drosophila, the most complete genetic blockade of
+transmitter release is provided by mutants of syntaxin1A, which is
+required for all vesicle fusions, both spontaneous and evoked. In a
+direct comparison of imac and syntaxin1A mutants, we found that the
+latter continued to form varicosities and had abundant active zones (as
+detected with the monoclonal antibody nc82), as previously
+reported37,38. Boutons similarly persist in other mutants that affect
+transmitter release (synaptotagmin-I, neuronal-synaptobrevin, dunc-13
+and vha100-1)35 and vesicle recycling (for example, shibire, endophilin
+and synaptojanin)44. Therefore, the morphological phenotype of imac
+mutants cannot be due to a secondary consequence of the absence of
+transmission. Indeed, surprisingly few genes currently have a clear role
+in synaptogenesis and in the structural assembly of synapses. Our
+studies implicate, for the first time to our knowledge, a specific gene in
+the transition from growth cone to varicosities and will facilitate
+examination of a morphological process that is not well understood
+at the molecular level.
+Which kinesin transports synaptic vesicle components?
+Despite evidence from C. elegans and mammalian systems implicating
+Kinesin-3 motors (Unc-104 and KIF1A) in axonal transport of synaptic
+vesicle precursors21–23,45, mammalian Kinesin-1 motors have also been
+associated with synaptic vesicle transport46,47. In addition, KHC, a
+Kinesin-1, has been the predominant candidate for this transport
+in Drosophila24,48. Key evidence implicating KHC has been the presence
+in khc mutant larvae of axonal swellings filled with various vesicles
+and organelles, including synaptic vesicle markers. These accumulations, sometimes called ‘traffic jams’, are distinct from the imac
+mutant phenotype: that is, the categorical absence of synaptic
+vesicle markers from motor neuron axons and the persistent transport
+of other organelles.
+The absence of vesicles from axons in imac mutants would seem
+to indicate that no other motor can substitute for Imac during
+NMJ formation, although KHC is present in these motor neurons
+and transports mitochondria in the absence of Imac. The accumulation
+of synaptic vesicle proteins in axonal swellings in khc mutants
+
+987
+
+ARTICLES
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+might arise indirectly from the failure of other classes of transport,
+potentially snarling traffic in the axons. Alternatively, KHC-mediated
+transport may supplement Imac in older Drosophila, despite the
+essential role of Imac in transport of synaptic vesicles during de novo
+embryonic synaptogenesis.
+Active-zone transport
+PTVs are thought to carry many constituents of the mammalian active
+zone, but nothing is known about active-zone transport in Drosophila.
+Thus, the change in Brp (nc82) distribution and the ultrastructural
+phenotype of imac reported here represent an initial investigation into
+that process. These phenotypes are not as absolute, however, as those
+observed for synaptic and dense-cored vesicle markers; therefore, the
+delivery of active-zone proteins may be more complex. The paucity of
+these proteins at imac mutant nerve endings might occur because Imac
+has a direct role in their transport or because there may be a failure to
+trap or concentrate them at the terminal.
+On the one hand, the persistence of some Brp in axons and their
+endings, although sharply reduced at NMJs, suggests that transport or
+diffusion of Brp may persist but that its capture at synapses may be
+impaired by the lack of synaptic maturation. On the other hand, the
+reductions in nc82-immunoreactive puncta and active-zone counts
+were greater than could be explained by the decrease in size of the
+nerve-muscle contacts. In addition, the dearth of nc82 puncta was
+apparent by 15 h AEL, before the stage when boutons form. Thus, the
+failure to form sufficient active zones and T-bars is unlikely to be
+secondary to the failure to form boutons. Rather, it suggests that Imac
+is directly responsible either for the transport of a portion of the activezone proteins or for the transport of a protein needed to retain them at
+muscle contacts.
+Postsynaptic maturation
+In imac mutants, postsynaptic differentiation was assessed by two
+methods: first, the presence of postsynaptic densities by electron
+microscopy; and second, the clustering of glutamate receptors by
+immunocytochemistry (Figs. 6 and 7). By both criteria, specialization
+of the postsynaptic membrane at the site of nerve contact proceeded in
+the absence of synaptic vesicles and without the morphological transition to a synaptic bouton. Postsynaptic structural changes, as indicated
+by the clustering of receptors, are thought to be induced by contact with
+the nerve20. The importance of transmitter release in these processes,
+however, has been controversial38,49, in part because no mutants have
+been available that cleanly prevent both evoked release and the spontaneous release of synaptic vesicles without also compromising the
+survival of the axon. Axons in imac mutants lack components essential
+for neurotransmitter release including VGlut, which is required to load
+vesicles with glutamate, and indeed lack synaptic vesicles themselves
+(Figs. 3, 4 and 6). Despite this, glutamate receptor subunits cluster on
+the muscle beneath the neuronal membranes, indicating that vesicular
+transmitter release per se is not needed for postsynaptic differentiation.
+We cannot, however, exclude the possibility that non-vesicular
+glutamate induces the postsynaptic response or that other molecules
+are released from the growth cone38. Pre- and postsynaptic development cannot be completely independent because release sites and
+receptor clusters need to be aligned. In imac mutants, this alignment
+is preserved, despite the reduced number of active zones and diminished nc82 immunoreactivity (Fig. 7). Thus, the machinery involved in
+the matching of pre- and postsynaptic structures persists, at least in
+part, in imac mutants. Glutamate receptor clusters were not reduced
+in number or intensity as markedly as recognizable active zones in
+electron microscopy images or as the intensity of nc82 puncta in nerve
+
+988
+
+endings. Thus, the low concentration of nc82 immunoreactivity
+opposite most of the glutamate receptor clusters may represent
+incompletely assembled active zones.
+Our analysis of imac mutants has facilitated a dissection of the
+transport mechanisms that function during a crucial phase of neuronal
+development. The existence of a motor for presynaptic maturation that
+is distinct from that for axon outgrowth and guidance may reflect the
+different regulatory needs for distributing the molecules that mediate
+these events. New membrane, for example, is consistently brought to
+the growing tip of the axon, whereas synaptic precursors travel in both
+directions in the axon, scanning for signals from target cells that will
+determine where they will form a functional connection6,8. Further
+understanding of synaptogenesis will require identification of both the
+factors that regulate these motors and the particular cargos that alter
+the morphology of nerve endings.
+METHODS
+Drosophila stocks and transgenic imac constructs. A list of stocks and the
+methods for generating imac cDNA and antibody are provided in Supplementary Methods online.
+Immunocytochemistry. For 13–14-h embryos, dissection was performed on
+polylysine-coated slides. Later stage embryos, dissected with pulled-glass
+needles, were attached to Sylgard with Nexaband glue28 (Abbott Laboratories).
+For details, see Supplementary Methods. We used the following primary and
+secondary antibodies: mouse anti-Futsch (22C10, diluted 1:100; Developmental
+Studies Hybridoma Bank, DSHB); mouse anti-syntaxin (8C3, 1:50; DSHB);
+mouse anti–discs large (1:1,000; DSHB); mouse anti-FasII (1D4, 1:20; DSHB);
+mouse anti-Brp, (nc82, 1:100; DSHB); rabbit anti–synaptotagmin-I (1:4,000;
+N. Reist, Colorado State University); rabbit anti-GluRC (1:2,000; A. DiAntonio
+Washington University); rabbit anti-VGlut (1:10,000; A. DiAntonio); anti-LAP
+(1:200; B. Zhang, University of Texas); Cy5- or FITC-conjugated goat anti-HRP
+(1:100, Jackson Immunoresearch); and FITC-, Cy3- or Texas red–conjugated
+secondary antibodies (Jackson Immunoresearch). For immunolabeling with
+FasII antibody, we used biotinylated anti-mouse secondary antibody and the
+Vectastain ABC system (Vector Laboratories) and developed the slides with
+diaminobenzidine (Sigma).
+Imaging and analysis. Diaminobenzidine-processed slides were imaged with
+a Nikon microscope (Eclipse E800). Confocal images were acquired by
+using a laser scanning confocal microscope (LSM 510 META/NLO, Carl
+Zeiss MicroImaging). For ISNb confocal images, data were acquired as
+stacks of multi-tracked, separate channels and then projected to a single plane
+with LSM Imaging Analysis Software 3.2 (Carl Zeiss MicroImaging). We
+prepared images using Photoshop and Illustrator (Adobe). For details, see
+Supplementary Methods.
+For quantification of nc82 puncta, projections of stacked confocal images
+were analyzed with MetaMorph software (Molecular Devices). For a given data
+set (mutant and wild type analyzed together), the same threshold setting was
+used. We drew a region of interest (ROI) around the nerve profiles in muscles 6,
+7, 12 and 13. The pixel area (in mm2) for the ROI was calculated for the channel
+representing HRP. For the same ROI, nc82 puncta were counted. The sum of
+pixel intensities (in arbitrary units) for the same ROI was also calculated for
+each of the channels. Data are reported as mean ± s.e.m. Two-tailed Student’s
+t-test was used for comparisons. P values of o 0.05 were designated as
+statistically significant.
+Electron microscopy. Late-stage (21 h AEL) mutant and wild-type
+embryos were fixed by injecting 5% glutaraldehyde in 0.05 M phosphate
+buffer into the posterior end and processed accordingly50. For details, see
+Supplementary Methods.
+Note: Supplementary information is available on the Nature Neuroscience website.
+
+ACKNOWLEDGMENTS
+We thank W. Saxton, D. Van Vactor and J. Kaplan for comments on the
+manuscript; A. DiAntonio, R. Palmer, N. Reist, M. Higashi, and the Bloomington
+
+VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007 NATURE NEUROSCIENCE
+
+ARTICLES
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+Stock Center for reagents and fly strains; A.Y.N. Goldstein and J. Salogiannis for
+experimental assistance; members of the Schwarz laboratory for discussions;
+HCNR and DDRC imaging cores for imaging and analysis assistance; A. Prokop
+and the HMS electron microscopy facility for electron microscopy help. This
+work was supported by a US National Research Service Award predoctoral
+fellowship (E.P.-C.), a Howard Hughes Medical Institute predoctoral fellowship
+(D.K.D.), and a grant from the US National Institutes of Health (RO1MH075058 to T.L.S.).
+COMPETING INTERESTS STATEMENT
+The authors declare no competing financial interests.
+Published online at http://www.nature.com/natureneuroscience
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions
+1. Ziv, N.E. & Garner, C.C. Cellular and molecular mechanisms of presynaptic assembly.
+Nat. Rev. Neurosci. 5, 385–399 (2004).
+2. Lee, H. & Van Vactor, D. Neurons take shape. Curr. Biol. 13, R152–R161 (2003).
+3. Hannah, M.J., Schmidt, A.A. & Huttner, W.B. Synaptic vesicle biogenesis. Annu. Rev.
+Cell Dev. Biol. 15, 733–798 (1999).
+4. Friedman, H.V., Bresler, T., Garner, C.C. & Ziv, N.E. Assembly of new individual excitatory
+synapses: time course and temporal order of synaptic molecule recruitment. Neuron 27,
+57–69 (2000).
+5. Roos, J. & Kelly, R.B. Preassembly and transport of nerve terminals: a new concept of
+axonal transport. Nat. Neurosci. 3, 415–417 (2000).
+6. Ahmari, S.E., Buchanan, J. & Smith, S.J. Assembly of presynaptic active zones from
+cytoplasmic transport packets. Nat. Neurosci. 3, 445–451 (2000).
+7. Kraszewski, K. et al. Synaptic vesicle dynamics in living cultured hippocampal neurons
+visualized with CY3-conjugated antibodies directed against the lumenal domain of
+synaptotagmin. J. Neurosci. 15, 4328–4342 (1995).
+8. Shapira, M. et al. Unitary assembly of presynaptic active zones from Piccolo-Bassoon
+transport vesicles. Neuron 38, 237–252 (2003).
+9. Zhai, R.G. et al. Assembling the presynaptic active zone: a characterization of an active
+zone precursor vesicle. Neuron 29, 131–143 (2001).
+10. Sanes, J.R. & Lichtman, J.W. Development of the vertebrate neuromuscular junction.
+Annu. Rev. Neurosci. 22, 389–442 (1999).
+11. Featherstone, D.E. & Broadie, K. Surprises from Drosophila: genetic mechanisms of
+synaptic development and plasticity. Brain Res. Bull. 53, 501–511 (2000).
+12. Yoshihara, M., Rheuben, M.B. & Kidokoro, Y. Transition from growth cone to
+functional motor nerve terminal in Drosophila embryos. J. Neurosci. 17, 8408–8426
+(1997).
+13. Rheuben, M.B., Yoshihara, M. & Kidokoro, Y. Ultrastructural correlates of neuromuscular
+junction development. Int. Rev. Neurobiol. 43, 69–92 (1999).
+14. Stowers, R.S. & Schwarz, T.L. A Genetic method for generating Drosophila
+eyes composed exclusively of mitotic clones of a single genotype. Genetics 152,
+1631–1639 (1999).
+15. Dickman, D.K., Horne, J.A., Meinertzhagen, I.A. & Schwarz, T.L. A slowed classical
+pathway rather than kiss-and-run mediates endocytosis at synapses lacking synaptojanin and endophilin. Cell 123, 521–533 (2005).
+16. Chang, T.N. & Keshishian, H. Laser ablation of Drosophila embryonic motoneurons
+causes ectopic innervation of target muscle fibers. J. Neurosci. 16, 5715–5726 (1996).
+17. Berger, J. et al. Genetic mapping with SNP markers in Drosophila. Nat. Genet. 29,
+475–481 (2001).
+18. Loren, C.E. et al. A crucial role for the Anaplastic lymphoma kinase receptor tyrosine
+kinase in gut development in Drosophila melanogaster. EMBO Rep. 4, 781–786
+(2003).
+19. Vale, R.D. The molecular motor toolbox for intracellular transport. Cell 112, 467–480
+(2003).
+20. Broadie, K.S. & Bate, M. Development of the embryonic neuromuscular synapse of
+Drosophila melanogaster. J. Neurosci. 13, 144–166 (1993).
+21. Hall, D.H. & Hedgecock, E.M. Kinesin-related gene unc-104 is required for axonal
+transport of synaptic vesicles in C. elegans. Cell 65, 837–847 (1991).
+22. Okada, Y., Yamazaki, H., Sekine-Aizawa, Y. & Hirokawa, N. The neuron-specific kinesin
+superfamily protein KIF1A is a unique monomeric motor for anterograde axonal
+transport of synaptic vesicle precursors. Cell 81, 769–780 (1995).
+23. Zhao, C. et al. Charcot-Marie-Tooth disease type 2A caused by mutation in a microtubule
+motor KIF1Bb. Cell 105, 587–597 (2001).
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 8
+
+[
+
+AUGUST 2007
+
+24. Hurd, D.D. & Saxton, W.M. Kinesin mutations cause motor neuron disease phenotypes
+by disrupting fast axonal transport in Drosophila. Genetics 144, 1075–1085 (1996).
+25. Goldstein, L.S. & Yang, Z. Microtubule-based transport systems in neurons: the roles of
+kinesins and dyneins. Annu. Rev. Neurosci. 23, 39–71 (2000).
+26. Jacob, T.C. & Kaplan, J.M. The EGL-21 carboxypeptidase E facilitates acetylcholine
+release at Caenorhabditis elegans neuromuscular junctions. J. Neurosci. 23,
+2122–2130 (2003).
+27. Rao, S., Lang, C., Levitan, E.S. & Deitcher, D.L. Visualization of neuropeptide expression, transport, and exocytosis in Drosophila melanogaster. J. Neurobiol. 49, 159–172
+(2001).
+28. Murthy, M., Garza, D., Scheller, R.H. & Schwarz, T.L. Mutations in the exocyst
+component Sec5 disrupt neuronal membrane traffic, but neurotransmitter release
+persists. Neuron 37, 433–447 (2003).
+29. Lin, D.M. & Goodman, C.S. Ectopic and increased expression of fasciclin II alters
+motoneuron growth cone guidance. Neuron 13, 507–523 (1994).
+30. Burgess, R.W., Deitcher, D.L. & Schwarz, T.L. The synaptic protein syntaxin1 is required
+for cellularization of Drosophila embryos. J. Cell Biol. 138, 861–875 (1997).
+31. Glater, E.E., Megeath, L.J., Stowers, R.S. & Schwarz, T.L. Axonal transport of mitochondria requires milton to recruit kinesin heavy chain and is light chain independent. J. Cell
+Biol. 173, 545–557 (2006).
+32. Pilling, A.D., Horiuchi, D., Lively, C.M. & Saxton, W.M. Kinesin-1 and dynein are the
+primary motors for fast transport of mitochondria in Drosophila motor axons. Mol. Biol.
+Cell 17, 2057–2068 (2006).
+33. Roos, J., Hummel, T., Ng, N., Klambt, C. & Davis, G.W. Drosophila Futsch regulates
+synaptic microtubule organization and is necessary for synaptic growth. Neuron 26,
+371–382 (2000).
+34. Ma, D., Himes, B.T., Shea, T.B. & Fischer, I. Axonal transport of microtubule-associated
+protein 1B (MAP1B) in the sciatic nerve of adult rat: distinct transport rates of different
+isoforms. J. Neurosci. 20, 2112–2120 (2000).
+35. Schwarz, T.L. Transmitter release at the neuromuscular junction. Int. Rev. Neurobiol.
+75, 105–144 (2006).
+36. Wagh, D.A. et al. Bruchpilot, a protein with homology to ELKS/CAST, is required
+for structural integrity and function of synaptic active zones in Drosophila. Neuron
+49, 833–844 (2006).
+37. Broadie, K. et al. Syntaxin and synaptohrevin function downstream of vesicle docking in
+Drosophila. Neuron 15, 663–673 (1995).
+38. Featherstone, D.E., Rushton, E. & Broadie, K. Developmental regulation of glutamate
+receptor field size by nonvesicular glutamate release. Nat. Neurosci. 5, 141–146
+(2002).
+39. DiAntonio, A. Glutamate receptors at the Drosophila neuromuscular junction. Int. Rev.
+Neurobiol. 75, 165–179 (2006).
+40. Dickson, B.J. Molecular mechanisms of axon guidance. Science 298, 1959–1964
+(2002).
+41. Marques, G. & Zhang, B. Retrograde signaling that regulates synaptic development and
+function at the Drosophila neuromuscular junction. Int. Rev. Neurobiol. 75, 267–285
+(2006).
+42. Shen, K., Fetter, R.D. & Bargmann, C.I. Synaptic specificity is generated by the
+synaptic guidepost protein SYG-2 and its receptor, SYG-1. Cell 116, 869–881
+(2004).
+43. Ackley, B.D. & Jin, Y. Genetic analysis of synaptic target recognition and assembly.
+Trends Neurosci. 27, 540–547 (2004).
+44. Dickman, D.K., Lu, Z., Meinertzhagen, I.A. & Schwarz, T.L. Altered synaptic development and active zone spacing in endocytosis mutants. Curr. Biol. 16, 591–598
+(2006).
+45. Klopfenstein, D.R., Tomishige, M., Stuurman, N. & Vale, R.D. Role of phosphatidylinositol(4,5)bisphosphate organization in membrane transport by the Unc104 kinesin
+motor. Cell 109, 347–358 (2002).
+46. Sato-Yoshitake, R., Yorifuji, H., Inagaki, M. & Hirokawa, N. The phosphorylation of
+kinesin regulates its binding to synaptic vesicles. J. Biol. Chem. 267, 23930–23936
+(1992).
+47. Takamori, S. et al. Molecular anatomy of a trafficking organelle. Cell 127, 831–846
+(2006).
+48. Miller, K.E. et al. Direct observation demonstrates that Liprin-a is required for trafficking
+of synaptic vesicles. Curr. Biol. 15, 684–689 (2005).
+49. Saitoe, M., Schwarz, T.L., Umbach, J.A., Gundersen, C.B. & Kidokoro, Y. Absence of
+junctional glutamate receptor clusters in Drosophila mutants lacking spontaneous
+transmitter release. Science 293, 514–517 (2001).
+50. Prokop, A. & Technau, G.M. in Cellular Interactions in Development: A Practical
+Approach (ed. Hartley, D.) 33–57 (Oxford Univ. Press, London and New York,
+1993).
+
+989
+
+

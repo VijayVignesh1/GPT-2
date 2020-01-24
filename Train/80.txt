@@ -1,0 +1,843 @@
+Calcium threshold shift enables frequency-independent
+control of plasticity by an instructive signal
+Claire Piochona,1, Heather K. Titleya,1, Dana H. Simmonsa
+, Giorgio Grassellia
+, Ype Elgersmab
+, and Christian Hansela,2
+a
+Department of Neurobiology, University of Chicago, Chicago, IL 60637; and b
+Department of Neuroscience, Erasmus Medical Center, 3000 CA Rotterdam,
+The Netherlands
+Edited by Masao Ito, RIKEN Brain Science Institute, Wako, Japan, and approved September 23, 2016 (received for review August 19, 2016)
+At glutamatergic synapses, both long-term potentiation (LTP) and
+long-term depression (LTD) can be induced at the same synaptic
+activation frequency. Instructive signals determine whether LTP or
+LTD is induced, by modulating local calcium transients. Synapses
+maintain the ability to potentiate or depress over a wide frequency range, but it remains unknown how calcium-controlled
+plasticity operates when frequency variations alone cause differences in calcium amplitudes. We addressed this problem at cerebellar parallel fiber-Purkinje cell synapses, which can undergo LTD or
+LTP in response to 1-Hz and 100-Hz stimulation. We observed that
+high-frequency activation elicits larger spine calcium transients than
+low-frequency stimulation under all stimulus conditions, but,
+regardless of activation frequency, climbing fiber (CF) coactivation provides an instructive signal that further enhances calcium
+transients and promotes LTD. At both frequencies, buffering
+calcium prevents LTD induction and LTP results instead, identifying the enhanced calcium signal amplitude as the critical parameter contributed by the instructive CF signal. These observations
+show that it is not absolute calcium amplitudes that determine
+whether LTD or LTP is evoked but, instead, the LTD threshold slides,
+thus preserving the requirement for relatively larger calcium
+transients for LTD than for LTP induction at any given stimulus
+frequency. Cerebellar LTD depends on the activation of calcium/
+calmodulin-dependent kinase II (CaMKII). Using genetically modified
+(TT305/6VA and T305D) mice, we identified α-CaMKII inhibition
+upon autophosphorylation at Thr305/306 as a molecular event underlying the threshold shift. This mechanism enables frequencyindependent plasticity control by the instructive CF signal based
+on relative, not absolute, calcium thresholds.
+calcium/calmodulin-dependent kinase II | cerebellum | long-term
+depression | long-term potentiation | Purkinje cell
+Synaptic activation frequency is an important factor in the
+induction of long-term potentiation (LTP) and long-term
+depression (LTD). For example, it has been shown at Schaffer
+collateral-CA1 pyramidal cell synapses that application of 900
+pulses at 1–3 Hz causes LTD, whereas the same number of
+pulses applied at 50 Hz causes LTP (1). However, LTP and LTD
+can also be induced at the same stimulus frequency. This phenomenon has been demonstrated at hippocampal, neocortical,
+and cerebellar synapses, where potentiation and depression
+mechanisms operate over a wide range of activation frequencies
+(2–7). In the neocortex and hippocampus, the level of postsynaptic depolarization determines whether LTP or LTD results
+from stimulation at a given frequency (2, 5). These voltage-dependent thresholds for LTP and LTD induction reflect thresholds in calcium signal amplitudes (3, 4, 8–11) that, when
+maintained for sufficiently long time periods (12), control synaptic plasticity in concert with distinct calcium sensors that are
+restricted to local microenvironments (13, 14).
+At cerebellar parallel fiber (PF)-Purkinje cell synapses, both
+LTP and LTD can be induced using 1-Hz and 100-Hz PF stimulation protocols, and at both frequencies, climbing fiber (CF)
+coactivation promotes LTD, whereas LTP results from PF
+stimulation alone (6, 7, 15, 16). CF coactivity leads to supralinear
+spine calcium signaling (17), which helps to reach the calcium
+threshold for LTD, which is higher than the threshold for LTP at
+these synapses (6). It seems that for central synapses, there is
+a computational advantage to be able to undergo potentiation
+or depression regardless of activation frequency but under the
+control of instructive signals, such as CF coactivity in cerebellar
+plasticity (18–20). Here, we address a fundamental problem that
+arises from LTP and LTD induction under the control of instructive signals over a wide frequency range: How is it possible to
+maintain the essential role of calcium thresholds, and the role of
+an instructive signal that helps to reach the higher threshold, when
+the calcium levels resulting from high-frequency stimulation are
+likely in a higher range than the calcium levels resulting from lowfrequency stimulation? The relevance of this problem is illustrated
+by the observation that at PF synapses, LTP-inducing 100-Hz PF
+bursts evoke larger calcium transients than paired single-pulse CF
+activation, which promotes LTD (21). We thus investigated spine
+calcium signaling at PF synapses under low- and high-frequency
+LTD- and LTP-inducing conditions, as well as mechanisms that
+may shift the calcium sensitivity of the LTD pathway.
+Results
+To monitor spine calcium transients, we used confocal imaging
+in slices obtained from P21-75 mice. For the comparison of
+calcium levels that are reached under low- and high-frequency
+LTD- and LTP-inducing conditions, we applied defined patterns
+of PF and CF activation, respectively, that were derived from the
+plasticity protocols described below. LTD results from PF + CF
+activation at 1 Hz for 5 min, whereas LTP is evoked when the
+same PF activation pattern is applied in isolation (6, 16). LTD
+Significance
+Instructive signals play an important role in synaptic plasticity and learning. For example, at cerebellar parallel fiber (PF)-
+Purkinje cell synapses, climbing fiber (CF) coactivation provides
+an instructive signal that promotes long-term depression (LTD)
+by amplifying spine calcium transients above a threshold level
+that, at these synapses, is higher than for LTP induction. Here,
+we show that the CF instructive signal maintains its control
+over PF plasticity regardless of the PF synaptic activation frequency, which, on its own, alters spine calcium signaling. We
+demonstrate that high-frequency stimulation reduces the calcium
+sensitivity of LTD, resulting from inhibitory calcium/calmodulindependent kinase II autophosphorylation at Thr305/306. We
+propose that this regulatory mechanism causes a horizontal
+shift of the long-term potentiation/LTD cross-over point, making plasticity independent from absolute calcium amplitudes.
+Author contributions: C.P., H.K.T., D.H.S., G.G., Y.E., and C.H. designed research; C.P., H.K.T.,
+D.H.S., and G.G. performed research; Y.E. contributed new reagents/analytic tools; C.P.,
+H.K.T., D.H.S., and G.G. analyzed data; and Y.E. and C.H. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+C.P. and H.K.T. contributed equally to this work.
+2
+To whom correspondence should be addressed. Email: chansel@bsd.uchicago.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1613897113/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1613897113 PNAS | November 15, 2016 | vol. 113 | no. 46 | 13221–13226
+NEUROSCIENCE
+can also be induced with a train of eight PF stimuli (100 Hz)
+followed 120 ms after stimulus onset by single-pulse CF stimulation. This activation pattern is applied at 1 Hz for 5 min. With
+this protocol, too, omission of CF activation causes LTP instead
+(7). All stimulus protocols cause postsynaptically expressed
+forms of LTD/LTP (6, 7). In the following, we will use the terms
+“low-frequency protocol” and “high-frequency protocol” to refer
+to the highest lead frequency within the PF stimulus patterns.
+Thus, 100-Hz PF burst stimulation is referred to as the highfrequency protocol, whereas single-pulse PF stimulation at 1 Hz
+is referred to as the low-frequency protocol. For the comparison of calcium levels that are reached under the four activation
+conditions, we chose to break down the protocols into the
+stimulus patterns that are repeated at 1 Hz for 5 min. For the
+high-frequency protocol, this stimulus pattern is a 100-Hz PF
+burst (eight pulses), and for the low-frequency protocol, it is a
+single PF pulse, which are paired/not paired with CF activation.
+Calcium transients evoked in spines on secondary or higher order branches of Purkinje cell dendrites were calculated as ΔG/R =
+(G(t) − G0)/R, where G is the calcium-sensitive fluorescence of
+Oregon Green 1,2-Bis(2-aminophenoxy)ethane-N,N,N′,N′-tetraacetic acid (BAPTA)-2 (OGB-2; 200 μM), G0 is the baseline
+signal, and R is the calcium-insensitive fluorescence of Alexa 633
+(30 μM) (22). Calcium transients were monitored under all four
+stimulation conditions (applied two to three times in randomized
+order, with 30-s intervals between stimuli) from the same spine
+that was defined as the region of interest (ROI). The ROI was
+selected based on the strength of calcium responses to synaptic
+activation (maximally responding spine). To obtain a calcium
+transient measure, ΔG/R values were averaged over a period of
+200 ms after stimulus onset (17). Single-pulse PF stimulation
+resulted in small calcium signals (0.02 ± 0.02 ΔG/R; n = 11; Fig. 1
+A–D). Paired PF + CF activation resulted in significantly larger
+calcium transients (0.06 ± 0.01 ΔG/R; P = 0.001). Application of
+the 100-Hz PF burst evoked calcium signals that were about
+threefold as large as the calcium signals obtained with paired PF +
+CF single-pulse stimulation (0.18 ± 0.02 ΔG/R; P = 0.00005).
+When this 100-Hz PF burst was followed after 120 ms by a single
+CF pulse, the resulting calcium transient was further enhanced
+(0.24 ± 0.04 ΔG/R; P = 0.041). OGB-2 is a high-affinity calcium
+indicator (Kd = 485 nM), allowing for accurate measurement of
+calcium in the low-amplitude range. To obtain a better dynamic
+range at high calcium amplitudes, we repeated these measurements
+using the low-affinity (Kd = 1.8 μM) indicator Fluo-5F (300 μM).
+Single-pulse PF stimulation resulted in ΔG/R values in the noise
+range (−0.01 ± 0.01 ΔG/R; n = 11; Fig. 1 E–H). However, with CF
+coactivation, the signal was significantly enhanced (0.04 ± 0.01
+ΔG/R; P = 0.035). A 100-Hz PF burst stimulation resulted in
+calcium transients that were about 12-fold larger than the calcium
+transients obtained with single-pulse PF + CF activation (0.46 ±
+0.15 ΔG/R; P = 0.013). When this 100-Hz burst was followed after
+120 ms by a single CF pulse, the calcium signal amplitude was
+further enhanced (0.59 ± 0.19 ΔG/R; P = 0.039). With both OGB-2
+and Fluo-5F, calcium transients monitored in adjacent shaft areas
+showed the same amplitude relationships as calcium transients
+measured in the spines (Fig. S1). The results obtained with both
+indicators show that 100-Hz PF bursts evoke larger calcium
+transients than single pulses, and that CF coactivation further
+enhances calcium signals at both frequencies. To compare spine
+calcium transients evoked by 100-Hz PF bursts with and without
+CF coactivation under conditions that are as remote as possible
+from dye saturation, we went a step further and used the ultralow
+calcium affinity (Kd = 22.0 μM) indicator OGB-5N (300 μM).
+These recordings confirmed our previous observations: paired
+100-Hz PF burst + CF activation caused spine calcium transients
+(0.32 ± 0.09 ΔG/R) that were significantly larger than spine calcium transients observed with 100-Hz PF burst stimulation alone
+(0.21 ± 0.05 ΔG/R; n = 9; P = 0.04338; Fig. S2).
+To examine whether larger calcium transients are required for
+LTD than for LTP induction in the low-frequency range as well
+as the high-frequency range, we applied both LTD protocols
+when the calcium chelator BAPTA was added to the pipette
+saline. Under control conditions, paired PF + CF activation at
+1 Hz for 5 min caused PF-LTD (65.7 ± 6.3%; t = 31–35 min; n = 6;
+P = 0.0029; Fig. 2). In line with previous observations (6) application of the 1-Hz LTD protocol instead resulted in LTP (149.1 ±
+14.5%; n = 6; P = 0.0198; Fig. 2) when BAPTA (20 mM) was
+present in the pipette saline. Excitatory postsynaptic current
+(EPSC) amplitude changes observed in these groups differed
+significantly (P = 0.0051). Application of the 100-Hz PF burstLTD protocol resulted under control conditions in PF-LTD
+(77.9 ± 3.8%; n = 6; P = 0.0008; Fig. 2). For these high-frequency
+stimulus experiments, we selected a lower BAPTA concentration (5 mM) than the concentrations that are typically used
+to block 1-Hz LTD (10–40 mM) (6, 23, 24). The exact BAPTA
+concentration was arbitrarily chosen, but the underlying idea
+0.2 0.4 0.6
+s
+PF burst + CF PF burst PF + CF PF
+80
+60
+40
+20
+0
+G/R (% of maximum)
+0.0 0.5 1.0 1.5 2.0
+Time (s)
+ PF burst + CF
+ PF burst
+ PF+ CF
+ PF
+80
+60
+40
+20
+0
+G/R (% of maximum)
+0.0 0.5 1.0 1.5 2.0
+Time (s)
+ PFburst + CF
+ PFburst
+ PF + CF
+ PF
+PF burst + CF PF burst PF + CF PF B
+C G
+D H
+OGB-2 Fluo-5F
+0.8
+0.6
+0.4
+0.2
+0.0
+G/R
+PF burst + CF
+PF burst
+PF + CF
+PF
+*
+*
+*
+*
+0.3
+0.2
+0.1
+0.0
+G/R
+PF burst + CF
+PF burst
+PF + CF
+PF
+*
+**
+**
+**
+F
+Fig. 1. Spine calcium transients evoked by LTP- and A E LTD-inducing PF and CF activation patterns. (A–D)
+OGB-2 measurements. (A, Left) Purkinje cell filled
+with Alexa 633. (Scale bar: 20 μm.) (A, Center) Enlarged view. The circle outlines the ROI. (Scale bar:
+1 μm.) (A, Right) Green fluorescence of OGB-2. The
+circle outlines the ROI. (Scale bar: 1 μm.) (B, Top)
+Electrophysiological responses to the following
+stimuli: 100-Hz PF burst + CF, PF burst alone, singlepulse PF + CF, and PF pulse alone. (Scale bars: vertical, 20 mV; horizontal, 100 ms.) (B, Bottom)
+Simultaneously recorded calcium transients. (Scale
+bars: vertical, 0.1 δG/R; horizontal, 500 ms.) (C) Calcium transients averaged from all Purkinje cell
+recordings (n = 11). Calcium signals are expressed as
+the percentage of the peak amplitude in each recording. (D) Bar graph summarizing calcium signal
+amplitudes (ΔG/R; average over a 200-ms period
+starting at stimulus onset, n = 11). (E–H) Fluo-5F
+measurements. (E, Left) Purkinje cell filled with
+Alexa 633. (Scale bar: 20 μm.) (E, Center) Enlarged
+view. The circle outlines the ROI. (Scale bar: 1 μm.)
+(E, Right) Green fluorescence of Fluo-5F. The circle
+outlines the ROI. (Scale bar: 1 μm.) (F) Electrophysiological responses and calcium transients arranged
+as in B. (Scale bars: Top, vertical, 20 mV; Top, horizontal, 100 ms; Bottom, vertical, 0.5 δG/R; Bottom, horizontal, 500 ms.) (G) Averaged calcium transients (n =
+11). (H) Bar graph summarizing signal amplitudes (n = 11). Error bars indicate SEM. **P < 0.01; *P < 0.05.
+13222 | www.pnas.org/cgi/doi/10.1073/pnas.1613897113 Piochon et al.
+of selecting a lower concentration was that moderate manipulation of the higher calcium signals observed with the highfrequency LTD protocol (Fig. 1) might be sufficient to evoke a
+switch from LTD toward LTP, allowing for a qualitative assessment of the relative calcium dependencies of LTP and
+LTD. We indeed observed that LTP was induced instead of
+LTD when the 100-Hz burst protocol was applied in the presence of BAPTA (134.3 ± 12.2%; n = 7; P = 0.031; Fig. 2). EPSC
+changes observed under these two conditions differed significantly (P = 0.0043).
+Calcium transients evoked by 100-Hz PF burst + CF activation
+in the presence of BAPTA (5 mM) were significantly lower
+than in the absence of BAPTA (+BAPTA: 0.16 ± 0.06 ΔG/R,
+n = 8; −BAPTA: 0.59 ± 0.19 ΔG/R, n = 11; P = 0.0349; Fig. S3),
+while they did not differ statistically from calcium transients
+evoked by LTP-inducing PF burst stimulation (−BAPTA: 0.46 ±
+0.15 ΔG/R; n = 11; P = 0.1471). Moreover, these transients were
+significantly higher than calcium signals evoked by the LTDinducing single-pulse PF + CF activation (−BAPTA: 0.04 ±
+0.01 ΔG/R; n = 11; P = 0.0093; Fig. S3). Similarly, in the
+presence of 20 mM BAPTA, single-pulse PF + CF activation caused significantly lower calcium transients than without
+BAPTA (+BAPTA: 0.01 ± 0.002 ΔG/R, n = 8; −BAPTA: 0.04 ±
+0.01 ΔG/R, n = 11; P = 0.0349; Fig. S3). These calcium transients
+were significantly higher than the calcium transients reached with
+LTP-inducing single-pulse PF stimulation (−BAPTA; −0.01 ± 0.01
+ΔG/R; n = 11; P = 0.0147), but it should be noted that as a result
+of the high Kd of Fluo-5F, these latter stimulus conditions do not
+reliably evoke transients above noise levels (traces in Fig. S3). To
+obtain an approximation of calcium amplitudes reached in spines
+during these stimulus conditions, we calculated [Ca2+
+]i values
+based on the Fluo-5F G/R measures. The calcium signals reached
+peak values of about 0.4 μM for single-pulse PF + CF stimulation,
+2.8 μM for 100-Hz PF burst stimulation, and 7.1 μM for 100-Hz
+PF burst + CF activation (consistent measurements of calcium
+levels; see ref. 17). In the presence of BAPTA (5 mM), peak calcium levels evoked by 100-Hz PF burst + CF activation were reduced to about 2.2 μM. No attempt was made to calculate [Ca2+]i
+for single-pulse PF stimulation or single-pulse PF + CF stimulation in the presence of BAPTA because these signals were too
+close to noise levels in the Fluo-5F recordings.
+Together, these observations suggest that regardless of synaptic
+activation frequency, additional calcium influx contributed by the
+instructive CF signal is required to induce LTD. Hence, while the
+absolute calcium levels reached in the high-frequency range are
+significantly higher than in the low-frequency range, the relative
+calcium thresholds are preserved at both stimulus frequencies.
+The transition from absolute to relative calcium thresholds requires that high-frequency stimulation lower the calcium sensitivity of the LTD induction process, in effect shifting the LTD
+threshold toward a higher value.
+To identify the mechanism behind this threshold shift, we
+postulated two requirements that a candidate signaling pathway
+needs to fulfill: (i) It requires a calcium sensor to detect the
+higher calcium levels resulting from high-frequency activation,
+and (ii) it needs to tip the balance from a kinase-dominated
+LTD pathway toward a phosphatase-activated LTP pathway at
+PF synapses (25, reviewed in ref. 26). This description profile
+matches the inhibitory autophosphorylation that has been described for the alpha subunit of calcium/calmodulin-dependent
+kinase II (α-CaMKII) at Thr305 and Thr306, which lowers the
+affinity of CaMKII for CaM, and thus reduces Ca/CaM-mediated activation (27). β-CaMKII is expressed in Purkinje cells as
+well (28), but the inhibitory autophosphorylation has only been
+examined in α-CaMKII and has been shown to have a dominant
+negative effect on the holoenzyme (27). Both α-CaMKII and
+β-CaMKII are essential for proper LTD induction (28, 29).
+CaMKII promotes LTD by suppressing the activity of protein
+phosphatase 2A through negative regulation of phosphodiesterase 1 and subsequent disinhibition of a cGMP/protein kinase G pathway (30). Negative regulation of CaMKII by Thr305/
+306 autophosphorylation requires prior calcium/calmodulin-mediated activation of CaMKII and subsequent calmodulin dissociation
+(31). Moreover, it has been shown that Thr305/306 phosphorylation, triggered by 10-Hz priming, reduces hippocampal LTP (32),
+whereas genetic manipulation of the Thr305/306 phosphorylation
+site lowers the LTP threshold and prevents priming (27, 32). Thus,
+CaMKII inhibitory autophosphorylation depends on previous calcium signaling and directly affects the kinase/phosphatase balance,
+thus fulfilling the two requirements outlined above. To test whether
+Thr305/306 phosphorylation is indeed involved in reducing the
+probability for LTD induction at high stimulus frequencies,
+we examined whether LTP is still induced by the 100-Hz PF
+burst protocol, or whether LTD is restored, in α-CaMKII mutant
+mice in which Thr305 and Thr306 are substituted by the nonphosphorylatable amino acids valine and alanine, respectively [referred to as TT305/6VA mice (27)]. In wild-type (WT) littermates,
+application of the 100-Hz LTP protocol potentiated EPSC amplitudes (131.8 ± 12.4%; t = 36–40 min; n = 12; P = 0.026; Fig. 3B). In
+contrast, application of the same protocol resulted in LTD in
+TT305/6VA mice (81.5 ± 8.4%; n = 15; P = 0.044; Fig. 3B). The
+difference between these groups was significant (P = 0.0021). We
+next examined whether the same switch toward LTD occurs when
+the 1-Hz LTP protocol is applied. In WT mice, single-pulse PF activation potentiated EPSC amplitudes (122.3 ± 4.3%; t = 36–40 min;
+n = 7; P = 0.002; Fig. 3A). In TT305/6VA mice, LTP was
+observed as well (124.9 ± 7.7%; n = 8; P = 0.007; group comparison: P = 0.42; Fig. 3A). Likewise, LTD was unaffected in TT305/
+6VA mice, whether it was triggered by the 1-Hz protocol (WT:
+72.8 ± 4.4%, t = 36–40 min, n = 8, P = 0.0005; TT305/6VA: 67.6 ±
+3.0%, n = 5, P = 0.0004; group comparison: P = 0.38; Fig. S4A) or
+the 100-Hz protocol (WT: 71.5 ± 5.0%, n = 6, P = 0.002; TT305/
+6VA: 70.2 ± 5.3%, n = 5, P = 0.005; group comparison: P = 0.93;
+Fig. S4B). We also tested LTD/LTP protocols in T305D mice, in
+which Thr305 is replaced by a negatively charged Asp, which serves
+as a phosphomimetic resembling persistent Thr305 phosphorylation
+and preventing Ca/CaM binding (27). In slices prepared from T305D
+mice, application of the 1-Hz LTD protocol and the 100-Hz LTD
+protocol, respectively, resulted in LTP instead (1 Hz: 127.9 ± 10.2%,
+200
+150
+100
+50
+0
+PF-EPSC (% of baseline)
+5 10 15 20 25 30 35
+Time (min)
+**
+Control (n=6)
+BAPTA (n=6)
+200
+150
+100
+50
+0
+PF-EPSC (% of baseline)
+5 10 15 20 25 30 35
+Time (min)
+**
+ Control (n=6)
+ BAPTA (n=7) -100
+-50
+0
+50
+100
+% change
+Control
+BAPTA
+-100
+-50
+0
+50
+100
+% change
+Control
+BAPTA
+20 ms
+ 100 pA
+ Baseline
+ Post-tetanization
+1 Hz LTD protocol
+100 Hz LTD protocol
+Control
+BAPTA
+Control
+BAPTA
+A
+B
+20 ms
+ 100 pA
+Fig. 2. In the low- and high-frequency activation range, BAPTA reverses LTD
+toward LTP. (A) Application of the 1-Hz LTD protocol results in LTP when
+BAPTA (20 mM) is added to the pipette saline. (Left) Time graph showing that
+LTD is induced under control conditions (n = 6), but LTP is induced in the
+presence of BAPTA (n = 6). (Center) Traces show EPSCs before and after tetanization. (Right) Individual cell data (t = 31–35 min). (B) Application of the
+100-Hz LTD protocol results in LTP when BAPTA (5 mM) is added to the pipette
+saline. (Left) Time graph showing LTD under control conditions (n = 6) and LTP
+in the presence of BAPTA (n = 7). (Center) Typical traces. (Right) Individual cell
+data. Arrows indicate tetanization. Error bars indicate SEM. **P < 0.01.
+Piochon et al. PNAS | November 15, 2016 | vol. 113 | no. 46 | 13223
+NEUROSCIENCE
+t = 36–40 min, n = 6, P = 0.041; 100 Hz: 138.3 ± 12.4%, n = 7, P =
+0.021; Fig. 4). These results are significantly different from the
+respective LTD measures in WT controls (same as reported for the
+TT305/6VA mice; 1-Hz group: P = 0.0019; 100-Hz group: P =
+0.0027). LTP induction was not affected in T305D mice [1-Hz LTP:
+136.3 ± 12.3%, n = 5, P = 0.018 compared with WT (P = 0.123);
+100-Hz LTP: 134.0 ± 9.6, n = 6, P = 0.017 compared with WT (P =
+0.93); Fig. S5]. These results suggest that high-frequency PF activation
+causes CaMKII phosphorylation at Thr305/306, which blocks LTD
+induction despite calcium levels above the threshold for 1-Hz LTD.
+CF coactivation prevents inhibitory autophosphorylation and
+restores LTD. However, LTD is not induced when CaMKII is
+inactivated in a phosphomimetic mutant, which demonstrates the
+existence of one (rather than multiple) threshold(s) for LTD induction that is regulated by the availability of CaMKII for activation.
+Discussion
+The observation that CF signaling promotes LTD regardless of
+large variations in calcium signaling at different activation frequencies sheds light on the importance of instructive signals in
+bidirectional plasticity and the way they operate. Our data show
+that the LTD threshold slides, enabling the instructive CF signal
+to operate over a wide frequency range by providing, at a given
+frequency, a spine calcium transient that is higher than in the
+absence of this signal (Fig. 5). The observation that the difference in the calcium signal amplitude caused by the switch in
+activation frequency is larger than the difference resulting from
+CF coactivation (Fig. 1) leads to the question of whether CF
+activity indeed promotes LTD by amplifying calcium transients,
+or whether it contributes other signaling factors that trigger the
+switch toward LTD. For example, CF activity results in the release of corticotropin-releasing factor, which promotes LTD at
+PF and CF synapses by activation of PKC (33, 34). In addition, in
+the mature cerebellum, CF stimulation recruits a specific calcium
+source that is not available at PF synapses, postsynaptically located NMDA receptors (7, 35, 36). It is conceivable that these
+CF-specific signaling components contribute to LTD. However,
+the BAPTA experiments demonstrate that a critical factor in the
+switch from LTP to LTD is the local calcium signal amplitude,
+which is significantly enhanced upon CF coactivation. A critical
+prediction of this conclusion is that strong PF activation can
+induce LTD in the absence of CF coactivation. This replacement
+effect has indeed been demonstrated (37, 38, also ref. 39), suggesting that strong calcium influx, regardless of synaptic origin,
+promotes LTD but that CF activity facilitates the induction
+process by amplifying calcium transients.
+The concept of synaptic modification under control of postsynaptic activity thresholds was introduced in the Bienenstock–
+Cooper–Munro (BCM) theory, which was originally developed
+as a model for developmental plasticity in the visual cortex (8). A
+key assumption of the BCM theory is that the modification
+threshold θM, which marks the level of postsynaptic activity at
+which the polarity of synaptic plasticity changes from depression
+to potentiation, is not fixed but, instead, may slide as a function
+of synaptic activation history. Our data show that in the lowfrequency stimulus range, the [Ca2+]i threshold for LTD induction is ≤0.4 μM, whereas in the high-frequency range, it is
+>3 μM. These values fall into the range of [Ca2+]i amplitudes
+that have been reported as triggering LTD induction in the absence of synaptic activation (40, 41). Thus, these data demonstrate that the shift in the LTD threshold upon high-frequency
+synaptic activation is a process that prevents the LTD that would
+otherwise take place at the same [Ca2+]i levels. Previous reports
+have assigned a key role for such threshold shifts to CaMKII. It
+has been shown that CaMKII autophosphorylation at Thr286
+shifts the threshold for hippocampal LTP to the right, thus facilitating LTD at potentiated synapses (42, also ref. 43). Moreover, it has been demonstrated that priming-induced Thr305/306
+phosphorylation prevents subsequent LTP induction (32). In
+these examples, threshold shifts follow prior synaptic activity;
+thus, they constitute forms of metaplasticity as predicted by the
+BCM rule. The threshold shift described here does not constitute
+a classic form of metaplasticity [i.e., “plasticity of synaptic plasticity” (44)], because the LTD threshold does not shift as a
+consequence of activity that occurred before stimulus protocol
+application and separated by an activity-free interval from it but,
+instead, results exclusively from sensing enhanced calcium levels
+200
+150
+100
+50
+0
+PF-EPSC (% of baseline)
+10 20 30 40
+Time (min)
+**
+ Wild-type (n=6)
+ T305D (n=7)
+200
+150
+100
+50
+0
+PF-EPSC (% of baseline)
+10 20 30 40
+Time (min)
+**
+ Wild-type (n=8)
+ T305D (n=6)
+-100
+-50
+0
+50
+100
+% change
+Wild-type
+T305D
+-100
+-50
+0
+50
+100
+% change
+Wild-type
+T305D
+Wild-type
+T305D
+Wild-type
+T305D
+1 Hz LTD protocol
+100 Hz LTD protocol
+A
+B
+20 ms 100 pA
+ Baseline
+ Post-tetanization
+20 ms 100 pA
+Fig. 4. LTD is prevented in T305D mice, in which Thr305 replacement by Asp
+mimics constitutive inhibitory CaMKII autophosphorylation. (A, Left) Time
+graph showing that 1-Hz PF + CF activation induces LTD in WT mice (n = 8), but
+LTP in T305D mice (n = 6). (A, Center) Typical traces show EPSCs before and
+after application of the 1-Hz LTD protocol in WT mice (Top) and T305D mice
+(Bottom). (A, Right) Individual cell data (t = 36–40 min). (B, Left) Time graph
+showing that 100-Hz PF burst + CF activation induces LTD in WT mice (n = 6),
+but LTP in T305D mice (n = 7). (B, Center) Typical traces show EPSCs before and
+after application of the 100-Hz LTD protocol in WT mice (Top) and T305D mice
+(Bottom). (B, Right) Individual cell data. Error bars indicate SEM. **P < 0.01.
+200
+150
+100
+50
+0
+PF-EPSC (% of baseline)
+10 20 30 40
+Time (min)
+ Wild-type (n=7)
+ TT305/6VA (n=8)
+200
+150
+100
+50
+0
+PF-EPSC (% of baseline)
+10 20 30 40
+Time (min)
+**
+ Wild-type (n=12)
+ TT305/6VA (n=15)
+-100
+-50
+0
+50
+100
+% change
+Wild-type
+TT305/6VA
+-100
+-50
+0
+50
+100
+% change
+Wild-type
+TT305/6VA
+20 ms
+ 100 pA
+0.200.24
+s
+20 ms
+ 100 pA
+ Baseline
+ Post-tetanization
+0.200.24
+s
+Wild-type
+TT305/6VA
+Wild-type
+TT305/6VA
+1 Hz LTP protocol
+100 Hz LTP protocol
+A
+B
+Fig. 3. LTP induced by 100-Hz PF burst stimulation, but not 1-Hz PF stimulation, is prevented in mice that express CaMKII and cannot undergo
+Thr305/306 phosphorylation. (A, Left) Time graph showing that 1-Hz PF
+stimulation induces LTP in WT mice (n = 7) and TT305/6VA mice (n = 8). The
+arrow indicates time of tetanization. (A, Center) Typical traces show EPSCs
+before and after tetanization in WT mice (Top) and TT305/6VA mice (Bottom). (A, Right) Individual cell data (t = 36–40 min). (B, Left) Time graph
+showing that 100-Hz PF burst stimulation induces LTP in WT mice (n = 12),
+but LTD in TT305/6VA mice (n = 15). (B, Center) Typical traces show EPSCs
+before and after tetanization in WT (Top) and TT305/6VA mice (Bottom). (B,
+Right) Individual cell data. Error bars indicate SEM. **P < 0.01.
+13224 | www.pnas.org/cgi/doi/10.1073/pnas.1613897113 Piochon et al.
+during stimulus application. Our finding that application of the
+high-frequency LTP protocol in TT305/6VA mice induces LTD
+instead, whereas the same polarity switch is not observed when
+using the low-frequency LTP protocol, suggests that inhibitory
+autophosphorylation of CaMKII selectively occurs upon highfrequency PF stimulation but is overcome by CF coactivation. Not
+much is known about the biochemical requirements for Thr305/
+306 autophosphorylation or its prevention. It has been shown
+that Thr305/306 autophosphorylation requires Ca/CaM binding to
+CaMKII and subsequent dissociation (31). A possible, but not
+experimentally tested, scenario is that repeated 100-Hz PF bursts
+provide the calcium influx required for Ca/CaM binding to CaMKII,
+but that during the pauses between the bursts, which last almost 1 s,
+CaM dissociates from CaMKII, allowing inhibitory phosphorylation
+to take place. Single PF pulses (1-Hz LTP protocol) do not seem to
+provide sufficient calcium to trigger Ca/CaM binding to CaMKII.
+Conversely, the larger calcium transient that results from paired
+100-Hz PF burst + CF activation might provide sufficient calcium
+to prevent CaM dissociation, thus allowing CaMKII to remain in
+the activated state.
+The frequency-dependent calcium threshold shift described here
+might also explain why it has been difficult to confirm the existence
+of distinct calcium thresholds for LTD and LTP induction using
+photolysis of caged calcium compounds (40, 45). In the absence of
+synaptic activity, the thresholds might assume different, possibly
+overlapping, values, and additional parameters, such as the involvement of specific calcium sources/sensors, might gain importance. The latter possibility has been demonstrated in cortical
+pyramidal cells, in which larger calcium transients are needed for
+LTP than for LTD induction, but activation of metabotropic glutamate receptors provides a switch for LTD. Blockade of this switch
+allows for LTP induction if the calcium signals reach the higher
+LTP threshold (14). An important aspect of calcium amplitude
+thresholds is that they can vary with the duration of calcium exposure. Using calcium uncaging experiments, for example, it has
+been shown that lower calcium amplitudes are sufficient for cerebellar LTD induction if they are presented for longer periods of
+time (40). Note that our data do not contradict this “leaky integrator” model. Rather, we kept the overall duration of the tetanization period constant (all stimulus patterns were applied at
+1 Hz for 5 min) to study the shift in LTP/LTD induction probabilities that specifically results from a variation in the synaptic
+activation frequency alone. A consequence of calcium thresholds
+that shift depending on stimulus conditions, such as variations in
+duration or frequency, is that threshold values do not generalize,
+but only apply to very specific activation conditions. For this reason,
+we only report peak [Ca2+
+]i values for protocol-typical individual
+stimuli (Fig. 5), but otherwise describe relations between threshold
+amplitudes. Our findings have important implications for the control of activity-dependent synaptic plasticity by dendritic calcium
+transients. The study identifies a fundamental problem that synapses have to solve when enabling LTD and LTP under control of
+an instructive signal, but independent of the induction frequency:
+Spine calcium transients reach different amplitudes at different
+activation frequencies. At PF-Purkinje cell synapses, this problem is
+solved by a shift of the LTD threshold upon Thr305/306 phosphorylation of CaMKII, allowing for LTD/LTP induction independent of absolute calcium levels, but under control of relative
+calcium thresholds.
+Materials and Methods
+Animals. All procedures were performed in accordance with the guidelines of
+the University of Chicago’s Animal Care and Use Committee. Experiments
+were performed using P21-75 mice (C57BL/6). In some experiments, we used
+P21-75 TT305/6VA or T305D mutant mice and WT littermate controls, which
+are also in a congenic C57BL/6 background (27).
+Slice Preparation. Animals were anesthetized with isoflurane and decapitated. The cerebellar vermis was removed and cooled in artificial cerebrospinal fluid (ACSF) containing 124 mM NaCl, 5 mM KCl, 1.25 mM Na2HPO4,
+2 mM CaCl2, 2 mM MgSO4, 26 mM NaHCO3, and 10 mM D-glucose, bubbled
+with 95% (vol%) O2 and 5% (vol%) CO2. Parasagittal slices of the cerebellar
+vermis (200 μm) were prepared using a Leica VT-1000S vibratome, and were
+subsequently kept for at least 1 h at room temperature in oxygenated ACSF.
+Throughout recording, slices were perfused with ACSF that was supplemented with picrotoxin (100 μM) to block GABAA receptors.
+Whole-Cell Patch-Clamp Recordings. Patch-clamp recordings from the Purkinje
+cell soma were performed at room temperature using an EPC-10 amplifier
+(HEKA Electronics). Currents were filtered at 3 kHz, digitized at 25 kHz, and
+acquired using Patchmaster software (HEKA Electronics). Patch pipettes (2–5 MΩ)
+were filled with a solution containing 9 mM KCl, 10 mM KOH, 120 mM
+K-gluconate, 3.48 mM MgCl2, 10 mM Hepes, 4 mM NaCl, 4 mM Na2ATP,
+0.4 mM Na3GTP, and 17.5 mM sucrose (osmolarity: 295–305 mmol/kg,
+pH 7.25). In two groups of experiments, 5 and 20 mM BAPTA (tetrapotassium salt) was added to the internal saline. In the BAPTA experiments, CaCl2
+was added (2.5 and 10 mM) to maintain the resting calcium concentration
+(46). To evoke synaptic responses, PFs and CFs were activated using glass electrodes filled with ACSF. In the LTD and LTP experiments (Figs. 2–4 and Figs.
+S3–S5), test responses were recorded in voltage-clamp mode before and
+after application of the induction protocol at a frequency of 0.05 Hz. Tetanization was applied in current-clamp mode. Series and input resistances
+were monitored by applying hyperpolarizing voltage steps (−10 mV) at the
+end of each sweep. Recordings were excluded if series or input resistances
+varied by >15% over the course of the experiments.
+Confocal Calcium Imaging. Calcium transients were monitored using a Zeiss
+LSM 5 Exciter confocal microscope equipped with a 63× Apochromat objective (Carl Zeiss MicroImaging). Calcium signals were calculated as ΔG/R =
+(G(t) − G0)/R (22), where G is the calcium-sensitive fluorescence (G0 = baseline signal) of either OGB-2 (200 μM), Fluo-5F (300 μM), or OGB-5N (300 μM)
+and R is the calcium-insensitive fluorescence of Alexa 633 (30 μM). Using
+G/R values from the Fluo-5F measurements, peak [Ca2+]i was estimated by
+calculating (22)
+
+Ca2+
+i =KdðG=R− G=RminÞ=ðG=Rmax − G=RÞ,
+which is analogous to the equation (47)
+
+Ca2+
+i =KdðR−RminÞ=ðRmax −RÞ,
+where R is the ratio of the fluorescence intensities F1 and F2 of a dualwavelength indicator (e.g., fura-2) at excitation wavelengths λ1 and λ2, respectively. For Fluo-5F, G/Rmax (1.57) was measured in dye-filled Purkinje
+cells. To obtain maximal calcium signal amplitudes, the CF input was tetanized at 100 Hz in ACSF containing 4 mM CaCl2. G/Rmin (0.0026) was
+A B
+Fig. 5. Sliding plasticity thresholds and role of CaMKII inhibitory autophosphorylation. (A) Schematic presents a model of the relationship between calcium amplitudes and LTD/LTP as assessed in this study (the dashed
+lines indicate that possible LTP thresholds were not investigated). The
+numbers below show approximations of peak [Ca2+]i values, which were
+calculated from ΔG/R measures recorded at each stimulus condition. Note
+that these peak values were determined from individual protocol-typical
+stimuli, and not from complete stimulus trains (Fig. S6). [Ca2+]i values are not
+presented for the low-amplitude signals (N.D.), because no reliable measures
+above noise could be obtained with the low-affinity indicator Fluo-5F.
+(B) Diagram showing the role of CaMKII in LTD induction. CaMKII indirectly
+promotes LTD (dashed arrow) by negative regulation of phosphodiesterase
+1 (PDE1), and the resulting facilitation of a cGMP/protein kinase G (PKG)
+cascade, which ultimately removes a blockade of LTD induction pathways by
+protein phosphatase 2A (PP2A) (also ref. 30). Inhibitory autophosphorylation
+of CaMKII at Thr305/306 may disable this negative regulation of PP2A.
+Piochon et al. PNAS | November 15, 2016 | vol. 113 | no. 46 | 13225
+NEUROSCIENCE
+determined in cuvettes using a solution containing 0 mM [Ca2+
+], supplemented
+with 10 mM K2EGTA. The Kd values for all dyes were determined using cuvette
+measurements of solutions prepared from a calcium calibration buffer kit
+(Molecular Probes). The green fluorescence G resulted from excitation at 488 nm
+using an argon laser. The red fluorescence R resulted from excitation at 633 nm
+using a HeNe laser (both from Lasos Lasertechnik). Purkinje cells were loaded
+with the dyes through diffusion from the patch pipette. The experiments were
+performed at room temperature and were initiated after the fluorescence at the
+selected dendritic ROI reached a steady-state level, which typically required
+≥30 min. In each recording, the ROI was the spine on a secondary (or higher
+order) dendritic branch in the field of view close to the stimulus electrode that
+responded maximally to synaptic activation. The maximally responding spine
+was selected to ensure comparability between the calcium measures in different
+neurons. The strategy to focus on protocol-typical stimulus units, rather than
+measuring calcium levels during the entire tetanization period (5 min), was
+chosen to be able to test all four stimulus conditions in the same Purkinje cell.
+This strategy would not be possible with the application of complete protocols,
+which trigger either LTD or LTP, and would thus affect subsequent measures.
+This approach is validated in control experiments (Fluo-5F) that show there is
+no calcium build-up between stimuli over the course of 5-min periods of
+tetanization, not even when the high-frequency LTD protocol is applied (Fig. S6).
+Image acquisition was restricted to the first 2 s of each beginning minute of
+ongoing stimulation to reduce the amount of phototoxicity. This strategy
+allowed us to monitor baseline and peak calcium levels during tetanization
+while minimizing transient calcium build-up that may result from prolonged
+light exposure [compare with studies that focused on capturing the complete
+calcium profile during ongoing tetanization (48, 49)]. Our recordings show that
+under these imaging conditions, baseline calcium levels do not plateau.
+Data Analysis. Data were analyzed using Patchmaster software (HEKA Electronics) and Igor Pro software (Wavemetrics). Imaging data were analyzed
+using ZEN software (Carl Zeiss MicroImaging). Statistical significance was
+determined by using the paired Student’s t test (within-group comparison of
+paired events) and the Mann–Whitney U test (between-group comparison),
+when appropriate. All data are shown as mean ± SEM.
+ACKNOWLEDGMENTS. We thank N. Brunel, S. Dieudonné, and J. MacLean
+for helpful discussions and P. Vezina and Q. Wang for technical support and
+advice. This work was supported by National Institute of Neurological Disorders and Stroke Grant NS062771 (to C.H.).
+1. Dudek SM, Bear MF (1992) Homosynaptic long-term depression in area CA1 of hippocampus and effects of N-methyl-D-aspartate receptor blockade. Proc Natl Acad Sci
+USA 89(10):4363–4367.
+2. Artola A, Bröcher S, Singer W (1990) Different voltage-dependent thresholds for inducing long-term depression and long-term potentiation in slices of rat visual cortex.
+Nature 347(6288):69–72.
+3. Mulkey RM, Malenka RC (1992) Mechanisms underlying induction of homosynaptic
+long-term depression in area CA1 of the hippocampus. Neuron 9(5):967–975.
+4. Cummings JA, Mulkey RM, Nicoll RA, Malenka RC (1996) Ca2+ signaling requirements
+for long-term depression in the hippocampus. Neuron 16(4):825–833.
+5. Ngezahayo A, Schachner M, Artola A (2000) Synaptic activity modulates the induction
+of bidirectional synaptic changes in adult mouse hippocampus. J Neurosci 20(7):
+2451–2458.
+6. Coesmans M, Weber JT, De Zeeuw CI, Hansel C (2004) Bidirectional parallel fiber
+plasticity in the cerebellum under climbing fiber control. Neuron 44(4):691–700.
+7. Piochon C, Levenes C, Ohtsuki G, Hansel C (2010) Purkinje cell NMDA receptors assume
+a key role in synaptic gain control in the mature cerebellum. J Neurosci 30(45):
+15330–15335.
+8. Bienenstock EL, Cooper LN, Munro PW (1982) Theory for the development of neuron
+selectivity: Orientation specificity and binocular interaction in visual cortex. J Neurosci
+2(1):32–48.
+9. Bear MF, Cooper LN, Ebner FF (1987) A physiological basis for a theory of synapse
+modification. Science 237(4810):42–48.
+10. Hansel C, Artola A, Singer W (1997) Relation between dendritic Ca2+ levels and
+the polarity of synaptic long-term modifications in rat visual cortex neurons. Eur J
+Neurosci 9(11):2309–2322.
+11. Graupner M, Brunel N (2012) Calcium-based plasticity model explains sensitivity of
+synaptic changes to spike pattern, rate, and dendritic location. Proc Natl Acad Sci USA
+109(10):3991–3996.
+12. Sabatini BL, Oertner TG, Svoboda K (2002) The life cycle of Ca(2+) ions in dendritic
+spines. Neuron 33(3):439–452.
+13. Franks KM, Sejnowski TJ (2002) Complexity of calcium signaling in synaptic spines.
+BioEssays 24(12):1130–1144.
+14. Nevian T, Sakmann B (2006) Spine Ca2+ signaling in spike-timing-dependent plasticity. J Neurosci 26(43):11001–11013.
+15. Lev-Ram V, Wong ST, Storm DR, Tsien RY (2002) A new form of cerebellar long-term
+potentiation is postsynaptic and depends on nitric oxide but not cAMP. Proc Natl
+Acad Sci USA 99(12):8389–8393.
+16. Schonewille M, et al. (2010) Purkinje cell-specific knockout of the protein phosphatase PP2B impairs potentiation and cerebellar motor learning. Neuron 67(4):618–628.
+17. Wang SS-H, Denk W, Häusser M (2000) Coincidence detection in single dendritic
+spines mediated by calcium release. Nat Neurosci 3(12):1266–1273.
+18. Ito M, Kano M (1982) Long-lasting depression of parallel fiber-Purkinje cell transmission induced by conjunctive stimulation of parallel fibers and climbing fibers in the
+cerebellar cortex. Neurosci Lett 33(3):253–258.
+19. Ito M, Sakurai M, Tongroach P (1982) Climbing fibre induced depression of both
+mossy fibre responsiveness and glutamate sensitivity of cerebellar Purkinje cells.
+J Physiol 324:113–134.
+20. Piochon C, Kruskal P, Maclean J, Hansel C (2013) Non-Hebbian spike-timing-dependent
+plasticity in cerebellar circuits. Front Neural Circuits 6:124.
+21. Canepari M, Vogt KE (2008) Dendritic spike saturation of endogenous calcium buffer
+and induction of postsynaptic cerebellar LTP. PLoS One 3(12):e4011.
+22. Yasuda R, et al. (2004) Imaging calcium concentration dynamics in small neuronal
+compartments. Sci STKE 2004(219):pl5.
+23. Konnerth A, Dreessen J, Augustine GJ (1992) Brief dendritic calcium signals initiate
+long-lasting synaptic depression in cerebellar Purkinje cells. Proc Natl Acad Sci USA
+89(15):7051–7055.
+24. Safo PK, Regehr WG (2005) Endocannabinoids control the induction of cerebellar
+LTD. Neuron 48(4):647–659.
+25. Belmeguenai A, Hansel C (2005) A role for protein phosphatases 1, 2A, and 2B in
+cerebellar long-term potentiation. J Neurosci 25(46):10768–10772.
+26. Jörntell H, Hansel C (2006) Synaptic memories upside down: Bidirectional plasticity at
+cerebellar parallel fiber-Purkinje cell synapses. Neuron 52(2):227–238.
+27. Elgersma Y, et al. (2002) Inhibitory autophosphorylation of CaMKII controls PSD association, plasticity, and learning. Neuron 36(3):493–505.
+28. Hansel C, et al. (2006) alphaCaMKII is essential for cerebellar LTD and motor learning.
+Neuron 51(6):835–843.
+29. van Woerden GM, et al. (2009) betaCaMKII controls the direction of plasticity at
+parallel fiber-Purkinje cell synapses. Nat Neurosci 12(7):823–825.
+30. Kawaguchi SY, Hirano T (2013) Gating of long-term depression by Ca2+/calmodulindependent protein kinase II through enhanced cGMP signalling in cerebellar Purkinje
+cells. J Physiol 591(7):1707–1730.
+31. Coultrap SJ, Bayer KU (2012) CaMKII regulation in information processing and storage. Trends Neurosci 35(10):607–618.
+32. Zhang L, et al. (2005) Hippocampal synaptic metaplasticity requires inhibitory
+autophosphorylation of Ca2+/calmodulin-dependent kinase II. J Neurosci 25(33):
+7697–7707.
+33. Miyata M, Okada D, Hashimoto K, Kano M, Ito M (1999) Corticotropin-releasing
+factor plays a permissive role in cerebellar long-term depression. Neuron 22(4):
+763–775.
+34. Schmolesky MT, De Ruiter MM, De Zeeuw CI, Hansel C (2007) The neuropeptide
+corticotropin-releasing factor regulates excitatory transmission and plasticity at the
+climbing fibre-Purkinje cell synapse. Eur J Neurosci 25(5):1460–1466.
+35. Piochon C, et al. (2007) NMDA receptor contribution to the climbing fiber response in
+the adult mouse Purkinje cell. J Neurosci 27(40):10797–10809.
+36. Renzi M, Farrant M, Cull-Candy SG (2007) Climbing-fibre activation of NMDA receptors in Purkinje cells of adult mice. J Physiol 585(Pt 1):91–101.
+37. Hartell NA (1996) Strong activation of parallel fibers produces localized calcium
+transients and a form of LTD that spreads to distant synapses. Neuron 16(3):601–610.
+38. Han VZ, Zhang Y, Bell CC, Hansel C (2007) Synaptic plasticity and calcium signaling
+in Purkinje cells of the central cerebellar lobes of mormyrid fish. J Neurosci 27(49):
+13499–13512.
+39. Ke MC, Guo CC, Raymond JL (2009) Elimination of climbing fiber instructive signals
+during motor learning. Nat Neurosci 12(9):1171–1179.
+40. Tanaka K, et al. (2007) Ca2+ requirements for cerebellar long-term synaptic depression: Role for a postsynaptic leaky integrator. Neuron 54(5):787–800.
+41. Nakamura Y, Hirano T (2016) Intracellular Ca(2+) thresholds for induction of excitatory long-term depression and inhibitory long-term potentiation in a cerebellar
+Purkinje neuron. Biochem Biophys Res Commun 469(4):803–808.
+42. Mayford M, Wang J, Kandel ER, O’Dell TJ (1995) CaMKII regulates the frequencyresponse function of hippocampal synapses for the production of both LTD and LTP.
+Cell 81(6):891–904.
+43. Bear MF (1995) Mechanism for a sliding synaptic modification threshold. Neuron
+15(1):1–4.
+44. Abraham WC, Bear MF (1996) Metaplasticity: The plasticity of synaptic plasticity.
+Trends Neurosci 19(4):126–130.
+45. Neveu D, Zucker RS (1996) Postsynaptic levels of [Ca2+]i needed to trigger LTD and
+LTP. Neuron 16(3):619–629.
+46. Dzubay JA, Otis TS (2002) Climbing fiber activation of metabotropic glutamate receptors on cerebellar purkinje neurons. Neuron 36(6):1159–1167.
+47. Grynkiewicz G, Poenie M, Tsien RY (1985) A new generation of Ca2+ indicators with
+greatly improved fluorescence properties. J Biol Chem 260(6):3440–3450.
+48. Eilers J, Takechi H, Finch EA, Augustine GJ, Konnerth A (1997) Local dendritic Ca2+
+signaling induces cerebellar long-term depression. Learn Mem 4(1):159–168.
+49. Schmidt H, Arendt O, Eilers J (2012) Diffusion and extrusion shape standing calcium
+gradients during ongoing parallel fiber activity in dendrites of Purkinje neurons.
+Cerebellum 11(3):694–705.
+13226 | www.pnas.org/cgi/doi/10.1073/pnas.1613897113 Piochon et al.

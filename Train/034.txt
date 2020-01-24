@@ -1,0 +1,2077 @@
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+Molecular and electrophysiological evidence for net
+synaptic potentiation in wake and depression in sleep
+Vladyslav V Vyazovskiy1,3, Chiara Cirelli1,3, Martha Pfister-Genskow1, Ugo Faraguna1,2 & Giulio Tononi1
+Plastic changes occurring during wakefulness aid in the acquisition and consolidation of memories. For some memories, further
+consolidation requires sleep, but whether plastic processes during wakefulness and sleep differ is unclear. We show that, in rat
+cortex and hippocampus, GluR1-containing AMPA receptor (AMPAR) levels are high during wakefulness and low during sleep,
+and changes in the phosphorylation states of AMPARs, CamKII and GSK3b are consistent with synaptic potentiation during
+wakefulness and depression during sleep. Furthermore, slope and amplitude of cortical evoked responses increase after
+wakefulness, decrease after sleep and correlate with changes in slow-wave activity, a marker of sleep pressure. Changes in
+molecular and electrophysiological indicators of synaptic strength are largely independent of the time of day. Finally, cortical
+long-term potentiation can be easily induced after sleep, but not after wakefulness. Thus, wakefulness appears to be associated
+with net synaptic potentiation, whereas sleep may favor global synaptic depression, thereby preserving an overall balance of
+synaptic strength.
+
+The brain is remarkably plastic, and plastic changes occur not only
+as a result of experience and learning, but even in response to
+variations in spontaneous activity1,2. Persistent plastic changes in
+neural circuits, such as long-term potentiation (LTP) and depression
+(LTD) of synaptic strength, involve a complex series of molecular
+and cellular mechanisms, including receptor delivery and phosphorylation. These changes are associated in turn with an increased
+or decreased efficacy of synapses, as measured by the strength of
+postsynaptic currents3.
+In principle, synaptic potentiation and depression could occur in
+parallel, ensuring that total synaptic strength remains balanced at all
+times. Indeed, large imbalances, especially in the direction of potentiation, could be detrimental because of known constraints related to
+energy, space, cellular supplies and saturation of the ability to learn4,5.
+Alternatively, a homeostasis of synaptic strength could be maintained
+over time by alternating phases of predominant potentiation with
+phases of predominant depression. It was suggested recently that, at
+least in adult animals, waking plasticity may be associated preferentially
+with net synaptic potentiation in the cerebral cortex and other brain
+regions, whereas sleep, especially non–rapid eye movement (NREM)
+sleep, would redress the balance by favoring global synaptic depression
+or downscaling5. However, this possibility has not been tested directly.
+Moreover, several learning studies that showed performance improvements after sleep have prompted the idea that sleep may favor the
+strengthening of neural circuits that are activated during the prior
+waking period6,7. Thus, it is currently a matter of great interest whether
+plastic processes during waking and sleep differ, and if so, in which way.
+Here we provide molecular and electrophysiological evidence in rats
+
+suggesting that periods of wakefulness are associated with a net increase
+in cortical synaptic strength and periods of sleep are associated with
+a net decrease.
+RESULTS
+GluR1-containing AMPAR levels
+To shed light on these issues, we employed a combined molecular and
+electrophysiological approach. At the molecular level, the best established mechanism for the expression of LTP and LTD involves the
+trafficking of postsynaptic glutamatergic AMPARs containing the
+GluR1 subunit8,9. The delivery of these receptors to excitatory synapses
+is associated with increases in synaptic strength, whereas their removal
+from synapses is associated with synaptic depression8,9. These changes
+have been recently described in vivo in the cerebral cortex, hippocampus
+and amygdala, where they can be triggered by learning and natural
+experience10–14. More specifically, recent in vivo studies have shown that
+LTP and learning are associated with the delivery of AMPARs to synaptoneurosomes, a preparation that enriches for synaptic proteins,
+whereas LTD is associated with their removal10,15. To compare the
+density of GluR1-containing AMPARs between sleep and wakefulness,
+we implanted adult rats with bipolar concentric local field potential
+(LFP) electrodes for chronic polysomnographic recordings and assigned
+them to the waking group if they remained spontaneously awake for
+475% of the first 6 h of the dark period (Fig. 1a; see Methods). Other
+rats were assigned to the sleep group if they remained asleep for 475%
+of the first 6 h of the light period (Fig. 1a). We measured protein levels
+of GluR1-containing AMPARs in the cerebral cortex by western blot in
+both total homogenates and cortical synaptoneurosomes (Fig. 1b). The
+
+1Department of Psychiatry, University of Wisconsin-Madison, 6001 Research Park Blvd., Madison, Wisconsin 53719, USA. 2Scuola Superiore S. Anna, Via Giosue’ Carducci
+
+40, 56127 Pisa, Italy. 3These authors contributed equally to this work. Correspondence should be addressed to C.C. (ccirelli@wisc.edu) or G.T. (gtononi@wisc.edu).
+Received 9 October 2007; accepted 10 December 2007; published online 20 January 2008; doi:10.1038/nn2035
+
+200
+
+VOLUME 11
+
+[
+
+NUMBER 2
+
+[
+
+FEBRUARY 2008 NATURE NEUROSCIENCE
+
+phosphorylation at Ser831 (refs. 10,18), which enhances single-channel
+conductance8. Compared with the sleeping group, the waking group
+showed increased absolute levels of GluR1 phosphorylation at Ser831
+(63 ± 11%, P ¼ 0.0001; Fig. 1b), whereas the relative levels (normalized
+to total GluR1) did not change (20 ± 15%, P ¼ 0.77). Ser831 is a
+substrate for calcium/calmodulin-dependent protein kinase II (CaMKII), and increased levels of CaMKII and CamKII phosphorylation at
+Thr286 are also associated with synaptic potentiation and LTP, both
+in vitro and in vivo19. Compared with the sleeping group, the waking
+group showed increased levels of CamKII that was phosphorylated at
+Thr286 (39 ± 13%, P ¼ 0.016; Fig. 1b), whereas the increase in total
+CamKII protein levels did not reach significance (waking, 16 ± 10% of
+sleeping, P ¼ 0.34). Consistent with previous studies16, we also found
+that waking animals had higher levels of BDNF, Arc, NGFI-A and PCREB, which are usually associated in vivo with LTP (data not shown).
+
+entire left cortical hemisphere was sampled, as we found in previous
+experiments that, when rats wake up, the expression of activitydependent, plasticity-related genes such as Fos, Egr1 (also known as
+Ngfi-A), Arc, phosphorylated Creb1 and Bdnf increase over most cortical
+regions, including frontal, parietal, temporal and occipitals areas16.
+Compared with the sleep group, the waking group showed a nearly
+50% increase in total GluR1 levels in synaptoneurosomes (46 ± 12%,
+mean ± s.e.m., paired t-test, P ¼ 0.0015; Fig. 1b). In contrast, no
+changes were observed in total homogenates between sleeping and
+waking animals in cortical GluR1 levels (data not shown), which is
+consistent with previous reports in vivo (for example, see refs. 10,15).
+For this reason, all of the remaining western blots were run in synaptoneurosomes. Protein levels of glutamatergic NMDA NR2A subunits,
+which can promote surface expression of GluR1-containing AMPARs17,
+also showed a trend toward higher values in the waking group (Fig. 1b).
+The net increase of GluR1-containing
+AMPARs shown here is similar in magnitude
+to increases triggered by learning and plastia
+city procedures in vivo10–13,15. This suggests
+that, on average, cortical glutamatergic
+synapses may be stronger after periods of
+wakefulness and weaker after periods of sleep.
+
+W
+Waking
+NREM sleep
+REM sleep
+
+S
+
+b
+
+S1
+
+NATURE NEUROSCIENCE VOLUME 11
+
+[
+
+12
+
+18
+
+W1 S2 W2
+
+S1 W1
+2A
+
+lgY
+
+lgY
+
+**
+
+160
+140
+120
+100
+80
+60
+–
+S
+
+CamKII-P
+
+Percentage of S
+
+Tubulin
+PSD-95
+
+NR2A
+
+R1
+
+Percentage of S
+
+H Sn
+
+S1 W1
+
+lgY
+P = 0.09
+
+160
+140
+120
+100
+80
+60
+–
+
+W
+
+S1 W1
+
+S
+
+W
+
+S
+
+Ser845-P/GluR1
+
+S2 W2
+
+S1 W1 S2 W2
+
+S1 W1
+
+R1
+
+lgY
+
+W
+
+W
+
+c
+
+110
+100
+90
+80
+70
+60
+–
+
+S
+
+*
+
+W
+
+GluR1
+S1 W1 S2
+
+S1
+
+W2
+
+S1
+
+W1
+
+S2 W2
+
+S1
+831
+
+lgY
+
+lgY
+
+lgY
+
+CamKll-P
+W1 S2 W2
+
+**
+
+S
+
+W
+
+Percentage of S
+
+2A
+
+160
+140
+120
+100
+80
+60
+–
+
+160
+140
+120
+100
+80
+60
+–
+
+*
+
+S
+
+W
+
+160
+140
+120
+100
+80
+60
+–
+
+GSK3-P
+S1 W1 S2 W2
+
+Ser845-P
+S1 W1 S2 W2
+
+S1
+
+GSK3-P
+
+R2
+
+lgY
+
+lgY
+
+lgY
+
+lgY
+
+NUMBER 2
+
+160
+140
+120
+100
+80
+60
+–
+
+[
+
+**
+
+S
+
+W
+
+FEBRUARY 2008
+
+*
+
+W
+
+S
+
+160
+140
+120
+100
+80
+60
+
+*
+
+S
+
+W
+
+Percentage of S
+
+845
+
+Percentage of S
+
+Kll-P
+
+110
+100
+90
+80
+70
+60
+–
+
+S
+
+S2 W2
+
+W
+Ser831-P
+
+R1
+
+Percentage of S
+
+Sn
+
+S
+
+160
+140
+120
+100
+80
+60
+–
+
+NR2A
+
+Percentage of S
+
+S
+
+*
+
+Percentage of S
+
+lgY
+Percentage of W
+
+lgY
+
+Percentage of W
+
+R2
+
+110
+100
+90
+80
+70
+60
+–
+
+W
+GluR2
+
+845
+
+*
+
+**
+
+160
+140
+120
+100
+80
+60
+–
+
+845
+
+160
+140
+120
+100
+80
+60
+–
+
+S2 W2
+
+831
+
+Ser845-P
+
+S2 W2
+
+Ser831-P
+S1 W1
+
+S2 W2
+
+KII-P
+
+Percentage of S
+
+Figure 1 Molecular correlates of LTP/LTD in
+wakefulness and sleep. (a) Hypnograms from
+representative rats of the two experimental groups
+(S, sleep; W, wakefulness). In this and the
+following figures, the white and black bars
+indicate the light and dark period, respectively.
+Rats are spontaneously asleep for most of the
+light period and awake for most of the dark
+period. The last 6–18 h before killing
+(indicated by an arrow) are shown. (b) Cortical
+synaptoneurosomes (Sns) were prepared from the
+entire left cerebral cortex of each rat. Enrichment
+for synaptic proteins in Sns relative to
+homogenates (H) in one representative rat: tubulin
+levels decreased and PSD-95 levels increased.
+Representative immunoblots and quantification
+of the gels are shown. Values are mean ± s.e.m.
+(n ¼ 9 rats per group). For display purposes,
+S (or W) values are expressed as 100% ± s.e.m.
+of average S (or W). IgY was used as loading
+control. *P o 0.05; **P o 0.01 (paired t-test).
+(c) Sns were prepared from the entire left
+hippocampus of each rat (same animals as in b).
+Immunoblots (1 and 2 represent two different
+representative samples) and quantification
+of the gels are shown. Values are mean ± s.e.m.
+(n ¼ 9 rats per group). *P o 0.05; **P o 0.01
+(paired t-test).
+
+6
+GluR1
+
+Percentage of S
+
+0
+
+Percentage of W
+
+AMPA and CaMKII phosphorylation
+Is the net change in synaptic GluR1-containing
+AMPARs a result of the occurrence of synaptic
+potentiation during waking, the occurrence of
+synaptic depression during sleep or of both
+factors? To shed some light on these possibilities, we studied specific changes in the phosphorylation levels of the GluR1 subunit. These
+changes are known to affect the surface incorporation and the channel properties of
+AMPARs. In vivo, synaptic potentiation is
+usually associated with an increase in GluR1
+
+Percentage of S
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+W1 S2
+
+W2
+
+*
+
+S
+
+W
+
+GluR2
+W1 S2
+
+W2
+
+160
+140
+120
+100
+80
+60
+S
+
+W
+
+201
+
+ARTICLES
+
+a
+
+Figure 2 Electrophysiological correlates of LTP
+Rec.
+Stim.
+and LTD in wakefulness and sleep. (a) Left, setup
+for stimulation and EEG recordings. Right, a
+representative trace of the first component of the
+1 mV
+evoked LFP. (b) Example of the LFPs evoked by
+1 mV
+5 ms
+consecutive stimuli delivered every 10 ms (thick
+10 ms
+vertical bars). (c) Left, hypnogram from one
+representative rat depicting the light-to-dark
+transition. Arrows indicate the timing of LFP
+125
+125
+*
+*
+collection at the beginning of a spontaneous
+100
+100
+0
+4
+8
+12
+75
+75
+waking episode of B4 h (W0) and at its end
+50
+50
+(W1). Inset, individual representative LFPs from
+25
+W1
+W0
+25
+one rat. Right, slope of evoked responses at W0
+W0
+S0
+S1
+1 mV
+0
+S1
+0
+1 mV
+and W1 (always in quiet wakefulness). Values are
+W0 W1
+S0 S1
+5 ms
+5 ms S0
+W1
+mean ± s.e.m. (n ¼ 13, P o 0.05, two-tailed
+paired t-test; each bar is shown as the percentage
+Slope
+Amplitude
+of the mean between the two bars). Percentages
+125
+100
+125
+100
+of behavioral states (mean ± s.e.m.): light period,
+100
+100
+75
+75
+wakefulness ¼ 23.6 ± 1.5, NREM sleep ¼
+75
+75
+50
+50
+60.1 ± 1.5, REM sleep ¼ 15.5 ± 0.9; dark
+50
+50
+25
+25
+period, wakefulness ¼ 80.6 ± 5.4, NREM sleep
+25
+25
+¼ 17.0 ± 4.7, REM sleep ¼ 2.3 ± 0.7. (d) Left,
+0
+0
+0
+0
+0
+≤2
+>2
+0 0.5 1
+2 3–4
+0 0.5 1
+2 3– 4
+0
+≤2
+>2
+representative hypnogram as in c. Evoked
+NREM (h)
+W (h)
+W (h)
+NREM (h)
+responses were collected at the beginning of a
+Amplitude
+spontaneous sleep period (S0) and after a B4-h
+Slope
+130
+150
+period consisting of at least 2 h of NREM sleep
+140
+120
+130
+120
+(S1). Right, mean values (± s.e.m.) of the slope of
+130
+110
+4hW
+120
+120
+LFPs at S0 and S1 expressed as the percentage
+110
+4hW
+100
+110
+Before
+110 Before
+of the mean between S0 and S1 (n ¼ 13).
+100
+90
+100
+90
+r = 0.47
+100
+*P o 0.05, paired two-tailed t-test. Inset,
+80 r = – 0.33
+80
+4hS
+P = 0.0002
+P = 0.0035
+90
+70
+70
+4hS
+individual representative LFPs from one rat. The
+90
+0
+40 80 120 160
+0 50 100 150 200 250
+magnitude of change after waking and after sleep
+80
+80
+NREM (min)
+W (min)
+1st 2nd
+1st 2nd
+1st 2nd
+1st 2nd
+compared with the corresponding 0 h was similar
+(S0 – S1 versus W1 – W0, P ¼ 0.26, unpaired
+t-test). (e) Mean values of the LFP slopes (± s.e.m.) recorded after 0.5, 1, 2 and 3–4 h of continuous wakefulness (n ¼ 12–19 rats per group), and after
+r2 or 42 h of NREM sleep (n ¼ 10–13). Triangles indicate significant differences from the first session (0 h ¼ 100%). (f) Mean values (± s.e.m.) of LFP
+amplitudes recorded after 0.5–4 h of continuous wakefulness and after r2 or 42 h of NREM sleep (same rats as in e). Triangles indicate significant
+differences relative to the first session (0 h ¼ 100%). (g) Mean values (± s.e.m.) of the slope and amplitude of evoked responses before and after 4 h of
+wakefulness (filled circles, n ¼ 13) or 4 h of sleep (open circles, n ¼ 23). LFPs collected during the first (1st, responses 1–20) and the second half (2nd,
+responses 21–40) of each session are plotted separately to show their intrasession stability. Values are percentage changes relative to the average of the first
+and the second half of the ‘before’ session (100%). Triangles indicate significant differences between slopes after wakefulness relative to slopes after sleep
+(P o 0.05, unpaired two-tailed t-test). The increase in slope and amplitude after wakefulness, and their decrease after sleep, showed a significant interaction
+(vigilance state  time point) in a two-way ANOVA (slopes: F value, 19.73, P o 0.001; amplitudes: F value, 6.38, P o 0.05). (h) Left, relationship between
+the slopes of evoked responses and the duration of the preceding period of continuous wakefulness (n ¼ 25 rats). Slopes are expressed as percentage of the
+first session (hour 0) as in e. Right, relationship between the slopes of evoked responses and the amount of NREM sleep during the preceding 3-h period
+(n ¼ 26 rats). The slopes for each time point are expressed as percentages of the mean value between all the time points in each rat. Lines depict a linear
+regression (Pearson correlation).
+
+b
+
+Percentage of mean
+
+Percentage of mean
+
+d
+
+f
+
+Percentage of hour 0
+
+Percentage of hour 0
+
+e
+
+h
+
+g
+
+Suggested molecular fingerprints of synaptic depression, on the
+other hand, include the dephosphorylation of GluR1 at Ser845,
+which occurs both in vitro and in vivo15,20 and leads to a decrease in
+the channel open probability and to AMPARs internalization8. Both
+absolute (74 ± 10% of waking, P o 0.026) and relative (80 ± 9% of
+waking, P o 0.036) levels of GluR1 phosphorylation at Ser845 were
+lower in the sleeping group relative to the waking group (Fig. 1b).
+Similar changes in cerebral cortex and hippocampus
+Wakefulness and sleep are global phenomena associated with changes
+in firing patterns and neuromodulation in most forebrain structures,
+including the hippocampal formation21. Do molecular correlates of
+synaptic potentiation in wakefulness and depression in sleep extend to
+brain areas other than the cerebral cortex? To find out, we measured the
+density and phosphorylation levels of AMPARs in hippocampal
+synaptoneurosomes that were prepared from the same animals in
+which we tested cortical synapsoneurosomes. We confirmed most of
+the results that we obtained in the cerebral cortex in the hippocampus,
+with a few notable differences (Fig. 1c). For example, NR2A levels in
+
+202
+
+Slope (%)
+
+Percentage of before
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+c
+
+the hippocampus showed a significant increase in waking relative to
+sleeping (P o 0.05), whereas in the cerebral cortex there was only a
+trend (P ¼ 0.09). We also examined the phosphorylation at Ser9 of
+glycogen synthase kinase–3b (GSK3b) in the hippocampus, an enzyme
+associated with native AMPARs. GSK3b phosphorylation at Ser9 has
+recently been shown to increase during hippocampal LTP and decrease
+during LTD, with no change in total expression22. We found that
+hippocampal protein levels of GSK3b phosphorylated at Ser9 were
+significantly higher in waking than in sleeping rats (18 ± 5%, P ¼ 0.018;
+Fig. 1c), whereas total GSK3b levels were similar (data not shown).
+It should be noted that, in both cerebral cortex and hippocampus,
+changes in GluR1 levels between wakefulness and sleep were not
+associated with similar changes in GluR2 levels (Fig. 1b,c). Unlike
+GluR2-containing AMPARs, GluR2-lacking AMPARs are permeable to
+calcium, and may be crucial for LTP maintenance23. Although
+some previous in vivo studies found parallel changes in both subunits10,15,20, others observed a selective increase in GluR1-containing
+AMPARs11–13,24. In the hippocampus, this increase disappeared 25 min
+after electrically induced LTP24, whereas in the cerebral cortex it was
+
+VOLUME 11
+
+[
+
+NUMBER 2
+
+[
+
+FEBRUARY 2008 NATURE NEUROSCIENCE
+
+Slope (%)
+
+ARTICLES
+
+150
+125
+100
+75
+50
+25
+0
+
+NREM
+
+*
+
+150
+125
+100
+75
+50
+25
+0
+
+REM
+
+*
+
+150
+
+*
+
+150
+125
+100
+75
+50
+25
+
+100
+
+High Low
+High Low
+Sleep pressure
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+QW
+
+125
+75
+50
+25
+0
+
+AW
+
+*
+
+0
+High Low
+High Low
+Sleep pressure
+
+Figure 3 Effect of behavioral state on the LFP responses. LFPs were
+collected during spontaneous NREM sleep, REM sleep, quiet waking (QW)
+and active waking (AW). Mean values of LFPs slopes recorded in the first
+1–2 h after light onset (high sleep pressure) and after 4–6 h of undisturbed
+sleep (low sleep pressure) in the four behavioral states. For each individual
+animal, the values of the slopes for each of the two conditions (High and
+Low) are expressed as the percengate of the mean between them before
+averaging among animals. Values are mean ± s.e.m. (n ¼ 9 rats, *P o 0.05,
+two-tailed paired t-test).
+
+still present after 1 d of single-whisker stimulation11, or after 7 d of dark
+rearing13. Thus, whether and when GluR1-containing AMPARs are
+eventually replaced by GluR2-containing AMPARs remains an open
+question and may depend on experimental conditions23. In summary,
+wakefulness is associated with an increased number of AMPAR GluR1
+subunits and with an increased expression of phosphorylated CamKII.
+Sleep is associated instead with a decreased number of AMPAR GluR1
+subunits and with the dephosphorylation of GluR1 at Ser845. These
+data provide molecular evidence that is consistent with the occurrence
+of net synaptic potentiation during wakefulness and synaptic depression during sleep in two large forebrain areas, the cerebral cortex and
+the hippocampus.
+Cortical evoked responses
+Although molecular markers of LTP and LTD are strongly indicative of
+corresponding changes in synaptic strength, it is important to determine directly whether synaptic efficacy is altered and whether it is
+altered in vivo. In freely behaving animals, this can be done by
+measuring LFP responses that are evoked by electrical stimulation.
+Specifically, the strength of population excitatory postsynaptic currents
+is reflected by the slope of LFPs evoked by electrical stimuli25. Accordingly, in vivo LTP-inducing procedures increase LFP slope26,27, whereas
+LTD procedures reduce it (for example, see ref. 28). To evaluate changes
+in synaptic efficacy as a function of preceding waking and sleeping, we
+implanted two other groups of animals with bipolar concentric
+electrodes for electrical stimulation and chronic intracortical LFP
+recordings. We recorded LFPs from the left frontal cortex after electrical
+stimulation of the right frontal cortex (Fig. 2a). We then measured the
+slope of the first negative component of this transcallosal evoked
+response. We focused on the cerebral cortex because, together with
+the thalamus, it generates the characteristic electrical rhythms of
+mammalian sleep1, and it has a central role in several hypotheses
+concerning the functions of sleep (see references in ref. 5). Also, the
+frontal cortex, relative to other cortical regions, shows the most
+substantial increase in sleep pressure after prolonged wakefulness, as
+measured by the increase in slow-wave activity (SWA) in the cortical
+electroencephalogram (EEG) (EEG power between 0.5 and 4 Hz)29.
+Furthermore, the impaired functioning of frontal cortical areas is
+thought to underlie several of the cognitive defects observed after
+sleep deprivation (see references in ref. 5). We focused on the
+transcallosal response because the corpus callosum consists of a
+distinct, isolated and homogenous bundle of excitatory fibers, and
+thus the early monosynaptic component of the evoked response can be
+
+NATURE NEUROSCIENCE VOLUME 11
+
+[
+
+NUMBER 2
+
+[
+
+FEBRUARY 2008
+
+identified. Indeed, this early component followed high-frequency
+stimulation rates up to 100 Hz (Fig. 2b) and met several other criteria
+used to define monosynaptic responses (Supplementary Fig. 1 online).
+To avoid confounding effects of behavioral state on evoked responses,
+we carefully monitored the behavior of each rat using LFPs, muscle
+activity and direct visual observation, and recorded the evoked LFPs
+under standardized conditions of quiet wakefulness (see Methods). In
+this way, we could examine the effects of the preceding sleep-waking
+history on evoked LFPs that had been recorded in exactly the same
+behavioral state.
+When sleep pressure is low, usually at the end of the light phase,
+some rats wake up and stay awake for a consolidated period of several
+hours. Conversely, at the beginning of the light phase, when sleep
+pressure is high, some animals enter a consolidated period of sleep that
+may last for 2 h or more. When we measured LFP responses in rats that
+had remained awake without interruption for 3–4 h between two LFPs
+recording sessions, we found that the slope of the first LFP component
+increased, on average, by 22% from the beginning to the end of the
+continuous waking period (Fig. 2c; for the distribution of individual
+responses, see Supplementary Fig. 2 online). The increase in slope was
+also observed after equating for response amplitude (Supplementary
+Fig. 3 online). In contrast, for rats that had been almost continuously
+asleep during the first 4 h of the light phase, the slope of the first LFP
+component decreased by almost 20% between the two recording
+sessions (Fig. 2d; for the distribution of individual responses, see
+Supplementary Fig. 2). Again, the decrease in slope was present after
+equating for response amplitude (Supplementary Fig. 3). Because
+some rats remained spontaneously awake for only 0.5–2 h, we recorded
+LFPs at shorter time intervals in these animals (after 0.5, 1 and 2 h of
+wakefulness). Overall, by analyzing all responses after spontaneous
+waking periods ranging from o30 min to B4 h, we found a
+progressive increase in the slope that became significant after 1 h of
+wakefulness (Fig. 2e, one-way ANOVA, factor ‘waking duration’,
+F ¼ 10.0, P o 0.001) and increased substantially by the end of the
+waking period. Conversely, the slope of the responses decreased
+significantly (P ¼ 0.019) after at least 2 h of continuous sleep
+(Fig. 2e). Thus, an electrophysiological indicator of synaptic efficacy,
+the slope of the early component of cortical evoked potentials, was high
+after spontaneous wakefulness and low after spontaneous sleep. Moreover, we observed that the longer the preceding period of continuous
+wakefulness, the larger the increase in slope. In contrast, the longer the
+preceding period of sleep, the smaller the slope of the response.
+Notably, in our experiments, rats were never spontaneously awake
+for more than 3–4 h, as expected because they are polyphasic animals.
+These periods of continuous wakefulness, however, were sufficient to
+produce changes in the slope of the evoked response of B20%.
+Changes of similar magnitude have been reported in a recent in vivo
+study in the hippocampus after physiological learning10 (in vitro,
+electrically induced hippocampal LTP is associated with slope increases
+of 100% or more; for example, see ref. 30). We also measured changes
+in the amplitude of the evoked responses, as amplitude is often used as
+an additional marker of synaptic efficacy31. We found that the amplitude of the evoked LFPs also increased after 4 h of wakefulness and
+decreased after 2 h of sleep, although to a lesser extent than the slope
+(Fig. 2f). Notably, both the slope and amplitude of LFPs were stable in
+each recording session, indicating that no measurable plastic changes
+occurred in relation to the stimulation procedure per se (Fig. 2g).
+Finally, we examined whether the slope of the evoked responses
+and the duration of the periods of continuous wakefulness or
+the amount of NREM sleep during the preceding 3–4 h were correlated.
+To do so, we collected evoked responses approximately every 4 h during
+
+203
+
+S
+
+EW
+
+EW
+18
+
+204
+
+6
+NR2A
+
+Ser831-P
+
+S1 EW1 S2 EW2
+
+S1 EW1 S2 EW2
+
+S1 EW1 S2 EW2
+831
+lgY
+
+160
+140
+120
+100
+80
+60
+–
+
+S
+
+Percentage of S
+
+**
+
+EW
+
+160
+140
+120
+100
+80
+60
+–
+
+Ser845-P
+
+S
+
+160
+140
+120
+100
+80
+60
+–
+
+S1 EW1 S2 EW2
+
+S1 EW1 S2 EW2
+
+S1 EW1 S2 EW2
+R2
+
+lgY
+
+R1
+
+lgY
+
+*
+
+EW
+
+S
+
+*
+EW
+
+GluR1
+
+Percentage of S
+
+845
+
+110
+100
+90
+80
+70
+60
+–
+
+160
+140
+120
+100
+80
+60
+–
+
+S
+
+S
+
+NR2A
+
+S1 EW1 S2 EW2
+831
+
+lgY
+
+lgY
+
+CamKII-P
+
+Percentage of S
+
+2A
+
+Percentage of S
+
+R1
+
+**
+
+S
+
+EW
+
+160
+140
+120
+100
+80
+60
+–
+
+S
+
+Ser845-P
+
+S1 EW1 S2 EW2
+
+EW
+
+160
+140
+120
+100
+80
+60
+–
+
+S1 EW1 S2 EW2
+
+S1 EW1 S2 EW2
+
+lgY
+
+lgY
+
+lgY
+
+lgY
+
+*
+
+S
+
+EW
+
+*
+
+EW
+
+S
+
+VOLUME 11
+
+[
+
+NUMBER 2
+
+160
+140
+120
+100
+80
+60
+–
+S
+
+[
+
+EW
+
+Percentage of S
+
+R2
+
+Percentage of S
+
+GSK3-P
+
+Percentage of W
+
+845
+
+160
+140
+120
+100
+80
+60
+–
+
+EW
+GluR2
+
+KII-P
+
+110
+100
+90
+80
+70
+60
+–
+
+S
+
+GSK3-P
+
+S1 EW1 S2 EW2
+
+EW
+
+Ser831-P
+
+S1 EW1 S2 EW2
+
+lgY
+160
+140
+120
+100
+80
+60
+–
+
+EW
+GluR2
+
+845
+
+110
+100
+90
+80
+70
+60
+–
+
+S
+
+Ser845-P/GluR1
+
+S1 EW1 S2 EW2
+
+Sn
+
+EW
+
+Percentage of S
+
+2A
+lgY
+
+Percentage of S
+
+R1
+lgY
+
+c
+Figure 4 Molecular correlates of LTP/LTD after
+enforced wakefulness. (a) Hypnograms from
+representative rats of the two experimental
+groups (S, sleep; EW, enforced wakefulness).
+The last 18 h before sacrifice (indicated by an
+arrow) are shown. (b) Cortical synaptoneurosomes: representative immunoblots and
+quantification of the gels. Values are mean ±
+s.e.m. (n ¼ 10 rats per group). For display
+purposes, S (or EW) values are expressed as
+100% ± s.e.m. of average S (or EW). IgY
+was used as loading control. *P o 0.05;
+**P o 0.01 (paired t-test). (c) Hippocampal
+synaptoneurosomes. Immunoblots (1 and 2
+represent two different representative samples)
+and quantification of the gels are shown. Values
+are mean ± s.e.m. (n ¼ 10 rats per group; same
+animals as in b). *P o 0.05; **P o 0.01
+(paired t-test).
+
+0
+
+GluR1
+
+Percentage of S
+
+–
+
+S
+
+Percentage of W
+
+Percentage of S
+
+Cortical evoked responses and behavioral state
+Although all recordings were carried out under strictly controlled
+behavioral conditions of quiet wakefulness (animal immobile, eyes
+open, low muscle tone, low-voltage, highfrequency cortical EEG activity), it is possible
+a
+that the sleep-waking history of the animal
+may affect evoked LFPs not only by modifying
+synaptic efficacy, but also through subtle
+changes in neuromodulation and neuronal
+excitability that might occur between high
+and low sleep-pressure conditions. To address
+this issue, we carried out additional experib
+ments (n ¼ 9 rats) by collecting evoked LFPs
+under both high and low sleep pressure in
+four different behavioral states (active wakefulness, quiet wakefulness, NREM sleep and
+Sn
+REM sleep) that are associated with marked
+changes in neuromodulation and excitability32. The results showed that, although the
+amplitude of the early component of evoked
+CamKII-P
+LFPs increased as expected33 in NREM sleep
+S1 EW1 S2 EW2
+relative to all the other behavioral states (oneKII-P
+way ANOVA, factor ‘behavioral state’; high
+lgY
+sleep pressure F ¼ 3.2, P ¼ 0.04; post hoc
+t-test, P o 0.005), the average latency
+160
+*
+140
+remained unchanged in all behavioral states
+120
+100
+(one-way ANOVA, factor ‘behavioral state’;
+80
+high sleep pressure. F ¼ 0.2, P ¼ 0.90; low
+60
+
+sleep pressure, F ¼ 0.04, P ¼ 0.99). Crucially, the mean slope of the
+early component of evoked LFPs did not differ across the four
+behavioral states (one-way ANOVA, factor ‘behavioral state’; high
+sleep pressure, F ¼ 0.3, P ¼ 0.83; low sleep pressure, F ¼ 0.3, P ¼
+0.81), indicating that major neuromodulatory changes had negligible
+effects on this parameter. In contrast, when we compared the LFPs
+collected under high sleep pressure (in the first 2 h after light onset) and
+under low sleep pressure (after 4–6 h of undisturbed sleep) separately
+for each of the four behavioral states, the slope of evoked LFPs
+decreased by 15–20% not only in quiet wakefulness, confirming
+our previous results, but also in active wakefulness, NREM sleep
+and REM sleep (two-tailed paired t-test, P o 0.05; Fig. 3). Thus,
+this experiment indicates that the decrease in the LFP slope
+after a sustained period of sleep is independent of the actual
+behavioral state during which the responses were collected, and
+is unlikely to be accounted for by changes in neuromodulation
+and excitability.
+
+Percentage of W
+
+the 12-h light period (Fig. 2h). We found a significant correlation
+in both cases, the slope of the response was highly positively correlated
+with the duration of the preceding period of continuous waking
+and negatively correlated with the amount of NREM sleep (waking,
+r ¼ 0.47, P ¼ 0.0002; NREM, r ¼ –0.33, P ¼ 0.0035; Fig. 2h). The
+slope of the response was also negatively correlated with the
+amount of the preceding REM sleep, but not as strongly as with NREM
+sleep (r ¼ –0.24, P ¼ 0.037). There was no significant correlation
+between the slope of the response and the ratio REM/NREM sleep in
+the preceding 3-h period (r ¼ –0.2, P ¼ 0.09; Supplementary Fig. 4
+online), suggesting that NREM is more directly related than REM sleep
+to the observed decrease in slope (NREM and REM sleep are strongly
+correlated with each other).
+
+Percentage of S
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+160
+140
+120
+100
+80
+60
+–
+S
+
+EW
+
+FEBRUARY 2008 NATURE NEUROSCIENCE
+
+ARTICLES
+Figure 5 Electrophysiological correlates of LTP/
+LTD after enforced wakefulness. (a) Hypnogram
+*
+P = 0.07
+125
+125
+from one representative rat recorded across 2
+*
+100
+100
+Day 1
+consecutive d (only 12–16 h per d are shown).
+1 mV
+S
+75
+75
+5 ms
+Evoked responses were recorded (always in quiet
+R
+50
+50
+wakefulness) during day 1 at light onset (0) and
+S
+25
+25
+after 4 h of sleep (S), and during day 2 at light
+Day 2
+EW
+0
+0
+EW
+R
+onset (0), after 4 h of enforced wakefulness (EW),
+0
+EW
+R
+S
+EW
+0
+4
+and after 4 h of recovery sleep (R). (b) Left,
+individual representative LFPs from one rat.
+Right, changes in LFPs slope between S and EW. As in Figure 2, for each individual animal, the values of the slopes for each of the two conditions (S and EW)
+are expressed as the percentage of the mean between them before averaging among animals. Values are mean ± s.e.m. (n ¼ 13 rats, *P o 0.05, two-tailed
+paired t-test; the bars are shown as the percentage of the mean between S and EW). (c) Changes in LFPs slope between 0, EW and R. Values are mean ±
+s.e.m. (n ¼ 13 rats, *P o 0.05, two-tailed paired t-test).
+
+c
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+Cortical evoked responses and brain temperature
+Changes in brain temperature of as low as few degrees can alter evoked
+responses34,35, raising the issue of whether the increase in slope that we
+observed after prolonged waking could be due to, at least in part, an
+increase in cortical temperature. Passive or active heating of the brain
+increases the slope and decreases the latency of the evoked response,
+and decreases the amplitude of the population spike34. However, in our
+experiments, both the slope and amplitude of the downward (Fig. 2)
+and upward (data not shown) segments of the LFP increased after
+prolonged wakefulness, and the change in the slope persisted after
+equating evoked responses on the basis of their latency (Supplementary Fig. 3). To investigate specifically whether brain temperature
+changes in parallel with the LFP slope, we recorded brain temperature
+in a subset of animals (n ¼ 7). In all of them, temperature increased
+rapidly after the transition from sleep to wakefulness by 1.4 ± 0.2 1C,
+and remained stable for the entire duration of the waking episode (oneway ANOVA, factor ‘waking duration’, F ¼ 0.63, n.s., Supplementary
+Fig. 5 online). In contrast, the LFP slope showed a progressive increase
+during the 4-h waking period (Supplementary Fig. 5) and no
+significant correlation with brain temperature (r ¼ 0.03, P ¼ 0.9). In
+summary, the observed changes in the slope and amplitude of cortical
+evoked responses suggest that synaptic efficacy increases progressively
+during wakefulness and decreases progressively during sleep.
+Controlling for time of day and light
+To ensure that the observed molecular and electrophysiological changes
+are due to wakefulness and sleep, other confounding factors, such as
+time of day or lighting conditions, must be ruled out. For this purpose,
+additional animals were kept awake for several hours during the light
+phase, when they would normally have slept, by presenting them with
+novel objects that kept them busy and interested (enforced wakefulness
+group). For the molecular analysis, enforced wakefulness rats were
+killed at the same time of day as the sleeping group (Fig. 4a). Similar to
+waking rats, enforced wakefulness rats had increased levels of total
+GluR1 compared with sleeping rats (57 ± 16%, P ¼ 0.0059), but no
+changes in the phosphorylation of GluR1 at Ser831 and in the
+expression of NR2A (Fig. 4b). Like waking rats, enforced wakefulness
+rats also showed significantly increased levels of CamKII phosphorylation at Thr286 (36 ± 9%, P ¼ 0.021) and a trend toward an increase in
+total CamKII protein levels (enforced wakefulness, 20 ± 9% of S,
+P ¼ 0.10). As in waking rats, no significant increases were seen in GluR2
+(P ¼ 0.9) and NR2A (P ¼ 0.5) expression (Fig. 4b), whereas BDNF,
+Arc, NGFI-A and P-CREB expression increased, as previously demonstrated (data not shown and ref. 16). On the other hand, compared
+with the enforced wakefulness group, the sleeping group showed a
+marked GluR1 dephosphorylation at Ser845, which in vivo is usually
+associated with LTD (absolute levels, 73 ± 14% of enforced wakefulness,
+
+NATURE NEUROSCIENCE VOLUME 11
+
+[
+
+NUMBER 2
+
+[
+
+FEBRUARY 2008
+
+Percentage of mean
+
+b
+
+Percentage of mean
+
+a
+
+P o 0.012; relative levels, 64 ± 4% of enforced wakefulness, P o 0.019;
+Fig. 4b), just as observed in comparison to the waking group. Once
+again, the results obtained in the hippocampus were similar (Fig. 4c).
+Thus, several molecular correlates of LTP and LTD in cerebral cortex
+and hippocampus appear to change as a function of wake and sleep
+history, and not of time of day or light. On the other hand, time of day,
+light conditions, or the duration and quality of prior wakefulness may
+affect the phosphorylation of GluR1 at Ser831 and the expression of
+NR2A, which showed no consistent change in the enforced wakefulness
+and waking groups relative to the sleeping group.
+For the electrophysiological analysis, another group of enforced
+wakefulness rats were kept awake with novel objects for 4 h beyond
+their usual sleep time (Fig. 5a). The slope of the first LFP component at
+the end of the enforced wakefulness period was B20% higher than
+after an equivalent period of sleep during a baseline recording, though
+time of day and lighting conditions were the same (Fig. 4b; for the
+distribution of individual responses, see Supplementary Fig. 2). Again,
+the change in the slope persisted after equating evoked responses on the
+basis of their latency (Supplementary Fig. 3). The slope of the LFP was
+B13% higher after 4 h of enforced wakefulness compared with the end
+of the dark phase, suggesting the possibility of a further increase in
+synaptic efficacy with prolonged wakefulness (Fig. 5b). Once again,
+LFP slope decreased significantly after recovery sleep (Fig. 5b). Thus,
+slope increases after wakefulness and decreases after sleep in a manner
+that is largely independent of time of day. Note, however, that our study
+was not specifically designed to test a possible role of the circadian
+system, as molecular and electrophysiological measurements were not
+taken across the 24-h cycle under constant conditions. Thus, we cannot
+rule out that, in addition to behavioral state, circadian time may also
+affect markers of synaptic strength.
+Cortical evoked responses and slow wave activity
+SWA in the cortical EEG (SWA, the EEG power between 0.5 and 4 Hz)
+increases in proportion to the time spent awake and decreases during
+sleep. For this reason, SWA is thought to reflect the accumulation of
+sleep need during wakefulness and its discharge during sleep29
+(Fig. 6a), although the underlying mechanisms are unknown. Computer simulations36 have recently suggested that the level of sleep SWA
+may reflect overall cortical synaptic strength; because of the effects on
+neuronal recruitment and synchronization, stronger connections
+should lead to larger slow waves and weaker connections to smaller
+waves. Support for this hypothesis comes from experiments showing
+that sleep SWA is increased globally and locally37 by procedures
+presumably associated with synaptic potentiation, and decreased by
+those presumably associated with synaptic depression38. We therefore
+predicted that the increase in the slope of the LFP response after a
+period of waking should be positively correlated with SWA at the
+
+205
+
+ARTICLES
+Figure 6 Relationship between LFP response
+slope and sleep slow-wave homeostasis. (a) Left,
+60 r = 0.35
+600
+1 mV
+representative examples of slow waves and SWA,
+40 P = 0.026
+1,000
+400
+1s
+20
+which comprises slow waves. Right, 24-h time
+100
+0
+course of relative SWA (% of 24-h mean
+200
+–20
+SWA in NREM) in one representative rat
+10
+SWA
+0
+12
+24
+– 40
+(the hypnogram from the same rat is shown
+1
+–50
+0
+50 100 150
+below). (b) Relationship between SWA decline
+0 5 10 15 20
+SWA decline (%)
+Frequency
+(Hz)
+after B4 h of baseline sleep (% difference
+between 1-h mean SWA after S0 and after S1,
+60 r = 0.38
+r = 0.46
+60
+circles, n ¼ 23 rats), or after the first 4 h of
+P = 0.002
+40 P = 0.015
+40
+recovery sleep after EW (% difference between
+20
+20
+1-h mean SWA after EW and after R, triangles,
+0
+0
+n ¼ 13 rats), and the decline of LFPs slope from
+r = – 0.43
+–20
+–20
+r = 0.59
+the beginning to the end of the corresponding
+P = 0.006
+P = 0.00006
+–40
+–40
+4-h interval (% difference between S0 and
+50 100 150 200 250 2
+4
+6
+8 8 10 12 14 16 18 20
+0
+5 10 15 20 25
+S1 or between EW and R). Line depicts
+NREM (min)
+NREM ep. (min)
+NREM ep. N
+Slow wave slope
+decline (%)
+a linear regression (Pearson correlation).
+(c) Relationship between the decline of LFPs
+slope (same as in b) and amount of NREM sleep, mean duration of NREM episodes (46 s) and number of NREM episodes per hour of NREM sleep in the
+corresponding 4-h interval (S0-S1, circles, n ¼ 23 rats; EW-R, triangles, n ¼ 13 rats). Line depicts a linear regression (Pearson correlation). (d) Relationship
+between the percentage decline of the slope of the first segment of NREM slow waves (in bold) after B4 h of baseline sleep (circles, n ¼ 23 rats), or after
+the first 4 h of recovery sleep after enforced wakefulness (triangles, n ¼ 13 rats), and the percentage decline of the LFPs slope from the beginning to the
+end of the corresponding 4-h interval. Slow waves during the first 1-h period of NREM sleep after S0 and S1 or EW and R were equated based on their
+amplitude39,40, the percent difference of their slopes was computed for each match and then averaged between all the matches in each rat.
+
+a
+
+Slope decline (%)
+
+SWA (%)
+
+Percentage of
+mean power
+
+b
+
+d
+
+206
+
+strong positive correlation (P ¼ 0.00006; Fig. 6d), suggesting that
+changes in synaptic efficacy can be revealed by both electrically evoked
+volleys and spontaneously generated volleys.
+Altogether, these results indicate that the occurrence of consolidated
+periods of NREM sleep, accompanied by a large decline in NREM
+SWA, strongly predicts the ensuing decrease in the slope of evoked
+LFPs, an in vivo marker of synaptic strength. Although these results are
+correlative, they raise the intriguing possibility that slow waves, which
+fall in a frequency range usually leading to synaptic depression, may not
+just reflect synaptic strength, but may actively contribute to the
+weakening of connections during sleep5,41.
+Cortical evoked responses and LTP occlusion
+If our finding that AMPAR density and the slope and amplitude of field
+potential responses increase after periods of waking is indeed indicative
+of a net increase in synaptic strength, and if the converse is the case after
+periods of sleep, then it should be more difficult to induce LTP in
+animals that have been awake for several hours than in animals that
+have been awake for just a few minutes after a long period of sleep. In
+
+a
+
+*
+125
+100
+75
+50
+25
+
+b
+Percentage of before
+
+Percentage of before
+
+beginning of the subsequent sleep period. On the other hand, the
+decrease in the slope of the waking LFPs evoked before and after sleep
+should be positively correlated with the decrease in SWA during sleep.
+To test the first prediction, a subset of animals were constantly observed
+during the 12-h dark period and presented with novel objects if they
+showed signs of drowsiness. Evoked LFPs were collected every 4 h
+during the preceding light period, as well as at the end of the 12-h
+waking period, after which the rats were allowed to obtain undisturbed
+sleep. As expected, at the end of the 12-h period of waking, slopes were
+15.8 ± 3.7% above the mean over the baseline light period, when the
+animals predominantly slept (n ¼ 5 rats, P ¼ 0.014, paired t-test).
+Moreover, the increase in slope after the 12-h waking period was highly
+correlated with both the mean (r ¼ 0.97, P ¼ 0.006) and the peak
+(r ¼ 0.98, P ¼ 0.003) SWA of the first hour of NREM sleep
+(Supplementary Fig. 6 online); thus, the larger the increase in slope
+after waking, the larger the SWA at sleep onset. To test the second
+prediction, we examined the relationship between the decline of LFP
+slope across 4 h of sleep (baseline sleep, n ¼ 23 rats; recovery sleep after
+enforced wakefulness, n ¼ 13 rats) and the decline of SWA. We found
+that the larger the decline in the waking LFP slope, the larger the decline
+in sleep SWA (r ¼ 0.36, P ¼ 0.03; Fig. 6b). Moreover, the decline in
+slope was positively correlated with the total amount of NREM sleep
+(P ¼ 0.015; Fig. 6c, left), as well as with the mean (Fig. 6c, middle) and
+maximal (data not shown) duration of NREM sleep episodes (P ¼
+0.002 and P ¼ 0.0008, respectively), and negatively correlated with the
+number of NREM sleep episodes (P ¼ 0.006; Fig. 6c, right). In contrast,
+we did not find any correlation between the decline in slope and the
+amount of REM sleep (r ¼ 0.17, P ¼ 0.31) or theta (6–9 Hz) power in
+REM sleep (r ¼ –0.20, P ¼ 0.21; Supplementary Fig. 7 online).
+Computer simulations also predicted that a decrease in net synaptic
+strength in cortical circuits should be reflected in a decrease in the slope
+of spontaneous sleep slow waves (as opposed to the slope of evoked
+responses)36 between early and late sleep. Experiments in both rats39
+and humans40 have confirmed these predictions and have shown that
+the decline in slow-wave slope is evident even when wave amplitude
+does not change. We therefore examined the relationship between the
+decline in the slope of evoked LFPs (collected in quiet wakefulness) and
+changes in the slope of spontaneous sleep slow waves. We found a
+
+Slope decline (%)
+
+Slope decline (%)
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+c
+
+1
+
+2
+
+1
+
+2
+
+0
+
+*
+
+*
+
+2
+
+3
+
+125
+100
+75
+50
+25
+
+1
+
+0
+W
+
+S
+
+S
+
+Figure 7 Partial LTP occlusion after wakefulness. (a) LFPs were collected at
+light onset (W) or after 4 h of sleep (S). Bars 1 and 2 represent slope values
+immediately before and after the tetanic stimulation used to induce LTP,
+respectively. All responses were collected during quiet wakefulness. Values
+are mean ± s.e.m. (n ¼ 7 rats), computed as the mean first derivative of
+the first down-going segment, and expressed as the percentage of the
+corresponding ‘before’ condition (100%). (b) LFPs in S rats were collected
+immediately before (bar 1), 1 min (2) and 1 h (3) after LTP induction. Rats
+remained awake, mostly in quiet wakefulness, for the entire hour. *P o 0.05
+(paired t-test).
+
+VOLUME 11
+
+[
+
+NUMBER 2
+
+[
+
+FEBRUARY 2008 NATURE NEUROSCIENCE
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+other words, there should be evidence for partial occlusion of LTP after
+prolonged wakefulness. In contrast, after sleep, LTP-induction should
+be facilitated. To test this prediction, an additional group of rats (n ¼ 7)
+were implanted, handled and recorded as before. The animals then
+received high-frequency electrical stimulation in the frontal motor
+cortex to induce LTP using an established protocol42. Each rat was
+subjected to the LTP-inducing protocol twice, at light onset and after
+4 h of sleep, always in a standardized state of quiet wakefulness. At light
+onset, after several hours of wakefulness, no consistent change in the
+LFP slope was elicited (Fig. 7a). In contrast, LTP could easily be
+induced after a period of sleep (Fig. 7a) and persisted for at least 1 h
+(Fig. 7b). These results suggest that the induction of LTP is partially
+occluded after a period of wakefulness and restored after sleep.
+DISCUSSION
+The present results provide both molecular and electrophysiological
+evidence that periods of wakefulness are associated with a net increase
+in cortical synaptic strength and periods of sleep are associated with a
+net decrease. At the molecular level, GluR1-containing AMPAR levels
+in synaptoneurosomes were high during waking and low during sleep
+in both cortex and hippocampus. Changes in AMPAR, CamKII and
+GSK3b phosphorylation were also consistent with synaptic potentiation during wakefulness and with depression during sleep. Moreover,
+an electrophysiological marker of synaptic efficacy, the slope of cortical
+evoked responses, increased after wakefulness and decreased after sleep.
+Molecular and electrophysiological indicators of synaptic strength
+changed in a similar manner after spontaneous wakefulness during
+the night and after enforced wakefulness during the day, suggesting that
+the underlying processes are largely independent of time of day, but
+depend instead on the sleep-waking history of the animal. Finally,
+consistent with a net increase in synaptic strength during wakefulness,
+LTP could easily be induced in animals after they had slept for several
+hours, but not after they had remained awake for a similar period
+of time.
+By themselves, the observed molecular changes cannot prove conclusively that synaptic efficacy in vivo has changed, as molecular assays
+do not necessarily reflect the functional state of synapses; for example,
+synaptoneurosomes cannot distinguish between surface and internal
+receptors, or between pre- and postsynaptic pools. Similarly, in vivo
+field responses often include a polysynaptic component that is hard to
+isolate. The electrophysiological changes observed in vivo might reflect
+variations in factors besides synaptic strength that can affect neuronal
+excitability, such as inhibition and neuromodulation. However, the
+latter is unlikely to have a major role, as the slope did not change
+substantially across different behavioral states, but decreased consistently in each behavioral state between high and low sleep pressure.
+Altogether, alternative explanations that may not involve synaptic
+plasticity cannot be ruled out, but at present it is difficult to envision
+what other factors may offer an equally parsimonious account for our
+findings. Indeed, the observed molecular and electrophysiological
+changes support each other, offering complementary evidence, both
+structural and functional, for opposite changes in net synaptic strength
+between wakefulness and sleep. In the future, it will be essential to
+confirm and extend these studies in slice preparations; for example, by
+investigating pre- and postsynaptic changes as a function of prior sleep
+and wake history through the measurements of the surface expression
+of AMPARs and through the analysis of miniature synaptic potentials.
+Moreover, given the major changes observed after a few hours of
+wakefulness, it will be important to confirm and extend our initial
+results suggesting that the induction of LTP in the cerebral cortex is
+partially saturated after prolonged wakefulness and may be restored by
+
+NATURE NEUROSCIENCE VOLUME 11
+
+[
+
+NUMBER 2
+
+[
+
+FEBRUARY 2008
+
+sleep. Notably, in vitro studies in the hippocampus have shown that
+insufficient sleep impairs the induction of LTP, but favors the induction
+of LTD (for example, see refs. 30,43–45). Finally, it will be important to
+investigate whether NREM sleep, and specifically sleep slow waves, is
+actively responsible for decreasing synaptic strength5,46 and to explore
+the underlying mechanisms. In this respect, it is notable that we found
+similar molecular changes in cortex and hippocampus, despite differences in sleep EEG activity and the lack of cellular slow oscillations in
+many hippocampal cells47. Both hippocampal sharp wave-ripple events
+and the membrane potential of hippocampal cells47 are strongly
+modulated by the cortical slow oscillation48. Perhaps the occurrence
+of high-frequency bursts of activity in the appropriate neuromodulatory milieu is sufficient to produce a net downscaling synaptic strength
+in both structures41.
+The molecular and electrophysiological changes reported here
+occurred in freely behaving animals that had not been forced to engage
+in specific learning tasks, suggesting that net plastic changes in opposite
+directions accompany natural wakefulness and sleep5. On the other
+hand, synaptic strength increased further when wakefulness was
+extended by 4 h with exposure to novel objects, only to be restored to
+a low level by the following period of sleep. Altogether, net cortical
+synaptic strength appears to be homeostatically regulated in a way that is
+similar to sleep pressure, which grows as a function of waking duration
+and intensity and decreases with sleep29. Consistent with this observation, the slope of the evoked responses was positively correlated with the
+level of the sleep SWA, a well-established marker of sleep pressure29.
+The finding that wakefulness leads to a net potentiation of synaptic
+strength and that sleep leads to a net depression, if confirmed in other
+species and with different methodologies, has several implications. First,
+it indicates that, despite the existence of mechanisms that could enforce
+an ongoing homeostasis of plastic changes in a neuron49, the overall
+balance of plasticity during wakefulness appears to lean toward potentiation. Indeed, there are indications that, in the awake adult
+brain under physiological conditions, it is easier to induce LTP than
+LTD8. Second, this finding implies that prolonged wakefulness may
+pose an increasing burden on plastic circuits, consistent with theoretical and computational analyses suggesting that a progressive
+strengthening of synapses with experience cannot continue indefinitely
+because of constraints on energy, space, supplies and saturation of the
+ability to learn4,5. Indeed, by triggering LTP-like mechanisms, learning
+can strengthen synapses to near the maximum of their modification
+range, impairing the further induction of LTP (for example, see
+refs. 10,50). Third, these results suggest that sleep may help to maintain
+synaptic homeostasis5; if wakefulness is associated with an increasing
+burden to neurons imposed by progressively stronger synapses, then
+sleep would be a good time to redress the balance. Indeed, a progressive
+downscaling of synaptic strength may represent a key function of
+NREM sleep, possibly through its characteristic firing patterns and
+neuromodulatory changes41. We emphasize that the present results
+cannot distinguish between a proportional renormalization of all
+synapses and the depression of a majority of synapses coupled with
+the preservation or even strengthening of select circuits, and they are
+certainly compatible with the stabilization, consolidation and integration of memory traces7. In future work, it will be important to extend
+these findings to other species, and to determine whether the likely
+consequences of net changes of synaptic strength, such as metabolic
+changes, show a similar relationship to preceding wakefulness and sleep.
+METHODS
+Surgery and chronic recording of sleep and wakefulness. Details are provided
+in the Supplementary Methods online. Briefly, male WKY rats that were used in
+
+207
+
+ARTICLES
+
+© 2008 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+the electrophysiological experiments were implanted in the frontal cortex with
+bipolar concentric LFP electrodes for stimulation and chronic electroencephalographic recordings. Rats used for molecular studies were recorded using epidural
+screw electrodes. Sleep stages were scored off-line by visual inspection of 4-s
+epochs. All animal procedures followed the US National Institutes of Health
+Guide for the Care and Use of Laboratory Animals and facilities were reviewed
+and approved by the Institutional Animal Care and Use Committee of the
+University of Wisconsin-Madison, and were inspected and accredited by the
+Association for Assessment and Accreditation of Laboratory Animal Care.
+Synaptoneurosome preparation and quantitative immunoblotting. The protocol was optimized according to suggestions from M.F. Bear and his
+laboratory, and was essentially carried out as previously described10. Details
+are provided in the Supplementary Methods.
+LFP evoked responses. In all rats, LFP and EMG signals were continuously
+recorded during a 24-h baseline period, sleep deprivation and recovery after
+sleep deprivation. The collection of LFP-evoked responses occurred at B4-h
+intervals, usually starting at around light onset (10 a.m.) of the baseline day,
+and in some animals continued during sleep deprivation and the following 4 h
+of recovery. Prior to the experiment, input-output tests were performed on
+each rat. Details are provided in the Supplementary Methods. On completion
+of the experiments, the position of the LFP electrodes was verified by histology
+in all animals.
+Note: Supplementary information is available on the Nature Neuroscience website.
+
+ACKNOWLEDGMENTS
+We thank M.F. Bear and his laboratory for help in optimizing the
+synaptoneurosome preparations. This work was supported by a US NIH
+Director’s Pioneer award to G.T. and Swiss National Science Foundation grant
+PBZHB-106264 to V.V.V.
+AUTHOR CONTRIBUTIONS
+C.C. and M.P.-G. carried out the molecular experiments. V.V.V. performed the
+electrophysiological experiments and wrote part of the manuscript. U.F.
+participated in some of the electrophysiological experiments. C.C. and G.T.
+designed the experiments, coordinated the development of the study and wrote
+most of the manuscript.
+Published online at http://www.nature.com/natureneuroscience
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions
+1. Steriade, M. Grouping of brain rhythms in corticothalamic systems. Neuroscience 137,
+1087–1106 (2006).
+2. Hooks, B.M. & Chen, C. Distinct roles for spontaneous and visual activity in remodeling
+of the retinogeniculate synapse. Neuron 52, 281–291 (2006).
+3. Nicoll, R.A. & Malenka, R.C. Expression mechanisms underlying NMDA receptor–
+dependent long-term potentiation. Ann. NY Acad. Sci. 868, 515–525 (1999).
+4. Attwell, D. & Laughlin, S.B. An energy budget for signaling in the grey matter of the
+brain. J. Cereb. Blood Flow Metab. 21, 1133–1145 (2001).
+5. Tononi, G. & Cirelli, C. Sleep function and synaptic homeostasis. Sleep Med. Rev. 10,
+49–62 (2006).
+6. Sejnowski, T.J. & Destexhe, A. Why do we sleep? Brain Res. 886, 208–223 (2000).
+7. Born, J., Rasch, B. & Gais, S. Sleep to remember. Neuroscientist 12, 410–424 (2006).
+8. Malenka, R.C. & Bear, M.F. LTP and LTD: an embarrassment of riches. Neuron 44, 5–21
+(2004).
+9. Collingridge, G.L., Isaac, J.T. & Wang, Y.T. Receptor trafficking and synaptic plasticity.
+Nat. Rev. Neurosci. 5, 952–962 (2004).
+10. Whitlock, J.R., Heynen, A.J., Shuler, M.G. & Bear, M.F. Learning induces long-term
+potentiation in the hippocampus. Science 313, 1093–1097 (2006).
+11. Clem, R.L. & Barth, A. Pathway-specific trafficking of native AMPARs by in vivo
+experience. Neuron 49, 663–670 (2006).
+12. Rumpel, S., LeDoux, J., Zador, A. & Malinow, R. Postsynaptic receptor trafficking
+underlying a form of associative learning. Science 308, 83–88 (2005).
+13. Goel, A. et al. Cross-modal regulation of synaptic AMPA receptors in primary sensory
+cortices by visual experience. Nat. Neurosci. 9, 1001–1003 (2006).
+14. Hu, H. et al. Emotion enhances learning via norepinephrine regulation of AMPA receptor
+trafficking. Cell 131, 160–173 (2007).
+15. Heynen, A.J., Quinlan, E.M., Bae, D.C. & Bear, M.F. Bidirectional, activity-dependent
+regulation of glutamate receptors in the adult hippocampus in vivo. Neuron 28,
+527–536 (2000).
+16. Cirelli, C. & Tononi, G. Differential expression of plasticity-related genes in waking and
+sleep and their regulation by the noradrenergic system. J. Neurosci. 20, 9187–9194
+(2000).
+
+208
+
+17. Kim, M.J., Dunah, A.W., Wang, Y.T. & Sheng, M. Differential roles of NR2A- and NR2Bcontaining NMDA receptors in Ras-ERK signaling and AMPA receptor trafficking.
+Neuron 46, 745–760 (2005).
+18. Lee, H.K., Barbarosie, M., Kameyama, K., Bear, M.F. & Huganir, R.L. Regulation of
+distinct AMPA receptor phosphorylation sites during bidirectional synaptic plasticity.
+Nature 405, 955–959 (2000).
+19. Lisman, J., Schulman, H. & Cline, H. The molecular basis of CaMKII function in synaptic
+and behavioural memory. Nat. Rev. Neurosci. 3, 175–190 (2002).
+20. Heynen, A.J. et al. Molecular mechanism for loss of visual cortical responsiveness
+following brief monocular deprivation. Nat. Neurosci. 6, 854–862 (2003).
+21. Steriade, M. & Hobson, J. Neuronal activity during the sleep-waking cycle. Prog.
+Neurobiol. 6, 155–376 (1976).
+22. Peineau, S. et al. LTP inhibits LTD in the hippocampus via regulation of GSK3beta.
+Neuron 53, 703–717 (2007).
+23. Kauer, J.A. & Malenka, R.C. LTP: AMPA receptors trading places. Nat. Neurosci. 9,
+593–594 (2006).
+24. Plant, K. et al. Transient incorporation of native GluR2-lacking AMPA receptors during
+hippocampal long-term potentiation. Nat. Neurosci. 9, 602–604 (2006).
+25. Rall, W. Distinguishing theoretical synaptic potentials computed for different somadendritic distributions of synaptic input. J. Neurophysiol. 30, 1138–1168 (1967).
+26. Bliss, T.V. & Lomo, T. Long-lasting potentiation of synaptic transmission in the dentate
+area of the anaesthetized rabbit following stimulation of the perforant path. J. Physiol.
+(Lond.) 232, 331–356 (1973).
+27. Glazewski, S., Herman, C., McKenna, M., Chapman, P.F. & Fox, K. Long-term potentiation in vivo in layers II/III of rat barrel cortex. Neuropharmacology 37, 581–592 (1998).
+28. Fox, C.J., Russell, K.I., Wang, Y.T. & Christie, B.R. Contribution of NR2A and NR2B
+NMDA subunits to bidirectional synaptic plasticity in the hippocampus in vivo.
+Hippocampus 16, 907–915 (2006).
+29. Borbély, A.A. & Achermann, P. Sleep homeostasis and models of sleep regulation. in
+Principles and Practice of Sleep Medicine (eds. M.H. Kryger, T. Roth & W.C. Dement)
+405–417 (W. B. Saunders, Philadelphia, 2005).
+30. Tartar, J.L. et al. Hippocampal synaptic plasticity and spatial learning are impaired in a
+rat model of sleep fragmentation. Eur. J. Neurosci. 23, 2739–2748 (2006).
+31. Heynen, A.J. & Bear, M.F. Long-term potentiation of thalamocortical transmission in the
+adult visual cortex in vivo. J. Neurosci. 21, 9801–9813 (2001).
+32. Steriade, M.M. & McCarley, R. Brain Control of Wakefulness and Sleep, 728 (Springer,
+2005).
+33. Hall, R.D. & Borbely, A.A. Acoustically evoked potentials in the rat during sleep and
+waking. Exp. Brain Res. 11, 93–110 (1970).
+34. Moser, E., Mathiesen, I. & Andersen, P. Association between brain temperature and
+dentate field potentials in exploring and swimming rats. Science 259, 1324–1326
+(1993).
+35. Cain, D.P., Hargreaves, E.L. & Boon, F. Brain temperature- and behavior-related changes
+in the dentate gyrus field potential during sleep, cold water immersion, radiant heating
+and urethane anesthesia. Brain Res. 658, 135–144 (1994).
+36. Esser, S.K., Hill, S.L. & Tononi, G. Sleep homeostasis, slow waves and cortical
+synchronization. I. Modeling the effects of synaptic strength on sleep slow waves.
+Sleep 30, 1617–1630 (2007).
+37. Huber, R., Ghilardi, M.F., Massimini, M. & Tononi, G. Local sleep and learning. Nature
+430, 78–81 (2004).
+38. Huber, R. et al. Arm immobilization causes cortical plastic changes and locally
+decreases sleep slow wave activity. Nat. Neurosci. 9, 1169–1176 (2006).
+39. Vyazovskiy, V.V., Riedner, B.A., Cirelli, C. & Tononi, G. Sleep homeostasis and cortical
+synchronization. II. A local field potential study of sleep slow waves in the rat. Sleep 30,
+1631–1642 (2007).
+40. Riedner, B.A. et al. Sleep homeostasis, slow waves and cortical synchronization. III. A
+high-density EEG study of sleep slow waves in humans. Sleep 30, 1643–1657 (2007).
+41. Czarnecki, A., Birtoli, B. & Ulrich, D. Cellular mechanisms of burst firing-mediated longterm depression in rat neocortical pyramidal cells. J. Physiol. (Lond.) 578, 471–479
+(2007).
+42. Racine, R.J., Chapman, C.A., Trepel, C., Teskey, G.C. & Milgram, N.W. Post-activation
+potentiation in the neocortex. IV. Multiple sessions required for induction of long-term
+potentiation in the chronic preparation. Brain Res. 702, 87–93 (1995).
+43. Campbell, I.G., Guinan, M.J. & Horowitz, J.M. Sleep deprivation impairs longterm potentiation in rat hippocampal slices. J. Neurophysiol. 88, 1073–1076
+(2002).
+44. McDermott, C.M. et al. Sleep deprivation causes behavioral, synaptic and membrane
+excitability alterations in hippocampal neurons. J. Neurosci. 23, 9687–9695
+(2003).
+45. Kopp, C., Longordo, F., Nicholson, J.R. & Luthi, A. Insufficient sleep reversibly alters
+bidirectional synaptic plasticity and NMDA receptor function. J. Neurosci. 26,
+12456–12465 (2006).
+46. Giuditta, A. et al. The sequential hypothesis of the function of sleep. Behav. Brain Res.
+69, 157–166 (1995).
+47. Isomura, Y. et al. Integration and segregation of activity in entorhinal-hippocampal
+subregions by neocortical slow oscillations. Neuron 52, 871–882 (2006).
+48. Molle, M., Yeshenko, O., Marshall, L., Sara, S.J. & Born, J. Hippocampal sharp waveripples linked to slow oscillations in rat slow-wave sleep. J. Neurophysiol. 96, 62–70
+(2006).
+49. Royer, S. & Pare, D. Conservation of total synaptic weight through balanced synaptic
+depression and potentiation. Nature 422, 518–522 (2003).
+50. Rioult-Pedotti, M.S., Friedman, D. & Donoghue, J.P. Learning-induced LTP in neocortex.
+Science 290, 533–536 (2000).
+
+VOLUME 11
+
+[
+
+NUMBER 2
+
+[
+
+FEBRUARY 2008 NATURE NEUROSCIENCE
+
+

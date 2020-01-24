@@ -1,0 +1,809 @@
+Achromatopsia mutations target sequential steps of
+ATF6 activation
+Wei-Chieh Chianga
+, Priscilla Chana
+, Bernd Wissingerb
+, Ajoy Vincentc
+, Anna Skorczyk-Wernerd
+, Maciej R. Krawczynski  d,e,
+Randal J. Kaufmanf
+, Stephen H. Tsangg,h,i, Elise Héonc
+, Susanne Kohlb
+, and Jonathan H. Lina,j,1
+a
+Department of Pathology, University of California, San Diego, La Jolla, CA 92093; b
+Institute for Ophthalmic Research, University of Tubingen, D-72076
+Tubingen, Germany; c
+Department of Ophthalmology and Vision Sciences, University of Toronto, Toronto, ON, Canada M5T 3A9; d
+Department of Medical
+Genetics, Poznan University of Medical Sciences, 60-806, Poznan, Poland; e
+Center for Medical Genetics GENESIS, 60-601, Poznan, Poland; f
+Degenerative
+Diseases Program, Sanford-Burnham-Prebys Medical Discovery Institute, La Jolla, CA 92037; g
+Jonas Children’s Vision Care and Bernard & Shirlee Brown
+Glaucoma Laboratory, Irving Comprehensive Cancer Center, Columbia University, New York, NY 10032; h
+Edward S. Harkness Eye Institute, New YorkPresbyterian Hospital, New York, NY 10032; i
+Departments of Ophthalmology, Pathology & Cell Biology, Institute of Human Nutrition, College of Physicians and
+Surgeons, Columbia University, New York, NY 10032; and j
+VA San Diego Healthcare System, San Diego, CA 92161
+Edited by Jonathan S. Weissman, University of California, San Francisco, CA, and approved November 30, 2016 (received for review April 21, 2016)
+Achromatopsia is an autosomal recessive disorder characterized by
+cone photoreceptor dysfunction. We recently identified activating
+transcription factor 6 (ATF6) as a genetic cause of achromatopsia.
+ATF6 is a key regulator of the unfolded protein response. In response to endoplasmic reticulum (ER) stress, ATF6 migrates from
+the ER to Golgi to undergo regulated intramembrane proteolysis
+to release a cytosolic domain containing a basic leucine zipper
+(bZIP) transcriptional activator. The cleaved ATF6 fragment migrates to the nucleus to transcriptionally up-regulate protein-folding enzymes and chaperones. ATF6 mutations in patients with
+achromatopsia include missense, nonsense, splice site, and single-nucleotide deletion or duplication changes found across the
+entire gene. Here, we comprehensively tested the function of achromatopsia-associated ATF6 mutations and found that they group
+into three distinct molecular pathomechanisms: class 1 ATF6 mutants show impaired ER-to-Golgi trafficking and diminished regulated intramembrane proteolysis and transcriptional activity; class
+2 ATF6 mutants bear the entire ATF6 cytosolic domain with fully
+intact transcriptional activity and constitutive induction of downstream target genes, even in the absence of ER stress; and class 3
+ATF6 mutants have complete loss of transcriptional activity because of absent or defective bZIP domains. Primary fibroblasts
+from patients with class 1 or class 3 ATF6 mutations show increased cell death in response to ER stress. Our findings reveal that
+human ATF6 mutations interrupt distinct sequential steps of the
+ATF6 activation mechanism. We suggest that increased susceptibility to ER stress-induced damage during retinal development underlies the pathology of achromatopsia in patients with ATF6 mutations.
+cone photoreceptor | achromatopsia | endoplasmic reticulum stress |
+ATF6 | unfolded protein response
+Achromatopsia is a heritable blinding disease caused by cone
+photoreceptor dysfunction that spares the rod system. Using
+next-generation whole-exome sequencing, we recently discovered autosomal recessive mutations in the activating transcription factor 6 (ATF6) gene in patients with achromatopsia (1).
+ATF6 mutations span the entire coding region and include missense, nonsense, splice site, and single-nucleotide deletion and
+duplication changes (1–3). We previously showed that a missense
+mutation that introduced an arginine-to-cysteine substitution at
+amino acid residue 324 of the ATF6 protein compromised ATF6
+activity in patient fibroblasts obtained from an achromatopsia
+family (1). However, the functional consequences of the other ATF6
+mutations found in patients with achromatopsia remain unknown.
+In humans, ATF6 is a 670-amino acid glycosylated transmembrane protein found in the endoplasmic reticulum (ER) (4).
+In response to protein misfolding in the ER or other forms of ER
+stress, ATF6 migrates from the ER to the Golgi apparatus, where
+the site 1 protease (S1P) and site 2 protease (S2P) cleave ATF6 in
+the transmembrane domain to liberate the cytosolic domain of
+ATF6 (4–6). The cytosolic domain contains a transcription factor of
+the basic leucine zipper (bZIP) family (4). Upon release from the
+Golgi membrane, the free ATF6 cytosolic transcriptional activator
+fragment migrates to the nucleus to bind DNA and transcriptionally
+up-regulate target genes that include ER protein folding chaperones and enzymes (4, 7, 8). Via this signal transduction mechanism,
+ATF6 activation helps restore ER protein folding homeostasis and
+alleviates ER stress (9).
+Here, we investigated how ATF6 mutations found in patients
+with achromatopsia affect ATF6’s molecular mechanism of signaling and activation, using patient fibroblasts and recombinant
+mutant ATF6 proteins. We identified a class of ATF6 mutations
+in the luminal domain that reduce ATF6 signaling by impairing
+ER-to-Golgi trafficking of full-length ATF6 during ER stress.
+We identified a second class of ATF6 mutations near the transmembrane domain that have the potential to produce intact ATF6
+cytosolic fragments with fully functional transcriptional activator properties. Last, we identified a third class of ATF6
+mutations in the cytosolic domain that cause the loss of ATF6
+function by deletion or mutation of the bZIP and/or transcriptional activator domain. Patient fibroblasts with loss-offunction ATF6 mutations exhibited significantly increased cell
+death in response to ER stress.
+Significance
+The unfolded protein response regulator activating transcription factor 6 (ATF6) was recently identified as a novel genetic
+cause of the cone photoreceptor disease achromatopsia. ATF6
+upregulates genes that help cells cope with endoplasmic reticulum stress. We identified the pathomechanisms of all ATF6
+achromatopsia mutations. Class 1 ATF6 mutants show impaired
+endoplasmic reticulum (ER)-to-Golgi trafficking and diminished
+production of the transcriptional activator fragment. Class 2
+mutants encode the intact ATF6 transcriptional activator domain with full activity. Class 3 mutants have defective basic
+leucine zipper (bZIP) domains with abrogated function. Patient
+fibroblasts show increased apoptosis after ER stress. Our
+findings reveal that human ATF6 mutations interrupt distinct
+steps of ATF6 activation. ER stress-associated damage may
+underlie the pathology of achromatopsia arising from ATF6.
+Author contributions: W.-C.C. and J.H.L. designed research; W.-C.C., P.C., and J.H.L. performed research; W.-C.C., B.W., A.V., A.S.-W., M.R.K., R.J.K., S.H.T., E.H., S.K., and J.H.L.
+contributed new reagents/analytic tools; W.-C.C., B.W., A.V., A.S.-W., M.R.K., R.J.K., S.H.T.,
+E.H., S.K., and J.H.L. analyzed data; and W.-C.C., S.K., and J.H.L. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: JLin@ucsd.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1606387114/-/DCSupplemental.
+400–405 | PNAS | January 10, 2017 | vol. 114 | no. 2 www.pnas.org/cgi/doi/10.1073/pnas.1606387114
+Results
+Class 1 ATF6[Y567N] Mutation Impairs ER-to-Golgi Trafficking During
+ER Stress. Four achromatopsia-associated ATF6 mutations introduce missense or frame shift changes in exons encoding the
+ER luminal domain of ATF6 (Fig. S1) (1, 3). We previously identified a family with a tyrosine-to-asparagine substitution at amino
+acid position 567 in the luminal domain of ATF6 (1). We obtained
+fibroblasts from two unaffected heterozygous (ATF6Y567N/+
+) parents, probands 1 and 2, and a homozygous (ATF6Y567N/Y567N) affected child, patient 3 (Fig. 1A). We found comparable levels of
+ATF6 mRNA and full-length ATF6 protein in heterozygous and
+homozygous fibroblasts under standard cell culturing conditions
+(Fig. 1 B and C). During ER stress conditions experimentally
+induced by tunicamycin application, ATF6 mRNA levels and the
+full-length ATF6 protein levels were up-regulated in both heterozygous and homozygous fibroblasts compared with the untreated samples (Fig. 1 B and C). However, significantly reduced
+levels of the cleaved ATF6 cytosolic fragment were seen in homozygous ATF6Y567N/Y567N fibroblasts compared with heterozygous controls in response to experimental ER stress induced by
+DTT (Fig. 1D). These findings showed that ATF6 mRNA and
+full-length protein were normally generated in the ATF6Y567N
+mutant, but during ER stress, lower levels of the cleaved functional transcriptional activator domain of ATF6 were present in
+ATF6Y567N/Y567N fibroblasts despite normal to increased levels of
+full-length ATF6 protein compared with heterozygous controls.
+Consistent with reduction of the ATF6 transcriptionally active
+fragment, we found reduced levels of BIP/GRP78 mRNA and
+protein, an ER chaperone transcriptionally up-regulated by
+ATF6 (4, 7, 10), in ATF6Y567N/Y567N fibroblasts compared with
+heterozygous controls in response to experimental ER stress
+(Fig. 1 E and F). These findings revealed that the luminal ATF6
+[Y567N] mutation resulted in the impairment of ATF6 signaling
+in ATF6Y567N/Y567N fibroblasts during ER stress.
+ATF6 signaling is a key component of the unfolded protein
+response (UPR) and operates in parallel with UPR signal
+transduction pathways controlled by the inositol-requiring enzyme 1 (IRE1) and PKR-like endoplasmic reticulum kinase
+(PERK) proteins to ensure normal ER function in mammalian
+cells (11, 12). We next examined whether the other branches of
+the UPR were also dysregulated in ATF6Y567N/Y567N fibroblasts.
+We assayed two specific molecular events of the IRE1 UPR
+signaling pathway, XBP1 mRNA splicing, an early proximal
+event specifically initiated by IRE1 activation (13, 14), and
+ERdj4 transcription, a downstream target gene induced by IRE1
+signaling (Fig. 1 E and G) (7, 8, 15, 16). For the UPR signaling
+pathway regulated by PERK, we examined levels of phosphorylated eIF2α protein, an early proximal event in the PERK signal
+transduction pathway (17, 18), and CHOP mRNA transcript, a
+downstream target gene potently up-regulated by PERK signaling (Fig. 1 E and H) (19). For these IRE1 and PERK pathway
+markers, we observed a small (<10%) but statistically significant decrease in ERdj4 and CHOP transcript levels between
+ATF6Y567N/Y567N fibroblasts and heterozygous controls (Fig. 1 E–H).
+These studies revealed that ATF6Y567N/Y567N fibroblasts with
+compromised ATF6 signaling also showed mild impairment of the
+transcriptional output of other UPR pathways during ER stress.
+Next, we investigated the mechanism underlying the reduction
+in levels of the cleaved ATF6 fragment observed during ER
+stress in ATF6Y567N/Y567N fibroblasts. To ensure that the ATF6
+protein level differences were not a result of fibroblast cell line
+differences, we expressed FLAG-tagged full-length wild-type
+ATF6 or mutant ATF6[Y567N] in HEK293 cells. Similar to our
+findings in the primary patient fibroblasts, we observed significantly reduced levels of cleaved ATF6 in response to ER stress
+induced by DTT in cells expressing ATF6[Y567N] compared
+with wild-type ATF6 (Fig. 2A). In response to ER stress, fulllength ATF6 traffics from ER to Golgi, where the Golgi-resident
+S1P and S2P proteases cleave the full-length protein to liberate
+the cytosolic transcriptional activator ATF6 fragment. We examined whether defects in ER-to-Golgi trafficking were responsible for the reduced production of cleaved ATF6 seen with
+the ATF6[Y567N] mutant. First, we compared the sensitivity
+with endoglycosidase H (Endo H) of wild-type ATF6 and the
+ATF6[Y567N] mutant. Prior studies had demonstrated that
+ATF6 was glycosylated with high mannose N-glycan in the ER
+and that this glycosylated ATF6 isoform was sensitive to Endo H
+(4, 5). When ATF6 traveled to Golgi during ER stress, the high
+mannose N-glycan of ATF6 was trimmed by glycosidases in the
+Golgi to produce an Endo H-resistant full-length ATF6 that
+could be transiently visualized by SDS/PAGE in cells before
+undergoing S1P protease cleavage (5).
+A B
+55 kDa β-Tubulin
+Cleaved
+ATF6
+95 kDa
+ 55 kDa
+Patient #: 1
+DTT (30 min): - 1 2 - 1 2 - 1 2 - 2 (mM)
+Full length
+ATF6
+C 2 3 HEK ATF6 mRNA level
+Patient # : 1 2 3
+Without TM With TM (5 μg/ml)
+0
+0.5
+1
+1.5
+2
+1X 2 1
+3
+ATF6Y567N/+ ATF6Y567N/+
+ATF6Y567N/Y567N D
+us
+s XBP-1
+TM (5μg/ml): - + - + - +
+Patient #: 1 2 3
+P-eIF2α 36 kDa
+95 kDa HSP90
+BiP/GRP78 72 kDa
+E F
+G H
+Full length
+ATF6 95 kDa
+TM (5μg/ml): - - - + + +
+95 kDa HSP90
+Patient #: 1 2 3 1 2 3
+*
+Patient # : 0
+10
+20
+30
+1 2 3
+BIP/GRP78
+ mRNA level
+p=8.62X10-5
+p=0.0017
+ERdj4 mRNA level
+0
+10
+20
+30
+Patient # : 1 2 3
+p=0.019
+p=0.002
+CHOP mRNA level
+0
+5
+10
+15
+20
+ Patient # : 1 2 3
+Without TM With TM (5 μg/ml)
+p=0.010
+p=0.008
+Fig. 1. Impaired cleavage of ATF6 in response to ER stress in class 1 mutant
+ATF6[Y567N] patient fibroblasts. (A) Pedigree of the family carrying
+ATF6Y567N alleles. The heterozygous parents (ATF6Y567N/+) were indicated as
+patient 1 and 2 for the mother and the father, respectively. The homozygous
+(ATF6Y567N/Y567N) female child was indicated as patient 3. (B) ATF6Y567N/+ or
+ATF6Y567N/Y567N patient fibroblasts were challenged with tunicamycin (TM)
+at the indicated concentration for 24 h. mRNA was collected from the fibroblasts. ATF6 mRNA levels were measured by real-time quantitative PCR
+and normalized to the level in the untreated ATF6Y567N/+ parental control
+(patient #1) fibroblast cells. (C) Patient fibroblasts expressing ATF6[Y567N]
+were challenged with TM at the indicated concentration for 24 h. Endogenous ATF6 protein levels were detected by immunoblotting. *Position of the
+deglycosylated full-length ATF6 protein produced after TM treatment.
+(D) Patient fibroblasts expressing ATF6[Y567N] were challenged with DTT for
+30 min, and ATF6 protein levels were detected by immunoblotting using
+anti-ATF6 antibody. To help identify the electrophoretic migration patterns
+of full-length and cleaved ATF6 fragments, HEK293 cells were also challenged with DTT, and lysates were immunoblotted with anti-ATF6 antibody.
+(E) Patient fibroblasts were challenged with TM at the indicated concentration for 24 h. XBP1 mRNA splicing was assessed by RT-PCR. The level
+of phosphorylated-eIF2α and BiP/GRP78 were detected by immunoblotting.
+(F–H) The mRNA levels of ATF6 downstream target gene BIP/GRP78 (F), IRE1
+downstream target gene ERdj4 (G), and PERK downstream target gene
+CHOP (H) were assessed by real-time quantitative PCR and normalized to
+mRNA levels in untreated samples.
+Chiang et al. PNAS | January 10, 2017 | vol. 114 | no. 2 | 401
+NEUROSCIENCE
+We found that both wild-type ATF6 and the mutant
+ATF6[Y567N] underwent glycosylation in the ER and showed
+identical Endo H sensitivity profiles (Fig. 2B). However, when we
+added S1P inhibitor and analyzed protein lysates collected from
+cells treated with DTT, we saw an Endo H-resistant ATF6 isoform only with wild-type ATF6 (Fig. 2B). This finding provided
+biochemical evidence that the mutant ATF6[Y567N] trafficked
+poorly from ER to Golgi compared with the wild-type protein
+during ER stress. Consistent with these biochemical results,
+when we examined the subcellular localization of ATF6 by fluorescence confocal microscopy, we found colocalization of wildtype ATF6 and the Golgi marker Golgi membrane protein
+1 (GOLPH2), in response to ER stress induced by DTT (Fig.
+2C, upper two rows). However, the mutant ATF6[Y567N] and
+GOLPH2 remained in separate subcellular compartments with
+no colocalization of fluorescent signals under the same experimental conditions (Fig. 2C, bottom two rows). We confirmed that
+both wild-type and mutant ATF6[Y567N] were localized in the ER
+under resting (nonstressed) conditions, as evident by colocalization
+with the ER resident protein, PDI (Fig. S2). Another luminal
+domain mutant, ATF6[D564G], also showed impaired cleavage
+and trafficking in analogous assays (Fig. 2 D and E). In sum, our
+studies revealed that the mechanism underlying attenuation of
+transcriptional activity in class 1 ATF6 luminal domain mutants
+arose from an unexpected defect in the process of ER-to-Golgi
+trafficking in response to ER stress, leading to reduced production
+of the cleaved transcriptional activator domain of ATF6.
+Constitutive Transcriptional Activity in Class 2 ATF6 Mutants. The
+amino terminal domain of ATF6 is a 370–380-amino acid bZIP
+transcription factor, and expression of recombinant ATF6 protein bearing only the first 373 amino acids from ATF6’s cytosolic
+domain reconstituted the transcriptional activity of ATF6 in
+mammalian cells (4, 20). Intriguingly, three of the ATF6 mutations identified in patients with achromatopsia were predicted to
+create ATF6 fragments of similar length to the ATF6(373)
+transcriptionally active fragment (Fig. S1 and refs. 1 and 3). To
+determine whether this group of ATF6 mutations showed functional activity, we expressed a recombinant FLAG-tagged ATF6
+bearing a frame-shift mutation that caused a valine-to-serine
+substitution at amino acid 371 of ATF6, followed by a stop codon
+three amino acids distally, ATF6[V371Sfs*3]. We found that the
+ATF6[V371Sfs*3] protein showed nearly identical size mobility
+to ATF6(373) in transfected HEK293 cells (Fig. 3A, compare
+lane 5 and lane 2). We also found that ATF6[V371Sfs*3] transcriptionally induced ATF6 downstream target genes, BIP/
+GRP78, HERPUD1, and SEL1L, as potently as ATF6(373) (21)
+(Fig. 3B). The expression of CHOP was also up-regulated by
+both ATF6(373) and ATF6[V371Sfs*3] (Fig. 3B). In analogous
+studies, we also found that the ATF6[R376*] mutant showed
+nearly identical size mobility to ATF6(373), and induction of
+ATF6 downstream target gene, BIP/GRP78 (Fig. S3). These
+findings demonstrated that the recombinant mutant ATF6
+[V371Sfs*3] and ATF6[R376*] proteins are fully functional
+transcriptional activators in vitro. In vivo, the amount of functional truncated ATF6[V371Sfs*3] and ATF6[R376*] proteins
+may be less than wild-type ATF6 protein levels because the
+nonsense and premature stop codons found in these mutants
+may subject their mRNA transcripts to nonsense-mediated
+mRNA decay (NMD) (1).
+Class 3 ATF6 Mutants Are Transcriptionally Inactive. Five ATF6
+mutations found in patients with achromatopsia introduce nonsense or premature stop codons in exons encoding the cytosolic
+domain of ATF6 and are predicted to produce ATF6 cytosolic
+protein fragments with nonfunctional bZIP or lacking the entire
+bZIP and transcriptional activator domains (Fig. S1 B and C and
+refs. 1 and 2). To test whether this group of ATF6 mutations
+compromised ATF6 function, we expressed recombinant FLAGtagged ATF6 bearing several of these mutations, including a
+proline-to-leucine mutation at position 118, followed by a premature stop codon 31 amino acids distally, ATF6[P118Lfs*31],
+which lacks the bZIP domain and part of the transcription activator domain, and a nonsense mutation of an asparagine residue at position 267, ATF6[N267*], which lacks only the bZIP
+domain. We detected protein expression of these truncated ATF6
+mutants after transfection into HEK293 cells (Fig. 3A), but found
+no transcriptional induction of ATF6 target proteins with either
+mutant (Fig. 3 A and B). Coupled with our prior studies of the
+ATF6[R324C] mutant (1), these results identify a class of diseaseassociated ATF6 mutations that cause loss of function through
+disruption of transcriptional activity by truncating the bZIP and/or
+transcriptional activator domains or by directly mutating critical
+residues in the bZIP domain in the ATF6 cytosolic domain.
+To determine how the loss of ATF6 activity affected other
+signaling arms of the UPR in patient cells with this class of mutations, we examined fibroblasts previously collected from a family
+36 kDa GAPDH
+Flag 95 kDa
+ 72 kDa
+WT-ATF6
+DTT (2mM): 0 20 40 60 120 0 20 40 60 120 (min)
+A ATF6[Y567N]
+C
+HSP90
+Cleaved ATF6
+ATF6[Y567N] Endo H : - + - + - + - +
+95 kDa
+72 kDa
+Full length ATF6
+Deglycosylated
+ATF6 95 kDa
+Flag
+WT-ATF6
+WT-ATF6
+ATF6[Y567N]
+DTT (2mM) : + + + + + + + +
+S1P inhibitor (30 μM) : - - - - + + + +
+B
+Flag
+GOLPH2
+DAPI
+WT-ATF6 ATF6[Y567N]
+Without DTT With DTT
+Flag
+GOLPH2
+DAPI
+Scale bar: 10 μm
+Without DTT With DTT
+WT-ATF6 ATF6[Y567N]
+% cell
+colocalization
+50
+100
+0
+Without DTT
+With DTT
+36 kDa GAPDH
+95 kDa
+ 72 kDa
+WT-ATF6
+DTT (2mM): - + - +
+Cleaved ATF6
+ATF6[D564G]
+Full length ATF6
+Flag
+55 kDa β-Tubulin
+Endo H : - + - + - + - +
+Full length ATF6
+Deglycosylated
+ATF6 95 kDa
+Flag
+DTT (2mM) : + + + + + + + +
+S1P inhibitor (30 μM) : - - + + - - + +
+WT-ATF6 ATF6[D564G]
+72 kDa Cleaved ATF6
+D
+E
+Fig. 2. Impaired ER-to-Golgi trafficking of class 1 mutants ATF6[Y567N] and
+ATF6[D564G] during ER stress. (A) Recombinant FLAG-tagged ATF6[Y567N]
+was expressed in HEK293 cells for 20 h and then challenged with DTT as
+indicated. ATF6 protein levels were detected by immunoblotting with
+anti-FLAG. The band above 95 kDa and the band at 72 kDa represent the
+full-length FLAG-tagged ATF6 and cleaved FLAG-tagged ATF6, respectively.
+(B) Recombinant FLAG-tagged wild-type ATF6 and ATF6[Y567N] were expressed in HEK293 cells for 20 h and then challenged with DTT with or
+without S1P inhibitor, as indicated, for 90 min. Cell lysates were treated with
+Endo H, as indicated. ATF6 protein levels were detected by immunoblotting
+with anti-FLAG. The bands above 95 kDa and the band at 72 kDa represent
+the full-length FLAG-tagged ATF6 (either Endo H sensitive or insensitive) and
+cleaved FLAG-tagged ATF6, respectively. (C) ATF6[Y567N] was expressed in
+HEK293 cells for 20 h and then challenged with 2 mM DTT for 40 min. The
+subcellular localization of ATF6 was visualized by immunofluorescence labeling and confocal microscopy by anti-FLAG antibody (shown in red). The
+Golgi apparatus was visualized by GOLPH2 immunostaining (shown in
+green). The nucleus was visualized by DAPI staining (shown in blue). The
+percentage of cells showing FLAG and GOLPH2 colocalization was quantified
+and shown in the bottom graph. (Scale bar, 10 μm.) (D) Recombinant FLAGtagged ATF6[D564G] was expressed in HEK293 cells for 20 h and then
+challenged with DTT for 1 h. ATF6 protein levels were detected by immunoblotting with anti-FLAG. (E) Recombinant FLAG-tagged wild-type ATF6
+and ATF6[D564G] were expressed in HEK293 cells for 20 h and then challenged with DTT with or without S1P inhibitor, as indicated, for 90 min. Cell
+lysates were treated with Endo H, as indicated.
+402 | www.pnas.org/cgi/doi/10.1073/pnas.1606387114 Chiang et al.
+expressing the ATF6[R324C] mutation (1). These included an
+unaffected heterozygous parent (ATF6R324C/+
+), proband 1, and
+three affected homozygous achromatic children (ATF6R324C/R324C),
+patients 2, 3, and 4 (Fig. 4A). We found comparable levels of
+ATF6 mRNA and full-length ATF6 protein in heterozygous and
+homozygous fibroblasts (Fig. 4 B and C). During experimentally
+induced ER stress conditions, we found increased levels of ATF6
+mRNA and protein in heterozygous and homozygous fibroblasts
+(Fig. 4 B and C). However, we found reduced levels of BiP/GRP78
+protein in ATF6R324C/R324C fibroblasts compared with heterozygous controls in response to experimental ER stress consistent
+with our prior studies that showed that the ATF6[R324C] mutation compromised ATF6 signaling activity (Fig. 4C). This signaling
+defect arose from impairment of the bZIP transcriptional activator domain itself, and not at earlier steps in the trafficking or
+production of the cytosolic ATF6 fragment, because full-length
+ATF6[R324C] protein underwent ER-to-Golgi trafficking (Fig. 5
+B and C) and produced the cleaved ATF6 transcriptional activator
+fragment with similar kinetics to the wild-type protein in response
+to ER stress (Fig. 5A).
+We next examined whether the IRE1 and PERK signaling
+branches of the UPR were dysregulated in ATF6R324C/R324C fibroblasts. For IRE1 pathway markers, we saw no difference in
+XBP1 mRNA levels or XBP1 mRNA splicing between
+ATF6R324C/R324C fibroblasts and heterozygous control (Fig. 4D
+and Fig. S4). However, we saw significantly reduced transcriptional induction of ERdj4 in ATF6R324C/R324C fibroblasts compared with heterozygous control (Fig. 4 D and E). For the
+PERK pathway markers, we saw no difference in eIF2α phosphorylation between ATF6R324C/R324C fibroblasts and heterozygous control (Fig. 4C). However, we saw significantly reduced
+transcriptional induction of CHOP in ATF6R324C/R324C fibroblasts compared with heterozygous control (Fig. 4 C and F).
+These studies revealed that ATF6R324C/R324C fibroblasts show
+compromised ATF6 transcriptional activity as well as significant impairment of the transcriptional output from the IRE1
+and PERK signaling branches of the UPR during ER stress.
+Class 1 and Class 3 ATF6 Mutant Fibroblasts Are More Susceptible to
+ER Stress-Mediated Cell Death. Our studies revealed that class 1
+and class 3 ATF6 mutations both impaired ATF6 function. ATF6
+ameliorates ER stress through its transcriptional induction of ER
+A
+B
+ 72 kDa BiP/GRP78
+HSP90 95 kDa
+GFP
+36 kDa
+Flag
+ATF6
+95 kDa
+ 72 kDa
+ 55 kDa
+ 36 kDa
+95 kDa
+ 72 kDa
+ 55 kDa
+ 36 kDa
+Endogenous
+full length ATF6
+Mock
+ATF6 (373)
+ATF6[P118Lfs*31]
+ATF6[N267*]
+ATF6[V371Sfs*3]
+Lane : 1 2 3 4 5
+Mock
+ATF6 (373)
+ATF6[P118Lfs*31]
+ATF6[N267*]
+ATF6[V371Sfs*3]
+BIP/GRP78 HERPUD1 SEL1L CHOP 10
+7.5
+5
+2.5
+0
+mRNA level
+Fig. 3. Transcriptional activator properties of class 2 and class 3 mutant
+ATF6 proteins. (A) FLAG epitope-tagged ATF6(373), ATF6[V371Sfs*3] (a class
+2 mutant), and ATF6[P118Lfs*31] and ATF6[N267*] (class 3 mutants) were
+cotransfected with GFP into HEK293 cells. ATF6 protein levels were detected
+by immunoblotting, using anti-ATF6 and anti-FLAG antibodies. BiP/GRP78
+and GFP protein levels were detected by immunoblotting. GFP levels were
+assessed as a transfection control. (B) ATF6(373), ATF6[P118Lfs*31], ATF6
+[N267*], and ATF6[V371Sfs*3] were expressed in the HEK293 cells and mRNA
+was collected. Levels of genes transcriptionally regulated by ATF6, including
+BIP/GRP78, HERPUD1, and SEL1L, were measured by real-time quantitative
+PCR and normalized to levels in mock transfected cells. CHOP, a gene that is
+regulated by PERK activation, was also assessed.
+A B
+BiP/GRP78 72 kDa
+ATF6
+95 kDa
+ 55 kDa
+TM (5 g/ml): - - - - + + + +
+95 kDa HSP90
+36 kDa P-eIF2
+Patient #: 1 2 3 4 1 2 3 4
+us
+s XBP-1
+TM (5 g/ml): - + - + - + - +
+Patient #: 1 2 3 4
+C
+ATF6 mRNA level
+Patient # : 1 2 3 4
+Without TM With TM (5 g/ml)
+0
+0.5
+1
+1.5
+2
+1X
+Without TM With TM (5 g/ml)
+0
+5
+10
+15
+20
+25
+ERdj4 mRNA level
+Patient # : 1 2 3 4
+CHOP mRNA level
+0
+5
+10
+15
+20
+Patient # : 1 2 3 4
+D
+E F
+1
+23 4
+ATF6R324C/+ ATF6R324C/+
+ATF6R324C/R324C ATF6R324C/R324C ATF6R324C/R324C
+p=0.004
+p=0.0007
+p=0.0036
+p=0.014
+p=0.012
+p=0.018
+*
+Fig. 4. ATF6, IRE1, and PERK activity in class 3 mutant, ATF6R324C, patient
+fibroblasts. (A) Pedigree of the family carrying ATF6R324C alleles. The heterozygous mother (ATF6R324C/+) was indicated as patient 1. The homozygous (ATF6R324C/R324C) children were indicated as patients 2, 3, and 4.
+(B) ATF6R324C/+ or ATF6R324C/R324C patient fibroblasts were challenged with
+TM at the indicated concentration for 24 h. mRNA was collected from the
+fibroblasts. ATF6 mRNA levels were measured by real-time quantitative PCR
+and normalized to the level in the untreated ATF6R324C/+ parental control
+(patient #1) fibroblast cells. (C) ATF6R324C/+ or ATF6R324C/R324C patient fibroblasts were challenged with TM for 24 h. ATF6, phosphorylated-eIF2α, and
+BiP/GRP78 were detected in protein lysates by immunoblotting. *Position of
+the deglycosylated full-length ATF6 protein produced after TM treatment.
+(D) XBP1 mRNA splicing was visualized by semiquantitative RT-PCR from patient
+fibroblasts treated with TM for 24 h, as indicated. (E and F) Patient fibroblasts were challenged with TM as indicated for 24 h. The mRNA levels of
+IRE1 pathway downstream target gene, ERdj4 (E), and PERK pathway
+downstream target gene, CHOP (F), were measured by real-time quantitative PCR and normalized to levels in untreated cells.
+Chiang et al. PNAS | January 10, 2017 | vol. 114 | no. 2 | 403
+NEUROSCIENCE
+protein folding chaperones and enzymes (7). If ER stress is not
+alleviated, cells ultimately undergo cell death (22, 23). We
+compared kinetics of cell death in patient fibroblasts expressing
+the class 1 and class 3 ATF6 mutants to see how the loss of ATF6
+function affected survival during extended ER stress. In response
+to thapsigargin exposure, we observed significantly increased
+levels of the apoptosis marker, cleaved poly(ADP-ribose) polymerase (PARP), in ATF6Y567N/Y567N fibroblasts compared with
+heterozygous controls (Fig. 6A, cf. patient 3’s fibroblasts with
+those of patients 1 and 2). Similarly, we observed increased levels
+of PARP cleavage in ATF6R324C/R324C fibroblasts compared with
+heterozygous parental control (Fig. 6B, cf. patients 2, 3, and 4
+with patient 1’s cells). These studies revealed that a physiologic
+consequence of the loss of ATF6 function caused by class 1 and
+class 3 ATF6 mutations was heightened cell death in response to
+ER stress.
+Discussion
+Our studies provide a framework for functional and pathomechanistic classification of ATF6 mutations identified in
+achromatopsia (Fig. S1). Class 1 mutations affect the luminal
+domain of ATF6 and lead to loss of function. The pathomechanism underlying loss of function in class 1 ATF6 mutations
+is inefficient trafficking from ER to Golgi during ER stress,
+leading to poor production of the ATF6 transcriptional activator
+fragment (Fig. S1A). Class 2 mutations cluster near the transmembrane domain of ATF6. These mutations produce the entire
+cytosolic ATF6 fragment unbound to membrane and show fully
+intact ATF6 transcriptional activity (Fig. S1A). The class 2 ATF6
+transcripts all bear premature stop codons and are likely targets
+of nonsense-mediated mRNA decay machinery (1). Nonsensemediated decay reduces mRNA transcript levels by ∼50–85%,
+depending on tissue type and environmental factors (24). Therefore, whether class 2 mutations produce significant amounts of
+cytosolic ATF6 transcriptional activator fragment and show constitutive signaling in vivo requires further analysis in patients with
+these mutations. Class 3 mutations affect the cytosolic domain of
+ATF6 and lead to loss of function. The pathomechanism underlying loss of function in this class of mutations is deletion or
+mutation of the bZIP and/or transcriptional activator domain.
+Do the mechanistic differences we identified between ATF6
+mutations lead to phenotypic differences? In particular, we
+found that a class 3 mutant had loss of ATF6 signaling plus
+significant impairment of the transcriptional output of IRE1 and
+PERK signaling (Fig. 4), whereas the class 1 mutant only showed
+minor impairment of the transcriptional output of IRE1 and
+PERK signaling (Fig. 1). One possibility is that up-regulation of
+ER stress genes, such as ERdj4 and CHOP, requires the production of functional ATF6 cytosolic bZIP transcriptional activator domain. In this view, class 1 mutant ATF6 can still produce
+a functional cytosolic domain under ER stress, albeit with reduced efficiency. In contrast, class 3 mutant ATF6 produces a
+nonfunctional cytosolic domain. This could explain why the upregulation of ERdj4 and CHOP under ER stress is more severely
+impaired in class 3 mutant ATF6s. Our identification of distinct
+pathomechanisms of ATF6 disease mutations enables prospective longitudinal study of retinal structure and phenotype to
+identify possible differences in achromatopsia disease phenotype
+and severity between carriers with different classes of ATF6
+mutations. Evaluation with adaptive optics and other retinal
+imaging modalities may reveal cone phenotype differences corresponding to different classes of ATF6 mutations (25, 26).
+What are the therapeutic implications of differences between
+ATF6 mutations’ mechanisms of pathology? Class 1 ATF6 mutants inefficiently traffic from ER to Golgi but have normal bZIP
+transcriptional activator domains. For this class of mutations, our
+findings indicate that therapeutic strategies should focus on
+improving protein trafficking out of the ER so the full-length
+ATF6 protein can be cleaved by the S1P and S2P Golgi-resident
+proteases. Once cleaved and separated from the defective luminal domain, the cytosolic ATF6 domain can engage in its
+normal transcriptional activator role. In contrast, the class 3
+ATF6 mutants require a different therapeutic approach than
+class 1 trafficking mutants because class 3 mutants completely
+A
+C
+B
+Flag
+GOLPH2
+DAPI
+WT-ATF6 ATF6[R324C]
+Without DTT With DTT
+GOLPH2
+Flag DAPI
+Scale bar: 10 m
+Without DTT With DTT
+0
+25
+50
+75
+100
+WT-ATF6 ATF6 R324C
+% cell colocalization
+Without DTT With DTT
+36 kDa HSP90
+Flag
+95 kDa
+ 72 kDa
+WT-ATF6
+DTT (2mM): 0 60 120 0 60 120 (min)
+ATF6[R324C]
+Cleaved ATF6
+Full length ATF6
+HSP90
+Cleaved ATF6
+Endo H : - + - + - + - +
+95 kDa
+72 kDa
+Full length ATF6
+Deglycosylated
+ATF6
+95 kDa
+Flag
+DTT (2mM) : + + + + + + + +
+S1P inhibitor(30 M) : - - + + - - + +
+WT-ATF6 [R324C]
+ATF6
+[ ]
+Fig. 5. Normal ER-to-Golgi trafficking of class 3 mutant, ATF6R324C during
+ER stress. (A) Recombinant FLAG-tagged ATF6[R324C] was expressed in
+HEK293 cells for 20 h and then challenged with DTT, as indicated. ATF6 protein
+levels were detected by immunoblotting with anti-FLAG. (B) Recombinant
+FLAG-tagged wild-type ATF6 and ATF6[R324C] were expressed in HEK293
+cells for 20 h and then challenged with DTT with or without S1P inhibitor,
+as indicated, for 90 min. Cell lysates were treated with Endo H, as indicated. ATF6 protein levels were detected by immunoblotting with antiFLAG. (C) ATF6[Y567N] was expressed in HEK293 cells for 20 h and then
+challenged with 2 mM DTT for 40 min. The subcellular localization of ATF6
+was visualized by immunofluorescence labeling and confocal microscopy
+by anti-FLAG antibody (shown in red). The Golgi apparatus was visualized by
+GOLPH2 immunostaining (shown in green). The nucleus was visualized by
+DAPI staining (shown in blue). The percentage of cells showing FLAG and
+GOLPH2 colocalization was quantified and shown in the graph. (Scale bar,
+10 μm.)
+B
+A
+-Tubulin 72 kDa
+95 kDa Cleaved PARP
+Thapsigargin (2 M): - - - - + + + + - +
+ATF6[R324C]
+Patient #: 1 2 3 4 1 2 3 4
+HEK
+-Tubulin 72 kDa
+95 kDa Cleaved PARP
+Thapsigargin (2 M): - - - + + + - +
+ATF6[Y567N]
+Patient #: 1 2 3 1 2 3
+HEK
+Fig. 6. Class 1 or class 3 mutant ATF6 fibroblasts show increased susceptibility to ER stress-induced cell death. Class 1 ATF6Y567N/+ or ATF6Y567N/Y567N
+human fibroblasts (A) and class 3 ATF6R324C/+ or ATF6R324C/R324C human fibroblasts (B) were treated with thapsigargin at the indicated concentration
+for 3 or 6 d, respectively. Cleaved PARP protein was detected by immunoblotting. As a control for the position of cleaved PARP protein, HEK293 cells
+were treated with thapsigargin, and lysates were probed for PARP.
+404 | www.pnas.org/cgi/doi/10.1073/pnas.1606387114 Chiang et al.
+lack or bear defective bZIP/transcriptional activator domains.
+Gene therapy to introduce functional ATF6 bZIP transcriptional
+activator or gene editing to repair the primary ATF6 nucleotide
+alterations may be potential therapeutic strategies for patients
+with these types of ATF6 mutations.
+Our current study highlights the surprisingly diverse molecular
+defects in the mechanism of ATF6 activation caused by achromatopsia-associated mutations. Patient fibroblasts with several
+of these mutations showed increased sensitivity to ER stressinduced cell death and damage. Diverse environmental insults
+have been found to trigger ER stress, including hypoxia, infection, inflammation, protein misfolding, and light damage (27–
+33). Exposure to these insults during retinal development may
+contribute to the cone dysfunction and vision loss that arises in
+children with mutations that compromise ATF6 function.
+Materials and Methods
+Cell Culture and Transfection. The maintenance and drug treatments of human primary fibroblast cells or HEK293 cells were described in detail in SI
+Materials and Methods. The generation of ATF6 mutant plasmids and the
+expression of these ATF6 mutants were described in detail in SI Materials
+and Methods.
+Molecular Biology. Cells were lysed, and total RNA was collected using the
+RNeasy mini kit according to manufacturer’s instructions (Qiagen). mRNA
+was reverse-transcribed, using the iScript cDNA Synthesis Kit (Bio-Rad). The
+methods for analyzing the level of XBP1 mRNA splicing and the qPCR
+analysis of gene expression are described in detail in SI Materials
+and Methods.
+Immunoblotting Analysis. Human fibroblasts or HEK293 cells expressing wildtype or mutant ATF6 were lysed in SDS lysis buffer [2% (g/vol) SDS, 62.5 mM
+Tris·HCl at pH 6.8, containing protease inhibitors (Sigma-Aldrich) and phosphatase inhibitor (Thermo Scientific)]. Protein concentrations of the total
+cell lysates were determined by bicinchoninic acid (BCA) protein assay
+(Pierce). Equal amounts of protein were loaded onto 10% or 4–15% MiniPROTEAN TGX precast gels (Bio-Rad) and analyzed by Western blot, as described in SI Materials and Methods.
+Endo H (New England Biolabs) digestion was performed on precleared
+total cell lysate for 1 h at 37 °C in the buffer supplied by the manufacturer. To
+preclear the cellular debris from the total lysate, cell lysate were spun at
+21,900 × g at 4 °C for 1 h.
+Immunofluorescence and Confocal Microscopy. Cells were grown on poly-Dlysine coated glass coverslips and transfected with wild-type ATF6 or ATF6
+[Y567N]. For immunofluorescence analysis, cells were fixed for 20 min at
+room temperature in 4% paraformaldehyde in PBS at pH 7.4, washed briefly
+with PBS, and permeabilized with 0.1% Triton X-100 in PBS. Cells were then
+washed two times with 1% BSA in PBS and blocked with 5% (vol/vol) goat
+serum in 1% BSA/PBS for 20 min. The coverslips were then incubated at
+room temperature for 1 h with primary antibodies followed by secondary
+antibody incubation as described in SI Materials and Methods. The coverslips
+were mounted in ProLong Gold antifade reagent with DAPI (Invitrogen), and
+images were collected with an Olympus FluoView-1000 confocal microscope.
+ACKNOWLEDGMENTS. We thank M. Wilkinson for helpful discussions on
+NMD and members of the J.H.L. laboratory for helpful review of the manuscript. S.H.T. is supported by the Barbara & Donald Jonas Laboratory of
+Regenerative Medicine; the Bernard & Shirlee Brown Glaucoma Laboratory; NIH Grants 5P30EY019007,R01EY018213, R01EY024698, R01EY026682,
+R21AG050437, and 5P30CA013696; the Research to Prevent Blindness Physician-Scientist Award; unrestricted funds from Research to Prevent Blindness;
+the Tistou and Charlotte Kerstan Foundation; the Crowley Family Fund; the
+Schneeweiss Stem Cell Fund; New York State (C029572); the Foundation
+Fighting Blindness New York Regional Research Center Grant (C-NY05-
+0705-0312); and the Gebroe Family Foundation. R.J.K. is supported by NIH
+Grants DK042394, DK103185, and DK088227. J.H.L. is supported by NIH
+Grants EY020846, NS088485, and U54OD020351, and VA Grant BX002284.
+The University of California, San Diego, School of Medicine Microscopy Core
+is supported by NIH Grants P30NS047101 and P30EY022589.
+1. Kohl S, et al. (2015) Mutations in the unfolded protein response regulator ATF6 cause
+the cone dysfunction disorder achromatopsia. Nat Genet 47(7):757–765.
+2. Ansar M, et al.; University of Washington Center for Mendelian Genomics (2015)
+Mutation of ATF6 causes autosomal recessive achromatopsia. Hum Genet 134(9):
+941–950.
+3. Xu M, et al. (2015) ATF6 Is Mutated in Early Onset Photoreceptor Degeneration With
+Macular Involvement. Invest Ophthalmol Vis Sci 56(6):3889–3895.
+4. Haze K, Yoshida H, Yanagi H, Yura T, Mori K (1999) Mammalian transcription factor
+ATF6 is synthesized as a transmembrane protein and activated by proteolysis in response to endoplasmic reticulum stress. Mol Biol Cell 10(11):3787–3799.
+5. Ye J, et al. (2000) ER stress induces cleavage of membrane-bound ATF6 by the same
+proteases that process SREBPs. Mol Cell 6(6):1355–1364.
+6. Shen J, Chen X, Hendershot L, Prywes R (2002) ER stress regulation of ATF6 localization by dissociation of BiP/GRP78 binding and unmasking of Golgi localization signals.
+Dev Cell 3(1):99–111.
+7. Wu J, et al. (2007) ATF6alpha optimizes long-term endoplasmic reticulum function to
+protect cells from chronic stress. Dev Cell 13(3):351–364.
+8. Yamamoto K, et al. (2007) Transcriptional induction of mammalian ER quality control
+proteins is mediated by single or combined action of ATF6alpha and XBP1. Dev Cell
+13(3):365–376.
+9. Nadanaka S, Yoshida H, Kano F, Murata M, Mori K (2004) Activation of mammalian
+unfolded protein response is compatible with the quality control system operating in
+the endoplasmic reticulum. Mol Biol Cell 15(6):2537–2548.
+10. Wang Y, et al. (2000) Activation of ATF6 and an ATF6 DNA binding site by the endoplasmic reticulum stress response. J Biol Chem 275(35):27013–27020.
+11. Walter P, Ron D (2011) The unfolded protein response: from stress pathway to homeostatic regulation. Science 334(6059):1081–1086.
+12. Wang M, Kaufman RJ (2016) Protein misfolding in the endoplasmic reticulum as a
+conduit to human disease. Nature 529(7586):326–335.
+13. Calfon M, et al. (2002) IRE1 couples endoplasmic reticulum load to secretory capacity
+by processing the XBP-1 mRNA. Nature 415(6867):92–96.
+14. Yoshida H, Matsui T, Yamamoto A, Okada T, Mori K (2001) XBP1 mRNA is induced by
+ATF6 and spliced by IRE1 in response to ER stress to produce a highly active transcription factor. Cell 107(7):881–891.
+15. Shoulders MD, et al. (2013) Stress-independent activation of XBP1s and/or ATF6 reveals three functionally diverse ER proteostasis environments. Cell Reports 3(4):
+1279–1292.
+16. Hassler JR, et al. (2015) The IRE1α/XBP1s Pathway Is Essential for the Glucose Response
+and Protection of β Cells. PLoS Biol 13(10):e1002277.
+17. Harding HP, Zhang Y, Bertolotti A, Zeng H, Ron D (2000) Perk is essential for translational regulation and cell survival during the unfolded protein response. Mol Cell
+5(5):897–904.
+18. Scheuner D, et al. (2001) Translational control is required for the unfolded protein
+response and in vivo glucose homeostasis. Mol Cell 7(6):1165–1176.
+19. Harding HP, et al. (2000) Regulated translation initiation controls stress-induced gene
+expression in mammalian cells. Mol Cell 6(5):1099–1108.
+20. Chiang WC, Hiramatsu N, Messah C, Kroeger H, Lin JH (2012) Selective activation of
+ATF6 and PERK endoplasmic reticulum stress signaling pathways prevent mutant
+rhodopsin accumulation. Invest Ophthalmol Vis Sci 53(11):7159–7166.
+21. Bommiasamy H, et al. (2009) ATF6alpha induces XBP1-independent expansion of the
+endoplasmic reticulum. J Cell Sci 122(Pt 10):1626–1636.
+22. Lin JH, et al. (2007) IRE1 signaling affects cell fate during the unfolded protein response. Science 318(5852):944–949.
+23. Rutkowski DT, et al. (2006) Adaptation to ER stress is mediated by differential stabilities of pro-survival and pro-apoptotic mRNAs and proteins. PLoS Biol 4(11):e374.
+24. Zetoune AB, et al. (2008) Comparison of nonsense-mediated mRNA decay efficiency
+in various murine tissues. BMC Genet 9:83.
+25. Aboshiha J, et al. (2014) A prospective longitudinal study of retinal structure and
+function in achromatopsia. Invest Ophthalmol Vis Sci 55(9):5733–5743.
+26. Genead MA, et al. (2011) Photoreceptor structure and function in patients with
+congenital achromatopsia. Invest Ophthalmol Vis Sci 52(10):7298–7308.
+27. Kroeger H, et al. (2012) Induction of endoplasmic reticulum stress genes, BiP and
+chop, in genetic and environmental models of retinal degeneration. Invest Ophthalmol
+Vis Sci 53(12):7590–7599.
+28. Yang LP, Wu LM, Guo XJ, Li Y, Tso MO (2008) Endoplasmic reticulum stress is activated
+in light-induced retinal degeneration. J Neurosci Res 86(4):910–919.
+29. Nakanishi T, et al. (2013) Role of endoplasmic reticulum stress in light-induced photoreceptor degeneration in mice. J Neurochem 125(1):111–124.
+30. Zhang SX, Ma JH, Bhatta M, Fliesler SJ, Wang JJ (2015) The unfolded protein response
+in retinal vascular diseases: implications and therapeutic potential beyond protein
+folding. Prog Retin Eye Res 45:111–131.
+31. Zhang SX, Sanders E, Fliesler SJ, Wang JJ (2014) Endoplasmic reticulum stress and the
+unfolded protein responses in retinal degeneration. Exp Eye Res 125(0):30–40.
+32. Alavi MV, et al. (2015) In Vivo Visualization of Endoplasmic Reticulum Stress in the
+Retina Using the ERAI Reporter Mouse. Invest Ophthalmol Vis Sci 56(11):6961–6970.
+33. Chiang WC, et al. (2015) Robust Endoplasmic Reticulum-Associated Degradation of
+Rhodopsin Precedes Retinal Degeneration. Mol Neurobiol 52(1):679–695.
+Chiang et al. PNAS | January 10, 2017 | vol. 114 | no. 2 | 405
+NEUROSCIENCE

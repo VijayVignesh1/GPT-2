@@ -1,0 +1,568 @@
+Reelin transiently promotes N-cadherin–dependent
+neuronal adhesion during mouse cortical development
+Yuki Matsunagaa,1, Mariko Nodaa,1, Hideki Murakawab
+, Kanehiro Hayashia
+, Arata Nagasakac
+, Seika Inouea
+,
+Takaki Miyatac
+, Takashi Miurad
+, Ken-ichiro Kuboa
+, and Kazunori Nakajimaa,2
+a
+Department of Anatomy, Keio University School of Medicine, Shinjuku-ku, Tokyo 160-8582, Japan; b
+Faculty of Mathematics, Kyushu University, Nishi-ku,
+Fukuoka 819-0395, Japan; c
+Department of Anatomy and Cell Biology, Nagoya University Graduate School of Medicine, Showa-ku, Nagoya 466-8550, Japan;
+and d
+Department of Anatomy and Cell Biology, Kyushu University Graduate School of Medical Sciences, Higashi-ku, Fukuoka 812-8582, Japan
+Edited by Pasko Rakic, Yale University, New Haven, CT, and approved January 10, 2017 (received for review September 14, 2016)
+Reelin is an essential glycoprotein for the establishment of the
+highly organized six-layered structure of neurons of the mammalian neocortex. Although the role of Reelin in the control of
+neuronal migration has been extensively studied at the molecular
+level, the mechanisms underlying Reelin-dependent neuronal layer
+organization are not yet fully understood. In this study, we directly
+showed that Reelin promotes adhesion among dissociated neocortical neurons in culture. The Reelin-mediated neuronal aggregation occurs in an N-cadherin–dependent manner, both in vivo and
+in vitro. Unexpectedly, however, in a rotation culture of dissociated
+neocortical cells that gradually reaggregated over time, we found
+that it was the neural progenitor cells [radial glial cells (RGCs)],
+rather than the neurons, that tended to form clusters in the presence of Reelin. Mathematical modeling suggested that this clustering of RGCs could be recapitulated if the Reelin-dependent
+promotion of neuronal adhesion were to occur only transiently.
+Thus, we directly measured the adhesive force between neurons and N-cadherin by atomic force microscopy, and found
+that Reelin indeed enhanced the adhesiveness of neurons to
+N-cadherin; this enhanced adhesiveness began to be observed
+at 30 min after Reelin stimulation, but declined by 3 h. These
+results suggest that Reelin transiently (and not persistently)
+promotes N-cadherin–mediated neuronal aggregation. When
+N-cadherin and stabilized β-catenin were overexpressed in the
+migrating neurons, the transfected neurons were abnormally
+distributed in the superficial region of the neocortex, suggesting
+that appropriate regulation of N-cadherin–mediated adhesion is important for correct positioning of the neurons during neocortical
+development.
+Reelin | N-cadherin | aggregation | corticogenesis | neuronal migration
+The mammalian neocortex is highly organized into six neuronal layers. This laminar structure is responsible for the
+complex motor, sensory, and cognitive functions of the mammalian brain (1). Neuronal migration plays an important role in
+the establishment of this layered structure. Cortical neurons are
+generated within the ventricular zone (VZ) or subventricular
+zone (SVZ), and migrate along radial fibers toward the pial
+surface. Newly born excitatory neurons migrate radially into the
+cortical plate (CP) past the neurons born earlier, resulting in a
+birth date-dependent “inside-out” alignment of the neurons in
+the CP (2–4).
+Reelin is a glycoprotein that is secreted by the Cajal–Retzius
+cells in the marginal zone (MZ) of the cortex during neocortical
+development (5–7). This glycoprotein is essential for establishment of the aforementioned birth date-dependent layered
+structure of the neocortex, because the CP neurons show an
+almost inverted alignment in the neocortex of the Reelindeficient, reeler mice. In addition, neurons born at the same time
+tend to be distributed broadly and not to form clear layers in the
+reeler cortex (8, 9). Although extensive studies, including at the
+molecular level, have been conducted to determine the role of
+Reelin in neuronal migration in the neocortex (10–14), the
+cellular and molecular functions of Reelin in neuronal layer
+formation in the neocortex are not yet fully understood.
+In recently carried out studies, we revealed that ectopic expression of Reelin by in utero electroporation caused neuronal
+aggregation in the developing mouse neocortex (15–17). In addition, we found that immature neurons were densely packed in the
+outermost region of the developing cortex (i.e., beneath the MZ),
+which is termed the primitive cortical zone (PCZ) (18), supporting
+the notion that Reelin may somehow be involved in the aggregation of migrating neurons beneath the MZ in vivo. However, it
+is not yet clear whether Reelin directly promotes adhesion among
+neurons or, instead, causes them to form aggregates as a result of
+being repelled by the surrounding cellular environment. Thus, in
+this study, we investigated the role of Reelin in neuronal aggregation/adhesion during neocortical development.
+Results
+To determine whether Reelin can cause aggregation of cortical
+cells in vitro, we dissociated cortical cells from embryonic day (E)
+14.5 reeler mice and cultured them on polyethylenimine-coated
+dishes, which allowed the cells to move around at least to some
+extent. The cultured cells were then treated with mock or Reelincontaining medium for 24 h. The experiment revealed that more
+cell aggregates were formed after Reelin stimulation than after
+mock treatment (Fig. 1 A, A′, B, B′, and D and Fig. S1). Formation
+Significance
+It has long been thought that Reelin is a stop signal for migrating neocortical neurons, because the neurons stop just
+beneath Reelin-rich regions. Our recent studies revealed that
+ectopically expressed Reelin can also cause neuronal aggregation with clear demarcation in vivo, suggesting that Reelin is
+not simply a stop signal. However, it remains unclear whether
+Reelin directly promotes adhesion among neurons or only
+causes them to be repelled by the surrounding cellular environment, facilitating their aggregation. We show here that
+Reelin directly promotes N-cadherin–dependent neuronal adhesion, causing neuronal aggregation. This Reelin-dependent
+neuronal adhesion occurs only transiently, and is not sustained.
+This dynamic change of N-cadherin–mediated cellular adhesiveness is important for establishment of the appropriate
+layering of neocortical neurons.
+Author contributions: Y.M., M.N., K.-i.K., and K.N. designed research; Y.M., M.N., H.M., K.H.,
+A.N., S.I., T. Miura, and K.-i.K. performed research; H.M., A.N., T. Miyata, and T. Miura
+contributed new reagents/analytic tools; Y.M., M.N., H.M., K.H., A.N., T. Miyata, T. Miura,
+K.-i.K., and K.N. analyzed data; and Y.M., M.N., H.M., K.-i.K., and K.N. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+Y.M. and M.N. contributed equally to this work.
+2
+To whom correspondence should be addressed. Email: kazunori@keio.jp.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1615215114/-/DCSupplemental.
+2048–2053 | PNAS | February 21, 2017 | vol. 114 | no. 8 www.pnas.org/cgi/doi/10.1073/pnas.1615215114
+of cell aggregates was observed at a level similar to the level observed in the mock control when 2A-Reelin was used; 2A-Reelin
+is the product of a point mutation of Reelin that contains two
+mutant lysine residues, which prevents binding of Reelin to its
+receptors (19) (Fig. 1 C, C′, and D and Fig. S1). These results
+suggest that Reelin can directly induce cortical cell aggregation via
+its receptors.
+To examine further whether this cell aggregation is mediated
+by the well-established Reelin signaling pathway, we performed
+similar experiments using neurons obtained from the cortex of
+yotari mutant mice, which are deficient in Disabled 1 (Dab1), an
+intracellular adaptor protein that binds to the Reelin receptors
+and is essential for transduction of the Reelin signal (20–25).
+This experiment revealed that Reelin was unable to cause clear
+aggregation of the cells derived from the yotari homozygous mice
+(Fig. 1J), indicating that the Reelin-induced cortical cell aggregation is mediated by the well-known Reelin pathway involving
+Dab1. Immunohistochemical analyses showed that the Reelininduced cell aggregates were mainly composed of neurons that
+were positive for microtubule-associated protein 2 (MAP2) (Fig.
+1 F–F′′ and H–H′′) and neuronal nuclei (NeuN) (Fig. S2 A and
+B), which is consistent with our previous finding that ectopically
+overexpressed Reelin caused aggregation of migrating neurons
+in vivo (15). It is worthy of note, however, that some nestinpositive and paired box protein 6 (Pax6)-positive neural progenitor cells [radial glial cells (RGCs)] were also incorporated
+into these aggregates. Because the RGCs tended to be located
+near the surface of the aggregates, the RGCs may participate in
+the cell aggregation by adhering to the neurons, or may be excluded from the aggregated neurons. Reelin treatment did not
+significantly affect the number of NeuN-positive neurons or
+Pax6-positive RGCs in this culture (24 h) (Fig. S2 C–E).
+Reelin is well known to control some cell adhesion molecules,
+such as N-cadherin (11, 14, 26) and integrin α5β1 (12). In regard
+to the adhesion molecule mediating the Reelin-dependent neuronal aggregation, we thought that N-cadherin might be a good
+candidate because N-cadherin is present in abundance in the
+cortical MZ (27). Therefore, we examined whether N-cadherin
+could also be detected when the migrating neurons aggregated
+in vivo in response to ectopically overexpressed Reelin in the
+developing neocortex (15). As expected, immunohistochemical
+examination revealed strong detection of N-cadherin in the
+central cell body-sparse, dendrite-rich, MZ-like region of the
+ectopic aggregates in vivo (12) (Fig. 2A). When expression vectors for the dominant-negative (DN) form of N-cadherin and
+green fluorescent protein (GFP) were cotransfected with the
+Reelin expression vector, the central MZ-like regions of the
+in vivo aggregates were invaded by migrating neurons and
+the margin of the aggregates became blurred, losing their spheroidal shape (Fig. 2D). The GFP-positive cells, which were
+aligned near the surface of the aggregates in a radial manner,
+with their processes directed toward the central MZ-like region
+when the control vector or N-cadherin expression vector was
+transfected (Fig. 2 B, C, and E), appeared to be randomly oriented within the aggregates when the DN form of N-cadherin
+was transfected (Fig. 2D). N-cadherin knockdown (KD) with
+Reelin overexpression also disrupted the centers of the neuronal
+aggregates and the radial orientation of the GFP-positive cells
+(Fig. 2F). These N-cadherin/KD phenotypes were rescued by
+cotransfection of the cells with a KD-resistant type of N-cadherin
+(Fig. 2G). These results imply that Reelin promotes neuronal
+aggregation via N-cadherin in vivo. In vitro also, inhibition of
+Reelin-dependent neuronal aggregation was observed following
+KD of N-cadherin in the cultured cortical cells (Fig. 2 H–N),
+further confirming the involvement of N-cadherin in the Reelininduced neuronal aggregation.
+Genotype-dependent differences in the cortical cell aggregation pattern between reeler and wild-type mice were previously
+analyzed using a rotation culture of dissociated cortical cells (6,
+28). In this study, we took advantage of this rotation culture system, using the original system with some modifications, to investigate whether exogenous Reelin could modulate the aggregation
+pattern of reeler cortical cells. To this end, we first transfected an
+expression plasmid for Reelin (or control plasmid) with a GFP
+expression construct into the E12.0 reeler cortical cells by electroporation. The transfected cortices were then dissociated into
+single cells and cultured in a rotating tube for 5 d. As reported
+previously, the cortical cells showed reaggregation into spheres
+during the culture; this finding was confirmed by immunohistochemical analyses using markers for neurons (MAP2) and RGCs
+(nestin) (Fig. 3 A and B and Fig. S3 A and B). Interestingly,
+overexpression of Reelin in a fraction of the cultured cells caused
+clustering of the RGCs in the inner part of the reaggregated reeler
+cells (Fig. 3B, arrowhead, and Fig. S3B, dotted line). Although we
+initially assumed, based on the above-mentioned results (Figs. 1
+and 2), that it is the neurons, rather than the RGCs, that form
+clusters in response to Reelin, neurons were unexpectedly distributed more diffusely than the RGCs and tended to be excluded
+from the nestin-positive RGC clusters.
+To determine the reason for this unexpected clustering of the
+RGCs in the inner part of the reaggregated cellular spheres, we
+used mathematical modeling of the reaggregation culture based
+on a recently described method (29), in an attempt to identify the
+factor(s) that could be important for recapitulating the cell reaggregation patterns in the presence or absence of Reelin.
+Fig. 1. Effect of Reelin treatment on a primary culture of cortical neurons.
+MAP2-positive neurons in a primary culture of dissociated E14.5 reeler
+mouse cortical cells after addition of control medium (Mock) (A), Reelincontaining medium (B), and 2A-Reelin–containing medium (C) for 24 h are
+shown. (A–C) Nuclei were visualized by 4′,6-diamidino-2-phenylindole
+dihydrochloride (DAPI). (Scale bar, 5 mm.) (D) Number of aggregates in the
+chamber well. Results are expressed as mean ± SEM. Mock, n = 8; Reelin, n =
+8; 2A-Reelin, n = 6. Means that are significantly different from each other
+are represented by different small letters (P < 0.05). Nuclei (E–J), MAP2-
+positive neurons (E′–J′), and nestin-positive RGCs (E′′–J′′) in a primary culture
+of dissociated E14.5 cortical cells from a wild-type mouse (E–E′′ and F–F′′),
+heterozygous yotari mouse (G–G′′ and H–H′′), and homozygous yotari
+mouse (I–I′′ and J–J′′) are shown after the addition of mock medium (E–E′′,
+G–G′′, and I–I′′) or Reelin medium (F–F′′, H–H′′, and J–J′′) for 24 h. (Scale bar,
+200 μm.)
+Matsunaga et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 2049
+NEUROSCIENCE
+In this mathematical model, we hypothesized that Reelin
+would enhance the cell–cell adhesion among neurons (Fig. 3C). In
+the absence of Reelin (r = 0, where r denotes the density of
+Reelin-secreting cells or the local concentration of Reelin itself),
+cell adhesion among neurons and RGCs was set to be identical (10
+for any combination of cell types; Fig. 3C). In the presence of
+Reelin (r > 0), the cell adhesion among neurons was set to be
+increased (10 + 20r; Fig. 3C). The simulation assumed that the
+RGCs and neurons would be homogeneously distributed in the
+absence of Reelin (Fig. 3E and Movie S1). On the other hand, in
+the Reelin-present condition (r > 0), RGC clusters were seen in
+the aggregates, even though the RGC–RGC interaction was not
+set to be promoted (Fig. 3F and Movie S2). Nevertheless, the
+RGC clusters formed near the periphery of the aggregates tended
+to be localized along the edges of the aggregates (Fig. S3D), which
+appeared to be inconsistent with the aforementioned finding observed in living cells (Fig. 3B and Fig. S3B), wherein the RGC
+clusters were located in the inner parts of the reaggregated cells
+and the periphery was mainly occupied by neurons.
+In our previous study, we showed that when the neurons
+completed radial migration, they were transiently localized in the
+most superficial region of the CP, or the PCZ, where they accumulated at a high cell density (18). After the neurons were
+released from the PCZ and settled in the CP, the neuronal cell
+density became lower than in the PCZ. Thus, we hypothesized
+that Reelin might cause a transient, rather than persistent,
+increase of cell–cell adhesion among neurons (Fig. 3D; transition
+from immature neurons with strong adhesiveness to mature
+neurons with weak adhesiveness was hypothesized). Simulation
+of this transition showed that in the Reelin-present and transition-present conditions, RGC clusters were formed only in the
+inner parts of the aggregates [Fig. 3G, Fig. S3E (a space between
+an RGC cluster and the edge of the aggregate is indicated by
+white asterisks), and Movie S3], resembling the pattern observed
+in the reaggregated living cells described above (Fig. 3B and Fig.
+S3B). Thus, our mathematical model predicted that the Reelininduced increase in cell–cell adhesion among neurons would
+need to be only transient for the RGC clusters to form in the
+inner part of the reaggregated reeler cell spheres.
+To investigate whether Reelin indeed promotes N-cadherin–
+mediated neuronal adhesion only transiently, we next applied
+atomic force microscopy (AFM)-based single-molecule force
+spectroscopy to quantify the adhesive interaction between the
+N-cadherin–coated cantilever tip and a cultured neuron. We
+stimulated primary cortical neurons with Reelin-containing medium or control medium (Mock) for 30 min or 3 h. Then, we
+measured the “work for detachment,” which means the work
+required for detaching the N-cadherin–coated cantilever from
+the single neuron, and the “unbinding force,” which reflects the
+maximal adhesive force between the N-cadherin–coated cantilever and a single neuron, from the obtained force-distance
+curves (Fig. S4A). This experiment revealed that Reelin
+Fig. 2. N-cadherin is necessary for neuronal aggregation both in vivo and in vitro. Representative
+immunostained images of cell aggregates formed by
+the mediation of Reelin in vivo. (A) Aggregate
+stained with an N-cadherin antibody (magenta) and
+DAPI (cyan). P1.5 brain transfected with expression
+vectors for Reelin and GFP plasmid at E14.5. (Scale
+bar, 100 μm.) Cotransfection with expression vectors
+for Reelin and Mock (B), with expression vectors for
+Reelin and N-cadherin (Ncad; C), and with expression
+vectors for Reelin and a DN form of N-cadherin (DNNcad; D). (Scale bars, 100 μm.) Cotransfection with
+the expression vectors for Reelin, control siRNA
+vector (KD-Cont), and Mock (E); with the expression
+vectors for Reelin and an siRNA expression vector to
+KD mouse N-cadherin (KD-Ncad) and Mock (F); and
+with expression vectors for Reelin, KD-Ncad, and an
+RNAi-resistant form of N-cadherin (resistant) (G).
+(Scale bars, 100 μm.) MAP2-positive neurons (green)
+in a primary culture of dissociated E14.5 reeler
+mouse cortical cells transfected with a control vector
+(H–J) or an N-cadherin KD vector (K–M) after addition of mock medium (H and K), Reelin medium
+(I and L), or 2A-Reelin medium (J and M) for 24 h. Nuclei
+were visualized by DAPI. (Scale bar, 100 μm.). (N) Number of aggregates transfected with the control vector
+(open columns) or N-cadherin KD vector (filled columns)
+after addition of mock medium, Reelin medium, or 2AReelin medium for 24 h. Results are expressed as mean ±
+SEM. Mock (control), n = 3; Mock (KD-Ncad), n = 3;
+Reelin (control), n = 4; Reelin (KD-Ncad), n = 3; 2A-Reelin
+(control), n = 3; 2A-Reelin (KD-Ncad), n = 3. Means that
+are significantly different from each other are represented by different small letters (P < 0.05).
+2050 | www.pnas.org/cgi/doi/10.1073/pnas.1615215114 Matsunaga et al.
+stimulation indeed caused a significant increase in both of these
+parameters within 30 min of its addition, indicating that the
+adhesive force between N-cadherin and neurons was strengthened by Reelin stimulation (Fig. 3 H and I and Fig. S4 B and C).
+As predicted from the mathematical modeling, these parameters
+decreased again to their initial levels by 3 h after the addition of
+Reelin (Fig. 3 H and I and Fig. S4 D and E). These results
+support our hypothesis that Reelin only transiently promotes
+N-cadherin–mediated neuronal adhesion.
+To understand the biological role of the decrease in the
+adhesive forces between N-cadherin and neurons, we next
+examined the effect of persistent enhancement of N-cadherin–
+dependent adhesion. β-Catenin plays an important role in generating the cadherin-dependent adhesive force (30), and it is
+known to be destabilized by phosphorylation of the serine/
+threonine residues at positions 29, 33, 37, 41, and 45 (31, 32).
+Deletion of a segment that included these sites (amino acids 29–
+48 of β-catenin) results in the stabilization of β-catenin proteins
+(33). We thus transfected migrating neurons in E14.5 mice with
+expression vectors for N-cadherin and β-catenin (Δ29–48). This
+experiment revealed that neurons coexpressing N-cadherin and
+β-catenin (Δ29–48) exhibited abnormal positioning at postnatal
+day (P) 7.5 (Fig. 4 A–E). More neurons remained immediately
+beneath layer I compared with the control. It is noteworthy that
+overexpression of the expression vectors for N-cadherin and/or
+β-catenin (Δ29–48) at the same concentration (2.5 mg/mL) did
+not significantly affect neuronal migration when observed at P0.5
+(Fig. S5 A–E), whereas overexpression of N-cadherin at a higher
+concentration (5.0 mg/mL) of the expression plasmid affected
+neuronal migration (Fig. S5 F–J), as reported previously (34).
+These results suggest that appropriate regulation, but not persistent increase, of the adhesive forces mediated by N-cadherin
+is necessary for the cortical neurons to settle in their proper
+positions eventually.
+Discussion
+Our recent investigation demonstrated that ectopically overexpressed Reelin in the developing neocortex caused aggregation
+of the migrating neurons in the CP in vivo (15). However, it
+remained unclear as to whether Reelin directly strengthened
+adhesion among neurons or indirectly caused aggregation of the
+neurons by, for example, causing the local cellular environment
+to repel the migrating neurons. In this study, we found evidence
+to suggest that Reelin directly causes neuronal cell aggregation
+(Fig. 1) through N-cadherin (Fig. 2).
+Previous studies have shown that Reelin regulates the plasma
+membrane localization of N-cadherin through small GTPase Rap1
+and serine/threonine kinase Akt in the migrating multipolar neurons
+(11), and that it regulates cadherin functions through Dab1 and
+Rap1 to control radial glia-independent somal translocation and
+lamination during neocortical development (14). Reelin signaling to
+Rap1 promotes N-cadherin functions via nectin3 and afadin toward
+mediating cell–cell interactions between the migrating neurons and
+Cajal–Retzius cells (26). However, these studies did not address the
+time-dependent dynamic changes of cell adhesion mediated by
+N-cadherin. Herein, we demonstrate that Reelin transiently, but not
+persistently, increases cell–cell adhesion via N-cadherin (Fig. 3).
+These transient, but not persistent, changes in N-cadherin–mediated
+adhesiveness of the neurons would appear to be important for
+transient formation of the cell-dense PCZ beneath the MZ and also
+for enabling the neurons born later to pass by this zone appropriately to settle in their correct positions in the CP (Fig. 4).
+The adhesive force among cells imparted by N-cadherin is
+known to be controlled by several mechanisms. The cytoplasmic
+domain of N-cadherin is known to play an important role in
+generating the adhesive force through interaction with β-catenin
+and p120 catenin (30). β-Catenin has a key role in the formation
+of adherens junctions through its interactions with cadherin and
+α-catenin (35). β-Catenin contains several serine and threonine
+Fig. 3. Comparison of the cell-sorting patterns between a rotation culture of living cells and a mathematical model. Representative immunostaining
+images of a rotation culture of cortical cells obtained
+from an E12.0 reeler mouse cortex transfected with
+an empty vector (Mock; A) or Reelin expression
+vector (B). A cell aggregate stained with an antinestin antibody (magenta), anti-MAP2 antibody
+(blue), and DAPI (cyan) is shown. Note the clustering
+of nestin-positive cells located in the inner part of
+the reaggregate (arrowheads). MAP2-positive cells
+were sorted out from the nestin-positive areas.
+(Scale bar, 100 μm.) (C and D) Adhesion strength
+parameters for simulation with the mathematical
+model. The transition from strong adhesion to weak
+adhesion among neurons was predicted to be absent
+(C) or present (D). (E–G) Time frames of numerical
+simulations of the aggregated patterns in the rotation culture. Each panel shows the distribution of the
+Reelin-secreting cells (green), neurons (blue), and RGCs
+(magenta) under the Reelin-negative, transition-negative
+condition (E); Reelin-positive, transition-negative condition (F); and Reelin-positive, transition-positive condition
+(G). (H and I) Single-cell adhesion measurement by AFM.
+Differences in the work for detachment (H) and the
+unbinding force (I) in primary culture of dissociated
+E14.5 ICR mouse cortical cells after addition of mock
+medium or Reelin medium for 30 min or 3 h. Results are
+expressed as mean ± SEM. Mock (30 min), n = 10; Mock
+(3 h), n = 12; Reelin (30 min), n = 12; Reelin (3 h), n = 18.
+Means that are significantly different from each other
+are represented by different small letters (P < 0.05). J,
+Joule; N, newton.
+Matsunaga et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 2051
+NEUROSCIENCE
+residues in the consensus positions for phosphorylation by glycogen synthase kinase 3β (GSK3β). This phosphorylation site is
+known to be a prerequisite for ubiquitination of β-catenin and
+regulation of β-catenin stability (31, 32). Because Reelin-Dab1
+signaling triggers the phosphorylation of Akt (protein kinase B)
+and inactivation of GSK3β in cultured cortical neurons (36, 37),
+β-catenin is one of the strong candidates with respect to molecules mediating the Reelin-dependent control of N-cadherin–
+mediated cell adhesion.
+Similarly, p120 catenin also controls the cadherin-mediated
+adhesion among cells by stabilizing cadherin at the plasma
+membrane; in its absence, the cadherins are internalized through
+endocytosis (38, 39). The p120 catenin–cadherin binding is strengthened by the interaction of p120 catenin with nectin-associated afadin
+in a Rap1-dependent manner (40). Reelin recruits p120 catenin
+and N-cadherin to the nectin and afadin complexes, enhancing the
+N-cadherin–mediated cell adhesion (26). Thus, p120 catenin is
+also a candidate molecule connecting the Reelin–Dab1 pathway
+and N-cadherin. Future studies are required to elucidate the detailed mechanism underlying the time-dependent changes of
+N-cadherin–mediated cell adhesion.
+When we inhibited the N-cadherin functions in the Reelininduced cell aggregates in vivo, the cell body-sparse (MZ-like)
+center of the neuronal aggregates and the radial orientation of the
+GFP-positive cells were disrupted, but blurred cell aggregates
+were still formed. This result could have occurred because we
+transfected the DN form of N-cadherin (Fig. 2D) or N-cadherin
+KD vector (Fig. 2F), which could have led to only incomplete
+inhibition of the functions of N-cadherin, and the remaining exogenous N-cadherin might have mediated the residual weak adhesion. Another possibility is that residual adhesion, especially
+adhesion among the cell bodies, mediated by adhesion molecules
+other than N-cadherin contributed to the formation of the blurred
+aggregates without the central MZ-like regions. In the mathematical model that we used, we rather simplified the conditions
+for simulating the essential features of the cell aggregates. For
+example, in this model, neurons and RGCs were assumed to be
+distributed evenly within the aggregates in the absence of Reelin
+(Fig. 3E), which might be somewhat different from the actual
+pattern produced by the living cells (Fig. 3A). However, the degree
+of cell sorting between living neurons and RGCs was obviously
+increased in the presence of Reelin (Fig. 3B), which was successfully recapitulated with this model (Fig. 3 F and G and Fig. S3
+D and E). The living neurons and RGCs might, to some extent,
+interact in a homophilic manner even in the absence of Reelin. In
+that case, it may be considered that the homophilic adhesion
+among neurons is transiently enhanced by Reelin stimulation.
+In this study, we provide evidence indicating that Reelin causes
+a transient, but not persistent, increase in cell–cell adhesion
+among neurons through N-cadherin. In vivo, when migrating
+neurons reach the outermost zone, the PCZ, of the developing CP
+and receive the Reelin signal, the immature neurons show strong
+cell adhesiveness and become packed into the PCZ at a high cell
+density. This “packing” may be beneficial for appropriate sorting
+of the neurons in a birth date-dependent manner (41), although
+further investigation is required to confirm this contention. Because the increase in the cell adhesiveness is presumably only
+transient, it is thought that the cell–cell adhesion among these
+neurons in the PCZ becomes weak subsequently, resulting in the
+release of these neurons from the PCZ to a deeper position in the
+CP (Fig. S6). Considering what the effect of a persistent increase
+in the adhesiveness of the migrating neurons might be on their
+final disposition (Fig. 4), this transient increase, followed by a
+subsequent decrease in the cell adhesiveness, appears to be necessary for establishment of the highly organized layered structure
+of the neurons in the mammalian neocortex. In the future, it will
+be important to clarify the molecular mechanisms of the dynamic
+changes of the cellular adhesiveness induced by Reelin and to
+investigate the effect of inhibition of the “decrease mechanism” on
+neuronal positioning in vivo.
+Fig. 4. Decrease of the adhesive forces is necessary for appropriate neuronal positioning in vivo. Cerebral cortices at P7.5 electroporated with control (A),
+N-cadherin (B; 2.5 mg/mL), β-catenin (β-cat; Δ29–48) expression plasmids (C; 2.5 mg/mL), or N-cadherin/β-catenin (Δ29–48) expression plasmids (D; 2.5 mg/mL +
+2.5 mg/mL) at E14.5. A mock vector (an empty pCAGGS vector) was cotransfected to make the total DNA concentration constant. Details of the plasmid DNA
+concentrations are described in Materials and Methods (Table S1). (A′–D′) GFP expression plasmid was also cotransfected to allow visualization of the
+transfected cells. Nuclei were labeled with DAPI. (Scale bar, 100 μm.) (E) Bin analysis. The distance between the layer I/layer II boundary (arrowhead) and the
+ventricular surface was divided into 10 bins. Results are expressed as mean ± SEM. Control, n = 7 brains; N-cadherin, n = 6 brains; β-catenin (Δ29–48), n = 5
+brains; N-cadherin/β-catenin (Δ29–48), n = 7 brains. Means that are significantly different from each other in each bin are represented by different small
+letters (P < 0.05).
+2052 | www.pnas.org/cgi/doi/10.1073/pnas.1615215114 Matsunaga et al.
+Materials and Methods
+Animals and Animal Treatment. Pregnant ICR mice were purchased from Japan
+SLC. The colony of reeler mice (B6CFe a/a-Relnrl/J) obtained from The Jackson
+Laboratory was maintained by allowing heterozygous or homozygous females to mate with homozygous males. The day of vaginal plug detection
+was considered as E0. For example, “E14” was used to denote experiments
+performed on the morning of E14 and “E14.5” was used for experiments
+performed in the afternoon of E14. All animal experiments were performed
+using protocols approved by the Keio University Institutional Animal Care
+and Use Committee.
+Details of construction of plasmids, in utero electroporation, dissociated
+cell culture, rotation culture, preparation of frozen sections, immunohistochemistry and immunocytochemistry, high-content analysis, counting of
+the primary culture cells, AFM, cell culture and transfection to prepare
+Reelin medium, and mathematical models are provided in SI Materials
+and Methods.
+Statistical Analyses. All numerical data are expressed as mean ± SEM.
+For comparing two groups, Student’s t test was used when neither normality nor homogeneity of variances of the dataset was rejected by the
+Shapiro–Wilk normality test and Levene’s test, respectively. In cases where
+normality was proven but homogeneity was rejected, Welch’s t test was
+used. In cases where normality of the dataset alone was rejected, the Mann–
+Whitney U test was conducted as a nonparametric test.
+For comparing multiple groups, the normality of the data was tested by
+the Shapiro–Wilk test, and the variance homogeneity among all groups was
+tested by Levene’s test. When neither normality nor homogeneity of variance of the dataset to be analyzed was rejected by the above tests, ANOVA,
+followed by the Tukey–Kramer test, was used. In cases where either normality or variance homogeneity was rejected, the Kruskal–Wallis test was
+used, followed by the Games–Howell test. For all of the statistical tests
+mentioned above, the α-value was set at 0.05.
+ACKNOWLEDGMENTS. We thank Dr. T. Curran, Dr. J. Miyazaki, Dr. J. Takagi,
+Dr. R. L. Huganir, and Dr. A. Nagafuchi for reagents and advice. We thank the
+members of the K.N. laboratory for valuable discussions and technical support.
+This work was supported by the Ministry of Education, Culture, Sports, Science
+and Technology (MEXT)/Japan Society for the Promotion of Science Grantsin-Aid for Scientific Research (KAKENHI) (Grants JP16H06482, JP15H02355,
+JP15H01586, JP16H01343, JP16J05704, JP15H01293, JP26430075, JP15K09723,
+JP16K09997, JP15K06745, and JP26400205), Takeda Science Foundation, Naito
+Foundation, Keio Gijuku Academic Development Funds, Keio University
+Grant-in-Aid for Encouragement of Young Medical Scientists, Program for
+the Advancement of Keio Next Generation Research Projects, and Fukuzawa
+Memorial Fund for the Advancement of Education and Research.
+1. Rakic P (2009) Evolution of the neocortex: A perspective from developmental biology.
+Nat Rev Neurosci 10(10):724–735.
+2. Rakic P (1974) Neurons in rhesus monkey visual cortex: Systematic relation between
+time of origin and eventual disposition. Science 183(4123):425–427.
+3. Angevine JB, Jr, Sidman RL (1961) Autoradiographic study of cell migration during
+histogenesis of cerebral cortex in the mouse. Nature 192:766–768.
+4. Berry M, Rogers AW (1965) The migration of neuroblasts in the developing cerebral
+cortex. J Anat 99(Pt 4):691–709.
+5. D’Arcangelo G, et al. (1995) A protein related to extracellular matrix proteins deleted
+in the mouse mutant reeler. Nature 374(6524):719–723.
+6. Ogawa M, et al. (1995) The reeler gene-associated antigen on Cajal-Retzius neurons is
+a crucial molecule for laminar organization of cortical neurons. Neuron 14(5):
+899–912.
+7. Bar I, et al. (1995) A YAC contig containing the reeler locus with preliminary characterization of candidate gene fragments. Genomics 26(3):543–549.
+8. Caviness VS, Jr, Sidman RL (1973) Time of origin or corresponding cell classes in the
+cerebral cortex of normal and reeler mutant mice: An autoradiographic analysis.
+J Comp Neurol 148(2):141–151.
+9. Caviness VS, Jr (1982) Neocortical histogenesis in normal and reeler mice: A developmental study based upon [3H]thymidine autoradiography. Brain Res 256(3):
+293–302.
+10. Britto JM, et al. (2011) Altered speeds and trajectories of neurons migrating in the
+ventricular and subventricular zones of the reeler neocortex. Cereb Cortex 21(5):
+1018–1027.
+11. Jossin Y, Cooper JA (2011) Reelin, Rap1 and N-cadherin orient the migration of
+multipolar neurons in the developing neocortex. Nat Neurosci 14(6):697–703.
+12. Sekine K, et al. (2012) Reelin controls neuronal positioning by promoting cell-matrix
+adhesion via inside-out activation of integrin α5β1. Neuron 76(2):353–369.
+13. Sekine K, Kubo K, Nakajima K (2014) How does Reelin control neuronal migration and
+layer formation in the developing mammalian neocortex? Neurosci Res 86:50–58.
+14. Franco SJ, Martinez-Garay I, Gil-Sanz C, Harkins-Perry SR, Müller U (2011) Reelin
+regulates cadherin function via Dab1/Rap1 to control neuronal migration and lamination in the neocortex. Neuron 69(3):482–497.
+15. Kubo K, et al. (2010) Ectopic Reelin induces neuronal aggregation with a normal
+birthdate-dependent “inside-out” alignment in the developing neocortex. J Neurosci
+30(33):10953–10966.
+16. Ishii K, et al. (2015) Neuronal heterotopias affect the activities of distant brain areas
+and lead to behavioral deficits. J Neurosci 35(36):12432–12445.
+17. Kohno T, et al. (2015) Importance of Reelin C-terminal region in the development and
+maintenance of the postnatal cerebral cortex and its regulation by specific proteolysis. J Neurosci 35(11):4776–4787.
+18. Sekine K, Honda T, Kawauchi T, Kubo K, Nakajima K (2011) The outermost region of
+the developing cortical plate is crucial for both the switch of the radial migration
+mode and the Dab1-dependent “inside-out” lamination in the neocortex. J Neurosci
+31(25):9426–9439.
+19. Yasui N, et al. (2007) Structure of a receptor-binding fragment of reelin and mutational analysis reveal a recognition mechanism similar to endocytic receptors. Proc
+Natl Acad Sci USA 104(24):9988–9993.
+20. Howell BW, Hawkes R, Soriano P, Cooper JA (1997) Neuronal position in the developing brain is regulated by mouse disabled-1. Nature 389(6652):733–737.
+21. Sheldon M, et al. (1997) Scrambler and yotari disrupt the disabled gene and produce a
+reeler-like phenotype in mice. Nature 389(6652):730–733.
+22. Yoneshima H, et al. (1997) A novel neurological mutant mouse, yotari, which exhibits
+reeler-like phenotype but expresses CR-50 antigen/reelin. Neurosci Res 29(3):217–223.
+23. Kojima T, Nakajima K, Mikoshiba K (2000) The disabled 1 gene is disrupted by a replacement with L1 fragment in yotari mice. Brain Res Mol Brain Res 75(1):121–127.
+24. D’Arcangelo G, et al. (1999) Reelin is a ligand for lipoprotein receptors. Neuron 24(2):
+471–479.
+25. Hiesberger T, et al. (1999) Direct binding of Reelin to VLDL receptor and ApoE receptor 2 induces tyrosine phosphorylation of disabled-1 and modulates tau phosphorylation. Neuron 24(2):481–489.
+26. Gil-Sanz C, et al. (2013) Cajal-Retzius cells instruct neuronal migration by coincidence
+signaling between secreted and contact-dependent guidance cues. Neuron 79(3):
+461–477.
+27. Kawauchi T, et al. (2010) Rab GTPases-dependent endocytic pathways regulate neuronal migration and maturation through N-cadherin trafficking. Neuron 67(4):
+588–602.
+28. Hoffarth RM, Johnston JG, Krushel LA, van der Kooy D (1995) The mouse mutation
+reeler causes increased adhesion within a subpopulation of early postmitotic cortical
+neurons. J Neurosci 15(7 Pt 1):4838–4850.
+29. Murakawa H, Togashi H (2015) Continuous models for cell-cell adhesion. J Theor Biol
+374:1–12.
+30. Hirano S, Takeichi M (2012) Cadherins in brain morphogenesis and wiring. Physiol Rev
+92(2):597–634.
+31. Orford K, Crockett C, Jensen JP, Weissman AM, Byers SW (1997) Serine phosphorylation-regulated ubiquitination and degradation of beta-catenin. J Biol Chem
+272(40):24735–24738.
+32. Aberle H, Bauer A, Stappert J, Kispert A, Kemler R (1997) beta-catenin is a target for
+the ubiquitin-proteasome pathway. EMBO J 16(13):3797–3804.
+33. Tetsu O, McCormick F (1999) Beta-catenin regulates expression of cyclin D1 in colon
+carcinoma cells. Nature 398(6726):422–426.
+34. Shikanai M, Nakajima K, Kawauchi T (2011) N-cadherin regulates radial glial fiberdependent migration of cortical locomoting neurons. Commun Integr Biol 4(3):
+326–330.
+35. Weis WI, Nelson WJ (2006) Re-solving the cadherin-catenin-actin conundrum. J Biol
+Chem 281(47):35593–35597.
+36. Beffert U, et al. (2002) Reelin-mediated signaling locally regulates protein kinase B/
+Akt and glycogen synthase kinase 3beta. J Biol Chem 277(51):49958–49964.
+37. Bock HH, et al. (2003) Phosphatidylinositol 3-kinase interacts with the adaptor protein
+Dab1 in response to Reelin signaling and is required for normal cortical lamination.
+J Biol Chem 278(40):38772–38779.
+38. Davis MA, Ireton RC, Reynolds AB (2003) A core function for p120-catenin in cadherin
+turnover. J Cell Biol 163(3):525–534.
+39. Kowalczyk AP, Reynolds AB (2004) Protecting your tail: Regulation of cadherin degradation by p120-catenin. Curr Opin Cell Biol 16(5):522–527.
+40. Kooistra MR, Dubé N, Bos JL (2007) Rap1: A key regulator in cell-cell junction formation. J Cell Sci 120(Pt 1):17–22.
+41. Ajioka I, Nakajima K (2005) Birth-date-dependent segregation of the mouse cerebral
+cortical neurons in reaggregation cultures. Eur J Neurosci 22(2):331–342.
+42. Niwa H, Yamamura K, Miyazaki J (1991) Efficient selection for high-expression
+transfectants with a novel eukaryotic vector. Gene 108(2):193–199.
+43. Nuriya M, Huganir RL (2006) Regulation of AMPA receptor trafficking by N-cadherin.
+J Neurochem 97(3):652–661.
+44. Shimizu M, Fukunaga Y, Ikenouchi J, Nagafuchi A (2008) Defining the roles of betacatenin and plakoglobin in LEF/T-cell factor-dependent transcription using beta-catenin/
+plakoglobin-null F9 cells. Mol Cell Biol 28(2):825–835.
+45. Tabata H, Nakajima K (2001) Efficient in utero gene transfer system to the developing
+mouse brain using electroporation: visualization of neuronal migration in the developing cortex. Neuroscience 103(4):865–872.
+46. Tabata H, Nakajima K (2008) Labeling embryonic mouse central nervous system cells
+by in utero electroporation. Dev Growth Differ 50(6):507–511.
+47. Hutter JL, Bechhoefer J (1993) Calibration of atomic-force microscope tips. Rev Sci
+Instrum 64(7):1868–1873.
+Matsunaga et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 2053
+NEUROSCIENCE

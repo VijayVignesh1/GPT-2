@@ -1,0 +1,368 @@
+Voluntary action implies a subjective experience of the decision and
+intention to act, as well as neural control of motor execution. For willed
+action to be a functional behavior, the brain must have a mechanism for
+matching the consequences of the motor act against the prior intention.
+It is widely thought that the brain uses internal anticipatory models for
+this purpose1,2, but it is still debated to what extent these models would
+be available to awareness3. Estimating the time of a conscious intention
+presumably requires access to an internal representation of the desired
+movement. Internal motor representations—or internal models—
+predict the future outcome of a given action4. Several studies suggest that
+the parietal cortex is important in activating and maintaining such internal models5,6. For instance, when the parietal cortex is damaged, patients
+lose the ability to predict through mental simulation the time necessary
+to perform various hand movements5, indicating that this region is
+involved in generating conscious motor images. According to some
+reports1,2,7, another brain region, the cerebellum, is also involved in predicting the future state of a motor act. For example, when lifting an
+object, subjects anticipate the increase in load force and accordingly
+adapt their grip force to hold the object8. These fine motor adjustments
+are clearly predictive and, as suggested by neuropsychological studies, are
+severely disrupted by cerebellar lesions9. However, these processes may
+not be available to conscious awareness. To investigate the role of the
+cerebellum and the parietal cortex in the subjective experience of voluntary action, we examined overt reports on the awareness of the intention
+to move in normal subjects and patients with focal brain lesions. We
+found that cerebellar patients, similar to normal controls subjects, were
+able to report when they first intended to move, whereas patients with
+parietal damage could not. This result suggests that the parietal cortex is
+involved in monitoring awareness of one’s own movements.
+We recruited three groups of five subjects each: healthy volunteers,
+patients with selective lesion in the parietal cortex, and patients with
+selective lesion in the cerebellum. The experimental design was based
+on that of Libet et al.10,11. Subjects were asked to perform a simple
+voluntary movement, namely pushing a button with their index finger at a time of their own choosing, following a trial start cue. While
+performing this simple task, subjects were instructed, in separate
+blocks of trials, to focus their attention on either the actual onset of
+their finger movement or their internal decision to execute it.
+Judgments about the time of each event was accomplished in the following way: subjects looked at the single hand of a clock that started
+to move at the beginning of each trial and stopped at a random time
+following the button press (Fig. 1a). Subjects reported the position of
+the clock’s hand either at the time they pushed the button (Mjudgment) or at the time they first became aware of their intention to
+move (W-judgment). To make explicit to the subjects what they had
+to focus on in the latter condition, the instruction was phrased as follows: “Note the position of the clock’s hand at the time when you felt
+the urge to move but had not started moving yet.” Subjects were told
+to feel free to execute the movement whenever they wanted, but not
+before the clock’s hand had completed its first turn. During the experiment, onset of muscular activity was measured by electromyography (EMG) from flexor digitorum superficialis of the responding
+hand. In all controls and in all patients, the electroencephalogram
+(EEG) was also recorded on the scalp to measure readiness potential12
+(RP) over motor areas (Fig. 1b). To assess each subject’s ability to correctly estimate time, we included one control condition (S-judgment)
+in which subjects reported the location of the clock’s hand when a
+beep was delivered by the computer.
+1Institut des Sciences Cognitives CNRS, 67 Blv Pinel, 69675 Bron, France. 2Human Physiology Section, IRCCS Fondazione Santa Lucia, Via Ardeatina 354, 00179
+Roma, Italy. 3Cerebrovascular Unit, Hopital Neurologique 59,bd Pinel 69394 Lyon, France.4Institute for Cognitive Neuroscience, University College London,
+17 Queen Square, London, UK. Correspondence should be addressed to A.S. (sirigu@isc.cnrs.fr).
+Published online 30 November 2003; doi:10.1038/nn1160
+Altered awareness of voluntary action after damage to
+the parietal cortex
+Angela Sirigu1, Elena Daprati1,2, Sophie Ciancia1, Pascal Giraux1, Norbert Nighoghossian3, Andres Posada1 &
+Patrick Haggard4
+A central question in the study of human behavior is the origin of willed action. EEG recordings of surface brain activity from
+human subjects performing a self-initiated movement show that the subjective experience of wanting to move follows, rather
+than precedes, the ‘readiness potential’—an electrophysiological mark of motor preparation. This raises the issue of how
+conscious experience of willed action is generated. Here we show that patients with parietal lesions can report when they
+started moving, but not when they first became aware of their intention to move. This stands in contrast with the performance
+of cerebellar patients who behaved as normal subjects. We thus propose that when a movement is planned, activity in the
+parietal cortex, as part of a cortico-cortical sensorimotor processing loop, generates a predictive internal model of the
+upcoming movement. This model might form the neural correlate of motor awareness.
+ARTICLES
+8 0 VOLUME 7 | NUMBER 1 | JANUARY 2004 NATURE NEUROSCIENCE
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+RESULTS
+Behavioral data
+Normal subjects were accurate when estimating movement onset (Mjudgment): they judged the time of movement execution to be almost
+at the exact time as when they actually pressed the button (estimated
+– real time difference, 19.8 ± 39.0 ms; Fig. 2). In agreement with previous reports10,11, subjects estimated the time they first intended to
+move (W-judgment) in advance of the actual movement onset (mean
+difference, –239.2 ± 92.9 ms). Cerebellar patients showed a similar
+behavior: M-judgments coincided with movement onset (mean difference, 10.9 ± 68.1 ms) and W-judgments largely anticipated onset of
+button press (mean difference, –314.1 ± 193.2 ms). Patients with parietal lesions also made accurate M-judgments
+(mean difference, –16.4 ± 94.5 ms), but in
+striking contrast with both normal subjects
+and cerebellar patients, they reported to have
+first intended to move at a time very close to
+that of movement onset (mean difference,
+–55.0 ± 132.6 ms). An ANOVA run on differences between estimated
+and actual button press revealed a significant main effect of judgment
+type (F1,12 = 47.925, P < 0.00001) and, more interestingly, a significant interaction between group and judgment type (F2,12 = 8.343,
+P < 0.005). Thus, whereas the three subject groups performed similarly on M-judgments, the W-judgments of parietal patients were significantly later than those of control subjects and cerebellar patients
+(P < 0.004 and P < 0.001, respectively, post hoc comparison). No difference was found between the latter two groups. A separate ANOVA
+compared the three groups on the control task (S-judgment). Results
+showed a similar pattern across subjects, in agreement with previous
+studies13: estimated time preceded beep occurrence in all subjects
+(control, mean difference, –85.8 ± 31.0 ms; cerebellar, –38.6 ±
+46.6 ms; parietal, –60.2 ± 15.9). Indeed, no significant differences
+emerged across groups, confirming the selectivity of the impairment
+of parietal patients for the W-judgment.
+Electrophysiological data
+EEG patterns differed according to group. As previously shown10–12,
+self-initiated movements are characterized by a progressive, negative rise
+in the potential recorded on the motor areas of the hemisphere contralateral to the responding hand, beginning about 1.5 s before the
+motor response. Here, detection of the initial rise in this potential varied
+between subjects and judgment conditions, but it was present in both
+control subjects and cerebellar patients, and for both M- and
+W-judgments. In controls, RP onset was detected prior to button press
+(897.0 ± 517.8 ms, mean ± standard deviation, s.d.) when estimating
+movement time and at –1331.0 ± 514.3 ms when estimating intention to
+move (Fig. 3a). A similar pattern was found in four cerebellar patients
+(one patient’s recording was discarded because of artifacts), where RP
+onset was recorded in advance of movement onset in the hemisphere
+contralateral to the responding hand in both conditions (M-judgment:
+ARTICLES
+NATURE NEUROSCIENCE VOLUME 7 | NUMBER 1 | JANUARY 2004 8 1
+Figure 2 Behavioral data. Results for Wjudgments (upper bars) and M-judgments (lower
+bars) in control subjects (white), cerebellar
+(gray) and parietal (black) patients. Dashed lines
+indicate standard deviation. Each bar represents
+the difference (in ms) between subjective report
+and exact time of button press. Additional data
+on subject response distribution across
+conditions can be found in Supplementary
+Figure 3 online.
+Figure 1 Task procedure and EEG recording sites. (a) Time course of the
+task. At time 0 the clock appears and the hand begins to rotate at a rate of
+2,560 ms per complete revolution. Subjects were asked to push the
+button with their index finger at a time of their own choosing and then to
+report the position of the clock’s hand when they executed the movement
+(M–judgment) or when they first made their internal decision to move
+(W–judgment, ‘wanting to move’). (b) EEG electrode distribution on the
+scalp. Vertex electrode (Cz) served as reference23. For analysis, signals
+from Fc5, C3, Cp3, C5 and Cp5 electrodes over the left hemisphere
+(according to the 10-20 system) and Fc6, C4, Cp4, C6, Cp6 over the right
+hemisphere were averaged.
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+–974.0 ± 411.9 ms, W-judgment: –1214.0 ±
+398.1 ms; Fig. 3b). In the parietal patients, a
+different pattern was found: when W-judgments were required, RP in the motor areas of
+the hemisphere contralateral to the moving
+hand was poorly detectable. An EEG negativity
+with a low amplitude was found prior to button press in the case of M-judgments (Mjudgment: –1551.3 ± 515.3 ms; Fig. 3c). A
+potential concern regarding the absence of a
+RP during W-judgment in parietal patients
+may be a poor EEG signal quality due to individual differences, noise, and so on. We can
+rule out this possibility by inspecting other
+components of the electrophysiological signal.
+First, movement-related EEG responses were
+present in these patients in the M-judgement
+condition. Comparison of amplitudes of EEG
+activity at the time of finger press across
+groups (Kruskall-Wallis test) did not show any
+statistical differences (P = 0.118, n.s.), although
+amplitude of maximal negativity was reduced
+in both patients’ group compared to controls
+(median value: cerebellar patients –1.4; parietal patients –1.6; controls –3.1). Second, signal-related activity in response to the control stimulus (beep) showed
+comparable stimulus-related potentials (namely P100, N200 and P300)
+in parietal patients and normal controls (Supplementary Fig. 1 online).
+DISCUSSION
+The results of the present experiment are highly suggestive of the different contributions of parietal cortex and the cerebellum to the production and maintenance of internal models of willed actions. By
+asking subjects to report the moment when they first felt the urge to
+move, we forced them to directly access an early stage of motor preparation, namely to access an internal model of the desired movement.
+As postulated above, we expected that damage to the cerebellum
+and/or to the parietal cortex would impair this judgment. Our results
+show that cerebellar patients have normal awareness of both intention and action, suggesting that this structure is not involved in this
+aspect of motor awareness. We can speculate that, although the cerebellum is involved in the predictive control of action4,7 its predictions
+may not reach awareness14. On the other hand, our results show that
+parietal patients have lost the ability to correctly estimate the instant
+in time when their intention to move was defined. This deficit does
+not result from a nonspecific impairment in making correct temporal
+estimations, as shown by the fact that the patients’ ability to estimate
+movement time was unimpaired, as was the temporal detection of the
+onset of a sound used in the control task (see Methods). Might the
+delayed judgement in the W-condition result from sensory impairment of the contralesional hand? Because of this impairment, could
+these patients have relied more on vision of their hand moving rather
+than on an internal estimate? This interpretation seems unlikely.
+Subjects were forced to watch the clock rather than their hand during
+each trial. In addition, only one subject (P4) presented a mild sensory
+ARTICLES
+8 2 VOLUME 7 | NUMBER 1 | JANUARY 2004 NATURE NEUROSCIENCE
+Figure 3 Samples of EEG recording. Readiness
+potential recorded from (a) two control subjects
+(right-hand movements, left-hemisphere
+recording), (b) a left cerebellar patient (C1, lefthand movements, right-hemisphere recording)
+and a right cerebellar patient (C3, right-hand
+movements, left-hemisphere recording) and (c) a
+left parietal patient (P5, right-hand movements,
+left- hemisphere recording) and a right parietal
+patient (P3, left-hand movements, righthemisphere recording). Dotted blue traces
+indicate M-judgment trials, red lines indicate Wjudgment trials. RP data for all parietal patients
+can be found in Supplementary Figure 4 online.
+Interestingly, in normal subjects and in three
+cerebellar patients, RP onset in the W-condition
+appeared earlier than it did in the M-condition. It
+is well known that RPs are modulated by motor
+preparation and expectancy24. Asking subjects to
+focus attention on their decision to move probably
+involved more cognitive effort and deliberate
+action, thus producing the increase in RP.
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+impairment for the contralesional hand, whereas the others performed normally on clinical sensory testing.
+We can speculate that lesions of the parietal cortex affected either
+the neural processes involved in generating motor mental representations of a voluntary action or those involved in gaining subjective
+access to them. These hypotheses are consistent with the view that the
+parietal cortex contains an internal model used for conscious monitoring of voluntary actions5,6.
+Although our EEG data should be taken cautiously because of
+the small sample studied and to limitations intrinsic to the technique, a further suggestion could be drawn from the present study.
+The reduced RP observed in parietal patients is in line with their
+behavioral responses. It could reflect a more general deficit in EEG
+motor responses, but an alternative possibility is that the reduced
+RP in parietal patients may be a consequence of an impaired feedback loop with the frontal motor areas for elaborating and developing plans for voluntary action15. Interestingly, the apparent absence
+of volition and longer-range planning that follows extensive frontal
+damage suggests that prefrontal areas may be involved in generating prior intention16,17. Given that the parietal patients otherwise
+had no difficulty in initiating willed actions, our results imply that
+one of the parietal lobe’s principal functions might be to self-monitor motor intentions, rather than being directly involved in forming intentions. This would be consistent with the idea that this
+brain region is necessary for anticipatory control of action6.
+Whereas the frontal cortex may thus participate in the formation of
+intentions, the parietal cortex might be responsible for constructing the way we experience them as linked to our actions. Further
+studies should directly address this hypothesis.
+In all parietal patients examined, cortical damage overlapped in the
+inferior parietal lobule, more precisely in the angular gyrus
+(Brodmann area 39; Fig. 4). Lesions of the inferior left or the right
+parietal lobule produce severe and selective impairments in motor
+imagery5. When the lesions are located in the left parietal areas, a gesture disorder known as apraxia is observed. Apraxic patients are usually aware that their gestural production is inadequate, but they lack
+insight about what exactly they are doing wrong18. When placed in a
+ambiguous situation requiring discrimination of their own movements from that performed simultaneously by another agent, parietal
+patients often attribute to themselves the movement made by the
+other agent19. Finally, when a lesion of the right inferior parietal lobule occurs, patients are frequently unaware of and even deny coexisting motor disturbance20. Common to all of these impairments is a
+failure of introspection specific to the domain of action, consistent
+with our hypothesis that the parietal lobe plays a critical role in the
+conscious monitoring of motor intentions.
+We suggest that the brain may contain several internal models used
+for predictive control of voluntary action. An implicit module in the
+cerebellum would provide fast processing for execution of actions and
+predicting their sensory consequences7,21. A second system, in the
+parietal cortex, would monitor intentions and motor plans at a higher
+level, detecting when actions match their desired goals. These
+processes typically involve conscious experience.
+METHODS
+Subjects. Participants were: (i) five healthy volunteers (S; all women; mean age
+54.2 years, range 41–66; mean educational level 15.2 years, range 12–20)
+(ii) five cerebellar patients (C; three women, two men; mean age 46.0, range
+24–55; mean educational level 11.6, range 5–19; mean time since lesion
+11.6 months, range 7–24) (iii) five patients with selective lesion in the parietal
+cortex (P; all men; mean age 50.2, range 36–64; mean educational level 12.2,
+range 8–17; mean time since lesion 47.4 months, range 5–134). All patients
+were in the chronic phase. All participants were strongly right-handed according to the Edinburgh Inventory22, except patients C4 and P4 (ambidextrous).
+Patients signed an informed consent to participate in the study.
+Patient details. Within the cerebellar group, three patients suffered lesion to
+the left cerebellar hemisphere (C1, C4, C5) and two to the right (C2, C3).
+Except for one case (C2) in which the lesion was secondary to tumor removal,
+the lesion was due to either spontaneous hematoma (C1, C3) or stroke (C4,
+C5). Lesions of parietal patients followed stroke and involved selectively the
+right (P1, P2, P3) or the left parietal cortex (P4, P5). In all parietal patients, the
+lesion involved the angular gyrus (BA 39); in patient P4, this region alone was
+affected. In patients P1, P2 and P3, it extended into the supramarginal gyrus
+(BA 40) and in P5 into the middle temporal cortex. Lesions were reconstructed
+using patients’ MRI (1.5-T clinical whole-body scanner, Siemens) and projected into Bancaud and Talairach MRI template (Fig. 4).
+For each patient, elementary sensorimotor functions, gestural, visuospatial
+and perceptual abilities were evaluated (Supplementary Table 1 online). A
+general neuropsychological screening assessed non-verbal intellectual abilities, memory functions, language comprehension and naming. No severe cognitive impairments, language deficits or visuospatial deficits were found. All
+patients could make voluntary hand actions with normal muscular force. Two
+cerebellar patients (C1, C4) showed mild optic ataxia for the ipsilesional hand.
+Two parietal subjects (P1, P4) showed apraxia. P1 presented mild sensory disturbance for the contralesional hand.
+Procedure. Subjects sat in front of a computer (40 cm from screen), their hand
+on a button box. A clock (diameter 2.2 cm; marked in steps of 5 units from 0 to
+60 like a traditional clock) appeared in the center of the screen (Fig. 1a). At the
+beginning of each trial, the clock’s hand started to move clockwise from a random location and completed a full sweep in 2,560 ms. Subjects were asked to
+push the button with their index finger at a time of their own choosing: they
+were told to feel free to execute the movement whenever they wanted, but not
+before the clock’s hand had completed its first full sweep. In one block of trials,
+subjects were instructed to attend to the actual onset of their finger movement
+and report the location of the clock’s hand when they executed the movement
+ARTICLES
+NATURE NEUROSCIENCE VOLUME 7 | NUMBER 1 | JANUARY 2004 8 3
+Figure 4 Lesioned cortical region (blue area) common to all five parietal
+patients. The ischemic lesions involved mainly the angular gyrus
+(Brodmann area 39) of the parietal cortex. Top, transverse slices. From left
+to right, Talairach coordinates (z-plane) of each slice: +17, +23, +28.
+Bottom, lateral view.
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+ARTICLES
+8 4 VOLUME 7 | NUMBER 1 | JANUARY 2004 NATURE NEUROSCIENCE
+(M-judgment). In a separate block of trials, they were required to report the
+location of the clock’s hand when they first made their internal decision to
+move (W-judgment, for ‘wanting to move’). The clock’s hand stopped its rotation at a random interval (400–800 ms) after the button press. Control subjects executed the button presses with their right index finger, cerebellar
+patients used the index finger of their ipsilesional hand, and parietal patients
+used the index finger of their contralesional hand. To assess each subject’s ability to correctly estimate time, we used a control condition (S-judgment) in
+which the subject reported the location of the clock’s hand when a beep was
+delivered by the computer. For M-, W- and S-judgment, two blocks of 40 trials
+were run. Order of block presentation was balanced.
+Behavioral data recording and analysis. For each trial, the time the button
+press actually occurred was subtracted from the time that subjects reported
+that they executed (M-judgment) or first intended to execute the movement
+(W-judgment). For the control task (S-judgment), the time when the sound
+actually occurred (as recorded by the computer) was subtracted from the time
+at which subjects reported hearing the sound. A negative value indicates that
+subject’s estimate preceded the real event; a positive value indicates that it followed the real event.
+EEG recordings. We recorded on the scalp with a 64-channels net (Fig. 1b;
+Geodesic System, EGI) equipped with carbon-silver electrodes (sampling frequency 500 Hz). Signals were amplified, filtered (high pass 0.01, low-pass
+200 Hz), collected into movements-locked epochs ranging from 2,000 ms
+before button press (–2,000) to 500 ms afterwards (+500), and then they were
+averaged. The first 200 ms of each epoch were used for baseline correction.
+Eye-movement artifacts were automatically filtered before averaging. EEG
+data analysis was performed separately for each subject.
+Electrophysiological data analysis. Onset of the readiness potential (RP) was
+analyzed by two electrophysiologists who were naive with regard to the purpose
+of the experiment and the identity of the subjects (for details on computation of
+RP onset, see Supplementary Fig. 2 online). Onset of muscular activity was collected by electromyography (EMG) from flexor digitorum superficialis of the
+responding hand (sampling frequency 1,000 Hz). EMG signals were amplified
+and filtered (low-pass filter 50 Hz). The first burst of muscular activity preceding
+a button press was considered as muscular onset. On average, this measure preceded a button press by 40.6 ms (± 12.0 ms, s.d.) in controls and by 43.8 ± 19.8 ms
+and 60.08 ± 19.4 ms in cerebellar and parietal patients, respectively.
+Note: Supplementary information is available on the Nature Neuroscience website.
+ACKNOWLEDGMENTS
+The authors wish to thank J.R. Duhamel for helpful discussion on a first draft,
+L. Granjon and B. Messaoudi for assistance during EEG and EMG recording, and
+A. Cheylus and M. Thevenet for help analyzing EEG data and doing lesion
+reconstruction. This research was supported by Centre National de la Recherche
+Scientifique (CNRS).
+COMPETING INTERESTS STATEMENT
+The authors declare that they have no competing financial interests.
+Received 22 July; accepted 11 November 2003
+Published online at http://www.nature.com/natureneuroscience/
+1. Kawato, M. Internal models for motor control and trajectory planning. Curr. Opin.
+Neurobiol. 9, 718–727 (1999).
+2. Wolpert, D.M., Ghahramani, Z. & Jordan, M.I. An internal model for sensorimotor
+integration. Science 269, 1880–1882 (1995).
+3. Blakemore, S.J., Wolpert, D.M. & Frith, C.D. Abnormalities in the awareness of
+action. Trends Cogn. Sci. 6, 237–242 (2002).
+4. Wolpert, D.M. & Ghahramani, Z. Computational principles of movement neuroscience. Nat. Neurosci. 3, 1212–1217 (2000).
+5. Sirigu, A. et al. The mental representation of hand movements after parietal cortex
+damage. Science 273, 1564–1568 (1996).
+6. Desmurget, M. & Grafton, S. Forward modeling allows feedback control for fast
+reaching movements. Trends Cogn. Sci. 4, 423 (2000).
+7. Blakemore, S.J., Frith, C.D. & Wolpert, D.M. The cerebellum is involved in predicting the sensory consequences of action. Neuroreport 12, 1879–1884
+(2001).
+8. Flanagan, J.R. & Wing, A.M. The role of internal models in motion planning and
+control: evidence from grip force adjustments during movements of hand-held
+loads. J. Neurosci. 17, 1519–1528 (1997).
+9. Babin-Rattè, S., Sirigu, A., Gilles, M. & Wing, A. Impaired anticipatory finger gripforce adjustments in a case of cerebellar degeneration. Exp. Brain Res. 128,
+81–85 (1999).
+10. Libet, B., Gleason, C. A., Wright, E. W. & Pearl, D. K. Time of conscious intention
+to act in relation to onset of cerebral activity (readiness potential). The unconscious initiation of a freely voluntary act. Brain 106, 623–642 (1983).
+11. Libet, B. Unconscious cerebral initiative and the role of conscious will in voluntary action. Behav. Brain Sci. 8, 529–566 (1985).
+12. Kornhuber, H.H. & Deecke, L. Hirnpotentialänderungen bei Willkürbewegungen
+und passiven Bewegungen des Menschen: Bereitschaftspotential und reafferente
+Potentiale. Pflügers Arch. ges. Physiol. 284, 1–17 (1965).
+13. Haggard, P., Clark, S. & Kalogeras, J. Voluntary action and conscious awareness.
+Nat. Neurosci. 5, 382–385 (2002).
+14. Blakemore, S.J. & Sirigu, A. Action prediction in the cerebellum and in the parietal lobe. Exp. Brain Res. (in press).
+15. Leiguarda, R.C. & Marsden, C.D. Limb apraxias: higher-order disorders of sensorimotor integration. Brain 123, 860–879 (2000).
+16. Shallice, T. & Burgess, P. Deficits in strategy application following frontal lobe
+damage in man. Brain 114, 727–741 (1991).
+17. Frith, C.D., Blakemore, S.J. & Wolpert, D.M. Abnormalities in the awareness and
+control of action. Philos. Trans. R. Soc. Lond. B Biol. Sci. 29, 1771–1788
+(2000).
+18. Buxbaum. L.J., Sirigu, A., Schwartz, M.F. & Klatzky, R. Cognitive representations
+of hand posture in ideomotor apraxia. Neuropsychologia 41, 1091–1113
+(2003).
+19. Sirigu, A., Daprati, E., Pradat-Diehl, P., Franck, N. & Jeannerod, M. Perception
+of self-generated movement following left parietal lesion. Brain 122,
+1867–1874 (1999).
+20. Weinstein, E.A. & Kahn, R. Denial of Illness: Symbolic and Physiological Aspects
+(Charles C. Thomas, Springfield, Massachusetts, 1955).
+21. Wolpert, D.M., Ghahramani, Z. & Flanagan, J.R. Perspectives and problems in
+motor learning. Trends Cogn. Sci. 1, 487–494 (2001).
+22. Oldfield, R.C. The assessment and analysis of handedness: the Edinburgh inventory. Neuropsychologia 9, 97–113 (1971).
+23. Bertrand, O., Perrin, F. & Pernier, J. A theoretical justification of the average reference in topographic evoked potential studies. Electroencephalogr. Clin.
+Neurophysiol. 62, 462–464 (1985).
+24. McCallum, W.C. Potentials related to expectancy, preparation and motor activity.
+in Human Event-Related Potentials (ed., Picton, T.W.) 427–534 (Elsevier,
+Amsterdam, 1988).
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience

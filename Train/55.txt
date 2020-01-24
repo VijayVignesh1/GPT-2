@@ -1,0 +1,815 @@
+Dopamine release from the locus coeruleus to the
+dorsal hippocampus promotes spatial learning
+and memory
+Kimberly A. Kempadooa,1, Eugene V. Mosharovb,c,d,e, Se Joon Choib,c,d,e, David Sulzerb,c,d,e, and Eric R. Kandela,f,g,1
+a
+Department of Neuroscience, Columbia University, New York, NY 10032; b
+Department of Neurology, Columbia University, New York, NY 10032; c
+Department of Psychiatry, Columbia University, New York, NY 10032; d
+Department of Pharmacology, Columbia University, New York, NY 10032; e
+New
+York State Psychiatric Institute, New York, NY 10032; f
+Kavli Institute for Brain Science, New York, NY 10032; and g
+Howard Hughes Medical Institute, New
+York, NY 10032
+Contributed by Eric R. Kandel, November 9, 2016 (sent for review October 5, 2016; reviewed by Tom Abrams and John H. Byrne)
+Dopamine neurotransmission in the dorsal hippocampus is critical
+for a range of functions from spatial learning and synaptic plasticity
+to the deficits underlying psychiatric disorders such as attentiondeficit hyperactivity disorder. The ventral tegmental area (VTA) is
+the presumed source of dopamine in the dorsal hippocampus.
+However, there is a surprising scarcity of VTA dopamine axons
+in the dorsal hippocampus despite the dense network of dopamine
+receptors. We have explored this apparent paradox using optogenetic, biochemical, and behavioral approaches and found that
+dopaminergic axons and subsequent dopamine release in the dorsal
+hippocampus originate from neurons of the locus coeruleus (LC).
+Photostimulation of LC axons produced an increase in dopamine
+release in the dorsal hippocampus as revealed by high-performance
+liquid chromatography. Furthermore, optogenetically induced release
+of dopamine from the LC into the dorsal hippocampus enhanced
+selective attention and spatial object recognition via the dopamine
+D1/D5 receptor. These results suggest that spatial learning and
+memory are energized by the release of dopamine in the dorsal
+hippocampus from noradrenergic neurons of the LC. The present
+findings are critical for identifying the neural circuits that enable
+proper attention selection and successful learning and memory.
+dopamine | locus coeruleus | hippocampus | memory | attention
+Dopamine is a neurotransmitter released throughout the brain
+to encode salience and facilitate the formation of associative
+memory (1, 2). When released into the dorsal hippocampus, dopamine binds to D1/D5 receptors to promote attention, episodic
+memory formation, spatial learning, and synaptic plasticity (3–5).
+Successful spatial learning requires that hippocampal place cells,
+location-encoding pyramidal neurons (6), display consistent and
+stable patterns of neural activity, a process that can be enhanced
+by selective attention to spatial cues and by dopamine agonists
+(7, 8). Conversely, dopamine receptor blockade attenuates the
+ability of spatial attention to stabilize the firing pattern of hippocampal place cells (8). The role of dopamine in driving attentional processes is highlighted by the fact that methylphenidate,
+one of the most common treatments for attention-deficit hyperactivity disorder (ADHD), improves attention by increasing synaptic availability of dopamine in the hippocampus, as well as in the
+prefrontal cortex and striatum (9–11). These findings suggest that
+dopamine is critical for the selective attention underlying spatial
+learning and memory.
+For decades, the ventral tegmental area (VTA) has been the
+presumed source of hippocampal dopamine. However, in recent
+years, the source of dopamine in the dorsal hippocampus has
+become less clear. McNamara et al. (12) argued that a dopaminergic projection from the VTA to the dorsal hippocampus
+promoted hippocampal reactivation during sleep and stabilized
+memory. However, only 10% of the sparse projection from the
+VTA to the hippocampus contains dopamine, raising the question
+of whether this weak VTA projection could be solely responsible
+for activating the dense network of dopamine receptors found in
+the dorsal hippocampus (13–16). Moreover, whereas the ventral
+aspect of the hippocampus, an area associated with learned fear
+and anxiety (17), receives significant dopaminergic projections
+from the VTA (13, 14), the dorsal region of the hippocampus,
+which houses the place cells required for spatial memory (7), has
+relatively sparse dopaminergic innervation from the VTA. We
+therefore set out to identify the neurons that provide dopaminergic tone to the dorsal hippocampus and to assess their
+involvement in spatial learning and attention.
+Dopamine is removed from hippocampal synapses by the
+norepinephrine transporter (18), which suggests that dopamine
+may also be released from norepinephrine-containing neurons
+outside of the VTA. Although indirect action via the VTA had
+not been ruled out, electrical and pharmacological stimulation of
+the noradrenergic locus coeruleus (LC) increased dopamine
+levels in the prefrontal cortex and modulated hippocampal synaptic transmission (19, 20). Also, dopamine-mediated enhancement of excitatory transmission in the hippocampus can be
+reversed by tyrosine hydroxylase (TH) knockdown in the LC, but
+not in the VTA (21). Smith and Greene (21) therefore suggested
+that dopamine may be released from the LC into the dorsal
+hippocampus. A major caveat of the study is that the synaptic
+transmission effects are produced in vitro by amphetamine, a
+Significance
+Successful completion of daily activities relies on the ability to
+select the relevant features of the environment to pay attention to and remember. Disruptions of these processes can lead
+to disorders, such as attention-deficit hyperactivity disorder
+and age-related memory loss. To devise therapeutic strategies,
+we must understand the neural circuits underlying normal
+cognition. One important pathway is the signaling of dopamine, a reinforcement-related neurotransmitter, in the hippocampus, a spatial learning and memory center. Surprisingly,
+the brain region supplying dopamine to the dorsal hippocampus is unclear. This study provides direct evidence that the
+noradrenergic locus coeruleus coreleases dopamine in the
+dorsal hippocampus and provides insight into dopamine function in selective attention and spatial learning and memory.
+Author contributions: K.A.K., E.V.M., D.S., and E.R.K. designed research; K.A.K., E.V.M.,
+and S.J.C. performed research; K.A.K. and E.V.M. analyzed data; and K.A.K. and E.R.K.
+wrote the paper.
+Reviewers: T.A., University of Maryland School of Medicine; and J.H.B., University of Texas
+Medical School at Houston.
+The authors declare no conflict of interest.
+Freely available online through the PNAS open access option.
+1
+To whom correspondence may be addressed. Email: erk5@columbia.edu or kak2199@
+columbia.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1616515114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1616515114 PNAS | December 20, 2016 | vol. 113 | no. 51 | 14835–14840
+NEUROSCIENCE
+drug known to increase extracellular dopamine concentrations
+(22). The finding provides no insight as to whether dopamine is
+released from the LC under more physiological, nondrug conditions, a question we test directly in our study.
+Taken together, there are some groups who argue that the
+VTA is the main source of dopamine to the dorsal hippocampus
+(12–14) and others who support the idea that dopamine is released from LC neurons (19–21). These conflicting hypotheses
+leave unanswered the question of which brain region supplies
+the dorsal hippocampus with dopaminergic tone. We combined
+optogenetic, biochemical, and behavioral methods to identify the
+major source of dopamine in the dorsal hippocampus and then
+examined the involvement of this dopaminergic pathway in selective attention and spatial learning and memory.
+Results
+VTA Dopamine Neurons Project More Widely to the Ventral Versus
+Dorsal Hippocampus. To identify the neurons that release dopamine in the dorsal aspect of the hippocampus, we first selectively
+labeled and then stimulated dopamine axons in the dorsal hippocampus using the neuronal specificity afforded by optogenetics.
+Using the Cre-Lox method for gene expression, we used mice that
+expressed Cre under control of the dopamine transporter with an
+internal ribosome entry site (IRES-Cre mice). We then transfected dopaminergic cell bodies in the VTA and their axonal
+projections by injecting a floxed adenoassociated virus coding for
+Channelrhodopsin-2 (ChR2), a light-sensitive ion channel coupled
+to enhanced yellow fluorescent protein (EYFP), a fluorescent reporter gene (Fig. 1 A and B). The genetic precision of optogenetics
+eliminates the possibility of nonspecific binding and injection site
+spillover that can accompany classical immunohistochemical techniques. To map dopamine axonal projections, we imaged ChR2-
+EYFP–expressing VTA dopamine axons and immunostained for
+TH (Fig. 1 C and D), an enzyme in the pathway for dopamine
+synthesis that highlights catecholaminergic structures (23). Confirming the efficacy of our cell type-specific labeling method, we observed
+fibers in expected VTA projection sites, including the striatum and
+amygdala (Fig. S1A), as well as in the ventral hippocampus (Fig.
+1D). However, we found very sparse expression of VTA dopamine
+axons in the cortical area 1 (CA1) region of the dorsal hippocampus (Fig. 1C). We observed a significantly greater number of
+VTA axons in the ventral versus dorsal hippocampus (Fig. 1E).
+We repeated the procedure of tracing the VTA to the dorsal
+hippocampus projection using Th-IRES-Cre mice and similar to
+results in DAT-IRES-Cre mice, we found scarce expression of
+VTA dopamine axons in the dorsal hippocampus. However,
+upon inspection of the midbrain, we also observed ChR2-EYFP
+viral expression in neurons outside of VTA dopamine cells, and
+therefore eliminated the dataset (Fig. S1B). Indeed, it has previously been reported that Cre-induced reporter expression in
+the midbrain of Th-IRES-Cre and Th-Cre mice is nonspecific for
+VTA dopamine neurons (24).
+Catecholamine Neurons of the LC Project to the Dorsal Hippocampus.
+To explore the source of dopamine to the dorsal hippocampus,
+we used retrograde tracing to locate the cell bodies of catecholamine neurons that project directly to the dorsal hippocampus (Fig. 1 F and G). We injected red retrobeads into the
+dorsal CA1 region of the hippocampus in naive C57BL/6 mice
+and did not label dopamine cell bodies in the VTA, providing
+further evidence that the catecholamine projection from the VTA
+to the dorsal hippocampus is sparse at best (Fig. 1G). In contrast,
+the retrobeads fluorescently labeled significantly more catecholamine neurons in the LC (Fig. 1H), another brain region related
+to attention and arousal (25, 26). Unlike the VTA, which contains
+neurons that release dopamine, cells of the LC are thought to
+produce dopamine solely as an intermediate in the synthesis of
+norepinephrine (27). We now hypothesize that LC neurons
+corelease dopamine along with norepinephrine in the dorsal
+hippocampus.
+To determine whether the catecholamine terminals of the LC
+are appropriately positioned to influence hippocampal activity,
+we next isolated and mapped the catecholamine pathway from
+the LC to the dorsal hippocampus in Th-IRES-Cre mice. The LC
+projection to the hippocampus (28), specifically to the ventral
+hippocampus, has been documented (29); however, the anatomical localization of LC catecholamine terminals within distinct
+dorsal hippocampal subregions has not been well characterized.
+Using ChR2-EYFP as a neuronal label, we found that catecholamine neurons in the LC indeed send numerous axons to the
+dorsal hippocampus (Fig. 2 A and B). Given that place cells are
+found in the CA1 and CA3 regions in the dorsal hippocampus (6),
+we quantified LC terminal expression in these hippocampal subregions (schematic in Fig. 2C). We found dense LC catecholamine
+D
+F VTA
+TH HPC RBs
+DAPI Merge
+TH HPC RBs
+DAPI Merge
+LC G
+VTA to Dorsal Hippocampus
+VTA to Ventral Hippocampus
+H
+C
+*
+*
+LC VTA
+Number of Neurons 2
+4
+6
+8
+10
+0
+DA
+Non-DA
+VTA fibers Dopaminergic fibers Colocalization
+A
+VTA
+HPC
+B ChR2 TH Merge
+ Floxed AAV-ChR2-EYFP
+ Cre-expressing
+ DA neurons
+0.2
+0.4
+0.6
+0.8
+0
+*
+ChR2-EYFP fibers
+(% of total pixels)
+Dor
+HPC
+Ven
+HPC
+E
+ChR2 TH Merge + DAPI
+ChR2 TH Merge + DAPI
+Fig. 1. Dopaminergic projection from the VTA to the CA1 region of the
+dorsal hippocampus is very sparse in dopamine transporter (DAT)-IRES-Cre
+mice. (A) Schematic of the experimental approach depicts infection of VTA
+dopamine (DA) neurons and axons with ChR2-EYFP to allow for axonal
+tracing. AAV, adenoassociated virus; HPC, hippocampus. (B) ChR2-EYFP expression was restricted to VTA dopamine neurons. ChR2 (green) illustrates
+ChR2-EYFP expression, TH (red) is a dopamine marker, and Merge indicates
+combined signals. (Scale bar: 100 μm.) (C) ChR2+ fibers (green) indicate the
+dearth of dopamine-containing axons in the dorsal hippocampus originating
+from the VTA. (Scale bar: 20 μm.) (D) ChR2+ VTA dopamine axons are
+abundant in the ventral hippocampus. DAPI (blue) is a nuclear marker. (Scale
+bar: 20 μm.) (E) Significantly more ChR2+ fibers are found in the ventral
+hippocampus (Ven HPC = 0.52 ± 0.10%) versus the dorsal hippocampus (Dor
+HPC = 0.22 ± 0.05%) (Mann–Whitney test, *P = 0.022). (F) Neurons of the LC
+project to the dorsal hippocampus as indicated by (red) neurons retrogradely
+labeled from the dorsal hippocampus. TH (green), retrobeads from the
+dorsal hippocampus (HPC RBs, red), and DAPI (blue) are shown. (Scale bar:
+20 μm.) (G) VTA was devoid of dorsal hippocampus-projecting dopamine
+neurons. (Scale bar: 20 μm.) (H) Significantly more dopamine-containing
+neurons in the LC versus the VTA project to the dorsal hippocampus [twoway ANOVA, LC DA = 4.92 ± 0.95, LC non-DA = 0.50 ± 0.34, VTA DA = 0, VTA
+non-DA = 0.08 ± 0.08; F(1,44) = 19.82; n = 12; *P < 0.001].
+14836 | www.pnas.org/cgi/doi/10.1073/pnas.1616515114 Kempadoo et al.
+fiber expression throughout the dorsal CA1 region (Fig. 2D).
+This finding suggests that LC catecholamine fibers terminate in
+close proximity to the dendritic branches of hippocampal place
+cells, neurons that encode position in space and are tuned
+by selective attention to environmental cues (7, 8). We next
+compared the density of LC catecholamine axons with the
+density of VTA dopamine axons in the dorsal CA1 region and
+found that LC axons are substantially denser than VTA fibers
+(Fig. 2E).
+Previous studies support the hypothesis that LC neurons are
+capable of coreleasing dopamine in the dorsal hippocampus.
+Electrical stimulation of the LC produces increased tissue content and pharmacological action of dopamine in the hippocampus (20, 30). However, these studies did not rule out network
+action via the VTA and failed to demonstrate release of dopamine from noradrenergic LC axons into the dorsal hippocampus.
+An increase in dopamine tissue content may suggest intracellular accumulation of norepinephrine synthesis products, but
+does not provide evidence that these neurons are capable of
+dopamine release. We attempted to address these unresolved
+questions using the genetic and anatomical specificity afforded
+by optogenetics.
+Dopamine Is Released from Axons of the LC in the Dorsal Hippocampus.
+To assess directly whether and to what extent dopamine is released
+from axons of the LC, we measured extracellular dopamine concentrations in acute hippocampal slices using high-performance
+liquid chromatography (HPLC). Dorsal hippocampus coronal brain
+sections (250 μm) were prepared from Th-IRES-Cre mice in which
+LC catecholamine neurons and fibers were infected with the
+floxed ChR2-EYFP virus. We then photostimulated LC axons
+in the hippocampus ex vivo and compared dopamine release in
+the extracellular fluid of stimulated hippocampal slices with
+identically handled wild-type controls lacking ChR2 expression.
+Optical stimulation of LC catecholamine terminals in the
+dorsal hippocampus evoked significantly higher levels of both
+dopamine and norepinephrine release compared with controls
+(Fig. 3A). Similarly, optically stimulated slices (laser on)
+showed significantly higher extracellular concentrations of dopamine and norepinephrine than nonstimulated slices expressing
+ChR2-EYFP (laser off; Fig. 3 B and C). These findings confirm
+that both neurotransmitters were released from LC axons into
+the dorsal hippocampus.
+We next lesioned catecholamine neurons of the LC selectively
+using a floxed Caspase-3 virus (University of North Carolina
+Vector Core) (31) and measured a 72.7% reduction of dopamine
+and a 77.2% reduction of norepinephrine tissue levels in the
+hippocampus (Fig. 3 D and E). The ratio of norepinephrine to
+dopamine remained the same in lesioned and control samples
+(Fig. 3E). We then stimulated nonspecific neurotransmitter release into the extracellular fluid by incubating slices in potassium
+chloride to promote release of dopamine and norepinephrine
+from all axons in the dorsal hippocampus. A selective lesion of
+LC catecholamine neurons reduced the extracellular dopamine
+concentration by 67.9% and norepinephrine by 83.8% (Fig. S2).
+This finding suggests that the majority of the dopaminergic tone
+present in dorsal hippocampal tissue and actively released into
+the extracellular space originated from neurons of the LC. Together, these results provide a direct demonstration that dopamine is released from LC axons into the dorsal hippocampus.
+Optogenetic Activation of LC Catecholamine Axons in the Dorsal
+Hippocampus Promotes Selective Attention and Spatial Learning via
+the Dopamine D1/D5 Receptor. To assess the behavioral significance of the dopamine pathway from the LC to the hippocampus, we examined mice in a spatial object recognition task while
+activating ChR2-EYFP+ LC axons in the dorsal hippocampus
+(Fig. 4A). We allowed mice to explore a square arena with distinct walls containing two identical objects during a 5-min
+training session. One day later, we challenged these mice to
+explore the arena during a 5-min test session in which the least
+preferred object was moved to another position. During the
+training session for this task, both ChR2-EYFP–expressing
+Th-IRES-Cre animals and their wild-type controls received
+intrahippocampal optical stimulation. We then assessed performance by determining the difference index, a normalized
+measure indicating the relative amount of time spent exploring
+the displaced object. Increased attention to the displaced object during the test session generates a higher difference index
+and correlates positively with the degree of successful spatial
+learning and memory. In ChR2-EYFP–expressing animals,
+optical activation of hippocampal LC catecholamine terminals
+during training significantly increased the average difference
+index in the test session. This enhancement of spatial learning
+only occurred in optically stimulated animals, and not in wild-type
+controls (Fig. 4B). These results demonstrate that photostimulation
+of the LC-to-hippocampus catecholamine pathway promoted
+spatial learning and converted nonlearners into learners.
+The LC-to-hippocampus projection was previously thought to
+be strictly noradrenergic (28); therefore, the function of dopamine
+released from LC fibers into the dorsal hippocampus was not
+known. Given the dearth of catecholamine innervation from the
+VTA, we now asked whether the LC actively releases behaviorally relevant dopamine concentrations into the dorsal hippocampus. To address this question, before the optical stimulation
+training session, we infused into the dorsal hippocampus one of
+three compounds: (i) saline; (ii) SCH23390, a dopamine D1/D5
+receptor antagonist we have previously used to block the effects
+ChR2: viral expression
+DAPI: nuclear marker TH: catecholamines
+Merge
+A
+C D
+Injection Site: LC
+Hippocampal Subregion
+Axon density (#/image)
+0
+5
+10
+15
+20
+25
+SO
+CA1 CA3 DG
+SR SLM SO SR SLM MOL PL
+SO
+SR
+SLM
+MOL
+PL
+CA1
+CA3 DG
+B Projection Site: Dorsal CA1
+ChR2: LC fibers
+DAPI: nuclear marker TH: catecholamines
+Merge
+10
+20
+30
+40
+0
+ChR2+TH fibers (% TH)
+VTA LC
+E *
+Fig. 2. Distribution of LC catecholamine axons in the dorsal hippocampus of
+Th-IRES-Cre mice. (A) ChR2 successfully infected catecholamine-containing
+neurons in the LC. (Scale bar: 100 μm.) (B) ChR2+ LC catecholamine axons are
+found in the dorsal hippocampus. (Scale bar: 20 μm.) (C) Dorsal hippocampal
+subregions. (D) LC catecholamine fiber density in hippocampal subregions
+(one-way ANOVA, Kruskal–Wallis test, P = 0.024; n = 4). MOL, molecular
+layer of the dentate gyrus (DG); PL, polymorphic layer of the DG; SLM,
+stratum lacunosum-moleculare; SO, stratum oriens; SR, stratum reticulatum.
+DAPI (blue) is a nuclear marker, ChR2 (green) indicates ChR2+ LC axons, TH
+(red) indicates catecholamine-containing fibers, and Merge indicates combined signals. (E) LC catecholamine axon density is significantly greater than
+the density of VTA dopamine axons in the dorsal hippocampus (LC: 32.53 ±
+5.48%, VTA: 7.20 ± 1.32%, Mann–Whitney test, *P < 0.001).
+Kempadoo et al. PNAS | December 20, 2016 | vol. 113 | no. 51 | 14837
+NEUROSCIENCE
+of attention on place cell stability (8); or (iii) propranolol, a betaadrenergic receptor antagonist. Site-specific delivery (Fig. S3) of
+the dopamine D1/D5 receptor antagonist blocked the memoryenhancing effects of LC-to-hippocampus photostimulation, consistent
+with the hypothesis that LC neurons do, in fact, release dopamine
+into the dorsal hippocampus to promote spatial learning and
+memory (Fig. 4C). The norepinephrine antagonist had no significant effect on the LC-to-hippocampus optical stimulation-induced
+learning enhancement (Fig. 4C). Given that the difference index is
+a normalized measure of activity and that total exploration times in
+antagonist experiments were not significantly different from baseline experiments, it is highly unlikely that this effect was due to
+alterations in locomotion (Fig. 4D).
+Optogenetic Activation of LC Catecholamine Axons in the Dorsal
+Hippocampus Increases the Rate of Spatial Learning and Memory.
+To explore the role of the catecholaminergic projection from the
+LC to the dorsal hippocampus in spatial learning and memory
+further, we also performed the Barnes Maze task. In this
+hippocampus-dependent paradigm, animals explore a circular
+platform with equidistant holes surrounding the periphery (Fig.
+5A). One hole leads to an escape box, which, when entered, turns
+off the aversive bright lights. Animals received optical stimulation of LC axons in the dorsal hippocampus during each of the
+daily training sessions. After 6 d of training, the escape box
+was removed and optical stimulation was discontinued to test
+the memory retention for the target hole. Optical stimulation
+200 300 400 500 600
+Time (sec)
+0.8
+0.6
+0.4
+0.2
+0.0
+A.U.
+NE
+DOPAC DA
+NE
+Ctrl Lesion
+Ctrl Lesion
+0
+50
+100
+DA
+Ctrl Lesion
+0
+5
+10
+NE/DA
+Ctrl Lesion
+0
+5
+10
+15
+pmol/mg pmol/mg
+0
+0.1
+0.2
+0.3
+0.4
+A.U.
+0
+0.1
+0.2
+0.3
+A.U.
+Laser On
+Laser Off
+Lesion
+Control
+200 300 400 500
+Subtracted
+DOPAC DA
+Time (sec)
+200 300 400 500
+Time (sec)
+A C
+NE
+WT ChR2
+0
+5
+10
+pmol/mg
+NE
+Off On
+0
+10
+DA
+0
+1
+pmol/mg pmol/mg
+B
+D E
+DA
+WT ChR2
+0
+2
+4
+pmol/mg
+6
+20
+2
+3
+NE
+Off On
+*
+*
+*
+*
+*
+*
+Fig. 3. Dopamine is released from LC axons in the hippocampus. (A) Average dopamine and norepinephrine concentrations in the extracellular
+fluid of photostimulated hippocampal slices from mice expressing ChR2 in LC
+axons and their non-ChR2–expressing littermates [wild-type (WT): DA =
+0.11 ± 0.05, norepinephrine (NE) = 3.05 ± 0.22, n = 3; ChR2: DA = 3.57 ± 1.14,
+n = 7; Student’s t test, *P = 0.017). (B) Higher dopamine and norepinephrine
+levels were also measured in the supernatant of ChR2-expressing hippocampal slices that were optically stimulated (On) versus unstimulated (Off)
+controls (nonstimulated: DA = 0.60 ± 0.18, NE = 4.75 ± 1.65, n = 4; stimulated: DA = 1.88 ± 0.29, NE = 18.25 ± 0.85, n = 4; Student’s t test, *P = 0.029).
+(C) Representative HPLC traces show clear peaks for norepinephrine, dihydroxyphenylacetic acid (DOPAC), and dopamine in the extracellular fluid
+of stimulated slices versus nonstimulated controls. A.U., arbitrary units. (D)
+HPLC trace of hippocampal tissue samples from animals with a unilateral,
+Caspase-3–induced lesion of catecholamine neurons in the LC. (Insets) TH
+staining of the LC region. (Scale bar: 100 μm.) (E) Both dopamine and norepinephrine tissue levels in the dorsal hippocampus were nearly eliminated
+by lesioning LC catecholamine neurons. (Control: DA = 9.06 ± 0.64, NE =
+108.96 ± 6.32, n = 5; Lesion: DA = 2.47 ± 0.49, NE = 24.85 ± 1.22, n = 5;
+Student’s t test, P < 0.001). The ratio of norepinephrine to dopamine was the
+same in control and lesioned hemispheres (Control: 11.67± 2.49, Lesion:
+12.29 ± 1.16; *P > 0.05).
+A Training Session
+with photostimulation
+ Test Session
+no photostimulation
+Training
+Test
+Saline
+Beta-AR Ant
+D1/D5 Ant
+n.s.
+Control ChR2
+1.5
+1.0
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+B C
+Difference Index = Displaced object time – Stationary object time
+Total exploration time
+24 hours
+Difference Index
+1.5
+1.0
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+Difference Index
+D
+Baseline
+D1/D5 Ant
+Training Test
+Training Test
+15
+10
+20
+5
+0
+Exploration Time (sec)
+CS CS CS CS
+ dHPC
+20 Hz
+optical pulses
+LC
+* * *
+Fig. 4. Dopamine release from the LC to the dorsal hippocampus improved
+spatial object recognition via dopamine D1/D5 receptors. (A) Experimental
+paradigm. dHPC, dorsal hippocampus. (B) ChR2-stimulated animals (heterozygous Th-IRES-Cre, n = 10) show significantly enhanced spatial learning
+compared with control animals (wild-type littermates, n = 6). Difference
+index: mean ± SEM; ChR2 (n = 10): Training = −0.45 ± 0.14, Test = 0.70 ±
+0.15; Control (n = 6): Training = −0.45 ± 0.12, Test = −0.01 ± 0.34; two-way
+ANOVA, F(1,14) = 16.78; *P = 0.001, Sidak’s multiple comparison test. n.s.,
+not significant. (C) Intrahippocampal injection of SCH23390, a dopamine D1/
+D5 receptor antagonist, but not propranolol, a beta-adrenergic receptor
+antagonist (AR Ant), reversed optically stimulated LC-hippocampus–induced
+enhancement of performance versus saline controls. D1/D5 Ant (n = 6):
+Training = −0.35 ± 0.10, Test = −0.11 ± 0.10; Saline (n = 7): Training = −0.21 ±
+0.08, Test = 0.48 ± 0.15; Beta-AR Ant (n = 4): Training = −0.13 ± 0.05, Test =
+0.47 ± 0.18; two-way ANOVA, treatment factor F(2,38) = 6.840; *P = 0.004,
+Sidak’s multiple comparison test. (D) Total object exploration time during
+5 min of training did not change significantly in the presence of the D1/D5
+antagonist. C, Control; S, ChR2 optical stimulation (P > 0.05).
+14838 | www.pnas.org/cgi/doi/10.1073/pnas.1616515114 Kempadoo et al.
+resumed for the next 6 d of training to the same target hole,
+followed by a second probe day. Animals were connected to a
+fiber optic cable that did not deliver photostimulation on probe
+days. LC-to-hippocampus–stimulated animals learned this task
+significantly better than controls during probe test 1, as indicated
+by a fewer number of errors, shorter latency to the target hole,
+and more time spent in the target quadrant (Fig. 5B). By probe
+test 2, control animals had sufficiently learned the task, yielding
+no significant difference between the two groups (Fig. 5C).
+These findings demonstrate that in a task learned by control
+animals, activation of LC axons in the dorsal hippocampus of
+ChR2-expressing mice significantly increased the rate of learning. These results reinforce earlier findings and support the
+idea that dopamine release from the LC to the dorsal hippocampus is a significant component of the spatial learning and
+memory circuit.
+Optogenetic Activation of LC Catecholamine Axons in the Dorsal
+Hippocampus Had No Effect on a Modified Conditioned Place
+Preference Task. To assess whether photostimulation of the LCto-hippocampus catecholamine pathway is inherently reinforcing, we performed a conditioned place preference task modified
+to increase involvement of hippocampus-dependent spatial
+learning circuits. Animals explored a circular chamber with cues
+surrounding the walls for spatial orientation. We delivered photostimulation each time the animal explored an unmarked target
+quadrant of the arena (Fig. 6A). This spatial version of conditioned place preference was designed to assay whether the LC-tohippocampus pathway provided reinforcement in the absence of
+selective attention to a specific object or goal. Optically stimulated animals did not display a significant change in the amount
+of time spent in the unmarked target region versus wild-type
+controls (Fig. 6B). This finding is consistent with the argument
+that LC-to-hippocampus stimulation enhances selective attention
+to specific stimuli, thereby energizing spatial learning and memory. This result demonstrates that dopamine signaling in the dorsal
+hippocampus did not produce an inherently rewarding or reinforcing signal but, instead, promoted selective attention to salient
+environmental cues.
+Discussion
+These findings provide direct evidence that efferents from the
+LC are not purely noradrenergic, but corelease dopamine in the
+dorsal hippocampus. The LC dopamine signal drives the selective attention underlying spatial learning and memory. Numerous reports suggest that the VTA is the main source of dopamine
+to the dorsal hippocampus (12–14), whereas others suggest that
+the LC supplies the hippocampus with dopamine (19–21). The
+present results reconcile the discrepancy between dense dopamine receptor expression and sparse VTA dopamine axon networks in the dorsal hippocampus and support the hypothesis that
+dopaminergic tone in the dorsal hippocampus arises from neurons of the LC.
+Previous work by McNamara et al. (12) demonstrated that
+activation of VTA dopamine axons in the dorsal hippocampus
+promoted spatial memory for a reward location. Our work adds
+to these findings by suggesting that dopamine release from LC
+neurons energizes the attention component of the spatial environment in the absence of reward and supports the acquisition of
+spatial memory. Given that catecholamine neurons of the LC
+contribute 73% of all measurable dopaminergic tone in the
+dorsal hippocampus, we argue that dopamine release from the
+LC may have more significant influence over dorsal hippocampus neuronal activity than the VTA.
+Our findings that LC neurons corelease dopamine in the
+dorsal hippocampus are consistent with the earlier finding that
+LC neurons also corelease dopamine in the prefrontal cortex and
+drive dopamine-dependent activity in the hippocampus (19, 21).
+Moreover, the current findings provide anatomical support for
+the documented functional distinctions between the dorsal and
+ventral hippocampus (17). The density of VTA dopamine terminals in the ventral hippocampus, but sparse expression in the dorsal
+A
+B
+C Incorrect Holes (#)
+Control ChR2
+6
+4
+10
+8
+2
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+0
+Barnes Maze Probe Test 1
+Barnes Maze Probe Test 2 Latency to Target (sec)
+Time in Target Quadrant
+(% of total time)
+Control ChR2 Control ChR2
+150
+100
+200
+50
+0
+* * *
+Incorrect Holes (#)
+Control ChR2
+6
+4
+10
+8
+2
+0
+Latency to Target (sec)
+Time in Target Quadrant
+(% of total time)
+Control ChR2 Control ChR2
+150
+100
+200
+50
+0
+Training days with
+photosmulaon
+Training days with
+photosmulaon
+Escape Probe Test 1
+chamber
+Probe Test 2
+Fig. 5. Optogenetic activation of LC catecholamine axons in the dorsal
+hippocampus increased the rate of learning in the Barnes Maze task. (A) A
+schematic of the Barnes Maze and training protocol is shown. Small light
+gray circles represent empty holes, and the dark gray circle indicates the
+position of the hole leading to a goal box in which the animal can escape to
+turn the lights off. Memory retention was tested by probe sessions during
+which the escape box and optical stimulation were removed. (B) On probe
+day 1, optically stimulated animals learned the task significantly better than
+wild-type controls [Control (n = 6), ChR2 (n = 7): incorrect holes visited before reaching target hole: *P = 0.030, latency to reach target hole from trial
+start: *P = 0.005, time spent in target quadrant: *P = 0.015]. (C) By probe day
+2, both controls and optically stimulated animals learned the task well, as
+indicated by no significant difference between the two groups (P > 0.05).
+A B
+3
+2
+5
+4
+1
+BL NS 1 2 3 4 5
+0
+Photosmulaon in
+unmarked quadrant
+Session
+ChR2
+Control
+Time in Target Quadrant (min)
+Fig. 6. Optogenetic activation of LC catecholamine axons in the dorsal
+hippocampus had no effect on a modified conditioned place preference
+task. (A) Schematic of the circular chamber in which animals received photostimulation of the catecholaminergic pathway from the LC to the dorsal
+hippocampus when traversing through the unmarked target quadrant.
+(B) ChR2-stimulated animals (n = 10) did not spend significantly more time
+in the target quadrant than wild-type controls (n = 6), two-way ANOVA,
+F(1,14) = 0.00, P > 0.05. The numbers 1–5 represent 5 d of exploration with
+optical stimulation in the target region. BL, baseline session with no optical
+stimulation; NS, no stimulation day.
+Kempadoo et al. PNAS | December 20, 2016 | vol. 113 | no. 51 | 14839
+NEUROSCIENCE
+hippocampus, suggests that hippocampal subregion-dependent
+behaviors are driven by different neuromodulatory pathways.
+Specifically, LC catecholamine release may be the primary
+source of synaptic modulation responsible for tuning the spaceencoding place cells found in the dorsal hippocampus. In contrast, VTA dopamine innervation in the ventral hippocampus
+may provide the incentive salience and motivational drive underlying emotion-based learning.
+The present findings also expand the list of dopamine-releasing
+brain regions to include the LC. Numerous studies postulate dopamine release from the LC into the hippocampus, but rely on
+pharmacological blockade of the dopamine D1/D5 receptor to
+infer the presence of dopamine. However, the possibility exists
+that the D1/D5 receptor is activated by a ligand other than dopamine or undergoes receptor–receptor interactions. Norepinephrine
+has a Kd of 50 μM at the dopamine D1 receptor (32), and the
+possibility exists that norepinephrine action at the dopamine D1
+receptor is responsible for the effects reported by Smith and
+Greene (21). In fact, norepinephrine promotes cAMP accumulation in embryonic retinas via the dopamine D1/D5 receptor
+(33), and norepinephrine-induced increases in adenyl cyclase
+activity in retinal homogenates can be reversed by the dopamine
+D1/D5 receptor antagonist (34). In the present study, we use
+biochemical approaches to directly demonstrate dopamine corelease from LC axons in the dorsal hippocampus.
+One implication of our finding is that the peripheral signals that
+carry information about arousal, novelty, stress, and sleep-wake
+states may drive the release of dopamine in the dorsal hippocampus
+as well as other LC projection sites, such as the prefrontal cortex
+and amygdala. The current results further suggest that LC dopamine
+release may play a role in energizing spatial learning and memory by
+increasing attention to salient features of the environment. Activation of the LC-to-hippocampus pathway did not produce place
+preference in the absence of salient environmental objects,
+suggesting that photostimulation is not inherently reinforcing but
+may promote selective attention to relevant cues in the given
+setting. Finally, insofar as this work relates to attention and
+memory it may prove helpful for identifying therapeutic targets of
+dopamine- and norepinephrine-related disorders, such as ADHD.
+Materials and Methods
+Details on mice and procedures regarding optogenetics, behavioral paradigms,
+immunohistochemistry, and HPLC are detailed in SI Materials and Methods.
+Animal experiments were carried out following the guidelines of the Institutional Animal Care and Use Committee of Columbia University.
+ACKNOWLEDGMENTS. We thank Edmund A. Griffin, Steven A. Siegelbaum,
+Laurence Abbott, and Joseph Rayman for critical discussions and comments on
+the manuscript; J. Melanie Philips, Elaine Espinal, and Antonella Perez for
+assistance with immunohistochemistry; and Elias Pavlopoulous and Luana Fioriti
+for help with behavioral paradigms. This work was supported by the Burroughs
+Wellcome Fund Postdoctoral Enrichment Program (K.A.K.), Translational Neuroscience Training Grant T32 MH015174-37 (to K.A.K.), National Institute of
+Neurological Disorders and Stroke-NIH Grant R01 NS075222 (to E.V.M.), The
+Jeffry M. and Barbara Picower Foundation (D.S.), the Parkinson’s Disease Foundation (D.S.), Grant R01 DA07418 (to D.S.), Grant R01 DA010154 (to D.S.), the
+Institute for the Study of Affective Neuroscience (E.R.K.), the Henry M. Jackson
+Foundation for the Advancement of Military Medicine (E.R.K.), and the Howard
+Hughes Medical Institute (E.R.K.).
+1. Ljungberg T, Apicella P, Schultz W (1992) Responses of monkey dopamine neurons
+during learning of behavioral reactions. J Neurophysiol 67(1):145–163.
+2. Wise RA (2004) Dopamine, learning and motivation. Nat Rev Neurosci 5(6):483–494.
+3. Huang YY, Kandel ER (1995) D1/D5 receptor agonists induce a protein synthesis-dependent late potentiation in the CA1 region of the hippocampus. Proc Natl Acad Sci
+USA 92(7):2446–2450.
+4. Xing B, et al. (2010) Dopamine D1 but not D3 receptor is critical for spatial learning
+and related signaling in the hippocampus. Neuroscience 169(4):1511–1519.
+5. da Silva WC, Köhler CC, Radiske A, Cammarota M (2012) D1/D5 dopamine receptors
+modulate spatial memory formation. Neurobiol Learn Mem 97(2):271–275.
+6. O’Keefe J (1999) Do hippocampal pyramidal cells signal non-spatial as well as spatial
+information? Hippocampus 9(4):352–364.
+7. Muzzio IA, et al. (2009) Attention enhances the retrieval and stability of visuospatial
+and olfactory representations in the dorsal hippocampus. PLoS Biol 7(6):e1000140.
+8. Kentros CG, Agnihotri NT, Streater S, Hawkins RD, Kandel ER (2004) Increased attention to spatial context increases both place field stability and spatial memory.
+Neuron 42(2):283–295.
+9. Volkow ND, Wang GJ, Fowler JS, Ding YS (2005) Imaging the effects of methylphenidate on brain dopamine: New model on its therapeutic actions for attention-deficit/
+hyperactivity disorder. Biol Psychiatry 57(11):1410–1415.
+10. Volkow ND, et al. (2012) Methylphenidate-elicited dopamine increases in ventral
+striatum are associated with long-term symptom improvement in adults with attention deficit hyperactivity disorder. J Neurosci 32(3):841–849.
+11. Carmack SA, Howell KK, Rasaei K, Reas ET, Anagnostaras SG (2014) Animal model of
+methylphenidate’s long-term memory-enhancing effects. Learn Mem 21(2):82–89.
+12. McNamara CG, Tejero-Cantero Á, Trouche S, Campo-Urriza N, Dupret D (2014) Dopaminergic neurons promote hippocampal reactivation and spatial memory persistence. Nat Neurosci 17(12):1658–1660.
+13. Gasbarri A, Verney C, Innocenzi R, Campana E, Pacitti C (1994) Mesolimbic dopaminergic neurons innervating the hippocampal formation in the rat: a combined retrograde tracing and immunohistochemical study. Brain Res 668(1-2):71–79.
+14. Gasbarri A, Sulli A, Packard MG (1997) The dopaminergic mesencephalic projections
+to the hippocampal formation in the rat. Prog Neuropsychopharmacol Biol Psychiatry
+21(1):1–22.
+15. Lazarov NE, Schmidt U, Wanner I, Pilgrim C (1998) Mapping of D1 dopamine receptor
+mRNA by non-radioactive in situ hybridization. Histochem Cell Biol 109(3):271–279.
+16. Khan ZU, et al. (2000) Dopamine D5 receptors of rat and human brain. Neuroscience
+100(4):689–699.
+17. Kheirbek MA, et al. (2013) Differential control of learning and anxiety along the
+dorsoventral axis of the dentate gyrus. Neuron 77(5):955–968.
+18. Borgkvist A, Malmlöf T, Feltmann K, Lindskog M, Schilström B (2012) Dopamine in the
+hippocampus is cleared by the norepinephrine transporter. Int J Neuropsychopharmacol
+15(4):531–540.
+19. Devoto P, Flore G (2006) On the origin of cortical dopamine: Is it a co-transmitter in
+noradrenergic neurons? Curr Neuropharmacol 4(2):115–125.
+20. Lemon N, Manahan-Vaughan D (2012) Dopamine D1/D5 receptors contribute to de
+novo hippocampal LTD mediated by novel spatial exploration or locus coeruleus activity. Cereb Cortex 22(9):2131–2138.
+21. Smith CC, Greene RW (2012) CNS dopamine transmission mediated by noradrenergic
+innervation. J Neurosci 32(18):6072–6080.
+22. Sulzer D (2011) How addictive drugs disrupt presynaptic dopamine neurotransmission. Neuron 69:628–649.
+23. Köhler C, Goldstein M (1984) Golgi-like immunoperoxidase staining of dopamine
+neurons in the reticular formation of the rat brainstem using antibody to tyrosinehydroxylase. J Comp Neurol 223(2):302–311.
+24. Lammel S, et al. (2015) Diversity of transgenic mouse models for selective targeting of
+midbrain dopamine neurons. Neuron 85(2):429–438.
+25. Aston-Jones G, Rajkowski J, Cohen J (1999) Role of locus coeruleus in attention and
+behavioral flexibility. Biol Psychiatry 46(9):1309–1320.
+26. Howells FM, Stein DJ, Russell VA (2012) Synergistic tonic and phasic activity of the
+locus coeruleus norepinephrine (LC-NE) arousal system is required for optimal attentional performance. Metab Brain Dis 27(3):267–274.
+27. Chandler DJ, Waterhouse BD, Gao WJ (2014) New perspectives on catecholaminergic
+regulation of executive circuits: evidence for independent modulation of prefrontal functions by midbrain dopaminergic and noradrenergic neurons. Front Neural Circuits 8:53.
+28. Loy R, Koziell DA, Lindsey JD, Moore RY (1980) Noradrenergic innervation of the
+adult rat hippocampal formation. J Comp Neurol 189(4):699–710.
+29. Oleskevich S, Descarries L, Lacaille JC (1989) Quantified distribution of the noradrenaline innervation in the hippocampus of adult rat. J Neurosci 9(11):3803–3815.
+30. Scatton B, Dennis T, Curet O (1984) Increase in dopamine and DOPAC levels in noradrenergic terminals after electrical stimulation of the ascending noradrenergic
+pathways. Brain Res 298(1):193–196.
+31. Yang CF, et al. (2013) Sexually dimorphic neurons in the ventromedial hypothalamus
+govern mating in both sexes and aggression in males. Cell 153(4):896–909.
+32. Brusniak MYK, Pearlman RS, Neve KA, Wilcox RE (1996) Comparative molecular field
+analysis-based prediction of drug affinities at recombinant D1A dopamine receptors.
+J Med Chem 39(4):850–859.
+33. Kubrusly RC, et al. (2007) Norepinephrine acts as D1-dopaminergic agonist in the
+embryonic avian retina: Late expression of beta1-adrenergic receptor shifts norepinephrine specificity in the adult tissue. Neurochem Int 50(1):211–218.
+34. Vanderheyden P, Ebinger G, Kanarek L, Vauquelin G (1986) Epinephrine and norepinephrine stimulation of adenylate cyclase in bovine retina homogenate: Evidence
+for interaction with the dopamine D1 receptor. Life Sci 38(13):1221–1227.
+35. Tsai HC, et al. (2009) Phasic firing in dopaminergic neurons is sufficient for behavioral
+conditioning. Science 324(5930):1080–1084.
+36. Rosen ZB, Cheung S, Siegelbaum SA (2015) Midbrain dopamine neurons bidirectionally regulate CA3-CA1 synaptic drive. Nat Neurosci 18(12):1763–1771.
+37. Feigin A, et al. (2001) Metabolic correlates of levodopa response in Parkinson’s disease. Neurology 57(11):2083–2088.
+38. Choi SJ, et al. (2015) Changes in neuronal dopamine homeostasis following 1-methyl4-phenylpyridinium (MPP+) exposure. J Biol Chem 290(11):6799–6809.
+14840 | www.pnas.org/cgi/doi/10.1073/pnas.1616515114 Kempadoo et al.

@@ -1,0 +1,785 @@
+O-GlcNAc transferase regulates excitatory
+synapse maturity
+Olof Lagerlöfa,b, Gerald W. Hartb
+, and Richard L. Huganira,1
+a
+Solomon H. Snyder Department of Neuroscience and Kavli Neuroscience Discovery Institute, The Johns Hopkins University School of Medicine, Baltimore,
+MD 21205; and b
+Department of Biological Chemistry, The Johns Hopkins University School of Medicine, Baltimore, MD 21205
+Contributed by Richard L. Huganir, December 30, 2016 (sent for review November 10, 2016; reviewed by Vann Bennett and Peter Penzes)
+Experience-driven synaptic plasticity is believed to underlie adaptive
+behavior by rearranging the way neuronal circuits process information. We have previously discovered that O-GlcNAc transferase (OGT),
+an enzyme that modifies protein function by attaching β–N-acetylglucosamine (GlcNAc) to serine and threonine residues of intracellular
+proteins (O-GlcNAc), regulates food intake by modulating excitatory
+synaptic function in neurons in the hypothalamus. However, how
+OGT regulates excitatory synapse function is largely unknown. Here
+we demonstrate that OGT is enriched in the postsynaptic density of
+excitatory synapses. In the postsynaptic density, O-GlcNAcylation on
+multiple proteins increased upon neuronal stimulation. Knockout of
+the OGT gene decreased the synaptic expression of the AMPA receptor GluA2 and GluA3 subunits, but not the GluA1 subunit. The number of opposed excitatory presynaptic terminals was sharply reduced
+upon postsynaptic knockout of OGT. There were also fewer and less
+mature dendritic spines on OGT knockout neurons. These data identify OGT as a molecular mechanism that regulates synapse maturity.
+O-GlcNAc | OGT | excitatory synapses | AMPA receptors
+Neuronal synapses, the cell–cell junctions over which neurons
+communicate, are formed and eliminated throughout life,
+and their turnover has for decades been associated with the way
+neuronal circuits adapt to environmental challenges to optimize
+behavior (1, 2). In both humans and animals, early development is
+characterized by massive generation of new synapses. About half of
+all synapses are then lost during adolescence (2, 3). Most mature
+excitatory synapses occur on dendritic protrusions called spines
+and essentially all spines contain an excitatory synapse (4–6). In
+vivo imaging of individual spines for days to months has shown that
+adult spines are largely stable but a small subpopulation remains
+plastic (3, 7) and spine turnover is increased by novel experience
+(5, 8–10). Whereas most new spines are thin and withdraw rapidly,
+some enlarge and form stable synaptic contacts (2, 3, 7, 11–14). In
+fact, the stabilization of a subset of new spines correlates with
+behavioral performance in several different tasks in multiple animal species (13, 15–17). Rather than synapse formation or density,
+the selection of which spines are retained once formed has been
+suggested to match circuit architecture with behavior (18). Without
+affecting spine formation, deleting β-adducin, which regulates actin, perturbed the process by which nascent spines establish functional synapses and impaired long-term memory (19). Fragile X
+syndrome, a common form of mental retardation, exhibits a higher
+than normal density of spines but more of them exhibit an immature morphology and their turnover is not affected by sensory
+experience (9, 20). Conversely, the protein Telencephalin arrests
+the maturation of spines and its removal enhances several forms of
+learning (13, 21, 22).
+Although many molecules have been identified that affect synapse number, it is unclear how newly formed spines mature into
+synapses (13, 23, 24). On a cellular level, learning and memory are
+associated with long-term potentiation (LTP) and long-term depression (LTD) of neurotransmission. It is widely believed that
+LTP and LTD involve synaptic insertion and removal, respectively,
+of α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA)
+receptors (25). AMPA receptors are glutamate-gated tetrameric
+ion channels composed of different combinations of subunits
+GluA1–4 and conduct the majority of the fast excitatory neurotransmission in the brain (26). Spines have been reported to incorporate AMPA receptors early in their development (13, 27, 28).
+Apart from additional roles in long-lasting synapses, AMPA receptor activity has been associated with the stabilization of immature spines, possibly, at least in part, via actin-dependent pathways
+(4, 14, 29–35).
+In neurons, the O-GlcNAc pathway has emerged recently as
+critical for coupling cellular function to energy availability through
+nutrient-dependent flux via the hexosamine biosynthesis pathway
+(HBP), of which the OGT donor substrate uridine diphosphate
+(UDP)-GlcNAc is the end product (36–40). Unlike complex glycans present on the outside of cells and in the secretory pathway,
+O-GlcNAc is a highly dynamic sugar that is added and removed
+repeatedly over the lifespan of a single peptide chain. It is
+expressed mainly on the inside of cells in the nucleus, cytoplasm,
+and mitochondria. Only two enzymes regulate its cycling;
+O-GlcNAc transferase (OGT) attaches O-GlcNAc to proteins
+covalently, whereas O-GlcNAcase (OGA) hydrolyses O-GlcNAc
+from proteins. The brain is one of the organs where O-GlcNAc is
+the most abundant (39, 41–43). In the synapse, a myriad of
+proteins carry O-GlcNAc (44–46). Many of these are critical for
+synaptic plasticity, like alpha calcium/calmodulin-dependent kinase II (αCaMKII) and SynGAP (46, 47). O-GlcNAc signaling
+does affect learning and memory (48, 49). Acute inhibition of
+OGT or OGA pharmacologically, indicated that O-GlcNAc regulates LTP and LTD by affecting AMPA receptor trafficking.
+However, there have been contradictory reports of whether global
+elevation or depression of O-GlcNAc levels have a stimulatory
+or inhibitory effect, respectively, on excitatory synaptic function,
+possibly due to nonspecific effects of OGT inhibitors or differences in mode and length of application of drugs against OGA
+Significance
+Neurons in the brain adapt to environmental challenges by
+rearranging their connections, or synapses, to other neurons.
+This process is called synaptic plasticity and it is unclear how
+synaptic plasticity is regulated. Here we show that the enzyme
+O-GlcNAc transferase (OGT) modulates the maturity of excitatory synapses. The function of OGT depends on the metabolic
+status of the cell and the body. Previously, OGT has been linked
+to appetitive behavior, learning and memory, and neurodegenerative diseases like Alzheimer’s disease. Our data suggest
+that OGT may underlie brain function by coordinating experience-driven synaptic plasticity with nutrient availability.
+Author contributions: O.L., G.W.H., and R.L.H. designed research; O.L. performed research;
+O.L., G.W.H., and R.L.H. analyzed data; and O.L., G.W.H., and R.L.H. wrote the paper.
+Reviewers: V.B., Duke University Medical Center; and P.P., Northwestern University.
+Conflict of interest statement: G.W.H. receives a share of royalties received by Johns
+Hopkins University (JHU) on sales of the CTD 110.6 antibody, which are managed by JHU.
+1
+To whom correspondence should be addressed. Email: rhuganir@jhmi.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1621367114/-/DCSupplemental.
+1684–1689 | PNAS | February 14, 2017 | vol. 114 | no. 7 www.pnas.org/cgi/doi/10.1073/pnas.1621367114
+(49–51). We developed a mouse model where OGT was deleted
+genetically from mature brain neurons in vivo and demonstrated
+that OGT regulates normal food intake, at least in part, by modulating excitatory synaptic function in neurons in the hypothalamus
+(36). Using electrophysiology, we observed that knocking out OGT
+sharply reduced the frequency of miniature excitatory postsynaptic
+currents (mEPSCs). mEPSC amplitude was also decreased, but to a
+lesser degree. These findings indicate that OGT can underlie
+adaptive behavior partly by regulating normal excitatory synaptic
+function (36).
+Here we investigate how OGT regulates excitatory synaptic
+function by taking advantage of primary neuronal cell culture
+where OGT is deleted genetically either broadly or sparsely in
+neurons. We discovered that OGT deletion selectively reduced
+the synaptic expression of the GluA2 and GluA3 subunits, two
+major AMPA receptor subunits. Mimicking our electrophysiological finding of lower mEPSC frequency in vivo, removal of
+OGT in vitro led to fewer mature morphological synapses and
+fewer dendritic spines. The spines that were present on OGT KO
+neurons were largely immature. Collectively, our observations
+suggest that OGT is important for the maturation of excitatory
+synapses, at least in part through modulating GluA2/3 expression.
+The regulation of synapse maturity by OGT represents a model
+for how neuronal circuits may respond to environmental challenges, such as nutrient fluctuations, to accommodate behavior.
+Results
+OGT Is Enriched in the Postsynaptic Density of Excitatory Synapses.
+Based on biochemical fractionation, it has been shown previously
+that OGT is present in neuronal synapses (45, 51). Electron
+microscopy from the cerebellum indicated that OGT is more
+highly expressed in presynaptic, rather than postsynaptic, nerve
+terminals (44). To investigate the role of OGT in postsynaptic
+function, we isolated the postsynaptic density (PSD) fraction of
+excitatory synapses from rat forebrain homogenates. Equal
+amounts of all fractions were separated by SDS/PAGE and analyzed by Western blotting (Wb). Enrichment of the PSD marker
+PSD-95 and exclusion of the presynaptic marker synaptophysin
+ensured that the PSD fraction isolated PSDs specifically (Fig. 1A).
+Full-length nuclear cytoplasmic OGT (ncOGT) was present in all
+subcellular compartments, including in the PSD (Fig. 1A). Interestingly, compared with the whole-cell homogenate, OGT was
+more than twice as abundant in the PSD (Fig. 1B). In contrast to
+OGT, OGA was excluded from the PSD (Fig. 1A). We then used
+immunohistochemistry to examine the localization of OGT in
+primary cultured hippocampal neurons. Along the dendrite, endogenous OGT expression was punctate and many, but not all,
+puncta overlapped with PSD-95. Most PSD-95 puncta overlapped
+with OGT (Fig. 1C). It has been shown that depolarization of
+cultured neuroblastoma cells using KCl activates OGT via calciumdependent phosphorylation by CaMKIV (52). Moreover, induced
+seizures in rodents have been reported to increase the O-GlcNAcylation of some proteins in the brain in vivo (53). However,
+whether, and to what extent, neuronal firing regulates O-GlcNAc
+incorporation in neuronal proteins is still unclear. Taking advantage of 2D gel electrophoresis and blotting for O-GlcNAc, we
+observed that stimulating neuronal network activity in cortical
+cultures by inhibiting GABAA receptors pharmacologically using
+bicuculline elevated O-GlcNAcylation in the PSD on multiple
+proteins (Fig. 1D). Together, our observations demonstrate that
+OGT is enriched in the PSD of excitatory synapses in forebrain
+neurons. Within the PSD, O-GlcNAcylation is a dynamic and activity-dependent posttranslational modification.
+OGT Regulates the Synaptic Expression of AMPA Receptors. Recently,
+we knocked out OGT in adult animals and observed a marked
+attenuation of excitatory synaptic currents using electrophysiology
+(36). Other groups have shown that acute inhibition of OGT or
+OGA activity affects LTP and LTD in the CA1 region of the
+hippocampus, possibly through altered AMPA receptor trafficking
+(49–51). Two major AMPA receptor isoforms are GluA1/2 and
+GluA2/3 heteromers (26, 54). Here we deleted OGT in cortical
+neurons cultured from floxed OGT mice (OGTFl) by applying
+lentivirus expressing either GFP alone (WT) or GFP together with
+Cre recombinase (KO) at days in vitro (DIV)2. After the neurons
+had matured, we isolated the cell surface proteins using biotinylation techniques and blotted for the major AMPA receptor
+subunits. As shown in Fig. 2A, only proteins expressed on the
+surface of the cell were pulled down applying this method. There
+was no change in the total expression of PSD-95 upon deleting
+OGT (Fig. 2 A and B). In contrast, removal of OGT caused a
+sharp down-regulation of the surface expression of the GluA2 and
+the GluA3 AMPA receptor subunits but not the GluA1 subunit
+(Fig. 2 A and C). The total expression of GluA2 and GluA3 was
+also decreased (Fig. 2 A and B). There was no effect on the relative surface over total expression of either subunit, although
+there was a trend toward a small decrease for GluA1 (P = 0.05,
+n = 6 for WT and KO, Fig. 2D). We also isolated the PSD from
+OGT WT and KO cultures. In the PSD, there was a reduction in
+GluA3, whereas there was an increase in GluA1 (Fig. 2 E and F).
+The decrease in GluA2, again, was at a level between GluA1 and
+GluA3 (9% decrease, P = 0.08, Fig. 2 E and F). Next, we sparsely
+knocked out OGT in hippocampal cultures from OGTFl mice by
+transfecting a cell-fill (GFP) and an empty plasmid (WT) or a
+plasmid expressing Cre (KO) around DIV9. At DIV14, we used
+immunohistochemistry to stain the surface GluA2 population using
+an antibody directed against its N terminus and, after permeabilization, the total GluA2/3 population with a C terminustargeted antibody. There was no overt difference in the overall
+O-GlcNAc
+PSD-95
+Synaptophysin
+OGT
+OGA
+H
+P1
+S1
+P2
+S2
+SPM
+PSD
+A
+D
+C
+OGT OGT / PSD-95 / MAP2 OGT / PSD-95 / MAP2
+OGT+ PSD-95
+puncta (%)
+0
+20
+40
+60
+80
+100
+MW
+102
+225
+52
+38
+OGT
+ncOGT
+B
+*
+0
+1
+2
+3
+4
+OGT expression
+(norm. to hom.)
+Hom. PSD
+Control Bicuculline
+O-GlcNAc
+PSD-95
+3 10 pH
+MW
+3 10 pH
+PSD D
+H
+P1
+S1
+P2
+S2
+SPM
+PSD
+Fig. 1. OGT is enriched in the postsynaptic density of excitatory synapses.
+(A) Wb of PSD fractions from brain. The Right blot shows the same sample
+run again and overexposed. (B) Quantification of OGT expression in the PSD
+relative to the whole-cell fraction [n = 7 for homogenate (Hom.) and PSD;
+two-tailed t test: *P < 0.05]. (C, Left) Immunohistochemistry of OGT (green),
+PSD-95 (magenta), and MAP2 (gray). Boxed areas show the same image in
+higher magnification. Arrow shows overlap between PSD-95 and OGT
+puncta. Arrowhead shows OGT puncta negative for PSD-95. (Right) Quantification of the percentage of PSD-95 puncta that overlap with OGT (n = 12
+images). (D) Wb of 2D gel electrophoresis of the PSD fraction from control
+and stimulated neurons. Quantifications represent mean ± SEM. MW, molecular weight; SPM, synaptic plasma membrance.
+Lagerlöf et al. PNAS | February 14, 2017 | vol. 114 | no. 7 | 1685
+NEUROSCIENCE
+morphology between WT and KO neurons (Fig. 3A). In the soma,
+the total GluA2/3 expression did not change upon OGT KO (Fig.
+3B). In contrast, along dendrites, similar to what we showed biochemically, the number of surface GluA2 positive puncta decreased by 51% (P < 0.05, WT n = 27, 4.9 ± 0.5 puncta/10 μm; KO
+n = 28, 2.4 ± 0.2 puncta/10 μm, Fig. 3 C and D). Similarly, the
+number of total GluA2/3 puncta was 51% lower in OGT KO
+neurons (P < 0.05, WT n = 27, 5.4 ± 1.1 puncta/10 μm; KO n = 28,
+2.7 ± 0.69 puncta/10 μm, Fig. 3 C and E). This change in expression was not reflected in the size of the surface GluA2 puncta
+and the size of the GluA2/3 puncta was only slightly smaller (Fig. 3
+C, F, and G). Using biochemistry and imaging, our results indicate
+that OGT is necessary cell autonomously for normal synaptic expression of AMPA receptors, in particular the GluA2/
+3 heteromers.
+Postsynaptic Deletion of OGT Leads to Fewer Morphological Synapses.
+As deletion of OGT mainly affected the number of GluA2 puncta
+along dendrites rather than the somatic expression of GluA2/3 or
+the expression of surface GluA2 per puncta, we reasoned that
+OGT may regulate the number of synaptic contacts. This idea
+would be consistent with our previous electrophysiological data
+showing that OGT removal primarily leads to lower mEPSC frequency (36). After sparsely deleting OGT and labeling cells in
+hippocampal cultures as described above, immunohistochemistry
+was applied to stain for vGlut1, a marker for excitatory presynaptic
+terminals, and PSD-95 (Fig. 4A). The number of puncta and the
+size of each puncta overlapping with the cell fill was then quantified. Both the number PSD-95 and vGlut1 positive puncta decreased (Fig. 4 A, B, and D). In contrast, neither the size of the
+PSD-95 nor the vGlut1 puncta differed between WT and KOs
+(Fig. 4 C and E). Together, our data suggest that deleting OGT in
+the postsynaptic cell prevents the formation of morphologically
+mature synapses. These observations corroborate and expand the
+previous finding that the drop in mEPSC frequency upon OGT
+KO in vivo reflects a loss of functional synapses (36).
+OGT Removal Is Associated with Deficient Spine Maturation. Most
+excitatory synapses occur on dendritic spines (2). Filling the neuron
+with a fluorescent marker, spines can be imaged and their number
+and shape measured. Whereas the number of spines is a function
+of the number of excitatory synapses, the shape of the spine indicates its maturity (4–6). Mature and stable spines typically exhibit a
+wider distal portion (“spine head”) (Fig. 5A) (2, 3, 11–14, 29).
+Here, again, hippocampal cultures from OGTFl mice were sparsely
+transfected to label cells and KO OGT at DIV9 and then fixed at
+DIV14. Upon deletion of OGT, spine number decreased by 43%
+(P < 0.05; WT n = 26, 3.9 ± 0.3 spines/10 μm; KO n = 28, 2.2 ± 0.2
+spines/10 μm, Fig. 5 A and B). Spine shape was measured by
+quantifying the ratio between the width and the length of individual
+spines (Fig. 5A). Counting all spines, deleting OGT decreased their
+mean shape ratio by 33% (P < 0.05, WT n = 1108, 0.85 ± 0.02, KO
+n = 1074, 0.57 ± 0.01, Fig. 5C). To evaluate the proportion of
+mature versus immature spines, spines with a ratio above 0.5 were
+labeled “mature” and those with a ratio below 0.5 “thin” (Fig. 5A).
+In WT cells, the majority of all spines were mature (Fig. 5D). Of
+those spines that were present on OGT KO cells, in contrast, most
+were thin (Fig. 5D). To summarize, deleting OGT leads to a higher
+proportion of immature spines and fewer spines in total (Fig. 5E).
+Discussion
+Neuronal circuits need to constantly rearrange their connectivity
+pattern to match behavioral output to environmental influences.
+Here we find that OGT, a nutrient-dependent enzyme, is enriched
+GluA1
+GluA2
+GluA3
+PSD-95
+HSP70
+Total Surface
+Wt KO Wt KO
+Surface / Total
+GluA1
+GluA2
+GluA3
+0.0
+0.5
+1.0
+1.5
+Expression norm. to Wt
+* *
+Surface
+GluA1
+GluA2
+GluA3
+0.0
+0.5
+1.0
+1.5
+Expression norm. to Wt
+*
+*
+GluA1
+GluA2
+GluA3
+H P2
+PSD
+H P2
+PSD
+Wt KO
+AB C
+DE F
+Total
+GluA1
+GluA2
+GluA3
+PSD-95
+0.0
+0.5
+1.0
+1.5
+Expression norm. to Wt
+*
+*
+PSD
+GluA1
+GluA2
+GluA3
+0.0
+0.5
+1.0
+1.5
+Expression norm. to Wt
+Fig. 2. OGT regulates the synaptic expression of AMPA receptors. (A) Wb of
+the total and surface expression of GluA1–3. (B) Quantifications of the total
+expression from A (GluA1–3: n = 5 for WT and KO; PSD-95: n = 3 for WT and
+KO; two-tailed t test: *P < 0.05). (C) Quantifications of the surface expression
+from A (GluA1–3: n = 6 for WT and KO; two-tailed t test: *P < 0.05).
+(D) Quantifications of the surface over total expression from A (GluA1–3: n =
+6 for WT and KO; two-tailed t test: P < 0.05). (E) Wb of PSD preparation
+fractions from WT and KO cells. (F) Quantification of GluA1–3 expression in
+the PSD (n = 3 for WT and KO; two-tailed t test: *P < 0.05). Quantifications
+represent mean ± SEM.
+Number of puncta / 10 μm
+*
+Puncta size (μm)
+*
+Wt KO n.s. Total GluA2/3 Intensity / cell soma (a.u.)
+GFP / cell fill
+A B
+C
+D F G
+Wt KO
+sA2
+tA2/A3
+Wt
+KO
+0
+200
+400
+600
+800
+ENumber of puncta / 10 μm
+* Total GluA2/3
+Wt
+KO
+0
+2
+4
+6
+8
+Surface GluA2
+Wt
+KO
+0
+2
+4
+6
+Total GluA2/3
+Wt
+KO
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+Puncta size (μm)
+n.s.
+Surface GluA2
+Wt
+KO
+0.00
+0.05
+0.10
+0.15
+Fig. 3. Deletion of OGT leads to fewer surface GluA2 clusters. (A) Thresholded images of GFP expression in WT and KO hippocampal neurons.
+(B) Quantification of the total expression of GluA2/3 in the cell soma of individual hippocampal neurons (WT n = 18, KO n = 20; two-tailed t test: P <
+0.05). (C) Immunohistochemistry of the surface expression of GluA2 and
+total expression of GluA2/3 in dendrites from transfected neurons. The outlines of the dendrites (GFP expression) are shown in yellow. (D–G) Quantifications from C (WT n = 27, KO n = 28, two-tailed t test: *P < 0.05).
+Quantifications represent mean ± SEM. n.s., not significant.
+1686 | www.pnas.org/cgi/doi/10.1073/pnas.1621367114 Lagerlöf et al.
+in the postsynaptic density of excitatory synapses. In the PSD, the
+incorporation of O-GlcNAc was dynamic and dependent on neuronal activation. Deletion of OGT greatly depressed the synaptic
+abundance of the GluA2 and GluA3 subunits of the AMPA receptor. The reduction in GluA2 and GluA3 was largely due to
+fewer dendritic AMPA receptor clusters rather than a decrease in
+the amount of AMPA receptors in each cluster, indicating that the
+main effect of OGT removal is due to a down-regulation of the
+number of functional excitatory synapses. Indeed, removing OGT
+postsynaptically disrupted the formation of synapses, as determined
+by staining of the synaptic vesicle protein vGlut1 and the postsynaptic marker PSD-95. There were also fewer spines on OGT KO
+neurons. Those spines that did form were mostly immature and did
+not express morphological features reminiscent of stable synapses.
+Total spine number is regulated by the formation of new spines
+and the termination of old spines. We deleted OGT genetically
+before or during the period of the most extensive synapse formation in culture (DIV7–14) and observed a marked reduction in
+spine density. Accordingly, although we have not applied methods
+such as live imaging of individual spine turnover to verify this idea,
+it is likely that the decrease in total spine number upon OGT KO
+mainly resulted from disrupted spine formation. In the PSD of
+OGT KO cells, there was a comparatively high abundance of
+GluA1-containing receptors, whereas GluA3-containing receptors
+were lower in abundance than in WT cells. Similarly, on the cell
+surface, there was a reduction in GluA2 and GluA3 but not
+GluA1. As GluA2 consistently expressed at levels between GluA1
+and GluA3 upon removal of OGT, the main effect of deleting
+OGT presumably occurs on GluA2/3 heteromers as opposed to on
+GluA1/2 heteromers. Whether, and, if so, how the roles of GluA2/3
+heteromers and GluA1/2 heteromers differ have been debated in
+the literature. Some evidence shows that synaptic insertion of
+GluA1 homomers and GluA1/2 heteromers require neuronal
+stimulation, whereas GluA2/3 heteromers have been proposed to
+be inserted under baseline conditions in exchange for preexisting
+receptors (55, 56). Early in development, GluA4 translocates into
+so-called silent synapses and are later replaced by GluA2-containing receptors (57–59). Unlike GluA2, GluA1 does appear to
+enter into silent synapses (55). Sensory experience and learning
+increase the abundance of GluA1 homomers in the synapse, but
+this increase is often transient (56, 60, 61). Although the trafficking
+of GluA2/3 can be regulated by neuronal activity, these and other
+data suggest that GluA2/3 heteromers, as opposed to GluA1
+homomers or GluA1/2 heteromers, may be associated with the
+maintenance of synaptic strength in mature synapses (25, 26).
+Whereas total spine number was reduced, spines did develop on
+OGT KO cells. But of those spines that formed, most resembled
+Wt KO
+PSD-95
+vGlut
+A
+*
+PSD-95
+Puncta / 10 μm
+0
+1
+2
+3
+4
+5
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+Puncta size (μm)
+PSD-95
+n.s. * B C
+D
+Puncta / 10 μm
+0
+1
+2
+3
+4 E
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+Puncta size (μm)
+Wt
+KO
+Wt
+KO
+Wt
+KO
+Wt
+KO
+vGlut vGlut
+n.s.
+Fig. 4. OGT regulates the number of mature synaptic contacts. (A) Immunohistochemistry of vGlut1 and PSD-95 overlapping with transfected neurons. The
+outlines of the dendrites (GFP expression) are shown in yellow. (B–E) Quantifications from A (WT n = 21, KO n = 20, except for KO vGlut puncta size where
+n = 17, two-tailed t test: *P < 0.05). Quantifications represent mean ± SEM. n.s.,
+not significant.
+Thin
+<0.5
+Mature
+>0.5
+Ratio = width / length
+Width
+Length
+Wt
+KO
+Wt
+KO
+0
+1
+2
+3
+4
+5
+Spines / 10 μm
+*
+All spines
+Wt
+KO
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Mean shape ratio
+*
+OGT
+A
+B C
+D
+E
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Proportion of all spines
+*
+*
+Wt
+mature
+Wt
+thin
+KO
+thin
+KO
+mature
+Fig. 5. Fewer and more immature spines on OGT KO neurons. (A, Left)
+Expression of GFP in dendrites from WT and KO hippocampal neurons.
+(Right) Schematic of measurements taken to quantify spine shape.
+(B) Quantification of spine density (WT n = 26, KO n = 28, two-tailed t test:
+*P < 0.05). (C) Quantification of the mean spine shape ratio (WT n = 1108, KO
+n = 1074, two-tailed t test: *P < 0.05. (D) Quantification of the proportion of
+mature and thin spines along dendrites. (WT n = 27, KO n = 28, two-tailed
+t test: *P < 0.05). (E) Model of how OGT, at least in part, regulates excitatory
+synapse function; OGT inhibits the maturation of dendritic spines leading to
+fewer and more immature synapses. Quantifications represent mean ± SEM.
+Lagerlöf et al. PNAS | February 14, 2017 | vol. 114 | no. 7 | 1687
+NEUROSCIENCE
+immature spines and rarely evolved morphology similar to mature
+spines with a wider spine head as in WT cells. Spine formation is
+intimately linked to synapse formation (2, 3, 11–14). The formation
+of morphological synapses on dendrites where OGT had been
+deleted, as determined by staining of vGlut1 and PSD-95, was
+interrupted. Based on the selective effect on GluA2/3 heteromers,
+immature spine phenotype and reduction in the number of vGlut1
+and PSD-95 puncta, it appears that OGT is necessary for late,
+rather than early, stages of postsynaptic development when unstable spines mature into functional synapses (Fig. 5E).
+Although the experiments presented in this paper were performed in the context of synapse formation in culture, previously
+we have observed a similar decrease in excitatory synapse number
+in adult animals. After OGT was removed acutely in vivo, there
+was a sharp drop in mEPSC frequency (36). In addition, other
+groups have shown that short-term nutritional or pharmacological
+manipulation of global O-GlcNAc levels in hippocampal slices
+affects long-term potentiation and long-term depression of excitatory CA1 synapses (49–51). At least some of these effects may be
+related to altered trafficking of GluA2 (49, 50). Collectively, these
+observations suggest that OGT is important not only for the formation of new excitatory synapses during development but also for
+the stability of excitatory synapses in the adult. As discussed above,
+spines undergo constant remodeling where activity-dependent
+signaling through AMPA receptors, e.g., via actin, maintain their
+stability. Thus, it is possible that the synaptic depression of GluA2/3
+heteromers upon OGT deletion prevented the development of thin
+spines into mature synapses. The idea that OGT underlies spine
+maturity via maintaining AMPA receptor expression would explain
+why removing OGT during development and in adult animals lead
+to the same phenotype; loss of excitatory synapse number. However, it cannot be excluded that OGT has a direct effect on spine
+assembly as well.
+OGT may regulate AMPA receptor expression through several
+pathways. We show here that the O-GlcNAc content in the PSD is
+dynamic. We also observed that OGT is enriched in the PSD.
+Global and long-term deletion of OGT decreased the total expression of GluA2/3. In contrast, shorter and sparse OGT KO did
+not affect the somatic expression of GluA2/3. This observation
+indicates that OGT regulates AMPA receptor expression by a cellautonomous mechanism, probably, at least in part, through
+degradation or trafficking of the receptor, which is supported by
+the fact that the effect of acute manipulation of global OGlcNAc levels on excitatory neurotransmission is GluA2 dependent (49). Moreover, we and others have shown that OGlcNAc regulates excitatory synapse function in hypothalamic,
+cortical, and hippocampal cells. Thus, the manipulation of synaptic AMPA receptor abundance may be a common and major
+endpoint for how OGT shapes neuronal circuits. Many OGlcNAc–modified proteins known to affect AMPA receptor
+trafficking have been identified using mass spectrometry, e.g.,
+SynGAP and αCaMKII (46, 47). Based on these observations, it
+is likely that OGT may regulate AMPA receptor expression via
+pathways local to the spine or the postsynaptic density, but other
+mechanisms cannot be excluded.
+O-GlcNAc is increasingly being appreciated as an important
+modification of protein function. Its unique regulation where
+metabolic and other stimuli can affect O-GlcNAcylation on a
+global as well as a target-specific scale presents a mechanism for
+how cells respond to environmental challenges. Here we demonstrate that OGT is enriched in the postsynaptic density of excitatory synapses and is necessary for synapse maturation, possibly
+via regulating the synaptic expression and/or localization of
+GluA2/3 heteromers. O-GlcNAc cycling in the brain is linked to
+learning and memory, feeding behavior, and neurodegenerative
+diseases (39, 48, 49). Whereas many proteins in the excitatory
+postsynaptic density are known to be modified by O-GlcNAc, an
+important task will be to identify which O-GlcNAc sites are dynamically regulated to modify neuronal circuit function.
+Methods
+All animals were housed according to the Johns Hopkins University Animal
+Care and Use Committee guidelines. Primary neuronal cell cultures from WT
+animals or animals where an exon in the Ogt locus has been floxed (OGTFl)
+were derived according to standard procedures. To delete OGT, a vector
+expressing Cre recombinase was delivered virally (for biochemistry experiments) or by transfection (for imaging experiments). Surface proteins were
+pulled down by surface biotinylation. The PSD was isolated by a series of
+centrifugation steps. See SI Methods for extended details.
+ACKNOWLEDGMENTS. We thank R. H. White for help with mating and
+genotyping. This work was supported by NIH Grants R01DK6167, N01-HV00240, P01HL107153 (to G.W.H.), and R01NS036715 (to R.L.H.).
+1. Bailey CH, Kandel ER (1993) Structural changes accompanying memory storage. Annu
+Rev Physiol 55:397–426.
+2. Bhatt DH, Zhang S, Gan WB (2009) Dendritic spine dynamics. Annu Rev Physiol 71:
+261–282.
+3. Zuo Y, Lin A, Chang P, Gan WB (2005) Development of long-term dendritic spine
+stability in diverse regions of cerebral cortex. Neuron 46(2):181–189.
+4. McKinney RA (2010) Excitatory amino acid involvement in dendritic spine formation,
+maintenance and remodelling. J Physiol 588(Pt 1):107–116.
+5. Trachtenberg JT, et al. (2002) Long-term in vivo imaging of experience-dependent
+synaptic plasticity in adult cortex. Nature 420(6917):788–794.
+6. Lai KO, Ip NY (2013) Structural plasticity of dendritic spines: The underlying mechanisms and its dysregulation in brain disorders. Biochim Biophys Acta 1832(12):
+2257–2263.
+7. Holtmaat AJ, et al. (2005) Transient and persistent dendritic spines in the neocortex
+in vivo. Neuron 45(2):279–291.
+8. Zuo Y, Yang G, Kwon E, Gan WB (2005) Long-term sensory deprivation prevents
+dendritic spine loss in primary somatosensory cortex. Nature 436(7048):261–265.
+9. Chen CC, Lu J, Zuo Y (2014) Spatiotemporal dynamics of dendritic spines in the living
+brain. Front Neuroanat 8:28.
+10. Sanders J, Cowansage K, Baumgärtel K, Mayford M (2012) Elimination of dendritic
+spines with long-term memory is specific to active circuits. J Neurosci 32(36):
+12570–12578.
+11. Knott GW, Holtmaat A, Wilbrecht L, Welker E, Svoboda K (2006) Spine growth precedes synapse formation in the adult neocortex in vivo. Nat Neurosci 9(9):1117–1124.
+12. Lohmann C, Bonhoeffer T (2008) A role for local calcium signaling in rapid synaptic
+partner selection by dendritic filopodia. Neuron 59(2):253–260.
+13. Yoshihara Y, De Roo M, Muller D (2009) Dendritic spine formation and stabilization.
+Curr Opin Neurobiol 19(2):146–153.
+14. De Roo M, Klauser P, Mendez P, Poglia L, Muller D (2008) Activity-dependent PSD
+formation and stabilization of newly formed spines in hippocampal slice cultures.
+Cereb Cortex 18(1):151–161.
+15. Xu T, et al. (2009) Rapid formation and selective stabilization of synapses for enduring
+motor memories. Nature 462(7275):915–919.
+16. Yang G, Pan F, Gan WB (2009) Stably maintained dendritic spines are associated with
+lifelong memories. Nature 462(7275):920–924.
+17. Roberts TF, Tschida KA, Klein ME, Mooney R (2010) Rapid spine stabilization and
+synaptic enhancement at the onset of behavioural learning. Nature 463(7283):
+948–952.
+18. Jontes JD, Phillips GR (2006) Selective stabilization and synaptic specificity: A new cellbiological model. Trends Neurosci 29(4):186–191.
+19. Bednarek E, Caroni P (2011) β-Adducin is required for stable assembly of new synapses
+and improved memory upon environmental enrichment. Neuron 69(6):1132–1146.
+20. Pan F, Aldridge GM, Greenough WT, Gan WB (2010) Dendritic spine instability and
+insensitivity to modulation by sensory experience in a mouse model of fragile X
+syndrome. Proc Natl Acad Sci USA 107(41):17768–17773.
+21. Nakamura K, et al. (2001) Enhancement of hippocampal LTP, reference memory and
+sensorimotor gating in mutant mice lacking a telencephalon-specific cell adhesion
+molecule. Eur J Neurosci 13(1):179–189.
+22. Matsuno H, et al. (2006) Telencephalin slows spine maturation. J Neurosci 26(6):
+1776–1786.
+23. Sharma K, et al. (2013) High-throughput genetic screen for synaptogenic factors:
+Identification of LRP6 as critical for excitatory synapse development. Cell Reports 5(5):
+1330–1341.
+24. McAllister AK (2007) Dynamic aspects of CNS synapse formation. Annu Rev Neurosci
+30:425–450.
+25. Kessels HW, Malinow R (2009) Synaptic AMPA receptor plasticity and behavior.
+Neuron 61(3):340–350.
+26. Shepherd JD, Huganir RL (2007) The cell biology of synaptic plasticity: AMPA receptor
+trafficking. Annu Rev Cell Dev Biol 23:613–643.
+27. Groc L, Gustafsson B, Hanse E (2006) AMPA signalling in nascent glutamatergic synapses: There and not there! Trends Neurosci 29(3):132–139.
+1688 | www.pnas.org/cgi/doi/10.1073/pnas.1621367114 Lagerlöf et al.
+28. Zito K, Scheuss V, Knott G, Hill T, Svoboda K (2009) Rapid functional maturation of
+nascent dendritic spines. Neuron 61(2):247–258.
+29. De Roo M, Klauser P, Muller D (2008) LTP promotes a selective long-term stabilization
+and clustering of dendritic spines. PLoS Biol 6(9):e219.
+30. Hill TC, Zito K (2013) LTP-induced long-term stabilization of individual nascent dendritic spines. J Neurosci 33(2):678–686.
+31. McKinney RA, Capogna M, Dürr R, Gähwiler BH, Thompson SM (1999) Miniature
+synaptic events maintain dendritic spines via AMPA receptor activation. Nat Neurosci
+2(1):44–49.
+32. Matsuzaki M, Honkura N, Ellis-Davies GC, Kasai H (2004) Structural basis of long-term
+potentiation in single dendritic spines. Nature 429(6993):761–766.
+33. Mateos JM, et al. (2007) Synaptic modifications at the CA3-CA1 synapse after chronic
+AMPA receptor blockade in rat hippocampal slices. J Physiol 581(Pt 1):129–138.
+34. Kang MG, Guo Y, Huganir RL (2009) AMPA receptor and GEF-H1/Lfc complex regulates dendritic spine development through RhoA signaling cascade. Proc Natl Acad Sci
+USA 106(9):3549–3554.
+35. Fortin DA, et al. (2010) Long-term potentiation-dependent spine enlargement requires
+synaptic Ca2+-permeable AMPA receptors recruited by CaM-kinase I. J Neurosci 30(35):
+11565–11575.
+36. Lagerlöf O, et al. (2016) The nutrient sensor OGT in PVN neurons regulates feeding.
+Science 351(6279):1293–1296.
+37. Pekkurnaz G, Trinidad JC, Wang X, Kong D, Schwarz TL (2014) Glucose regulates mitochondrial motility via Milton modification by O-GlcNAc transferase. Cell 158(1):54–68.
+38. Ruan HB, et al. (2014) O-GlcNAc transferase enables AgRP neurons to suppress
+browning of white fat. Cell 159(2):306–317.
+39. Hart GW, Slawson C, Ramirez-Correa G, Lagerlof O (2011) Cross talk between
+O-GlcNAcylation and phosphorylation: Roles in signaling, transcription, and chronic
+disease. Annu Rev Biochem 80:825–858.
+40. Banerjee PS, Lagerlöf O, Hart GW (2016) Roles of O-GlcNAc in chronic diseases of
+aging. Mol Aspects Med 51:1–15.
+41. Kreppel LK, Blomberg MA, Hart GW (1997) Dynamic glycosylation of nuclear and
+cytosolic proteins. Cloning and characterization of a unique O-GlcNAc transferase
+with multiple tetratricopeptide repeats. J Biol Chem 272(14):9308–9315.
+42. Prendergast J, et al. (2014) Ganglioside regulation of AMPA receptor trafficking.
+J Neurosci 34(39):13246–13258.
+43. Lagerlöf O, Hart GW (2014) O-GlcNAcylation of neuronal proteins: Roles in neuronal
+functions and in neurodegeneration. Adv Neurobiol 9:343–366.
+44. Akimoto Y, et al. (2003) Localization of the O-GlcNAc transferase and O-GlcNAcmodified proteins in rat cerebellar cortex. Brain Res 966(2):194–205.
+45. Cole RN, Hart GW (2001) Cytosolic O-glycosylation is abundant in nerve terminals.
+J Neurochem 79(5):1080–1089.
+46. Trinidad JC, et al. (2012) Global identification and characterization of both O-GlcNAcylation and phosphorylation at the murine synapse. Mol Cell Proteomics 11(8):215–229.
+47. Vosseller K, et al. (2006) O-linked N-acetylglucosamine proteomics of postsynaptic
+density preparations using lectin weak affinity chromatography and mass spectrometry. Mol Cell Proteomics 5(5):923–934.
+48. Rexach JE, et al. (2012) Dynamic O-GlcNAc modification regulates CREB-mediated
+gene expression and memory formation. Nat Chem Biol 8(3):253–261.
+49. Taylor EW, et al. (2014) O-GlcNAcylation of AMPA receptor GluA2 is associated
+with a novel form of long-term depression at hippocampal synapses. J Neurosci
+34(1):10–21.
+50. Kanno T, Yaguchi T, Nagata T, Mukasa T, Nishizaki T (2010) Regulation of AMPA
+receptor trafficking by O-glycosylation. Neurochem Res 35(5):782–788.
+51. Tallent MK, et al. (2009) In vivo modulation of O-GlcNAc levels regulates hippocampal
+synaptic plasticity through interplay with phosphorylation. J Biol Chem 284(1):
+174–181.
+52. Song M, et al. (2008) o-GlcNAc transferase is activated by CaMKIV-dependent phosphorylation under potassium chloride-induced depolarization in NG-108-15 cells. Cell
+Signal 20(1):94–104.
+53. Khidekel N, et al. (2007) Probing the dynamics of O-GlcNAc glycosylation in the brain
+using quantitative proteomics. Nat Chem Biol 3(6):339–348.
+54. Wenthold RJ, Petralia RS, Blahos J II, Niedzielski AS (1996) Evidence for multiple AMPA
+receptor complexes in hippocampal CA1/CA2 neurons. J Neurosci 16(6):1982–1989.
+55. Shi S, Hayashi Y, Esteban JA, Malinow R (2001) Subunit-specific rules governing AMPA
+receptor trafficking to synapses in hippocampal pyramidal neurons. Cell 105(3):
+331–343.
+56. Takahashi T, Svoboda K, Malinow R (2003) Experience strengthening transmission by
+driving AMPA receptors into synapses. Science 299(5612):1585–1588.
+57. Zhu JJ, Esteban JA, Hayashi Y, Malinow R (2000) Postnatal synaptic potentiation:
+Delivery of GluR4-containing AMPA receptors by spontaneous activity. Nat Neurosci
+3(11):1098–1106.
+58. Isaac JT, Ashby MC, McBain CJ (2007) The role of the GluR2 subunit in AMPA receptor
+function and synaptic plasticity. Neuron 54(6):859–871.
+59. Pickard L, Noël J, Henley JM, Collingridge GL, Molnar E (2000) Developmental changes
+in synaptic AMPA and NMDA receptor distribution and AMPA receptor subunit
+composition in living hippocampal neurons. J Neurosci 20(21):7922–7931.
+60. Clem RL, Huganir RL (2010) Calcium-permeable AMPA receptor dynamics mediate
+fear memory erasure. Science 330(6007):1108–1112.
+61. Clem RL, Barth A (2006) Pathway-specific trafficking of native AMPARs by in vivo
+experience. Neuron 49(5):663–670.
+62. O’Donnell N, Zachara NE, Hart GW, Marth JD (2004) Ogt-dependent X-chromosomelinked protein glycosylation is a requisite modification in somatic cell function and
+embryo viability. Mol Cell Biol 24(4):1680–1690.
+63. Bullen JW, et al. (2014) Cross-talk between two essential nutrient-sensitive enzymes:
+O-GlcNAc transferase (OGT) and AMP-activated protein kinase (AMPK). J Biol Chem
+289(15):10592–10606.
+Lagerlöf et al. PNAS | February 14, 2017 | vol. 114 | no. 7 | 1689
+NEUROSCIENCE

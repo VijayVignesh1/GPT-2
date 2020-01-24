@@ -1,0 +1,381 @@
+A Novel ELISA for the Measurement of Cerebrospinal Fluid SNAP-25 in Patients with Alzheimer’s Disease
+Author links open overlay panelAnnikaÖhrfeltaAnnBrinkmalmabJulienDumurgiercHenrikZetterbergabdeElodieBouaziz-AmarfJacquesHugoncClairePaquetcKajBlennowab
+Show more
+https://doi.org/10.1016/j.neuroscience.2018.11.038Get rights and content
+Under a Creative Commons licenseopen access
+Highlights
+•
+A novel assay for measurement of SNAP-25 in cerebrospinal fluid is presented.
+
+•
+SNAP-25 is considered a potential biomarker for Alzheimer’s disease.
+
+•
+SNAP-25 is a potential biomarker for early Alzheimer’s disease.
+
+
+Abstract
+Synaptic degeneration is central in Alzheimer’s disease (AD) pathogenesis and biomarkers to monitor this pathophysiology in living patients are warranted. We developed a novel sandwich enzyme-linked immunosorbent assay (ELISA) for the measurement of the pre-synaptic protein SNAP-25 in cerebrospinal fluid (CSF) and evaluated it as a biomarker for AD. CSF samples included a pilot study consisting of AD (N = 26) and controls (N = 26), and two independent clinical cohorts of AD patients and controls. Cohort I included CSF samples from patients with dementia due to AD (N = 17), patients with mild cognitive impairment (MCI) due to AD (N = 5) and controls (N = 17), and cohort II CSF samples from patients with dementia due to AD (N = 24), patients with MCI due to AD (N = 18) and controls (N = 36). CSF levels of SNAP-25 were significantly increased in patients with AD compared with controls (P ≤ 0.00001). In both clinical cohorts, CSF levels of SNAP-25 were significantly increased in patients with MCI due to AD (P < 0.0001). SNAP-25 could differentiate dementia due to AD (N = 41) from controls (N = 52) and MCI due to AD (N = 23) from controls (N = 52) with areas under the curve of 0.967 (P < 0.0001) and 0.948 (P < 0.0001), respectively. CSF SNAP-25 is a promising AD biomarker that differentiates AD patients in different clinical stages of the disease from controls with excellent diagnostic accuracy. Future studies should address the specificity of the CSF SNAP-25 against common differential diagnoses to AD, as well as how the biomarker changes in response to treatment with disease-modifying drug candidates.
+
+Graphical abstract
+
+Download high-res image (112KB)Download full-size image
+
+Abbreviations
+CVcoefficients of variationMCImild cognitive impairmentMMSEmini-mental state examinationPBSphosphate-buffered salineROCreceiver operating characteristicSNAP-25synaptosomal-associated protein 25
+Key words
+Alzheimer’s diseasebiomarkercerebrospinal fluidELISAmild cognitive impairmentSNAP-25
+Introduction
+Alzheimer’s disease is characterized of extra-cellular accumulation of aggregated amyloid β, intra-cellular neurofibrillary tangles, synaptic degeneration and neuronal degeneration (Blennow et al., 2006). Several cerebrospinal fluid (CSF) biomarkers for Alzheimer’s disease are accessible, including total tau (T-tau) and phosphorylated tau protein (P-tau), mirroring tau pathology and neurodegeneration, respectively, and amyloid-β1–42 (Aβ1–42), mirroring aggregation of the peptide into plaques (Blennow et al., 2010, Olsson et al., 2016). Numerous studies have consistently shown a reduction in Aβ1–42 attended by a marked increase in CSF T-tau and P-tau in Alzheimer’s disease, and also in the mild cognitive impairment (MCI) stage of the disease (Blennow et al., 2010, Olsson et al., 2016), while there not yet is a conventional CSF biomarker for synaptic dysfunction. Synaptic degeneration of the most vulnerable brain regions is an early key characteristic of Alzheimer’s disease (Davies et al., 1987, Masliah et al., 2001, Scheff et al., 2007). Earlier post-mortem studies suggested that synaptic dysfunction in Alzheimer’s disease is related to cognitive decline (DeKosky and Scheff, 1990, Blennow et al., 1996) and that synaptic loss occurs early in the disease (Davies et al., 1987, Masliah et al., 2001), with disturbances in presynaptic terminals (Masliah et al., 1991) and reductions in synaptic protein levels (DeKosky and Scheff, 1990, Blennow et al., 1996). Thus, it is evident that reliable CSF biomarkers to monitor synaptic dysfunction and degeneration directly in Alzheimer’s disease patients would be very useful.
+
+In recent years, there are promising results for some synaptic biomarkers in CSF, including the pre-synaptic proteins synaptosomal-associated protein 25 (SNAP-25) (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b) and synaptotagmin (Ohrfelt et al., 2016), as well as the post-synaptic protein neurogranin (Kvartsberg et al., 2015a, Kvartsberg et al., 2015b, Sanfilippo et al., 2016, Wellington et al., 2016). A marked increase of these synaptic CSF markers were found in dementia due to Alzheimer’s disease and already in MCI due to Alzheimer’s disease (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b, Kvartsberg et al., 2015a, Kvartsberg et al., 2015b, Ohrfelt et al., 2016, Sanfilippo et al., 2016, Wellington et al., 2016), with higher CSF levels correlating with more marked future cognitive decline among MCI patients (Kvartsberg et al., 2015a, Kvartsberg et al., 2015b).
+
+The pre-synaptic protein SNAP-25 is one of the major proteins involved in the formation of the SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) complexes (Sollner et al., 1993a, Sollner et al., 1993b, Jahn et al., 2003). This protein assembly is a crucial step in neurotransmitter release and modifications of any of the SNARE proteins could alter the apposition of them, which could influence calcium-dependent exocytosis of neuro-transmitters (Sollner et al., 1993a, Sollner et al., 1993b, Jahn et al., 2003, Sudhof, 2004). The central function of SNAP-25 in the regulation of neuro-transmitter release along with the recently suggested post-synaptic impact on receptor trafficking, spine morphogenesis and plasticity (Antonucci et al., 2013, Antonucci et al., 2016), makes it as a potential biomarker candidate reflecting synaptic dysfunction and degeneration in Alzheimer’s disease. We have previously shown that a N-terminal fragment of SNAP-25 is a promising biomarker by utilizing an approach of affinity purification and mass spectrometry (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b), and up to now, no enzyme-linked immunosorbent assay (ELISA) for assessment of SNAP-25 in CSF samples has been available. One advantage of the ELISA technology is the ease with which it can be performed in a high-through-put format. The feasibility and the accessibility that the ELISA offers would be required in future studies for assessment of synaptic proteins in large patient cohorts.
+
+In this study, we report a novel ELISA for measurements of the pre-synaptic protein SNAP-25 in CSF. The utility of the novel SNAP-25 ELISA was initially verified in brain tissue extracts and from patients with Alzheimer’s disease and age-matched controls, followed by a pilot study of CSF samples. Then, CSF SNAP-25 was assessed in two independent clinical cohorts, with the main finding being markedly higher levels in patients with MCI due to Alzheimer’s disease and dementia due to Alzheimer’s disease.
+
+Experimental procedures
+Human brain tissue samples
+All brain tissues, from the superior parietal gyrus, were obtained from the Netherlands Brain Bank. The clinical and demographic characteristics autopsy-confirmed patients with Alzheimer’s disease (N = 15) and age-matched controls (N = 15) have previously been published (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). In our study, all Alzheimer’s disease patients fulfilled Braak stages 5 or 6, i.e. late stages of disease, while the controls fulfilled Braak stages 0 or 1 (Braak and Braak, 1991). The brain extraction procedure was performed as described by Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). In the present study, brain homogenates from the Tris fractions (soluble proteins) were analyzed.
+
+Quality control (QC) CSF samples
+The repeatability of the novel SNAP-25 ELISA was examined on decoded CSF samples supplied by the clinical routine section at the Clinical Neurochemistry Laboratory, The Sahlgrenska University Hospital, Mölndal, Sweden. The procedure making pools of left-over CSF aliquots were approved by the Ethics Committee at University of Gothenburg. The quality control CSF pool 1 (QC1 sample) had an Aβ1–42 of 446 ng/L, a T-tau level of 332 ng/L and a P-tau level of 46 ng/L. The QC2 sample had an Aβ1–42 level of 405 ng/L, a T-tau level below 561 ng/L and a P-tau level of 50 ng/L.
+
+CSF samples in the pilot study
+An initial pilot study was performed using de-identified CSF samples supplied by the Clinical Neurochemistry Laboratory, Sahlgrenska University, Mölndal, following procedures approved by the Ethics Committee at University of Gothenburg. Patients were designated as control or Alzheimer’s disease according to CSF Alzheimer’s disease core biomarker levels using in-house optimized cut-off levels for Alzheimer’s disease (Hansson et al., 2006): Aβ1–42 <550 ng/L, T-tau >400 ng/L, and P-tau >50 ng/L. The subjects were older than 55 years. The age-matched test material included 26 patients with an Alzheimer’s disease biomarker profile and 26 subjects with a control biomarker profile (Fig. 2).
+
+CSF samples in the clinical studies
+In this study, SNAP-25 levels in CSF were measured in two independent clinical patient cohorts. The clinical and demographic characteristics have been reported previously (Ohrfelt et al., 2016). To facilitate for the reader essential parts used for diagnosing the patients and selecting the CSF are briefly given below (Ohrfelt et al., 2016). At the Center of Cognitive at Lariboisière Fernand-Widal University Hospital APHP, patients underwent a thorough clinical examination involving personal medical and family histories, neurological examination, neuropsychological assessment, lumbar puncture with CSF biomarker analysis, and a brain structural imaging study with MRI. The diagnosis for each patient was made by neurologists considering CSF results and according to validated clinical diagnostic criteria for dementia due to Alzheimer’s disease (McKhann et al., 2011), MCI due to Alzheimer’s disease (Albert et al., 2011, Dubois et al., 2014), subjective cognitive impairment (Sperling et al., 2011), psychiatric disorder (DSM-IV). The CSF samples of the study were selected after a second validation step by a neurologist (CP) and a biochemist (EAB). Patients were not included in the study, without a consensus diagnosis or in case of disagreement about the final diagnosis. This procedure resulted in selection of CSF samples from subject with MCI due to Alzheimer’s disease, dementia due to Alzheimer’s disease, and neurological controls (no neurodegenerative disorders). The Alzheimer’s disease core CSF biomarkers have been included in the research criteria for the diagnosis of both early and manifest Alzheimer’s disease by the International Working Group (Dubois et al., 2014) and in the diagnostic guidelines from the National Institute on Aging-Alzheimer’s Association (McKhann et al., 2011), respectively. The following cut-off values were used to define a biochemical Alzheimer’s disease signature as supportive criteria for dementia due to Alzheimer’s disease (McKhann et al., 2011): Aβ1–42 (<550 ng/L), T-tau (>400 ng/L), and P-tau (>50 ng/L). CSF was obtained by lumbar puncture between the L3/L4 or L4/L5 intervertebral space, and samples were immediately centrifuged at 1800g for 10 min at +4 °C, and stored at −80 °C pending analysis.
+
+Demographics of the clinical CSF studies
+The demographic characteristics and the biomarker CSF levels of the Alzheimer’s disease core biomarkers for the cohorts have been reported previously (Ohrfelt et al., 2016). Briefly, cohort I consisted of five patients with MCI due to Alzheimer’s disease (one man and four women, 62–88 years), 17 patients with dementia due to Alzheimer’s disease (five men and 12 women, 52–86 years), and 17 neurological controls (seven men and ten women, 41–82 years) (Ohrfelt et al., 2016). The replication sample set (cohort II) consisted of 18 patients with MCI due to Alzheimer’s disease (five men and 13 women, 58–83 years), 24 patients with dementia due to Alzheimer’s disease (seven men and 17 females, 52–84 years) and 36 neurological controls (13 men and 23 women, 43–80 years) (Ohrfelt et al., 2016). In cohort I, the patients with MCI due to Alzheimer’s disease were older than the controls. Both patients with MCI due to Alzheimer’s disease and dementia due to Alzheimer’s disease were slightly but significantly older than the controls in cohort II (Ohrfelt et al., 2016).
+
+Analysis of CSF biomarkers
+Aβ1–42, T-tau, and tau phosphorylated at threonine 181 (P-tau) protein measurements were performed using commercially available assays from Fujirebio (INNOTEST® β-AMYLOID(1–42), INNOTEST® hTAU Ag and INNOTEST® PHOSPHO-TAU(181P) according to the manufacturer’s instructions.
+
+Synthetic peptides of SNAP-25 and antibodies
+The synthetic peptide of N-terminal acetylated SNAP-25 (Ac-2-47 SNAP-25) was bought from CASLO Aps (Lyngby, Denmark). The monoclonal mouse antibody clone 71.1 recognizing the N-terminal portion of SNAP-25 (aa 20–40) was purchased from Synaptic Systems (Göttingen, Germany). Polyclonal chicken IgY antibody was produced by immunization with Ac-2-47 SNAP-25 and the subsequent antigen affinity purification of the total IgY extract was conducted by Getica AB (Gothenburg, Sweden). Biotinylation of the Ac-2-47 SNAP-25 purified chicken IgY antibody was performed accordingly to the manual, Simoa Homebrew Detector Biotinylation Protocol, provided by Quanterix (Lexington, MA, USA). A ratio of biotin to antibody of 40:1 was applied.
+
+A novel sandwich ELISA method for SNAP-25
+F16 Maxisorp Loose Nunc-Immuno plates (Thermo Fisher Scientific Nunc A/S, Roskilde, Denmark) were coated with 100 µL of monoclonal mouse antibody clone 71.1 (1 g/L) diluted 1:400 in 50 mM carbonate buffer, pH 9.6 and incubated over night or up to three nights at +2–8 °C. The plates were washed with 385 µL of phosphate-buffered saline PBS-Tween20 (0.05%) (PBS-T). The same washing procedure was repeated between every following incubation step. After the coating and washing steps, the plates were blocked with 300 µL Roti®-Block (Carl Roth, Germany) diluted 1:10 in PBS-T for one hour at room temperature. All standards and samples were analyzed in duplicate. The standards of Ac-2-47 SNAP-25 were diluted in assay buffer, i.e. Roti®-Block diluted 1:100 in PBS-T, to providing a final concentration range of 4000–62.5 ng/L or 1000–7.8 ng/L for brain samples and CSF samples, respectively. Brain tissue homogenates were diluted 1:15 in assay buffer, while neat CSF samples were added to the plates. Samples and standards (50 µL) were incubated over night at +2–8 °C, simultaneously with 50 µL biotinylated affinity Ac-2-47 SNAP-25 purified chicken IgY antibody (1 g/L) diluted 1:500 in assay buffer. Enhanced Streptavidin-HRP conjugate (0.01 g/L) (Kem-En-Tec Diagnostics, Taastrup, Denmark), pre-diluted 1:100 in Uni-Stabil Plus (Kem-En-Tec Diagnostics) (stored at +2–8 °C pending analysis), was then diluted 1:200 in assay buffer, and was incubated for 30 min at room temperature. Then, 100 µL TMB ONE™, ready-to-use substrate (KE-MEN-TEC Diagnostics) were added. The reaction was quenched with 100 µL of H2SO4 (0.2 M). The absorbance was measured at 450 nm. The concentrations of SNAP-25 in samples were calculated from the four parameter standard curve. For each brain sample a ratio was calculated where the SNAP-25 level was divided with the total protein concentration.
+
+Assay performance
+The within-day precision (repeatability) and the between-day repeatability (intermediate precision) were determined using two QC samples (QC1 and QC2) analyzing them at three different days (N = 5 or N = 6). Lower limit of quantification (LLOQ) was calculated according to Andreasson et al. (2015).
+
+Statistical analysis
+Because most of the analytes were not normally distributed (Shapiro-Wilk test, P < 0.05), non-parametric statistics were used for analysis. Data are given as median (inter-quartile range). Differences between more than two groups were assessed with Kruskal–Wallis test. Statistically significant results (P < 0.05) were followed by Mann–Whitney U-tests to investigate group differences. Receiver operating characteristic (ROC) curves were performed on each subject group on the levels of SNAP-25 in order to assess its diagnostic value. The area under the curve (AUC) and a 95% confidence interval (CI) was calculated for SNAP-25 using GraphPad Prism 7.02. The correlation coefficients (rho) were calculated using the Spearman two-tailed correlation test. SPSS 24 was employed for most of the statistical analyzes.
+
+Results
+Assay performance
+The novel ELISA is directed against the N-terminal of SNAP-25, that measure both partially degraded N-terminal SNAP-25 fragments as well as the possible full-length protein. Within-day repeatability was 9.6% for QC sample 1 and 15% for QC sample 2. Between-day repeatability was 13% (QC1) and 16% (QC2). The repeatability was within acceptable ranges, i.e. within-day ≤15 and between-day ≤20 (Lee and Hall (2009)). LLOQ was 15.7 ng/L.
+
+Human brain and the pilot CSF study
+Initially, we tested the novel SNAP-25 ELISA on brain tissue homogenates from age-matched patients with Alzheimer’s disease and controls. We found that SNAP-25 levels were significantly decreased in patients with later stages of Alzheimer’s disease compared with the controls (Fig. 1). In the pilot CSF study, the levels of SNAP-25 were significantly increased in the group with an Alzheimer’s disease biomarker profile (N = 26) than in the group with a control biomarker profile (N = 26) (Fig. 2).
+
+
+Download high-res image (86KB)Download full-size image
+Fig. 1. SNAP-25 in brain tissue in Alzheimer’s disease (AD) and controls. The figure shows the individual values SNAP-25 (displayed as the ratio SNAP-25/total protein) in the soluble protein fraction in the superior parietal gyrus from controls (green) and patients with AD (violet). The lower, upper and middle lines of the error bars correspond to the 25th and 75th percentiles and medians, respectively.
+
+
+Download high-res image (246KB)Download full-size image
+Fig. 2. Individual values for SNAP-25 (A) and demographic data including Alzheimer’s disease (AD) core biomarker levels (B) from the pilot study for the patients with AD (violet) and controls (green) based on the biomarker profile. The lower, upper and middle lines of the error bars correspond to the 25th and 75th percentiles and medians, respectively (A).
+
+CSF SNAP-25 in the clinical cohorts
+CSF levels of the SNAP-25 were significantly higher in patients with MCI due to Alzheimer’s disease (cohort I, II and all samples), and in dementia due to Alzheimer’s disease compared with controls (cohort I, II and all samples) (Fig. 3). SNAP-25 could differentiate MCI due to Alzheimer’s disease from controls in both cohorts and in the entire set of samples, with AUCs (confidence interval (CI)) of 1 (1-1) (P = 0.001) (cohort I), 0.975 (0.943–1.008) (P < 0.0001) (cohort II) and 0.948 (0.964–1.004) (P < 0.0001) (all samples) (Fig. 4A, C). SNAP-25 could also differentiate dementia due to Alzheimer’s disease from controls with AUCs (CI) of 0.982 (0.946–1.017) (P < 0.0001) (cohort I), 0.970 (0.935–1.005) (P < 0.0001) (cohort II) and 0.967 (0.938–0.996) (P < 0.0001) (all samples) (Fig. 4B, C).
+
+
+Download high-res image (265KB)Download full-size image
+Fig. 3. Individual values for SNAP-25 in CSF samples within cohort I (A), cohort II (B) and for the entire set of samples (C) from subjects with dementia due to Alzheimer’s disease (AD) (violet), mild cognitive impairment due to Alzheimer’s disease (MCI-AD) (orange) and control (green) individuals. The lower, upper and middle lines of the error bars correspond to the 25th and 75th percentiles and medians, respectively.
+
+
+Download high-res image (416KB)Download full-size image
+Fig. 4. ROC curve analysis for SNAP-25 in CSF for differentiation of MCI due to Alzheimer’s disease (MCI-AD) from controls in cohort I (violet), cohort II (green) and in the entire set of samples (black) (A). ROC curve analysis for SNAP-25 in CSF for differentiation of dementia due to Alzheimer’s disease (AD) from controls in cohort I (violet), cohort II (green) and in the entire set of samples (black) (B). The area under the curve (95% confidence interval) is shown in the included table (C).
+
+There was a correlation between the CSF levels of SNAP-25 and the age in patients with dementia due to Alzheimer’s disease (cohort I), while there were no statistically significant correlations between SNAP-25 and age in any other of the investigated groups (Table 1). There were no statistically significant correlations between CSF SNAP-25 and mini-mental state examination (MMSE) scores in any group.
+
+Table 1. Correlation between cerebrospinal fluid SNAP-25, age, MMSE and biomarker levels for the diagnostic groups in the clinical cohortsa
+
+SNAP-25	SNAP-25	SNAP-25
+Cohort I	Control (N = 17)	MCI-AD (N = 18)	AD (N = 17)
+Age	N.S.		rho = −0.503, P = 0.04
+MMSE	N.S.		N.S.
+Amyloid-β1–42	N.S.		N.S.
+Total tau	rho = 0.805, P = 0.0002		rho = 0.738, P = 0.001
+Phosphorylated tau	rho = 0.715, P = 0.002		rho = 0.830, P = 0.00004
+
+Cohort II	Control (N = 36)	MCI-AD (N = 18)	AD (N = 24)
+Age	N.S.	N.S.	N.S.
+MMSE	N.S.	N.S.	N.S.
+Amyloid-β1–42	rho = 0.363, P = 0.03	N.S.	N.S.
+Total tau	rho = 0.743, P < 0.00001	N.S.	rho = 0.663, P = 0.0004
+Phosphorylated tau	rho = 0.618, P = 0.00008	rho = 0.513, P = 0.03	rho = 0.604, P = 0.002
+
+All samples	Control (N = 53)	MCI-AD (N = 23)	AD (N = 41)
+Age	N.S.	N.S.	N.S.
+MMSE	N.S.	N.S.	N.S.
+Amyloid-β1–42	rho = 0.325, P = 0.02	N.S.	N.S.
+Total tau	rho = 0.744, P < 0.00001	rho = 0.453, P = 0.03	rho = 0.726, P < 0.00001
+Phosphorylated tau	rho = 0.639, P < 0.00001	rho = 0.637, P = 0.001	rho = 0.736, P < 0.00001
+a
+Correlations presented by the Spearman’s rank correlation coefficient (rho). Non-significant (N.S., P > 0.05) correlations were not reported.
+
+The CSF levels of SNAP-25 correlated with the levels of T-tau and P-tau in both the control group and in patients with dementia due to Alzheimer’s disease (Table 1). Additionally, the CSF levels of SNAP-25 correlated with the levels of T-tau and P-tau in patients with MCI due to Alzheimer’s disease within the entire set of samples, but only with the levels of P-tau within cohort II (Table 1). SNAP-25 correlated positively with Aβ1–42 in the control group of cohort II and for the entire set of samples, while there were no correlations within other investigated groups (Table 1).
+
+Discussion
+We developed a novel ELISA for assessment of the pre-synaptic protein SNAP-25 in CSF samples. In one pilot study and both investigated clinical cohorts, we found that the CSF levels of SNAP-25 were significantly higher in patients with dementia due to Alzheimer’s disease than in controls. There was also a consistent increase in early disease (i.e. MCI due to Alzheimer’s disease) as compared to controls.
+
+Synaptic dysfunction and degeneration predict cognitive decline in Alzheimer’s disease (Davies et al., 1987, Masliah et al., 2001). The pre-synaptic protein SNAP-25 is one of the prominent proteins involved in the regulation of synaptic transmission (Sollner et al., 1993a, Sollner et al., 1993b, Sudhof, 2004), and therefore could possibly be a biomarker candidate that mirrors synaptic degeneration and dysfunction in Alzheimer’s disease. We found that the CSF levels of SNAP-25 were consistently elevated in patients with dementia due to Alzheimer’s disease compared with controls in two separate clinical cohorts, as well as in a group having an Alzheimer’s disease biomarker profile compared to a group with a control biomarker profile. Additionally, the level of SNAP-25 was increased already in the MCI stage of Alzheimer’s disease, supporting the notion that this pre-synaptic protein might be an early marker for Alzheimer’s disease (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). There is evidence suggesting that pre-synaptic dysfunction may occur early in the pathogenesis of dementia (Masliah et al., 2001), and that compensatory post-synaptic alterations may occur in response to pre-synaptic discrepancies (DeKosky and Scheff, 1990). These results are altogether in agreement with our earlier studies of the synaptic proteins SNAP-25 (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b), synaptotagmin (Ohrfelt et al., 2016) and neurogranin (Kvartsberg et al., 2015a, Kvartsberg et al., 2015b).
+
+We present a sensitive ELISA, which showed reproducibility and intermediate precision not exceeding %CV of 15 and 16, respectively. SNAP-25 exists in two isoforms in the brain, SNAP-25A and SNAP-25B (Bark and Wilson, 1994). These isoforms differ only in nine alternate amino acids 58, 60. 65, 69, 79, 84 and 88–89, which are located beyond the potential cleavage site of SNAP-25, all of which can be measured using the novel ELISA. The design of the novel ELISA is based on our previous finding of numerous N-terminally acetylated soluble SNAP-25 fragments in both human brain tissue and CSF from subjects with Alzheimer’s disease and controls (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). In the previous study, we applied affinity purification (immunoprecipitation) against the N-terminal of SNAP-25 and mass spectrometry analyzed for subsequently quantification of tryptic peptides in CSF (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). The most prominent result was that the tryptic peptide furthest away from the targeted N-terminal provided the best differential diagnostic biomarker of Alzheimer’s disease (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b), which might correspond to a truncated SNAP-25 fragment ending after amino acid 47 (Ac-2–47) (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). In the present study, we confirm that CSF SNAP-25 can discriminate both patients with dementia due to Alzheimer’s disease and patients with MCI due to Alzheimer’s disease from controls with high diagnostic accuracy in ROC curve analyzes (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). In agreement, we also found that the CSF levels of SNAP-25 were significantly elevated in Alzheimer’s disease (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). The novel ELISA does not exclusively target the Ac-2-47, and possibly longer N-terminal forms of SNAP-25 might also be analyzed. Interestingly, truncated N-terminal fragments of SNAP-25 might be created by calpain cleavage (Ando et al., 2005, Grumelli et al., 2008), and the activity of calpain is increased in Alzheimer’s disease brain (Kurbatskaya et al., 2016). The cleavage of SNAP-25 by calpain might regulate synaptic transmission by suppressing the neuro-transmitter release (Ando et al., 2005).
+
+In agreement with the majority of previous reports summarized by Honer (2003), we found that the SNAP-25 levels in brain were significantly decreased in later stages of Alzheimer’s disease compared with the controls (Gabriel et al., 1997, Mukaetova-Ladinska et al., 2000, Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). The lower levels of SNAP-25 might reflect the synaptic degeneration known to occur in disease-affected regions of the brain in Alzheimer’s disease (DeKosky and Scheff, 1990). Intra-cellular SNAP-25 is anchored to the pre-synaptic membrane by palmitoylation of a central cysteine-rich region (amino acids 85, 88, 90 and 92) (Veit et al., 1996). Since the palmitoylation is a reversible reaction, SNAP-25 could possibly reside free in the pre-synaptic cytoplasm. However, the mechanism of liberation of SNAP-25 into CSF and what it reflects are unknown. Herein, we found that SNAP-25 correlated with the levels of T-tau and P-tau in both the control group and in patients with dementia due to Alzheimer’s disease in all examined sample sets. CSF T-tau has previously been suggested to be a general marker of damage to cortical non-myelinated neurons (Blennow et al., 2010). In contrast, P-tau might be a more specific marker for Alzheimer’s disease (Blennow et al., 2010), since high CSF levels of P-tau have been found to correlate to the accumulation of cortical neurofibrillary tangles (Buerger et al., 2006, Tapiola et al., 2009). Altogether, these findings suggest that SNAP-25 is a sensitive Alzheimer’s disease biomarker that to some extent mirrors general neurodegeneration, which is in agreement with our first pilot study (Brinkmalm et al., 2014a, Brinkmalm et al., 2014b). The result that the levels of SNAP-25 correlated well with T-tau and P-tau, imply that SNAP-25 might be a valuable surrogate biomarker in future clinical treatment studies with tau-based-modifying drugs (Panza et al., 2016).
+
+Marked synaptic degeneration and loss are the main pathological features of Alzheimer’s disease that correlate with cognitive decline. Since SNAP-25 is directly involved in the maintenance of synaptic function (Sollner et al., 1993a, Sollner et al., 1993b, Sudhof, 2004), CSF SNAP-25 could be a potential biomarker to follow progression of clinical symptoms. In the present study, there were no correlations between the MMSE score, i.e., the severity of cognitive impairment, and SNAP-25 in any of the examined groups Although we did not found correlation between cognition and SNAP-25, previous studies support that SNAP-25 single nucleotide polymorphisms are associated with cognitive decline (Gosso et al., 2008, Guerini et al., 2014). Further studies using a larger set of clinical samples are warranted to investigate if SNAP-25 in CSF could be used for assessment of future rate of cognitive decline. The relationship of CSF SNAP-25 with neuroimaging markers (positron emission tomography and magnetic resonance imaging) would also be important to evaluate. For instance, changes in glucose utilization identified with fluorodeoxyglucose positron emission tomography could possible reflect neurodegeneration/synaptic dysfunction (Petrie et al., 2009), and the cortical glucose metabolism would therefore be interesting to study together with CSF SNAP-25.
+
+The strengths of our study are that we present a novel ELISA for assessment of the CSF levels of SNAP-25 and that consistent findings were shown in one pilot set and two independent replication cohorts of CSF samples. One drawback is the cross-sectional design that complicates the investigation of possible association between CSF SNAP-25 and synaptic degeneration over time.
+
+In summary, we present a novel ELISA for measurement of the pre-synaptic protein SNAP-25 in CSF samples. CSF SNAP-25 levels were increased in patients with MCI due to Alzheimer’s disease and dementia due to Alzheimer’s disease compared with controls, which are in agreement with our previous findings, and supports the notion that SNAP-25 could be a valuable biomarker both in early Alzheimer’s disease and in manifest Alzheimer’s disease dementia. Future studies should examine the ability to monitor cognitive decline, the specificity of the biomarker against non-Alzheimer’s disease dementias, as well as how it changes in response to treatment with novel disease-modifying drug candidates.
+
+Declarations
+Ethical approval and consent to participate
+The study was approved by the Ethics Committee of Paris Diderot University Hospital (Bichat Hospital). All patients or caregivers gave their written informed consents for research, which was conducted in accordance with the Helsinki Declaration. The use of de-identified leftover samples for method development and validation studies was approved by the Regional Ethical Review Board at University of Gothenburg (08-11-14).
+
+Consent for publication
+Not applicable.
+
+Availability of data and materials
+The datasets used and/or analyzed during the present study are available from the corresponding author on reasonable request.
+
+Competing interests
+KB has served at advisory boards or as a consultant for Alzheon, BioArctic, Biogen, Eli Lilly, Fujirebio Europe, IBL International, Pfizer, and Roche Diagnostics, and is a co-founder of Brain Biomarker Solutions in Gothenburg AB, a GU Ventures-based platform company at the University of Gothenburg. HZ is another co-founder of this company. The other authors declare that they have no competing interests.
+
+Funding
+The work was supported by grants from the Swedish Brain Power Consortium, the Swedish Alzheimer Foundation (#AF-553101 and # AF-646211), the Research Council, Sweden (project #14002), the Brain Foundation, Sweden (project # FO2015-0021), LUA/ALF project, Västra Götalandsregionen, Sweden (project # ALFGBG-139671), European Research Council, the Knut and Alice Wallenberg Foundation, Demensfonden, Eivind och Elsa K:son Sylvans stiftelse, the Wolfson Foundation, Märtha och Gustaf Ågrens stiftelse, Stohnes stiftelse, Stiftelsen Gamla Tjänarinnor, Magn. Bergvalls stiftelse, Svenska Läkaresällskapet, the Torsten Söderberg Foundation at the Royal Swedish Academy of Sciences, Åhlén-stiftelsen, and BMBF BIOMARK-APD (DLR 01ED1203 J).
+
+Authors’ contributions
+AÖ and KB performed the study design, interpretation of the results, and writing of the manuscript draft. AB, JD, HZ, EB-A, JH and CP contributed to the study concept and design and/or to critical revision of the manuscript for important intellectual content. AÖ performed the experiments, analyzed and compiled data. All authors read and approved the final manuscript.
+
+Acknowledgements
+We are grateful to Åsa Källén and Sara Skoglar for their technical assistance.
+
+References
+Albert et al., 2011
+M.S. Albert, S.T. DeKosky, D. Dickson, B. Dubois, H.H. Feldman, N.C. Fox, A. Gamst, D.M. Holtzman, W.J. Jagust, R.C. Petersen, P.J. Snyder, M.C. Carrillo, B. Thies, C.H. Phelps
+The diagnosis of mild cognitive impairment due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease
+Alzheimers Dement, 7 (3) (2011), pp. 270-279
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Ando et al., 2005
+K. Ando, Y. Kudo, M. Takahashi
+Negative regulation of neurotransmitter release by calpain: a possible involvement of specific SNAP-25 cleavage
+J Neurochem, 94 (3) (2005), pp. 651-658
+CrossRefView Record in ScopusGoogle Scholar
+Andreasson et al., 2015
+U. Andreasson, A. Perret-Liaudet, L.J. van Waalwijk van Doorn, K. Blennow, D. Chiasserini, S. Engelborghs, T. Fladby, S. Genc, N. Kruse, H.B. Kuiperij, L. Kulic, P. Lewczuk, B. Mollenhauer, B. Mroczko, L. Parnetti, E. Vanmechelen, M.M. Verbeek, B. Winblad, H. Zetterberg
+A practical guide to immunoassay method validation
+Front Neurol, 6 (2015), p. 179
+Google Scholar
+Antonucci et al., 2013
+F. Antonucci, I. Corradini, R. Morini, G. Fossati, E. Menna, D. Pozzi, S. Pacioni, C. Verderio, A. Bacci, M. Matteoli
+Reduced SNAP-25 alters short-term plasticity at developing glutamatergic synapses
+EMBO Rep, 14 (7) (2013), pp. 645-651
+CrossRefView Record in ScopusGoogle Scholar
+Antonucci et al., 2016
+F. Antonucci, I. Corradini, G. Fossati, R. Tomasoni, E. Menna, M. Matteoli
+SNAP-25, a known presynaptic protein with emerging postsynaptic functions
+Front Synaptic Neurosci, 8 (2016), p. 7
+Google Scholar
+Bark and Wilson, 1994
+I.C. Bark, M.C. Wilson
+Human cDNA clones encoding two different isoforms of the nerve terminal protein SNAP-25
+Gene, 139 (2) (1994), pp. 291-292
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Blennow et al., 1996
+K. Blennow, N. Bogdanovic, I. Alafuzoff, R. Ekman, P. Davidsson
+Synaptic pathology in Alzheimer's disease: relation to severity of dementia, but not to senile plaques, neurofibrillary tangles, or the ApoE4 allele
+J Neural Transm (Vienna), 103 (5) (1996), pp. 603-618
+CrossRefView Record in ScopusGoogle Scholar
+Blennow et al., 2006
+K. Blennow, M.J. de Leon, H. Zetterberg
+Alzheimer’s disease
+Lancet, 368 (9533) (2006), pp. 387-403
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Blennow et al., 2010
+K. Blennow, H. Hampel, M. Weiner, H. Zetterberg
+Cerebrospinal fluid and plasma biomarkers in Alzheimer disease
+Nat Rev Neurol, 6 (3) (2010), pp. 131-144
+CrossRefView Record in ScopusGoogle Scholar
+Braak and Braak, 1991
+H. Braak, E. Braak
+Neuropathological stageing of Alzheimer-related changes
+Acta Neuropathol, 82 (4) (1991), pp. 239-259
+CrossRefView Record in ScopusGoogle Scholar
+Brinkmalm et al., 2014b
+A. Brinkmalm, G. Brinkmalm, W.G. Honer, J.A. Moreno, J. Jakobsson, G.R. Mallucci, H. Zetterberg, K. Blennow, A. Ohrfelt
+Targeting synaptic pathology with a novel affinity mass spectrometry approach
+Mol Cell Proteomics, 13 (10) (2014), pp. 2584-2592
+CrossRefView Record in ScopusGoogle Scholar
+Brinkmalm et al., 2014a
+A. Brinkmalm, G. Brinkmalm, W.G. Honer, L. Frolich, L. Hausner, L. Minthon, O. Hansson, A. Wallin, H. Zetterberg, K. Blennow, A. Ohrfelt
+SNAP-25 is a promising novel cerebrospinal fluid biomarker for synapse degeneration in Alzheimer's disease
+Mol Neurodegener, 9 (2014), p. 53
+CrossRefView Record in ScopusGoogle Scholar
+Buerger et al., 2006
+K. Buerger, M. Ewers, T. Pirttila, R. Zinkowski, I. Alafuzoff, S.J. Teipel, J. DeBernardis, D. Kerkman, C. McCulloch, H. Soininen, H. Hampel
+CSF phosphorylated tau protein correlates with neocortical neurofibrillary pathology in Alzheimer's disease
+Brain, 129 (11) (2006), pp. 3035-3041
+CrossRefView Record in ScopusGoogle Scholar
+Davies et al., 1987
+C.A. Davies, D.M. Mann, P.Q. Sumpter, P.O. Yates
+A quantitative morphometric analysis of the neuronal and synaptic content of the frontal and temporal cortex in patients with Alzheimer's disease
+J Neurol Sci, 78 (2) (1987), pp. 151-164
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+DeKosky and Scheff, 1990
+S.T. DeKosky, S.W. Scheff
+Synapse loss in frontal cortex biopsies in Alzheimer's disease: correlation with cognitive severity
+Ann Neurol, 27 (5) (1990), pp. 457-464
+CrossRefView Record in ScopusGoogle Scholar
+Dubois et al., 2014
+B. Dubois, H.H. Feldman, C. Jacova, H. Hampel, J.L. Molinuevo, K. Blennow, S.T. DeKosky, S. Gauthier, D. Selkoe, R. Bateman, S. Cappa, S. Crutch, S. Engelborghs, G.B. Frisoni, N.C. Fox, D. Galasko, M.O. Habert, G.A. Jicha, A. Nordberg, F. Pasquier, G. Rabinovici, P. Robert, C. Rowe, S. Salloway, M. Sarazin, S. Epelbaum, L.C. de Souza, B. Vellas, P.J. Visser, L. Schneider, Y. Stern, P. Scheltens, J.L. Cummings
+Advancing research diagnostic criteria for Alzheimer's disease: the IWG-2 criteria
+Lancet Neurol, 13 (6) (2014), pp. 614-629
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Gabriel et al., 1997
+S.M. Gabriel, V. Haroutunian, P. Powchik, W.G. Honer, M. Davidson, P. Davies, K.L. Davis
+Increased concentrations of presynaptic proteins in the cingulate cortex of subjects with schizophrenia
+Arch Gen Psychiatry, 54 (6) (1997), pp. 559-566
+CrossRefView Record in ScopusGoogle Scholar
+Gosso et al., 2008
+M.F. Gosso, E.J. de Geus, T.J. Polderman, D.I. Boomsma, P. Heutink, D. Posthuma
+Common variants underlying cognitive ability: further evidence for association between the SNAP-25 gene and cognition using a family-based study in two independent Dutch cohorts
+Genes Brain Behav, 7 (3) (2008), pp. 355-364
+CrossRefView Record in ScopusGoogle Scholar
+Grumelli et al., 2008
+C. Grumelli, P. Berghuis, D. Pozzi, M. Caleo, F. Antonucci, G. Bonanno, G. Carmignoto, M.B. Dobszay, T. Harkany, M. Matteoli, C. Verderio
+Calpain activity contributes to the control of SNAP-25 levels in neurons
+Mol Cell Neurosci, 39 (3) (2008), pp. 314-323
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Guerini et al., 2014
+F.R. Guerini, C. Agliardi, M. Sironi, B. Arosio, E. Calabrese, M. Zanzottera, E. Bolognesi, C. Ricci, A.S. Costa, D. Galimberti, L. Griffanti, A. Bianchi, F. Savazzi, D. Mari, E. Scarpini, F. Baglio, R. Nemni, M. Clerici
+Possible association between SNAP-25 single nucleotide polymorphisms and alterations of categorical fluency and functional MRI parameters in Alzheimer's disease
+J Alzheimers Dis, 42 (3) (2014), pp. 1015-1028
+View Record in ScopusGoogle Scholar
+Hansson et al., 2006
+O. Hansson, H. Zetterberg, P. Buchhave, E. Londos, K. Blennow, L. Minthon
+Association between CSF biomarkers and incipient Alzheimer’s disease in patients with mild cognitive impairment: a follow-up study
+Lancet Neurol, 5 (3) (2006), pp. 228-234
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Honer, 2003
+W.G. Honer
+Pathology of presynaptic proteins in Alzheimer's disease: more than simple loss of terminals
+Neurobiol Aging, 24 (8) (2003), pp. 1047-1062
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Jahn et al., 2003
+R. Jahn, T. Lang, T.C. Sudhof
+Membrane fusion
+Cell, 112 (4) (2003), pp. 519-533
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Kurbatskaya et al., 2016
+K. Kurbatskaya, E.C. Phillips, C.L. Croft, G. Dentoni, M.M. Hughes, M.A. Wade, S. Al-Sarraj, C. Troakes, M.J. O'Neill, B.G. Perez-Nievas, D.P. Hanger, W. Noble
+Upregulation of calpain activity precedes tau phosphorylation and loss of synaptic proteins in Alzheimer's disease brain
+Acta Neuropathol Commun, 4 (2016), p. 34
+View Record in ScopusGoogle Scholar
+Kvartsberg et al., 2015a
+H. Kvartsberg, F.H. Duits, M. Ingelsson, N. Andreasen, A. Ohrfelt, K. Andersson, G. Brinkmalm, L. Lannfelt, L. Minthon, O. Hansson, U. Andreasson, C.E. Teunissen, P. Scheltens, W.M. Van der Flier, H. Zetterberg, E. Portelius, K. Blennow
+Cerebrospinal fluid levels of the synaptic protein neurogranin correlates with cognitive decline in prodromal Alzheimer's disease
+Alzheimers Dement, 11 (10) (2015), pp. 1180-1190
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Kvartsberg et al., 2015b
+H. Kvartsberg, E. Portelius, U. Andreasson, G. Brinkmalm, K. Hellwig, N. Lelental, J. Kornhuber, O. Hansson, L. Minthon, P. Spitzer, J.M. Maler, H. Zetterberg, K. Blennow, P. Lewczuk
+Characterization of the postsynaptic protein neurogranin in paired cerebrospinal fluid and plasma samples from Alzheimer’s disease patients and healthy controls
+Alzheimers Res Ther, 7 (1) (2015), p. 40
+Google Scholar
+Lee and Hall, 2009
+J.W. Lee, M. Hall
+Method validation of protein biomarkers in support of drug development or clinical diagnosis/prognosis
+J Chromatogr B Analyt Technol Biomed Life Sci, 877 (13) (2009), pp. 1259-1271
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Masliah et al., 1991
+E. Masliah, L. Hansen, T. Albright, M. Mallory, R.D. Terry
+Immunoelectron microscopic study of synaptic pathology in Alzheimer's disease
+Acta Neuropathol, 81 (4) (1991), pp. 428-433
+CrossRefView Record in ScopusGoogle Scholar
+Masliah et al., 2001
+E. Masliah, M. Mallory, M. Alford, R. DeTeresa, L.A. Hansen, D.W. McKeel Jr., J.C. Morris
+Altered expression of synaptic proteins occurs early during progression of Alzheimer’s disease
+Neurology, 56 (1) (2001), pp. 127-129
+CrossRefView Record in ScopusGoogle Scholar
+McKhann et al., 2011
+G.M. McKhann, D.S. Knopman, H. Chertkow, B.T. Hyman, C.R. Jack Jr., C.H. Kawas, W.E. Klunk, W.J. Koroshetz, J.J. Manly, R. Mayeux, R.C. Mohs, J.C. Morris, M.N. Rossor, P. Scheltens, M.C. Carrillo, B. Thies, S. Weintraub, C.H. Phelps
+The diagnosis of dementia due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease
+Alzheimers Dement, 7 (3) (2011), pp. 263-269
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Mukaetova-Ladinska et al., 2000
+E.B. Mukaetova-Ladinska, F. Garcia-Siera, J. Hurt, H.J. Gertz, J.H. Xuereb, R. Hills, C. Brayne, F.A. Huppert, E.S. Paykel, M. McGee, R. Jakes, W.G. Honer, C.R. Harrington, C.M. Wischik
+Staging of cytoskeletal and beta-amyloid changes in human isocortex reveals biphasic synaptic protein response during progression of Alzheimer's disease
+Am J Pathol, 157 (2) (2000), pp. 623-636
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Ohrfelt et al., 2016
+A. Ohrfelt, A. Brinkmalm, J. Dumurgier, G. Brinkmalm, O. Hansson, H. Zetterberg, E. Bouaziz-Amar, J. Hugon, C. Paquet, K. Blennow
+The pre-synaptic vesicle protein synaptotagmin is a novel biomarker for Alzheimer's disease
+Alzheimers Res Ther, 8 (1) (2016), p. 41
+Google Scholar
+Olsson et al., 2016
+B. Olsson, R. Lautner, U. Andreasson, A. Ohrfelt, E. Portelius, M. Bjerke, M. Holtta, C. Rosen, C. Olsson, G. Strobel, E. Wu, K. Dakin, M. Petzold, K. Blennow, H. Zetterberg
+CSF and blood biomarkers for the diagnosis of Alzheimer’s disease: a systematic review and meta-analysis
+Lancet Neurol, 15 (7) (2016), pp. 673-684
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Panza et al., 2016
+F. Panza, V. Solfrizzi, D. Seripa, B.P. Imbimbo, M. Lozupone, A. Santamato, R. Tortelli, I. Galizia, C. Prete, A. Daniele, A. Pilotto, A. Greco, G. Logroscino
+Tau-based therapeutics for Alzheimer’s disease: active and passive immunotherapy
+Immunotherapy, 8 (9) (2016), pp. 1119-1134
+CrossRefView Record in ScopusGoogle Scholar
+Petrie et al., 2009
+E.C. Petrie, D.J. Cross, D. Galasko, G.D. Schellenberg, M.A. Raskind, E.R. Peskind, S. Minoshima
+Preclinical evidence of Alzheimer changes: convergent cerebrospinal fluid biomarker and fluorodeoxyglucose positron emission tomography findings
+Arch Neurol, 66 (5) (2009), pp. 632-637
+View Record in ScopusGoogle Scholar
+Sanfilippo et al., 2016
+C. Sanfilippo, O. Forlenza, H. Zetterberg, K. Blennow
+Increased neurogranin concentrations in cerebrospinal fluid of Alzheimer's disease and in mild cognitive impairment due to AD
+J Neural Transm (Vienna), 123 (12) (2016), pp. 1443-1447
+CrossRefView Record in ScopusGoogle Scholar
+Scheff et al., 2007
+S.W. Scheff, D.A. Price, F.A. Schmitt, S.T. DeKosky, E.J. Mufson
+Synaptic alterations in CA1 in mild Alzheimer disease and mild cognitive impairment
+Neurology, 68 (18) (2007), pp. 1501-1508
+CrossRefView Record in ScopusGoogle Scholar
+Sollner et al., 1993a
+T. Sollner, M.K. Bennett, S.W. Whiteheart, R.H. Scheller, J.E. Rothman
+A protein assembly-disassembly pathway in vitro that may correspond to sequential steps of synaptic vesicle docking, activation, and fusion
+Cell, 75 (3) (1993), pp. 409-418
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Sollner et al., 1993b
+T. Sollner, S.W. Whiteheart, M. Brunner, H. Erdjument-Bromage, S. Geromanos, P. Tempst, J.E. Rothman
+SNAP receptors implicated in vesicle targeting and fusion
+Nature, 362 (6418) (1993), pp. 318-324
+CrossRefView Record in ScopusGoogle Scholar
+Sperling et al., 2011
+R.A. Sperling, P.S. Aisen, L.A. Beckett, D.A. Bennett, S. Craft, A.M. Fagan, T. Iwatsubo, C.R. Jack Jr., J. Kaye, T.J. Montine, D.C. Park, E.M. Reiman, C.C. Rowe, E. Siemers, Y. Stern, K. Yaffe, M.C. Carrillo, B. Thies, M. Morrison-Bogorad, M.V. Wagster, C.H. Phelps
+Toward defining the preclinical stages of Alzheimer’s disease: recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease
+Alzheimers Dement, 7 (3) (2011), pp. 280-292
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Sudhof, 2004
+T.C. Sudhof
+The synaptic vesicle cycle
+Annu Rev Neurosci, 27 (2004), pp. 509-547
+CrossRefView Record in ScopusGoogle Scholar
+Tapiola et al., 2009
+T. Tapiola, I. Alafuzoff, S.K. Herukka, L. Parkkinen, P. Hartikainen, H. Soininen, T. Pirttila
+Cerebrospinal fluid {beta}-amyloid 42 and tau proteins as biomarkers of Alzheimer-type pathologic changes in the brain
+Arch Neurol, 66 (3) (2009), pp. 382-389
+View Record in ScopusGoogle Scholar
+Veit et al., 1996
+M. Veit, T.H. Sollner, J.E. Rothman
+Multiple palmitoylation of synaptotagmin and the t-SNARE SNAP-25
+FEBS Lett, 385 (1–2) (1996), pp. 119-123
+ArticleDownload PDFCrossRefView Record in ScopusGoogle Scholar
+Wellington et al., 2016
+H. Wellington, R.W. Paterson, E. Portelius, U. Tornqvist, N. Magdalinou, N.C. Fox, K. Blennow, J.M. Schott, H. Zetterberg
+Increased CSF neurogranin concentration is specific to Alzheimer disease
+Neurology, 86 (9) (2016), pp. 829-835
+CrossRefView Record in ScopusGoogle Scholar

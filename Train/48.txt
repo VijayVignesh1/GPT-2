@@ -1,0 +1,561 @@
+Ownership of an artificial limb induced by electrical
+brain stimulation
+Kelly L. Collinsa,1,2, Arvid Guterstamb,1,2, Jeneva Croninc,d, Jared D. Olsond,e, H. Henrik Ehrssonb,3,
+and Jeffrey G. Ojemanna,d,3
+a
+Department of Neurological Surgery, University of Washington, Seattle, WA 98195; b
+Department of Neuroscience, Karolinska Institutet, Stockholm 17177,
+Sweden; c
+Department of Bioengineering, University of Washington, Seattle, WA 98195; d
+Center for Sensorimotor Neural Engineering, University of
+Washington, Seattle, WA 98105; and e
+Department of Rehabilitation Medicine, University of Washington, Seattle, WA 98195
+Edited by Peter L. Strick, University of Pittsburgh, Pittsburgh, PA, and approved November 20, 2016 (received for review October 3, 2016)
+Replacing the function of a missing or paralyzed limb with a
+prosthetic device that acts and feels like one’s own limb is a major
+goal in applied neuroscience. Recent studies in nonhuman primates
+have shown that motor control and sensory feedback can be achieved
+by connecting sensors in a robotic arm to electrodes implanted in the
+brain. However, it remains unknown whether electrical brain stimulation can be used to create a sense of ownership of an artificial limb.
+In this study on two human subjects, we show that ownership of an
+artificial hand can be induced via the electrical stimulation of the hand
+section of the somatosensory (SI) cortex in synchrony with touches
+applied to a rubber hand. Importantly, the illusion was not elicited
+when the electrical stimulation was delivered asynchronously or to a
+portion of the SI cortex representing a body part other than the hand,
+suggesting that multisensory integration according to basic spatial
+and temporal congruence rules is the underlying mechanism of the
+illusion. These findings show that the brain is capable of integrating
+“natural” visual input and direct cortical-somatosensory stimulation
+to create the multisensory perception that an artificial limb belongs to
+one’s own body. Thus, they serve as a proof of concept that electrical
+brain stimulation can be used to “bypass” the peripheral nervous
+system to induce multisensory illusions and ownership of artificial
+body parts, which has important implications for patients who lack
+peripheral sensory input due to spinal cord or nerve lesions.
+body perception | electrical brain stimulation | neuroprosthetics |
+multisensory integration | self
+The brain’s ability to distinguish the body from external objects
+is important for accurately guiding limb movements (1) and
+maintaining our sense of bodily self (2). Therefore, a major endeavor in applied neuroscience relates to creating artificial limb
+prostheses that not only move according to the user’s intentions and
+relay sensations of touch but that also feel as though they were the
+user’s own limbs. Previous work has shown that the so-called rubber
+hand illusion, a multisensory perceptual illusion in which the sense
+of touch and feelings of ownership are referred to an artificial limb
+through the concurrent touching of a rubber hand in view and a
+participant’s hidden real hand (3), can be used to induce ownership
+sensations of a prosthetic hand in upper limb amputees (4). However, the classical rubber hand illusion requires that touches be delivered to the real hand (3), and previous studies on amputees have
+relied on tactile stimulation of the stump (4, 5) or reinnervated regions of the skin (6). Thus, it remains unknown whether it is possible
+to induce ownership of an artificial limb in the absence of peripheral
+stimulation, which is a highly relevant issue for patients lacking
+sensory input due to damage to the spinal cord or peripheral nerves.
+Inspired by previous studies in nonhuman primates showing that
+sensory feedback from a robotic arm can be administered through
+electrodes implanted in the primary somatosensory (SI) cortex (7),
+we examined whether electrical brain stimulation could be used to
+“bypass” the peripheral nervous system to elicit ownership of an
+artificial limb. To this end, we used a modified version of the rubber
+hand illusion with direct cortical stimulation in two human subjects
+undergoing invasive electrocorticographic (ECoG) monitoring in
+preparation for epilepsy surgery. We hypothesized that it would be
+possible to induce the same effects as the classical illusion by
+electrically stimulating the hand-sensory cortex in synchrony with
+touches delivered to the observed rubber hand—without touching
+the hidden real hand (Fig. 1). In accordance with our prediction, we
+found that illusory ownership of the rubber hand could be consistently induced using electrical brain stimulation of the hand SI
+cortex in both subjects. Furthermore, the results show that stimulating the SI cortex asynchronously or in a “non-hand” region did
+not elicit the illusion. These findings show that the brain is capable
+of integrating electrical cortical-somatosensory and natural visual
+signals to form coherent multisensory representations of one’s own
+limbs according to the same basic rules of spatiotemporal congruence that govern the normal perception of our body (8). As such,
+this study constitutes an important step toward the development of
+neuroprosthetic limbs that feel just like real limbs.
+Results
+Before experimentation, the subjects underwent a sensory stimulation screening process, during which we identified appropriate
+electrode pairs and current amplitudes for evoking sensations in
+the subjects’ fingers and forearm. We also established a control
+electrode pair outside of the SI cortex that was not associated with
+somatosensation or any other perceptual phenomena (Fig. 2). Both
+subjects reported that the sensations elicited by electrical stimulation of the SI cortex felt “unnatural” and unlike anything they had
+ever felt before. However, the evoked sensations were anatomically
+well localized. Specifically, subject 1 described the stimulation of the
+SI finger site as a “vibration-like” sensation localized on the proximal phalange of the ring finger, whereas subject 2 likened the
+Significance
+Creating a prosthetic device that feels like one’s own limb is a
+major challenge in applied neuroscience. We show that ownership of an artificial hand can be induced via electrical stimulation
+of the hand somatosensory cortex in synchrony with touches
+applied to a prosthetic hand in full view. These findings suggest
+that the human brain can integrate “natural” visual input and
+direct cortical-somatosensory stimulation to create the multisensory perception that an artificial limb belongs to one’s own body.
+Author contributions: K.L.C., A.G., H.H.E., and J.G.O. designed research; K.L.C., A.G., J.C., J.D.O.,
+and J.G.O. performed research; A.G. analyzed data; and K.L.C., A.G., J.C., J.D.O., H.H.E.,
+and J.G.O. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+1
+K.C. and A.G. contributed equally to this work.
+2
+To whom correspondence may be addressed. Email: arvid.guterstam@ki.se or kellyco@u.
+washington.edu.
+3
+H.H.E. and J.G.O contributed equally to this work.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1616305114/-/DCSupplemental.
+166–171 | PNAS | January 3, 2017 | vol. 114 | no. 1 www.pnas.org/cgi/doi/10.1073/pnas.1616305114
+evoked sensation to a feeling of “light pressure” along the proximal and middle phalanges of the middle finger (for details, SI
+Experimental Procedures).
+In the illusion condition (SynchFinger), the onset of a visible
+touch on the rubber hand trigged a 500-ms-long electrical stimulation across the electrode pair corresponding to the SI finger site
+(Fig. 2, red electrodes). In the AsynchFinger control condition, the
+cortical stimulation was delayed by 1,000 ms relative to the visible
+rubber hand touch (Fig. S1), while keeping all other experimental
+parameters constant. In the SynchWrist control condition, the
+cortical stimulation was synchronous with the touch but was applied across an electrode pair corresponding to a spatially incongruent site of the SI cortex (Fig. 2, black electrodes), which was
+associated with somatosensation on the distal dorsal region of the
+forearm (Fig. 1). The AsynchFinger and SynchWrist conditions
+allowed us to investigate whether the illusion is constrained by the
+same temporal and spatial multisensory congruence rules that
+have been shown to govern the classical rubber hand illusion (8).
+In two additional control conditions, we delivered synchronous
+stimulation across a pair of control electrodes outside of the SI cortex
+(SynchRemote) (Fig. 2, green electrodes) or no stimulation at all
+(placebo). The SynchRemote and placebo conditions permitted us to
+control for suggestibility and task compliance and to exclude the
+possibility that electrical current passing through the dura contributed
+to the illusion experience. We aimed at repeating each experimental
+condition twice, which was accomplished in subject 2. In subject 1,
+however, the experiment was aborted prematurely due to fatigue,
+and we were unable to complete the experiment at a later time.
+Therefore, we only performed one repetition of the SynchFinger,
+AsynchFinger, SynchRemote, and placebo conditions in this subject.
+The subjective experience of the illusion was quantified using an
+analog rating scale that was reported verbally; more objectively,
+the illusion was assessed via behavioral measurements in the form
+of pointing errors toward the rubber hand—the so-called proprioceptive drift—in an intermanual pointing task (3). For subject
+1, there was a significant effect of condition on the verbal ownership ratings (F = 191.24, P < 0.001, one-way ANOVA; Fig. 3A).
+Importantly, the SynchFinger illusion condition was associated
+with significantly stronger ownership of the rubber hand compared
+with the ratings in the placebo and SynchRemote control conditions (both P < 0.001, paired t tests), suggesting that the illusion
+was successfully induced and was dependent on the concurrent
+electrical stimulation of the primary somatosensory cortex. Notably, the illusion was very vivid (maximum rating, +3) and featured
+a fast onset time (4 s), which was comparable to the vividness (+3)
+and onset time (4.2 ± 1.2 s) of the conventional rubber hand illusion induced by visual stimulation of the rubber hand and tactile
+stimulation of the real hand (Fig. 3C). In accordance with the
+results of the subjective ratings, the proprioceptive drift was
+greater in the SynchFinger than in the placebo and SynchRemote
+conditions (+10 mm versus −10 and −2 mm; Fig. 3B). The magnitude of the proprioceptive drift in the illusion condition was
+comparable to that shown in earlier studies on the rubber hand
+illusion (9–11). Unexpectedly, there was no significant difference
+between the SynchFinger and AsynchFinger conditions in terms of
+ownership ratings (P = 0.33, paired t test; Fig. 3A). However, this
+finding was inconsistent with the proprioceptive drift results, which
+show a greater drift in the SynchFinger than in the AsynchFinger
+condition (10 mm versus −5 mm; Fig. 3B). We therefore speculate
+that the high ownership ratings in the AsynchFinger condition in
+subject 1 were at least partly related to task compliance and stimulation order effects in the form of increased suggestibility after
+having experienced the illusion condition in the preceding trial (the
+AsynchFinger condition was repeated immediately after the SynchFinger condition; for details, SI Experimental Procedures) and that
+synchronous cortical stimulation is necessary for experiencing a
+genuine rubber hand illusion.
+Subject 2 displayed a significant effect of condition in terms of
+rubber hand ownership ratings (F = 22.49, P < 0.001, one-way
+ANOVA; Fig. 3D). The SynchFinger condition was coupled with
+significantly higher ownership ratings (all P < 0.001, paired t tests)
+and greater proprioceptive drift (64 mm versus 38, −57, 6, and
+−22 mm; values correspond to the order of conditions in Fig. 3E)
+compared with the drift in each of the four control conditions. In
+accordance with the results in subject 1, the illusion vividness
+(plateau phase between +1 and +2; Fig. 3D) was comparable to
+Fig. 1. Experimental setup. The real hand was hidden from view behind a screen while a prosthetic hand was placed in front of it in full sight of the subject.
+To induce the illusion, the experimenter repeatedly stroked a finger of the rubber hand using a digital touch probe that was connected to a cortical
+stimulation device, which delivered an electrical current across two subdural electrodes located in the region of the subject’s primary somatosensory (SI)
+cortex corresponding to the same finger (red electrodes). In the spatially incongruent control condition, the current was delivered to a pair of electrodes
+associated with somatosensation on the subject’s wrist (black electrodes). The skin areas to which this subject (subject 2) referred the stimulation-induced
+sensations are indicated in red and black, respectively. Notably, the subject’s real hand was never touched. The green electrodes represent a control stimulation site unassociated with somatosensation.
+Collins et al. PNAS | January 3, 2017 | vol. 114 | no. 1 | 167
+NEUROSCIENCE
+the vividness of the conventional rubber hand illusion (+2; Fig.
+3F). Interestingly, the illusion onset time for the rubber hand illusion evoked by electrical brain stimulation (6 s) was markedly
+faster than the onset for the conventional rubber hand illusion
+(20.8 ± 6.8 s). Together, these findings suggest that the illusion
+was successfully elicited and was contingent on electrical stimulation of the SI cortex that was spatially and temporally congruent
+with the visual stimulation of the rubber hand.
+Discussion
+In summary, we used a multisensory perceptual illusion and invasive electrophysiological techniques in humans to investigate a
+question that is at the heart of applied neuroscience: Can direct
+cortical stimulation be used to create the experience that an artificial limb belongs to one’s own body? Our results revealed two
+main findings. First, we found that ownership of an artificial limb
+can be induced via electrical stimulation of the SI cortex in conjunction with congruent visual signals from a rubber hand being
+touched. Second, the results show that the visual stimulus and the
+cortical stimulation must obey specific rules of spatial and temporal congruence for the illusion to arise, suggesting that the
+human brain is capable of integrating natural visual and electrical
+cortical-somatosensory signals to build a coherent multisensory
+perception of a seen limb belonging to the self. Thus, our findings
+have both theoretical and practical implications because they extend our understanding of the multisensory integration mechanisms underlying bodily self-attribution (8, 12–14), demonstrate
+that multisensory illusions can be triggered by electrical brain
+stimulation, and provide a method for creating ownership sensations of prosthetic limb devices through direct stimulation of the
+somatosensory cortex.
+This study allowed us to investigate the hitherto unexplored
+relationships between electrical brain stimulation, multisensory
+integration, and body ownership. The cortical stimulation used in
+our experiment was delivered across two electrodes spaced 10 mm
+apart on the surface of the postcentral gyrus, resulting in the simultaneous depolarization of large and functionally heterogeneous
+neuronal populations devoted to the processing of multiple different somatosensory modalities. The perceptual correlates of such
+large-scale electrical stimulations of the SI cortex are typically
+described as unnatural sensations of touch, wind, or numbness and
+are difficult to describe in conventional terms (15–17). Indeed,
+both of our subjects stated that the stimulation felt unlike anything
+they had experienced before and that, even though anatomically
+well defined, the sensation did not correspond well with any one
+somatosensory modality. The closest descriptors used were that the
+sensation had a vibrating (subject 1) or pressure-like quality (subject 2). Despite these highly nonphysiological somatosensory percepts, we were able to elicit a strong rubber hand illusion. In
+addition, both subjects spontaneously reported that the sensation
+originated from the rubber hand in the illusion condition, which is
+equivalent to the referral of touch phenomenon observed in the
+classical rubber hand illusion (3). Previous studies have shown that
+the integration of visual and tactile signals in multisensory brain
+regions is a key mechanism for generating ownership of a seen limb
+(10, 18). Our findings therefore support a flexible model of multisensory integration for bodily self-attribution (8, 12–14), which
+allows for low-fidelity artificial sensory feedback to be merged with
+visual signals from a limb-like object being touched as long as the
+stimuli are spatially and temporally matched.
+Intriguingly, open-ended explorative testing in subject 2 showed
+that his perception of the cortical stimulus was influenced by his
+visual experience. When the touches were applied to the rubber
+hand as a brushstroke, he experienced the somatosensory stimulus
+as moving on the model hand in the same direction as the stroke.
+This was also true when the direction of the stroking was reversed.
+When the touches were applied in a focal, pressing manner, he felt
+a simple “feeling of pressure” in the location where the probe was
+touching the rubber hand. We speculate that this phenomenon
+represents a cross-modal interaction (19, 20) between vision and
+touch in which visual signals from an owned rubber hand affect the
+perception of stimulation-induced somatosensation, possibly reflecting top-down modulatory effects on the SI cortex from the multisensory body representation in the intraparietal sulcus (11, 21–23).
+Future studies are needed to formally quantify this phenomenon and
+examine whether such cross-modal interaction effects are specific to
+the context of ownership of the seen limb.
+From an applied neuroscience perceptive, our results serve as a
+proof of concept that direct cortical stimulation can be used to
+create ownership sensations of a prosthetic limb. This represents a
+major conceptual advance because all previous studies on prosthesis ownership in amputees have relied on peripheral somatosensory stimulation; either in the form of tactile stimulation of the
+stump (4, 5) or a reinnervated patch of skin (6) or, possibly, the
+electrical stimulation of cuff electrodes chronically implanted in
+peripheral nerves (24, 25). Thus, our results suggest that it is theoretically possible to bypass the peripheral nervous system entirely
+via direct cortical stimulation, which would enable patients who
+lack afferent input from a damaged or paralyzed limb (e.g., due to
+lesions of peripheral nerves or the spinal cord) to experience
+Subject 1
+Subject 2
+SI finger
+SI wrist
+Remote electrodes Epileptic activity detected
+Fig. 2. Brain anatomy and electrode localization. Projections of the electrode grids are relative to the cortical surface in both subjects. The grid was
+placed on the right side in subject 1 and on the left in subject 2. The colored
+electrodes indicate the different stimulation sites, including the SI finger
+(red) and SI wrist representations (black), as well as a nonsomatosensory
+control site separate from the SI cortex (green). The crossed-out electrodes
+indicate the locations at which epileptic activity was observed (for details, SI
+Experimental Procedures). The 3D brain representations were generated
+from the subjects’ individual MRI scans.
+168 | www.pnas.org/cgi/doi/10.1073/pnas.1616305114 Collins et al.
+ownership of a neuroprosthetic device. Moreover, we found that
+during the illusion condition, the stimulation-induced somatic
+sensations were referred to the specific part of the prosthesis being
+touched, rather than being referred to the real limb or a phantom
+limb as shown in earlier somatosensory cortical stimulation experiments (15, 26, 27). This feature has important practical implications because such somatosensory referral would not only
+make a prosthesis feel more natural but could also provide
+meaningful sensory feedback for dexterous hand actions performed
+by robotic hands. However, because the spinal cord and peripheral
+nervous system were intact in our subjects, we cannot exclude the
+possibility that static proprioceptive information from the real hand
+plays a role in generating the present illusion. This issue could be
+examined in future studies of patients lacking afferent proprioceptive signals from a hand, for instance, due to limb amputation, spinal cord injury, or subcortical stroke. Based on the earlier
+findings showing that upper limb amputees are capable of experiencing the classical rubber hand illusion (4), we hypothesize that
+the present ECoG-stimulation version of the illusion will also be
+inducible in absence of proprioceptive information from the hand.
+From an engineering standpoint, it is encouraging that the
+relatively low-fidelity sensory feedback associated with ECoG
+stimulation was sufficient to elicit ownership sensations and the
+referral of tactile percepts to the rubber hand, and that the illusion
+vividness was comparable even to the conventional rubber hand
+illusion induced by tactile stimulation of the real hand. Subdural
+electrode arrays have some advantages for long-term implantation
+over fine-wire intracortical electrodes, as they are less invasive and
+provide a more stable signal over time at the cost of poorer spatial
+resolution (28). The results of microstimulation studies in monkeys (29–33) and a recent study in one human participant (34)
+suggest that intracortical microstimulation of the SI cortex provides more natural sensations of touch localized to substantially
+smaller areas of the skin. However, we speculate that the crossmodal interaction effect discussed above could potentially be
+exploited to increase the diversity of somatosensory percepts induced by ECoG stimulations of the SI cortex.
+Finally, the present study demonstrates that a multisensory illusion can be elicited by substituting one sensory modality with
+direct cortical stimulation in humans. Our results suggest that
+relatively coarse, electrically induced signals from one sensory
+modality can be integrated with natural high-quality signals from
+another modality to produce a coherent multisensory percept,
+provided that the basic multisensory principles of temporal and
+spatial congruence are obeyed (35). We speculate that the integration of natural and artificial sensory signals takes place at the
+level of multisensory areas in the association cortex, although future neurophysiological studies are needed to characterize these
+underlying processes. Furthermore, we hypothesize that other
+multisensory illusions will also be inducible via electrical brain
+stimulation, which could have important implications for the
+development of neurocognitive prosthetic devices. For instance, it
+may be possible to facilitate the localization of sound via artificial
+vision (the ventriloquist illusion) (36, 37) produced through visual
+SynchFinger (SF) AsynchFinger (AF) Placebo (P) SynchRemote (SR)
++3
++2
++1
+0
+-2
+-1
+-3
+0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60
+Time point (s)
+15
+10
+5
+0
+-5
+-10
+-15 SF
+SyncWrist (SW)
+AF P SR
+A B
+SF AF P SR
+15
+10
+5
+0
+-5
+-10
+-15
+Proprioceptive drift (cm)
+E
+0 4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 SW
++3
++2
++1
+0
+-2
+-1
+-3
+Ownership rating
+DOwnership rating
+Proprioceptive drift (mm)
++3
++2
++1
+0
+-2
+-1
+-3
+CSubjective rating
+Synchronous
+Asynchronous
+Rotated
++3
++2
++1
+0
+-2
+-1
+-3
+FSubjective rating
+“It felt as if the rubber
+hand were my hand”
+Control statement
+Conventional rubber hand illusion
+Fig. 3. Results. The illusion was quantified using continuous verbal ownership ratings in combination with the measurement of pointing errors toward the
+rubber hand in an intermanual reaching task (proprioceptive drift) (3, 9). The reaching task was performed immediately before and after each block of stimulation, and the proprioceptive drift was defined as the difference between the before and after measurements, with positive values indicating a drift in the
+direction toward the rubber hand. (A–C) Subject 1. In accordance with our a priori hypothesis, the results show that the SynchFinger illusion condition generated
+significantly higher ratings of rubber hand ownership than the SynchRemote and placebo control conditions (P < 0.001; A), and the proprioceptive drift was
+greater in the SynchFinger condition than in either of the control conditions (B). The conventional rubber hand illusion, induced by visual stimulation of the
+rubber hand and tactile stimulation of the real hand, was associated with an ownership rating of +3 (C), which was similar to the electrical stimulation-induced
+version of the illusion (A). It should be noted that subject 1 aborted the experiment prematurely due to fatigue and each condition was therefore only repeated
+once. (D–F) Subject 2. The results show that the SynchFinger condition was associated with significantly higher ownership ratings (P < 0.001; D) and a greater
+proprioceptive drift (E) compared with the results of the four control conditions. The conventional rubber hand illusion was associated with an ownership rating
+of +2 (F), which is in accordance with the electrical stimulation-induced version of the illusion (D). These results are compatible with those of subject 1 and
+reinforce the conclusion that the illusion is dependent on spatial and temporal congruence between the visual signals from the rubber hand being touched and
+the cortical stimulation of the SI cortex, and that it is at least as strong as the conventional rubber hand illusion. The error bars represent the SEM.
+Collins et al. PNAS | January 3, 2017 | vol. 114 | no. 1 | 169
+NEUROSCIENCE
+cortical stimulation (38) or enhance speech comprehension based
+on seeing the movements of lips (the McGurk illusion) (39, 40)
+when using an auditory prosthesis based on brain stimulation (41).
+In conclusion, this study demonstrates that electrical brain
+stimulation in humans can be used to manipulate a fundamental
+aspect of self-consciousness: the feeling that the body belongs to
+the self. Our findings provide a conceptually important step toward achieving a robotic prosthesis that not only moves and
+provides sensory feedback via electrodes implanted in the brain
+(7, 42, 43) but also feels just like one’s own limb.
+Experimental Procedures
+Patients. The experiments were performed at Harborview Medical Center,
+Seattle, WA. Two patients, one 19-y-old female (subject 1) and one 33-y-old
+male (subject 2), with medically refractory focal epilepsy undergoing presurgical
+invasive seizure monitoring volunteered for this research study. Informed
+consent was obtained, with all procedures approved by the University of
+Washington Institutional Review Board. Both patients were implanted, solely
+for clinical purposes, with a 64-electrode grid array featuring coverage of the
+right (subject 1) or left (subject 2) SI cortex at the level of the representation of
+the hand (Fig. 2).
+Experimental Setup. During the experiment, the subjects rested in their
+hospital beds with the head of the bed angled at ∼45°. A mobile bedside table
+was positioned above their waist. Their left (subject 1) or right (subject 2) arm
+was hidden behind a screen, while a lifelike rubber hand was placed in front of
+the screen in full view (Fig. 1). To induce the illusion, a digital touch probe (Fig.
+S2 and SI Experimental Procedures for hardware specifics) was used to repeatedly deliver touches (at the frequency 0.5 Hz) to the rubber hand for a
+period of 60 s. The touch probe triggered a cortical stimulation device to
+deliver electrical pulses to the hand SI cortex. In subject 1, we applied 500-mslong strokes along the proximal phalange of the ring finger of the rubber
+hand. Because subject 2 described a sense of pressure associated with the SI
+cortex stimulation, instead of stroking, we applied the touch probe in a focal
+manner, pressing on the proximal phalange of the rubber hand’s middle finger for 500 ms every 2 s. The sequence of the touches delivered to the rubber
+hand was identical across all five conditions (Fig. S3 for touch probe results),
+and the experimenter delivering the touches was blind with respect to the
+nature of the experimental conditions of interest.
+Illusion Quantification. During each 60-s experimental block, we instructed the
+subjects to verbally report the current vividness of the illusion in response to a
+cue that was presented every 4 s (every 2 s for subject 2; SI Experimental
+Procedures for details). The subjects were asked to report their level of
+agreement to the statement “It feels as if the rubber hand were my hand,”
+using a scale ranging from −3, “I completely disagree,” to +3, “I completely
+agree,” with 0 indicating, “I neither agree nor disagree.” An intermanual
+reaching task was performed immediately before and after each experimental
+block, in which the subjects were temporarily blindfolded and asked to point
+to the location of their left (subject 1) or right index finger (subject 2) using the
+opposite hand. The proprioceptive drift, which is an established behavioral
+proxy of illusory body ownership (3, 9), was defined as the difference between
+the before and after measurements, with positive values indicating a drift in
+the direction toward the rubber hand. SI Experimental Procedures provides
+further details on the experimental procedures and statistical analyses.
+The Conventional Rubber Hand Illusion. To examine potential similarities between the rubber hand illusion elicited by electrical stimulation of the SI
+cortex and tactile stimulation of the real hand, we conducted a separate experiment on a different day in which we exposed the subjects to the conventional rubber hand illusion (3). The illusion was induced using previously
+published standard procedures (3, 9, 18), which involved the synchronous
+stroking of a rubber hand and the subject’s real hand for a period of 60 s.
+Asynchronous stroking (temporal incongruence) or synchronous stroking of a
+rubber hand rotated through 180° (spatial incongruence) served as control
+conditions (3, 18). The illusion strength was quantified immediately after each
+experimental condition by asking the subjects to rate the statement “It felt as
+if the rubber hand were my hand,” using a scale ranging from −3 to +3 (i.e.,
+the same statement and scale as in the electrical brain stimulation experiment). The participants were also asked to rate a control statement, “It
+seemed as if the touch I were feeling came from somewhere between my own
+hand and the rubber hand” (adopted from ref. 3). We compared the difference in rating between the illusion and control statements to control
+for suggestibility and task compliance. The questionnaire results are
+shown in Fig. 3 C and F. The average illusion onset time was estimated in
+four separate repetitions of synchronous stroking in which the subjects
+were instructed to press a button as soon as they started experiencing
+ownership of the rubber hand.
+ACKNOWLEDGMENTS. The authors acknowledge the patients who have so
+generously given their time during a period of significant personal difficulty;
+the clinical staff at Harborview Medical Center; previous members of the
+Ojemann research group, who have developed some of the experimental
+infrastructure that contributed to this project; and Martti Mercurio, who
+developed the digital touch probes. Funding was provided by NIH
+NS065186 and NIH NS079200; National Science Foundation (NSF) EEC1028725, NSF DGE-1256082, NSF IIS-1514790, and 2K12HD001097; The Swedish Research Council; the James McDonnell Foundation; Torsten Söderbergs
+Stiftelse; Riksbanken Jubileumsfond; the Promobilia Foundation (A.G.); the
+Swedish Society for Medical Research (A.G.); Stockholm Brain Institute (A.G.);
+and the Swedish Society of Medicine (A.G.).
+1. Graziano M, Botvinick M (2002) How the brain represents the body: insights from
+neurophysiology and psychology in Common Mechanisms in Perception and Action:
+Attention and Performance XIX, eds Prinz W, Hommel B (Oxford Univ Press, Oxford),
+pp 136–157.
+2. Merleau-Ponty M (1945) Phénoménologie de la Perception (Gallimard, Paris).
+3. Botvinick M, Cohen J (1998) Rubber hands ‘feel’ touch that eyes see. Nature 391(6669):
+756.
+4. Ehrsson HH, et al. (2008) Upper limb amputees can be induced to experience a rubber
+hand as their own. Brain 131(Pt 12):3443–3452.
+5. Schmalzl L, et al. (2011) “Pulling telescoped phantoms out of the stump”: Manipulating the perceived position of phantom limbs using a full-body illusion. Front Hum
+Neurosci 5:121.
+6. Marasco PD, Kim K, Colgate JE, Peshkin MA, Kuiken TA (2011) Robotic touch shifts
+perception of embodiment to a prosthesis in targeted reinnervation amputees. Brain
+134(Pt 3):747–758.
+7. O’Doherty JE, et al. (2011) Active tactile exploration using a brain-machine-brain interface. Nature 479(7372):228–231.
+8. Makin TR, Holmes NP, Ehrsson HH (2008) On the other hand: Dummy hands and
+peripersonal space. Behav Brain Res 191(1):1–10.
+9. Tsakiris M, Haggard P (2005) The rubber hand illusion revisited: Visuotactile integration and self-attribution. J Exp Psychol Hum Percept Perform 31(1):80–91.
+10. Brozzoli C, Gentile G, Ehrsson HH (2012) That’s near my hand! Parietal and premotor
+coding of hand-centered space contributes to localization and self-attribution of the
+hand. J Neurosci 32(42):14573–14582.
+11. Guterstam A, Gentile G, Ehrsson HH (2013) The invisible hand illusion: Multisensory
+integration leads to the embodiment of a discrete volume of empty space. J Cogn
+Neurosci 25(7):1078–1099.
+12. Ehrsson HH (2012) The concept of body ownership and its relation to multisensory
+integration. The Handbook of Multisensory Processes, ed Stein B (MIT Press, Cambridge, MA).
+13. Blanke O (2012) Multisensory brain mechanisms of bodily self-consciousness. Nat Rev
+Neurosci 13(8):556–571.
+14. Tsakiris M (2010) My body in the brain: A neurocognitive model of body-ownership.
+Neuropsychologia 48(3):703–712.
+15. Johnson LA, et al. (2013) Direct electrical stimulation of the somatosensory cortex in
+humans using electrocorticography electrodes: A qualitative and quantitative report.
+J Neural Eng 10(3):036021.
+16. Ray PG, et al. (1999) Physiology of perception: Cortical stimulation and recording in
+humans. Neurology 52(5):1044–1049.
+17. Cronin J, et al. (July 18, 2016) Task-specific somatosensory feedback via cortical
+stimulation in humans. IEEE Trans Haptics, 10.1109/toh.2016.2591952.
+18. Ehrsson HH, Spence C, Passingham RE (2004) That’s my hand! Activity in premotor
+cortex reflects feeling of ownership of a limb. Science 305(5685):875–877.
+19. Macaluso E, Frith CD, Driver J (2000) Modulation of human visual cortex by crossmodal spatial attention. Science 289(5482):1206–1208.
+20. Driver J, Noesselt T (2008) Multisensory interplay reveals crossmodal influences on
+‘sensory-specific’ brain regions, neural responses, and judgments. Neuron 57(1):
+11–23.
+21. Guterstam A, Björnsdotter M, Gentile G, Ehrsson HH (2015) Posterior cingulate cortex
+integrates the senses of self-location and body ownership. Curr Biol 25(11):
+1416–1425.
+22. Graziano MS, Cooke DF, Taylor CS (2000) Coding the location of the arm by sight.
+Science 290(5497):1782–1786.
+23. Guterstam A, et al. (2015) Decoding illusory self-location from activity in the human
+hippocampus. Front Hum Neurosci 9:412.
+24. Ortiz-Catalan M, Håkansson B, Brånemark R (2014) An osseointegrated human-machine gateway for long-term sensory feedback and motor control of artificial limbs.
+Sci Transl Med 6(257):257re6.
+25. Tan DW, et al. (2014) A neural interface provides long-term stable natural touch
+perception. Sci Transl Med 6(257):257ra138.
+170 | www.pnas.org/cgi/doi/10.1073/pnas.1616305114 Collins et al.
+26. Ojemann JG, Silbergeld DL (1995) Cortical stimulation mapping of phantom limb
+rolandic cortex. Case report. J Neurosurg 82(4):641–644.
+27. Penfield W, Boldrey E (1937) Somatic motor and sensory representation in the cerebral cortex of man as studied by electrical stimulation. Brain 60(4):389–443.
+28. Moran D (2010) Evolution of brain-computer interface: Action potentials, local field
+potentials and electrocorticograms. Curr Opin Neurobiol 20(6):741–745.
+29. Romo R, Hernández A, Zainos A, Brody CD, Lemus L (2000) Sensing without touching:
+Psychophysical performance based on cortical microstimulation. Neuron 26(1):
+273–278.
+30. Romo R, Hernández A, Zainos A, Salinas E (1998) Somatosensory discrimination based
+on cortical microstimulation. Nature 392(6674):387–390.
+31. Tabot GA, et al. (2013) Restoring the sense of touch with a prosthetic hand through a
+brain interface. Proc Natl Acad Sci USA 110(45):18279–18284.
+32. Berg JA, et al. (2013) Behavioral demonstration of a somatosensory neuroprosthesis.
+IEEE Trans Neural Syst Rehabil Eng 21(3):500–507.
+33. Klaes C, et al. (2014) A cognitive neuroprosthetic that uses cortical stimulation for
+somatosensory feedback. J Neural Eng 11(5):056024.
+34. Flesher SN, et al. (2016) Intracortical microstimulation of human somatosensory cortex. Sci Transl Med 8(361):361ra141.
+35. Stein BE, Stanford TR (2008) Multisensory integration: Current issues from the perspective of the single neuron. Nat Rev Neurosci 9(4):255–266.
+36. Howard IP, Templeton WB (1966) Human Spatial Orientation (Wiley, New York).
+37. Berger CC, Ehrsson HH (2014) The fusion of mental imagery and sensation in the
+temporal association cortex. J Neurosci 34(41):13684–13692.
+38. Normann RA, et al. (2009) Toward the development of a cortically based visual
+neuroprosthesis. J Neural Eng 6(3):035001.
+39. McGurk H, MacDonald J (1976) Hearing lips and seeing voices. Nature 264(5588):
+746–748.
+40. Beauchamp MS, Nath AR, Pasalar S (2010) fMRI-Guided transcranial magnetic stimulation reveals that the superior temporal sulcus is a cortical locus of the McGurk
+effect. J Neurosci 30(7):2414–2417.
+41. Rauschecker JP, Shannon RV (2002) Sending sound to the brain. Science 295(5557):
+1025–1029.
+42. Hochberg LR, et al. (2006) Neuronal ensemble control of prosthetic devices by a human with tetraplegia. Nature 442(7099):164–171.
+43. Carmena JM, et al. (2003) Learning to control a brain-machine interface for reaching
+and grasping by primates. PLoS Biol 1(2):E42.
+44. Rohde M, Di Luca M, Ernst MO (2011) The Rubber Hand Illusion: Feeling of ownership
+and proprioceptive drift do not go hand in hand. PLoS One 6(6):e21659.
+45. Abdulkarim Z, Ehrsson HH (2016) No causal link between changes in hand position
+sense and feeling of limb ownership in the rubber hand illusion. Atten Percept
+Psychophys 78(2):707–720.
+46. Guterstam A, Zeberg H, Özçiftci VM, Ehrsson HH (2016) The magnetic touch illusion: A
+perceptual correlate of visuo-tactile integration in peripersonal space. Cognition 155:
+44–56.
+47. Gentile G, Guterstam A, Brozzoli C, Ehrsson HH (2013) Disintegration of multisensory
+signals from the real hand reduces default limb self-attribution: An fMRI study.
+J Neurosci 33(33):13350–13366.
+48. Wander JD, et al. (2013) Distributed cortical adaptation during learning of a braincomputer interface task. Proc Natl Acad Sci USA 110(26):10818–10823.
+49. Hermes D, Miller KJ, Noordmans HJ, Vansteensel MJ, Ramsey NF (2010) Automated
+electrocorticographic electrode localization on individually rendered brain surfaces.
+J Neurosci Methods 185(2):293–298.
+Collins et al. PNAS | January 3, 2017 | vol. 114 | no. 1 | 171
+NEUROSCIENCE

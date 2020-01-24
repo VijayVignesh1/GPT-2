@@ -1,0 +1,538 @@
+© 1999 Nature America Inc. • http://neurosci.nature.com
+© 1999 Nature America Inc. • http://neurosci.nature.com
+nature neuroscience • volume 2 no 1 • january 1999 31
+Excitatory transmission in the vertebrate central nervous system
+is mediated by actions of glutamate on AMPA (a-amino-3-
+hydroxy-5-methyl-4-isoxazolepropionate) and NMDA (Nmethyl-D-aspartate) receptor subtypes. These receptors have
+different roles in transmission, plasticity and toxicity1. In the hippocampus2–4 and other brain regions5,6, the ratio of AMPAreceptor- to NMDA-receptor-mediated transmission is initially
+low and increases over development. Furthermore, many synaptic events, particularly early in development, are mediated by the
+activation of only NMDA receptors2,3,5–8. Such responses are proposed to occur at structures termed postsynaptically silent synapses, because transmission can only be detected if the postsynaptic
+membrane potential is raised above the resting level. At resting
+membrane potentials, the NMDA receptor pore is largely blocked
+by extracellular magnesium9, and hence transmitter reaching
+only NMDA receptors will produce little response. The prevalence of pure NMDA responses measured electrophysiologically
+decreases during development2,3,5,6. Long-term potentiation
+(LTP), a form of activity-dependent synaptic plasticity, can add an
+AMPA-receptor-mediated component of transmission to pure
+NMDA-receptor-mediated responses7,8. These electrophysiological observations suggest that NMDA receptors are present in
+synapses before AMPA receptors and that during development
+AMPA receptors are progressively added, possibly through an
+LTP-like process.
+However, alternative theories are possible. One scenario proposes that both AMPA and NMDA receptors coincide in their
+appearance at synapses, but early in development only low concentrations of glutamate reach synapses, concentrations sufficient to activate primarily NMDA receptors. As these receptors
+have higher affinity for glutamate than AMPA receptors, this view
+is biophysically plausible10. A low concentration of transmitter
+could reach receptors either because of a low concentration
+released by vesicles or because of geometrical relations between
+release site and receptor location (for example, spillover from
+nearby synapses11 or increased synaptic cleft separation). Another possibility is that both receptors are on synapses, but early in
+development AMPA receptors are functionally silent, either
+because they lack an associated protein (such as glutamate receptor interacting protein12) or because they lack a necessary posttranslational modification (such as phosphorylation13). We have
+directly tested the hypothesis that NMDA receptors (NMDA-Rs)
+are present at synapses before AMPA receptors (AMPA-Rs) and
+that the latter are progressively added during development.
+Results
+We have used post-embedding immunogold electron microscopy
+(Methods) to examine glutamate receptors at CA1 hippocampal
+asymmetric synapses at different times in postnatal development
+(postnatal day (P)2, P10 and 5 weeks). Most synapses showed
+immunoreactivity for NMDA-Rs (Fig. 1, Table 1). Furthermore,
+there were no significant changes over the ages examined. We
+found a similar number of gold particles per synapse, number of
+gold particles per µm of postsynaptic membrane and percentage
+of synapses labeled at all ages studied (Fig. 1, Table 1, see also
+Fig. 4). This was true for antibodies directed against NR1 and
+NR2A/B subunits. These results argue that the number of NMDARs per synapse remains constant between P2 and 5 weeks.
+In contrast to NMDA-Rs, AMPA-R immunoreactivity was
+low at P2 and P10 and high at 5 weeks (Fig. 2, Table 1). For
+articles
+Selective acquisition of AMPA receptors
+over postnatal development suggests
+a molecular basis for silent synapses
+R. S. Petralia1, J. A. Esteban2, Y.-X. Wang1, J. G. Partridge3, H.-M. Zhao1, R. J. Wenthold1
+and R. Malinow2
+1 Lab. of Neurochemistry, NIDCD, NIH, Bethesda, Maryland 20892, USA
+2 Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724, USA
+3 Dept. Pharmacol., Vanderbilt Univ., Nashville, Tennessee 37232, USA
+The first two authors contributed equally to this project.
+Correspondence should be addressed to R.M. (malinow@cshl.org)
+Early in postnatal development, glutamatergic synapses transmit primarily through NMDA
+receptors. As development progresses, synapses acquire AMPA receptor function. The molecular
+basis of these physiological observations is not known. Here we examined single excitatory synapses
+with immunogold electron-microscopic analysis of AMPA and NMDA receptors along with
+electrophysiological measurements. Early in postnatal development, a significant fraction of
+excitatory synapses had NMDA receptors and lacked AMPA receptors. As development progressed,
+synapses acquired AMPA receptors with little change in NMDA receptor number. Thus, synapses
+with NMDA receptors but no AMPA receptors can account for the electrophysiologically observed
+‘silent synapse’.
+© 1999 Nature America Inc. • http://neurosci.nature.com
+© 1999 Nature America Inc. • http://neurosci.nature.com
+instance, for AMPA-R subunit GluR1 immunoreactivity, the average number of gold grains per synapse increased 1.7-fold from
+P2 to P10 and increased 2-fold further from P10 to 5 weeks. In
+addition, the fraction of synapses containing AMPA-R
+immunoreactivity increased with development (from 16% at P2
+to 50% at 5 weeks, in the case of GluR1, and from 44% to 75%
+in the case of the AMPA-R subunits GluR2/3, see Table 1). Similar results were obtained with two additional antibodies, one
+recognizing GluR1 and the other GluR2 (not shown). This indicates that the changes in immunoreactivity at different ages are
+not likely to be due to developmental changes in epitopes of
+AMPA-Rs. This developmental difference in labeling between
+AMPA-Rs and NMDA-Rs was verified with double labeling. Early
+in development, synapses containing NMDA-R immunoreactivity and little or no AMPA-R immunoreactivity were common
+(Fig. 3f and g), whereas at 5 weeks, immunolabeling for AMPARs and NMDA-Rs was comparable (Fig. 3h).
+These data strongly support the view that the developmental
+increase in AMPA-R-mediated transmission2–6 is due to an
+increase in the number of AMPA-Rs at synapses. What do these
+data say regarding the nature of silent synapses? Can one conclude directly from these anatomical data that many synapses
+contain NMDA-Rs and lack AMPA-Rs? Immunogold electron
+microscopy only detects a fraction of receptors on any synapse.
+Thus, it is possible that all synapses have AMPA-Rs, but because
+of low detection, some postsynaptic densities fail to show
+immunoreactivity. This difficulty in determining unambiguously the existence of synapses that lack AMPA-Rs has been recognized in other studies on AMPA-R and NMDA-R expression at
+synapses14,15. We have taken several approaches to determine if
+there exist synapses lacking AMPA-Rs and whether their prevalence changes during postnatal development.
+First, we analyzed the frequency distribution of immunoparticles (Fig. 4). The general features indicated in Table 1 are shown
+in greater detail in these distributions. For instance, tissue analyzed for GluR1 or GluR2/3 generally had many more synapses
+lacking immunoreactivity compared to tissue analyzed for NR1.
+The observed fraction of synapses lacking immunoparticles (bin
+zero) decreases with age for GluR1 and GluR2/3 while remaining constant for NR1 (Fig. 4a). From these observed distributions, we have estimated the fraction of synapses truly lacking
+receptors. We have fitted the observed frequency distributions to
+a simple model (Methods), assuming that the observed particle
+distribution is a random low-detection sampling of the true
+receptor distribution. From these fits, we can estimate the fraction
+of synapses truly lacking receptors, FLR (Fig. 4a). For GluR1
+immunolabeling, we found that FLR is high at P2 (71%) and
+decreases with age (P10, 50%; 5 weeks, 29%). Similar age-related changes were observed for GluR2/3 immunolabeling (P2, 44%;
+P10, 34%; 5 weeks, 12%). The lower FLR estimated using
+GluR2/3 immunolabeling is consistent with findings that a significant fraction of AMPA receptors lack GluR1 subunit, whereas most of them contain GluR2 subunit16. Thus, some synapses
+may have AMPA receptors only containing GluR2/3. For NR1,
+FLR was low at all ages (<10%). We can examine this model’s
+robustness by calculating the estimated FLR after simulated lowdetection sampling from the observed distribution (which itself
+is already a low-detection sampling from the true distribution).
+For GluR1, the calculated FLR was largely independent of detection level (Fig. 4b), supporting the accuracy of the estimated
+value. For GluR2/3 (P10 and 5 weeks) and for NR1 (all ages), the
+FLR increased somewhat with lower detection levels, suggesting
+that the true FLR value may be slightly lower than the estimated
+one (Methods). These analyses of the observed immunograin
+distribution therefore support the view that a significant fraction
+of synapses have NMDA-Rs and lack AMPA-Rs, particularly early
+in postnatal development.
+To complement the estimates reached from the low-detection
+analysis, we maximized AMPA-R detection by combining five
+AMPA-R antibodies and by modifying several steps in the
+immunolabeling procedure (see Fig. 3 legend). With these modifications, the labeling was considerably increased (Fig. 3). However, at P10, 49% of synapses still lacked immunolabeling. At 5
+weeks, only 9% lacked immunolabeling (Fig. 5). These values
+coincide well with the FLR estimates reached from individual
+articles
+P2 P10 5 weeks
+NR1
+NR2A/B
+a
+b
+c
+d
+e
+f
+g
+Fig. 1. Immunogold labeling of NMDA receptors in the CA1 stratum radiatum of the hippocampus. Postembedding immungold labeling was done using antibodies to NR1 (a, d, f) and NR2A/B
+(b, c, e, g) with 10 nm gold, at postnatal day 2 (P2; a–c), postnatal
+day 10 (P10; d, e) and 5 weeks (f, g). p, presynaptic terminal. Line
+scale is 0.2 µm. Micrographs were chosen to illustrate the moderate
+level of NMDA-R labeling maintained from P2 to 5 weeks.
+Table 1. Summary of immunogold labeling for NMDA-Rs
+and AMPA-Rs.
+P2 P10 5 weeks
+NR1 Particles/synapse 0.98 1.35 1.13
+Percent synapses labeled 62 69 63
+Particles/labeled synapse 1.59 1.96 1.79
+Number of synapses 60 266 594
+NR2A/B Particles/synapse 1.66 1.33 1.42
+Percent synapses labeled 67 66 70
+Particles/labeled synapse 2.48 2.03 2.04
+Number of synapses 93 231 611
+GluR1 Particles/synapse 0.27 0.46 0.92
+Percent synapses labeled 16 28 50
+Particles/labeled synapse 1.64 1.66 1.82
+Number of synapses 67 251 546
+GluR2/3 Particles/synapse 0.94 0.69 2.07
+Percent synapses labeled 44 38 75
+Particles/labeled synapse 2.13 1.80 2.75
+Number of synapses 52 227 541
+The average number of particles per synapse and the percentage of labeled
+synapses were significantly different (t-test and chi-square, respectively)
+between 5 weeks and the other two ages in the case of GluR1 and GluR2/3
+antibodies. For GluR1 immunolabeling, the percentage of labeled synapses
+was also significantly different between P2 and P10. No significant difference
+among P2, P10 or 5 weeks was found for NMDA-R labeling.
+32 nature neuroscience • volume 2 no 1 • january 1999
+© 1999 Nature America Inc. • http://neurosci.nature.com
+© 1999 Nature America Inc. • http://neurosci.nature.com
+AMPA-R antibodies. Simulated low-detection sampling from
+these data (Fig. 5, inset) produced similar estimates for fraction
+of synapses lacking AMPA-Rs, regardless of detection level. Thus,
+these results further support the presence of synapses lacking
+AMPA-Rs early in development.
+In the transition from P10 to 5 weeks, there was an increase
+in the average number of immunoparticles in synapses containing labeling (Fig. 5). We wished to relate these anatomical observations to physiological responses from single synapses. Wholecell recordings were obtained from CA1 neurons from rat
+hippocampal slices at P2, P10 and 5 weeks. AMPA-R-mediated
+responses from single synapses were evoked by locally applying a
+hypertonic sucrose solution under visual guidance and holding
+the postsynaptic cell at hyperpolarized potentials (Methods). The
+sucrose was directed at dendritic regions in stratum radiatum
+~100 µm from the cell body with a patch pipette (regions comparable to those from which anatomical measurements were
+obtained). The resulting miniature excitatory postsynaptic currents (mepscs) varied in amplitude (Fig. 6), as reported17. The
+frequency of responses decreased more than fourfold when the
+sucrose pipette was moved 50 µm away from the recorded neuron, indicating that the activated synapses were close to the
+pipette (data not shown). There was little difference in mean
+mepsc amplitude across the different ages examined (Fig. 6). This
+result agrees with recent observations of spontaneous mepscs
+recorded from the whole cell4. The same mean mepsc amplitude
+at younger ages, despite the smaller number (and density) of
+AMPA-Rs at labeled synapses, indicates that the impact of individual AMPA-Rs on a single-synapse response is larger earlier in
+development. Thus, these observations argue against the view
+that the lower AMPA-R-mediated component of transmission
+in young tissue results from AMPA-Rs of diminished function,
+either from receptor modulation or low transmitter delivery.
+Rather, our data indicate that receptor function is greater in
+young animals and that the lower level of AMPA-R-mediated
+transmission is due to the small fraction of synapses containing
+AMPA-Rs. This interpretation is also in agreement with an
+increase in mepsc frequency over development4 (also see Fig 6).
+Discussion
+In this study, we have examined the molecular basis for the developmental profile of AMPA and NMDA responses at glutamatergic synapses. In the hippocampus and other brain regions,
+transmission is initially mediated largely by NMDA-Rs, and over
+development the AMPA-R-mediated component of the synaptic response increases. We have used the post-embedding
+immunogold technique to test quantitatively the hypothesis that
+this is due to an initial synaptic presence of NMDA-Rs and that
+during development the presence of AMPA-Rs at synapses
+increases. The most direct line of evidence supporting this view
+is that the amount of immunolabeling per synapse (averaged
+articles
+P2 P10 5 weeks
+Glu R1
+a
+GluR2/3
+b
+c
+d
+e
+f
+g
+h
+i
+Fig. 2. Immunogold labeling of AMPA receptors in the CA1 stratum
+radiatum of the hippocampus. Postembedding immungold labeling
+was done using antibodies to GluR1 C-terminus (a, d, g) and
+GluR2/3 (b, c, e, f, h, i) with 10 nm gold, at postnatal day 2 (P2;
+a–c), postnatal day 10 (P10; d–f), and 5 weeks (g–i). p, presynaptic
+terminal. Line scale is 0.2 µm. Micrographs were chosen to illustrate
+the major trend, that is, a large increase in labeling for AMPA-Rs at
+5 weeks compared to P2/P10 (a–f versus g–i).
+Fig. 3. AMPA-R immunolabeling in high-sensitivity conditions.
+Immunogold labeling for AMPA-R was optimized by using five antibodies recognizing the N-terminal epitope of GluR1 subunit, GluR2,
+GluR2/3, GluR4 subunits and AMPA-extracellular loop (Methods).
+The incubation temperature for primary and secondary antibodies
+was increased to 37°C. Immunogold labeling of the CA1 stratum
+radiatum of the hippocampus using antibodies to an AMPA-R mix
+(a–e, 5-nm gold), and double-labeling (f–h) with AMPA-R mix (15-
+nm gold) plus NR2A/B (5 nm; arrowheads), at P10 (a–c, f, g; no gold
+seen in b) and 5 weeks (Ad; d, e, h). p, presynaptic terminal. Line
+scales are 0.2 µm (a, b) and 0.1 µm (c–e, f–h). Micrograph (c) is a
+high magnification of the synapse (arrow) in micrograph (a).
+Micrographs were chosen to illustrate the major trends, including a
+large increase in labeling for AMPA receptors at 5 weeks compared
+to P10 and a moderate level of NMDA receptors maintained at P10
+and at 5 weeks. Panel (g) contains a synapse showing NMDA-R and
+no AMPA-R labeling.
+a b
+c
+d
+e
+f
+g
+h
+nature neuroscience • volume 2 no 1 • january 1999 33
+© 1999 Nature America Inc. • http://neurosci.nature.com
+© 1999 Nature America Inc. • http://neurosci.nature.com
+over all excitatory synapses) is initially low and increases during
+development for AMPA-Rs, while remaining high and constant
+for NMDA-Rs. These findings were largely independent of the
+particular AMPA or NMDA-R antibody, indicating that these are
+properties of the receptors and not changes in epitopes or subunits during development.
+We have also tested the hypothesis that synapses exist with
+NMDA-Rs but no AMPA-Rs and that over postnatal development
+the frequency of such pure NMDA-R synapses decreases by the
+synaptic incorporation of AMPA-Rs. This view is supported by
+the finding that at P2 most synapses lack AMPA-R immunoreactivity, whereas most have NMDA-R labeling. This disparity
+decreases with development, so that at five weeks a similar fraction lacks AMPA-R and NMDA-R immunoreactivity. We also
+modeled the effect of the low detection efficiency of the immunogold technique. Application of this model to the observed distributions of immunoparticles indicated that the fraction of synapses
+lacking AMPA-Rs is initially high and progressively drops with
+development. This analysis also indicated that most synapses have
+NMDA-Rs throughout development. Lastly, we have increased
+the sensitivity of detection by modifying the immunolabeling procedure. Again we saw a significant fraction of synapses lacking
+AMPA immunolabeling in young animals, whereas at five weeks
+most synapses have AMPA immunolabeling.
+This study provides a molecular explanation for previous
+physiological observations that glutamatergic transmission is initially largely mediated by NMDA-Rs, and over development
+AMPA-Rs increase in their participation. Our data suggest that
+these properties of transmission can be largely attributable to an
+initial synaptic incorporation of NMDA-Rs, with progressive
+incorporation of AMPA-Rs during postnatal development. A
+similar molecular mechanism, namely the delivery of AMPA-Rs
+to synapses that have only NMDA-Rs or have both AMPA and
+NMDA-Rs, can explain much of long-term potentiation in this
+region of hippocampus, a cellular model of learning and memory2,3,7,8. This provides further support for the notion that LTP
+and early postnatal development are mechanistically related18–21.
+Methods
+ELECTRON MICROSCOPY. The postembedding immunogold method has
+been described22,23 and is modified from a previous method24. Briefly,
+male Sprague-Dawley rats were perfused with 4% paraformaldehyde plus
+0.5% glutaraldehyde in 0.1 M phosphate buffer. Two animals were used
+per age; additional animals were used in preliminary studies (not shown).
+Parasagittal sections (250 µm) of the hippocampus were cryoprotected in
+30% glycerol and frozen in liquid propane in a Leica EM CPC. Frozen
+sections were immersed in 1.5% uranyl acetate in methanol at –90°C in
+a Leica AFS freeze-substitution instrument, infiltrated with Lowicryl HM
+20 resin at –45°C, and polymerized with ultraviolet light. Thin sections of
+the hippocampus were incubated in 0.1% sodium borohydride plus 50
+mM glycine in Tris-buffered saline/0.1% Triton X-100 (TBST), followed
+by 10% normal goat serum (NGS) in TBST, primary antibody in 1%
+NGS/TBST, immunogold (10 nm; Amersham) in 1% NGS/TBST plus
+0.5% polyethylene glycol, and finally staining in uranyl acetate and lead
+citrate. For double labeling, the first primary antibody and correspondarticles
+Fig. 4. Frequency distribution of AMPA and
+NMDA-R immunogold labeling, observed
+and fit by the low-detection model.
+(a) Open bars show frequency of number of
+immunogold particles per synapse detected
+at P2, P10 and 5 weeks for GluR1 C-terminus (top), GluR2/3 (middle) and NR1 (bottom). Frequency distributions have been
+fitted by least-square regression analysis to a
+model with two components: a Poisson fraction (gray bars) and a fraction containing only
+zero (black bars; FLR; Methods). N is number
+of synapses counted. (b) The robustness of
+the model was assessed by Monte Carlo simulations of low-detection sampling from the
+experimental immunogold distributions
+(Methods). Average values of FLR obtained
+from the simulations are plotted as a function of the detection level applied to the
+experimental distribution for GluR1 (top),
+GluR2/3 (middle) and NR1 (bottom) distributions. Error bars represent standard deviation. Note that the variability in FLR estimation becomes larger as detection becomes lower. This
+results from the reduced number of bins in the low-detection distributions. For instance, simulated distributions obtained at a relative detection of 0.1 were typically composed of 90% zeroes.
+a b
+Immunogold particles per synapse Relative detection
+Frequency
+Fraction lacking receptors
+P2 P10 5 weeks
+GluR1 GluR1
+GluR2/3
+NR1
+GluR2/3
+NR1
+Fig. 5. Frequency distributions of AMPA-R immunogold particles
+with high-sensitivity immunolabeling conditions. Filled bars represent P10; open bars represent 5 weeks. Inset, simulations of random
+low-detection sampling done as described for Fig. 4. Average values
+and standard deviations for FLR are plotted versus detection relative to the experimental distribution.
+34 nature neuroscience • volume 2 no 1 • january 1999
+Immunogold particles per synapse
+Frequency
+© 1999 Nature America Inc. • http://neurosci.nature.com
+© 1999 Nature America Inc. • http://neurosci.nature.com
+nature neuroscience • volume 2 no 1 • january 1999 35
+ing immunogold-conjugated antibody (5-nm gold) were applied, sections were exposed to paraformaldehyde vapor at 80°C for one hour, and
+the second primary and secondary (15-nm gold) antibodies were applied
+the following day23–25. For the single-labeled AMPA-R antibody mix
+study, primary and secondary antibody incubations were done at 37°C,
+and 5 nm gold was used. Immunogold particles were counted in the postsynaptic density and cleft, as described22,23. In each section, all synapses
+in a selected portion of the CA1 stratum radiatum were photographed
+and included in the study. At all ages, synapses (even immature ones)
+used in this study showed the characteristic features of asymmetric
+synapses: postsynaptic density, cleft and presynaptic vesicles. Nevertheless, synapses were uncommon at P2. Many appeared immature, with
+small, poorly developed postsynaptic densities. Spines typically were
+short, and many appeared to be only protrusions from dendrites. In spite
+of the immature appearance of some aspects of presynaptic and postsynaptic structures at P2, synapses were identified readily by the basic characteristics typical of all asymmetric synapses, as noted above. At P10,
+synapse development was intermediate between P2 and 5 weeks. Controls included absence of primary antibody for single labeling and absence
+of the second primary antibody for double labeling; controls always
+showed little or no gold labeling.
+Most primary antibodies were characterized previously26–30. Primary antibodies used were GluR1-C terminus (4.1 µg/ml), GluR1-N terminus (3.2 µg/ml), GluR2 (4 µg/ml), GluR2/3 (2 µg/ml), NR1 (4 µg/ml)
+and NR2A/B (4 µg/ml). The ‘AMPA-R mix’ is a combination of antibodies to GluR1-N terminus (1.6 µg/ml), GluR2 (2 µg/ml), GluR2/3 (2
+µg/ml), GluR4 (1.9 µg/ml) and AMPA-R-extracellular loop. To develop
+a pan-AMPA-R antibody, the extracellular loop of GluR2 was amplified
+by PCR and inserted into a pET vector (Novagen, Madison, WI) to create a C-terminus polyhistidine-tagged fusion protein. The fusion protein was purified and injected into rabbits. Antiserum was affinity purified
+and shown to recognize flip and flop variants of GluR1-4 by western blot
+analysis of membranes from cells transfected with GluR1–4 cDNAs. All
+micrographs used in the figures were processed with Adobe Photoshop
+4.0 to optimize brightness and contrast.
+LOW-DETECTION ANALYSIS. Because the fraction of receptors detected by
+immunogold electron microscopy depends on random factors like thin
+sectioning of postsynaptic densities or incomplete epitope exposure, we
+have modeled the observed immunograin distributions as a random lowdetection sampling of the true receptor distributions. The true distribution of receptors at synapses (before low-detection sampling) can be
+divided into two sets: those synapses truly having receptors, R+, and those
+synapses truly without receptors, R–. (This latter population may have
+only few receptors, in which case these synapses would likely be electrophysiologically silent.) After simulated low-detection sampling (see
+below), we find that the resulting distribution of receptors arising from R+
+approaches a Poisson distribution if the coefficient of variation (c.v.) of
+R+ is less than ~0.6 or a gamma distribution otherwise (see part a of supplementary figure at http://neurosci.nature.com/web_specials/suppinfo/nn0199_31). The synapses without receptors, R–, remain without
+receptors after low-detection sampling. We fitted (nonlinear least-squares
+analysis31) the observed distributions to a model distribution made of a
+Poisson plus extra zeroes (model has two degrees of freedom) or gamma
+plus extra zeroes (model has three degrees of freedom). In most cases,
+observed distributions were accurately described by a Poisson plus zeroes
+(p > 0.99, Kolmogorov-Smirnov test). In the remainder of cases, a reliable
+fit (p > 0.99) was obtained by using a gamma plus zeroes. Nevertheless,
+the value for extra zeroes was similar (within 5%) using either distribution. We use the value for extra zeroes as the estimated fraction of synapses lacking receptors (FLR). Confidence limits for the estimated
+parameters were determined by Monte Carlo simulations32 (see below).
+The accuracy of the method, that is, its ability to find the correct
+value for FLR, was evaluated by modeling arbitrary receptor distributions with different fraction of synapses lacking receptors. Low-detection simulations (see below) from these distributions showed that the
+estimated value for FLR coincides with the correct fraction of synapses lacking receptors when the original distribution is not very broad
+(low c.v.). In this case, the estimation for FLR was fairly independent
+from the detection value. On the contrary, the estimated FLR value
+tends to be larger than the correct one when the original distribution is
+highly dispersed (high c.v.), and this overestimation increases as detection becomes smaller (supplementary figure, part b). An overestimation of FLR can be detected by obtaining experimental data at different
+detection levels or by randomly sampling the experimental distribution with different detection values. If the calculated FLR value increases with decreasing detection levels, we can conclude that the fraction
+of synapses lacking receptors is being overestimated. Conversely, the
+estimated FLR is accurate when it is independent from the detection
+level. This test was shown to be valid for receptor distributions with
+different average number of receptors per synapse or different fraction
+lacking receptors (supplementary figure, part b).
+LOW-DETECTION SIMULATIONS AND ESTIMATES OF CONFIDENCE LIMITS. Random low-detection sampling was simulated as follows. A random number between 0 and 1 was assigned to each receptor in a particular synapse.
+When the random number was higher than the chosen detection value,
+the corresponding receptor was rejected, that is, not detected. Thus, the
+lower the detection value, the more likely it is that a receptor will be
+rejected. By repeating this process for every synapse in the original distribution, a low-detection distribution is generated with the non-rejected, that is, detected receptors. In the case of a detection rate of one,
+simulated distributions were generated by randomly choosing synapses
+from the original data without altering their number of receptors. As
+many synapses were chosen as were present in the original distribution,
+but the random selection allowed some synapses to be chosen several
+times, whereas others may not have been selected in one particular simulation. One thousand independent simulations were carried out for
+articles
+Fig. 6. Amplitude of focally evoked miniature excitatory postsynaptic currents does
+not change with development. (a)
+Representative samples of miniature synaptic
+responses in CA1 hippocampal neurons to
+focal application of sucrose from P2 (left), P10
+(middle) and 5 weeks (right). Six traces of
+500 ms each are shown superimposed. The
+increase in mepsc frequency with development was a general finding4 and consistent
+with an increase in the number of synapses
+containing AMPA-Rs. (b) Amplitude distributions of all responses from P2 (5 cells, 312
+events), P10 (5 cells, 656 events) and 5 weeks
+(3 cells, 360 events). Neither mean amplitude
+nor cumulative distributions (not shown)
+were significantly different.
+a
+b
+Miniature amplitude, pA
+P2 P10 5 weeks
+Frequency
+mean = 9.6 pA
+N = 312
+mean = 9.9 pA
+N = 656
+mean = 10.1 pA
+N = 360
+© 1999 Nature America Inc. • http://neurosci.nature.com
+© 1999 Nature America Inc. • http://neurosci.nature.com
+36 nature neuroscience • volume 2 no 1 • january 1999
+each detection level. Then, the resulting distributions were fitted individually to the model to estimate the corresponding value for the fraction of synapses lacking receptors. With these independent values,
+probability distributions and confidence limits were generated for the
+estimated parameter32.
+ELECTROPHYSIOLOGY. Rat hippocampal slices were prepared, and whole-cell
+recordings were obtained from CA1 neurons under visual guidance with
+standard bathing and internal solutions as described7. Bathing medium
+contained 1 µM tetrodotoxin. Neuronal somata were held at –60 mV in
+voltage-clamp mode. Series resistance was not significantly correlated
+with mean mepsc amplitude, nor was it significantly different for the different age groups. A patch pipette containing 500 mM sucrose was positioned ~100 µm from the cell bodies in stratum radiatum, and pulses of
+pressure were applied (10 psi, 100 ms, 0.3 Hz).
+Note: Further details of methods and a supplementary figure may be
+found on the Nature Neuroscience web site at
+http://neurosci.nature.com/web_specials/supp_info/nn0199_31
+Acknowledgements
+We thank A. Allen and N. Dawkins-Pisani for technical support, and J. Lisman
+and members of the Malinow and Wenthold laboratories for comments.
+RECEIVED 1 SEPTEMBER; ACCEPTED 20 NOVEMBER 1998
+1. Hollmann, M. & Heinemann, S. Cloned glutamate receptors. Annu. Rev.
+Neurosci. 17, 31–108 (1994).
+2. Liao, D. & Malinow, R. Deficiency in induction but not expression of LTP in
+hippocampal slices from young rats. Learn. Mem. 3, 138–149 (1996).
+3. Durand, G., Kovalchuk, Y. & Konnerth, A. Long-term potentiation and
+functional synapse induction in developing hippocampus. Nature 381, 71–75
+(1996).
+4. Hsia, A. Y., Malenka, R. C. & Nicoll, R. A. Development of excitatory circuitry
+in the hippocampus. J. Neurophysiol. 79, 2013–2024 (1998).
+5. Wu, G.-Y., Malinow, R. & Cline, H. T. Maturation of a central glutamatergic
+synapse. Science 274, 972–976 (1996).
+6. Isaac, J. T., Crair, M. C., Nicoll, R. A. & Malenka, R. C. Silent synapses during
+development of thalamocortical inputs. Neuron 18, 269–280 (1997).
+7. Liao, D., Hessler, N. A. & Malinow, R. Activation of postsynaptically silent
+synapses during pairing-induced LTP in CA1 region of hippocampal slice.
+Nature 375, 400–404 (1995).
+8. Isaac, J. T., Nicoll, R. A. & Malenka, R. C. Evidence for silent synapses:
+implications for the expression of LTP. Neuron 15, 427–434 (1995).
+9. Mayer, M. L., Westbrook, G. L. & Guthrie, P. B. Voltage-dependent block by
+Mg2+ of NMDA responses in spinal cord neurons. Nature 309, 261–263
+(1984).
+10. Rusakov, D. A. & Kullmann, D. M. Extrasynaptic glutamate diffusion in the
+hippocampus: ultrastructural constraints, uptake, and receptor activation. J.
+Neurosci. 18, 3158–3170 (1998).
+11. Kullmann, D. M. & Asztely, F. Extrasynaptic glutamate spillover in the
+hippocampus: evidence and implications. Trends Neurosci. 21, 8–14 (1998).
+12. Dong, H. et al. GRIP: a synaptic PDZ domain-containing protein that
+interacts with AMPA receptors. Nature 386, 279–284 (1997).
+13. Barria, A., Muller, D., Derkach, V., Griffith, L. C. & Soderling, T. R.
+Regulatory phosphorylation of AMPA-type glutamate receptors by CaM-KII
+during long-term potentiation. Science 276, 2042–2045 (1997).
+14. Kharazia, V. N., Phend, K. D., Rustioni, A. & Weinberg, R. J. EM
+colocalization of AMPA and NMDA receptor subunits at synapses in rat
+cerebral cortex. Neurosci. Lett. 210, 37–40 (1996).
+15. Desmond, N. L. & Weinberg, R. J. Enhanced expression of AMPA receptor
+protein at perforated axospinous synapses. Neuroreport 9, 857–860 (1998).
+16. Wenthold, R. J., Petralia, R. S., Blahos II, J. & Niedzielski, A. S. Evidence for
+multiple AMPA receptor complexes in hippocampal CA1/CA2 neurons. J.
+Neurosci. 16, 1982–1989 (1996).
+17. Bekkers, J. M., Richerson, G. B. & Stevens, C. F. Origin of variability in
+quantal size in cultured hippocampal neurons and hippocampal slices. Proc.
+Natl. Acad. Sci. USA 87, 5359–5362 (1990).
+18. Shatz, C. J. Impulse activity and the patterning of connections during CNS
+development. Neuron 5, 745–756 (1990).
+19. Fox, K. The critical period for long-term potentiation in primary sensory
+cortex. Neuron 15, 485–488 (1995).
+20. Katz, L. C. & Shatz, C. J. Synaptic activity and the construction of cortical
+circuits. Science 274, 1132–1138 (1996).
+21. Constantine-Paton, M. & Cline, H. T. LTP and activity-dependent
+synaptogenesis: the more alike they are, the more different they become.
+Curr. Opin. Neurobiol. 8, 139–148 (1998).
+22. Wang, Y.-X., Wenthold, R. J., Ottersen, O. P. & Petralia, R. S. Endbulb
+synapses in the anteroventral cochlear nucleus express a specific subset of
+AMPA-type glutamate receptor subunits. J. Neurosci. 18, 1148–1160 (1998).
+23. Zhao, H.-M., Wenthold, R. J. & Petralia, R. S. Glutamate receptor targeting to
+synaptic populations on Purkinje cells is developmentally regulated. J.
+Neurosci. 18, 5517–5528 (1998).
+24. Matsubara, A., Laake, J. H., Davanger, S., Usami, S. & Ottersen, O. P.
+Organization of AMPA receptor subunits at a glutamate synapse: a
+quantitative immunogold analysis of hair cell synapses in the rat organ of
+Corti. J. Neurosci. 16, 4457–4467 (1996).
+25. Wang, B.-L. & Larsson, L.-I. Simultaneous demonstration of multiple
+antigens by indirect immunofluorescence or immunogold staining. Novel
+light and electron microscopical double and triple staining method
+employing primary antibodies from the same species. Histochemistry 83,
+47–56 (1985).
+26. Wenthold, R. J., Yokotani, N., Doi, K. & Wada, K. Immunochemical
+characterization of the non-NMDA glutamate receptor using subunitspecific antibodies. Evidence for a hetero-oligomeric structure in rat brain. J.
+Biol. Chem. 267, 501–507 (1992).
+27. Petralia, R. S. & Wenthold, R. J. Light and electron immunocytochemical
+localization of AMPA-selective glutamate receptors in the rat brain. J. Comp.
+Neurol. 318, 329–354 (1992).
+28. Petralia, R. S., Yokotani, N. & Wenthold, R. J. Light and electron microscope
+distribution of the NMDA receptor subunit NMDAR1 in the rat nervous
+system using a selective anti-peptide antibody. J. Neurosci. 14, 667–696
+(1994).
+29. Petralia, R. S., Wang, Y.-X. & Wenthold, R. J. The NMDA receptor subunits
+NR2A and NR2B show histological and ultrastructural localization patterns
+similar to those of NR1. J. Neurosci. 14, 6102–6120 (1994).
+30. Petralia, R. S., Wang, Y.-X., Mayat, E. & Wenthold, R. J. Glutamate receptor
+subunit 2-selective antibody shows a differential distribution of calciumimpermeable AMPA receptors among populations of neurons. J. Comp.
+Neurol. 385, 456–476 (1997).
+31. Johnson, M. L. & Faunt, L. M. Parameter estimation by least-squares
+methods. Methods Enzymol. 210, 1–37 (1992).
+32. Straume, M. & Johnson, M. L. Monte Carlo method for determining
+complete confidence probability distributions of estimated model
+parameters. Methods Enzymol. 210, 117–129 (1992).
+articles

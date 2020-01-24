@@ -1,0 +1,679 @@
+Revealing the dual streams of speech processing
+Julius Fridrikssona,b,1, Grigori Yourganovc
+, Leonardo Bonilhad
+, Alexandra Basilakosa
+, Dirk-Bart Den Oudena
+,
+and Christopher Rordenb,c
+a
+Department of Communication Science & Disorders, University of South Carolina, Columbia, SC 29208; b
+McCausland Center for Brain Imaging, University of
+South Carolina, Columbia, SC 29203; c
+Department of Psychology, University of South Carolina, Columbia, SC 29208; and d
+Department of Neurology,
+Medical University of South Carolina, Charleston, SC 29425
+Edited by Gary S. Dell, University of Illinois at Urbana–Champaign, Champaign, IL, and approved November 14, 2016 (received for review August 23, 2016)
+Several dual route models of human speech processing have been
+proposed suggesting a large-scale anatomical division between
+cortical regions that support motor–phonological aspects vs. lexical–semantic aspects of speech processing. However, to date, there
+is no complete agreement on what areas subserve each route or the
+nature of interactions across these routes that enables human
+speech processing. Relying on an extensive behavioral and neuroimaging assessment of a large sample of stroke survivors, we used a
+data-driven approach using principal components analysis of lesionsymptom mapping to identify brain regions crucial for performance
+on clusters of behavioral tasks without a priori separation into task
+types. Distinct anatomical boundaries were revealed between a dorsal frontoparietal stream and a ventral temporal–frontal stream associated with separate components. Collapsing over the tasks
+primarily supported by these streams, we characterize the dorsal
+stream as a form-to-articulation pathway and the ventral stream
+as a form-to-meaning pathway. This characterization of the division
+in the data reflects both the overlap between tasks supported by
+the two streams as well as the observation that there is a bias for
+phonological production tasks supported by the dorsal stream and
+lexical–semantic comprehension tasks supported by the ventral
+stream. As such, our findings show a division between two processing routes that underlie human speech processing and provide an
+empirical foundation for studying potential computational differences that distinguish between the two routes.
+aphasia | speech production | speech comprehension | voxel-based lesionsymptom mapping | speech processing
+Understanding how and where in the brain speech processing
+occurs has been the focus of concerted scientific endeavor
+for over one and a half centuries. The most influential model of
+the neuroanatomical basis of speech processing was proposed by
+Wernicke (1) and later refined by Lichtheim (2)—the Wernicke–
+Lichtheim (W-L) model. The W-L model includes two separate
+routes from a posterior auditory comprehension center to an
+anterior motor speech production center: a direct route that enables speech repetition and an indirect route via ideation that
+mediates comprehension and propositional speech. More recently,
+dual route processing has been recognized as a central principle in
+the functional organization of the brain. Ungerleider and Mishkin
+(3) proposed that visual perception in primates is supported by a
+ventral “what” stream (involving an occipital–temporal lobe route)
+and a dorsal “where” stream [or later, a “how” stream mediated by
+an occipital–parietal route (4)]. Similarly, in the auditory domain
+(5), Rauschecker and Tian (6) proposed a “dual stream” model to
+account for the identification of what was being heard and from
+where the sound originated (5, 6). This model, mostly derived
+from nonhuman primate data, distinguishes between an anterior/
+ventral route (“what” stream) involving connections from the left
+posterior superior temporal gyrus (STG) to the left inferior frontal
+gyrus (LIFG), including pars opercularis and pars triangularis, and
+a posterior/dorsal route (“where” stream) that extends from the
+posterior STG to the intraparietal lobule and the premotor cortex.
+Although this model makes strong predictions about sound-toobject identification for the purpose of comprehension and spatial
+processing of sound, it is inherently less specific with regard to the
+role of sensory feedback in speech production, a central feature
+that enables fluent articulation of speech (7). A later update to
+this model (5) posits that the posterior/dorsal stream plays an
+important role in feedback control during speech production.
+A neuroanatomical model of speech processing proposed by
+Hickok and Poeppel (8) also emphasizes similar dual route processing. Their dual stream model includes a bilateral ventral
+stream extending from the posterior middle and inferior temporal
+gyrus to the anterior middle temporal gyrus (MTG) that supports
+auditory comprehension. It makes somewhat stronger claims regarding speech production being supported by a sensorimotor
+dorsal stream that is left lateralized and involves an area in the
+STG at the notch of the Sylvian fissure at the boundary of the
+parietal and temporal lobes (area Spt), along with the posterior
+inferior frontal gyrus (including pars opercularis and pars triangularis), and the lateral premotor cortex. Specifically, the dorsal
+stream is suggested to process auditory speech-to-articulation
+transformations, including feedback necessary for predicting the
+spoken output and online error detection and modification of
+speech output (more detail is in ref. 9).
+Dorsal route prominence for motor speech production functions is also supported in other work (10–15). The influence of
+dual stream models of speech processing in the literature is
+perhaps best shown by the large number of published papers that
+reference Rauschecker and Tian (6) (1,018 citations), Rauschecker
+and Scott (5) (781 citations), or Hickok and Poeppel (8) (2,072
+Significance
+Relatively recently, the concept of dual route neural architecture, where dorsal and ventral brain regions process information synergistically, has been applied to study of speech
+processing. Although a large body of work has investigated
+these streams in relation to human speech processing, there is
+little consensus regarding specific cortical regions implicated.
+Relying on extensive behavioral and neuroimaging data from a
+large sample of stroke survivors, we used a data-driven approach to localize regions crucial for motor–phonological and
+lexical–semantic aspects of speech processing. Results revealed
+distinct anatomical boundaries between a dorsal frontoparietal
+stream supporting a form-to-articulation pathway and a ventral temporal–frontal stream supporting a form-to-meaning
+pathway. This study shows clear division between two processing routes underlying human speech.
+Author contributions: J.F. and C.R. designed research; L.B., A.B., and D.-B.D.O. performed
+research; G.Y. and C.R. contributed new reagents/analytic tools; J.F., G.Y., L.B., and C.R.
+analyzed data; and J.F. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+Data deposition: The authors have provided data via institutional website. Readers can
+access data by contacting J.F., who will provide a secure link to a downloadable folder
+including both the neuroimaging and behavioral data.
+1
+To whom correspondence should be addressed. Email: jfridrik@sc.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1614038114/-/DCSupplemental.
+15108–15113 | PNAS | December 27, 2016 | vol. 113 | no. 52 www.pnas.org/cgi/doi/10.1073/pnas.1614038114
+citations). Although it has become common practice to explain
+results of neuroimaging studies of speech processing in the context
+of dual stream models (16–21), the specific location and extent
+of the dorsal and ventral streams involved in speech processing,
+each of which is a theoretical construct based on either animal
+data (5) or the combination of lesion and functional neuroimaging data in humans (8), remain elusive.
+When it comes to mapping the speech areas of the brain, fMRI
+has been the most popular method during the past two decades
+(22–24). Although fMRI has yielded insights into the cortical
+mapping of speech, a shortcoming is that it cannot pinpoint regions that are crucial for speech—only areas that are correlated
+with a given speech processing task (25). It could be argued that
+careful metaanalysis studies that incorporate fMRI data may reveal converging evidence regarding the neural architecture that
+supports speech (26–28), but metaanalysis studies ultimately suffer
+the same shortcomings as basic fMRI studies: the inputs reflect
+task-associated cortical “activation” rather than areas of the cortex
+that need to be intact for successful speech processing.
+Unlike fMRI, lesion studies can reveal cortical areas that are
+crucial for performing a given task, providing an advantage over
+other common neuroimaging methods to understand the neural
+basis of speech. One approach to assessing the spatial extent of
+dual streams is to relate specific measures of speech production
+or speech comprehension to lesion location in patients (29).
+However, a limitation of such an approach is that it assumes that
+the complex aspects of speech production and comprehension can
+be appreciated with single measures. For example, it is difficult to
+see how a task, such as speech repetition, comprehensively reflects
+all aspects of processing necessary to give rise to fluent speech
+production. Similarly, a single test of auditory comprehension
+(e.g., single-word comprehension or matching spoken sentences to
+pictures) probably does not tap into all of the processes that
+support speech comprehension in natural communication settings.
+At the same time, such tasks do rely on additional processes that
+are not or only indirectly related to speech production or perception. It is challenging, therefore, to isolate the processes that
+underlie production and perception of speech. Accordingly, mapping
+single behavioral factors onto the brain using traditional lesionsymptom mapping methods may fall short in revealing the processing streams that underlie human speech processing.
+Traditional lesion studies also have other inherent limitations.
+Most group lesion studies rely on data from stroke patients, often
+presenting with similar general deficits (such as aphasia), which
+limit what areas of the brain can be studied. For example, the
+precuneus, a region that has been implicated in language processing
+(30), is rarely directly affected by stroke, making it difficult to infer
+the role of this area in human communication. In acute stroke,
+concerns are that behavioral testing could potentially reflect initial
+cortical diaschisis and that some acute stroke patients may exhibit a
+lowered cognitive status that reflects the overall trauma of the
+stroke rather than direct damage to localized regions of the brain.
+Finally, studies of chronic stroke may reflect potential cortical reorganization, because many patients experience early recovery. It
+could be argued that studies that include chronic stroke data reveal
+areas that are associated with both a given behavioral impairment
+and the successful recovery of that impairment. Of course, such
+information can be of interest and clinical importance. In regard
+to this study, for example, it could be argued that impaired speech
+processing reflects not only the direct influence of damage on
+performance but also, the inability of the brain to recover the
+necessary processes needed for task execution.
+This study includes a dataset of stroke survivors tested on a wide
+range of behavioral tasks to identify the cortical regions implicated
+in the dorsal and ventral streams and the tasks that are typically
+supported by these streams. Our simple assertion is that, if there
+are, in fact, two streams involved with different aspects of speech
+and language processing, one should be able to implicitly resolve
+them by observing the pattern of injury associated with impairments
+on a wide range of tasks. If some tasks rely more on one stream
+than another, this approach should reveal the two distinct streams.
+Unlike other related studies (20), our approach is totally unconstrained by prior models: in theory, we could find more than two
+regions involved with a task. However, based on prior theoretical
+work, we expected that this approach would identify a dorsal vs.
+ventral component that would crucially elucidate the functional–
+anatomical aspects of these streams. Importantly, also, this study
+does not associate lesions with individual tasks that have been
+marked as “production” or “perception” tasks a priori. Instead, we
+take a data-driven approach, whereby the clustering of tasks that
+are predictive of consistent lesion patterns is interpreted based on
+the functional nature of the tasks. This study is inherently a lesionsymptom mapping study and as such, challenged by the same
+limitations of vascularly constrained lesion sites, potential diaschisis,
+and cortical reorganization as described above. However, we use an
+approach to the relation between behavioral and lesion data based
+on a relatively large sample of stroke survivors, which includes
+participants without language or speech impairments, with a wide
+range of (left hemisphere) damage that amply covers all of the regions typically included in dual streams models of speech processing.
+Other studies have used a principal components analysis (PCA)
+step as part of the analysis relating localized brain damage to
+behavioral impairment (19, 31, 32). However, those studies differed from this approach in that each carried out PCA on the
+behavioral data and then, included the components as dependent
+factors in a voxel-based lesion-symptom mapping (VLSM) analysis. Posthoc, then, each PCA component is interpreted based on
+the behavioral tests that load onto that component. In contrast,
+our study initially carried out separate univariate VLSM analyses
+for each behavioral factor and then, applied PCA where the inputs
+consisted of VLSM maps depicting the relationship between localized brain damage and speech or language impairment. PCA
+computed on behavioral scores will give us the common sources of
+variance in the behavioral scores, regardless of the underlying
+neurobiology. For example, if two hypothetical behavioral tests
+are highly correlated but recruit distinct and nonoverlapping
+cortical areas, they will end up having very similar loadings in
+principal components. Running VLSM on these components
+would, therefore, obscure the difference in their underlying
+cortical recruitment. In this study, the primary interest was on
+the similarity/difference in the VLSM maps computed for our set
+of scores rather the similarity/difference of the scores themselves;
+accordingly, VLSM was carried out first and then followed by
+PCA rather than the other way around.
+This study relied on lesion data and neuropsychological testing
+in 138 stroke survivors with left hemisphere damage to understand
+whether localized brain damage that predicts different patterns of
+speech impairment loads onto ventral and dorsal streams. The
+number of participants who completed each neuropsychological
+test ranged from 38 to 138. Consistent with previous studies of
+lesion–behavior relationships, we hypothesized that overall severity on speech and language tests would primarily be explained
+by lesion size. However, if speech processing, in fact, relies on a
+dual processing route, the remaining variance in our lesion–
+behavior dataset that is not related to lesion size should be
+explained by a clear distinction between brain damage that predicts
+different aspects of speech and language processing. We expected
+to see a clear distinction between a dorsal and a ventral processing
+stream that could be explained in relation to the previously hypothesized dual stream models of speech processing (5, 8). To
+explore whether our results reflected the vascular distribution of
+the middle cerebral artery rather than damage that predicts
+speech and language impairment, an additional PCA was carried
+out, where the inputs included the lesion maps from individual
+patients. Results from this latter analysis were compared with the
+primary PCA that included VLSM maps as inputs.
+Fridriksson et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15109
+NEUROSCIENCE PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+Results
+PCA. After the lesion data had been preprocessed, two primary
+data analysis steps were carried out. An initial step used multiple
+univariate VLSM analyses to relate lesion location to performance on each neuropsychological speech and language test
+independently. Seventy-one subscores representing performance
+across the different speech and language tests (Table S1) were
+used as dependent factors in the VLSM analyses. Subsequently,
+PCA, a method used to extract sets of uncorrelated sources of
+variance (33), was used to capture the most important common
+sources of variance in the unthresholded VLSM statistical maps.
+Component Loadings. PCA revealed two primary components that
+explained ∼74% of the total variance (Component 1 = 47%;
+Component 2 = 27%). The amount of variance explained by
+each subsequent component did not exceed 5%. Approximately
+90% of the remaining components explained less than 0.01% of
+the total variance. The factor loadings of Components 1 and 2
+are represented in Table S2. Factor loadings for Component 1
+were almost exclusively positive. In contrast, Component 2 was
+split into positive and negative loadings (Table S2). Negative
+loadings mostly involved motor and phonological aspects of
+speech production, whereas positive loadings primarily reflected
+speech comprehension and verbal naming. Particularly, the
+strongest negative loadings in Component 2 were associated with
+tests measuring apraxia of speech (a motor speech disorder) and
+articulation errors produced during picture naming as well as
+measures of total verbal output in connected speech and spoken
+phonological errors. Conversely, the strongest positive loadings
+were associated with impaired sentence comprehension as well
+as general auditory comprehension (e.g., answering simple yes/
+no questions after verbal directions). Positive loadings also included measures involving functions beyond speech comprehension, such as semantic and phonological errors during naming as
+well as the ability to verbally repeat sentences. Taken together, we
+suggest that negative loadings reflect form-to-articulation processing and that positive loadings reflect form-to-meaning processing. Form-to-articulation processing includes phonological–
+motor aspects of speech production. Form-to-meaning processing
+involves processes necessary for single word and sentence comprehension but could also be reversed (meaning-to-form processing) to support lexical–semantic aspects of speech production.
+Cortical Loadings. Visual inspection of brain maps representing
+Components 1 and 2 suggested that Component 1 reflected
+overall lesion volume among the study participants, because the
+most negative voxel values were located in central structures, such
+as the insula, but gradually became more positive as the map extended to cortical areas farther away from center (Fig. 1, Left). This
+spatial distribution is commonly seen for lesion overlap maps
+among participants with unilateral stroke. To verify this observation, we correlated the statistical map representing Component 1 with a lesion overlay map from all 138 participants
+included in the study sample. The correlation between the two
+maps was r = −0.78. Correlation between the second component
+and the lesion overlap map was much smaller: r = 0.04. Because
+lesion size is typically a dominant factor in lesion-symptom
+mapping analyses (34), it was not surprising to find that Component 1 seems to reflect the extent of cortical damage. The
+statistical map for Component 2 showed that the spatial pattern
+that expressed the strongest source of variance was uncorrelated
+with the first component; this source largely represents the
+contrast between the measures of form to articulation (negative
+loadings) and form to meaning (positive loadings) (Fig. 1, Center). Negative loadings were primarily associated with damage
+involving the posterior inferior frontal gyrus, including pars
+opercularis and pars triangularis, lateral premotor cortex, preand postcentral gyri, and anterior aspects of the supramarginal
+gyrus (SMG) as well as the underlying white matter tracts
+(Tables S3 and S4). Positive loadings of Component 2 were
+associated almost exclusively with temporal lobe damage but
+also, involved areas in the parietal lobe, including posterior
+portions of the SMG and the angular gyrus as well as anteroventral inferior frontal lobe areas, such as the pars orbitalis.
+It is worth noting that the voxels with positive loadings composed more than 85% of the uncinate fasciculus, a fiber
+bundle that connects the anterior temporal lobe and the inferior aspects of the posterior frontal lobe, including pars
+orbitalis and pars triangularis (35).
+To verify that the positive and negative loadings of Component 2
+did not merely reflect the anterior and posterior distributions of the
+middle cerebral artery, the brain map representing Component 2
+was multiplied by a component derived from a PCA that only included binary lesion maps from the patients (n = 138). This step
+highlighted brain areas strongly associated with the behavioral
+scores and did not highlight the vascular distribution of stroke
+damage (Fig. 1, Right). Fig. 2 shows an axial view of the brain areas
+represented in the positive and negative loadings of Component 2.
+Discussion
+We suggest that negative and positive loadings of Component 2
+revealed in the primary PCA reflect the spatial extent of the dorsal
+and ventral streams involved in processing form to articulation and
+form to meaning, respectively. Based mostly on data from nonhuman
+primates, the location of the dual streams proposed by Rauschecker
+and Scott (5) bears little resemblance to the dual streams revealed
+here. Rauschecker and Scott (5) proposed an anterior/ventral stream
+that involves a ventral route from the “auditory belt” in the posterior STG to the LIFG, including Brodmann’s areas 44 and 45
+(typically considered to be synonymous with pars opercularis and
+Fig. 1. Anatomical representations of the first two principal components from the PCA. Voxelwise values denote how strongly the corresponding component is
+expressed in a given voxel. The voxelwise weights are in the range of −0.003–0.003, which is evident from the color scale; however, their absolute magnitude is less
+important rather than their relative magnitude compared with other voxels. Singular value decomposition was used to compute principal components; therefore,
+the magnitude of voxelwise values cannot exceed one, and squared voxelwise values have to add up to one. Component 1 is represented in Left, Component 2 is
+represented in Center (Component 2a), and Component 2 modulated by a lesion component derived from lesion maps is represented in Right (Component 2b).
+15110 | www.pnas.org/cgi/doi/10.1073/pnas.1614038114 Fridriksson et al.
+pars triangularis). Although this ventral stream does involve the
+STG and extends anteriorly to the LIFG, it does not include pars
+opercularis or pars triangularis. Rather, this ventral stream is anchored by the posterior MTG and posterior STG (Table S4), the
+areas showing the greatest expression of Component 2, and extends
+to the posterior inferior parietal lobule (IPL) as well as via the
+uncinate fasciculus to the pars orbitalis in the inferior frontal gyrus.
+The posterodorsal stream by Rauschecker and Scott (5) includes
+the posterior superior temporal sulcus (STS) and the IPL, both of
+which are regions implicated in the ventral stream in this study.
+Also, the sharp divisions between these dorsal and ventral streams
+along the notch of the Sylvian fissure and extending to the intraparietal sulcus (Fig. 2) are in clear conflict with the posterodorsal
+stream proposed by Rauschecker and Scott (5), because we found
+no evidence for a continuous stream extending from the posterior
+STS to the IPL and onto the frontal speech areas.
+These findings are in greater agreement with the dual stream
+model by Hickok and Poeppel (8), which includes a ventral
+stream mostly involving temporal lobe regions, including the
+posterior and anterior MTGs, and a dorsal stream extending
+from area Spt to the LIFG and lateral premotor cortex. Although Hickok and Poeppel (8) proposed that a ventral route
+from the anterior temporal lobe to the LIFG was important for
+speech processing, their model did not include the pars opercularis or pars triangularis as a part of the ventral stream. This
+model is consistent with our findings, where these areas fall into
+the dorsal stream. It is pertinent here to distinguish between
+anatomical connectivity and the effective “streams” that underlie
+particular types of processing. Whereas there is ample evidence
+that posterior inferior frontal gyrus connects to temporal cortex
+ventrally as well as dorsally, these data suggest that pars opercularis
+and pars triangularis functionally play a more important role as
+part of a dorsal stream that primarily supports form-to-articulation
+processing. In regard to the dorsal stream by Hickok and Poeppel
+(8), its anterior speech production regions are consistent with this
+dorsal stream. In fact, our cortical regions with the highest expression of negative Component 2 loadings (i.e., the dorsal stream)
+were the pars opercularis, a region classically considered as the
+posterior portion of Broca’s area, the premotor cortex, and the
+middle frontal gyrus (Table S3). Importantly, our analysis placed
+area Spt, a region proposed by Hickok and Poeppel (8) to be
+crucial for auditory-to-articulation transformations, at the boundary region between the two streams; the anatomical center of area
+Spt (36) was located in the ventral stream, but the standard coordinate for area Spt was only a few millimeters from the junction
+of the dorsal and ventral streams identified here (Fig. 2). As
+pointed out by Hickok et al. (37), the location of area Spt varies
+considerably across subjects, making it difficult to make a strong
+claim regarding the average location of this region.
+Although the dual stream models proposed by Rauschecker
+and Scott (5) and Hickok and Poeppel (8) vary considerably in
+regard to the distribution of processing streams, it is pertinent to
+point out that the model by Rauschecker and Scott (5) was discussed primarily in the context of sublexical speech processing. In
+contrast, the model by Hickok and Poeppel (8) focuses more on
+lexical processing. The production tasks included here focused on
+both the sublexical and lexical levels as well as sentence and discourse production. However, the comprehension tasks focused
+more on sentence-level rather than sublexical- or lexical-level
+processing. Accordingly, the results shown here, especially
+with respect to the ventral stream, reflect robust influence of
+sentence comprehension as well as lexical–semantic processing.
+This result extends the interpretation of the functional roles of the
+dual streams in speech processing, which we characterize as form
+to articulation vs. form to meaning, rather than in terms of a
+categorical division between production and comprehension.
+Modulation of the brain map representing Component 2 by a
+lesion component that most resembled the anterior and posterior distribution of the middle cerebral artery allowed us to verify
+that our findings were not driven by vascular boundaries. This
+finding further shows that Component 2 is robust and most likely
+reflects the neuroanatomical divisions of two large-scale streams
+supporting different aspects of speech processing. On a related
+note, it is imperative to mention that, although lesion studies that
+rely on stroke data are limited to studying cortical areas where
+stroke is likely to occur (e.g., middle cerebral artery distribution),
+this study included lesion coverage and adequate statistical
+power in each of the cortical areas typically included in dual
+stream models of speech processing in humans (5, 8).
+Division of the dual streams revealed here largely reflects what
+has been observed in the literature on this issue: ventral regions
+support lexical–semantic processing, whereas dorsal regions support
+the phonological–motor aspects of speech production. Our primary data analysis—PCA of lesion maps—is well-suited to reveal
+independence of individual anatomical components as well as the
+loadings of individual factors on each component. However, this
+approach is not ideal for showing the functional division and interactions across the dual streams that support speech processing.
+In this context, it is appropriate to point out that these data do not
+dispute the notion that successful speech processing relies on functional interactions between the dual streams. For example, it has
+been shown amply that damage to posterior regions, such as the
+posterior STG, results in disordered speech production (38, 39).
+This fact is, indeed, shown in patients with Wernicke’s aphasia, a
+disorder caused by damage to the posterior regions of the temporal
+lobe (40), who suffer from severely impaired speech comprehension
+as well as impaired speech production marked by neologisms,
+phonemic paraphasias, and semantic paraphasias. Although these
+patients present with fluent speech production, the content of their
+speech is affected because of damage to the ventral stream. Accordingly, it was not surprising that the ventral stream revealed
+here included cortical damage associated with poor speech comprehension as well semantic and phonemic paraphasias. Another
+aphasia type, conduction aphasia, also shows the necessary interactions among the dual streams that enable normal speech
+processing. Patients with conduction aphasia typically present
+with damage to the temporal–parietal region, especially area Spt,
+and suffer from inability to repeat speech as well as frequent
+phonemic paraphasias, although their speech fluency and speech
+comprehension are relatively spared (36). The underlying impairment in these patients probably reflects inability to integrate
+processing across the dorsal and ventral streams, further highlighting the crucial interaction between two anatomically distinct
+processing routes. We argue that this interaction is also reflected
+in ventral stream loadings of production tasks, for which high
+scores crucially rely on lexical, syntactic, or semantic access rather
+than motor–speech planning and control, such as object naming
+on the Western Aphasia Battery (WAB) and argument structure
+production on the Northwestern Assessment of Verbs and Sentences (NAVS) (Table S1).
+In conclusion, this data-driven study empirically defines the
+boundaries of the dorsal and ventral streams, regions that are crucial for successful speech processing. The ventral stream involves
+Fig. 2. Axial view of the statistical maps representing Components 1 and 2. The
+values for each slice designate the slice order in the Z direction. Area Spt (red
+arrow) is designated by a black sphere (1 cm) centered over a standard coordinate
+[Montreal Neurological Institute (MNI) space] reported by Buchsbaum et al. (36).
+Fridriksson et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15111
+NEUROSCIENCE PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+lateral temporal lobe structures extending to the IPL as well as the
+inferior frontal lobe via the uncinate fasciculus. The dorsal stream
+extends from anterior speech areas, including pars opercularis and
+premotor areas, to posterior regions in the SMG and straddles the
+edge of area Spt. These findings can be used to narrow the functional–anatomical distinction between areas involved in processing
+form to articulation and form to meaning in future studies and
+provide a clear anatomical definition of what constitutes the dual
+streams critical for human speech processing.
+Experimental Procedures
+Participants. The data analyzed here were obtained from an archival database
+in the Aphasia Laboratory, University of South Carolina. Data from 165 persons
+with unilateral left hemisphere stroke were considered for analyses. Among
+these 165 persons, 138 (63 females) had both behavioral testing and MRI data.
+The extent of cortical damage across participants is shown in Fig. 3. At the time
+of study inclusion, all participants were at least 6 mo poststroke, with a mean
+age at the time of stroke of 57.31 y old (SD = 11.49) and a mean time poststroke of 36.3 mo (SD = 43.6). Each participant underwent behavioral testing
+as part of a study of aphasia. However, the extent of behavioral testing and
+participant involvement varied across different studies: some participants were
+enrolled in aphasia treatment studies, whereas others were only tested for the
+purpose of neuropsychological research. All participants signed an informed
+consent for study inclusion, and the research was approved by the University
+of South Carolina Institutional Review Board.
+Behavioral Testing. Participants completed a neuropsychological test battery
+that involved measures of speech and language processing (Table S1). Some
+of the measures included here are typically viewed as clinical tests: for example, the WAB (41), the Apraxia Battery for Adults, second edition (42),
+and the Boston Naming Test (43). However, other tests, such as the NAVS
+(44), the Apraxia of Speech Rating Scale (ASRS) (45), and the Philadelphia
+Naming Test (PNT) (46), are primarily used in research studies. The PNT was
+scored for correct naming in addition to failed naming attempts that included phonological and semantic errors. In addition to published tests, this
+study relied on a sentence comprehension test involving various different
+sentence types (47) as well as analyses of spoken errors during reading
+(Grandfather Passage) (48), discourse (picture description), and speech entrainment (49). Finally, a large proportion of the participants completed an
+“in-house” test that involved verbal naming of pictures depicting 80 mid- to
+high-frequency nouns (50). The same criteria were used to score performance
+on this test (designated as University of South Carolina in Table S1) as the PNT.
+MRI Data Acquisition. MRI data were acquired using a Siemens 3T Trio System with
+a 12-channel head coil. All participants underwent scanning that included two MRI
+sequences: (i) T1-weighted imaging sequence using an MP-RAGE (magnetizationprepared rapid-gradient echo) [TFE (turbo field echo)] sequence with voxel size =
+1 mm3
+, FOV (field of view) = 256 × 256 mm, 192 sagittal slices, 9° flip angle, TR
+(repetition time) = 2,250 ms, TI (inversion time) = 925 ms, TE (echo time) = 4.15 ms,
+GRAPPA (generalized autocalibrating partial parallel acquisition) = 2, and 80
+reference lines; and (ii) T2-weighted MRI for the purpose of lesion demarcation with a 3D sampling perfection with application optimized contrasts by using different flip angle evolutions protocol with the following
+parameters: voxel size = 1 mm3
+, FOV = 256 × 256 mm, 160 sagittal slices,
+variable flip angle, TR = 3,200 ms, TE = 352 ms, and no slice acceleration. The
+same slice center and angulation were used as in the T1 sequence.
+Preprocessing of Structural Images. Images were converted to NIfTI format
+using dcm2niix (51). Stroke lesions were demarcated by a neurologist (L.B.) in
+MRIcron (52) on individual T2 MRIs (in native space). Preprocessing began with
+the coregistration of the T2 MRI to match the T1 MRIs, aligning the lesions to
+native T1 space. Images were warped to standard space using the enantiomorphic (53) segmentation–normalization (54) custom Matlab script (https://
+github.com/rordenlab/spmScripts/blob/master/nii_enat_norm.m) to warp the
+images to an age-appropriate template image included with the Clinical Toolbox. The normalization parameters were used to reslice the lesion into standard
+space using linear interpolation, with the resulting lesion maps stored at 1 × 1 ×
+1-mm resolution and binarized using a 50% threshold (because interpolation can
+lead to fractional probabilities, this step ensures that each voxel is categorically
+either lesioned or unlesioned without biasing overall lesion volume). All normalized images were visually inspected to verify the quality of preprocessing.
+VLSM Analyses. Seventy-one univariate VLSM analyses were completed to
+identify localized brain damage associated with speech processing impairments. VLSM results are typically reported as a standard brain map (statistical
+map or VLSM map) showing the statistical likelihood (as Z scores in image
+voxels) that a given brain location predicts performance on the behavioral
+test. A correlation matrix showing the shared variance among 71 unthresholded statistical maps is included in Fig. S1. For each analysis, voxelwise
+statistical significance was determined by voxel-based permutation thresholding (1,000 permutations) and multiple comparison correction (controlling
+for familywise error). Only voxels where at least five patients had damage
+were included in each analysis. To ensure that all of the dependent measures
+were unidirectional, scales where greater impairment is indicated by a high
+score and less impairment is indicated by a low score (e.g., on the ASRS) were
+reversed by subtracting each score from the maximum score for each specific
+factor. All of the VLSM routines used here are integrated in the NiiStat
+toolbox for Matlab (www.nitrc.org/projects/niistat). A total of 57 of 71 univariate VLSM analyses yielded statistically significant results, revealing localized brain damage associated with poor subscores on the speech or language
+tests. However, the VLSM maps that were used as inputs in the PCA were not
+thresholded based on their statistical significance.
+PCAs. The PCAs of the data matrix (where each column is a VLSM map for a
+particular behavioral factor) produce a series of principal components, each
+component being a spatial map obtained from a particular linear combination
+of columns of the data matrix, where each column corresponds to a factor (i.e.,
+a behavioral measure). Because the number of participants that completed
+each subtest varied, the VLSM maps were created using slightly different voxel
+masks and therefore, differed in terms of their spatial extent. To compensate
+for this difference, we identified a set of voxels that was included in the spatial
+masks in all VLSM maps, and the values of these common voxels formed the
+columns of the data matrix. The size of the data matrix was 259,393 (n is the
+number of common voxels) by 71 (P is the number of behavioral measures).
+Column data were centered by subtracting the column mean.
+By definition, the first principal component is associated with the linear
+combination that maximizes the variance across voxels (it is often said that the
+first principal component “explains” the largest amount of variance in the
+data). The second principal component is orthogonal to the first, and it explains the largest amount of variance in the residual data after the first
+component has been regressed out. The total number of principal components
+is equal to P, the number of columns in the data matrix, and the amount of
+variance explained by each successive component does not exceed the amount
+of variance explained by the previous component. The most important orthogonal sources of variance are typically captured in the first few components, with the last few components containing noise (that is, the variance in
+the data that is particular to our data sample and is not likely to generalize).
+We computed the principal components of our data matrix using singular
+value decomposition (we used the Matlab function svd). This decomposition
+represents the data matrix X as a product of three matrices: X = USVT (here,
+superscript T denotes matrix transposition).
+The columns of matrix U are the principal components. These columns are
+mutually orthogonal (i.e., uncorrelated), and the sum of squared voxel
+values in each column is equal to one.
+Fig. 3. Left shows a lesion overlay map including lesions from all 138 participants in the study. The color scale range represents the areas of least lesion
+coverage (n = 1; black) to the areas with the greatest lesion overlap (n = 86;
+red) designated by the cross-hairs (Left). Right identifies brain areas where at
+least five participants had damage. The VLSM analyses excluded areas where
+fewer than five participants had damage.
+15112 | www.pnas.org/cgi/doi/10.1073/pnas.1614038114 Fridriksson et al.
+The columns of V are the factor loadings: they specify the weights in the
+linear combination of factors (VLSM maps computed for given behavioral
+measures) expressed in the corresponding principal component. They are
+mutually uncorrelated, and the sum of squared loadings for a particular
+component is equal to one.
+S is a diagonal matrix; the diagonal entries are called singular values. They
+are ordered in descending order: s1,1 ≥ s2,2 ≥ ... > sP,P. They are associated
+with the percentage of variance in the data matrix explained by each
+principal component. For ith principal component (i.e., the ith column
+of U), the percentage of explained variance is given by
+s2
+i,i
+PP
+j=1
+s2
+j,j
+.
+Because this study relied on lesion data from stroke patients, a PCA that only
+included the frank (binary) lesions (n = 138) was computed to explore the
+possibility that our results reflected neurovascular distributions (e.g., anterior
+vs. posterior distributions of the middle cerebral artery) rather than anatomical boundaries of speech processing areas. This step was important because
+the extent of the VLSM components (described above) is partially driven by
+how often a given voxel is damaged. Based on visual inspection, one component (Component 2: total variance explained = 15%) emerged from the
+PCA of lesions that somewhat resembled the anterior and posterior divisions
+of the middle cerebral artery (Fig. S2). Values in the brain map representing
+this lesion component were scaled so that 100% indicated a voxel that was
+maximally predicted by the lesion component, whereas 0% meant that it had
+no weighting. Then, the VLSM component in Fig. 1 (Component 2a) was
+multiplied by this scaled lesion component, and therefore, the resulting image
+highlighted regions that are strong in the VLSM component but weak in the
+lesion component (Component 2b; readers can access data by contacting J.F.).
+ACKNOWLEDGMENTS. This research was funded by National Institute on
+Deafness and Other Communication Disorders Grants DC008355 and
+DC009571 (to J.F.).
+1. Wernicke C (1974) Der Aphasische Symptomenkomplex (Springer, Berlin).
+2. Lichteim L (1885) On aphasia. Brain 7(4):433–484.
+3. Ungerleider LG, Mishkin M (1982) Two cortical visual systems. Analysis of Visual Behavior,
+eds Ingle DJ, Goodale MA, Mansfield RJW (MIT Press, Cambridge, MA), pp 549–586.
+4. Milner AD, Goodale MA (1995) The Visual Brain in Action (Oxford Univ Press, Oxford).
+5. Rauschecker JP, Scott SK (2009) Maps and streams in the auditory cortex: Nonhuman
+primates illuminate human speech processing. Nat Neurosci 12(6):718–724.
+6. Rauschecker JP, Tian B (2000) Mechanisms and streams for processing of “what” and
+“where” in auditory cortex. Proc Natl Acad Sci USA 97(22):11800–11806.
+7. Houde JF, Jordan MI (2002) Sensorimotor adaptation of speech I: Compensation and
+adaptation. J Speech Lang Hear Res 45(2):295–310.
+8. Hickok G, Poeppel D (2007) The cortical organization of speech processing. Nat Rev
+Neurosci 8(5):393–402.
+9. Hickok G (2012) Computational neuroanatomy of speech production. Nat Rev
+Neurosci 13(2):135–145.
+10. Dell GS, Schwartz MF, Nozari N, Faseyitan O, Branch Coslett H (2013) Voxel-based
+lesion-parameter mapping: Identifying the neural correlates of a computational
+model of word production. Cognition 128(3):380–396.
+11. Dick AS, Bernal B, Tremblay P (2014) The language connectome: New pathways, new
+concepts. Neuroscientist 20(5):453–467.
+12. Guenther FH, Hickok G (2015) Role of the auditory system in speech production.
+Handb Clin Neurol 129:161–175.
+13. Houde JF, Chang EF (2015) The cortical computations underlying feedback control in
+vocal production. Curr Opin Neurobiol 33:174–181.
+14. Kellmeyer P, et al. (2013) Fronto-parietal dorsal and ventral pathways in the context
+of different linguistic manipulations. Brain Lang 127(2):241–250.
+15. Roelofs A (2014) Integrating psycholinguistic and motor control approaches to speech
+production: Where do they meet? Lang Cogn Neurosci 29(1):35–37.
+16. Berthier ML, et al. (2013) Dissociated repetition deficits in aphasia can reflect flexible
+interactions between left dorsal and ventral streams and gender-dimorphic architecture of the right dorsal stream. Front Hum Neurosci 7:873.
+17. Correia JM, Jansma BM, Bonte M (2015) Decoding articulatory features from fMRI
+responses in dorsal speech regions. J Neurosci 35(45):15015–15025.
+18. Maeder PP, et al. (2001) Distinct pathways involved in sound recognition and localization: A human fMRI study. Neuroimage 14(4):802–816.
+19. Mirman D, Zhang Y, Wang Z, Coslett HB, Schwartz MF (2015) The ins and outs of
+meaning: Behavioral and neuroanatomical dissociation of semantically-driven word retrieval and multimodal semantic recognition in aphasia. Neuropsychologia 76:208–219.
+20. Saur D, et al. (2008) Ventral and dorsal pathways for language. Proc Natl Acad Sci USA
+105(46):18035–18040.
+21. Schwartz MF, Faseyitan O, Kim J, Coslett HB (2012) The dorsal stream contribution to
+phonological retrieval in object naming. Brain 135(Pt 12):3799–3814.
+22. Binder J (1997) Functional magnetic resonance imaging. Language mapping. Neurosurg
+Clin N Am 8(3):383–392.
+23. Frost JA, et al. (1999) Language processing is strongly left lateralized in both sexes.
+Evidence from functional MRI. Brain 122(Pt 2):199–208.
+24. Mohr CM, King WM, Freeman AJ, Briggs RW, Leonard CM (1999) Influence of speech
+stimuli intensity on the activation of auditory cortex investigated with functional
+magnetic resonance imaging. J Acoust Soc Am 105(5):2738–2745.
+25. Rorden C, Karnath HO (2004) Using human brain lesions to infer function: A relic from
+a past era in the fMRI age? Nat Rev Neurosci 5(10):813–819.
+26. Oh A, Duerden EG, Pang EW (2014) The role of the insula in speech and language
+processing. Brain Lang 135:96–103.
+27. Vigneau M, et al. (2011) What is right-hemisphere contribution to phonological,
+lexico-semantic, and sentence processing? Insights from a meta-analysis. Neuroimage
+54(1):577–593.
+28. Wagner S, Sebastian A, Lieb K, Tüscher O, Tadic A (2014) A coordinate-based ALE
+functional MRI meta-analysis of brain activation during verbal fluency tasks in healthy
+control subjects. BMC Neurosci 15:19.
+29. Kümmerer D, et al. (2013) Damage to ventral and dorsal language pathways in acute
+aphasia. Brain 136(Pt 2):619–629.
+30. Hagoort P (2014) Nodes and networks in the neural architecture for language: Broca’s
+region and beyond. Curr Opin Neurobiol 28:136–141.
+31. Butler RA, Lambon Ralph MA, Woollams AM (2014) Capturing multidimensionality in
+stroke aphasia: Mapping principal behavioural components to neural structures.
+Brain 137(Pt 12):3248–3266.
+32. Gläscher J, et al. (2009) Lesion mapping of cognitive abilities linked to intelligence.
+Neuron 61(5):681–691.
+33. Abdi H, Williams LJ (2010) Principal component analysis. Wiley Interdiscip Rev Comput
+Stat 2(4):433–459.
+34. Wu O, et al. (2015) Role of acute lesion topography in initial ischemic stroke severity
+and long-term functional outcomes. Stroke 46(9):2438–2444.
+35. Dick AS, Tremblay P (2012) Beyond the arcuate fasciculus: Consensus and controversy
+in the connectional anatomy of language. Brain 135(Pt 12):3529–3550.
+36. Buchsbaum BR, et al. (2011) Conduction aphasia, sensory-motor integration, and
+phonological short-term memory - an aggregate analysis of lesion and fMRI data.
+Brain Lang 119(3):119–128.
+37. Hickok G, Okada K, Serences JT (2009) Area Spt in the human planum temporale supports sensory-motor integration for speech processing. J Neurophysiol 101(5):2725–2732.
+38. Cloutman L, et al. (2009) Where (in the brain) do semantic errors come from? Cortex
+45(5):641–649.
+39. Hillis AE, et al. (2006) Restoring cerebral blood flow reveals neural regions critical for
+naming. J Neurosci 26(31):8069–8073.
+40. Yourganov G, Fridriksson J, Rorden C, Gleichgerrcht E, Bonilha L (2016) Multivariate
+connectome-based symptom mapping in post-stroke patients: Networks supporting
+language and speech. J Neurosci 36(25):6668–6679.
+41. Kertesz A (2007) Western Aphasia Battery-Revised (Pearson, San Antonio).
+42. Dabul BL (2000) Apraxia Battery for SduAts (Pro-Ed, Dallas).
+43. Kaplan E, Goodglass H, Weintraub S (1983) The Boston Naming Test (Lea & Febiger,
+Philadelphia), 2nd Ed.
+44. Cho-Reyes S, Thompson CK (2012) Verb and sentence production and comprehension
+in aphasia: Northwestern Assessment of Verbs and Sentences (NAVS). Aphasiology
+26(10):1250–1277.
+45. Strand EA, Duffy JR, Clark HM, Josephs K (2014) The Apraxia of Speech Rating Scale: A
+tool for diagnosis and description of apraxia of speech. J Commun Disord 51:43–50.
+46. Roach A, Schwartz MF, Martin N, Grewal RS, Brecher A (1996) The Philadelphia
+naming test: Scoring and rationale. Clinical Aphasiology 24:121–134.
+47. Magnusdottir S, et al. (2013) Damage to left anterior temporal cortex predicts impairment of complex syntactic processing: A lesion-symptom mapping study. Hum
+Brain Mapp 34(10):2715–2723.
+48. Darley FL, Aronson AE, Brown JR (1975) Motor Speech Disorders (Saunders, Philadelphia).
+49. Fridriksson J, et al. (2012) Speech entrainment enables patients with Broca’s aphasia
+to produce fluent speech. Brain 135(Pt 12):3815–3829.
+50. Snodgrass JG, Vanderwart M (1980) A standardized set of 260 pictures: Norms for
+name agreement, image agreement, familiarity, and visual complexity. J Exp Psychol
+Hum Learn 6(2):174–215.
+51. Li X, Morgan PS, Ashburner J, Smith J, Rorden C (2016) The first step for neuroimaging
+data analysis: DICOM to NIfTI conversion. J Neurosci Methods 264:47–56.
+52. Rorden C, Bonilha L, Fridriksson J, Bender B, Karnath HO (2012) Age-specific CT and
+MRI templates for spatial normalization. Neuroimage 61(4):957–965.
+53. Nachev P, Coulthard E, Jäger HR, Kennard C, Husain M (2008) Enantiomorphic normalization of focally lesioned brains. Neuroimage 39(3):1215–1226.
+54. Ashburner J, Friston KJ (2005) Unified segmentation. Neuroimage 26(3):839–851.
+55. Fridriksson J, Basilakos A, Hickok G, Bonilha L, Rorden C (2015) Speech entrainment
+compensates for Broca’s area damage. Cortex 69:68–75.
+Fridriksson et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15113
+NEUROSCIENCE PSYCHOLOGICAL AND
+COGNITIVE SCIENCES

@@ -1,0 +1,72 @@
+Timing of the brain events underlying access to
+consciousness during the attentional blink
+Claire Sergent1, Sylvain Baillet2 & Stanislas Dehaene1
+In the phenomenon of attentional blink, identical visual stimuli are sometimes fully perceived and sometimes not detected at all.
+This phenomenon thus provides an optimal situation to study the fate of stimuli not consciously perceived and the differences
+between conscious and nonconscious processing. We correlated behavioral visibility ratings and recordings of event-related
+potentials to study the temporal dynamics of access to consciousness. Intact early potentials (P1 and N1) were evoked by unseen
+words, suggesting that these brain events are not the primary correlates of conscious perception. However, we observed a rapid
+divergence around 270 ms, after which several brain events were evoked solely by seen words. Thus, we suggest that the
+transition toward access to consciousness relates to the optional triggering of a late wave of activation that spreads through a
+distributed network of cortical association areas.
+A central question in the study of conscious perception relates to
+the neural basis of conscious access: what are the neural processes
+that allow stimulus information to become available for explicit
+report? Imaging studies have shown that conscious access is accompanied both by increased activity in perceptual areas1–5 and by the
+specific involvement of a largely distributed frontoparietal network
+with increased functional connectivity1,6–8. Which of those observed
+effects corresponds to the primary correlates of conscious access?
+According to some authors, the difference between conscious and
+nonconscious processing primarily resides in different levels of activation in early stimulus-specific areas4,9. Others, however, emphasize that
+these early events can also be observed under nonconscious conditions1,6 and therefore suggest that the critical correlate of conscious
+access is a late, optional triggering of a ‘second stage’ of processing
+involving a distributed frontoparietal network10–12.
+To disentangle theories predicting an early, gradual correlate of
+conscious access and theories predicting late divergences, we took
+advantage of the temporal resolution afforded by event-related potentials (ERP) in an attentional blink experiment13,14. In this procedure,
+two masked visual targets are presented successively. For short stimulus
+onset asynchrony (SOA) between both targets (200 to 500 ms),
+identification of the first target (T1) hinders the detection of the
+second target (T2), although T2 is easily seen when no task on T1 is
+required. The attentional blink provides an ideal situation in which
+identical stimuli lead to different conscious reports. Indeed, in previous
+experiments in which we asked participants to rate the visibility of a
+target word (T2) on a continuous scale, we showed that during the
+attentional blink, T2 was sometimes fully perceived but sometimes not
+detected at all15. In the present ERP study, we searched for the neural
+events underlying this bimodal distribution of conscious reports.
+Previous ERP studies of the attentional blink16–18 examined only
+specific ERP components and their preservation or elimination during
+the attentional blink. By contrast, here we were able to examine the
+complete temporal sequence of brain events leading to conscious
+access. We achieved this by comparing trials in which the target word
+T2 was present (whether it was seen or unseen) with trials in which it
+was absent and replaced by a blank screen.
+RESULTS
+Bimodal distribution of conscious reports
+We used a short (258 ms) and a long (688 ms) SOA between T1 and T2.
+We used two task conditions: single task (subjects were asked to
+respond to T2 only) and dual task (subjects were asked to respond to
+both T2 and T1; see Fig. 1 for summary of attentional blink procedure).
+T2 was a number word and could be either present or absent; in the
+latter case, the word was simply replaced by a blank screen. The task on
+T2, performed shortly after T2 was presented, was to rate its visibility
+on a continuous scale (see Methods).
+Mean subjective visibility on the scale showed a classical attentional
+blink pattern (Fig. 1): when T2 was present, mean visibility dropped
+markedly at short T1–T2 SOA only when participants had to perform a
+task on T1 (task by SOA interaction: F1,15 ¼ 62.5; P o 0.0001). When
+T2 was absent, responses on the scale were all grouped towards the
+lowest visibility degree in all conditions. When T2 was present in the
+single-task condition, responses were all grouped towards high-visibility degrees. However, during the attentional blink (dual task, short
+SOA), a very different, bimodal pattern was observed: on some trials,
+participants gave high visibility ratings, close to those obtained outside
+the attentional blink, whereas on the others, they used the lowest
+visibility ratings (24.8% of the responses at 0% visibility; Fig. 1). We
+Received 24 June; accepted 24 August; published online 11 September 2005; doi:10.1038/nn1549
+1Institut National de la Sante´ et de la Recherche Me´dicale Unite´ 562, Cognitive Neuroimaging, Service Hospitalier Fre´de´ric Joliot, Commissariat a` l’Energie Atomique,
+4, place du Ge´ne´ral Leclerc, 91401 Orsay Cedex, France. 2Cognitive Neuroscience and Brain Imaging Laboratory, Centre National de la Recherche Scientifique UPR 640-
+LENA, Hoˆpital de la Salpeˆtrie`re, 47, boulevard de l’Hoˆpital 75651 Paris Cedex 13, France. Correspondence should be addressed to C.S. (sergent@shfj.cea.fr).
+NATURE NEUROSCIENCE VOLUME 8 [ NUMBER 10 [ OCTOBER 2005 1391
+ARTICLES
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience

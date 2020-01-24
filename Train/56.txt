@@ -1,0 +1,626 @@
+Unexpected central role of the androgen receptor in
+the spontaneous regeneration of myelin
+Bartosz Bieleckia,b, Claudia Matternc
+, Abdel M. Ghoumaria
+, Sumaira Javaida,d, Kaja Smietankaa,b, Charly Abi Ghanema
+,
+Sakina Mhaouty-Kodjae
+, M. Said Ghandourf,g, Etienne-Emile Baulieua,1, Robin J. M. Franklinh,i,
+Michael Schumachera,1,2, and Elisabeth Traifforta,2
+a
+U1195 INSERM, University Paris-Sud, University Paris-Saclay, Kremlin-Bicêtre 94276, France; b
+Department of Neurology and Stroke, Medical University of
+Lodz, Lodz 90-549, Poland; c
+Mattern Foundation, Vaduz 9490, Liechtenstein; d
+Hussain Ebrahim Jamal Research Institute of Chemistry, International Center
+for Chemical and Biological Sciences, University of Karachi, Karachi 75270, Pakistan; e
+U1130 INSERM, UMR 8246 CNRS, University Pierre and Marie Curie,
+Paris 75005, France; f
+UMR 7357 CNRS, University of Strasbourg, Strasbourg 67000, France; g
+Department of Anatomy and Neurobiology, Virginia
+Commonwealth University, Richmond 23284, VA; h
+Wellcome Trust-Medical Research Council Cambridge Stem Cell Institute, University of Cambridge,
+Cambridge CB2 0AH, United Kingdom; and i
+Department of Clinical Neurosciences, University of Cambridge, Cambridge CB2 0AH, United Kingdom
+Contributed by Etienne-Emile Baulieu, September 9, 2016 (sent for review June 23, 2016; reviewed by Pamela E. Knapp and Bruce S. McEwen)
+Lost myelin can be replaced after injury or during demyelinating
+diseases in a regenerative process called remyelination. In the central
+nervous system (CNS), the myelin sheaths, which protect axons and
+allow the fast propagation of electrical impulses, are produced by
+oligodendrocytes. The abundance and widespread distribution of
+oligodendrocyte progenitors (OPs) within the adult CNS account for
+this remarkable regenerative potential. Here, we report a key role for
+the male gonad, testosterone, and androgen receptor (AR) in CNS
+remyelination. After lysolecithin-induced demyelination of the male
+mouse ventral spinal cord white matter, the recruitment of glial
+fibrillary acidic protein-expressing astrocytes was compromised in the
+absence of testes and testosterone signaling via AR. Concomitantly, the
+differentiation of OPs into oligodendrocytes forming myelin basic
+protein (MBP)+ and proteolipid protein-positive myelin was impaired.
+Instead, in the absence of astrocytes, axons were remyelinated by protein zero (P0)+ and peripheral myelin protein 22-kDa (PMP22)+ myelin,
+normally only produced by Schwann cells in the peripheral nervous
+system. Thus, testosterone favors astrocyte recruitment and spontaneous oligodendrocyte-mediated remyelination. This finding may have
+important implications for demyelinating diseases, psychiatric disorders, and cognitive aging. The testosterone dependency of CNS oligodendrocyte remyelination may have roots in the evolutionary history
+of the AR, because the receptor has evolved from an ancestral 3-ketosteroid receptor through gene duplication at the time when myelin
+appeared in jawed vertebrates.
+myelin | oligodendrocytes | Schwann cells | testosterone |
+androgen receptor
+The remyelination of axons is a complex process, involving
+interactions between different types of neural cells. It shows a
+peculiarity that has been observed in both experimental models
+and demyelinating diseases such as multiple sclerosis (MS) (1).
+Although most of the remyelination is normally accomplished
+by oligodendrocytes derived from oligodendrocyte progenitors
+(OPs), a variable proportion of central nervous system (CNS) axons
+can be remyelinated by cells with the immunophenotypic and ultrastructural characteristics of Schwann cells, the presence of which
+is normally limited to the peripheral nervous system (PNS). These
+cells indeed express protein zero (P0), a sensitive and specific
+marker of Schwann cells (2). Moreover, analysis by electron microscopy demonstrated that they have the typical morphology of
+myelinating Schwann cells (1–4). These ultrastructural findings indicate that the expression of P0 by part of the remyelinating cells is
+not merely ectopic, but that these cells may correspond to authentic
+Schwann cells. This observation was further supported by their
+expression of Schwann cell-specific transcription factors (5).
+Importantly, there is strong evidence that large numbers of the
+Schwann cells present in demyelinating CNS lesions are derived
+from OPs. The first evidence came from the transplantation of
+purified OPs into demyelinating CNS lesions, in which endogenous
+remyelination was prevented by X-irradiation (4, 6, 7). Unequivocal
+confirmation that most Schwann cells contributing to CNS remyelination are indeed derived from OPs has been provided by genetic
+fate-mapping in transgenic mice (5). This plasticity of OPs with a
+neuroepithelial origin may come as a surprise, because Schwann cells
+normally arise from the neural crest, and this problem still presents
+a matter of controversy. However, under the influence of specific
+morphogenetic factors, neuroepithelial cells can differentiate into
+neural crest stem cells and give rise to neural cell types of both CNS
+and PNS (4, 8).
+Astrocytes play an important role in determining the balance between oligodendrocyte and Schwann cell remyelination in the CNS.
+Thus, within a demyelinated lesion, oligodendrocyte remyelination
+occurs in regions where astrocytes are present, whereas Schwann cell
+remyelination preferentially occurs in the absence of astrocytes (7, 9,
+10). Moreover, reducing astrocyte activation by a conditional genetic
+deletion promoted Schwann cell remyelination (1).
+Like other members of the steroid receptor family, the androgen receptor (AR) functions as a ligand-activated transcription
+factor and also directly interacts with components of extranuclear
+signaling pathways (11, 12). Here, by investigating the role of AR
+signaling in the spontaneous regeneration of myelin within the
+adult CNS, we show that the recruitment of glial fibrillary acidic
+Significance
+Myelin allows the rapid conduction of electrical signals and provides
+axons with metabolic support. It appeared relatively late in evolution in hinge-jawed vertebrates and concomitantly with the emergence of the androgen receptor (AR), hinting at a specific role for
+androgens in myelination. Here, we show that after demyelination
+of the central nervous system (CNS), the male gonad, testosterone,
+and AR favor astrocyte recruitment and myelin regeneration by
+oligodendrocytes. In their absence, astrocytes remain sparse and
+peripheral-type remyelination, classically associated with Schwann
+cells, is predominantly detected. These findings reveal a novel
+role of androgen signaling in CNS myelin formation and glial
+cell communication, with possible implications for demyelinating,
+psychiatric, and age-related disorders.
+Author contributions: B.B., M.S., and E.T. designed research; B.B., A.M.G., S.J., K.S., and C.A.G.
+performed research; B.B., C.M., S.M.-K., M.S.G., E.-E.B., and R.J.M.F. analyzed data; and B.B.,
+E.-E.B., R.J.M.F., M.S., and E.T. wrote the paper.
+Reviewers: P.E.K., Virginia Commonwealth University; and B.S.M., The Rockefeller
+University.
+The authors declare no conflict of interest.
+1
+To whom correspondence may be addressed. Email: etienne.baulieu@inserm.fr or
+michael.schumacher@inserm.fr.
+2
+M.S. and E.T. contributed equally to this work.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1614826113/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1614826113 PNAS | December 20, 2016 | vol. 113 | no. 51 | 14829–14834
+NEUROSCIENCE
+protein (GFAP)+ astrocytes into a demyelinated area of the
+ventral funiculus of male mice is compromised in the absence of
+testes, testosterone, or AR. Consistent with a key role of astrocytes
+in CNS remyelination, in their absence, the newly formed myelin
+was P0+ and peripheral myelin protein 22-kDa (PMP22)+, most
+likely reflecting Schwann cell remyelination.
+Results
+The Role of Testes and Testosterone in the Recruitment of Astrocytes
+and Spontaneous Remyelination. We used an experimental model in
+which acute demyelination is followed by spontaneous remyelination. Axons of the right ventrolateral white matter tract of the
+adult male mouse spinal cord (ventral funiculus) were locally
+demyelinated by stereotaxic microinjection of the demyelinating
+toxin lysolecithin. Within 3 d, the injected area was depleted of
+astrocytes, oligodendrocytes, and myelin basic protein (MBP), a
+major component and established marker of CNS myelin (13).
+In gonadally intact males, the area of demyelination was rapidly
+replenished by GFAP+ astrocytes (Fig. 1A, Left). Concomitantly,
+axons were remyelinated by MBP+ CNS myelin (Fig. 1A, Right).
+However, after surgical castration, the recruitment of astrocytes was
+severely impaired (Fig. 1B, Left) and axons were preferentially
+remyelinated by P0+ PNS-like myelin (Fig. 1B, Right). P0 immunostaining appeared sparse, consistent with previous results showing
+that Schwann cell-remyelinated areas contain more demyelinated
+axons than oligodendrocyte-remyelinated ones (1). Similar results
+were obtained when tissue sections were analyzed with PMP22
+antibody, another specific marker of peripheral myelin (14).
+Immunostaining of MBP remained very sparse within the lesion and
+perfectly matched immunostaining of proteolipid protein (PLP),
+another major CNS myelin protein (Fig. S1). Despite the presence
+of low levels of MBP isoforms in peripheral myelin (14), these
+isoforms are likely not detected because the monoclonal anti-MBP
+antibodies used in the present study only weakly stain PNS myelin.
+We then showed that testosterone was the testicular factor necessary for the recruitment of astrocytes and the remyelination of
+axons by oligodendrocytes. When castrated males received an s.c.
+Silastic implant filled with testosterone for 4 wk, GFAP+ astrocytes
+and MBP immunostaining were fully restored within the lesion area
+(Fig. 1C), as in uncastrated males (Fig. 1A). The implant produced
+physiological plasma and brain levels of testosterone (10–15 nM) as
+determined by gas chromatography/mass spectrometry (15).
+The role of testosterone treatment in the concomitant replenishment of astrocytes and CNS remyelination is also illustrated in Fig. S2. Although axons were not counted, the staining
+of large-caliber axons on the sagittal spinal cord sections with an
+antibody against neurofilament 200 kDa revealed neither a
+substantial loss of axons after lysolecithin-induced demyelination
+nor a marked increase in axonal density by testosterone treatment (Fig. S3). These observations point to a crucial role of the
+male gonads and testosterone in the recruitment of astrocytes
+and in the balance between CNS- and PNS-like remyelination.
+The AR Is Required for the Recruitment of Astrocytes and the
+Spontaneous Regeneration of CNS Myelin. In the CNS, testosterone
+exerts its effects either after binding to intracellular AR or via its
+metabolites: estradiol, 3α-androstanediol, and 3β-androstanediol
+(Fig. S4). Testosterone signaling via its conversion to estradiol may
+correspond to a phylogenetically ancient mechanism, because the
+ancestral intracellular steroid receptor was a receptor for estrogens (16). In addition, signaling of steroid metabolites via membrane proteins may have been an early evolutionary feature (17).
+This possibility led us to investigate whether the testosteronedependent recruitment of astrocytes and spontaneous regeneration
+of MBP+ myelin involved AR. We first used ARTfm mice, which
+display a frameshift mutation in exon 1 of the AR gene, producing
+a nonfunctional receptor (18). Despite testosterone supplementation
+during 4 wk, the area of demyelination remained largely depleted of
+astrocytes (Fig. 1D, Left) in ARTfm mice, and axons were mainly
+remyelinated by P0+ (Fig. 1D, Right) and PMP22+ myelin.
+We then tested whether AR expression within the CNS is
+necessary for the stimulation of remyelination by testosterone.
+Transgenic ARNesCre mice, displaying selective ablation of the AR
+in neurons, astrocytes, and oligodendrocytes, but with microglial
+cells being spared (19), were castrated and received a testosteronefilled s.c. Silastic implant during 4 wk following lysolecithin-induced
+demyelination. As in ARTfm mice and in contrast to uncastrated
+wild-type animals, testosterone therapy failed to restore astrocytes and MBP-immunoreactive myelin within the lesion. Instead,
+PNS-type P0+ remyelination prevailed (Fig. 1E). Thus, testosterone
+signaling via AR stimulates the recovery of astrocytes and shifts the
+balance toward the regeneration of CNS myelin.
+Testosterone Increased the Number of GFAP+ Astrocytes at the Border
+of the Demyelinated Area and in Glial Cell Culture. In the vicinity of a
+demyelinating lesion, new astrocytes are mainly generated from
+preexisting ones expressing the fibroblast growth factor receptor 3
+(5). Therefore, we investigated the effects of testosterone on the
+Fig. 1. Testes, testosterone, and AR are required for the recruitment of astrocytes into a demyelinating lesion, thus determining the balance of central versus
+peripheral types of remyelination. (A–E, Left) Visualization of astrocytes stained
+with an antibody to GFAP (red). (A–E, Right) Immunohistochemical staining of
+MBP+ CNS myelin (red) and P0+ PNS myelin (green) 4 wk after lysolecithininduced demyelination. Cell nuclei were blue-counterstained with DAPI. Dotted
+lines delineate the boundary between the ventral white matter (VWM) and top
+gray matter. (A) Recruitment of astrocytes and recovery of MBP+ CNS myelin in
+the lesion area of gonadally intact males. Wt, wild type. (Scale bars: 100 μm.) (B)
+After testes removal and treatment with an empty implant (+ V), astrocytes
+remained sparse within the remyelinated area and remyelination was mediated
+by Schwann cells (P0+ myelin). (C) Recruitment of GFAP+ astrocytes and regeneration of MBP+ myelin in castrated males treated with testosterone (+ T).
+(D and E) Despite testosterone treatment, astrocytes were almost absent within
+the remyelinated area in ARTfm or ARNesCre mice, and axons were remyelinated
+by Schwann cells. The thin arrows show the areas depleted in GFAP+ labeling
+and the thick arrows point out the areas displaying a limited expression of P0.
+(F, Left) Mean area of GFAP immunolabeling (±SEM) (F5,28 = 5.67, P ≤ 0.001).
+(F, Right) Mean area of P0 immunolabeling (±SEM) (F5,46 = 3.78, P ≤ 0.01). Letters
+on top of columns indicate least significant differences (LSDs) [P ≤ 0.001 (Left),
+P ≤ 0.01 (Right), post hoc LSD tests; n = 5–6].
+14830 | www.pnas.org/cgi/doi/10.1073/pnas.1614826113 Bielecki et al.
+rapid astrocytic response after lysolecithin administration. At the
+top border of the lysolecithin-demyelinated area, the GFAPimmunoreactive surface was slightly increased in castrated males
+as early as 4 d after lysolecithin injection. However, the extent of
+GFAP labeling was markedly enhanced following testosterone treatment (Fig. 2 A and B). At 14 d after lysolecithin, the
+demyelinated lesion was nearly entirely occupied by GFAP+ astrocytes, whereas the remyelination by oligodendrocytes was still
+incomplete (1), indicating that astrocyte proliferation and recruitment precede the formation of new MBP+ myelin.
+In mixed cultures of glial cells prepared from postnatal day 1–3
+male mice, the number of reactive GFAP+ astrocytes was significantly increased 72 h after a 12-h exposure to lysolecithin. When
+the culture medium was supplemented with testosterone (1 μM)
+for 72 h after lysolecithin removal, a further increase in GFAP
+immunostaining was observed (Fig. 2 C and D). Thus, testosterone
+increased the astrocytic response both in vivo at the border of
+the lesion and under in vitro conditions in mixed cultures of glial cells.
+The Regeneration of MBP-Immunoreactive Myelin Is Accompanied by
+the Recovery of Mature Oligodendrocytes. We confirmed that the
+spontaneous regeneration of MBP-immunoreactive CNS myelin 4
+wk after lysolecithin-induced demyelination was also dependent
+on the presence of testes, testosterone, and the AR. Indeed, in
+castrated males and in the absence of a functional AR (ARTfm and
+ARNesCre mice), the recovery of MBP+ myelin was markedly impaired (Fig. 3). Importantly, the regeneration of MBP+ myelin was
+always accompanied by full replenishment of the demyelinated
+lesion by oligodendrocytes expressing carbonic anhydrase II (CA
+II). In contrast, few CA II+ oligodendrocytes were observed after
+castration or in the absence of AR (Fig. 3). Thus, testosteronedependent CNS remyelination goes together with the parallel
+recruitment of both oligodendrocytes and astrocytes.
+In the Presence of Astrocytes, Testosterone Increases the Proliferation
+and Differentiation of OPs. Following oligodendrocyte loss, CNS
+remyelination requires the recruitment of OPs and their differentiation into mature oligodendrocytes (20). To provide further
+insight into the mechanisms by which testosterone promotes CNS
+myelin regeneration in the presence of astrocytes, we first investigated its effect on neonatal OPs in mixed primary glial cell
+cultures prepared from the brains of postnatal day 1–3 transgenic
+male mice selectively expressing the enhanced green fluorescent
+protein (EGFP) in the oligodendrocyte lineage under the control
+of the mouse Plp gene promoter (Plp-EGFP mice) (21). Confluent
+cultures, composed of OPs and oligodendrocytes (green fluorescent) and astrocytes, were exposed for 12 h to lysolecithin damage
+and were then treated with vehicle or testosterone. Three days
+Fig. 2. Testosterone increases the reactivity and number of astrocytes in vivo
+and in mixed cultures of glial cells. (A, Top) Immunohistochemical staining of
+reactive GFAP+ astrocytes (green) and MBP+ myelin (red) in the ventrolateral
+part of the unlesioned male mouse spinal cord [control (CTRL)]. Cell nuclei
+were blue-counterstained with DAPI. (Scale bar: 50 μm.) (A, Middle and Bottom) GFAP+ astrocytes and MBP+ myelin at the top border of the demyelinated area (dotted line) in castrated male mice that received lysolecithin
+injection and were treated for 4 d with an empty (+ V) or testosterone filled
+(+ T) s.c. Silastic implant. (B) Mean area covered by GFAP+ astrocytes (±SEM)
+(F2,21 = 14.19, P ≤ 0.001). Letters on top of columns indicate LSDs (P ≤ 0.05, post
+hoc LSD tests; n = 5–6). (C, Top) Immunohistochemical staining of GFAP+ astrocytes (red) in CTRL mixed cultures of glial cells. (C, Middle) Exposing the cultures
+for 12 h to lysolecithin and treating them for 3 d with vehicle (+ V) increased the
+density of astrocytes (details are provided in legend of Fig. S5). (C, Bottom)
+Further increase in the density of astrocytes was observed when cultures were
+treated for 3 d with testosterone (+ T; 1 μM). (D) Mean area covered by GFAP+
+astrocytes (±SEM) (F2,43 = 21.3, P < 0.001). Letters on top of columns indicate
+LSDs [P ≤ 0.05 (Left), post hoc LSD tests; n = 3–4]. LPC, lysolecithin.
+Fig. 3. Testes, testosterone, and AR are required for the spontaneous regeneration of CNS myelin by oligodendrocytes. (A–F, Left) MBP-immunoreactive
+CNS myelin (green) in sagittal sections at 4 wk after lysolecithin microinjection
+into the right ventrolateral white matter tract of the spinal cord. Cell nuclei were
+counterstained with DAPI. (A–F, Right) Immunohistochemical staining of CA II+
+oligodendrocytes (red). (A) Recovery of MBP and mature oligodendrocytes in
+gonadally intact Wt mice. Dotted lines delineate the boundary between the
+ventral white matter (VWM) and the top gray matter. (Scale bars: 100 μm.)
+(B) Absence of recovery of MBP and oligodendrocytes after the removal of testes
+and treatment with an empty s.c. implant (+ V). Castration was performed at the
+age of 4–6 wk, 4 wk before lysolecithin-induced demyelination. (C) Regeneration
+of MBP-immunoreactive myelin and replenishment of oligodendrocytes in castrated males treated with a testosterone-filled implant (+ T). In ARTfm mice with
+a nonfunctional AR (D) or in ARNesCre mice with CNS-selective ablation of AR (E),
+testosterone failed to stimulate CNS remyelination and the replenishment of
+oligodendrocytes. (F, Left) Mean area devoid of MBP immunostaining (F5,30 =
+44.8, P ≤ 0.001). Letters on top of columns indicate LSDs [P ≤ 0.01 (Left), P ≤ 0.05
+(Right), post hoc LSD tests; n = 5–6]. (F, Right) Mean number of CA II+ oligodendrocytes (±SEM) within the area of demyelination (F5,34 = 9.2, P ≤ 0.001).
+Bielecki et al. PNAS | December 20, 2016 | vol. 113 | no. 51 | 14831
+NEUROSCIENCE
+later, cells were fixed and immunostained with an antibody against
+the chondroitin sulfate proteoglycan [neural/glial antigen 2 (NG2)],
+a proven marker of OPs (Fig. S5 A–D).
+The number of EGFP+ cells was reduced by half after exposure
+to lysolecithin and remained low in the absence of testosterone.
+Culture medium supplementation with testosterone (1 μM) significantly increased the number of both EGFP+ and NG2+ cells,
+which exhibited a differentiated branched morphology (Fig. S5
+A–D). Thus, adding testosterone to mixed glial cell cultures increases proliferation and differentiation of neonatal OPs.
+Compared with their neonatal counterparts, adult OPs are more
+quiescent and show other distinct features (22, 23). We thus also
+examined the impact of testosterone on the oligodendrocyte lineage transcription factor 2 (Olig2)-expressing cells in adult castrated
+male mice. This transcription factor is confined to the CNS and is
+critically involved in OP differentiation (24). Four weeks after injection of lysolecithin into the myelinated ventrolateral white
+matter of the castrated male spinal cord, Olig2+ cells were significantly more abundant in males receiving a testosterone-filled Silastic implant compared with males receiving an empty implant
+(Fig. S5E). Testosterone replacement indeed significantly increased
+the number of Olig2+ cells, which even reached a higher density
+compared with unlesioned control animals. Moreover, double
+immunolabeling with proliferating cell nuclear antigen showed
+that testosterone stimulated OP proliferation.
+Discussion
+Our data establish the importance of the male gonad, testosterone, and AR in the efficient recruitment of astrocytes into a
+demyelinated lesion, with implications for the balance of oligodendrocyte versus peripheral-type remyelination. In gonadally
+intact male mice or in castrated animals treated with testosterone, the area of lysolecithin-induced demyelination was replenished with astrocytes after 4 wk. Consequently, axons were
+mainly remyelinated by oligodendrocytes. On the contrary, in the
+absence of testosterone or a functional AR, astrocytes remained
+sparse and P0+ myelin was preferentially detected within the lesion. This observation is consistent with previous studies showing
+that Schwann cell remyelination occurs in areas of the CNS where
+astrocytes are absent (9, 10).
+Testosterone treatment has recently been shown to stimulate
+the regeneration of myelin in a mouse model of severe chronic
+demyelination, where no spontaneous remyelination was observed. Moreover, the strong remyelinating effect of testosterone
+was AR-dependent (15). These findings already qualified the
+brain AR as a promising drug target for remyelination therapy.
+Nevertheless, it came as a surprise in the present study that
+spontaneous remyelination by oligodendrocytes was markedly
+inhibited in the absence of testes, testosterone, or AR.
+Encoded by a single gene, AR only arose lately in jawed vertebrates, after the cyclostome-gnathosmome divergence (25, 26). This
+occurrence has allowed androgens to acquire new signaling functions related to reproduction and sexual differentiation (27, 28). In
+parallel, testosterone and its metabolite 5α-dihydrotestosterone,
+both ligands of the AR, may also have acquired new functions in the
+CNS, as suggested by the widespread distribution of AR within the
+brain and spinal cord (29, 30).
+Intriguingly, the evolutionary acquisition of AR was concomitant with the advent of the myelin sheath, constituting one of the
+most recent structural innovations of the vertebrate nervous
+system (Fig. 4). Like the AR, myelin first appeared in vertebrates
+with a hinged jaw, most likely in placoderms, facilitating predatory and escape behaviors and improving information processing
+by increasing the conduction speed of axons (31). Both myelin
+and AR are present in extant cartilaginous fishes (sharks, rays),
+but absent in jawless fishes (hagfishes and lampreys) (28, 32).
+The parallel evolution of AR and myelin, together with the widespread distribution of AR in the CNS, suggests that androgen
+signaling may have become involved in the regulation of myelin
+formation and may play a role in the regenerative capacity of myelin,
+which is preserved in the adult CNS.
+The recruitment of astrocytes is likely to play a key role in the
+remyelinating effect of testosterone because their presence was associated with oligodendrocyte remyelination, whereas P0+
+/PMP22+
+peripheral-type remyelination was observed in their absence. How
+astrocytes participate in the remyelinating actions of testosterone
+remains to be clarified. Unfortunately, the quality of presently available AR antibodies did not allow us to study the cellular distribution
+of the receptor by dual labeling. In previous studies, AR immunoreactivity has been mainly localized to neurons and reactive microglia
+and to subpopulations of astrocytes and oligodendrocytes (30, 33). In
+our conditional ARNesCre mice, the AR was selectively inactivated in
+neurons, astrocytes, and oligodendrocytes, whereas microglial cells
+were spared (19). Thus, the effect of testosterone observed here does
+not involve microglial AR. We used the Nestin-Cre mouse strain for
+two major reasons. First, the high efficiency of the Cre-mediated
+recombination, which is well characterized for this strain, results in
+almost complete ablation of the floxed genes in neurons and
+macroglial cells (15, 19, 34). Then, this choice allowed us to analyze
+the role of testosterone without any preconceived idea about its
+neural targets. Nevertheless, cell-specific conditional AR knockout
+will be needed to identify the direct target cells of androgens. It is
+conceivable that an androgen-dependent neuronal signal may
+AR PR GR MR
+Ancestral Estrogen receptor
+(Anc ER)
+Anc PR Anc CR Anc ER
+Jawed vertebrates
+(Gnathostomata)
+Myelin
+Jawless fishes
+(Cyclostomata)
+Anc SR Anc ER
+Ancestral
+Chordate
+Genome duplication
+Genome duplication
+Bony fish
+(Osteichthyes)
+Land vertebrates
+Lampreys
+Hagfishes
+Amphioxus
+(Cephalocordata)
+Tunicata
+(Urochordata)
+Cartilaginous fish
+(Chondrichthyes)
+Fig. 4. Coordinated acquisition of a hinged jaw and myelin, and parallel diversification of steroid receptors during vertebrate evolution. The surrounding of
+axons with myelin was a prerequisite for the emergence of predation and escape
+behavior in vertebrates. The evolutionary appearance of myelin indeed parallels
+the acquisition of a hinged jaw (gnathostomata) (31). The oldest contemporary
+vertebrates with myelin are cartilaginous fishes (rays and sharks), whereas myelin
+is absent in jawless fishes (cyclostomata: hagfishes and lampreys) (32). Notably, at
+the time when a hinged jaw and myelin appeared during vertebrate evolution,
+the six nuclear steroid hormone receptors diverged from three ancestral receptors during a second round of whole-genome duplication, namely, the AR,
+progesterone (PR), glucocorticosteroid (GR), mineralocorticosteroid (MR), and the
+two estrogen (ER) receptors (25, 26). In extant cyclostomata, only ancestral
+progesterone (Anc PR), corticoid (Anc CR), and estrogen (Anc ER) receptors are
+present, themselves derived from two ancestral cephalochordata 3-ketosteroid
+(AncSR) and estrogen (Anc ER) receptors (16). Cartilaginous fishes, the earliest
+group of living jawed vertebrates with myelinated axons, contain the most ancient type of AR activated by testosterone (27).
+14832 | www.pnas.org/cgi/doi/10.1073/pnas.1614826113 Bielecki et al.
+attract astrocytes to the demyelinating lesion or, alternatively,
+testosterone may directly act on astrocytes or oligodendrocytes.
+Under the present experimental conditions, the magnitude of the
+effects of castration, testosterone therapy, and AR inactivation on the
+replenishment of astrocytes and on the balance of oligodendrocyteversus peripheral-type remyelination was noticeable. However, after a
+demyelinating lesion induced by the injection of ethidium bromide
+into the caudal cerebellar peduncle of male or female rats, remyelination by oligodendrocytes or Schwann cells was previously reported
+not to be affected by gonadectomy (35). The use of different species
+and different experimental conditions may explain this apparent
+discrepancy. Alternatively, the effect of castration may also have been
+masked by the local synthesis of androgens in the brain. Thus, an
+exercise-dependent increase in androgen biosynthesis within the
+hippocampus has been shown to stimulate neurogenesis (36). Other
+“neurosteroids” synthesized within the CNS, such as progesterone,
+may also positively influence the regeneration of CNS myelin (37,
+38). However, in our system, the effect of AR signaling was very
+robust and AR inactivation was not compensated for by other promyelinating signaling mechanisms.
+The multipotency of OPs and their capacity to differentiate into
+Schwann cells remain amazing (5). How the male gonad-dependent
+recruitment of astrocytes and its influence on the balance of centralversus peripheral-type remyelination affect functional recovery after
+a demyelinating event remains to be explored. Moreover, the
+presence of testes has also been shown to influence the thickness of
+the myelin sheaths, as well as the number and turnover of oligodendrocytes, which therefore differs between sexes (39).
+Neuroprotective and immunosuppressive actions of testosterone
+have previously been documented in experimental autoimmune
+encephalomyelitis, a widely used animal model of MS (40). These
+studies have provided the support for a small clinical pilot study,
+suggesting that prolonged testosterone therapy of men with MS may
+have neuroprotective and antiinflammatory effects and also improve cognitive performance (41). The present study may also gain
+significance from clinical observations showing that (i) the incidence
+of MS and the relapse rate throughout the disease are lower in men
+(42); (ii) low testosterone levels are associated with an increased
+risk of developing MS (43); (iii) levels of testosterone are decreased
+in men with MS, and reduced levels of testosterone have been associated with disability (44, 45); and (iv) men reach disability
+milestones more rapidly than women (46).
+Testosterone levels progressively decrease with age, but the
+hormonal decline occurs more rapidly in as many as 20% of
+aging men (47). Whether age-dependent changes in testosterone
+are a contributing factor to age-related white matter abnormalities (48) or the reduced regenerative capacity of myelin (49)
+remains to be explored. Importantly, the influence of androgens
+on the plasticity and regeneration of myelin may not only have
+consequences for demyelinating diseases, because recent studies
+have linked myelin abnormalities to a wide range of psychiatric
+disorders and cognitive aging (50, 51).
+Materials and Methods
+Mice. Wild-type gonadally intact or castrated C57/Bl6 male mice were purchased at the age of 8–12 wk from Janvier Breeding Center. ARNesCre male
+mice were obtained by crossing floxed AR mice (ARfl/Y) (52) with transgenic
+mice expressing the Cre recombinase driven by the promoter and the CNSspecific enhancer of rat nestin (Nes), which is selectively active in neuronal
+and glial precursor cells (34). Both strains were on a C57/BL6 background.
+The ARNesCre mice have been extensively characterized (19) and were castrated at 2–3 mo of age under ketamine/xylazine anesthesia. ARTfm mice
+were obtained from René Habert (French Atomic Energy Commission,
+Fontenay-aux-Roses, France) (18). For in vitro experiments, Plp-EGFP mice
+were obtained from Wendy Macklin (University of Colorado, Aurora, CO)
+(21). All animals were housed in standard conditions: a 12-h light/dark
+cycle with food and water ad libitum. All procedures were performed
+according to the European Communities Council Directive (86/806/EEC)
+for the care and use of laboratory animals and were approved by the
+Regional Ethics Committee CEEA26, Ministère de l’Education Nationale,
+de l’Enseignement Supérieur et de la Recherche. .
+Surgical Procedures. Lysolecithin (Sigma–Aldrich) was microinjected into the
+right ventral funiculus of the male mouse spinal cord under ketamine/xylazine
+anesthesia. After shaving the skin at thoracic level T5, a midline incision was
+made caudally to show thoracolumbar fascia and musculature. Two incisions
+were performed on the fascia and external edges of dorsal muscles on both sides
+of the vertebral column that allowed immobilization of the vertebral column on
+the stereotaxic device (Kopf Instrument). The space between T12 and T13 was
+identified and carefully dissected until the spinal cord was exposed. The central
+vein was localized, and the dura mater was carefully pierced using a 32-gauge
+dental needle. The injection was performed with a fine-tipped glass capillary,
+elongated until reaching a diameter not exceeding 50 μm (Harvard Apparatus),
+and mounted on a stereotaxic device after connection to a Hamilton syringe
+with a plastic tube. By using an infusion pump, 1 μL of 1% lysolecithin solution
+was unilaterally injected. After suturing the muscles, a Silastic tube, either empty
+(control) or filled with testosterone (Fluka), was s.c. implanted.
+Mixed Glial Cell Cultures. Male Plp-EGFP mouse pups were used between
+postnatal days 0 and 3 (53). Briefly, immediately after decapitation, the brain
+was dissected and placed into Dulbecco’s Modified Eagle Medium (DMEM)
+supplemented with antibiotics. After the removal of meninges, the brain, including the hemispheres, cerebellum, and cerebral trunk, was placed in fresh
+DMEM supplemented with antibiotics and 10% (vol/vol) FBS and then passed
+through a sterile 100-μm nylon mesh. A total of 8 mL of cell suspension was
+transferred to a poly-L-lysine–coated 100-mm Petri dish. The cells were allowed
+to grow in DMEM supplemented with 10% (vol/vol) FBS and antibiotics at
+37 °C in humidified 5% (vol/vol) CO2. The medium was changed after 4 d, and
+twice a week later. Cells were used for experiments after 14 d in culture.
+Before the experimental procedure, cells were transferred to a 24-well plate
+containing sterilized and poly-L-lysine–coated glass coverslips.
+In Vitro Induction of Oligodendrocyte Damage and Hormonal Treatment. Images
+of the mixed glial cell cultures were taken under a fluorescent microscope
+before any treatment and then daily to check viability and morphology of the
+cells. Lysolecithin (0.1 mg/mL for 12 h) was used for inducing cell damage. After
+lysolecithin removal, testosterone (1 μM) or vehicle alone (0.1% ethanol) was
+added to the culture medium. Immunohistochemical analysis was carried out
+after 4% (wt/vol) paraformaldehyde fixation of the cells for 10 min, PBS
+washing, incubation for 1 h in 10% (vol/vol) normal goat serum (Vector), and
+overnight incubation with the primary antibodies at 4 °C.
+Histological procedures, antibodies used, image acquisition, and analysis
+are specified in SI Materials and Methods.
+Statistical Analysis. Statistical analyses were performed using Statistica 12
+software (Statsoft, Inc.). All data were given as arithmetic means ± SEM. For
+the in vivo experiments, each animal group comprised at least five mice. For
+the in vitro experiments, the groups consisted of at least three wells (average values obtained from three fields of vision per well). Comparisons of
+means were done by using one-way ANOVA, followed by a least significant
+difference post hoc test.
+ACKNOWLEDGMENTS. We thank Wendy B. Macklin (University of Colorado)
+for sharing Plp-EGFP mice and René Habert for providing Tfm mice (University
+Paris-Diderot and French Atomic Energy Commission). B.B. was successively
+supported by the European Leukodystrophy Association (ELA) Foundation
+(France) and by the Mattern Foundation. The fellowship of S.J. was funded
+by the Higher Education Commission of Pakistan and the French Embassy in
+Pakistan. This work was supported by grants from the ELA, French Multiple
+Sclerosis Foundation (ARSEP), and UK Multiple Sclerosis Society.
+1. Monteiro de Castro G, Deja NA, Ma D, Zhao C, Franklin RJ (2015) Astrocyte activation
+via Stat3 signaling determines the balance of oligodendrocyte versus Schwann cell
+remyelination. Am J Pathol 185(9):2431–2440.
+2. Keirstead HS, et al. (1999) Polysialylated neural cell adhesion molecule-positive CNS
+precursors generate both oligodendrocytes and Schwann cells to remyelinate the CNS
+after transplantation. J Neurosci 19(17):7529–7536.
+3. Crang AJ, Gilson JM, Li WW, Blakemore WF (2004) The remyelinating potential and
+in vitro differentiation of MOG-expressing oligodendrocyte precursors isolated from
+the adult rat CNS. Eur J Neurosci 20(6):1445–1460.
+4. Talbott JF, et al. (2006) Schwann cell-like differentiation by adult oligodendrocyte precursor cells following engraftment into the demyelinated spinal cord is BMP-dependent.
+Glia 54(3):147–159.
+Bielecki et al. PNAS | December 20, 2016 | vol. 113 | no. 51 | 14833
+NEUROSCIENCE
+5. Zawadzka M, et al. (2010) CNS-resident glial progenitor/stem cells produce Schwann
+cells as well as oligodendrocytes during repair of CNS demyelination. Cell Stem Cell
+6(6):578–590.
+6. Keirstead HS, Morgan SV, Wilby MJ, Fawcett JW (1999) Enhanced axonal regeneration following combined demyelination plus schwann cell transplantation
+therapy in the injured adult spinal cord. Exp Neurol 159(1):225–236.
+7. Blakemore WF, Gilson JM, Crang AJ (2003) The presence of astrocytes in areas of
+demyelination influences remyelination following transplantation of oligodendrocyte progenitors. Exp Neurol 184(2):955–963.
+8. Mujtaba T, Mayer-Proschel M, Rao MS (1998) A common neural progenitor for the
+CNS and PNS. Dev Biol 200(1):1–15.
+9. Woodruff RH, Franklin RJ (1999) Demyelination and remyelination of the caudal
+cerebellar peduncle of adult rats following stereotaxic injections of lysolecithin,
+ethidium bromide, and complement/anti-galactocerebroside: A comparative study.
+Glia 25(3):216–228.
+10. Talbott JF, et al. (2005) Endogenous Nkx2.2+/Olig2+ oligodendrocyte precursor cells
+fail to remyelinate the demyelinated adult rat spinal cord in the absence of astrocytes. Exp Neurol 192(1):11–24.
+11. Matsumoto T, et al. (2013) The androgen receptor in health and disease. Annu Rev
+Physiol 75:201–224.
+12. Levin ER (2015) Extranuclear steroid receptors are essential for steroid hormone actions. Annu Rev Med 66:271–280.
+13. Arnett HA, et al. (2004) bHLH transcription factor Olig1 is required to repair demyelinated lesions in the CNS. Science 306(5704):2111–2115.
+14. Hagedorn L, Suter U, Sommer L (1999) P0 and PMP22 mark a multipotent neural crestderived cell type that displays community effects in response to TGF-beta family
+factors. Development 126(17):3781–3794.
+15. Hussain R, et al. (2013) The neural androgen receptor: A therapeutic target for myelin
+repair in chronic demyelination. Brain 136(Pt 1):132–146.
+16. Thornton JW (2001) Evolution of vertebrate steroid receptors from an ancestral estrogen receptor by ligand exploitation and serial genome expansions. Proc Natl Acad
+Sci USA 98(10):5671–5676.
+17. Pediaditakis I, et al. (2015) Dehydroepiandrosterone: An ancestral ligand of neurotrophin receptors. Endocrinology 156(1):16–23.
+18. Merlet J, Racine C, Moreau E, Moreno SG, Habert R (2007) Male fetal germ cells are
+targets for androgens that physiologically inhibit their proliferation. Proc Natl Acad
+Sci USA 104(9):3615–3620.
+19. Raskin K, et al. (2009) Conditional inactivation of androgen receptor gene in the
+nervous system: Effects on male behavioral and neuroendocrine responses. J Neurosci
+29(14):4461–4470.
+20. Crawford AH, Stockley JH, Tripathi RB, Richardson WD, Franklin RJ (2014) Oligodendrocyte progenitors: Adult stem cells of the central nervous system? Exp Neurol
+260:50–55.
+21. Mallon BS, Shick HE, Kidd GJ, Macklin WB (2002) Proteolipid promoter activity distinguishes two populations of NG2-positive cells throughout neonatal cortical development. J Neurosci 22(3):876–885.
+22. Shi J, Marinovich A, Barres BA (1998) Purification and characterization of adult oligodendrocyte precursor cells from the rat optic nerve. J Neurosci 18(12):4627–4636.
+23. Psachoulia K, Jamen F, Young KM, Richardson WD (2009) Cell cycle dynamics of NG2
+cells in the postnatal and ageing brain. Neuron Glia Biol 5(3-4):57–67.
+24. Fancy SP, Chan JR, Baranzini SE, Franklin RJ, Rowitch DH (2011) Myelin regeneration:
+A recapitulation of development? Annu Rev Neurosci 34:21–43.
+25. Eick GN, Thornton JW (2011) Evolution of steroid receptors from an estrogen-sensitive ancestral receptor. Mol Cell Endocrinol 334(1-2):31–38.
+26. Baker ME, Nelson DR, Studer RA (2015) Origin of the response to adrenal and sex
+steroids: Roles of promiscuity and co-evolution of enzymes and steroid receptors.
+J Steroid Biochem Mol Biol 151:12–24.
+27. Ogino Y, Katoh H, Kuraku S, Yamada G (2009) Evolutionary history and functional
+characterization of androgen receptor genes in jawed vertebrates. Endocrinology
+150(12):5415–5427.
+28. Ogino Y, et al. (2016) Neofunctionalization of androgen receptor by gain-of-function
+mutations in teleost fish lineage. Mol Biol Evol 33(1):228–244.
+29. Simerly RB, Chang C, Muramatsu M, Swanson LW (1990) Distribution of androgen and
+estrogen receptor mRNA-containing cells in the rat brain: An in situ hybridization
+study. J Comp Neurol 294(1):76–95.
+30. DonCarlos LL, et al. (2006) Novel cellular phenotypes and subcellular sites for androgen action in the forebrain. Neuroscience 138(3):801–807.
+31. Zalc B, Goujet D, Colman D (2008) The origin of the myelination program in vertebrates. Curr Biol 18(12):R511–R512.
+32. Bullock TH, Moore JK, Fields RD (1984) Evolution of myelin sheaths: Both lamprey and
+hagfish lack myelin. Neurosci Lett 48(2):145–148.
+33. Finley SK, Kritzer MF (1999) Immunoreactivity for intracellular androgen receptors in
+identified subpopulations of neurons, astrocytes and oligodendrocytes in primate
+prefrontal cortex. J Neurobiol 40(4):446–457.
+34. Tronche F, et al. (1999) Disruption of the glucocorticoid receptor gene in the nervous
+system results in reduced anxiety. Nat Genet 23(1):99–103.
+35. Li WW, Penderis J, Zhao C, Schumacher M, Franklin RJM (2006) Females remyelinate
+more efficiently than males following demyelination in the aged but not young adult
+CNS. Exp Neurol 202(1):250–254.
+36. Okamoto M, et al. (2012) Mild exercise increases dihydrotestosterone in hippocampus
+providing evidence for androgenic mediation of neurogenesis. Proc Natl Acad Sci USA
+109(32):13100–13105.
+37. Hussain R, et al. (2011) Progesterone and Nestorone facilitate axon remyelination: A
+role for progesterone receptors. Endocrinology 152(10):3820–3831.
+38. El-Etr M, et al. (2015) Progesterone and nestorone promote myelin regeneration in
+chronic demyelinating lesions of corpus callosum and cerebral cortex. Glia 63(1):
+104–117.
+39. Cerghet M, et al. (2006) Proliferation and death of oligodendrocytes and myelin
+proteins are differentially regulated in male and female rodents. J Neurosci 26(5):
+1439–1447.
+40. Palaszynski KM, Loo KK, Ashouri JF, Liu HB, Voskuhl RR (2004) Androgens are protective in experimental autoimmune encephalomyelitis: Implications for multiple
+sclerosis. J Neuroimmunol 146(1-2):144–152.
+41. Sicotte NL, et al. (2007) Testosterone treatment in multiple sclerosis: A pilot study.
+Arch Neurol 64(5):683–688.
+42. Kalincik T, et al.; MSBase Study Group (2013) Sex as a determinant of relapse incidence and progressive course of multiple sclerosis. Brain 136(Pt 12):3609–3617.
+43. Pakpoor J, Goldacre R, Schmierer K, Giovannoni G, Goldacre MJ (2014) Testicular
+hypofunction and multiple sclerosis risk: A record-linkage study. Ann Neurol 76(4):
+625–628.
+44. Bove R, et al. (2014) Low testosterone is associated with disability in men with multiple sclerosis. Mult Scler 20(12):1584–1592.
+45. Safarinejad MR (2008) Evaluation of endocrine profile, hypothalamic-pituitary-testis
+axis and semen quality in multiple sclerosis. J Neuroendocrinol 20(12):1368–1375.
+46. Confavreux C, Vukusic S (2006) Age at disability milestones in multiple sclerosis. Brain
+129(Pt 3):595–605.
+47. Harman SM, Metter EJ, Tobin JD, Pearson J, Blackman MR; Baltimore Longitudinal
+Study of Aging (2001) Longitudinal effects of aging on serum total and free testosterone levels in healthy men. J Clin Endocrinol Metab 86(2):724–731.
+48. Peters A, Sethares C (2002) Aging and the myelinated fibers in prefrontal cortex and
+corpus callosum of the monkey. J Comp Neurol 442(3):277–291.
+49. Ruckh JM, et al. (2012) Rejuvenation of regeneration in the aging central nervous
+system. Cell Stem Cell 10(1):96–103.
+50. Fields RD (2008) White matter in learning, cognition and psychiatric disorders. Trends
+Neurosci 31(7):361–370.
+51. Haroutunian V, et al. (2014) Myelination, oligodendrocytes, and serious mental illness. Glia 62(11):1856–1877.
+52. De Gendt K, et al. (2004) A Sertoli cell-selective knockout of the androgen receptor
+causes spermatogenic arrest in meiosis. Proc Natl Acad Sci USA 101(5):1327–1332.
+53. Feutz AC, Pham-Dinh D, Allinquant B, Miehe M, Ghandour MS (2001) An immortalized jimpy oligodendrocyte cell line: Defects in cell cycle and cAMP pathway. Glia
+34(4):241–252.
+54. Arevalo MA, Azcoitia I, Garcia-Segura LM (2015) The neuroprotective actions of
+oestradiol and oestrogen receptors. Nat Rev Neurosci 16(1):17–29.
+55. Boon WC, Chow JD, Simpson ER (2010) The multiple roles of estrogens and the enzyme aromatase. Prog Brain Res 181:209–232.
+56. van de Wijngaart DJ, Dubbink HJ, van Royen ME, Trapman J, Jenster G (2012) Androgen receptor coregulators: Recruitment via the coactivator binding groove. Mol
+Cell Endocrinol 352(1-2):57–69.
+57. Belelli D, Lambert JJ (2005) Neurosteroids: Endogenous regulators of the GABA(A)
+receptor. Nat Rev Neurosci 6(7):565–575.
+58. Reddy DS (2010) Neurosteroids: Endogenous role in the human brain and therapeutic
+potentials. Prog Brain Res 186:113–137.
+59. Lund TD, Hinds LR, Handa RJ (2006) The androgen 5alpha-dihydrotestosterone and its
+metabolite 5alpha-androstan-3beta, 17beta-diol inhibit the hypothalamo-pituitaryadrenal response to stress by acting through estrogen receptor beta-expressing
+neurons in the hypothalamus. J Neurosci 26(5):1448–1456.
+14834 | www.pnas.org/cgi/doi/10.1073/pnas.1614826113 Bielecki et al.

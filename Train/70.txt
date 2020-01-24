@@ -1,0 +1,527 @@
+Learning and remembering real-world events after
+medial temporal lobe damage
+Adam J. O. Dedea,b, Jennifer C. Frascinoa,c, John T. Wixtedb
+, and Larry R. Squirea,b,c,d,1
+a
+Veterans Affairs San Diego Healthcare System, San Diego, CA 92161; b
+Department of Psychology, University of California, San Diego, La Jolla, CA 92093; c
+Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093; and d
+Department of Neurosciences, University of California, San Diego,
+La Jolla, CA 92093
+Contributed by Larry R. Squire, October 13, 2016 (sent for review May 10, 2016; reviewed by Howard Eichenbaum and Joseph R. Manns)
+The hippocampus is important for autobiographical memory, but
+its role is unclear. In the study, patients with hippocampal damage
+and controls were taken on a 25-min walk on the University of
+California, San Diego, campus during which 11 planned events
+occurred. Memory was tested directly after the walk. In addition, a
+second group of controls took the same walk and were tested
+after 1 mo. Patients with hippocampal damage remembered fewer
+details than controls tested directly after the walk but remembered a similar number of details as controls tested after 1 mo.
+Notably, the details that were reported by patients had the
+characteristics of episodic recollection and included references to
+particular places and events. Patients exhibited no special difficulty remembering spatial details in comparison with nonspatial
+details. Last, whereas both control groups tended to recall the
+events of the walk in chronological order, the order in which
+patients recalled the events was unrelated to the order in which
+they occurred. The findings illuminate the role of the hippocampus
+in autobiographical memory and in the spatial and nonspatial
+aspects of episodic recollection.
+hippocampus | prospective memory | autobiographical memory
+Autobiographical memory represents the experiences of our
+lives and provides our sense of self. We can reexperience
+events from the past, and we can imagine events in the future.
+Without this faculty, our conscious life would be a series of
+unconnected moments.
+The severely amnesic patient K.C. cannot remember a single
+personal event from his life and cannot describe what he did
+yesterday or what he might do tomorrow (1). K.C.’s amnesia was
+caused by a closed-head injury, which damaged the hippocampus
+and adjacent cortex, as well as regions of the frontal and parietal
+lobes (2). Although the extent of K.C.’s lesions makes it difficult to
+relate his impairment to anatomy, other work has studied autobiographical memory in patients with more circumscribed damage.
+A number of studies have identified the hippocampus as an
+important structure for autobiographical memory (3–5), but its
+role remains unclear. Some findings emphasize its function in
+forming new memories about both events and facts (episodic and
+semantic memory) (6). Other studies suggest that the hippocampus is particularly important for the episodic content of autobiographical memory (e.g., time, place, and perceptual information)
+and that, as a result, patients with hippocampal damage must rely
+on semantic memory alone (7). Still other work suggests that the
+hippocampus is especially important for spatial cognition and that
+impaired autobiographical memory after hippocampal damage is
+due to a difficulty in constructing spatially coherent scenes (8).
+Here, we describe a different approach to the study of autobiographical memory and hippocampal function. Patients with
+hippocampal damage and healthy volunteers were taken individually on a 25-min walk on the University of California, San
+Diego, campus during which 11 planned events occurred (Fig. 1).
+Directly after the walk, participants were asked for 6-min, narrative descriptions of what they could remember. Next, they
+constructed 1-min narratives in response to prompts about each of
+the 11 events. Last, they were given 40 two-alternative, forcedchoice questions about particular details of the walk. In this way,
+we assessed the accuracy and quality of memory for real-world
+events. Specifically, we evaluated whether and to what extent
+participants could recollect episodic content. We also evaluated
+the quantity of spatial and nonspatial content and the temporal
+organization of the narratives. To determine whether impairments
+exhibited by the patients reflect a qualitatively distinct deficit or a
+normal feature of weak memory, we also tested a second group of
+volunteers who took the same walk but were tested only after an
+interval of 1 mo.
+Results
+Six-Minute Narratives About the Walk. The patients with hippocampal
+lesions (H) recalled fewer accurate episodic details about the walk
+than the control-1 (CON-1) group [t (10) = 3.9, P < 0.01] and about
+the same number of details overall as the control-2 (CON-2) group
+tested after 1 mo [t(9) < 1.0, P > 0.2] (Table 1). Fig. 2 shows that,
+except for details about time (which were rare in all groups), the H
+patients recalled fewer details than the CON-1 group in each category (event, space, and perception) [ts (10) > 2.3, Ps < 0.05], and
+they recalled about the same number of details in each category as
+the CON-2 group (Ps > 0.1). The single patient with large medial
+temporal lobe (MTL) lesions performed more poorly than the patients with hippocampal lesions [Table 1; t(3) = 6.6, P < 0.05]. Note
+that the hippocampal patients and the MTL patient had no more
+difficulty reporting spatial details about the walk than other kinds of
+details (Fig. 2A). Thus, the hippocampal patients scored 1.6, 1.5,
+and 1.3 SDs below the CON-1 mean for details in each category
+(event, space, and perception).
+The patients (H and MTL) also recalled more inaccurate
+details than CON-1 and fewer unverifiable details (Table 1), but
+these differences did not reach significance (P < 0.08 for inaccurate
+Significance
+We explored the role of the medial temporal lobe (MTL) in
+remembering recent events. Patients with MTL damage and
+healthy controls were taken on a walk during which 11 planned events occurred. Patients remembered fewer details about
+the events than controls. Nevertheless, the details made reference to particular places and events from the walk. In addition, patients were similarly impaired across different kinds of
+content (spatial and nonspatial). Last, the patients were particularly impaired at remembering the temporal order in which
+the events occurred. The findings illuminate the role of the MTL
+in memory for real-world events and in the spatial and nonspatial aspects of recollection.
+Author contributions: A.J.O.D., J.C.F., J.T.W., and L.R.S. designed research; A.J.O.D. and J.C.F.
+performed research; A.J.O.D. analyzed data; and A.J.O.D. and L.R.S. wrote the paper.
+Reviewers: H.E., Center for Memory and Brain, Boston University; and J.R.M., Emory
+University.
+The authors declare no conflict of interest.
+1
+To whom correspondence should be addressed. Email: lsquire@ucsd.edu.
+13480–13485 | PNAS | November 22, 2016 | vol. 113 | no. 47 www.pnas.org/cgi/doi/10.1073/pnas.1617025113
+details; P > 0.2 for unverifiable details). It was also the case that
+patients repeated themselves more during narrative construction
+than did CON-1 [t (10) = 2.4, P < 0.05] (Fig. 2B).
+To assess memory for the temporal order in which the events
+had occurred, we plotted the order in which the 11 events of the
+walk were described. Fig. 3A provides this information for the H
+and MTL patients (combined) and for CON-1. The CON-1
+group described events approximately in the order in which they
+had occurred (r = 0.95, P < 0.05). By contrast, the order in which
+patients described events was unrelated to the order in which
+they had occurred (r = −0.47, P > 0.2). Fig. 3B shows corresponding data for CON-2 in comparison with the data for CON-1.
+Group CON-2, like CON-1, described events in the order they
+had occurred (r = 0.91, P < 0.05).
+One-Minute Narratives About Each of the 11 Events. Fig. 4 shows the
+number of accurate details that were recalled during 1 min in response to prompts about each event of the walk. Patients with
+hippocampal lesions retrieved significantly fewer details than CON-1
+about every event (Ps < 0.05), except event 11 (the drink). The
+events that were most memorable for CON-1 were also the most
+memorable events for the patients (Fig. 5) (r = 0.81, P < 0.05).
+Unlike in the 6-min narratives, the hippocampal patients retrieved marginally fewer accurate details overall than CON-2
+(3.9 vs. 5.4 details per event, P = 0.06). This finding appeared to
+depend on differences in how well the two groups remembered
+the more salient events that appear to the right in Fig. 4. To
+confirm this observation, events were divided into two groups:
+the five events best remembered by CON-1 and the five events
+least remembered. Whereas the scores of the hippocampal patients matched the scores of the CON-2 group for the least remembered events, the patients remembered the salient events
+less well than the CON-2 group [interaction of group by salience:
+F(1,9) = 9.4, P < 0.05].
+As with the 6-min narratives, we evaluated performance in each
+content category averaged across all events (event, space, and
+perception). (Time details were rare and were not counted; < 0.1
+detail per event in each group). The H group recalled fewer event
+and perception details than CON-1 [ts (10) > 3.0, Ps < 0.05] and
+marginally fewer space details; P < 0.1. The CON-1 group produced an average of 2.9, 1.4, and 4.4 accurate details per event in
+the event, space, and perception categories, respectively. For the
+H group, the corresponding values were 1.4, 0.6, and 1.9 details,
+and for CON-2 the values were 1.6, 1.4, and 2.4 details. The H
+group scored 2.7, 1.2, and 1.3 SDs below the CON-1 mean in the
+event, space, and perception categories, respectively.
+Hippocampal patients produced more inaccurate details than
+CON-1 [1.6 vs. 0.5 details per event; t(10) = 3.4, P < 0.05] and
+about the same number of inaccurate details as CON-2 (1.6 vs. 1.1
+details per event; P > 0.1). Participants reported few unverifiable
+details during the 1-min narratives (range of means across groups =
+0.6–1.5 details per event; no between-group differences, Ps > 0.1).
+We also asked whether the patients had difficulty connecting
+remembered details to the appropriate events. That is, did patients mix details between events more frequently than controls?
+Accordingly, for the 1-min narratives we counted how often
+participants reported details about events other than the event
+being asked about. The hippocampal patients did this only rarely,
+numerically less often than the CON-1 group (0.2 times per
+event vs. 0.3 times per event).
+Performance of the patient with large MTL lesions was variable.
+Whereas he produced fewer details per event overall than CON-1
+(4.4 vs. 8.8), he nevertheless did well describing three of the events
+(cup, shoe, and statue). However, he often appeared to remember
+only a fragment about an event and then generated a narrative
+consisting of plausible guesses and far-fetched comments (in reference to the statue: “It wasn’t a covered wagon”). In addition, his
+narratives included more than twice as many inaccurate details as
+the narratives of any other group (3.3 per event), he repeated
+himself frequently (Fig. 2B), and he frequently incorporated remarks about events other than the event he was asked about (four
+times more often than any other group).
+Two-Alternative, Forced-Choice Questions About the Walk. Fig. 6
+shows the results for the two-alternative, forced-choice test.
+Overall, patients with hippocampal lesions performed more
+Fig. 1. Map of 11 events that occurred during a 25-min guided walk. 1:
+discard a cup. 2: find change in a vending machine. 3: view portraits of
+department chairs. 4: point out coffee cart. 5: find book on the second floor
+of the library. 6: receive bike lock from student. 7: lock up bike. 8: view
+statue. 9: buy banana in cafe. 10: stop to tie shoes. 11: drink from water
+fountain. Sidewalks are light gray. Buildings are dark gray. Arrows indicate
+the path taken during the walk.
+Table 1. Total details
+Group Accurate Inaccurate Unverifiable
+CON-1 56 (5.3) 4 (1.1) 10 (4.5)
+CON-2 32 (5.8) 4 (1.4) 7 (3.6)
+H 26 (2.7) 10 (6.2) 5 (2.3)
+MTL 18 8 5
+Mean number of accurate, inaccurate, and unverifiable details produced
+by each group during a 6-min narrative description of the walk. SEs are in
+parentheses. CON-1, controls tested directly after the walk. CON-2, controls
+tested 1 mo after the walk. H, patients with hippocampal lesions. MTL, a
+patient with large medial temporal lobe lesions.
+Fig. 2. Number of accurate details produced during a 6-min narrative description
+of events that occurred during a 25-min walk. (A) Details were assigned to one of
+four categories according to their content. (B) The number of details that were
+repeated during the narrative. CON-1, controls tested directly after the walk.
+CON-2, controls tested 1 mo after the walk. H, patients with hippocampal lesions.
+MTL, a patient with large medial temporal lobe lesions. Error bars show SEM.
+Dede et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13481
+NEUROSCIENCE PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+poorly than CON-1 [t(10) = 2.4, P < 0.05] and performed similarly to CON-2 (P > 0.2). The hippocampal patients performed
+poorly in all content categories. In the case of questions about
+time, the average score of the patients was good, but they did not
+score above chance levels (due to high variability). Their scores
+were 2.1, 1.4, and 2.5 SDs below the CON-1 mean for questions
+about events, space, and perception, respectively. Thus, although
+the hippocampal patients obtained a low score on questions
+about space, relative to CON-1 they performed no worse on
+questions about space than on other types of questions. It is also
+notable that the patient with large MTL lesions performed
+poorly overall, but did well on questions about space.
+Discussion
+Patients with hippocampal damage remembered fewer details
+than controls about 11 events that occurred during a guided walk
+on the university campus. This impairment was evident in 6-min
+narratives that participants constructed about the walk, directly
+after returning to the laboratory (Fig. 2). Patients also recalled
+fewer details than controls in prompted 1-min narratives about
+each of the 11 events (Fig. 4), and they performed poorly on 40
+two-alternative, forced-choice questions about specific details
+Fig. 3. The data points show when, on average, the events from the walk
+were described during the 6-min narratives. The two control groups
+tended to describe events in the order that they occurred. The order in
+which the patients described events was unrelated to the order in which
+the events occurred. Lines represent significant fits to the data. (A) The
+patients described only 9 of the 11 events, and no patient described
+events 10 and 11. Black squares: CON-1, controls tested directly after the
+walk. Open triangles: H, patients with hippocampal lesions plus MTL, a
+patient with large medial temporal lobe lesions. (B) CON-1 (black squares)
+together with controls tested 1 mo after the walk (CON-2, open circles).
+The CON-2 group described only 10 of the 11 events, and no CON-2 described event 1.
+Fig. 4. Number of accurate details produced in 1-min narratives when
+participants were asked about each event separately in response to a
+prompt. The data are arranged according to how well the CON-1 group
+remembered each event. CON-1, controls tested directly after the walk.
+CON-2, controls tested 1 mo after the walk. H, patients with hippocampal
+lesions. MTL, a patient with large medial temporal lobe lesions. Error bars
+show SEM.
+Fig. 5. Details recalled during 1-min narratives about each event in response to a prompt (also see Fig. 4). The events best remembered by CON-1
+were also the events best remembered by the H and MTL patients. The
+numbers identify each event (Fig. 1). The scatter plot shows the mean
+number of accurate details per event produced by the patients as a function
+of the mean number of details produced by CON-1. For example, CON-1
+recalled 7.1 details about event 4 (coffee cart) and 10.4 details about event 5
+(library). The patients recalled 1.8 and 6.2 details about these same two
+events. CON-1, controls tested directly after the walk. H, patients with hippocampal lesions. MTL, a patient with large medial temporal lobe lesions.
+13482 | www.pnas.org/cgi/doi/10.1073/pnas.1617025113 Dede et al.
+from the walk (Fig. 6). In many respects, performance of the
+patients resembled the performance of a group (CON-2) that
+was tested 1 mo after the walk. Thus, in their 6-min narratives,
+patients recalled about the same number of total details as the
+CON-2 group (Table 1), and they recalled a similar number of
+details in each content category (event, space, perception, and
+time) (Fig. 2). However, in one respect, patient performance
+differed sharply from the performance of either the CON-1 or
+CON-2 groups. Whereas both control groups tended to recall the
+events of the walk in the order that they occurred, the order in
+which patients recalled the events was unrelated to the order in
+which the events occurred (Fig. 3).
+Despite their memory impairment, the patients did remember a
+significant number of event, space, and perception details in both
+the 6-min (Fig. 2) and 1-min narratives. These details had the
+characteristics of episodic recollections and included references to
+particular places and events. For example, G.W. remembered that
+the bicycle “had a light on the front.” L.J. remembered that the
+books in the library had been “further down on the shelf, and it
+seems like they were white.” In addition, the events that were most
+memorable for the controls were also most memorable for the
+patients (Fig. 5), suggesting that patients and controls experienced
+the salience of the events similarly.
+The behavior of our patients was distinct from that observed
+with the densely amnesic patient K.C. (1) and others like him,
+who cannot remember any personal events (patient D.R.B. in 9,
+patient R.F.R. in 10, and patient G.T. in 11). If damage to the
+hippocampus were the cause of such a severe condition, then our
+patients’ narratives should have been devoid of episodic content,
+lacking specificity about the events of the walk. Their narratives,
+to the extent they could remember, should have amounted to a
+collection of factual statements related to what was seen on the
+walk. However, the narratives produced by our patients contained vivid episodic content. Accordingly, our results are at
+odds with the idea that the hippocampus is specifically necessary
+for the episodic content of recollection (7). The difference between our patients and more severely impaired patients (e.g., K.C.)
+likely depends on differences in the locus and extent of their
+brain damage. Indeed, patient K.C. and all of the patients cited
+above have damage that extends beyond the MTL to involve
+other regions, especially in frontal and lateral temporal cortex
+(also see 2, 12).
+The question arises whether the capacity for episodic recall
+reflects partially preserved hippocampal function in patients with
+a reduction in hippocampal volume averaging only 45%. This
+possibility seems unlikely for two reasons. First, even patient
+G.P., who has virtually no detectable hippocampus, was capable
+of some episodic recollection. Second, for two different patients,
+neurohistology revealed complete loss of hippocampal neurons
+despite only partial reduction in hippocampal volume (13). Thus,
+partial hippocampal volume loss in memory-impaired patients
+can reflect complete hippocampal dysfunction.
+The impairment exhibited by the patients was evident to a
+similar degree in three of the four content categories: event,
+space, and perception (Fig. 2). Notably, patients exhibited no
+special difficulty in the production of spatial content, not in the
+6-min narratives and not in the 1-min narratives. Indeed, every
+patient provided some accurate and specific spatial details. For
+example, K.E., when describing the student with the bike lock
+(event 6), accurately remembered: “he was walking west, and we
+were going east.” G.W. accurately reported that there were
+“muffins on the counter next to the bananas” (event 9). Even
+G.P., with large MTL lesions, accurately reported that the statue
+had been “8 to 10 feet high...water was coming out of the top.” In
+addition, on the 40-item test, the patients had no more difficulty,
+in comparison with CON-1, with the questions that asked about
+space than with questions about other features of the events
+(Fig. 6). Taken together, our results provide little support for the
+idea that the hippocampus has a special role in constructing spatial
+scenes or in recollecting spatial details from memory. We also
+inspected the spatial details produced by the patients in light of
+the distinction between allocentric (viewpoint-independent) information and egocentric (viewpoint-dependent) information.
+Although we found many details difficult to classify, both kinds of
+details were reported (for allocentric, see examples above; for
+egocentric, G.W. remembered: “I was...up ahead of her”).
+The patients produced few intrusions from events other than
+the one being asked about during 1-min narratives. This observation suggests that the patients were able to organize the details
+from the walk into distinct coherent events. By contrast, they
+differed markedly from controls in that they did not (in the 6-min
+narratives) describe events in the same sequence in which they
+had occurred (Fig. 3A). Even controls tested after 1 mo still
+Fig. 6. Performance on a test of 40 two-alternative, forced-choice questions
+about the events from the walk. There were four types of questions, querying different types of information. CON-1, controls tested directly after the
+walk. CON-2, controls tested 1 mo after the walk. H, patients with hippocampal lesions. MTL, a patient with large medial temporal lobe lesions. Error
+bars show SEM. Horizontal line represents chance performance.
+Table 2. Characteristics of memory-impaired patients
+Patient Age, y Education, y WAIS-III IQ
+WMS-R
+Attention Verbal Visual General Delay
+D.A. 31 12 95 104 90 91 90 56
+K.E. 73 13.5 108 114 64 84 72 55
+L.J. 77 12 101 105 83 60 69 <50
+G.W. 55 12 108 105 67 86 70 <50
+G.P. 68 16 98 102 79 62 66 50
+The Wechsler Adult Intelligence Scale (WAIS-III) and the Wechsler Memory Scale-Revised (WMS-R) yield mean
+scores of 100 in the normal population with a SD of 15. The WMS-R does not provide numerical scores for
+individuals who score below 50. IQ score for D.A. is from the Wechsler Adult Intelligence Scale-IV.
+Dede et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13483
+NEUROSCIENCE PSYCHOLOGICAL AND
+COGNITIVE SCIENCES
+recalled events in approximately chronological order (Fig. 3B).
+Thus, difficulty with temporal order information was not a simple consequence of weak memory.
+We suggest that the inability of the patients to remember the
+temporal sequence of the walk reflected their inability to bridge
+temporal gaps between discrete events. The same difficulty might
+explain why patients did poorly at remembering events 5, 6, and
+9, which were salient but also extended in time. Specifically, the
+gaps between events would have challenged working memory
+capacity (14). For each event, working memory was engaged
+anew, overwriting any representation in working memory of the
+previous event and regardless of the temporal separation between the two events. Accordingly, it would have been difficult to
+link separate events, except by relying on long-term memory.
+The patients with hippocampal damage would have been disadvantaged because they could not have used long-term memory
+to learn about the order of events as they proceeded along the
+walk. Similar findings have been reported for rats with hippocampal lesions in a sequence-learning task (15).
+Note that this finding is not evidence for a selective impairment
+in memory for temporal information. Rather, we suggest that
+patients would have been especially impaired on any test that
+assessed “global” information about the relationship between
+events (temporal, spatial, or perceptual relationships). In contrast,
+for tests that assess “local” information about individual events
+(and most of our tests did), the information could initially have
+been acquired within working memory. The information would
+then be available for transfer to long-term memory to the extent
+that long-term memory can be established after hippocampal
+damage. Importantly, as indicated in Figs. 2, 4, and 6, patients with
+hippocampal damage retain some ability to learn about events,
+locations, and other material.
+In summary, patients with damage to the MTL learned and
+remembered fewer details about real-world events than controls
+when testing occurred directly after the events occurred. In many
+respects, the patients performed similarly to controls tested after a
+delay of 1 mo (Figs. 2 and 4). Despite their impairment, patients
+recalled many accurate and specific episodic details about events
+of the walk. They also remembered details from all content categories (Fig. 2), and there was no evidence of a special difficulty
+reporting spatial content about the events. By contrast, patients
+were strikingly deficient at remembering the temporal sequence in
+which events occurred during the walk (Fig. 3A). The latter result
+suggests that the hippocampus is particularly important for
+bridging gaps between events and discovering relationships between separate events (temporal, spatial, or perceptual).
+Materials and Methods
+Participants. Five memory-impaired patients participated (Table 2), four with
+bilateral medial temporal lobe lesions limited to the hippocampus (the CA
+fields, dentate gyrus, and subicular complex) and one with larger medial
+temporal lobe lesions. Patients G.W. and D.A. became amnesic in 2001 and
+2011, respectively, following drug overdose and associated respiratory failure. Patient K.E. became amnesic in 2004 after an episode of ischemia associated with kidney failure and toxic shock syndrome. Patient L.J. (the only
+female) became amnesic in 1988 during a 6-mo period with no known
+precipitating event. Her memory impairment has been stable since that
+time. Patients K.E., L.J., G.W., and D.A. have an average bilateral reduction in
+hippocampal volume of 49%, 46%, 48%, and 35%, respectively. On the basis
+of findings from two patients (L.M. and W.H.) with similar bilateral volume loss
+in the hippocampus for whom detailed postmortem neurohistological information was obtained (13), the degree of volume loss in these four patients
+may reflect nearly complete loss of hippocampal neurons. The volume of the
+parahippocampal gyrus (including temporopolar, perirhinal, entorhinal, and
+parahippocampal cortices) is reduced by 11%, ‒17%, 10%, and ‒5% for K.E., L.J.,
+G.W., and D.A., respectively. These values are based on published guidelines for
+identifying the boundaries of the parahippocampal gyrus (16, 17). The negative
+values indicate instances where the volume was larger for a patient than
+for controls.
+Patient G.P. has severe memory impairment resulting from viral encephalitis in 1987. His memory impairment is so severe that, during repeated
+testing over many weeks, he did not recognize that he had been tested
+before (18). G.P. has an average bilateral reduction in hippocampal volume
+of 96%. The volume of the parahippocampal gyrus is reduced by 94%. Eight
+coronal magnetic resonance images from each patient, together with detailed description of the lesions, are presented elsewhere (19).
+Two groups of healthy volunteers also participated. One group (CON-1)
+was tested directly after the walk (n = 8; 1 female; mean age = 60.8 y; mean
+education = 13.8 y). The other group (CON-2) was tested 1 mo after the
+walk (n = 7; 3 females; mean age = 64.1; mean education = 14.8 y). All
+procedures were approved by the Institutional Review Board at the University of California, San Diego, and participants gave written informed
+consent before participation.
+Procedure. Each participant was taken for a 25-min walk on the campus of the
+University of California, San Diego. Before the walk, participants were told that
+their memory would be tested afterward for everything that occurred during
+the walk. However, they would not need to remember any part of conversations. A fixed order of 11 events occurred during the walks (Fig. 1). The
+experimenter was the “actor” for each event (she discarded the cup, found the
+book, etc.). The sixth event of the walk required a confederate, who provided
+a bike lock and asked that the experimenter lock his bike. The walks were
+scheduled at either 10:30 AM or 1:30 PM (not during class changes or lunch
+time) to standardize the background environment as much as possible.
+Upon returning to the laboratory, patients and controls in the no-delay
+condition were tested for their memory of the walk. The procedure was identical
+for controls tested 1 mo later. Participants were first given up to 6 min to describe
+in as much detail as possible all that they could remember about the walk. The
+experimenter provided support during narrative construction by probing for
+detail (20, 21). Probes ranged from general (e.g., “Can you tell me any more
+details about what happened on the walk?”) to specific (e.g., “How close to the
+lock did you get?”; “Where was the water?”). The experimenter did not introduce information that had not been already provided by the participant.
+Next, the experimenter provided a prompt for each of the 11 events of the
+walk (e.g., “What happened at the vending machine?”). In response to each
+prompt, participants were given up to 1 min to describe the event in as much
+detail as possible. The instructions emphasized that participants could repeat
+details they had already reported in the 6-min narrative.
+Last, participants were asked 40 two-alternative, forced-choice questions
+about the 11 events of the walk. The questions followed the order in which
+the events had occurred. Before asking questions about a particular event,
+the event in question was first identified (e.g., The next few questions will be
+about the statue). Seven questions asked about the event itself (e.g., Did we
+find a quarter or a dime?). Thirteen questions asked for perceptual information (e.g., Were the doors to the building wooden or glass?). Thirteen
+questions asked for spatial information (e.g., What kind of vending machine
+was on the right: snack or drink?). Seven questions asked for temporal information (e.g., Did it take less than 30 s or more than 3 min to walk from the
+bike to the fountain?). All responses were recorded.
+Narrative Scoring. Narratives were first partitioned into details as described
+previously (5, 21–24). Each detail was then scored as reflecting episodic
+memory, semantic memory, repetition, or remembered thoughts. Episodic details described aspects of specific events. Semantic details described facts that contextualized events. Participants produced few
+semantic details, perhaps because little context is needed when one describes recent events to someone who also experienced them. Mean semantic details (< 6.4 per group per narrative) were not considered further
+(e.g., “What’s the point of butterfly nets, because how often do you run
+into butterflies?”). Repetitions were details that repeated information
+from earlier in the narrative. Thoughts described introspective commentary (e.g., “I liked that place”) and were not analyzed further.
+Next, following methods described in other studies (22–24), each episodic detail was categorized according to its content: event, space, time, or
+perception. Event details described persons or actions. Spatial details described places or spatial relationships between objects or persons. Time
+details described temporal information about an event (e.g., “It was real
+quick”). Perceptual details described objects, colors, weather, or other
+sensory information.
+We then assessed the accuracy of each detail. Details were scored as
+“accurate” if they could be verified as having happened on the walk (e.g.,
+“You found a quarter in the machine”). Details were scored as “inaccurate”
+if they did not happen on the walk [e.g., “We stopped at a Pepsi machine”
+(it was a snack machine)]. Details were scored as “unverifiable” if it was not
+13484 | www.pnas.org/cgi/doi/10.1073/pnas.1617025113 Dede et al.
+possible to determine their accuracy. The unverifiable details were usually
+unrelated to any of the 11 scheduled events and involved objects, actions, or
+pieces of conversation (e.g., “A girl walking on the path had red shoes”).
+A.D. partitioned the 6-min narratives into details and assigned them to
+content categories. A second person blind to group membership scored a
+randomly selected 32% of the data (two participants from each of the three
+groups, six participants total). Across participants and content ratings, the
+correlation between scores was 0.92, and Cronbach’s α was 0.96. A.D. scored
+the 1-min narratives.
+ACKNOWLEDGMENTS. We thank Ryan Ward and Christine Smith for
+assistance. This work was supported by the Medical Research Service of
+the Department of Veterans Affairs (CX-000359-05A1), and National
+Institute of Mental Health Grant 24600.
+1. Tulving E (1985) Memory and consciousness. Can Psychol 26(1):1–12.
+2. Rosenbaum RS, et al. (2005) The case of K.C.: Contributions of a memory-impaired
+person to memory theory. Neuropsychologia 43(7):989–1021.
+3. Kopelman MD, Bright P (2012) On remembering and forgetting our autobiographical
+pasts: Retrograde amnesia and Andrew Mayes’s contribution to neuropsychological
+method. Neuropsychologia 50(13):2961–2972.
+4. Moscovitch M, Nadel L, Winocur G, Gilboa A, Rosenbaum RS (2006) The cognitive
+neuroscience of remote episodic, semantic and spatial memory. Curr Opin Neurobiol
+16(2):179–190.
+5. Bayley PJ, Hopkins RO, Squire LR (2003) Successful recollection of remote autobiographical
+memories by amnesic patients with medial temporal lobe lesions. Neuron 38(1):135–144.
+6. Squire LR (1992) Memory and the hippocampus: A synthesis from findings with rats,
+monkeys, and humans. Psychol Rev 99(2):195–231.
+7. Winocur G, Moscovitch M (2011) Memory transformation and systems consolidation.
+J Int Neuropsychol Soc 17(5):766–780.
+8. Mullally SL, Intraub H, Maguire EA (2012) Attenuated boundary extension produces a
+paradoxical memory advantage in amnesic patients. Curr Biol 22(4):261–268.
+9. Damasio AR, Eslinger PJ, Damasio H, Van Hoesen GW, Cornell S (1985) Multimodal
+amnesic syndrome following bilateral temporal and basal forebrain damage. Arch
+Neurol 42(3):252–259.
+10. Warrington EK, McCarthy RA (1988) The fractionation of retrograde amnesia. Brain
+Cogn 7(2):184–200.
+11. Bayley PJ, Gold JJ, Hopkins RO, Squire LR (2005) The neuroanatomy of remote
+memory. Neuron 46(5):799–810.
+12. McCarthy RA, Kopelman MD, Warrington EK (2005) Remembering and forgetting of semantic knowledge in amnesia: A 16-year follow-up investigation of RFR. Neuropsychologia
+43(3):356–372.
+13. Rempel-Clower NL, Zola SM, Squire LR, Amaral DG (1996) Three cases of enduring
+memory impairment after bilateral damage limited to the hippocampal formation.
+J Neurosci 16(16):5233–5255.
+14. Jeneson A, Squire LR (2011) Working memory, long-term memory, and medial temporal lobe function. Learn Mem 19(1):15–25.
+15. Fortin NJ, Agster KL, Eichenbaum HB (2002) Critical role of the hippocampus in
+memory for sequences of events. Nat Neurosci 5(5):458–462.
+16. Insausti R, et al. (1998) MR volumetric analysis of the human entorhinal, perirhinal,
+and temporopolar cortices. AJNR Am J Neuroradiol 19(4):659–671.
+17. Frankó E, Insausti AM, Artacho-Pérula E, Insausti R, Chavoix C (2014) Identification of
+the human medial temporal lobe regions on magnetic resonance images. Hum Brain
+Mapp 35(1):248–256.
+18. Bayley PJ, Frascino JC, Squire LR (2005) Robust habit learning in the absence of
+awareness and independent of the medial temporal lobe. Nature 436(7050):550–553.
+19. Knutson AR, Hopkins RO, Squire LR (2013) A pencil rescues impaired performance on
+a visual discrimination task in patients with medial temporal lobe lesions. Learn Mem
+20(11):607–610.
+20. Kirwan CB, Bayley PJ, Galván VV, Squire LR (2008) Detailed recollection of remote
+autobiographical memory after damage to the medial temporal lobe. Proc Natl Acad
+Sci USA 105(7):2676–2680.
+21. Levine B, Svoboda E, Hay JF, Winocur G, Moscovitch M (2002) Aging and autobiographical memory: Dissociating episodic from semantic retrieval. Psychol Aging 17(4):
+677–689.
+22. Hassabis D, Kumaran D, Vann SD, Maguire EA (2007) Patients with hippocampal amnesia cannot imagine new experiences. Proc Natl Acad Sci USA 104(5):
+1726–1731.
+23. Race E, Keane MM, Verfaellie M (2011) Medial temporal lobe damage causes deficits
+in episodic memory and episodic future thinking not attributable to deficits in narrative construction. J Neurosci 31(28):10262–10269.
+24. Dede AJO, Wixted J, Hopkins RO, Squire LR (2016) Autobiographical memory,
+future imagining, and the medial temporal lobe. Proc Natl Acad Sci USA 113:
+13474–13479.
+Dede et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13485
+NEUROSCIENCE PSYCHOLOGICAL AND
+COGNITIVE SCIENCES

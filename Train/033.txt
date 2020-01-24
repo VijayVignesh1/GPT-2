@@ -1,0 +1,1781 @@
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+A new function for the fragile X mental retardation
+protein in regulation of PSD-95 mRNA stability
+Francesca Zalfa1,2,6, Boris Eleuteri1,2,6, Kirsten S Dickson3,6, Valentina Mercaldo1,2, Silvia De Rubeis1,2,
+Alessandra di Penta2, Elisabetta Tabolacci4, Pietro Chiurazzi4, Giovanni Neri4, Seth G N Grant3,5 &
+Claudia Bagni1,2
+Fragile X syndrome (FXS) results from the loss of the fragile X mental retardation protein (FMRP), an RNA-binding protein that
+regulates a variety of cytoplasmic mRNAs. FMRP regulates mRNA translation and may be important in mRNA localization to
+dendrites. We report a third cytoplasmic regulatory function for FMRP: control of mRNA stability. In mice, we found that FMRP
+binds, in vivo, the mRNA encoding PSD-95, a key molecule that regulates neuronal synaptic signaling and learning. This
+interaction occurs through the 3¢ untranslated region of the PSD-95 (also known as Dlg4) mRNA, increasing message stability.
+Moreover, stabilization is further increased by mGluR activation. Although we also found that the PSD-95 mRNA is synaptically
+localized in vivo, localization occurs independently of FMRP. Through our functional analysis of this FMRP target we provide
+evidence that dysregulation of mRNA stability may contribute to the cognitive impairments in individuals with FXS.
+
+FXS is caused by a trinucleotide expansion in the X-linked fragile X
+mental retardation gene (FMR1) that leads to the subsequent loss of
+FMRP, and it is the most common cause of X-linked mental retardation. FMRP has multiple RNA-binding motifs and is thought to be
+involved in mRNA localization and translational regulation in neurons,
+two processes required for synaptic plasticity (reviewed in ref. 1).
+Because the only obvious abnormality in the brains of individuals with
+FXS is the presence of longer, immature-appearing spines1, current
+models have focused on the possible dysregulation of synaptic mRNAs
+as an underlying cause of FXS mental deficits.
+A wide variety of mRNAs have been identified as potential targets of
+mammalian FMRP, both in vitro and in vivo2,3. FMRP binds various
+mRNA elements1, including a G-rich RNA structure (G-quartet)4–6
+and U-rich stretches7. FMRP is also indirectly recruited to some
+target mRNAs via binding to the noncoding RNAs BC1 and BC200
+(refs. 8–11). Finally, both mammalian and Drosophila FMRP are
+present in microRNA (miRNA) complexes12 and may be recruited to
+mRNAs that are bound to miRNAs.
+In the FMRP protein, the RGG box recognizes G-quartet sequences
+present in some FMRP targets4, whereas the N-terminus recognizes a
+bulge in BC RNAs10. Notably, although FMRP contains two KH
+domains, a known RNA-binding motif, no endogenous neuronal
+targets that are recognized by this domain have been identified13.
+Functionally, FMRP acts as a translational repressor of a subset of
+neuronal mRNAs3, and it may be involved in synaptic mRNA
+localization, as FMRP is present in mRNP localization complexes14.
+
+A limited number of studies also suggest that FMRP may
+regulate transcription15–17.
+Despite much research, it remains unclear precisely how the loss of
+FMRP leads to alterations in the neuronal mechanisms responsible for
+cognition. One proposal suggests that alterations in metabotropic
+glutamate receptor (mGluR)-mediated signaling might underlie a
+number of the cognitive deficits associated with FXS18. Disruption of
+NMDA receptors19 or associated signaling components20–22 can also
+lead to impairments in synaptic plasticity. Notably, mGluRs and
+NMDA receptors coexist in a large-scale signaling complex23. PSD-95
+(DLG4), a component of the MAGUK family of adaptor proteins that
+includes SAP102 (DLG3) and PSD-93, binds directly to the NMDA
+receptor and links other adaptors to mGluRs24. Mice lacking PSD-95
+have impairments in learning20 and cortical plasticity21. Similarly,
+SAP102 mutant mice show learning impairments25, and mutations
+in human SAP102 are implicated in mental retardation26. Notably,
+PSD-95 mutant mice also show dendritic spine abnormalities in the
+striatum and hippocampus27, one of the key alterations seen in humans
+with FXS and in FMRP mutant mice1. A quantitative neuroimaging
+study also found larger right and left hippocampal volumes in
+individuals with FXS compared with controls, suggesting that this
+region may be involved in the behavioral and cognitive abnormalities
+associated with FXS28.
+One report has indicated that FMRP regulates PSD-95 protein levels
+in response to mGluR signaling29. However, putative FMRP-binding
+sites were identified by sequence analysis, and direct interactions
+
+1Dipartimento di Biologia, Università ‘‘Tor Vergata’’, Via della Ricerca Scientifica 1, 00133 Rome, Italy. 2Istituto di Neuroscienze Sperimentali, Fondazione Santa Lucia,
+Via del Fosso di Fiorano 63, 00143 Rome, Italy. 3Division of Neuroscience, University of Edinburgh, George Sq., Edinburgh EH8 9JZ, UK. 4Istituto di Genetica Medica,
+Università Cattolica, Largo F. Vito 1, 00168 Rome, Italy. 5Wellcome Trust Sanger Institute, Hinxton, Cambridgeshire CB10 1SA, UK. 6These authors contributed equally to
+this work. Correspondence should be addressed to C.B. (claudia.bagni@uniroma2.it) or K.S.D. (dickson.kris@gmail.com).
+
+Received 11 December 2006; accepted 14 March 2007; published online 8 April 2007; doi:10.1038/nn1893
+
+578
+
+VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007 NATURE NEUROSCIENCE
+
+ARTICLES
+
+PSD-95
+M
+
+I
+
+1
+
+2
+
+WT KO
+
+3
+
+4
+
+MAP1B
+M
+
+I
+
+1
+
+2
+
+WT KO
+
+3
+
+4
+
+b
+
+GluR1
+M
+
+I
+
+1
+
+2
+
+PSD-95
+
+WT KO
+
+3
+
+4
+
+d
+
+I
+
++
+
+–
+
+I
+
++
+
+–
+
+I
+
++
+
+–
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
++
+
+–
+
+RNA :
+FMRP :
+
+GlyRα
+
+MAP1B
+
+M
+
+1
+–
+
+2
+
+3
++
+
+–
+
+4
++
+
+–
+
+ch
+/U
+
+-r i
+
+* *
+
+Crosslink
+
+5
++
+
+–
+
++
+
+*
+
+U
+
+-r i
+c
+AU h
+U - r ic
+-r i h
+ch
+pG
+-q
+ua
+r te
+t
+AU
+U rich
+-r i
+ch
+
+c
+C
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+a
+
+*
+
+TGA
+
+PSD-95 3′ UTR
+Fragment
+
+(1)
+
+(835)
+
+AN
+
+1 (1–153)
+2 (154–307)
+3 (308–460)
+
+Free RNAs
+
+4 (461–613)
+5 (593–835)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Figure 1 FMRP interacts directly with the 3¢ UTR of PSD-95 mRNA. (a) Brain lysates from wild-type (WT) and FMR1 knockout mice (KO) were
+immunoprecipitated with FMRP antibodies. RT-PCR was performed using oligonucleotides specific for the PSD-95, MAP1B and GluR1 mRNAs. Input (1/5)
+is reported in lane 2. Lanes that were not relevant to this experiment were removed between the marker and lanes 1 and 2. (b) CLIP assay. Hippocampal cell
+extracts were immunoprecipitated with FMRP antibodies. RT-PCR was performed using oligonucleotides for the PSD-95, MAP1B and GlyRa mRNAs. Input
+(1/5) is reported in lanes 2, 5 and 8. (c) PSD-95 3¢ UTR fragments used in EMSA experiments. Potential functional motifs are indicated. (d) 32P-radiolabeled
+fragments (1–5) of the PSD-95 3¢ UTR were incubated in the presence of FMRP (+, lanes 2, 4, 6, 8 and 10). Control reactions were performed in buffer alone
+(–, lanes 1, 3, 5, 7 and 9). RNA-protein complexes were resolved on native polyacrylamide gel. Unbound RNA fragments (]) and RNA-protein complexes (*)
+are indicated.
+
+between the PSD-95 mRNA and FMRP were not tested. Although the
+authors concluded that these effects were due to translational regulation of PSD-95 mRNA, the above mentioned results could not formally
+distinguish between effects on mRNA export, stability or translation.
+In this study we provide a detailed assessment of the role that
+FMRP has in controlling PSD-95 expression. We have found that
+FMRP interacts directly with the 3¢ UTR of the PSD-95 mRNA,
+providing evidence that FMRP is important in increasing the stability
+of the PSD-95 message. This stabilization is further increased by mGluR
+activation. These findings suggest that, in addition to dysregulation of
+translation targets, some of the FXS impairments may arise as a result
+of alterations in the stability of FMRP target mRNAs.
+RESULTS
+PSD-95 mRNA interacts directly with FMRP
+To address whether FMRP directly regulates PSD-95 mRNA, we
+examined whether PSD-95 mRNA was present in the FMRP complex
+in mice. We found PSD-95 mRNA in FMRP immunoprecipitates from
+wild-type mice but not from FMR1 knockout mice (Fig. 1a). A known
+FMRP-interacting mRNA, MAP1B (refs. 8,30,31), was also coprecipitated (Fig. 1a), whereas a negative control mRNA (GluR1, also known
+as Gria1) was not (Fig. 1a). Using reversible cross-linking–immunoprecipitation (CLIP)32 from primary hippocampal neurons (Fig. 1b),
+we showed that FMRP bound directly to the PSD-95 mRNA, as crosslinking occurred only if FMRP and PSD-95 were in close proximity in
+vivo. MAP1B mRNA, but not GlyRa (also called Glra1) mRNA, was also
+cross-linked to FMRP (Fig. 1b).These data indicate that PSD-95
+mRNA is part of the FMRP mRNP complex in vivo.
+To map the FMRP–PSD-95 mRNA interaction, we carried out direct
+protein-RNA binding assays. We focused on the 3¢ untranslated region
+(UTR) of PSD-95 mRNA because in silico analysis of this region had
+shown the presence of a putative G-quartet29 and three U-rich
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007
+
+stretches33 (Fig. 1c and Supplementary Fig. 1 online), sequence
+elements previously shown to recruit FMRP to RNAs4,7. Of the five
+short RNAs that spanned the entire 3¢ UTR of the mouse PSD-95
+mRNA (Fig. 1c), only fragment 5 had FMRP-binding ability in
+electrophoretic mobility shift assays (EMSAs) with purified baculovirus-expressed human FMRP protein (Fig. 1d). This RNA fragment
+was also bound by mouse brain extracts (data not shown). The lack of
+FMRP binding to fragments 1–4 (Fig. 1d) and the antisense strand
+(data not shown), and the ability of excess unlabeled fragment 5 RNA
+to compete, indicated that the FMRP-RNA interaction was specific and
+did not simply reflect general RNA affinity. The protein-binding ability
+of fragment 5 RNA was also specific, as it did not bind other RNA
+binding proteins (the microbial transcription and translation
+modulator NusG or the spliceosomal 15.5-kDa (hSnu13p) protein;
+data not shown).
+We also investigated which protein domain of FMRP (N-terminus,
+KH1, KH2 or C-terminus)34 was involved in binding to the PSD-95
+mRNA (Fig. 2a). We found that only the C-terminus contained PSD-95
+mRNA–binding ability (Fig. 2b). This domain bound with high
+affinity, as binding remained present under high-stringency conditions
+(50 mM LiCl) (Fig. 2c). The binding was specific, as the C-terminus
+did not interact with fragment 1, and binding to fragment 5
+was competed with by excess unlabeled fragment 5, but not
+fragment 1 (Fig. 2c).
+We further mapped the mRNA region in fragment 5 that was
+responsible for FMRP binding by scrambling the G-rich region to
+eliminate all similarity to the G-quartet consensus and converting
+the U-rich regions into mixed sequences (Fig. 3a). High lithium
+(50 mM), a condition that destabilizes G-quartet structures4,35, did
+not interfere with FMRP binding to either the wild-type (Fig. 3b)
+or the mutagenized fragment 5 (Fig. 3b). Notably, mutagenesis of
+all three U-rich regions did not prevent FMRP binding (Fig. 3b).
+
+579
+
+ARTICLES
+
+a
+
+Figure 2 The C-terminal domain of FMRP is able
+to specifically interact with the PSD-95 mRNA 3¢
+UTR. (a) Schematic representation of FMRP and
+its principal domains: the N terminus (NT), KH1,
+KH2 and the C terminus (CT) containing the RGG
+box. The nuclear localization sequence (NLS) and
+the nuclear export sequence (NES) are also
+indicated. (b) 32P-radiolabeled fragment 5 of the
+PSD-95 3¢ UTR was incubated alone (lane 1),
+in the presence of BSA (lane 2) or in the presence
+of FMRP domains: N terminus (lane 3), KH1
+(lane 4), KH2 (lane 5) and C terminus (lane 6).
+(c) 32P-radiolabeled fragments 1 and 5 of the
+PSD-95 3¢ UTR were incubated alone (lane 1 and
+4) or in the presence of FMRP C terminus (lane 3
+and 5). Fragment 1 was also incubated in the
+presence of BSA (lane 2). To assess the specificity
+of interaction between the fragment 5 and the
+C-terminus, we carried out the RNA binding assay
+in the presence of competitor RNAs (unlabeled
+fragment 5, lane 6; fragment 1, lane 7) or in the
+presence of the chaotropic salt LiCl (lane 8).
+RNA-protein complexes were resolved on a native
+polyacrylamide gel. Unbound RNA fragments (’)
+and RNA-protein complexes (*) are indicated.
+
+KH1
+KH2
+CT
+(aa 206–
+280) (aa 281–422) (aa 516–632)
+
+NT
+(aa 1–205)
+
+RGG box
+(aa 527–552)
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+NLS
+(aa 115–150)
+
+b
+
+Frag 5 RNA
+
++
+
+Protein
+
+–
+
++
+
++
+
++
+
++
+
+NES
+(aa 425–441)
+
+c
+
++
+
+BSA NT KH1 KH2 CT
+
+BSA
+C-terminus
+Frag 5 unlabeled
+Frag 1 unlabeled
+LiCl
+
+Fragment 1
+– + –
+– – +
+– – –
+– – –
+– – –
+
+–
+–
+–
+–
+–
+
+Fragment 5
+– – – –
++ + + +
+– + – –
+– – + –
+– – – +
+
+*
+*
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+2
+
+Because previous studies suggested that FMRP has a high affinity
+for poly(rG) in vitro34, we further examined the G-rich region.
+Although the entire G-rich region showed binding to FMRP
+(Figs. 3c,d; I + II G-rich), even in the presence of high lithium salt
+(Fig. 3d), no binding was detected when we used two short RNA
+fragments (Figs. 3c,d) of that region (Fig. 3c). Our findings argue that
+FMRP recognizes a structured G-rich sequence in the 3¢ UTR of the
+PSD-95 mRNA or a region spanning the two fragments, and that this
+structure does not form a G-quartet.
+Similar PSD-95 polysomal profile in wild type and knockout
+FMRP can act as a translational repressor3,31 and local translation of
+synaptic mRNAs has been increasingly implicated in neuronal plasticity, learning and memory formation (reviewed in ref. 36). Notably, a
+number of localized mRNAs encode synaptic proteins (for example,
+Arc, MAP1B, aCaMKII and SAPAP4) that are translationally repressed
+by FMRP8,16. Thus far, our experiments indicate that FMRP can
+directly interact with the PSD-95 mRNA, but do not address the
+functional role of this interaction.
+We assessed whether PSD-95 mRNA translation was regulated by
+FMRP, as was previously proposed29, by carrying out sucrose gradient
+fractionation of cytoplasmic (Fig. 4a) and hippocampal (Fig. 4b) brain
+extracts from wild-type and FMR1 knockout mice. Unexpectedly, the
+percentage of PSD-95 mRNA associated with polysomes did not
+change in the FMR1 knockout animals compared with wild-type
+animals in either whole brain or hippocampal extracts. Although the
+profile of the negative control, b-actin (ACTB) mRNA, also remained
+unchanged, Arc mRNA, which is known to be translationally regulated
+by FMRP8, showed the expected shift toward a more translationally
+active polysome pool in FMR1 knockout extracts. We cannot formally
+rule out the possibility that FMRP changes the translation efficiency of
+the PSD-95 mRNA without changing the percentage messenger on
+polysomes (PMP) ratio (for example, by altering miRNA-regulated
+translation; reviewed in ref. 37). However, because other FMRPregulated mRNAs (such as Arc) do change their PMP ratio, the
+above findings indicate that FMRP does not regulate PSD-95
+protein synthesis in a manner similar to those of other well-studied
+FMRP targets.
+
+580
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+PSD-95 mRNA is dendritically localized with FMRP in vivo
+It has been estimated that hundreds of mRNAs are present in dendrites,
+but whether the entire population or only a subset are localized near
+synapses is currently unknown38. Because this list includes mRNAs that
+are known targets of FMRP (for example, Arc, aCaMKII), and because
+PSD-95 is an integral component of the postsynaptic density, we
+assessed whether the PSD-95 message was localized in dendrites and,
+if so, whether this localization was dependent on FMRP.
+By analyzing the presence of PSD-95 mRNA in synaptoneurosomes
+from total brain, we found that PSD-95 mRNA showed a marked
+dendrite/soma enrichment ratio (Supplementary Fig. 2 online), suggesting that the mRNA was localized at synapses. This was further
+confirmed by in situ hybridization in neuronal cultures (Fig. 5). We
+found that PSD-95 mRNA localized in both cell bodies and along
+dendrites of hippocampal (Fig. 5a) and cortical (data not shown)
+neurons with a typical punctate pattern. Similarly, a recent large-scale
+screen also suggested putative targeting of the PSD-95 mRNA to both
+proximal and distal dendrites39. Unexpectedly, although PSD-95
+mRNA largely colocalized with FMRP throughout the cell and into
+neurites (Fig. 5a), the PSD-95 mRNA was still localized in dendrites
+from FMR1 knockout hippocampal (Fig. 5a) and cortical (data not
+shown) cultures. Control experiments indicated that we could specifically detect dendritic (aCaMKII) and cell body (a-tubulin) mRNAs38
+(Fig. 5b), and that the sense probes did not show any specific mRNA
+staining (Supplementary Fig. 3 online). These data further confirm
+that the PSD-95 message is part of an FMRP mRNP complex,
+but suggest that FMRP function is not necessary to localize the
+PSD-95 message.
+We confirmed that PSD-95 mRNA was dendritically localized using
+both digoxigenin (DIG) RNA labeling (data not shown) and radioactive in situ hybridization (Fig. 6) on brain slices. PSD-95 mRNA was
+present in the hippocampus, cortex (Fig. 6a) and cerebellum (Fig. 6b).
+The unlocalized control mRNA (a-tubulin) stained only cell bodies in
+the hippocampus and dentate gyrus (Fig. 6c and Supplementary Fig. 4
+online). Although PSD-95 mRNA localization was distinct from
+another localized mRNA (aCaMKII; Fig. 6d and Supplementary
+Fig. 4), PSD-95 mRNA was clearly present in hippocampal dendrites
+of both wild-type and FMR1 knockout mice in a region corresponding
+
+VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007 NATURE NEUROSCIENCE
+
+ARTICLES
+
+a
+
+b
+
+PSD-95 3′ UTR fragment 5 (nt 593–835)
+
+Putative G-quartet
+
+WT
+
+GqM
+
+CT
+– CT Li
+
+CT
+– CT Li
+
+I
+– CT
+
+I,II
+
+I,II,III
+
+– CT
+
+– CT
+
+I U-rich
+
+1
+II U-rich
+
+III U-rich
+
+d
+
+2
+
+3
+
+4
+
+5
+
+I
+G-rich
+
+6
+
+– CT
+
+c
+
+7
+
+8
+
+II
+G-rich
+– CT
+
+9 10
+
+11 12
+
+I + II
+G-rich
+– CT CT+Li
+
+*
+PSD-95 3′ UTR fragment 5 (nt 593–835)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Figure 3 A G-rich region in the PSD-95 3¢ UTR is responsible for FMRP C-terminus binding. (a) Sequence of fragment 5 (nt 593–835) and mutagenesis of the
+putative G-quartet and U-rich regions. The first U-rich region is underlined in green, the second U-rich region in yellow, the third U-rich in red and the putative
+G-quartet in blue. The blue highlighted regions represent two AREs. Bold characters represent introduced substitutions. (b) Wild-type fragment 5 (WT) and the
+putative G-quartet mutated fragment 5 (GqM) were incubated alone (lanes 1 and 4), with FMRP C terminus (lanes 2 and 5) or in the presence of LiCl 50 mM
+(lanes 3 and 6). The first U-rich mutant (I), the first and second U-rich double mutant (I and II) and the triple U-rich mutant (I, II and III) were incubated alone
+(lanes 7, 9 and 11) or with the C-terminus (lanes 8, 10, 12). Unbound RNA fragments (’) and RNA-protein complexes (*) are indicated. (c) The first G-rich
+region is highlighted in blue and the second in green. (d) The first G-rich region (nt 666–741) of fragment 5, the second G-rich region (nt 742–786) or the
+entire G-rich region (nt 666–786) were incubated alone (lanes 1, 3 and 5) or with the C-terminus of FMRP (lanes 2, 4 and 6). The C-terminus and the entire
+G-rich were incubated in the presence of 50 mM of LiCl (lane 7).
+
+to the stratum lacunosum-moleculare (Fig. 6a and Supplementary
+Fig. 4). A control PSD-95 mRNA sense probe did not show any specific
+mRNA staining (Supplementary Fig. 3). Notably, quantification of
+PSD-95 mRNA levels showed a clear, though nonsignificant, reduction
+in hippocampal mRNA in the FMR1 knockout animals relative to
+cortical mRNA levels (Fig. 6a, P 4 0.05). This tendency was not
+observed when comparing PSD-95 cerebellar with cortical mRNA
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+a
+
+WT
+Polysomes
+
+FMR1 KO
+mRNPs
+Polysomes
+
+mRNPs
+
+WT
+
+100
+
+rRNA
+1 2 3 4 5 6 7 8 9 10
+
+NUMBER 5
+
+Polysomes
+
+mRNPs
+
+60
+40
+20
+
+1 2 3 4 5 6 7 8 9 10
+
+0
+
+PSD-95
+-actin
+Arc
+L 22
+
+b
+
+Polysomes
+
+-actin
+
+mRNPs
+WT
+
+1 2 3 4 5 6 7 8 9 10
+
+[
+
+MAY 2007
+
+KO
+
+*
+
+80
+
+PSD-95
+-actin
+Arc
+L 22
+
+Arc
+
+PSD-95
+
+100
+
+1 2 3 4 5 6 7 8 9 10
+
+KO
+
+*
+
+80
+PMP
+
+Figure 4 The PSD-95 mRNA polysomal profile is
+similar in wild-type and FMR1 knockout mice.
+(a) Cytoplasmic brain extract was fractioned by
+centrifugation on a 5–70% sucrose gradient.
+Ten fractions were collected while 254-nm
+absorbance was recorded. RNA was extracted
+from each fraction and visualized on a denaturing
+agarose gel. rRNA 28S, 18S and 5S/tRNA are
+shown in each fraction. Radioactive RT-PCR
+analyses of total RNA in each fraction was carried
+out with primers specific for PSD-95, b-actin, Arc
+and L22 RNAs. The efficiency of translation is
+reported as a graphic profile of PMP, which was
+calculated, after normalization to L22, by
+comparing the radioactivity of the first five
+fractions containing active polysomes with the
+radioactivity from all ten fractions. The PSD-95,
+b–Actin and Arc PMP in each fraction of wild-type
+or FMR1 knockout gradients was normalized for
+L22 RNA. (b) Same as in a, using cytoplasmic
+extracts from the hippocampus. PMP value of
+three independent experiments with standard
+error is reported. *, P o 0.05 for knockout
+versus wild type by Student’s t-test.
+
+(Fig. 6b) or a-tubulin hippocampal with cortical mRNA (Fig. 6c) ratios
+between wild-type and FMR1 knockout mice.
+Together, these data provide evidence that the PSD-95 mRNA is
+localized in dendrites in vitro and in vivo. As there is less PSD-95 mRNA
+in the stratum lacunosum-moleculare in FMR1 knockout mice
+(Fig. 6a), we cannot exclude the possibility that FMRP might be
+involved in a subtle modulation of PSD-95 mRNA localization.
+
+PMP
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+*
+
+60
+40
+20
+0
+
+-actin
+
+PSD-95
+
+Arc
+
+581
+
+ARTICLES
+WT
+
+Figure 5 PSD-95 mRNA is dendritically localized in neuronal cell cultures.
+(a) Left, in situ hybridization carried out using an antisense riboprobe specific
+for PSD-95 mRNA (red), combined with an immunofluorescence for FMRP
+(green) on wild-type (WT) hippocampal cultures (10 DIV). A merged image
+and a merged magnification are also shown (yellow). Right, in situ
+hybridization for PSD-95 in FMR1 knockout hippocampal cultures (top)
+and magnification (bottom). (b) Upper, bright-field image (left) and in situ
+hybridization carried out using an antisense riboprobe specific for the
+cell body–specific a-tubulin mRNA (red, middle), combined with an
+immunofluorescence for FMRP (green, right) on hippocampal cultures
+(10 DIV). Lower, bright-field image (left) and in situ hybridization carried out
+using an antisense riboprobe specific for the dendritically localized aCaMKII
+mRNA (red, middle), combined with an immunofluorescence for FMRP
+(green, right) on hippocampal cultures (10 DIV).
+
+FMR1 KO
+
+PSD-95 mRNA
+
+FMRP (rAM-2)
+
+Merge
+
+Merge
+
+PSD-95 mRNA
+
+PSD-95 mRNA
+
+b
+
+α-tubulin mRNA
+
+FMRP (rAM-2)
+
+αCaMKII mRNA
+
+FMRP (rAM-2)
+
+However, as PSD-95 mRNA is clearly present in dendrites in the
+absence of FMRP (Figs. 5a and 6a), our data suggest that the FMRP
+does not have a primary role in PSD-95 mRNA localization.
+Impaired PSD-95 mRNA and protein levels in FMR1 knockout
+Our results suggest that FMRP does not directly regulate translation
+(Fig. 4) or transport (Figs. 5 and 6) of PSD-95 mRNA. Earlier reports,
+
+a
+
+however, have suggested that FMRP might also control mRNA abundance via transcriptional regulation15–17. Notably, our radioactive
+in situ hybridization data indicated a possible decrease in PSD-95
+mRNA intensity in hippocampal neurons from FMR1 knockout
+mice (Fig. 6a), suggesting that mRNA abundance may be regulated
+by FMRP.
+To determine whether FMRP controls mRNA abundance, we first
+examined the total PSD-95 mRNA level in wild-type and FMR1
+knockout mice. In total brain, PSD-95 mRNA levels were significantly
+decreased in FMR1 knockouts compared with wild-type mice (Fig. 7a).
+Notably, quantitative RT-PCR analyses carried out on the three
+principal brain areas (hippocampus, cerebellum and cortex) showed
+that the decrease in PSD-95 mRNA was very pronounced in the
+hippocampus, less so in the cerebellum and not observed in the cortex
+(Fig. 7b). Quantitative RT-PCR analyses of the PSD-95 mRNA from
+hippocampal neurons of wild-type and FMR1 knockout mice confirmed this hippocampal-specific decrease in PSD-95 mRNA (Fig. 7c).
+Although there was a subtle trend toward lower abundance of PSD-95
+mRNA in the hippocampus as detected with radioactive in situ
+hybridization (Fig. 6), this was not statistically significant, and we
+believe that these differences may be due to different sensitivities
+of the techniques. Differential PSD-95 expression was also reflected at
+
+b
+
+PSD-95 mRNA
+WT
+
+FMR1 KO
+
+WT
+
+c
+
+WT
+
+FMR1 KO
+
+1.0
+0.5
+0
+
+d
+
+α-tubulin mRNA
+WT
+
+FMR1 KO
+
+1.5
+
+WT
+
+1.5
+
+FMR1 KO
+
+2.0
+1.5
+1.0
+0.5
+0
+
+αCaMKII mRNA
+
+FMR1 KO
+2.0
+
+WT
+Cerebellum/cortex
+(arbitrary units)
+
+FMR1 KO
+
+Hippocampus/cortex
+(arbitrary units)
+
+WT
+
+Hippocampus/cortex
+(arbitrary units)
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+a
+
+FMR1 KO
+
+WT
+FMR1 KO
+
+1.0
+0.5
+0
+
+Figure 6 PSD-95 mRNA is dendritically localized in vivo. Radioactive in situ hybridization on transversal brain sections from wild-type (WT; left image in each
+case) and FMR1 knockout mice (KO; right image in each case) for (a,b) PSD-95, (c) a-tubulin and (d) aCaMKII mRNAs for PSD-95 mRNA in both wild-type
+and knockout mice. Arrows point to the stratum lacunosum-moleculare. Right, an enlargement of the CA2 areas marked by the white arrows in the smaller
+image is shown. Black arrows point to the hippocampal region enriched in PSD-95 mRNA. Quantification of PSD-95 mRNA level in hippocampus relative to
+cortex is shown (average value from three sections are reported, with s.e.). (a,b) Cerebellar sections are shown. Quantification of PSD-95 mRNA level in
+cerebellum relative to cortex is shown (average values from three sections are reported, with s.e.). (c) In situ hybridization on brain sections from wild-type
+and FMR1 knockout mice for a-tubulin mRNA. A blown-up of the areas marked by the white arrows is shown. Black arrows indicate the lack of any detectable
+signal in this area. Quantification of a-tubulin mRNA level in hippocampus relative to cortex is shown (average value from three sections are reported, with
+s.e.). (d) In situ hybridization on brain sections from wild-type and FMR1 knockout mice for aCaMKII mRNA.
+
+582
+
+VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007 NATURE NEUROSCIENCE
+
+1.9
+
+β-actin
+
+1.3
+
+0.8
+0.6
+0.4
+
+*
+
+0.2
+0
+
+WT KO
+
+m
+C
+or
+
+C
+er
+eb
+
+te
+x
+
+el
+
+ca
+H
+ip
+
+1.0
+
+PSD-95 mRNA ∆ (KO – WT)
+
+5.5
+4.9
+3.6
+2.6
+1.9
+1.3
+
+PSD-95
+
+0
+–0.2
+–0.4
+
+*
+*
+
+–0.6
+–0.8
+–1.0
+
+*
+*
+
+1.0
+
+Hippocampus
+Cortex
+
+0
+
+–1.0
+
+Activity-dependent FMRP control of PSD-95 mRNA stability
+To directly assess whether this change in mRNA level was a result of
+altered transcription or mRNA stability, we examined the half-life of
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+4
+
+6
+8
+Time (h)
+
+10
+
+C
+or
+
+te
+x
+
+el
+
+lu
+
+m
+
+c
+WT
+KO
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+
+12
+
+Luciferase mRNA/histone mRNA
+Frag 5 WT
+Frag 5 KO
+Frag 2 WT
+Frag 2 KO
+
+1.0
+Percentage
+remaining mRNA
+
+WT
+KO
+
+0
+
+the PSD-95 message in cortical and hippocampal primary cultured
+neurons. Notably, after transcriptional blockade with actinomycin D,
+PSD-95 mRNA abundance was significantly and selectively reduced in
+hippocampal cultures in the absence of FMRP (Fig. 8a and Supplementary Fig. 5 online). The stability of PSD-95 mRNA was unaffected
+in FMR1 knockout cortical cultures (Supplementary Fig. 6 online), in
+agreement with prior results (Fig. 6a and 7b,c). These results were not
+due to nonspecific cell death effects, as the morphology of hippocampal
+cells from wild-type and FMR1 knockout mice were the same (Supplementary Fig. 7 online) and cell survival was the same in both
+genotypes (Fig. 8b), although we did note that after 12 h both the wildtype and FMR1 knockout neurons showed some increase in the
+
+b
+
+PSD-95 mRNA/histone mRNA
+
+Mitochondrial activity
+(arbitrary units)
+
+a
+
+C
+er
+eb
+
+ca
+
+po
+
+H
+ip
+
+the protein level, with a statistically significant decrease occurring
+in the hippocampus and a nonsignificant decrease in the cerebellum
+(Fig. 7d, P 4 0.05).
+These data suggest that either transcription or stability of the PSD-95
+mRNA is regulated by FMRP in the hippocampus. Critically, the
+hippocampus is important for the learning processes that are altered
+in people with FXS40, and the loss of PSD-95 results in hippocampaldependent learning defects20.
+
+m
+
+pu
+
+s
+
+d
+
+Relative PSD-95 mRNA level
+
+Figure 7 PSD-95 mRNA and protein levels are altered in the FMR1
+1.0
+knockout mice. (a) PSD-95 and b-actin mRNA levels from total brain were
+0.8
+analyzed by northern blotting in wild-type (WT) or FMR1 knockout (KO)
+mice. The same membrane was hybridized and normalized for b-actin mRNA
+0.6
+WT KO WT KO WT KO
+*
+(lower). The PSD-95 mRNA/b-actin ratio is reported as a histogram with s.e.
+*
+0.4
+(b) PSD-95 mRNA levels in three different brain regions were estimated by
+PSD-95
+quantitative RT-PCR from three wild-type and three FMR1 knockout mice,
+0.2
+normalized to those of histone H3 and shown in a histogram as the
+0
+elF4E
+difference between FMR1 knockout versus wild type values. Error bars
+WT KO
+WT KO
+WT KO
+Hippocampus
+Cerebellum
+Cortex
+represent s.e. (c) The level of PSD-95 mRNA in hippocampal or cortical
+neuronal cell culture was estimated by quantitative RT-PCR, normalizing the
+values to histone mRNA. The histogram represents the difference between
+the values for FMR1 knockout and wild type, and the bars represent the s.e. of three independent measurements. (d) Protein extracts from cortex,
+hippocampus or cerebellum of four wild-type and four FMR1 knockout mice were analyzed for PSD-95 and eIF4E proteins. Left, western blot from one of the
+four independent mice analyzed for PSD-95 and eIF4E. Right, histogram showing results with s.e. *, P o 0.05 and **, P o 0.01 for knockout versus wild
+type by Student’s t-test in all panels.
+
+Percentage
+remaining mRNA
+
+0.8
+0.6
+0.4
+0.2
+0
+
+0
+
+4
+
+6
+8
+Time (h)
+
+10
+
+0
+
+12
+
+d
+
+4
+Time (h)
+
+6
+
+PSD-95 mRNA/histone mRNA
+
+WT actD + DHPG
+Figure 8 FMRP regulates the stability of PSD-95 mRNA in hippocampal cells through an
+KO actD + DHPG
+activity-dependent mechanism. (a) RNA was isolated at the indicated times after
+WT actD
+KO actD
+actinomycin D application to hippocampal neurons from wild-type or FMR1 knockout mice,
+1.0
+and the stability of PSD-95 mRNA was normalized to the values for histone H3 mRNA.
+**
+(b) MTT assay carried out on wild-type and FMR1 knockout hippocampal cells during the
+**
+actinomycin D treatments. The s.e. of three measurements for each time point is shown.
+(c) Stability of a chimeric mRNA containing the Renilla luciferase reporter and either
+0
+fragment 2 or fragment 5 of PSD-95 3¢ UTR transfected into wild-type or FMR1
+0
+4
+6
+knockout hippocampal neurons. mRNA levels were measured at the indicated times after
+Time (h)
+actinomycin D application by quantitative RT-PCR, with the values normalized to those for
+histone H3 mRNA. (d) mRNA was isolated at the indicated times after actinomycin D or actinomycin D + DHPG application to hippocampal neurons from
+wild-type or FMR1 knockout mice. The stability of PSD-95 mRNA in wild-type or FMR1 knockout hippocampal cells was measured by quantitative RT-PCR.
+**, P o 0.01 for knockout versus wild type by Student’s t-test.
+
+Percentage
+remaining mRNA
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+M (Kb)
+
+PSD-95 mRNA ∆ (KO – WT)
+
+KO
+
+Relative PSD-95 mRNA level
+
+WT
+
+c
+
+lu
+
+m
+
+b
+
+po
+
+a
+
+pu
+
+s
+
+ARTICLES
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007
+
+583
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+amount of cell death (E25%). Together, these results suggest that
+FMRP functions to stabilize the PSD-95 mRNA specifically in the
+hippocampus. Furthermore, the stability of a reporter (Renilla
+reniformis luciferase) RNA carrying the FMRP-interacting portion of
+the PSD-95 3¢ UTR (fragment 5) was more stable when transfected into
+wild-type versus FMR1 knockout hippocampal neurons (Fig. 8c),
+whereas a reporter RNA containing another PSD-95 3¢ UTR that
+does not bind FMRP (fragment 2) was equally unstable in both
+cultures (Fig. 8c). These data strongly suggest that a direct interaction
+between FMRP and the PSD-95 3¢ UTR is necessary to confer
+mRNA stabilization.
+Because FMRP has not been previously shown to regulate mRNA
+stability, we also assessed the stability of 11 other FMRP targets and 2
+synaptic scaffolding proteins whose mRNAs are localized in dendrites
+(Homer1a and Shank1). Of these mRNAs (Supplementary Table 1
+online), only myelin basic protein mRNA (MBP) changed its stability.
+MBP mRNA is a target of FMRP regulation41, and is present only in glia
+cells, which also express FMRP8,41. We detected the MBP mRNA
+because our primary neurons were cocultured with glial cells. Notably,
+although this list is clearly not exhaustive, our analyses suggest that
+FMRP-mediated mRNA stabilization is a highly selective mechanism
+with respect to both cell type and target mRNA, and that it works in
+both neurons and glia.
+Because FMRP is regulated by mGluR activation (for example, see
+refs. 29,42,43), we also investigated whether mGluR stimulation would
+alter FMRP-dependent PSD-95 mRNA stabilization. Using two independent protocols (see Methods for details), we found that the presence
+of (S)-3,5-dihydroxyphenylglycine (DHPG) further stabilized PSD-95
+mRNA in wild-type cells at both time points measured (Fig. 8d). In
+FMR1 knockout cells, the addition of DHPG provided only transient
+stabilization that did not persist at the later time point, suggesting that
+DHPG might also have a transient, FMRP-independent effect on
+mRNA half-life. Quantification of three independent experiments
+indicated that there was a significant DHPG-dependent stabilization
+effect only in the wild-type neurons and that this effect was mostly lost
+in FMR1 knockout hippocampal cells (Fig. 8d). Together, the data
+suggest that there is a long-lasting FMRP-dependent stabilization effect
+via mGluR-specific neuronal activity.
+DISCUSSION
+In this paper we have shown that FMRP interacts directly with the
+3¢ UTR of PSD-95 mRNA. However, we found that PSD-95 mRNA
+polysomal association remained the same in wild-type and FMR1
+knockout mice and that the PSD-95 mRNA was still dendritically
+localized in FMR1 knockout neurons. Although translation of the PSD95 mRNA may decrease as a result of postinitiation mechanisms (that
+is, as in the case of some miRNAs; reviewed in ref. 37) that we cannot
+detect with the current assay, this translation mechanism would be
+different from that previously documented for other FMRP targets
+(such as Arc).
+Notably, we found that the FMRP–PSD-95 mRNA interaction
+resulted in a stabilization of the PSD-95 message that can be further
+increased via mGluR stimulation. In FMR1 knockout mice the PSD-95
+message was less stable, resulting in a reduction of this critical synaptic
+protein. These observations are consistent with previous circumstantial
+evidence suggesting that FMRP could potentially control mRNA
+abundance. A microarray study identified 113 FMRP-associated
+mRNAs whose abundances are reduced in fragile X cell lines, yet
+whose polysome profile remained unchanged16. Another study found
+decreases in the levels of some FMRP-target mRNAs in the absence of
+FMRP17. Although neither group examined these mRNAs further, it is
+
+584
+
+possible that reduced levels of these mRNAs actually reflect a loss of
+mRNA stability in the absence of FMRP. Our finding that at least one
+other mRNA (MBP) was destabilized in the absence of FMRP lends
+support to this idea.
+Unexpectedly, we found that the stabilization of the PSD-95 message
+was dependent on the area of the brain examined. The effect was most
+prominent in the hippocampus, present to a minor extent in
+cerebellum and nonexistent in the cortex. This lack of a cortical effect
+is consistent with previous findings that PSD-95 protein levels are the
+same in wild-type and FMR1 knockout cortical cells29. That study also
+observed an FMRP-dependent increase in PSD-95 protein in cortical
+cells shortly after DHPG treatment, but found that protein levels fell
+back to baseline by 4 h29, suggesting that there was a transient surge in
+PSD-95 expression. In hippocampal neurons, we observed that the
+relative level of the PSD-95 mRNA rose slightly after 4–6 h of DHPG
+exposure, suggesting that there is an additional activity-dependent
+increase in RNA stability. Together, these data suggest that FMRP can
+regulate, according to the physiological state (DHPG-treated or not)
+and cell type (cortical or hippocampal), both a rapid rise in PSD-95
+translation (cortex) and a more prolonged rise in PSD-95 mRNA levels
+as a result of an increase in stability (hippocampus), and suggest that
+FMRP could have multiple independent roles.
+We have mapped the binding site of FMRP to a G-rich element that
+is flanked by two AU-rich elements (AREs), well-known cis-acting
+mRNA elements that regulate mRNA half-life. Several trans-acting
+factors that aid in both stabilization and destabilization of target
+mRNAs are known to bind to AREs44. Notably, regulation of HuD, a
+member of the Hu class of ARE-binding proteins44, during neuronal
+development results in temporal regulation of GAP-43 (ref. 45).
+Similarly, regulation of mRNA stability is often the result of competition between stabilizing and destabilizing factors44. It is therefore
+plausible that the region-specific regulation of the PSD-95 message is
+a result of interference between the stabilizing role of FMRP and the
+stabilizing and destabilizing functions of other binding factors. In
+support of this notion, we found that the hippocampus and cortex
+contained different forms of Hu-family proteins (Supplementary
+Fig. 8 online). Combinatorial models are an emerging theme explaining RNA-protein binding specificity (reviewed in ref. 46,47), and in our
+case may explain why FMRP does not stabilize all of its known binding
+targets (Supplementary Table 1).
+We also found that the PSD-95 mRNA was localized in dendrites in
+vivo, but that its localization was not dependent on FMRP, further
+highlighting the complexity surrounding FMRP’s many roles in the
+cytoplasm. Several factors are known to bind to FMRP and are
+presumed to aid it in these cytoplasmic regulatory functions. To
+date, however, only one of these interactions has been shown to aid
+FMRP function. Cooperative binding between FMRP and the BC1
+RNA leads to the translational repression of a subset of mRNAs, and
+BC1 functions as a repressor of translational initiation in rabbit
+reticulocyte assays3. We expect further binding partners to collaborate
+with FMRP to aid translational repression, mRNP localization and this
+newly identified mRNA stabilization function.
+Although a large number of putative FMRP target mRNAs have been
+isolated in the past 5 years, relatively few are known to be involved in
+regulating synapse structure and function. Our results strengthen the
+idea that FMRP function is extremely important for the correct
+formation of the postsynaptic compartment. These results also support
+the notion that the underlying cause of FXS, and potentially other
+forms of mental retardation, may involve direct interference with
+synaptic signaling that leads to spine dysmorphogenesis and ultimately
+to memory defects1. Notably, the mRNA encoding a PSD-95 associated
+
+VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007 NATURE NEUROSCIENCE
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+protein, SAPAP4, has also been shown to be in a complex with FMRP16.
+In addition, PSD-95, SAPAP4, Arc and aCaMKII are all components of
+the large-scale NMDA receptor signaling complex that links NMDA
+receptors to the mGluR signaling pathway23, and disruption of PSD-95
+(ref. 20), Arc48 and aCaMKII (ref. 22) all result in learning impairments. This is of interest in light of the evidence suggesting that
+alterations in glutamate receptor signaling via mGluRs might underlie
+a number of the cognitive deficits associated with FXS23. Furthermore,
+various other cases of neurological deficits also result in a decrease in
+PSD-95 expression (for example, refs. 49,50), suggesting that strict
+regulation of PSD-95 expression is required for proper brain function.
+PSD-95 is important in both behavioral memory and dendritic spine
+morphology27, both features of FXS. Together, these results suggest that
+FMRP may regulate NMDA and mGluR receptor signaling through
+several proteins, including PSD-95, and that the cognitive and anatomical defects in FXS may arise from the disruption of this complex.
+
+DNA, and in vitro synthesized Cy5-labeled riboprobe). We carried out
+immunofluorescence and immunohistochemistry preincubation in 2% donkey
+serum, 0.2% Triton X-100, and then incubation in 1% BSA with antibodies
+specific for FMRP antibodies8, followed by Cy3-labeled secondary antibodies
+specific for rabbit IgG (Jackson ImmunoResearch). We analyzed neurons by
+confocal scanning microscopy (Zeiss LSM 510).
+
+METHODS
+
+Immunoprecipitation and RT-PCR. Whole brain was homogenized in 10 mM
+HEPES pH 7.4, 200 mM NaCl, 0.5% Triton X-100, 30 mM EDTA, protease
+inhibitors (Sigma-Aldrich) and 30 U ml–1 RNasin. We preblocked 20 ml protein
+A–Sepharose (0.1 mg ml–1 BSA, 0.1 mg ml–1 yeast tRNA and 0.1 mg ml–1
+glycogen) for 1 h and then immunoprecipitated with specific FMRP antibodies8. DNase I (RNase-free, Amersham Pharmacia Biotech) was added
+during washes. We treated the immunoprecipitate with 50 mg proteinase K
+(Sigma-Aldrich) before RNA extraction and precipitation. First-strand synthesis was performed using p(dN)6 and 100 U of M-MLV RTase (Invitrogen).
+RT-PCR was performed as described in ref. 8. Radioactive semiquantitative
+RT-PCR reactions were performed in nonsaturating conditions in the presence
+of 0.2 mCi[a-32P]dCTP, 1 mM dCTP and 10 mM each dATP, dGTP and dTTP
+and analyzed on a 5% polyacrylamide gel.
+
+Animal treatment. Animal care conformed to institutional guidelines in
+compliance with national and international laws and policies (European
+Community Council Directive 86/609, Oja L 358,1, December 12, 1987; NIH
+Guide for the Care and Use of Laboratory Animals). All animals were 3-weekold males (C57/BL6 wild type and two FMR1 knockout strains on C57/BL6 and
+FVB background).
+Western blots. We used standard methodologies with an FMRP monoclonal
+antibody (MAB2160) from Chemicon and a polyclonal antibody (rAM2)
+produced in our laboratory8. The PSD-95 antibody was from Upstate
+(1:1,000) and the eIF4E antibody from Cell Signaling (1:10,000). All secondary
+antibodies were from Promega. The proteins were revealed using ECL Plus and
+a phosphoimager (both from Amersham).
+cDNA constructs. We obtained a mouse PSD-95 cDNA construct with the 3¢
+UTR from the IMAGE consortium (ID 10318) and also isolated PSD-95 coding
+and 3¢ UTR fragments via RT-PCR from mouse brain extract and T/A cloning
+(Promega Easy T/A cloning kit; pT/A-Fragment 1–5). Details of constructs and
+mutagenesis are reported in the Supplementary Methods online. FMRP
+protein domains were previously reported34.
+EMSA. We carried out binding reactions using full-length human FMRP
+protein in binding buffer (300 mM KCl, 5 mM MgCl2, 2 mM DTT, 0.5%
+glycerol, 20 mM HEPES pH 7.5 and 300 ng ml–1 tRNA), incubating at 25 1C or
+4 1C for 30 min. We added heparin (0.3 mg) for 5 min before separation on a
+6% native polyacrylamide gel. We carried out binding reactions with FMRP
+domains in the same buffer plus 100 or 300 mM KCl and 50–100-ng
+recombinant protein.
+In vitro transcription. We carried out these reactions using standard protocols
+(Ambion SP6/T7 Mega-Script) with [a-32P]UTP, [a-35S]UTP and UTP-Cy5 for
+EMSA, northern blotting and in situ hybridization, respectively.
+Primary cultures. We prepared primary cortical and hippocampal neuronal
+cultures from embryonic mice (embryonic day 15, cortical; embryonic day 19,
+hippocampal) using standard protocols.
+Neuronal transfection. We transfected hippocampal neurons at 14 days in vitro
+(DIV) using a standard Ca2+ phosphate precipitation protocol. We washed the
+precipitate using Hanks’ balanced saline (HBSS) and carried out actinomycin D
+experiments 48 h later.
+FISH, immunofluorescence and immunohistochemistry. We fixed primary
+hippocampal and cortical neurons at 20–25 1C for 15 min (4% paraformaldehyde, 2 mM MgCl2, 5 mM EGTA in 1 PBS) and then UV irradiated and
+permeabilized the cells (1 PBS containing 0.1% Triton X-100). We prehybridized neurons (50% formamide, 2 SSC, 10 mM NaH2PO3) and then
+hybridized at 42 1C (30% formamide, 10 mM NaH2PO3, 10% dextran sulfate,
+2 SSC, 0.2% BSA, 0.5 mg ml–1 yeast tRNA and 500 mg ml–1 salmon sperm
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007
+
+Radioactive in situ hybridization. We cryostat sectioned, fixed (4% paraformaldehyde), permeabilized (1 mg ml–1 proteinase K) and acetylated (0.25%
+of acetic anhydride in 0.1 M triethanolamine, pH 8.0) brains before
+prehybridization and hybridization using standard protocols (55 1C in 50%
+formamide, 1 Denhardt’s solution, 10% dextran sulfate, 0.3 M NaCl, 5 mM
+EDTA, 0.5 mg ml–1 yeast tRNA, 20 mM Tris HCl pH 8.0, 50 mM DTT and 105
+cpm ml–1 of [a-35S]UTP-riboprobe). Slides were emulsified (Kodak autoradiography emulsion NTB2) and developed (ILFORD PQ developer) after 7–15 d
+of exposition. We analyzed sections by microscopy using a Zeiss Axioskop
+(1.25 or 5 objectives), acquired images with a Canon S50 digital camera and
+quantified the signal using ImageQuant and ImageJ.
+
+Reversible cross-linking. We performed experiments as previously described32.
+Briefly, we washed hippocampal neurons at 10 DIV with Neurobasal medium
+containing 2% B27, and cross-linked them in 0.5% formaldehyde (J.T. Baker)
+for 30 min at 20–25 1C and quenched with 0.25 M glycine (Bio-Rad). We
+harvested cells by centrifugation, PBS washing and resuspension in RIPA
+buffer (see ref. 32). We immunoprecipitated cross-linked complexes with
+an FMRP antibody8. Before RT-PCR, we reversed cross-linking by treatment
+at 70 1C.
+Polysomal analysis and RT-PCR. We analyzed cytoplasmic brain extract (of
+total brain and hippocampi) as previously described8. See Supplementary
+Methods for details.
+mRNA stability assay. We treated primary cortical or hippocampal cultures
+(10 DIV) from time 0 with actinomycin D (10 mg ml–1) for the indicated times.
+We washed cultures in PBS, extracted RNA with Trizol and analyzed RNA by
+quantitative RT-PCR. We used a NIKON C1 with plan-neofluar 20 to analyze
+both wild-type and FMR1 knockout cultures for morphology. We assessed
+mRNA stability after DHPG treatment in two different ways. First, we added
+DHPG (100 mM) to cultures pre-exposed to actinomycin D for 3.5 h or 5.5 h.
+After 30 min of DHPG treatment, we collected mRNA for quantitative RT-PCR
+analysis. Second, we added DHPG (50 mM) and actinomycin D jointly to cells
+at time 0 and collected RNA 4 or 6 h later for quantitative RT-PCR analysis.
+Quantitative RT-PCR. We carried out reactions with MoMLV–reverse
+transcriptase (Invitrogen) and the TaqMan Universal PCR Master Mix
+(ABI 4304437) using dual-labeled TaqMan probes (Applied Biosystems). We
+detected mouse PSD-95 mRNA using the Pre-Developed TaqMan probe
+Mm00492193_m1 and compared with the endogenous control mRNA (mouse
+H3f3b mRNA Pre-Developed TaqMan probe Mm00787223_s1). Cycle parameters were as suggested by the manufacturer. Relative PSD-95 mRNA
+levels, normalized to H3f3b, were calculated as follows: 2–[DeltaCt(treated) –
+DeltaCt(untreated)] ¼ 2–DeltaCt, where DeltaCt equals Ct(PSD-95) – Ct(H3f3b).
+b-actin mRNA was detected with Pre-Developed TaqMan probe
+
+585
+
+ARTICLES
+Mm00607939_s1, and Renilla luciferase mRNA was detected using primers
+specifically designed by Applied Biosystems (See Supplementary Methods).
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+Primers. We provide a table listing the primers used in this study in the
+Supplementary Methods.
+Neuronal cell survival (mitochondrial activity). We measured the mitochondrial activity using the colorimetric MTT assay by incubating hippocampal
+cultures for 30 min at 37 1C with 1 ml of Locke’s buffer (154 mM NaCl,
+5.6 mM KCl, 3.6 mM NaHCO3, 2.3 mM CaCl2, 1.2 mM MgCl2, 5.6 mM
+glucose, 5 mM HEPES, pH 7.4) containing 300 mg MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium, Sigma). We then dissolved cultures with
+700 ml of DMSO and tested viable neurons by production of the purple MTT
+cleavage product, formazan. We took three independent measurements of
+sample optical density using a VICTOR 3V 1420 Multilabel Counter at 490 nm
+and reported the mean with s.d. The value of each culture is divided by the
+reference value (control culture at time 0).
+Northern blot analysis. We probed 2 mg of poly(A)+ RNA from the entire
+brain or 20 mg of total RNA using a mouse [a-32P]UTP PSD-95 mRNA
+antisense probe to fragment 5 (nucleotides (nt) 2,820–3,061 of BC014807),
+the entire 3¢ UTR (nt 2,227–3,061 from BC014807) or the coding region
+(nt 61–2,226 of BC014807). We probed the same membrane with a b-actin
+cDNA antisense fragment (nt 258–837 of X03672) and quantified radioactive
+signals with a phosphoimager (Amersham).
+Note: Supplementary information is available on the Nature Neuroscience website.
+
+ACKNOWLEDGMENTS
+We thank B.A. Oostra for the FMR1 knockout mice, N.K. Gray and T. Achsel
+for their critical evaluation of the manuscript, and O. Steward for precious
+suggestions and reagents. We thank M.A. Kiebler for advice on the neuronal
+transfection protocol. This research was funded by a European Molecular Biology
+Organization short-term fellowship, a Royal Society of Edinburgh Scottish
+Executive Enterprise and Lifelong Learning Department fellowship and a
+Biotechnology and Biological Sciences Research Council grant (C19143) to
+K.S.D., by Telethon (GGP05269), Ministero della Salute, Ministero della
+Università (FIRB) to C.B. and by Wellcome Trust grant number 056523
+and the Wellcome Trust Genes to Cognition Programe to S.G.N.G. F.Z.
+was supported by the Associazione Italiana Sindrome dell’X Fragile.
+AUTHOR CONTRIBUTIONS
+F.Z. contributed to the conclusions drawn in Figures 1, 4, 6, 7 and 8. B.E.
+contributed to the conclusions drawn from Figures 5–8. K.S.D. provided
+intellectual input, contributed to the conclusions drawn from Figures 1–3 and 8,
+contributed a portion of the funding and contributed to the writing of this
+manuscript. V.M. contributed to the conclusions drawn from Figures 5–7.
+S.D.R. contributed to the conclusions drawn from Figures 2, 3 and 7. A.D.P.
+contributed to the conclusions drawn from Figures 1 and 7. E.T. and P.C.
+contributed to the conclusions drawn from Figures 7 and 8. G.N. contributed
+with intellectual inputs. S.G.N.G. contributed some initial funding for this work
+and intellectual inputs. C.B. provided intellectual input, funding, coordination of
+the project and contributed to the writing of this manuscript.
+COMPETING INTERESTS STATEMENT
+The authors declare no competing financial interests.
+Published online at http://www.nature.com/natureneuroscience
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions
+
+1. Bagni, C. & Greenough, W.T. From mRNP trafficking to spine dysmorphogenesis: the
+roots of fragile X syndrome. Nat. Rev. Neurosci. 6, 376–387 (2005).
+2. Darnell, J.C., Mostovetsky, O. & Darnell, R.B. FMRP RNA targets: identification and
+validation. Genes Brain Behav. 4, 341–349 (2005).
+3. Zalfa, F., Achsel, T. & Bagni, C. mRNPs, polysomes or granules: FMRP in neuronal
+protein synthesis. Curr. Opin. Neurobiol. 16, 265–269 (2006).
+4. Darnell, J.C. et al. Fragile X mental retardation protein targets G-quartet mRNAs
+important for neuronal function. Cell 107, 489–499 (2001).
+5. Schaeffer, C. et al. The fragile X mental retardation protein binds specifically to its mRNA
+via a purine quartet motif. EMBO J. 20, 4803–4813 (2001).
+6. Ramos, A., Hollingworth, D. & Pastore, A. G-quartet–dependent recognition between the
+FMRP RGG box and RNA. RNA 9, 1198–1207 (2003).
+
+586
+
+7. Chen, L., Yun, S.W., Seto, J., Liu, W. & Toth, M. The fragile X mental retardation protein
+binds and regulates a novel class of mRNAs containing U-rich target sequences.
+Neuroscience 120, 1005–1017 (2003).
+8. Zalfa, F. et al. The fragile X syndrome protein FMRP associates with BC1 RNA and
+regulates the translation of specific mRNAs at synapses. Cell 112, 317–327 (2003).
+9. Gabus, C., Mazroui, R., Tremblay, S., Khandjian, E.W. & Darlix, J.L. The fragile X mental
+retardation protein has nucleic acid chaperone properties. Nucleic Acids Res. 32,
+2129–2137 (2004).
+10. Zalfa, F. et al. Fragile X mental retardation protein (FMRP) binds specifically to the brain
+cytoplasmic RNAs BC1/BC200 via a novel RNA-binding motif. J. Biol. Chem. 280,
+33403–33410 (2005).
+11. Johnson, E.M. et al. Role of Pur alpha in targeting mRNA to sites of translation in
+hippocampal neuronal dendrites. J. Neurosci. Res. 83, 929–943 (2006).
+12. Jin, P., Alisch, R.S. & Warren, S.T. RNA and microRNAs in fragile X mental retardation.
+Nat. Cell Biol. 6, 1048–1053 (2004).
+13. Darnell, J.C. et al. Kissing complex RNAs mediate interaction between the fragile X
+mental retardation protein KH2 domain and brain polyribosomes. Genes Dev. 19,
+903–918 (2005).
+14. Kanai, Y., Dohmae, N. & Hirokawa, N. Kinesin transports RNA: isolation and characterization of an RNA-transporting granule. Neuron 43, 513–525 (2004).
+15. Zhong, N., Ju, W., Nelson, D., Dobkin, C. & Brown, W.T. Reduced mRNA for G3BP in
+fragile X cells: evidence of FMR1 gene regulation. Am. J. Med. Genet. 84, 268–271
+(1999).
+16. Brown, V. et al. Microarray identification of FMRP-associated brain mRNAs and altered
+mRNA translational profiles in fragile X syndrome. Cell 107, 477–487 (2001).
+17. Miyashiro, K.Y. et al. RNA cargoes associating with FMRP reveal deficits in cellular
+functioning in Fmr1 null mice. Neuron 37, 417–431 (2003).
+18. Huber, K.M., Gallagher, S.M., Warren, S.T. & Bear, M.F. Altered synaptic plasticity in
+a mouse model of fragile X mental retardation. Proc. Natl. Acad. Sci. USA 99,
+7746–7750 (2002).
+19. Tonegawa, S. et al. Hippocampal CA1–region–restricted knockout of NMDAR1 gene
+disrupts synaptic plasticity, place fields and spatial learning. Cold Spring Harb. Symp.
+Quant. Biol. 61, 225–238 (1996).
+20. Migaud, M. et al. Enhanced long-term potentiation and impaired learning in mice with
+mutant postsynaptic density–95 protein. Nature 396, 433–439 (1998).
+21. Fagiolini, M. et al. Separable features of visual cortical plasticity revealed by N-methylD-aspartate receptor 2A signaling. Proc. Natl. Acad. Sci. USA 100, 2854–2859 (2003).
+22. Silva, A.J., Paylor, R., Wehner, J.M. & Tonegawa, S. Impaired spatial learning in
+a-calcium-calmodulin kinase II mutant mice. Science 257, 206–211 (1992).
+23. Husi, H., Ward, M.A., Choudhary, J.S., Blackstock, W.P. & Grant, S.G. Proteomic
+analysis of NMDA receptor–adhesion protein signaling complexes. Nat. Neurosci. 3,
+661–669 (2000).
+24. Sheng, M. & Kim, M.J. Postsynaptic signaling and plasticity mechanisms. Science 298,
+776–780 (2002).
+25. Cuthbert, P.C. et al. SAP102/dlgh3 couples the NMDA receptor to specific plasticity
+pathways and learning strategies. J. Neurosci. 27, 2673–2682 (2007).
+26. Tarpey, P. et al. Mutations in the DLG3 gene cause nonsyndromic X-linked mental
+retardation. Am. J. Hum. Genet. 75, 318–324 (2004).
+27. Vickers, C.A. et al. Neurone specific regulation of dendritic spines in vivo by post
+synaptic density–95 protein (PSD-95). Brain Res (2006).
+28. Reiss, A.L., Lee, J. & Freund, L. Neuroanatomy of fragile X syndrome: the temporal lobe.
+Neurology 44, 1317–1324 (1994).
+29. Todd, P.K., Mack, K.J. & Malter, J.S. The fragile X mental retardation protein is required
+for type-I metabotropic glutamate receptor–dependent translation of PSD-95. Proc.
+Natl. Acad. Sci. USA 100, 14374–14378 (2003).
+30. Zhang, Y.Q. et al. Drosophila fragile X–related gene regulates the MAP1B
+homolog Futsch to control synaptic structure and function. Cell 107, 591–603 (2001).
+31. Lu, R. et al. The fragile X protein controls microtubule-associated protein 1B translation
+and microtubule stability in brain neuron development. Proc. Natl. Acad. Sci. USA 101,
+15201–15206 (2004).
+32. Niranjanakumari, S., Lasda, E., Brazas, R. & Garcia-Blanco, M.A. Reversible crosslinking combined with immunoprecipitation to study RNA-protein interactions in vivo.
+Methods 26, 182–190 (2002).
+33. Bence, M., Arbuckle, M.I., Dickson, K.S. & Grant, S.G. Analyses of murine postsynaptic
+density–95 identify novel isoforms and potential translational control elements. Brain
+Res. Mol. Brain Res. 133, 143–152 (2005).
+34. Adinolfi, S. et al. Dissecting FMR1, the protein responsible for fragile X syndrome, in its
+structural and functional domains. RNA 5, 1248–1258 (1999).
+35. Williamson, J.R., Raghuraman, M.K. & Cech, T.R. Monovalent cation–induced structure
+of telomeric DNA: the G-quartet model. Cell 59, 871–880 (1989).
+36. Klann, E. & Dever, T.E. Biochemical mechanisms for translational regulation in synaptic
+plasticity. Nat. Rev. Neurosci. 5, 931–942 (2004).
+37. Pillai, R.S., Bhattacharyya, S.N. & Filipowicz, W. Repression of protein synthesis by
+miRNAs: how many mechanisms? Trends Cell Biol. 17, 118–126 (2007).
+38. Steward, O. & Schuman, E.M. Compartmentalized synthesis and degradation of proteins
+in neurons. Neuron 40, 347–359 (2003).
+39. Lein, E.S. et al. Genome-wide atlas of gene expression in the adult mouse brain. Nature
+445, 168–176 (2007).
+40. Loesch, D.Z., Huggins, R.M. & Hagerman, R.J. Phenotypic variation and FMRP levels in
+fragile X. Ment. Retard. Dev. Disabil. Res. Rev. 10, 31–41 (2004).
+41. Wang, H. et al. Developmentally-programmed FMRP expression in oligodendrocytes: a
+potential role of FMRP in regulating translation in oligodendroglia progenitors. Hum.
+Mol. Genet. 13, 79–89 (2003).
+
+VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007 NATURE NEUROSCIENCE
+
+ARTICLES
+46. Singh, R. & Valcarcel, J. Building specificity with nonspecific RNA-binding proteins.
+Nat. Struct. Mol. Biol. 12, 645–653 (2005).
+47. Ule, J. & Darnell, R.B. RNA binding proteins and the regulation of neuronal synaptic
+plasticity. Curr. Opin. Neurobiol. 16, 102–110 (2006).
+48. Plath, N. et al. Arc/Arg3.1 is essential for the consolidation of synaptic plasticity and
+memories. Neuron 52, 437–444 (2006).
+49. Gylys, K.H. et al. Synaptic changes in Alzheimer’s disease: increased amyloid-beta and
+gliosis in surviving terminals is accompanied by decreased PSD-95 fluorescence. Am.
+J. Pathol. 165, 1809–1817 (2004).
+50. Toro, C. & Deakin, J.F. NMDA receptor subunit NRI and postsynaptic protein PSD-95 in
+hippocampus and orbitofrontal cortex in schizophrenia and mood disorder. Schizophr.
+Res. 80, 323–330 (2005).
+
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+42. Weiler, I.J. et al. Fragile X mental retardation protein is translated near synapses in
+response to neurotransmitter activation. Proc. Natl. Acad. Sci. USA 94, 5395–5400
+(1997).
+43. Antar, L.N., Afroz, R., Dictenberg, J.B., Carroll, R.C. & Bassell, G.J. Metabotropic
+glutamate receptor activation regulates fragile X mental retardation protein and FMR1
+mRNA localization differentially in dendrites and at synapses. J. Neurosci. 24,
+2648–2655 (2004).
+44. Barreau, C., Paillard, L. & Osborne, H.B. AU-rich elements and associated
+factors: are there unifying principles? Nucleic Acids Res. 33, 7138–7150
+(2005).
+45. Smith, C.L. et al. GAP-43 mRNA in growth cones is associated with HuD and ribosomes.
+J. Neurobiol. 61, 222–235 (2004).
+
+NATURE NEUROSCIENCE VOLUME 10
+
+[
+
+NUMBER 5
+
+[
+
+MAY 2007
+
+587
+
+

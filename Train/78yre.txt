@@ -1,0 +1,178 @@
+Neural regions essential
+for writing verbs
+Argye E. Hillis1,3, Robert J. Wityk1, Peter B. Barker2 and
+Alfonso Caramazza4
+Departments of 1Neurology and 2Radiology, Johns Hopkins University School of
+Medicine, 600 N. Wolfe Street, Baltimore, Maryland 21287, USA
+3 Department of Cognitive Science, Johns Hopkins University, 3400 N. Charles
+Street, Baltimore, Maryland 21218, USA
+4 Department of Psychology, Harvard University, 33 Kirkland Street,
+Cambridge, Massachusetts 02138, USA
+Correspondence should be addressed to A.E.H. (argye@jhmi.edu)
+Published online 25 November 2002; doi:10.1038/nn982
+Functional imaging data collected during cognitive tasks show
+which brain regions are active during those tasks, but do not
+necessarily indicate which regions are essential for those tasks.
+Here, in a study of two cases of selectively impaired written
+naming of verbs after focal brain ischemia, we combined imaging and behavioral testing to unambiguously identify brain
+regions that are crucial for a specific cognitive process. We used
+magnetic resonance perfusion imaging to show that the selective impairment in each case was due to hypoperfusion (low
+blood flow) in left posterior inferior frontal gyrus (PIFG) and
+precentral gyrus (PrG); the impairment was immediately
+reversed when blood flow was restored to these regions, indicating that parts of the left frontal lobe are crucial for representing and processing verbs.
+Stroke1–7 or focal dementia8–11 can disproportionately affect
+the ability to produce either nouns or verbs, indicating that
+separate neural regions are crucial for producing each word
+class. The location of these functionally distinct brain regions,
+however, is unclear. Furthermore, most studies did not test if
+the impairment was in accessing the meanings, phonological
+forms or orthographic forms of the affected word class. Cases
+of impaired written naming of verbs, with relatively spared oral
+naming of verbs and spared written and oral naming of nouns,
+can only be due to impaired access to orthographic forms of
+verbs3. Here we report two such cases and identify regions of
+neural dysfunction responsible for this modality- and word
+class–specific deficit, using a new technique for identifying
+brain–behavior relationships.
+Case 1 is a 68 year-old woman who was tested 6 hours after
+onset of writing difficulties. Case 2 is a 48 year-old woman who
+was tested 12 hours after onset of writing impairment. Both
+are right-handed and have normal attention, speech production, comprehension, oral reading, repetition and copying.
+Both were impaired in spelling verbs and pseudowords (such as
+glamp), and their written narratives contained accurate nouns,
+but no accurate verbs. To substantiate the clinical impression of
+disproportionately impaired written naming of verbs relative
+to nouns, we administered a test of oral and written naming
+and comprehension consisting of 30 pictures each of pure
+verbs, pure nouns matched in surface frequency to the verbs,
+and pure nouns matched in cumulative frequency to the verbs5.
+Informed consent was obtained for the study, using forms and
+methods approved by the institutional review board of the
+Johns Hopkins University School of Medicine.
+Case 1 correctly wrote the names of only 10/30 (33%) of
+verbs, but 50/60 (83%) of nouns (P = 0.0001, Fisher’s exact
+test). In contrast, she correctly named aloud 28/30 (93%) of
+verbs and 58/60 (97%) of nouns (not significant, n.s.). Her
+errors in writing consisted primarily of semantically related
+words (swing?jump; add?numbers) and a few phonologically plausible misspellings (write?wright). Age-matched control subjects named the nouns and verbs with >97% accuracy
+(mean, 98.8% for each).
+Case 2 correctly wrote 16/30 (53%) of verbs and 56/60
+(93%) of nouns in written picture naming (P < 0.001). However, oral naming of verbs was relatively spared: 21/30 (70%)
+for verbs and 48/60 (80%) for nouns (n.s.). Errors in writing
+were almost exclusively ‘don’t know’ responses. Both patients
+were 100% correct in comprehension (word/picture verification) with verbs and 98–100% correct with nouns.
+Impaired written naming of verbs in these cases cannot be
+due to impaired access to semantic representations (meanings)
+of verbs because in each case, oral naming of verbs (which also
+requires access to semantic representations) was relatively
+spared, and word/picture verification using the same stimuli
+was 100% accurate. Impaired written naming of verbs also cannot be due to a general peripheral writing problem, as written
+naming of nouns was relatively accurate. Our results indicate
+impairment in accessing orthographic representations of verbs
+for output in each case.
+In an attempt to localize the neural regions responsible for
+this deficit, we used magnetic resonance diffusion-weighted
+imaging (DWI) to identify the acute infarct or dense ischemia,
+and perfusion-weighted imaging (PWI) to identify areas of low
+perfusion (poor blood flow) that corresponded to impaired
+tissue function12,13. DWI and PWI multi-slice, single-shot,
+echo planar imaging (EPI) sequences were obtained on a
+General Electric Signa 1.5-tesla scanner within one hour of
+language testing. DWI trace images were obtained with
+bmax = 1,000 s/mm2 (TR/TE = 10,000/120 ms). PWI scans
+(TR/TE = 2,000/60 ms) were obtained with 20 ml of contrast
+material bolus power injected at 5 ml/s.
+In both cases, scans showed a small, acute left subcortical
+infarct on DWI, and a larger area of hypoperfusion (low blood
+flow) in frontal cortical regions—including left PIFG and
+PrG—on PWI (Figs. 1a and 2a). Middle, inferior and superior
+temporal gyri were not affected.
+Both subjects received intervention to improve blood flow
+to the hypoperfused regions (Case 1, stenting of the left carotid;
+Case 2, pharmacologically induced blood pressure elevation14).
+In both cases, intervention resulted in both reperfusion of the
+left PIFG and PrG and immediate reversal of the impairment,
+indicating that the hypoperfused regions were responsible for
+brief communications
+nature neuroscience • volume 6 no 1 • january 2003 19
+Fig. 1. Case 1’s DWI (left) and PWI (right) scans before and after intervention to restore blood flow. (a) Scans done when written naming of
+verbs was impaired. (b) Scans after intervention, when written naming
+of verbs had recovered.
+a b
+© 2003 Nature Publishing Group http://www.nature.com/natureneuroscience
+20 nature neuroscience • volume 6 no 1 • january 2003
+the deficit (Figs. 1b and 2b). Within 12 hours after intervention that restored blood flow, written naming of verbs
+improved to >90% correct in each case.
+The disproportionate impairment of verbs in Cases 1 and 2
+cannot be explained by greater ‘difficulty’ of verbs in the battery used, as other patients have shown more errors naming the
+nouns than the verbs in this battery, at least in oral naming2,3,5,11. Furthermore, a third patient with acute stroke who
+was administered this battery showed greater impairment in
+written (and oral) naming of nouns than verbs. This 66 yearold, right-handed man, who was tested within 12 hours of
+stroke symptoms, correctly wrote the names of 90% (27/30) of
+the verbs and 47% (28/60) of the nouns (P < 0.0001). Word/
+picture verification was completely accurate for both word classes. DWI showed small infarcts in posterior inferior and middle
+temporal gyri and insula, and PWI showed hypoperfusion of a
+large portion of posterior middle and inferior temporal gyri
+(Fig. 3). Left PIFG and PrG, which were hypoperfused in Cases
+1 and 2, were normally perfused in this patient.
+Although a few previous studies have documented selective impairment in accessing the names of verbs in only one
+modality of output, the neural basis for this has remained elusive. Previously described patients had very large strokes from
+which they had recovered language skills except naming verbs3,
+or had degenerative disease (in which it was impossible to
+determine the precise areas of neural dysfunction)11. In the
+present cases, the modality-specific impairment in written
+verb naming was documented in the acute stage of stroke,
+before the opportunity for extensive reorganization, or before
+any therapy that might have focused on a single class of words
+or modality of output. The crucial role of left PIFG and PrG in
+written verb naming was demonstrated by showing that written naming of verbs was impaired when left PIFG and PrG
+were hypoperfused, and recovered when this region was reperfused. Furthermore, written naming of verbs was disproportionately spared in Case 3, who had normal perfusion of these
+frontal regions.
+In summary, these cases shed new light on the organization of language in the brain by showing that the left PIFG
+and PrG are crucially involved in representing and processing
+orthographic word forms of verbs. We were able to identify
+areas of dysfunctional brain tissue associated with selective
+impairment in accessing verbs for written production and to
+demonstrate that restoration of tissue function in these areas,
+by restoring blood flow, successfully restored the ability to
+access those word forms. This study shows a clearly localized
+neural correlate of a highly specific deficit at the onset of the
+deficit (before the opportunity for reorganization of
+structure/function relationships or rehabilitation) in subjects
+with previously normal neurologic function. These results
+illustrate the remarkable organization of cognitive functions in
+the cortex, as well as the use of a powerful new tool for documenting brain–cognition relations.
+Acknowledgments
+This work was supported by National Institutes of Health grants RO1 DC05375
+and P41 RR15241 and by the Charles A. Dana Foundation.
+Competing interests statement
+The authors declare that they have no competing financial interests.
+RECEIVED 13 JULY; ACCEPTED 30 OCTOBER 2002
+1. Miceli, G., Silveri, M.C., Villa, G. & Caramazza, A. Cortex 20, 217–220 (1984).
+2. Zingeser, L.B. & Berndt, R.S. Brain Lang. 39, 14–32 (1990).
+3. Caramazza, A. & Hillis, A.E. Nature 349, 788–790 (1991).
+4. Damasio, A.R. & Tranel, D. Proc. Natl. Acad. Sci. USA 90, 4957–4960
+(1993).
+5. Hillis, A.E. & Caramazza, A. J. Cogn. Neurosci. 7, 396–407 (1995).
+6. Berndt, R.S., Mitchum, C.C., Haendiges, A.N. & Sandson, J. Brain Lang. 56,
+68–106 (1997).
+7. Tranel, D., Adolphs, R., Damasio, H. & Damasio, A.R. Cogn. Neuropsychol.
+18, 655–670 (2001).
+8. McCarthy, R.A. & Warrington, E.K. Neuropsychologia 23, 709–723 (1985).
+9. Daniele, A., Giustolisi, L., Silveri, M.C., Colosimo, C. & Gainotti, G.
+Neuropsychologia 32, 1325–1341 (1994).
+10. Bak, T.H., O’Donovan, D.G., Xuereb, J.H., Bonifcae, S. & Hodges, J.R. Brain
+124, 103–120 (2001).
+11. Hillis, A.E., Tuffiash, E. & Caramazza, A. J. Cogn. Neurosci. 14, 1099–1108
+(2002).
+12. Barber, P.A. et al. Neurology 51, 418–426 (1998).
+13. Hillis, A.E. et al. Ann. Neurol. 50, 561–566 (2001).
+14. Rordorf, G. et al. Stroke 28, 2133–2138 (1997).
+brief communications
+Fig. 2. Case 2’s DWI (left) and PWI (right) scans before and intervention to restore blood flow. (a) Scans done when written naming of verbs
+was impaired. (b) Scans after intervention, when written naming of
+verbs had recovered. Fig. 3. Case 3’s DWI (left) and PWI (right) scans performed within 1 h
+of the naming tests (without intervention), when written naming of
+nouns was impaired.
+a b
+© 2003 Nature Publishing Group http://www.nature.com/natureneuroscience

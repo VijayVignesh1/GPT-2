@@ -1,0 +1,609 @@
+Cav3.2 T-Type Calcium Channels Are Physiologically Mandatory for the Auditory System
+Author links open overlay panelAndreasLundtaRobinSeidelbJulienSoósaChristinaHenseleraRalfMüllercMaheshwarBakkiaMuhammad ImranArshaadaDanEhningerdJürgenHeschelereAgapiosSachinidiseKarlBroichbCarolaWormuthaAnnaPapazoglouaMarcoWeiergräbera
+Show more
+https://doi.org/10.1016/j.neuroscience.2019.04.024Get rights and content
+Under a Creative Commons licenseopen access
+Highlights
+•
+Cav3.2+/- and Cav3.2-/- mice exhibit increased ABR thresholds upon click stimulation.
+
+•
+Cav3.2+/- and Cav3.2-/- mice display altered tone burst evoked ABR thresholds.
+
+•
+Cav3.2 transgenic mice show altered amplitude growth function and wave latencies.
+
+•
+Cav3.2 calcium channels are mandatory for auditory information processing in adult mice.
+
+
+Abstract
+Voltage-gated Ca2+ channels (VGCCs) play key roles in auditory perception and information processing within the inner ear and brainstem. Pharmacological inhibition of low voltage-activated (LVA) T-type Ca2+ channels is related to both age- and noise induced hearing loss in experimental animals and may represent a promising approach to the treatment of auditory impairment of various etiologies. Within the LVA Ca2+ channel subgroup, Cav3.2 is the most prominently expressed T-type channel entity in the cochlea and auditory brainstem. Thus, we performed a complete gender specific click and tone burst based auditory brainstem response (ABR) analysis of Cav3.2+/- and Cav3.2-/- mice, including i.a. temporal progression in hearing loss, amplitude growth function and wave latency analysis as well as a cochlear qPCR based evaluation of other VGCCs transcripts. Our results, based on a self-programmed automated wavelet approach, demonstrate that both heterozygous and Cav3.2 null mutant mice exhibit age-dependent increases in hearing thresholds at 5 months of age. In addition, complex alterations in WI-IV amplitudes and latencies were detected that were not attributable to alterations in the expression of other VGCCs in the auditory tract. Our results clearly demonstrate the important physiological role of Cav3.2 VGCCs in the spatiotemporal organization of auditory processing in young adult mice and suggest potential pharmacological targets for interventions in the future.
+
+Previous article in issueNext article in issue
+Abbreviations
+ABRauditory brainstem responseAEDantiepileptic drugAEPauditory evoked potentialARHLage-related hearing lossBERAbrainstem evoked response audiometryBKbig conductance Ca2+-activated K+ channelCWTcontinuous wavelet transformDHPdihydropyridineFFTFast Fourier TransformationGTgenotypeHChair cellHVAhigh voltage-activatedIHCinner hair celli.p.intraperitonealIWIinterwave-intervalLLlateral leminiscusLSOlateral superior oliveLVAlow voltage-activatedNIHLnoise-induced hearing lossOHCouter hair cell(q)PCRquantitative polymerase chain reactionRTreverse transcriptionSDstandard deviationSEMstandard error of the meanSGNspiral ganglion neuronSKsmall conductance Ca2+-activated K+ channelSNRsignal to noise ratioSOCsuperior olivary complexSPLsound pressure levelSPONsuperior paraolivary nucleusTWstime windowsVGCCvoltage-gated Ca2+ channel
+Key words
+auditory brainstem responsecalcium channelhair cellsspiral ganglion neuronT-typesensorineural hearing loss
+INTRODUCTION
+Loss of hair cells (HCs) and spiral ganglion neurons (SGN) is the major cause of age-related hearing loss (ARHL), i.e., presbycusis which normally affects high frequencies first (Schacht and Hawkins, 2005) and displays a prevalence of > 50 % in populations > 75 years of age (Gates and Mills, 2005). Calcium dyshomeostasis was proven to be of central relevance for age- and noise-related impairment of neuroacoustic function (Bao et al., 2005, Buchholz et al., 2007) with different types of voltage-gated Ca2+ channels (VGCCs) being expressed in inner and outer hair cells (OHCs and IHC, respectively), SGNs, the cochlear nucleus, the trapezoid body, the lateral superior olive (LSO) and further ascending components (Lopez et al., 2003, Lee et al., 2007, Shen et al., 2007, Nie et al., 2008, Simms and Zamponi, 2014, Zamponi, 2016, Zamponi, 2017). Based on electrophysiological and pharmacological properties, the pore-forming Cav-α1 subunits of VGCCs complexes are subdivided into high voltage-activated (HVA), i.e., Cav1.1–1.4 L-type and Cav2.1–2.3 Non-L-type Ca2+ channels, and low voltage-activated (LVA) Cav3.1–3.3 T-type Ca2+ channels. The Cav1.3 VGCC was the first to be correlated with auditory dysfunction, as ablation of Cav1.3 in mice results in degeneration of IHCs and OHCs with subsequent deafness (Platzer et al., 2000, Glueckert et al., 2003). In addition, Cav1.3 was shown to be involved in the activity-dependent development of the auditory brainstem, evidenced by Cav1.3 deficient mice exhibiting a dramatic volume reduction in all auditory brainstem centers that occurred even before hearing onset (Hirtz et al., 2011). Thus, VGCC dysfunction can cause severe functional and developmental alterations in the peripheral auditory tract due to a highly complex and fine-tuned system of balanced Ca2+ influx that regulates spatiotemporal auditory processing.
+
+Based on in vitro and in vivo findings on HC physiology, Cav1.3 VGCCs were originally considered potential candidates for the etiopathogenesis of ARHL and noise-induced hearing loss (NIHL) as well as targets for their prevention and therapy. Interestingly, age-related increases in brainstem-evoked response audiometry (BERA) thresholds turned out to be associated with a gradual decrease of Cav1.3 expression in IHC, OHC and the stria vascularis supporting a potential role for Cav1.3 in ARHL (Chen et al., 2013). Initially, it was suggested that only L-type VGCCs are involved in acoustic injury of the cochlea, as L-type blockers, e.g., diltiazem, verapamil and dihydropyridines (DHPs), but not T-type blockers such as mibefradil and flunarizine, seemed to decrease HC loss (Mills et al., 1999, Uemaetomari et al., 2009).
+
+However, T-type VGCCs also exhibit complex spatiotemporal expression patterns in the auditory system, e.g., HCs (Inagaki et al., 2008), the cochlear nucleus (Kim and Trussell, 2007), the superior paraolivary nucleus (SPON) (Felix et al., 2011), and the LSO (Adam et al., 2001). Early immunohistochemical studies in 2 month old C57Bl/6 mice suggested weak Cav3.1 and Cav3.3, but no Cav3.2 VGCC expression in the organ of Corti. SGNs, however, exhibit dominant Cav3.2 with only moderate Cav3.1 and Cav3.3 expression (Shen et al., 2007). Whole cochlear qPCR in the same setting revealed highest transcript levels for Cav3.2 exceeding those for Cav3.1 and Cav3.3 by 2-fold and 100-fold, respectively (Shen et al., 2007). Additionally, no gender specific differences in expression levels were detected. Further quantification of T-type Ca2+ channels in the cochlea of young 6–8 wk old C57Bl/6J mice again revealed transcripts of all three T-type Ca2+ channels with Cav3.2 exhibiting the lowest expression (Yu et al., 2016). Lei et al. (2011) analyzed all three Cav3 T-type channel transcript levels in C57Bl/6 cochlea at 2, 4 and 8 months of age in which Cav3.2 levels clearly predominated and increased with age (Lei et al., 2011). This tendency was later confirmed for SGNs in C57Bl/6 mice aged 6–44 wk in which Cav3.2 transcripts also predominated (Yu et al., 2015). Thus Cav3 Ca2+ channels, particularly Cav3.2, display a complex developmental, i.e., spatiotemporal expression pattern within the cochlea.
+
+Importantly, it was shown in 9–11 month old mice that ablation of Cav3.2 results in a significant delay of age-related loss of cochlear function and preservation of SGNs, further stressing a potential role for Cav3.2 in ARHL (Lei et al., 2011). Consequently, Ca2+ channel blockers and antiepileptic drugs (AEDs) known to inhibit T-type Ca2+ channels, e.g., trimethadione, ethosuximide, and flunarizine, were shown to preserve SGNs during aging (Mills et al., 1999, So et al., 2005, Shen et al., 2007, Lei et al., 2011). This prophylactic and therapeutic effect of AEDs that block T-type VGCCs was later also confirmed for NIHL (Bao et al., 2013, Yu et al., 2016) and it was suggested that multi-drug-multi-target therapeutic approaches including block of T-type VGCCs e.g., via ethosuximide (Gomora et al., 2001) and zonisamide (Matar et al., 2009) in combination with dexamethasone, could be a feasible approach for NIHL treatment as well (Bao et al., 2013). Notably, the positive effects of HC preservation and hearing threshold consolidation in ARHL and NIHL models seem to be age-dependent. Yu et al. (2016) reported that C57Bl/6 mice aged 24–26 wk did not experience any beneficial impact in hearing threshold at 8, 16, or 32 kHz upon mibefradil and benidipine administration. Even more important, histomorphological deterioration was detected in IHCs, e.g. stereocilia of IHCs were disorganized and sparse upon mibefradil administration. In addition, OHC loss was found upon benidipine application.
+
+Given the potential role of Cav3.2 in ARHL and NIHL, we performed complete gender specific auditory profiling of young adult Cav3.2+/- and Cav3.2-/- mice, including click and tone burst related threshold characterization, amplitude growth function and latency analysis, as well as qPCR of cochlear VGCC transcripts, to unravel the physiological role of Cav3.2 VGCCs in the cochlea and the ascending auditory tract. Our results demonstrate for the first time that Cav3.2 VGCCs are of tremendous functional importance for spatiotemporal auditory processing in different areas of the auditory system and that pharmacological interference needs careful consideration based on both beneficial and adverse age-related effects.
+
+Experimental Procedures
+Experimental animals
+Controls, heterozygous and homozygous Cav3.2 deficient mice were generated from cryopreserved heterozygous embryos obtained via the Mutant Mouse Resource & Research Centers (MMRRC, supported by NIH). For further details, see MMRCC stock number 9979, strain name: B6.129-Cacna1htm1Kcam/Mmmh, strain of origin: C57BL/6 × 129, strain genetic background: C57BL/6 (Chen et al., 2003). Wild type littermates were used as controls.
+
+Fifty-five animals were included in this study: 23 Cav3.2+/+ mice (12 ♀, mean body weight: 24.09 g ± 0.41 g; 11 ♂, mean body weight: 32.82 g ± 0.58 g), 15 Cav3.2+/- mice (8 ♀, mean body weight: 23.50 g ± 0.41 g; 7 ♂, mean body weight: 33.11 g ± 0.81 g) and 17 Cav3.2-/- mice (8 ♀, mean body weight: 22.10 g ± 0.43 g; 9 ♂, mean body weight: 29.09 g ± 0.75 g). Gender-specific auditory brainstem response (ABR) audiometry was performed in mice aged 140.67 ± 0.38 days (~ 20 wk). All mice were housed in groups of 2–5 in clear Macrolon cages type II with ad libitum access to drinking water and standard food pellets. Using ventilated cabinets (Model 9AV125PYN, Techniplast, Germany; UniProtect, Zoonlab, Germany) as a noise-protected environment, mice were maintained at a temperature of 21 ± 2°C, 50–60 % relative humidity, and on a conventional 12 h light/dark cycle with a light onset at 5:00 a.m. Animals were strictly adapted to this circadian pattern for 14 days preceding subsequent experimentation.
+
+All animal procedures were performed according to the guidelines of the German Council on Animal Care, and all protocols were approved by the local institutional and national committee on animal care (LANUV, Germany). The authors further certify that all animal experimentation was performed in accordance with the National Institute of Health Guide for the Care and Use of Laboratory Animals (NIH Publications No. 80–23) revised 1996 or the UK Animals (Scientific Procedures) Act 1986 and associated guidelines, or the European Communities Council Directive of 24 November 1986 (86/609/ EEC) and September 22nd, 2010 (2010/63/EU). Specific effort was made to minimize the number of animals used and their suffering.
+
+Genotyping
+Cav3.2 mutant mice were genotyped by PCR based on the protocol of the KAPA Mouse genotyping kit (Sigma Aldrich, Germany). The following primers were used: WT-forward: 5′-ATT CAA GGG CTT CCA CAG GGT A-3′, WT-reverse/KO-forward: 5′-CAT CTC AGG GCC TCT GGA CCA C-3′, KO-reverse: 5′-GCT AAA GCG CAT GCT CCA GAC TG -3′ (see also Chen et al., 2003). PCRs were performed using a C1000 thermal cycler (BioRad, Germany) with initial denaturation (95°C – 1 min), followed by 35 cycles (denaturation 95°C – 15 sec, annealing 61°C – 15 sec, extension 72°C – 1 min) and final extension (72°C – 10 min). Subsequently, PCR products were separated via agarose gel electrophoresis and detected by ChemiDoc Touch (BioRad, Germany) (Fig. 1).
+
+Fig. 1
+Download high-res image (106KB)Download full-size image
+Fig. 1. Genotyping of Cav3.2 mutant mice. Cav3.2+/+, Cav3.2+/- and Cav3.2-/- mice were generated from cryopreserved heterozygous embryos. Chromosomal DNA was extracted from tail biopsies of the offspring for subsequent genotyping. Amplification in Cav3.2+/+ results in a 480 bp fragment and a 330 bp fragment in Cav3.2 deficient (Cav3.2-/-) mice. In heterozygous Cav3.2+/- mice, both fragments are detected (see also (Chen et al., 2003).
+
+ABR recording procedure
+Prior to ABR recordings, animals were anesthetized using intraperitoneal (i.p.) injection of ketamine (100 mg/kg body weight, Ketanest® S, 25 mg/ml Pfizer, Germany) and xylazine (10 mg/kg body weight, Rompun® 2%, Bayer, Germany) and placed inside a sound attenuating cubicle (ENV-018V, Med Association, Inc., USA) lined with an acoustic foam. The entire cubicle was covered with a custom made meshed metal Faraday cage (stainless steel, 2 mm thickness, 1 cm mesh size) to shield ABR recordings from external electrical interference and to protect from noise. Following anesthesia, animals were placed on a homeothermic heating blanket (ThermoLux®, Witte + Sutor, Murrhardt, Germany) inside the attenuating cubicle to maintain core body temperature. Eyes were covered with an eye ointment (5 % Dexpanthenol, Bepanthen®, Bayer Vital GmbH, Germany) to protect against corneal desiccation.
+
+For recording of monaural bioelectrical auditory potentials, subdermal stainless steel electrodes (27GA 12 mm, Rochester Electro-Medical, USA) were inserted at the vertex, axial to the pinnae (positive (+) electrode) and ventrolateral to the right pinna (negative (-) electrode) (Fig. 2). The ground electrode was positioned at the hip of the animal. Impedance measurements of all electrodes were performed prior to each recording to verify proper electrode positioning / conductivity and were set < 5 kΩ. All ABR recordings were performed under free field conditions using a single loudspeaker (MF1 Multi-Function Speaker, Tucker-Davis Technologies, TDT, USA) placed 10 cm opposite the rostrum of the animals (loudspeaker leading edge perpendicular to the mouse interaural axis). Stimulus protocols for click and tone bursts were programmed using SigGenRZ software (Tucker-Davis Technologies, TDT, USA). The resultant bioelectrical signals recorded from the subdermal electrodes were transferred to a head stage (RA4LI, Tucker-Davis Technologies, TDT, USA) and further forwarded to the preamplifier (RA4PA, Tucker-Davis Technologies, TDT, USA) with 20-fold amplification. Acoustic stimulus presentation, equipment, e.g., loudspeaker control, ABR acquisition, processing, averaging and data management, were further coordinated using the RZ6 Multi I/O Processor system and BioSigRZ software (both Tucker-Davis Technologies, TDT, USA).
+
+Fig. 2
+Download high-res image (231KB)Download full-size image
+Fig. 2. ABR analysis and ABR electrode position. A) An individual ABR recorded at 65 dB SPL. An initial pre-stimulus 5 ms baseline (pre-stimulus TW1) was followed by a transient acoustic stimulus (e.g., click, 100 μs duration; tone burst, 4.5 ms duration). Ten ms after stimulus onset, another 10 ms baseline (post-stimulus TW2) was recorded. Both baseline recordings (TW1 + TW2) were used to calculate the SD of baseline noise. The hearing threshold was reached whenever an individual ABR wave amplitude (labelled by Roman numerals I–IV) exceeded fourfold the SD of baseline noise. For wave amplitude and wave latency comparison, a “Mexican hat” based wavelet analysis was performed that automatically characterized negative peaks (blue-yellow striped lines) and positive peaks (red-grey striped lines) within the recorded ABR, thereby determining the temporal frames of WI-IV. Green crosses indicate maximum ABR wave amplitudes. Note that these maxima represent nominal values and do not indicate approximated values based on the “Mexican hat” based wavelet approach. B) For monaural based ABR recordings, subdermal stainless steel electrodes were used. The reference electrode was positioned at the left hip, the positive electrode (+) was placed at the vertex (axial the pinnae) and the negative electrode (-) was located ventrolateral of the right pinna.
+
+ABR data acquisition was performed at a sampling rate of 24.4 kHz, and signals were bandpass filtered (high pass 300 Hz, low pass 5 kHz) using a 6-pole Butterworth filter. Individual ABR data acquisition time was 25 ms, starting with a 5 ms baseline period prior to the individual acoustic stimulus onset (pre ABR baseline) and exceeding the 10 ms ABR section by another 10 ms baseline (post ABR baseline, Fig. 2).
+
+Two types of acoustic stimuli were used in this study and were generated using SigGenRZ software (Tucker-Davis Technologies, TDT, USA) and applied via the TDT BioSigRZ platform. The first stimulus entity was a 100 μs duration click with alternating polarity (switching between condensation and rarefaction) (Tucker-Davis Technologies, 2015). This stimulus was used to analyze and determine click thresholds, ABR wave I–IV amplitudes and wave I–IV latencies. The second stimulus entity was a 4.5 ms tone burst (transient sinusoidal pulse) of alternating polarity with Hann window for rise and fall times of 1.5 ms duration. This stimulus was used to analyze and identify frequency specific hearing thresholds in all genotypes. The frequency range was studied from 1–42 kHz in 6 kHz steps. All acoustic stimuli were applied 300 times at a rate of 20 Hz and averaged. For ABR threshold recordings, sound pressure levels (SPL) were increased in 5 dB steps for clicks and 10 dB steps for tone bursts (Willott, 2001, Scimemi et al., 2014, Rotschafer et al., 2015, Tucker-Davis Technologies, 2015), starting from 0 dB up to 90 dB (increasing SPL mode). Note that SPLs for tone bursts within the range of 1–42 kHz were calibrated each day prior to recording using a microphone (378C01, PCB Pieztronics, NY, USA) connected to a preamplifier (480C02, PCB Pieztronics) and the RZ6 Multi I/O Processor system (Tucker-Davis Technologies, TDT, USA). The microphone was positioned inside the sound attenuating cubicle to mimic the experimental murine ear and connected to an oscilloscope (DPO3012, Tektronix, USA) to monitor and confirm the spectrum of sound stimuli using online Fast Fourier Transformation (FFT).
+
+ABR analysis – general aspects and software
+To avoid potential inconsistencies in ABR threshold determination by visual inspection/estimation, we performed automated threshold detection based on earlier publications (Bogaerts et al., 2009, Probst et al., 2013, Alvarado et al., 2014). For data processing and analysis, "R" software (The R Foundation, version 3.2.1, R Core Team 2015) was used with additional packages, including “reshape2” (version 1.4.1), “ggplot2” (version 1.0.1), “data.table” (version 1.9.4), “gdata” (version 2.13.3), “pastecs” (version 1.3.18), “waveslim” (version 1.7.5) and “MassSpecWavelet” (version 1.30.0; (Du et al., 2006). Wavelet analysis was performed using the “MassSpecWavelet” package (Du et al., 2006).
+
+Analysis of hearing thresholds
+To determine the click and tone burst derived thresholds of ABR recordings, three distinct time windows (TWs) were set to calculate the signal to noise ratio (SNR), i.e., TW1 (pre stimulus, 0–5 ms), TW2 (stimulus related, 5–15 ms) and TW3 (post stimulus, 15–25 ms). Noise standard deviation of the baseline was calculated within two distinct TWs, i.e., TW1 and TW3 where no auditory evoked potentials (AEP) were observed (Fig. 2A). For each SPL measurement within an ABR record setting both mean and standard deviation were calculated for pooled TW1 and TW3 data. Subsequently, all recording samples were reset individually by the corresponding calculated mean. The threshold of hearing (TH) was determined by the lowest SPL (dB) where at least one wave amplitude (A) value (WI–WIV) in the ABR response time window (TW2) exceeded fourfold of the previously calculated standard deviation (T[SPL (dB)]: AWI-IV(TW2) > 4 × SD(TW1,TW3)). If no ABR wave (I–IV) was detected for frequency threshold analysis at maximum SPL, a nominal threshold level of 100 dB was assigned.
+
+ABR wave amplitude and wave latency analysis
+To determine the temporal collocation of all positive (p) waves (peaks, see intercept points of red-grey lines with ABR trace) as well as negative (n) waves (pits, see intercept points of blue-orange lines with ABR trace, Fig. 2A), a “Mexican hat” wavelet based analysis was conducted which uses a default wavelet by the continuous wavelet transform (CWT)-based pattern-matching algorithm (Du et al., 2006). Mathematically, the CWT is represented as (Daubechies, 1992), see also (Valderrama et al., 2014):
+
+where s(t) is the signal, a is the scale, b is the translation, ψ(t) is the mother wavelet, ψa,b(t) is the scaled and translated wavelet and C is the 2D matrix of wavelet coefficients.
+
+In an initial step, a 65 dB measurement of each ABR run was used to identify the best scale parameters for each wave to be passed to the CWT, resulting in three classes: scale parameters 0.5–4 for all n-waves, 0.5–6 for all p-waves and 0.5–12 for wave IV, as this was the broadest wave within the samples. All classes proved to reliably detect the correct temporal collocation of waves I–IV within all 65 dB measurements.
+
+To determine ABR waves I–IV in the accurate temporal sequence at 65 dB SPL, p-peaks (Fig. 2A, red-grey lines) and n-peaks (pits, Fig. 2A, yellow-blue lines) were identified in a fixed progression using relative positions of previously identified peaks to limit the TW of subsequent scans. Once all nine peaks had been characterized at 65 dB (Fig. 2A), these values were used as references (starting points) for the temporal search frame for adjacent sound pressure measurements (60 dB and 70 dB) before identification of peaks 1–9 was reinitiated. Accordingly, p- and n-peaks for all dB SPLs (65–0 dB and 70–90 dB) were determined if possible. Once a p- and n-peak were no longer identifiable by wavelet analysis, their temporal collocation was set by calculating the temporal offset of the peak to any other peak identified in the previous dB level. Applying the temporal offset of peaks to any other p- and n-peak within the current dB level resulted in a maximum of eight determined temporal positions for the undefined peaks in which the mean was taken as the closest approximation.
+
+To evaluate amplitude growth function and latency comparison of all waves (WI-IV), maximum amplitudes (Fig. 2A, green crosses) and mean latencies (Fig. 2A, red-grey lines) of each of the four p-peaks within the time frame of the related n-peaks were further evaluated. Importantly, all results based on the self-programmed automatic wavelet tool were subsequently visually confirmed based on an independent, blinded manual ABR analysis performed by a different investigator. In rare cases, individual ABR runs were excluded from statistics due to, for example, noise contamination. Note that our approach determines “Mexican hat” wavelet based time frames of each wave (WI-IV) for subsequent identification of the actual maxima and related latencies. This is similar to a recent study by Valderrama et al. (2014) that applies a “Mexican hat” based fitted parametric peaks (FPP) approach using synthesized peaks (Valderrama et al., 2014).
+
+Real time PCR of Cav3.2 transgenic mouse cochlea
+qPCR was performed in Cav3.2+/+, Cav3.2+/- and Cav3.2-/- mice to identify potential alterations in cochlear transcript levels of other VGCCs, i.e., HVA L-type Cav1.2 and Cav1.3, HVA Non L-type Cav2.3, LVA T-type Cav3.1 and Cav3.3, that are known to be expressed within the cochlea and the auditory tract. For each genotype, the following gender specific subgroups were used for analysis: Cav3.2+/+: ♀, n = 8, 21.27 ± 0.38 wk; ♂, n = 8, 21.23 ± 0.41 wk; Cav3.2+/-: ♀, n = 8, 21.32 ± 0.40 wk; ♂, n = 8, 21.04 ± 0.31 wk; Cav3.2-/-: ♀, n = 8, 21.41 ± 0.21 wk; and ♂, n = 8, 20.98 ± 0.21 wk. Note that experimental animals for cochlear qPCR analysis were not involved in ABR experiments to eliminate potential confounding factors.
+
+Both cochleae of each individual animal were dissected in an RNase free environment (RNAlater® stabilization reagent, Qiagen, Germany) and snap-frozen in liquid nitrogen. Total RNA from both mouse cochleae was extracted using Direct-zolTM RNA Micro Kit (Zymo Research, Freiburg i.Br., Germany) followed by an additional step of DNase digestion (Turbo DNA-freeTM Kit, Ambion®, Thermo Fisher Scientific; Germany). Quality and quantity of total RNA was evaluated using Nanodrop standard procedures (NanodropTM 1000, Thermo Fisher Scientific, Germany). cDNA synthesis was performed via a two-step RT-PCR approach using both random hexamer and anchored-oligo(dt)18 primers with 250 ng total cochlear RNA from each animal for the final 50 μl first-strand cDNA mix (Transcriptor First-Strand cDNA synthesis Kit, Roche, Germany). cDNA (2 μl) served as a template for qPCR (see below), and signal detection was based on SYBR Green I Master (Roche, Germany). qPCR experiments were carried out using a LightCycler 480 System (Roche, Germany) with the following protocol (per cycle) being applied for all primer pairs (Table 1): 95°C (10 min, pre-incubation step); 95°C (10 s, denaturation step); 60°C (20 s, annealing step); 72°C (30 s, extension step). Forty total cycles were performed.
+
+Table 1. Sequence of primer pairs used for qPCR (OriGene Technologies (a); Weiergräber et al., 2005 (b)).
+
+Gene	Protein	Forward sequence (5′–3′)	Reverse sequence (5′–3′)
+Cacna1c a	Cav1.2 α1	CGTTCTCATCCTGCTCAACACC	GAGCTTCAGGATCATCTCCACTG
+Cacna1d a	Cav1.3 α1	CTACCGTTGCACAGATGAAGCC	TCACGGACCACAGGACTGTCAA
+Cacna1e a	Cav2.3 α1	ATGGACAAGGCTACCACGGAGA	GACTGGCTTCTCCATCCGTCTT
+Cacna1g a	Cav3.1 α1	GACCATGTGGTCCTCGTCATCA	TTTCAGCCAGGAAGACTGCCGT
+Cacna1i a	Cav3.3 α1	GTCTTCACCAAGATGGACGACC	ACTTCGCACCAGTCAGGCTTGT
+Hprt b	HPRT	GCTGGTGAAAAGGACCTCT	CACAGGACTAGAACACCTGC
+Every cochlea sample was tested in triplicate, and two negative controls were added in duplicate, (no template; no RT) for the qPCR 96-well-plate (Roche, Germany). Furthermore, to avoid inter-run variations and ensure statistical comparability among the plates, cochlea cDNA derived from C57Bl6/J mice served as a positive control and calibrator cDNA and was also used in triplicate on every plate. Amplification specificity was verified by melting curve analysis (LightCycler480 System Software, Roche). Deionized, nuclease-free water (no cDNA) and total RNA samples (without RT) were used as controls, and HPRT was utilized as an internal reference gene. Ct-values (cycle threshold) were calculated using the LightCycler 480 System software (Roche).
+
+Individual primer efficiency, analysis and qPCR statistics were performed using qBase + qPCR analysis software (Biogazelle, Gent, Belgium) which is based on a delta-Cq quantification model with PCR efficiency correction, reference gene normalization and inter-run calibration (Hellemans et al., 2007). All results were determined as CNRQ (Calibrated Normalized Relative Quantity) and statistically analyzed using the Mann-Whitney test.
+
+Statistical analysis
+All results in this study are presented as group means ± SEM using GraphPad Prism 6 software (V6.07 GraphPad Software, Inc., USA). Both genders were analyzed separately. Significant differences were compared using an ordinary one-way ANOVA for click-evoked hearing threshold analysis (Fig. 8) and latency analysis for each single wave (Fig. 12) followed by Tukey's multiple comparisons test. Two-way repeated measure ANOVA followed by Tukey's adjustment for multiple comparisons was performed to evaluate differences in tone burst evoked hearing thresholds (Fig. 10) and to calculate differences in amplitude growth function (Fig. 11). qPCR results were statistically analyzed using the Mann-Whitney test. Statistical significance was determined using α-level = .05 and P-values defined as *P < .05; **P < .01; ***P < .001; and ****P < .0001. Note that asterisks indicate significant differences between controls and transgenic animals (Cav2.3-/- and Cav3.2+/-) whereas “+” icons represent significant differences between Cav3.2+/- and Cav3.2-/-.
+
+RESULTS
+Developmental alterations in Cav3.2 transgenic mice
+The α1H knockout (Cav3.2-/-) mouse model exhibits cardiac pathology (Chen et al., 2003), which is of particular significance as cardiovascular disease can promote hearing loss (Gates et al., 1993). Given the partially controversial results on the Cav3.2 null mutant phenotype, we first unraveled potential developmental alterations in body weight in female and male controls (♀, n = 12; ♂, n = 11), Cav2.3+/- (♀, n = 8; ♂, n = 7) and Cav2.3-/- (♀, n = 8; ♂, n = 9) mice aged 140.67 ± 0.38 days. In females, a significant decrease in body weight was observed for Cav3.2-/- mice compared to controls (Fig. 3). In males, Cav3.2-/- mice exhibited a significant weight reduction compared to Cav3.2+/+ mice and Cav3.2+/- mice (Fig. 3A). In heterozygous mice, which do not display cardiac pathology (Chen et al., 2003), no alterations were observed in body weight compared to controls at 20 wk of age. Long-time body weight monitoring revealed reduced weight in female Cav3.2+/- and Cav3.2-/- mice with increased age (> 25 wk, Fig. 3B), and the same held true for male Cav3.2 null mutants (Fig. 3C).
+
+Fig. 3
+Download high-res image (285KB)Download full-size image
+Fig. 3. Body weight in Cav3.2+/+, Cav3.2+/- and Cav3.2-/- mice. A) Body weight of Cav3.2+/+ (♀, n = 12; ♂, n = 11), Cav3.2+/- (♀, n = 8; ♂, n = 7) and Cav3.2-/- (♀, n = 8; ♂, n = 9) mice was evaluated age 140.67 ± 0.38 days. A significant decrease in body weight was observed for female Cav3.2-/- mice compared to controls (22.10 ± 0.43 g vs. 24.09 ± 0.41 g, P < .01). Male Cav3.2-/- mice displayed a significantly reduced body weight compared to both Cav3.2+/+ (29.09 ± 0.75 g vs. 32.82 ± 0.58 g, P < .01) and Cav3.2+/- animals (29.09 ± 0.75 g vs. 33.11 ± 0.81 g, P < .01). In heterozygous mice no alterations were observed compared to controls. B, C) Body weight development was monitored for controls (-), Cav3.2+/- (■) and Cav3.2-/- mice (○) from 5 to 50 wk of age. Control values were used to generate a fitted curve (black line) with the 95% confidence interval in grey. Note that in females, a significant reduction in body weight was observed in Cav3.2+/- and Cav3.2-/- mice (B). The same held true for male Cav3.2-/- mice (C). Ordinary one-way ANOVA followed by Tukey's multiple comparisons test was used to perform statistical analysis. The results are presented as the mean ± SEM.
+
+Click and tone burst evoked ABRs in control, Cav3.2+/- and Cav3.2-/- mice
+To elucidate the role of Cav3.2 VGCCs in auditory processing, we performed click and tone burst evoked ABR recordings to evaluate hearing threshold differences, amplitude growth function and latency comparison in Cav3.2+/+ mice (controls) and Cav3.2+/- and Cav2.3 null mutant mice (Cav3.2-/-). Specific emphasis was placed on the evaluation of both genders, as gender-specific differences in auditory parameters and ARHL have been reported in both human (Pearson et al., 1995, Murphy and Gates, 1997) and mouse (Henry, 2004, Ison et al., 2007). ABRs to free field click (0.1 ms) and tone burst (1–42 kHz in 6 kHz steps, 4.5 ms in total with a 1.5 ms ramp time) acoustic stimuli were recorded using subdermal electrodes (for electrode positioning see Experimental Procedures). Note that vertex positive potentials are plotted as upward deflections as depicted in representative click-evoked recordings for female Cav3.2+/+ (Fig. 4A), Cav3.2+/- (Fig. 4B) and Cav3.2-/- mice (Fig. 4C). Representative ABR recordings in females suggests increased click evoked ABR thresholds and reduced amplitude growth function (for details see below). Similarly, representative ABR recordings in males suggested increased click evoked ABR thresholds and reduced amplitudes in Cav2.3-/- (Fig. 5C) compared to control (Fig. 5A) and heterozygous Cav3.2+/- mice (Fig. 5B, for details see below). Representative tone burst evoked ABRs are depicted in Fig. 6A-C for females and in Fig. 7A-C for males. Note that representative ABR recordings suggest frequency specific hearing loss in the higher frequency range and reduced amplitude in both Cav3.2+/- (Figs. 6B, 7B) and Cav3.2-/- mice (Figs. 6C, 7C).
+
+Fig. 4
+Download high-res image (860KB)Download full-size image
+Fig. 4. Click based ABRs in female Cav3.2 transgenic mice. Representative ABRs obtained from Cav3.2+/+ (A), Cav3.2+/- (B) and Cav3.2-/- (C) female mice (aged 140.67 ± 0.38 days) upon click stimulation (increasing SPL (dB) from 0–90 dB with 5 dB SPL steps). Each stimulus entity was presented 300 times at 20 Hz and averaged. The red line indicates the onset of the acoustic stimulus. Note that the ABR wave amplitudes are reduced in female Cav3.2-/- mice (y-axis scaling has been adapted accordingly in (C)).
+
+Fig. 5
+Download high-res image (867KB)Download full-size image
+Fig. 5. Click based ABRs in male Cav3.2 transgenic mice. Representative ABRs obtained from Cav3.2+/+ (A), Cav3.2+/- (B) and Cav3.2-/- (C) male mice (aged 140.67 ± 0.38 days) upon click stimulation (increasing SPL (dB) from 0–90 dB with 5 dB SPL steps). Each stimulus entity was presented 300 times at 20 Hz and averaged. The red line indicates the onset of the acoustic stimulus. Note that the ABR wave amplitudes are reduced in male Cav3.2-/- mice (y-axis scaling has been adapted accordingly in (C)).
+
+Fig. 6
+Download high-res image (556KB)Download full-size image
+Fig. 6. Tone burst evoked ABRs in female Cav3.2 transgenic mice. Representative ABRs from Cav3.2+/+ (A), Cav3.2+/- (B) and Cav3.2-/- (C) female mice (aged 140.67 ± 0.38 days) following tone bursts of 1–42 kHz (6 kHz steps) with an SPL of 80 dB. Each stimulus entity was presented 300 times at 20 Hz and averaged. The red line indicates the onset of the acoustic stimulus (y-axis scaling has been adapted in (C)).
+
+Fig. 7
+Download high-res image (553KB)Download full-size image
+Fig. 7. Tone burst evoked ABRs in male Cav3.2 transgenic mice. Representative ABRs from Cav3.2+/+ (A), Cav3.2+/- (B) and Cav3.2-/- (C) male mice (aged 140.67 ± 0.38 days) following tone bursts of 1–42 kHz (6 kHz steps) with an SPL of 80 dB. Each stimulus entity was presented 300 times at 20 Hz and averaged. The red line indicates the onset of the acoustic stimulus. Note that y-axis scaling has been adapted in (C).
+
+Click related hearing thresholds in controls, Cav3.2+/- and Cav3.2-/- mice
+To evaluate the effect of Cav3.2 allelic loss on general hearing performance, we analyzed click evoked ABRs for different SPLs (0–90 dB) in all three genotypes aged 140.67 ± 0.38 days. Using our automated ABR threshold detection system, a significant difference in hearing threshold among the genotypes was detected. Cav3.2-/- mice exhibited a significant increase of hearing threshold compared to Cav3.2+/+ controls (Fig. 8A, B). The same held true in comparison to Cav3.2+/- mice (Fig. 8A, B). Note that no gender specific alterations were observed in hearing thresholds within individual genotypes (Cav3.2+/+, Cav3.2+/- and Cav3.2-/-) at the age of 20 wk.
+
+Fig. 8
+Download high-res image (119KB)Download full-size image
+Fig. 8. Increased click-evoked ABR hearing thresholds in female and male Cav3.2-/- animals aged 20 wk. Click evoked audiometric hearing threshold of female (A) and male (B) Cav3.2+/+ (♀, n = 12; ♂, n = 13), Cav3.2+/- (♀, n = 10; ♂, n = 9) and Cav3.2-/- (♀, n = 10; ♂, n = 9) mice aged 140.67 ± 0.38 days. One-way ANOVA followed by Tukey's multiple comparisons test revealed a significant difference in hearing thresholds between the genotypes (females, F2, 29 = 23.10, P < .0001; males, F2, 28 = 33.23, P = < .0001, ordinary one-way ANOVA). Cav3.2-/- mice exhibited significantly increased hearing thresholds compared to Cav3.2+/+ controls: ♀, 56.5 ± 2.6 dB vs. 40.0 ± 0.9 dB, P < .00001; ♂, 57.2 ± 1.5 dB vs. 38.8 ± 1.8 dB, P < .00001. The same held true in comparison to Cav3.2+/- mice (♀, 56.5 ± 2.6 dB vs. 42.0 ± 1.7 dB, P < .00001; ♂, 57.2 ± 1.5 dB vs. 39.4 ± 1.9 dB, P < .00001. Data are plotted as the mean ± SEM.
+
+At the age of 40 wk (280.72 ± 0.60 days), hearing thresholds significantly increased in Cav3.2-/- mice compared to controls in both genders (Fig. 9). In males, the hearing threshold of α1H null mutant mice also exceeded the threshold of Cav3.2+/- mice (Fig. 9). Note that no gender specific differences within the three individual genotypes (Cav3.2+/+, Cav3.2+/- and Cav3.2-/-) were detected at the age of 40 wk.
+
+Fig. 9
+Download high-res image (121KB)Download full-size image
+Fig. 9. Increased click-evoked ABR hearing thresholds in female and male Cav3.2-/- animals aged 40 wk. Click evoked hearing thresholds for female (A) and male (B) Cav3.2+/+ (♀, n = 5; ♂, n = 8), Cav3.2+/- (♀, n = 4; ♂, n = 5) and Cav3.2-/- (♀, n = 4; ♂, n = 3) animals 280.72 ± 0.60 days old. One-Way ANOVA followed by Tukey's multiple comparisons test confirmed significantly increased hearing thresholds for Cav3.2-/- mice compared to controls in both genders: ♀, 71.3 ± 10.5 dB vs. 45.0 ± 1.6 dB, P < .05; ♂, 88.3 ± 4.2 dB vs. 45.6 ± 4.6 dB, P < .01. In males, the hearing threshold of α1H null mutants also exceeded the threshold of Cav3.2+/- mice: 88.3 ± 4.2 dB vs. 54.0 ± 6.6 dB, P < .05. Data are plotted as the mean ± SEM. Note that there is an overall increase in hearing threshold compared to study groups aged 140.67 ± 0.38 days.
+
+The effect of aging on progressive hearing loss, i.e., increased hearing threshold, was analyzed in animals at 20 and 40 wk of age. In females, controls and Cav3.2+/- mice exhibited a significant increase in hearing threshold between 20 and 40 wk (P < 0.01), whereas Cav3.2-/- mice displayed a trend (P = .079). In males, no significant increase in hearing threshold was detected for controls or heterozygous mice from 20 to 40 wk of age (P = .136 and P = .057, respectively). In male Cav3.2-/- mice however, a clear age-related increase in hearing loss was observed (P < .0001) (Fig. 8, Fig. 9).
+
+Tone burst related hearing thresholds in controls, Cav3.2+/- and Cav3.2-/- mice
+To determine potential alterations in ABR threshold levels evoked by different tone burst frequencies (1–42 kHz, Fig. 10A, B), we performed repeated two-way ANOVA followed by Tukey's multiple comparisons test. Significant interaction was observed for males regarding GT and stimulus frequency, whereas no significant interaction could be confirmed in female mice. Highly significant effects were observed for a GT effect and tested frequency on threshold levels. Multiple comparisons revealed significant differences for various stimulus frequencies within the frequency range of 6–36 kHz in both Cav3.2-/- female and male mice (Fig. 10A, B).
+
+Fig. 10
+Download high-res image (407KB)Download full-size image
+Fig. 10. Increased tone burst evoked ABR hearing thresholds in female and male Cav3.2-/- mice (A, B). Tone burst (1–42 kHz, 6 kHz steps) evoked ABR based audiometric hearing thresholds for Cav3.2+/+ (♀, n = 12; ♂, n = 12, ▲), Cav3.2+/- (♀, n = 10; ♂, n = 8, ■) and Cav3.2-/- animals (♀, n = 10; ♂, n = 9, ○) aged 140.67 ± 0.38 days. Significant interaction was observed for males regarding GT and stimulus frequency (F14, 182 = 2.67, P = .0014), whereas no significant interaction was confirmed in female mice (F14, 203 = 1,289; P = .216). Two-way RM ANOVA revealed significant effects of the genotype (♀, F(2, 29) = 11.20, P = .0002; ♂, F(2, 26) = 14.48, P < .0001), as well as the tested frequency, on the hearing threshold (♀, F(7, 203) = 107.4; ♂, F(7, 182) = 71.85; both P < .0001) for Cav3.2-/- females (A) and males (B). Tukey’s multiple comparisons test revealed significantly increased hearing thresholds for different stimulus frequencies in female (A) and male (B) Cav3.2-/- mice. (C, D) Percentage of animals with a detected hearing threshold for each frequency, illustrating significant genotype effects (C; ♀, F(2, 29) = 7.692, P = .0021; ♂, F(2, 26) = 19.16, P = .0001) and frequency effects (♀, F(7, 203) = 51.62, P < .0001; ♂, F(7, 182) = 41.92, P < .0001) on hearing ability. Unpaired two-way ANOVA also revealed a significant interaction between GT and frequency for male mice (F14, 182 = 6.81, P < .0001), but no significant interaction for female mice (F14, 203 = 1.360; P = .175). Tukey´s multiple comparisons test further demonstrated significant hearing loss in the higher frequency range (♀, > 30 kHz; ♂, > 24 kHz) for Cav3.2-/- females (C) and males (D) compared to Cav3.2+/- and Cav3.2+/+ mice. Data are plotted as the mean ± SEM.
+
+The percentage of animals with detectable hearing thresholds for the individual frequencies is displayed in Fig. 10C, D. Unpaired two-way ANOVA revealed a significant interaction between GT and frequency for male mice, no significant interaction for female mice and high significant effects of GT and tested frequency. Cav3.2-/- mice from both genders exhibited significantly reduced hearing ability for lower (1 kHz for female mice) and higher frequencies (females: 30–42 kHz; males: 24–42 kHz) compared to Cav3.2+/+ and Cav3.2+/- animals based on Tukey´s multiple comparisons test (Fig. 10C, D).
+
+Click-evoked ABR amplitude growth function analysis
+In response to moderate to high -intensity clicks there may occur up to seven ABR peaks (WI–WVII) that are related to the following neuroanatomical structures: WI, auditory nerve (distal portion, within the inner ear); WII, cochlear nucleus (proximal portion of the auditory nerve, brainstem termination); WIII, superior olivary complex (SOC); WIV, lateral leminiscus (LL); WV, termination of the lateral leminiscus (LL) within the inferior colliculus (IC) on the contralateral side (Knipper et al., 2013). It should be noted that waves II–V are likely to have more than one anatomical structure of the ascending auditory pathway contributing to them.
+
+In 51.0 % of all click evoked ABR recordings, we identified five distinct positive waves at an SPL of 65 dB. In 25.4% of all recordings, we detected six distinct waves, and in 23.6% of all recordings, the number of identified distinct waves was limited to four within the first 10 ms at 65 dB SPL. Based on these findings, we focused our analysis on WI-IV. Identification of WI-IV was based on their latencies, i.e., WI appeared 1.588 ± 0.025 ms and 1.527 ± 0.032 ms after the acoustic stimulus in females and males, respectively; WII after 2.407 ± 0.045 ms in females and 2.389 ± 0.032 ms in males; WIII after 3.256 ± 0.056 ms in females and 3.197 ± 0.035 ms in males and WIV after 4.419 ± 0.079 ms in females and 4.331 ± 0.049 ms in males at 65 dB SPL in Cav3.2+/+ control animals (also see Fig. 12). The ABR amplitude growth function was analyzed for WI-IV (Fig. 11). Based on the nonexistence or rare appearance of deflections (waves) for low SPL (0–25 dB), wavelet analysis detected no, or only limited, confirmed accordance of waves. For higher SPL (40–90 dB), wavelet analysis detected almost all waves (WI-IV) in experimental animals.
+
+Fig. 11
+Download high-res image (930KB)Download full-size image
+Fig. 11. Click-evoked ABR amplitude growth function analysis of Wave I–IV in female (left) and male (right) Cav3.2 transgenic mice and controls.
+
+Wave I–IV amplitude (μV) plotted as a function of increasing SPL (dB) for click-evoked ABR wave analysis in Cav3.2+/+ (♀, n = 12; ♂, n = 11; black line represents the approximate control curve, including the 95% confidence interval in grey), Cav3.2+/- (♀, n = 8; ♂, n = 7, ■) and Cav3.2-/- animals (♀, n = 7; ♂, n = 9, ○) aged 140.67 ± 0.38 days. Both Cav3.2-/- female and male mice exhibit significantly delayed increases in amplitude growth across increasing SPL for wave I (A, B), wave II (C, D), and wave IV (G, H) compared to Cav3.2+/+ and Cav3.2+/- mice. (E, F) For wave III, only Cav3.2-/- male mice displayed significantly delayed amplitude growth across increasing SPL compared to female Cav3.2-/- animals.
+
+For WI, regular two-way ANOVA also revealed a significant interaction in GT and SPL (female: F20, 240 = 4.924, P < .0001; male F22, 264 = 8.767, P < .0001), a significant effect of SPL (female: F10, 240 = 108.6, P < .0001; male: F11, 264 = 112.3, P < .0001) and no significant GT effect on amplitude growth. WII analysis displayed significance for GT and SPL interaction (female: F22, 253 = 9.629, P < .0001; male: F22, 264 = 11.01, P < .0001), SPL effect (female: F11, 253 = 21.50, P < .0001; male: F11, 264 = 10.67, P < .0001) but no significant GT effect on amplitude growth for either female or male mice. For WIII, we confirmed a significant GT and SPL interaction for Cav3.2 male mice (F22, 264 = 3.656, P < .0001), no significant interaction for Cav3.2 female mice, a significant effect of SPL (female: F11, 253 = 17.91, P < .0001; male: F11, 264 = 33.25, P < .0001) and no GT effect on amplitude growth. Finally, analysis of amplitude growth for WIV showed a significant interaction between GT and SPL (female: F22, 264 = 6.699, P < .0001; male: F22, 264 = 11.05, P < .0001), a significant GT effect for male mice (F2, 24 = 3.937, P = .0332), and a significant SPL effect (female: F11, 264 = 29.67, P < .0001; male F11, 264 = 20.17, P < .0001). Data are presented as the mean ± SEM.
+
+For WI, regular two-way ANOVA revealed a significant interaction between GT and SPL, a significant effect of SPL and no significant GT effect on amplitude growth in either genders. Multiple comparisons identified a significant delay in amplitude increase with higher SPL values (40–75 dB) for both female and male Cav3.2-/- compared to Cav3.2+/+ and Cav3.2+/- mice (Fig. 11A, B). With higher SPL levels (75–90 dB), WI amplitude in Cav3.2 null mutant mice reached similar amplitude levels as observed in Cav3.2+/+ and Cav3.2+/- mice. SPL-dependent increase in WI amplitude is delayed in Cav3.2-/- mice, reaching control levels at high SPL > 80 dB. These findings could be related to the predominant expression of Cav3.2 in IHCs, OHCs and the SGN.
+
+WII analysis revealed significance for an interaction between GT and SPL and an SPL effect, but no significant GT effect was observed in amplitude growth for female or male mice.
+
+Cav3.2-/- female and male mice displayed significant delays in amplitude growth, revealed by Tukey´s multiple comparisons test within the SPL range of 40–60 dB (Fig. 11C, D). As amplitude levels of Cav3.2+/+ and Cav3.2+/- in female and male mice dropped with higher SPL (80–90 dB), Cav3.2-/- amplitude levels of both genders became significantly higher. In Cav3.2-/- mice, reduced WII amplitude indicates potential functional and/or structural impairment of the cochlear nucleus, which is in line with reports of robust cochlear Cav3.2 expression. With higher SPL, this effect is likely to be compensated, and amplitudes remain high.
+
+For WIII, we confirmed a significant interaction between GT and SPL for Cav3.2 in male mice, no significant interaction in Cav3.2 female mice, a significant effect of SPL in both females and males, and no GT effect on amplitude growth. Tukey´s multiple comparisons test revealed no significant differences for Cav3.2-/- female mice compared to Cav3.2+/- and Cav3.2+/+, but significantly higher amplitudes were observed for Cav3.2+/- female mice for SPL 85–90 dB compared to Cav3.2+/+ (Fig. 11E, F). Cav3.2-/- males exhibited decreased amplitude at intermediate (55 dB) and higher (85–90 dB) SPL values. Although T-type VGCCs are supposed to be expressed in the SOC underlying WIII, only minor alterations in WIII amplitude were detected in Cav3.2 transgenic mice for both genders. Analysis of amplitude growth for WIV revealed a significant interaction between GT and SPL in both genders, a significant GT effect for male mice, and a significant SPL effect in males and females. Both Cav3.2-/- female and male mice displayed significantly delayed amplitude growth and reduced WIV amplitude levels compared to Cav3.2+/+ and Cav3.2+/- mice (40–65 dB, Fig. 11G, H). Although no detailed information on Cav3.2 expression in the lateral leminiscus (LL) underlying WIV is available, the delay observed in WIV amplitude growth points to a functional role for Cav3.2 in LL auditory processing. Statistics were performed using two-way RM ANOVA and Tukey´s multiple comparisons test for all waves and genders.
+
+Click-evoked ABR wave latency analysis
+To investigate the role of Cav3.2 VGCCs on temporal auditory processing within the inner ear and brainstem, we analyzed absolute click evoked wave latencies by measuring the processing time of each ABR wave (WI–WIV). First, this analysis was performed again at 65 dB SPL because resultant ABRs exhibited best fit using the automated complex “Mexican hat” based wavelet approach.
+
+Statistical analysis revealed that WI latency was increased in female Cav3.2-/- mice compared to controls (Fig. 12A). In males, WI latency was increased in Cav3.2-/- mice compared to controls and Cav3.2+/- mice (Fig. 12B).
+
+Fig. 12
+Download high-res image (567KB)Download full-size image
+Fig. 12. Click-evoked ABR based wave I–IV latency analysis of female (left) and male (right) Cav3.2 transgenic mice and controls. Latencies (ms) for each ABR wave (I–IV) at 65 dB SPL are depicted for Cav3.2+/+ (♀, n = 12; ♂, n = 11), Cav3.2+/- (♀, n = 8; ♂, n = 7) and Cav3.2-/- (♀, n = 8; ♂, n = 9) female (A, C, E, G) and male (B, D, F, H) mice aged 140.67 ± 0.38 days. Tukey's multiple comparisons test revealed that WI latency was increased in female Cav3.2-/- mice compared to controls (1.766 ± 0.062 ms (n = 8) vs. 1.588 ± 0.025 ms (n = 12), P < .05, A). In males, WI latency was increased in Cav3.2-/- mice (1.762 ± 0.031 ms, n = 9) compared to controls (1.527 ± 0.032 ms, n = 11, P < .0001) and Cav3.2+/- mice (1.502 ± 0.028 ms, n = 7, P < .0001, B). For WII, female Cav3.2+/- and Cav3.2-/- mice displayed significantly increased latency compared to controls (2.673 ± 0.066 ms (n = 8) vs. 2.407 ± 0.045 ms (n = 12), P < .05; 2.685 ± 0.099 ms (n = 8) vs. 2.407 ± 0.045 ms (n = 12), P < .05, C). In males, Cav3.2-/- mice exhibited significantly increased latency compared to controls (2.606 ± 0.063 ms (n = 9) vs. 2.389 ± 0.032 ms (n = 11), P < .01) and Cav3.2+/- mice (2.606 ± 0.063 ms (n = 9) vs. 2.369 ± 0.051 ms (n = 7), P < .01, D). No differences were observed in males for WIII latency (Cav3.2+/+, 3.197 ± 0.035 ms (n = 11); Cav3.2+/-, 3.182 ± 0.083 ms (n = 7); Cav3.2-/-, 3.379 ± 0.061 ms (n = 9), F). In females, only Cav3.2+/- displayed increased WIII latency compared to controls (3.578 ± 0.087 ms (n = 8) vs. 3.256 ± 0.056 ms (n = 12), P < .05), but no difference was detected for Cav3.2-/- (3.529 ± 0.121 ms (n = 8) vs. 3.256 ± 0.056 ms (n = 12), E). WIV latency analysis revealed an increase in female Cav3.2+/- mice compared to controls (4.857 ± 0.111 ms (n = 8) vs. 4.419 ± 0.079 ms (n = 12), P < .05, G) and an increase in male Cav3.2-/- mice compared to controls (4.603 ± 0.077 ms (n = 9) vs. 4.331 ± 0.049 ms (n = 11), P < .05) and Cav3.2+/- mice (4.603 ± 0.077 ms (n = 9) vs. 4.294 ± 0.130 ms (n = 7), P < .05, H). One-way ANOVA revealed a significant difference in latency for all four waves between all three genotypes in both female and male animals. Data are depicted as the mean ± SEM.
+
+For WII, female Cav3.2+/- and Cav3.2-/- mice displayed significantly increased latency compared to controls (Fig. 12C). In males, Cav3.2-/- mice exhibited significantly increased latency compared to controls and Cav3.2+/- mice (Fig. 12D).
+
+No differences were observed in males for WIII latency (Fig. 12F). In females, only Cav3.2+/- displayed increased WIII latency compared to controls, but no difference was detected for Cav3.2-/- mice (Fig. 12E).
+
+Finally, WIV latency analysis revealed an increase in female Cav3.2+/- mice compared to controls (Fig. 12G) and an increase in male Cav3.2-/- mice compared to controls and Cav3.2+/- mice (Fig. 12H). Interestingly, gender specific differences were observed in heterozygous mice with female Cav3.2+/- mice exhibiting significantly higher latencies for WI, WII, WIII and WIV than male Cav3.2+/- animals (P < 0.01). The reasons for these differences remain to be determined.
+
+Finally, interwave-interval (IWI) analysis (i.e., interpeak latency (IPL) analysis) revealed a significant increase in WI-IV latency in female Cav3.2+/- mice compared to controls but not in female Cav3.2-/- mice (Fig. 13A). No alterations in IWI ΔWI,IV were observed in male transgenic animals (Fig. 13B). Moreover, gender specific IWI differences were observed for ΔWI,IV in Cav3.2+/- mice.
+
+Fig. 13
+Download high-res image (104KB)Download full-size image
+Fig. 13. Interwave-interval (IWI) analysis. Female (A) and male (B) Cav3.2+/+ (♀, n = 12; ♂, n = 11), Cav3.2+/- (♀, n = 8; ♂, n = 7) and Cav3.2-/- mice (♀, n = 8; ♂, n = 9) were evaluated for alterations in IWI. Despite complex changes in absolute latencies, IWI alterations were only observed in ΔWI,IV for female Cav3.2+/- mice compared to controls (3.182 ± 0.079 ms (n = 8) vs. 2.831 ± 0.057 ms (n = 12), P < .05) but not in female Cav3.2-/- mice (2.979 ± 0.120 ms (n = 8). No changes were detected for IWI ΔWI,IV in males. Gender specific IWI differences were observed for ΔWI,IV in Cav3.2+/- mice (3.182 ± 0.079 ms (♀, n = 8) vs. 2.792 ± 0.103 ms (♂, n = 7), P < .01). Data are depicted as the mean ± SEM.
+
+In a second approach, latency analysis was performed at comparable sensation levels (20 dB above individual hearing thresholds). Under these conditions, no changes were observed in males from any of the three genotypes. In females, significant changes in WII, WIII and WIV latencies between controls and Cav3.2+/- mice persisted. We also observed a reduction in WI latency in Cav3.2-/- mice compared to Cav3.2+/- mice (not shown).
+
+Cochlear VGCC transcript levels in Cav3.2 transgenic mice
+Various VGCCs are expressed in the murine cochlea, including HVA L-type Cav1.2 and Cav1.3 channels, HVA Non-L-type Cav2.3 channels and LVA T-type Cav3.1–Cav3.3 channels. qPCR was performed to assess for potential compensatory changes in transcript levels for these VGCCs. A gender specific analysis in Cav3.2+/- and Cav3.2-/- mice revealed that the above mentioned VGCCs exhibited no transcriptional changes that could account for the observed differences in click and tone burst related hearing thresholds, WI-IV amplitude growth function or WI-IV latencies (Fig. 14, Fig. 15, Table 2). In females, a statistical trend (P = .083) was detected for Cav3.1 transcripts in Cav3.2-/- compared to controls (Fig. 14D). In males, a statistical trend (P = .083) was observed for Cav2.3 transcripts in Cav3.2-/- mice compared to controls (Fig. 15C). Finally, a statistical trend (P = .065) was also observed for Cav2.3 transcripts between Cav3.2-/- males and females.
+
+Fig. 14
+Download high-res image (492KB)Download full-size image
+Fig. 14. Cochlear VGCC transcripts in female Cav3.2 transgenic mice. RNA was isolated from the cochlea of female Cav3.2+/+ (n = 8), Cav3.2+/- (n = 8) and Cav3.2-/- (n = 8) mice for real-time PCR (qPCR) to assess for alterations in other VGCC (Cav1.2, Cav1.3, Cav2.3, Cav3.1 and Cav 3.3) transcript levels. No significant changes were observed for the VGCCs tested. A statistical trend was detected for Cav3.1 transcripts. CNRQ, Calibrated Normalized Relative Quantity; Cal, Calibrator.
+
+Fig. 15
+Download high-res image (489KB)Download full-size image
+Fig. 15. Cochlear VGCC transcripts in male Cav3.2 transgenic mice. RNA was isolated from the cochlea of male Cav3.2+/+ (n = 8), Cav3.2+/- (n = 8) and Cav3.2-/- (n = 8) mice for real-time PCR (qPCR) to assess for alterations in other VGCC (Cav1.2, Cav1.3, Cav2.3, Cav3.1 and Cav3.3) transcript levels. No significant changes were observed for the VGCCs tested. A statistical trend was detected for Cav2.3 transcripts. CNRQ, Calibrated Normalized Relative Quantity; Cal, Calibrator.
+
+Table 2. VGCC fold changes in cochleae from female (A) and male (B) controls (WT), Cav3.2+/- (HT) and Cav3.2-/- (KO) mice. Quantification results from 8 animals from each every genotype were normalized to a calibrator (positive control; cochleae from C57Bl6 animals) and fold changes (FC) were compared using Mann Whitney test in qBase plus software.
+
+A)
+HT/WT	KO/WT	HT/KO
+VGCC Cav-α1	FC	P value	FC	P value	FC	P value
+Cav1.3	1.050	0.798	1.056	0.721	-1.006	0.878
+Cav1.2	-1.064	0.382	1.087	0.798	-1.156	0.505
+Cav2.3	1.076	0.959	-1.188	0.574	1.278	0.574
+Cav3.1	1.264	0.505	1.323	0.083	-1.047	0.574
+Cav3.3	1.095	0.798	1.040	0.878	1.053	0.959
+
+B)
+HT/WT	KO/WT	HT/KO
+VGCC Cav-α1	FC	P value	FC	P value	FC	P value
+Cav1.3	-1.002	0.798	1.044	0.505	-1.046	0.798
+Cav1.2	1.060	0.721	1.036	0.505	1.098	0.645
+Cav2.3	1.290	0.442	1.417	0.083	-1.099	0.798
+Cav3.1	-1.010	0.959	1.125	0.442	-1.136	0.505
+Cav3.3	1.472	0.505	1.298	0.721	1.134	0.959
+DISCUSSION
+The pathophysiological implications of Cav3.2 VGCCs were previously reported to include alteration of mechanoreception (Wang and Lewin, 2011) and pain response (Choi et al., 2007, Tsubota et al., 2018), age-induced endothelial dysfunction (Thuesen et al., 2018), epilepsy (Becker et al., 2008, Zamponi et al., 2010), retinal dysfunction (Hamby et al., 2015), (sensory) neuronal hyperexcitability (Jacus et al., 2012, Voisin et al., 2016, Zhang et al., 2018), elevated anxiety, impaired memory and reduced sensitivity to psychostimulants (Gangarossa et al., 2014). In the auditory trace fear conditioning task, Cav3.2-/- mice performed normally but were impaired in context-cued trace fear conditioning (Chen et al., 2012). In addition, our longitudinal body weight analysis (Fig. 3B, C) indicates a complex developmental impairment, particularly in Cav3.2-/- mice, which could be related to the cardiovascular phenotype, consisting of constitutively constricted coronary arterioles and focal myocardial fibrosis in Cav3.2 deficient animals (Chen et al., 2003, Mizuta et al., 2010). Of note, established cardiovascular disease and individual or combined cardiovascular disease risk factors are associated with hearing loss (Erkan et al., 2015, Tan et al., 2018), although there are also studies that do not support this view (Haremza et al., 2017).
+
+In our study, we performed gender specific analysis of both Cav3.2+/- mice, which do not display a cardiac phenotype, and Cav3.2-/- null mutant mice. Notably, the transgenic animals used in this study are from a C57Bl/6 background, which is important as their cochlea mimics typical characteristics of the aging human inner ear and can thus serve as a model of ARHL (presbycusis) (Ohlemiller, 2006). Age-related increases in ABR thresholds in the C57BL/6 strain become exacerbated approximately 8–9 months of age, predominately above 12 kHz (Spongr et al., 1997, Ison et al., 2007). As experimental animals were only 5 months of age in this study, our results represent the physiological implications of Cav3.2 in hearing physiology rather than its implications in hearing loss. Our study demonstrates that audiometric click ABR thresholds are increased in Cav3.2-/- mice from both genders compared to controls and Cav3.2+/- mice at 20 wk and 40 wk of age (Fig. 8, Fig. 9). No significant changes were observed for heterozygous mice compared to controls. Similar results were observed for tone burst derived ABR thresholds in both genders at the age of 20 wk (Fig. 10A, B). Lei et al. (2011) previously reported that they did not detect any significant ABR threshold shifts in Cav3.2-/- mice from 9–11 months of age compared to controls, suggesting a preserving effect of Cav3.2 ablation on age-related increases in ABR thresholds. This is in contrast to the increased click and tone burst related ABR thresholds in Cav3.2-/- mice, which we observe at an earlier developmental stage (20 wk) in both genders.
+
+Of note, Cav3 VGCCs exhibit a complex developmental expression pattern within the cochlea (Lei et al., 2011, Yu et al., 2015, Yu et al., 2016). Although previous studies indicated that T-type Ca2+ channels can also be detected in various other structures of the auditory tract, detailed information about their spatiotemporal expression pattern is still lacking. In 2 month old C57Bl/6 mice, Cav3.1 and Cav3.3 VGCCs are only weakly expressed in the organ of Corti, i.e., Cav3.1 in OHCs, IHCs, pillar cells, Deiters cells, and OHCs and Cav3.3 in OHCs and Deiters cells. Interestingly, no immunoreaction was detected for Cav3.2 (Shen et al., 2007). In contrast, Cav3.2 expression was dominant in the SGNs, while only moderate levels of Cav3.1 and Cav3.3 were observed in this region (Shen et al., 2007). Real-time PCR revealed murine cochlear Cav3.2 transcript levels that exceeded those of Cav3.1 and Cav3.3 by 2-fold and 100- fold, respectively. Quantification of T-type Ca2+ channels in the cochlea of 6–8 wk old C57BL/6J mice revealed transcripts of all three T-type channels with Cav3.2 displaying the lowest expression (Yu et al., 2016). Lei et al. (2011) analyzed all three LVA Cav3 transcript levels in the organ of Corti at 2, 4 and 8 months of age in which Cav3.2 T-type channels clearly predominate and increase with age (Lei et al., 2011). This tendency was also confirmed in the SGN from mice 6–44 wk old in which Cav3.2 transcripts represent the major T-type component (Yu et al., 2015).
+
+Overall, Cav3.2 VGCCs exhibit complex species specific spatiotemporal expression patterns in the auditory tract, particularly within the cochlea. Clearly, Cav3.2 expression continuously increases with age, and particularly at later stages (9–11 months), Cav3.2 exerts devastating effects on SGN viability, which manifests upon Cav3.2 ablation (Lei et al., 2011). However, at earlier developmental stages, e.g., 20 wk of age, our data suggest an alternative, i.e., physiological role, of Cav3.2 VGCCs that is distinct from its pathophysiological implications in ARHL. Indeed, the complex alterations in hearing thresholds (Fig. 8, Fig. 10), WI-IV amplitude growth function (Fig. 11) and WI-IV latencies (Fig. 12) in Cav3.2+/- and Cav3.2-/- mice suggest important functional implications in the HCs / SGN, NC, SOC and the LL, indicating that Cav3.2 is a prerequisite for precise auditory information processing in young adult C57Bl/6 mice. Of note, latency analysis under comparable sensation levels revealed minor changes that may indicate a more prominent role of Cav3.2 VGCCs within the cochlea. In addition, it has to be considered that C57BL/6 mice, in contrast to CBA animals, display cadherin 23 related ARHL (Johnson et al., 2017). Thus, we cannot exclude that the genetic modification of Cav3.2 in our mouse lines potentially interferes with cadherin 23 mutation in these animals, potentially influencing observed results (Kane et al., 2012, Johnson et al., 2017).
+
+Little information is currently available regarding expression of Cav3.2 in the ascending auditory tract, which creates challenges in attributing specific wave amplitude and wave latency alterations to specific electrophysiological alterations at the cellular level. LVA Ca2+ channels have been identified in Cartwheel cells of the dorsal cochlear nucleus. Cartwheel cells can fire both simple and complex action potential patterns, and early complex spike firing patterns and afterdepolarisations in these cells requires T-type and R-type Ca2+ channels but also BK and SK channels (Kim and Trussell, 2007). In the LSO, the firing rate of principal neurons is a linear function of interaural sound intensity differences. This type of linear response has been hypothesized to result from integration of excitatory ipsilateral and inhibitory contralateral inputs. A previous study (Adam et al., 2001) demonstrated that this complex spike activity in rat LSO was based on T-type Ca2+ currents, subthreshold Na+ currents and hyperpolarization-activated Ih conductance being sensitive to Ni2+, tetrodotoxin (TTX) and Cs+, respectively (Adam et al., 2001). Of note, Cav1.3 VGCCs, which are known to be relevant for auditory function in IHCs, share basic electrophysiological properties similar to those of LVA channels, such as rapid activation kinetics (Koschak et al., 2001, Xu and Lipscombe, 2001, Zampini et al., 2010, Inagaki and Lee, 2013, Zampini et al., 2013). The latter are important for temporal aspects of sound coding and the ability to accurately trigger firing of the auditory nerve to reflect sound frequency (phase locking). Also, Cav1.3 channels activate at relatively negative potentials (~-70 mV in immature IHCs) which is a major property of LVA channels as well (Koschak et al., 2001, Xu and Lipscombe, 2001, Zampini et al., 2010). Thus, given a RMP of ~-60 mV in these cells (Marcotti et al., 2003), both Cav1.3 and Cav3.2 may support tonic transmitter release at rest and effectively couple increased sound intensities with higher rates of transmitter release. Mechanistically, Cav3.2 might contribute to these processes by involvement in the complex spatiotemporal interdependence of intracellular Ca2+ levels and Ca2+ activated K+ currents (particularly via BK) in HCs as has been previously shown for Cav1.3 as well (Joiner and Lee, 2015).
+
+Despite these physiological implications, Ca2+ influx and Ca2+ signaling have been correlated with age-related and noise-induced neuronal cell death in HCs and SGN for some time. Consequently, T-type Ca2+ channel blockers were thought to be otoprotective in the setting of acquired hearing loss. Early studies suggested that trimethadione, ethosuximide and flunarizine were effective in protecting SGN and NIHL (So et al., 2005, Shen et al., 2007, Lei et al., 2011). Bao et al. (2013) confirmed this beneficial effect in NIHL for ethosuximide (Gomora et al., 2001) and zonisamide (Matar et al., 2009) for cochlear HCs and SGN. Accordingly, beneficial effects of T-type blockers on ABR threshold and SGN were also confirmed for ARHL using trimethadione, ethosuximide (Lei et al., 2011) and zonisamide (Yu et al., 2015). Importantly, the pharmaceutical drugs investigated have a multi-target character and do not exhibit selective T-type Ca2+ channel blocker characteristics. In contrast, in the aforementioned studies using 9–11 month old mice, T-type blockers preserved ABR thresholds and prevented excessive HC and SGN loss, Yu et al. (2016) reported the inverse in younger mice aged 24–26 wk. In a tone burst ABR setup, administration of mibefradil and benidipine did not have any beneficial impact on hearing thresholds at 8 Hz, 16 Hz and 32 kHz (despite at 24 kHz). Importantly, morphological changes were detected in IHCs and OHCs exhibiting disorganized and sparse stereocilia upon mibefradil administration and cell loss upon benidipine administration, respectively (Yu et al., 2016).
+
+Together with our findings, these observations clearly indicate that Cav3.2 VGCCs exert profound physiological effects in young adults that are tremendously important for regular auditory processing within the ascending auditory pathway. However, within settings of acquired sensorineural hearing loss related to age or noise, increased Cav3.2 expression levels are likely to exert devastating effects on HC and SGN viability. Thus, we propose two pharmacotherapeutic constellations that need to be clearly differentiated: 1. late-stage treatment of ARHL and acoustic injury related NIHL in which animals/patients benefit from T-type blocker administration, and 2. early -stage application of T-type antagonists primarily related to epilepsy treatment in infants, children and young adults. In the latter group, application of T-type blockers was reportedly exerts potential negative effects on hearing up to transient/permanent hearing loss (Hori et al., 2003, Yeap et al., 2014, Hamed, 2017) (see also EMA side effect database, FDA adverse events reporting system (FAERS)). This is in full agreement with our findings that Cav3.2 is mandatory for functional and developmental integrity in the auditory system in adult mice.
+
+Perspectives
+Cav3.2 T-type Ca2+ channels are expressed in HCs and SGNs and T-type blockers have recently been suggested as effective for the prevention and treatment of ARHL and NIHL. Our studies demonstrate that Cav3.2 Ca2+ channels mediate important physiological functions for proper auditory information processing in the cochlea and ascending auditory tract in young adult mice. This is in contrast to the suggested otoprotective function of T-type blockers during older age. Consequently, the young adult stage could represent a vulnerable phase in which T-type blockers might exert deleterious effects on the peripheral auditory system that impact potential pharmaceutical T-type blocker treatment of ARHL and NIHL.
+
+Acknowledgments
+The authors would like to thank Dr. Christina Kolb (German Center for Neurodegenerative Diseases, DZNE) and Dr. Robert Stark (DZNE) for assistance in animal breeding and animal health care. This work was financially supported by the Federal Institute for Drugs and Medical Devices (Bundesinstitut für Arzneimittel und Medizinprodukte, BfArM, Bonn, Germany).
+
+Conflict of interest
+The authors declare that this research was performed in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+References
+Adam et al., 2001
+TJ Adam, PG Finlayson, DW Schwarz
+Membrane properties of principal neurons of the lateral superior olive
+J Neurophysiol, 86 (2001), pp. 922-934
+CrossRefView Record in ScopusGoogle Scholar
+Alvarado et al., 2014
+JC Alvarado, V Fuentes-Santamaria, MC Gabaldon-Ull, JL Blanco, JM Juiz
+Wistar rats: a forgotten model of age-related hearing loss
+Front Aging Neurosci, 6 (2014), p. 29
+Google Scholar
+Bao et al., 2005
+J Bao, D Lei, Y Du, KK Ohlemiller, AL Beaudet, LW Role
+Requirement of nicotinic acetylcholine receptor subunit beta2 in the maintenance of spiral ganglion neurons during aging
+J Neurosci, 25 (2005), pp. 3041-3045
+CrossRefView Record in ScopusGoogle Scholar
+Bao et al., 2013
+J Bao, M Hungerford, R Luxmore, D Ding, Z Qiu, D Lei, A Yang, R Liang, KK Ohlemiller
+Prophylactic and therapeutic functions of drug combinations against noise-induced hearing loss
+Hear Res, 304 (2013), pp. 33-40
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Becker et al., 2008
+AJ Becker, J Pitsch, D Sochivko, T Opitz, M Staniek, CC Chen, KP Campbell, S Schoch, Y Yaari, H Beck
+Transcriptional upregulation of Cav3.2 mediates epileptogenesis in the pilocarpine model of epilepsy
+J Neurosci, 28 (2008), pp. 13341-13353
+CrossRefView Record in ScopusGoogle Scholar
+Bogaerts et al., 2009
+S Bogaerts, JD Clements, JM Sullivan, S Oleskevich
+Automated threshold detection for auditory brainstem responses: comparison with visual estimation in a stem cell transplantation study
+BMC Neurosci, 10 (2009), p. 104
+CrossRefView Record in ScopusGoogle Scholar
+Buchholz et al., 2007
+JN Buchholz, EJ Behringer, WJ Pottorf, WJ Pearce, CK Vanterpool
+Age-dependent changes in Ca2+ homeostasis in peripheral neurones: implications for changes in function
+Aging Cell, 6 (2007), pp. 285-296
+CrossRefView Record in ScopusGoogle Scholar
+Chen et al., 2003
+CC Chen, KG Lamping, DW Nuno, R Barresi, SJ Prouty, JL Lavoie, LL Cribbs, SK England, CD Sigmund, RM Weiss, RA Williamson, JA Hill, KP Campbell
+Abnormal coronary function in mice deficient in alpha1H T-type Ca2+ channels
+Science, 302 (2003), pp. 1416-1418
+CrossRefView Record in ScopusGoogle Scholar
+Chen et al., 2012
+CC Chen, JW Shen, NC Chung, MY Min, SJ Cheng, IY Liu
+Retrieval of context-associated memory is dependent on the Cav3.2 T-type calcium channel
+PLoS One, 7 (2012), Article e29384
+CrossRefGoogle Scholar
+Chen et al., 2013
+J Chen, H Chu, H Xiong, Y Yu, X Huang, L Zhou, Q Chen, D Bing, Y Liu, S Wang, Y Cui
+Downregulation of Cav1.3 calcium channel expression in the cochlea is associated with age-related hearing loss in C57BL/6J mice
+Neuroreport, 24 (2013), pp. 313-317
+CrossRefView Record in ScopusGoogle Scholar
+Choi et al., 2007
+S Choi, HS Na, J Kim, J Lee, S Lee, D Kim, J Park, CC Chen, KP Campbell, HS Shin
+Attenuated pain responses in mice lacking Cav3.2 T-type channels
+Genes Brain Behav, 6 (2007), pp. 425-431
+CrossRefView Record in ScopusGoogle Scholar
+Daubechies, 1992
+I Daubechies
+Ten lectures on wavelets
+Society for Industrial and Applied Mathematics, Philadelphia, PA (1992)
+Google Scholar
+Du et al., 2006
+P Du, WA Kibbe, SM Lin
+Improved peak detection in mass spectrum by incorporating continuous wavelet transform-based pattern matching
+Bioinformatics, 22 (2006), pp. 2059-2065
+CrossRefView Record in ScopusGoogle Scholar
+Erkan et al., 2015
+AF Erkan, GK Beriat, B Ekici, C Dogan, S Kocaturk, HF Tore
+Link between angiographic extent and severity of coronary artery disease and degree of sensorineural hearing loss
+Herz, 40 (2015), pp. 481-486
+CrossRefView Record in ScopusGoogle Scholar
+Felix II et al., 2011
+RA Felix II, A Fridberger, S Leijon, AS Berrebi, AK Magnusson
+Sound rhythms are encoded by postinhibitory rebound spiking in the superior paraolivary nucleus
+J Neurosci, 31 (2011), pp. 12566-12578
+CrossRefView Record in ScopusGoogle Scholar
+Gangarossa et al., 2014
+G Gangarossa, S Laffray, E Bourinet, E Valjent
+T-type calcium channel Cav3.2 deficient mice show elevated anxiety, impaired memory and reduced sensitivity to psychostimulants
+Front Behav Neurosci, 8 (2014), p. 92
+Google Scholar
+Gates and Mills, 2005
+GA Gates, JH Mills
+Presbycusis
+Lancet, 366 (2005), pp. 1111-1120
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Gates et al., 1993
+GA Gates, JL Cobb, RB D'Agostino, PA Wolf
+The relation of hearing in the elderly to the presence of cardiovascular disease and cardiovascular risk factors
+Arch Otolaryngol Head Neck Surg, 119 (1993), pp. 156-161
+CrossRefView Record in ScopusGoogle Scholar
+Glueckert et al., 2003
+R Glueckert, G Wietzorrek, K Kammen-Jolly, A Scholtz, K Stephan, J Striessnig, A Schrott-Fischer
+Role of class D L-type Ca2+ channels for cochlear morphology
+Hear Res, 178 (2003), pp. 95-105
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Gomora et al., 2001
+JC Gomora, AN Daud, M Weiergraber, E Perez-Reyes
+Block of cloned human T-type calcium channels by succinimide antiepileptic drugs
+Mol Pharmacol, 60 (2001), pp. 1121-1132
+CrossRefView Record in ScopusGoogle Scholar
+Hamby et al., 2015
+AM Hamby, JM Rosa, CH Hsu, MB Feller
+Cav3.2 KO mice have altered retinal waves but normal direction selectivity
+Vis Neurosci, 32 (2015), p. E003
+Google Scholar
+Hamed, 2017
+SA Hamed
+The auditory and vestibular toxicities induced by antiepileptic drugs
+Expert Opin Drug Saf, 16 (2017), pp. 1281-1294
+CrossRefView Record in ScopusGoogle Scholar
+Haremza et al., 2017
+C Haremza, N Klopp-Dutote, V Strunski, C Page
+Evaluation of cardiovascular risks and recovery of idiopathic sudden sensorineural hearing loss in hospitalised patients: comparison between complete and partial sudden sensorineural hearing loss
+J Laryngol Otol, 131 (2017), pp. 919-924
+CrossRefView Record in ScopusGoogle Scholar
+Hellemans et al., 2007
+J Hellemans, G Mortier, A De Paepe, F Speleman, J Vandesompele
+qBase relative quantification framework and software for management and automated analysis of real-time quantitative PCR data
+Genome Biol, 8 (2007), p. R19
+CrossRefView Record in ScopusGoogle Scholar
+Henry, 2004
+KR Henry
+Males lose hearing earlier in mouse models of late-onset age-related hearing loss; females lose hearing earlier in mouse models of early-onset hearing loss
+Hear Res, 190 (2004), pp. 141-148
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Hirtz et al., 2011
+JJ Hirtz, M Boesen, N Braun, JW Deitmer, F Kramer, C Lohr, B Muller, HG Nothwang, J Striessnig, S Lohrke, E Friauf
+Cav1.3 calcium channels are required for normal development of the auditory brainstem
+J Neurosci, 31 (2011), pp. 8280-8294
+CrossRefView Record in ScopusGoogle Scholar
+Hori et al., 2003
+A Hori, S Kataoka, K Sakai, G Hirose, N Iwasaki, A Horiguchi, M Takashima, K Tomoda
+Valproic acid-induced hearing loss and tinnitus
+Intern Med, 42 (2003), pp. 1153-1154
+CrossRefView Record in ScopusGoogle Scholar
+Inagaki and Lee, 2013
+A Inagaki, A Lee
+Developmental alterations in the biophysical properties of Cav1.3 Ca2+ channels in mouse inner hair cells
+Channels (Austin), 7 (2013), pp. 171-181
+CrossRefView Record in ScopusGoogle Scholar
+Inagaki et al., 2008
+A Inagaki, S Ugawa, H Yamamura, S Murakami, S Shimada
+The Cav3.1 T-type Ca2+ channel contributes to voltage-dependent calcium currents in rat outer hair cells
+Brain Res, 1201 (2008), pp. 68-77
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Ison et al., 2007
+JR Ison, PD Allen, WE O'Neill
+Age-related hearing loss in C57BL/6J mice has both frequency-specific and non-frequency-specific components that produce a hyperacusis-like exaggeration of the acoustic startle reflex
+J Assoc Res Otolaryngol, 8 (2007), pp. 539-550
+CrossRefView Record in ScopusGoogle Scholar
+Jacus et al., 2012
+MO Jacus, VN Uebele, JJ Renger, SM Todorovic
+Presynaptic Cav3.2 channels regulate excitatory neurotransmission in nociceptive dorsal horn neurons
+J Neurosci, 32 (2012), pp. 9374-9382
+CrossRefView Record in ScopusGoogle Scholar
+Johnson et al., 2017
+KR Johnson, C Tian, LH Gagnon, H Jiang, D Ding, R Salvi
+Effects of Cdh23 single nucleotide substitutions on age-related hearing loss in C57BL/6 and 129S1/Sv mice and comparisons with congenic strains
+Sci Rep, 7 (2017), Article 44450
+Google Scholar
+Joiner and Lee, 2015
+ML Joiner, A Lee
+Voltage-Gated Cav1 Channels in Disorders of Vision and Hearing
+Curr Mol Pharmacol, 8 (2015), pp. 143-148
+CrossRefView Record in ScopusGoogle Scholar
+Kane et al., 2012
+KL Kane, CM Longo-Guess, LH Gagnon, D Ding, RJ Salvi, KR Johnson
+Genetic background effects on age-related hearing loss associated with Cdh23 variants in mice
+Hear Res, 283 (2012), pp. 80-88
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Kim and Trussell, 2007
+Y Kim, LO Trussell
+Ion channels generating complex spikes in cartwheel cells of the dorsal cochlear nucleus
+J Neurophysiol, 97 (2007), pp. 1705-1725
+CrossRefView Record in ScopusGoogle Scholar
+Knipper et al., 2013
+M Knipper, P Van Dijk, I Nunes, L Ruttiger, U Zimmermann
+Advances in the neurobiology of hearing disorders: recent developments regarding the basis of tinnitus and hyperacusis
+Prog Neurobiol, 111 (2013), pp. 17-33
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Koschak et al., 2001
+A Koschak, D Reimer, I Huber, M Grabner, H Glossmann, J Engel, J Striessnig
+alpha 1D (Cav1.3) subunits can form l-type Ca2+ channels activating at negative voltages
+J Biol Chem, 276 (2001), pp. 22100-22106
+CrossRefView Record in ScopusGoogle Scholar
+Lee et al., 2007
+S Lee, O Briklin, H Hiel, P Fuchs
+Calcium-dependent inactivation of calcium channels in cochlear hair cells of the chicken
+J Physiol, 583 (2007), pp. 909-922
+CrossRefView Record in ScopusGoogle Scholar
+Lei et al., 2011
+D Lei, X Gao, P Perez, KK Ohlemiller, CC Chen, KP Campbell, AY Hood, J Bao
+Anti-epileptic drugs delay age-related loss of spiral ganglion neurons via T-type calcium channel
+Hear Res, 278 (2011), pp. 106-112
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Lopez et al., 2003
+I Lopez, G Ishiyama, D Acuna, A Ishiyama, RW Baloh
+Immunolocalization of voltage-gated calcium channel alpha1 subunits in the chinchilla cochlea
+Cell Tissue Res, 313 (2003), pp. 177-186
+CrossRefView Record in ScopusGoogle Scholar
+Marcotti et al., 2003
+W Marcotti, SL Johnson, MC Holley, CJ Kros
+Developmental changes in the expression of potassium currents of embryonic, neonatal and mature mouse inner hair cells
+J Physiol, 548 (2003), pp. 383-400
+CrossRefView Record in ScopusGoogle Scholar
+Matar et al., 2009
+N Matar, W Jin, H Wrubel, J Hescheler, T Schneider, M Weiergraber
+Zonisamide block of cloned human T-type voltage-gated calcium channels
+Epilepsy Res, 83 (2009), pp. 224-234
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Mills et al., 1999
+JH Mills, LJ Matthews, FS Lee, JR Dubno, BA Schulte, PC Weber
+Gender-specific effects of drugs on hearing levels of older persons
+Ann N Y Acad Sci, 884 (1999), pp. 381-388
+CrossRefView Record in ScopusGoogle Scholar
+Mizuta et al., 2010
+E Mizuta, M Shirai, K Arakawa, K Hidaka, J Miake, H Ninomiya, M Kato, C Shigemasa, Y Shirayoshi, I Hisatome, T Morisaki
+Different distribution of Cav3.2 and Cav3.1 transcripts encoding T-type Ca2+ channels in the embryonic heart of mice
+Biomed Res, 31 (2010), pp. 301-305
+CrossRefView Record in ScopusGoogle Scholar
+Murphy and Gates, 1997
+MP Murphy, GA Gates
+Hearing Loss: Does Gender Play a Role?
+Medscape Womens Health, 2 (1997), p. 2
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Nie et al., 2008
+L Nie, J Zhu, MA Gratton, A Liao, KJ Mu, W Nonner, GP Richardson, EN Yamoah
+Molecular identity and functional properties of a novel T-type Ca2+ channel cloned from the sensory epithelia of the mouse inner ear
+J Neurophysiol, 100 (2008), pp. 2287-2299
+CrossRefView Record in ScopusGoogle Scholar
+Ohlemiller, 2006
+KK Ohlemiller
+Contributions of mouse models to understanding of age- and noise-related hearing loss
+Brain Res, 1091 (2006), pp. 89-102
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Pearson et al., 1995
+JD Pearson, CH Morrell, S Gordon-Salant, LJ Brant, EJ Metter, LL Klein, JL Fozard
+Gender differences in a longitudinal study of age-associated hearing loss
+J Acoust Soc Am, 97 (1995), pp. 1196-1205
+CrossRefView Record in ScopusGoogle Scholar
+Platzer et al., 2000
+J Platzer, J Engel, A Schrott-Fischer, K Stephan, S Bova, H Chen, H Zheng, J Striessnig
+Congenital deafness and sinoatrial node dysfunction in mice lacking class D L-type Ca2+ channels
+Cell, 102 (2000), pp. 89-97
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Probst et al., 2013
+FJ Probst, RR Corrigan, D Del Gaudio, AP Salinger, I Lorenzo, SS Gao, I Chiu, A Xia, JS Oghalai, MJ Justice
+A point mutation in the gene for asparagine-linked glycosylation 10B (Alg10b) causes nonsyndromic hearing impairment in mice (Mus musculus)
+PLoS One, 8 (2013), Article e80408
+CrossRefGoogle Scholar
+Rotschafer et al., 2015
+SE Rotschafer, S Marshak, KS Cramer
+Deletion of Fmr1 alters function and synaptic inputs in the auditory brainstem
+PLoS One, 10 (2015), Article e0117266
+CrossRefGoogle Scholar
+Schacht and Hawkins, 2005
+J Schacht, JE Hawkins
+Sketches of otohistory. Part 9: presby[a]cusis
+Audiol Neurootol, 10 (2005), pp. 243-247
+CrossRefView Record in ScopusGoogle Scholar
+Scimemi et al., 2014
+P Scimemi, R Santarelli, A Selmo, F Mammano
+Auditory brainstem responses to clicks and tone bursts in C57 BL/6J mice
+Acta Otorhinolaryngol Ital, 34 (2014), pp. 264-271
+View Record in ScopusGoogle Scholar
+Shen et al., 2007
+H Shen, B Zhang, JH Shin, D Lei, Y Du, X Gao, Q Wang, KK Ohlemiller, J Piccirillo, J Bao
+Prophylactic and therapeutic functions of T-type calcium blockers against noise-induced hearing loss
+Hear Res, 226 (2007), pp. 52-60
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Simms and Zamponi, 2014
+BA Simms, GW Zamponi
+Neuronal voltage-gated calcium channels: structure, function, and dysfunction
+Neuron, 82 (2014), pp. 24-45
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+So et al., 2005
+HS So, C Park, HJ Kim, JH Lee, SY Park, JH Lee, ZW Lee, HM Kim, F Kalinec, DJ Lim, R Park
+Protective effect of T-type calcium channel blocker flunarizine on cisplatin-induced death of auditory cells
+Hear Res, 204 (2005), pp. 127-139
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Spongr et al., 1997
+VP Spongr, DG Flood, RD Frisina, RJ Salvi
+Quantitative measures of hair cell loss in CBA and C57BL/6 mice throughout their life spans
+J Acoust Soc Am, 101 (1997), pp. 3546-3553
+CrossRefView Record in ScopusGoogle Scholar
+Tan et al., 2018
+HE Tan, NSR Lan, MW Knuiman, ML Divitini, DW Swanepoel, M Hunter, CG Brennan-Jones, J Hung, RH Eikelboom, PL Santa Maria
+Associations between cardiovascular disease and its risk factors with hearing loss-A cross-sectional analysis
+Clin Otolaryngol, 43 (2018), pp. 172-181
+View Record in ScopusGoogle Scholar
+Thuesen et al., 2018
+AD Thuesen, K Andersen, KS Lyngso, M Burton, C Brasch-Andersen, PM Vanhoutte, PBL Hansen
+Deletion of T-type calcium channels Cav3.1 or Cav3.2 attenuates endothelial dysfunction in aging mice
+Pflugers Arch, 470 (2018), pp. 355-365
+CrossRefView Record in ScopusGoogle Scholar
+Tsubota et al., 2018
+M Tsubota, Y Okawa, Y Irie, M Maeda, T Ozaki, F Sekiguchi, H Ishikura, A Kawabata
+Involvement of the cystathionine-gamma-lyase/Cav3.2 pathway in substance P-induced bladder pain in the mouse, a model for nonulcerative bladder pain syndrome
+Neuropharmacology, 133 (2018), pp. 254-263
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Tucker-Davis Technologies, 2015
+Tucker-Davis Technologies
+A Guide to ABR Testing with the System
+3 (2015), p. RZ6
+View Record in ScopusGoogle Scholar
+Weiergräber et al., 2005
+M Weiergräber, M Henry, M Südkamp, ER de Vivie, J Hescheler, T Schneider
+Ablation of Cav2.3 / E-type voltage-gated calcium channel results in cardiac arrhythmia and altered autonomic control within the murine cardiovascular system
+Basic Res. Cardiol., 100 (1) (2005), pp. 1-13
+View Record in ScopusGoogle Scholar
+Uemaetomari et al., 2009
+I Uemaetomari, K Tabuchi, M Nakamagoe, S Tanaka, H Murashita, A Hara
+L-type voltage-gated calcium channel is involved in the pathogenesis of acoustic injury in the cochlea
+Tohoku J Exp Med, 218 (2009), pp. 41-47
+CrossRefView Record in ScopusGoogle Scholar
+Valderrama et al., 2014
+JT Valderrama, A de la Torre, I Alvarez, JC Segura, AR Thornton, M Sainz, JL Vargas
+Automatic quality assessment and peak identification of auditory brainstem responses with fitted parametric peaks
+Comput Methods Prog Biomed, 114 (2014), pp. 262-275
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Voisin et al., 2016
+T Voisin, E Bourinet, P Lory
+Genetic alteration of the metal/redox modulation of Cav3.2 T-type calcium channel reveals its role in neuronal excitability
+J Physiol, 594 (2016), pp. 3561-3574
+CrossRefView Record in ScopusGoogle Scholar
+Wang and Lewin, 2011
+R Wang, GR Lewin
+The Cav3.2 T-type calcium channel regulates temporal coding in mouse mechanoreceptors
+J Physiol, 589 (2011), pp. 2229-2243
+CrossRefView Record in ScopusGoogle Scholar
+Willott, 2001
+JF Willott
+Handbook of Mouse Auditory Research - From Behavior to Molecular Biology
+CRC Press (2001)
+Google Scholar
+Xu and Lipscombe, 2001
+W Xu, D Lipscombe
+Neuronal Cav1.3 alpha1 L-type channels activate at relatively hyperpolarized membrane potentials and are incompletely inhibited by dihydropyridines
+J Neurosci, 21 (2001), pp. 5944-5951
+View Record in ScopusGoogle Scholar
+Yeap et al., 2014
+LL Yeap, KS Lim, YL Lo, MZ Bakar, CT Tan
+Valproate-induced reversible sensorineural hearing loss: a case report with serial audiometry and pharmacokinetic modelling during a valproate rechallenge
+Epileptic Disord, 16 (2014), pp. 375-379
+View Record in ScopusGoogle Scholar
+Yu et al., 2015
+YF Yu, WY Wu, GS Xiao, J Shi, HY Ling
+Effect of T-type calcium channel blockers on spiral ganglion neurons of aged C57BL/6J mice
+Int J Clin Exp Med, 8 (2015), pp. 15466-15473
+View Record in ScopusGoogle Scholar
+Yu et al., 2016
+YF Yu, WY Wu, GS Xiao, HY Ling, C Pan
+Protection of the cochlear hair cells in adult C57BL/6J mice by T-type calcium channel blockers
+Exp Ther Med, 11 (2016), pp. 1039-1044
+CrossRefView Record in ScopusGoogle Scholar

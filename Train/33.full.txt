@@ -1,0 +1,1033 @@
+3— amn—
+
+Binding of rapamycin analogs to calcium
+channels and FKBP52 contributes to
+their neuroprotective activities
+
+Benfang Ruan“, Kevin Pong*, Flora Jow*, Mark Bowlby*, Robert A. Crozier*, Danni Liu*, Shi Liang*, Yi Chen*,
+
+Mary Lynn Mercado*, Xidong Feng*, Frann Bennetf, David von Schack§, Leonard McDonald*. Margaret M. Zaleska*,
+Andrew Wood*, Peter H. Reinhart*, Ronald L. Magolda*. Jerauld Skotnicki*. Menelas N. Pangalos*, Frank E. Koehn*,
+Guy T. Carter*, Magid Abou-Gharbia*. and Edmund l. Graziani*‘n
+
+*Chemical and Screening Sciences, Wyeth Research, 401 North Middletown Road, Pearl River, NY 10965; *Discovery Neuroscience, Wyeth Research, CN8000,
+Princeton, NJ 08543-8000; tDiscovery Inflammation, Wyeth Research, 200 Cambridge Park Drive, Cambridge, MA 02140; and §Biological Technologies, Wyeth
+
+Research, 87 Cambridge Park Drive, Cambridge, MA 02140
+
+Communicated by Kyriacos C. Nicolaou, The Scripps Research Institute, La Jolla, CA, November 8, 2007 (received for review August 15, 2007)
+
+Rapamycin is an immunosuppressive immunophilin ligand re-
+ported as having neurotrophic activity. We show that modification
+of rapamycin at the mammalian target of rapamycin (mTOR)
+binding region yields immunophilin ligands, WYE-592 and lLS-920,
+with potent neurotrophic activities in cortical neuronal cultures,
+efficacy in a rodent model for ischemic stroke, and significantly
+reduced immunosuppressive activity. Surprisingly, both com-
+pounds showed higher binding selectivity for FKBP52 versus
+FKBP12, in contrast to previously reported immunophilin ligands.
+Affinity purification revealed two key binding proteins, the immu-
+nophilin FKBP52 and the B1-subunit of L-type voltage-dependent
+Ca2+ channels (CACNB1). Electrophysiological analysis indicated
+that both compounds can inhibit L-type Ca2+ channels in rat
+hippocampal neurons and F-11 dorsal root ganglia (DRG)/neuro-
+blastoma cells. We propose that these immunophilin ligands can
+protect neurons from Ca2+-induced cell death by modulating Ca2+
+channels and promote neurite outgrowth via FKBP52 binding.
+
+immunophilin 1 L-type voltage-gated calcium channel 1 natural products 1
+neurodegeneration 1 stroke
+
+mmunophilin ligands, such as FK506, cyclosporin A, rapamycin,
+
+3-n0rmeridamycin, V-10,367, and GPI-1046, have been shown to
+have neuroprotective activities (174). Immunophilins comprise the
+family of FK506—binding proteins (FKBPs) having peptidyl—prolyl
+CL'S-trans isomerase (PPIase) activities and were proposed as likely
+targets for mediating this neurotrophic activity, although there is
+disagreement as to their specific mechanism (577). Over two dozen
+immunophilins occur in the human genome and are known to
+associate with a diverse array of proteins, including ion channels
+(7711), steroid receptor complexes (5), transcription factors (12),
+and Bcl—2 upon conditional activation (6). Immunophilin ligands
+generate various downstream biological activities by disruption of
+the natural FKBP-containing complexes (5712) or by formation of
+novel ternary complexes, such as FKBP127FK506icalcineurin (13,
+14) or FKBP127rapamycin7mammalian target of rapamycin
+(mTOR) (15). The ternary complexes of FK506 and rapamycin
+with their respective protein targets result in immunosuppressive
+activity that may be undesirable in the context of a therapy for
+neurodegenerative conditions (9). FK506 and rapamycin bind
+multiple immunophilin isoforms, increasing the risk that Off-target
+activities will lead to unanticipated or adverse effects. For example,
+the interaction of FK506 (which binds to many FKBPs) with
+FKBP12.6 is potentially problematic because the compound can
+disrupt the interaction between FKBP12.6 and the ryanodine
+receptor, causing Ca2+ leakage from endoplasmic and sarcoplasmic
+reticula and further resulting in impairment of the excitationi
+contraction coupling in cardiac muscle (9). Therefore, activities that
+stem from inhibition of multiple FKBPs make FK506 a problematic
+
+www.pnas.org/cgi/doi/10.1073/pna5.0710424105
+
+candidate for treating neurodegenerative conditions, even though
+the compound has shown efficacy in rodent models of stroke (16).
+
+We used a structure-based drug design approach to determine
+whether semisynthetic analogs of rapamycin (rapalogs) that were
+nonimmunosuppressive and showed some selectivity for immu-
+nophilin binding might be desirable candidates for additional in vivo
+study. Reported here are the chemical syntheses of two neuropro-
+tective, nonimmunosuppressive rapalogs, WYE-592 and ILS-920,
+which bind selectively to the immunophilin FKBP52 and t0 the
+Bl-subunit 0f L-type voltage-gated calcium channels (VGCC). An
+investigation of the mechanistic basis of their action revealed
+unique interaction partners resulting in the modulation of intra-
+cellular Ca2+ homeostasis.
+
+Results
+
+Chemical Syntheses of Rapamycin Analogs. Rapamycin is a hybrid
+polyketide/nonribosomal peptide macrolide that forms a ternary
+complex of FKBP127rapamycinimTOR that inhibits mTOR ki-
+nase activity and leads to immunosuppression (14). T0 disrupt the
+interaction with mTOR while leaving the FKBP-binding portion of
+the compound intact, with the aim of reducing mTOR-mediated
+immunosuppressive activity while maintaining neuroprotective ac-
+tivity, we prepared WYE-592 from rapamycin Via a [4 + 2]
+cycloaddition reaction with nitrosobenzene at the C1, C3 diene, and
+ILS—920 from further catalytic hydrogenation of WYE-592 (Fig.
+1A). Both compounds were purified by HPLC and fully character-
+ized (including stereochemistry) by 2D NMR analyses [supporting
+information (SI) Table 2].
+
+lLS-920 is a Nonimmunosuppressive Rapamycin Analog. Inhibition of
+IL-2-stimulated human CD4+ T cell proliferation was used as an in
+vitro measure of immunosuppression. ILS—920 showed no inhibition
+up to 5 MM, in contrast to rapamycin and FK506 (ICso = 5 nM and
+1 nM, respectively; Table 1). WYE-592 exhibited intermediate
+activity (ICso = 150 nM) arising from a 3% conversion of the
+sample to rapamycin Via a retro DielsiAlder reaction (data not
+shown), which indicated that modiﬁcation at the mTOR binding
+
+Author contributions: B.R. and K.P. contributed equally to the work. B.R., K.P., M.B.,
+M.M.Z., P.H.R., R.L.M., J.S., M.N.P., F.E.K., G.T.C., M.A.7G., and E.|.G. designed research; B.R.,
+K.P., F.J., R.A.C., D.L., S.L., Y.C., M.L.M., X.F., F.B., L.M., and E.|.G. performed research; B.R.,
+K.P., M.B., R.A.C., M.L.M., D.V.S., L.M., M.M.Z., A.W., R.L.M., M.N.P., and E.|.G. analyzed
+data; and B.R., M.N.P., and E.|.G. wrote the paper.
+
+Conflict of interest statement: All authors are orwere employees of Wyeth and currently
+hold stock options in Wyeth.
+
+11To whom correspondence should be addressed. Ermail: graziaei@wyerh.com.
+
+This article contains supporting information online at www.pnas.orglcgilcomemlfu|ll
+0710424105/DC1.
+
+© 2007 by The National Academy of Sciences of the USA
+
+PNAS | January8. 2008 | vol.105 | no.1 | 33—38
+
+NEUROSCIENCE
+
+>
+z
+._
+2
+E
+H]
+=
+u
+
+ 
+
+ 
+
+Nnmsnhemene
+70 "c 15 ms
+M11.
+
+   
+
+Rapamycin
+E a 4, A *
+B E 9. 3.0 ”F * ~
+g E 1
+i 2 2’
+‘5 = I.
+g 8 o.
+o 0.111 0.1 1 1o 11] 1o
+\\\ wvz—ssz /// FKsos Rapamycin
+pM
+1 . t
+C a e15
+= ,, p
+‘2' E, 10 K
+a:
+z 5
+E 8’ 5
+1‘3 3 o
+o 0.01 0.1 1 10 10 1o
+\\\ WYEJSZ /// FK506Rapamycin
+M
+Fig. 1. Synthesis and biological activities of rapamycin analogs. (A) Chemical
+
+synthesis of WYE-592 and |LS-920 from rapamycin. The 42-OH (red) was
+derivatized and linked to the Affi-Gel 10 resin. (B) Effect of WYE-592 on
+neuronal survival. Survival of E16 rat primary cortical neurons, aftertreatment
+with control or compound for 72 h, was measured by neurofilament ELISA (*,
+P < 0.01; A, P < 0.001; n = 4). (C) Effect of WYE-592 on neurite outgrowth in
+cortical neurons. Mean total neurite length of primary E16 rat cortical neuron
+cultures, aftertreatment with control or compound for 72 h, was measured by
+Cellomics ArrayScan.
+
+region effectively reduced the immunosuppressive activity of rapa-
+mycin by more than three orders of magnitude.
+
+lLS-920 and WYE-592 Promote Neuronal Survival and Stimulate Neu-
+rite Outgrowth. ILS-920 and WYE-592 were found to promote
+neuronal survival, as measured by neurofilament ELISA in cultured
+rat cortical neurons (Fig. 1B and Table 1), with up to an order of
+magnitude improvement in activity versus rapamycin. The com-
+pounds also promote neurite outgrowth in both cortical neurons
+(Fig. 1C) and F—11 cells [a hybrid of rat DRG neurons and mouse
+neuroblastoma (17), SI Fig. 6C], with comparable ECSO values (see
+Table 1). Both compounds demonstrated significantly greater
+potency in these neuronal assays than the previously reported
+neuroprotective immunophilin ligand GPI—1046 (Table 1).
+
+lLS-920 and WYE-592 Bind to FKBP52 and the B-Subunit of L-Type
+VGCC. With the aim of identifying putative target proteins, afﬁnity
+matrices with covalently attached compound were prepared and
+used to precipitate proteins from F—11 cell lysates. As shown in Fig.
+2A, three strong bands (220 kDa, 60 kDa, and 50 kDa) and two weak
+bands (25 kDa and 12 kDa) were found in both WYE-592 and
+ILS-920 pull-down fractions. Fourier-transform ion cyclotron res-
+onance (FT-ICR) MS spectra of each band were used for Mascot
+searches in the National Center for Biotechnology Information
+
+c ;
+A-a ~ B N
+
+s a
+§§2xmva xﬁwag
+emﬁnﬁﬁme ew33 %
+mdjEuEE BEE: 0:
+Anti-FKBPSZ ‘l _ '_‘
+
+220kDa
+
+3,”.
+‘E
+78kDaD .E N
+r N 0 .E
+1v-v1 1 -330 E E“
+-—‘-' - - “"93 §m$8mgoe
+2 2 - a>u32é§wue
+Egguﬂﬁﬁgﬁ-
+
+75KB“ CACN Bl
+
+C 3‘) o i SDKDa PPID
+g E g 81? g 37KDa .a FKBP3B
+g E E 2 & ZSKDa FKBPZS
+Anli»
+’ _— ZOKDa
+CACNB1
+15"”3 FKBP12
+12KDa
+Fig. 2. Target proteins of WYE-592 and ILS-920. (A) Affinity precipitation of
+
+target proteins from F11 cell lysates using WYE-592, |LS-920, FK506, or rapa-
+mycin-linked affinity matrices. The bands found in the WYE-592 pull-down
+fraction are myosin (3), FKBP52 (1), CACNB1, FKBP25, and FKBP12 (2); the
+bandsfrom the |LS-920 pull-down fraction are FKBP52 ( 1) and CACNB1 (2); and
+the band in the blank bead control is actin (4). Marker, molecular weight
+markers. (B) Western blot analysis of the affinity-precipitated proteins forthe
+presence of FKBP52. (C) Western analysis of the affinity-precipitated proteins
+forthe presence of CACNB1. (D) Binding of WYE-592 and |LS-920to individual
+purified recombinant proteins. Each WYE-592, |LS-920, FK506, or rapamycin
+linked affinity matrix was incubated with purified recombinant CACNB1, PPID,
+FKBP38/CaZ+/CaM, FKBP25, and FKBP12 separately, and individual pull-down
+experiments were analyzed by SDS/PAGE to assess binding affinity.
+
+(NCBI) database (SI Table 3). FKBP52 (5) and the B-subunits 0f
+the L-type VGCC (18, 19) were identified as targets of WYE-592
+and ILS-920 with high P values, and their presence was conﬁrmed
+by Western blot analysis (Fig. 2 B and C). FKBP25 and FKBP12 also
+were identified as weaker bands, whereas myosin and actin were
+found in all fractions, indicating nonspecific binding to the resin.
+
+lLS-920 and WYE-592 Exhibit Highly Selective Binding to FKBP52. The
+observation that FKBPS 2 was the predominant immunophilin that
+was affinity-purified from F11 cell lysates with resin-bound WYE-
+592 and ILS-920 suggested that either FKBP52 is enriched in F11
+cells relative to other immunophilins or that WYE-S 92 and ILS—920
+exhibit binding selectivity for FKBP52. RT-PCR was carried out to
+measure the mRNA level offkbpla (the gene encoding FKBP12)
+and fkbp4 (the gene encoding FKBP52) in F11 cells. The mRNA
+level of fkbpla was four times higher than that 0ff7cbp4, indicating
+that WYE-592 and ILS—920 may bind selectivity to FKBP52. To
+determine the specific affinity of WYE-592 and ILS-920 t0
+FKBP52, we measured binding constants. ILS-920 and WYE-592
+both demonstrated a preference for binding to FKBP52 relative to
+FKBP12 (229- and 8-f01d, respectively) whereas FK506 and rapa-
+mycin bind to both proteins with comparable affinities (Table 1).
+GPI-1046 showed very weak binding affinity to both FKBP12 and
+FKBP52. To further probe the specificity of immunophilin/
+
+Table 1. Biological activities and kinetic constants of immunophilin ligands
+
+ 
+
+T cell Neurite Cortical neuron
+inhibition IC50, outgrowth survival FKBP12 binding FKBP52 binding
+
+Compounds 11M ECSO, MM ECSO, 11M Kd, nM Kd, nM
+FK506 0.001 0.45 0.01 0.33 t 0.03 (Lit. 0.4) 0.72 t 0.07
+|LS—920 >5 0.54 0.15 110 t 11 0.48 t 0.04
+WYE—592 0.15 0.42 0.7 4.7 t 0.4 0.55 t 0.05
+Rapamycin 0.005 1.6 1.3 0.33 t 0.03 1.4 t 0.1
+GPl—1046 >5 200 8.8 >110 >12
+
+ 
+
+34 | www.pnas.org/cgi/doi/10.1073/pnas.0710424105
+
+Ruan et al.
+
+'5—
+
+V
+
+k
+
+a
+
+ 
+
+cyclophilin interaction, and because of their reported role in
+neuroprotection from ischemic injury (6, 7, 12), the binding of
+WYE-592 and ILS-920 to purified recombinant FKBP25, FKBP38,
+and cyclophilin D (ppif) was measured [all proteins were demon-
+strated to be catalytically active in a peptidyl prolyl cis-trans
+isomerase assay (SI Fig. 7A)]. Binding of ILS-920, WYE-592,
+rapamycin, and FK506 to individual proteins was confirmed by
+affinity precipitation followed by SDS/PAGE analysis (Fig. 2D) or
+Via measurement of binding constants (Table 1). To further confirm
+this result, the binding of [14C]WYE-592 to individual proteins was
+measured (SI Fig. 7B). At 10 1.1M, the afﬁnity of [14C]WYE-592
+binding to these targets can be ranked in the relative order:
+(FKBP52, FKBP12, FKBP25) >> PPID >> PPIF and FKBP38/
+CaZT/CaM. These results indicate that WYE-592 and ILS-920,
+although retaining some affinity for FKBP12 and FKBP25, have a
+pronounced binding selectivity for FKBP52.
+
+lLS-920 and WYE-592 Bind to the B-Subunit of L-Type VGCC. The
+presence of the Other key binding protein, the Bl-subunit 0f
+L-type voltage-dependent Ca2+ channels (CACNB1), was vali-
+dated by testing the binding of recombinant Bl-subunit
+(CACNBlzTGG548TAA) by affinity precipitation followed by
+SDS/PAGE analysis; WYE-592 and ILS-920 bind to the [31-
+subunit but not rapamycin 0r FK506 (Fig. 2C). The binding of
+WYE-592 t0 the Bl-subunit was further tested in a radioactivity
+assay and by protein tryptophan fluorescent quenching analy-
+sis. At 10 1.1M, [14C]WYE-592 bound to a mutant His6-
+CACNB1:TGG548TAA and weakly to CACNB4 (SI Fig. 7C).
+This also was confirmed by protein tryptophan fluorescent
+quenching (SI Fig. 7D), a linear doseiresponse indicating con-
+formational changes upon binding WYE-592 t0 CACNB1. To
+determine whether FKBP52 and CACNB1 can associate with
+each other, the lysates of F11 cells in the presence or absence of
+5 1.1M WYE-592 were immunoprecipitated with anti-FKBP52
+antibody, followed by Western analysis Of the immunoprecipi-
+tated fractions with anti-CACNBl antibody to detect the co-
+precipitation of the Bl-subunit. As shown in SI Fig. 7E, the
+Bl-subunit was not coimmunoprecipitated with FKBP52 in the
+absence of WYE-592, indicating that FKBP52 does not associate
+with CACNB1 in F11 cells.
+
+RNAi Knockdown of FKBP52 Enhanced Neurite Outgrowth. To further
+understand the role of FKBP52 and the B—subunit 0f the VGCC in
+mediating the neuroregenerative effects of WYE-592 and ILS-920,
+mRNA knockdown using siRNA was performed in cortical neu-
+rons. As shown in Fig. 3A, siRNA against FKBP52 and CACNBl
+reduced the expression of the corresponding protein by 70786%,
+whereas the expression of actin remained the same. Total neurite
+outgrowth was significantly increased in FKBP52 siRNA-treated
+neurons (125 :r 12% of control; Fig. 3 B and C) and negligibly in
+CACNB1 siRNA-treated neurons, which suggests that inhibition of
+FKBP52 stimulates neurite outgrowth, providing a strong mecha-
+nistic rationale for the neurite outgrowth observed after ILS-920
+and WYE-592 treatment.
+
+lLS-920 and WYE-592 Inhibit L-Type Ca2+ Current in Hippocampal
+Neurons and F-11 Cells. The L-type VGCC (18, 19) contains multiple
+subunits: a membrane-spanning a-subunit forms the Ca2+ channel
+pore, and one of four B—subunits associate with the a—subunit to
+regulate the gating of the channel. The Blb-, 133-, and B4-subunits
+are known to enhance the L—type Ca2+ channel current, whereas the
+B2-subunit plays a negative role (18, 19). Because we have shown
+that ILS-920 0r WYE-592 bind to at least one Of the B-subunits, we
+chose to investigate further the effect of both compounds on the
+function of L—type VGCC by electrophysiological analysis.
+
+After external application of WYE-592 0r FK506 t0 the bath
+solution, whole-cell Ca2+ currents in F—11 cells were recorded. A
+49% decrease of the Ca2+ current density (6.5 :r 0.5 to 3.2 :r 0.3
+
+Ruan et al.
+
+A siRNA B
+5:! ummm g 120
+mm. _ 3;
+Scr CACNB1 g 5
+emu h . ggg 40
+-1.- _ m :
+Sci FKBP52 E 0
+anp52. _ N
+v(c- ‘8’ Q34»
+Am... —_ (3‘0 v9 d-
+v” C;
+C Lamln AIC
+
+  
+
+Fig. 3. Reduction of FKBP52 and /31-subunit of VGCC by siRNA and the effect
+on neurite outgrowth. (A) Expression of the corresponding proteins in cortical
+neurons with and without siRNA treatment. (B) Total neurite outgrowth in
+cortical neurons in response to siRNA knockdown of CACNB1 (P = 0.39) and
+FKBP52 (P = 0.039) normalized to lamin A/C (control) knockdown. (C) Repre-
+sentative images of cortical neurons treated with siRNA against lamin A/C,
+CACNB1, or FKBP52 after 24 h. (Scale bar: 40 pm.)
+
+pA/pF) was observed after incubation of WYE-592 (data not
+shown), similar to that observed for FK506, as has been reported
+(20). The effect of WYE-592 0n L-type VGCC also was studied in
+F—11 cells by intracellular application of WYE-592. As shown in Fig.
+4 A and B, upon break-in WYE-592 began to inhibit the Ca2+
+current in F11 cells and a steady state was reached after total Ca2+
+current was reduced by 46 :r 1.8% within 10 min. Interestingly, once
+a steady state was obtained with WYE-592 little further block of
+Ca2+ current was Observed with the L-type VGCC antagonist
+BAY-K5552 (Fig. 4B), indicating the response to WYE-592 was
+predominantly on L-type VGCC current in F—11 cells. Rapamycin
+is reported to have no effect on L-type VGCC current (21),
+suggesting that WYE-592 has obtained a unique activity, relative to
+the parent compound, by inhibiting L-type VGCC current.
+
+To further determine whether the Observed effects on Ca2+
+currents were specific to the modiﬁcations we had made, ILS—920
+and rapamycin were tested in a more physiologically relevant
+context of cultured rat hippocampal neurons (Fig. 4 C and D).
+L—type VGCC was isolated by blockade of N-type Ca2+ channels
+with wCTX-GVIA (100 nM). Intracellular application of ILS—920
+(10 1.1M) resulted in inhibition of 74.5 :r 8.8% of the Ca2+ current
+after 10 min (Fig. 4 C andD, red filled circles). This response could
+be prevented by BAY-K5552, indicating that the inhibition was
+predominantly of L-type VGCC (Fig. 4D, red open circles). Essen-
+tially no current changes were Observed in the vehicle control
+recordings in the presence of wCTX-GVIA 0r wCTX-GVIA plus
+BAY-K5552 (Fig. 4D, black, filled or open squares, respectively).
+Finally, intracellular application of rapamycin yielded no change in
+L—type VGCC currents (Fig. 4D, black filled triangles). Because
+ILS—920 inhibited Ca2+ currents in the presence of N-type blockers,
+but not in the presence of both L-type and N-type blockers, we
+conclude that ILS-920 selectively inhibits the L—type VGCC. More-
+over, this effect is specific to ILS—920, because under the same
+conditions, rapamycin showed essentially no inhibition of the L—type
+VGCC.
+
+lLS-920 ls Eﬁicacious in a Rodent Model of Stroke. ILS-920 was
+selected for in vivo study because of its lack of immunosuppression,
+superior potency in in vitro models of neuroprotection and neuro-
+regeneration, and pharmacokinetic profile when compared with
+
+PNAS | January8.2008 | vol.105 | no.1 | 35
+
+NEUROSCIENCE
+
+CHEMISTRY
+
+It‘—
+
+7
+
+k
+
+1‘
+
+ 
+
+    
+
+ 
+
+ 
+
+A B wvsssz
+. ’? BAY-K-5552
+- o \ BAYK5552 25,100 .4131]
+E i so *1
+:' -200 ‘5 i
+= o "1'. .
+g 'u 60 "ﬂying!
+3 .400 E w .111.IE
+E
+.600 ‘5 2°
+. 1 1 . 1 1 1 1 z o
+o 10 20 30 411 so 60 70 o 200 400 600 800
+Time(ms) Time(s)
+C D 120
+° ' i 100
+A ILsszo "
+§- -500 r g
+V 5 so
+‘5 -1ooo o
+g 3 so
+u
+5 .1500 E
+-2ooo '5 4°
+2
+20
+
+ 
+
+ 
+
+0 50 100 150 200
+Time (ms)
+
+012345678910
+Tlme(mln)
+
+Fig. 4. WYE-592 and |LS-920 inhibition of L-type Ca2+ channels. (A) Repre-
+sentative Ca2+ currenttraces from F-11 cells after 10 11M WYE-592 was applied
+internally by the recording pipette. Currents are shown at time 0 5 (black
+trace), at time 800 5 (red trace, inhibition by WYE-592), and in the presence of
+the L-type Ca2+ channel blocker BAY-K 5552 (bluetrace). (B)Time course (same
+experiment as in A; n = 3) of Ca2+ current reduction in F-11 cells after
+intracellular application of 10 11M WYE-592 at 0 s and then followed by bath
+application of 10 11M BAY-K5552 at 600 s. (C) Representative Ca2+ current
+tracesafter intracellular application of 10 11M |LS-920to hippocampal neurons
+in the presence of bath-applied 100 nM wCTX GVIA. Traces shown are from
+time 0 5 (black trace) and 10 min (red trace). (D) Averaged time courses of
+whole-cell Ca2+ currents recorded from hippocampal neurons, normalized to
+the initial current (current at 0 s), and plotted as mean 1 SEM. Relative Ca2+
+current changes were recorded for 10 min after internal application of vehicle
+(0.1% DMSO, black filled squares, n = 6), rapamycin (black filled triangles, n =
+11), and |LS-920 (red filled circles, n = 10) in neurons recorded in extracellular
+solution containing 1 11M TTX plus 100 nM wCTX-GVIA, as well as after
+intracellular application of vehicle (DMSO 0.1%, black open squares, n = 6)
+and |LS-920 (red open circles, n = 10) in neurons recorded in external solution
+containing 1 11M ‘I'I'X plus 100 nM wCTX-GVIA plus 10 11M BAY-K 5552.
+
+WYE-592. In a transient middle cerebral artery occlusion (tM-
+CAO) model of ischemic stroke, ILS—920, administered 4 h post-
+occlusion at 10 and 30 mg/kg, significantly reduced infarct volume
+by 24% and 23% in 72 h, respectively, (Fig. 5), as well as robustly
+enhanced functional recovery measured by improvement in neu-
+rological deﬁcits (data not shown). In contrast, rapamycin alone in
+a similar model for stroke was reported to be devoid of efficacy (16).
+
+Discussion
+
+After reports that the immunosuppressant drugs FK506 and rapa-
+mycin exhibit potent neuroprotective activities (1, 2), numerous
+attempts to develop therapeutically useful compounds by uncou-
+pling neuroprotection from immunosuppression in this class of
+compounds have met with limited success. Nonimmunosuppressive
+immunophilin ligands such as GPIlO46, which contains the FKBP-
+binding moiety of rapamycin and FK506 but lacks an mTOR or
+calcineurin binding domain, have been pursued as potential ther-
+apies for neurodegenerative disorders. GPIlO46 has been reported
+to stimulate neurite outgrowth in chicken sensory ganglia at pico-
+molar concentrations and to stimulate recovery after sciatic nerve
+crush (22). However, other reports represent the neuroprotective
+activity of GPIlO46 as being marginal in neurite outgrowth studies
+in chicken DRG eXplants, rat DRGs, and a sciatic nerve injury
+model (23, 24). In View of these discrepancies, it was proposed
+that neuroprotection is mediated by immunophilins other than
+
+36 | www.pnas.org/cgi/doi/10.1073/pnas.0710424105
+
+    
+
+|nfarct(% ofcontrol)
+
+O
+
+30
+
+3 10
+|LS-920 (mglkg)
+
+Fig. 5. In vivo efficacy in a stroke model. At 4 h post-tMCAO, |LS-920 was
+administered as an iv. bolus at 3, 10, and 30 mg/kg, respectively. Neuropro-
+tective efficacy was measured by reduction of ischemic infarct at 72 h after
+treatment with |LS-920 (P < 0.05).
+
+FKBP12, notably FKBP52 and FKBP38 (5, 6). We therefore set out
+to design and synthesize rapamycin analogs that demonstrated
+substantially reduced immunosuppressive and improved neuropro-
+tective activities with the aim of using the resultant compound to
+determine whether immunophilin binding alone is important for
+neuroprotection.
+
+Rather than eliminating the mTOR binding domain of rapamy-
+cin to generate small molecules like GPIlO46, we introduced an
+additional bulky group at the rapamycin triene to disrupt mTOR
+binding (15) and eliminate immunosuppressive activity. WYE-592
+contains a bulky group at the mTOR binding region of rapamycin
+that was installed Via a DielsiAlder reaction with nitrosobenzene.
+This compound was twice as potent a promoter of cortical neuronal
+survival than rapamycin and four times more potent at stimulating
+neurite outgrowth (Table 1). Surprisingly, the compound exhibited
+a significant (although reduced) level of immunosuppressive activ-
+ity, relative to rapamycin, as measured by IL—2-stimulated T cell
+proliferation. A small percentage conversion of WYE-5 92 to rapa-
+mycin Via a retro DielsiAlder reaction, however, can account for
+this level of activity, and indeed 3% rapamycin was observed after
+72 h incubation of WYE-592 in assay buffer (data not shown).
+Reduction of the C2,C3 olefin in WYE-592 Via catalytic hydroge-
+nation to yield ILS—920 precluded the possibility of such a retro
+DielsiAlder reaction in the product, and the compound was
+observed to have no effect on T cell proliferation up to 5 1.1M.
+Moreover, ILS-920 was almost ﬁve times more potent than WYE-
+592 at promoting cortical neuronal survival (and therefore an order
+of magnitude more potent than rapamycin). Both compounds
+demonstrated greater activity in these neuronal assays than the
+previously reported n0nimmun0suppressive immunophilin ligand
+GPI-1046 (22724).
+
+We further sought to determine which, if any, immunophilins
+were binding partners for ILS-920 and WYE-592 and whether these
+or any other n0nimmun0philin proteins might mediate the com-
+pounds’ neuroprotective activities. Affinity purification from F—11
+cell lysates, using resin with covalently bound WYE-592 and
+ILS—920, identified FKBP52 and the Bl-subunit of L-type Ca2+
+channels (CACNB1) as the major binding partners for the com-
+pounds. Moreover, ILS-920 and WYE-592 demonstrated an un-
+anticipated and intriguing featureibinding selectivity for FKBP5 2
+over FKBP12. We have shown that FK506 and rapamycin have only
+a 2- to 3-fold difference in binding affinity to FKBP12 versus
+FKBP52. ILS-920 demonstrated over 200-fold selectivity for
+FKBP52 versus FKBP12, representing a change in binding speci-
+ﬁcity (as measured by the ratio of Kd FKBP52/Kd FKBP12) of three
+orders of magnitude relative to rapamycin (Table 1). This binding
+selectivity is unexpected, because X-ray structures of the isomerase
+domains of FKBP12 and FKBP52 are very similar and the active site
+residues have only 1 aa difference (His-87 in FKBP12 versus
+Ser-118 in FKBP52) (25). It therefore is likely that in the process of
+interfering with mTOR binding, the introduction of conformation-
+
+Ruan et al.
+
+It‘—
+
+7
+
+k
+
+1‘
+
+ 
+
+ally constrained substitutions at the triene of rapamycin can subtly
+influence the overall global population of macrolactone conformers
+that in turn affects immunophilin binding selectivity, given that
+rapamycin is well known to be a dynamic molecule that exists as a
+set of major and minor solution conformers because of cis-trans
+isomerization of the amide bond (12, 26). This report presents
+evidence that modiﬁcation distant to the FKBP-binding domain of
+rapamycin could generate orders of magnitude changes in immu-
+nophilin binding selectivity.
+
+Recently, FKBP52, FKBP38/Ca2T/CaM, and cyclophilin D have
+been proposed as the specific mediators of the neuroprotective
+action of immunophilin ligands (577). However, there is disagree-
+ment as to whether a single immunophilin mediates this actiVity
+and, if so, which one. FKBP52 was proposed to mediate the neurite
+outgrowth action of FK506 through activation of steroid receptor
+complexes that mediate downstream responses to estrogen, andro-
+gen, and glucocorticoid hormones (5). An FKBP38-calmodulin—
+Ca2+ complex formed at high Ca2+ concentrations recently was
+proposed to mediate CaZT-overload-induced cell death through its
+interaction as a negative effector of the antiapoptotic Bcl—2 protein
+(6). Cyclophilin D, the Ppif gene product involved in mitochondrial
+permeability transition pore assembly, also was proposed to medi-
+ate Ca2+ overload and oxidative stress-induced cell death after
+ischemia (7). However, ILS-920 and WYE-592 showed a strong
+affinity for FKBP52 but no binding to FKBP38/Ca2T/CaM and
+cyclophilin D. Together with our observation that neurite out-
+growth was significantly increased in FKBP52 siRNA-treated neu-
+rons, FKBP52 appears to be a principal mediator of neurite
+outgrowth of WYE-592 and ILS-920, given that neurite outgrowth
+of this magnitude is consistent with the reported activity of anti-
+FKBP52 antibody (5).
+
+ILS-920 and WYE-592 represent the ﬁrst immunophilin ligands
+that have been shown to bind to the Bl-subunit and inhibit L-type
+VGCC. L-type VGCC play a pivotal role in neuronal functioning,
+because Ca2+ influx through the L-type channel regulates impor-
+tant transcriptional responses such as the CaM kinase IV
+(CaMKIV)-dependent pathway, mitogen—activated protein kinase
+(MAPK) signaling pathway, cAMP response element binding
+protein (CREB)-dependent transcription, NFAT-dependent tran-
+scription, and apoptosis pathway (2731). These pathways are
+known to play critical roles in synaptic plasticity, neural inflamma-
+tion, developmental cell death, and neurodegenerative disorders
+(2731). Because ILS—920 inhibited Ca2+ currents in the presence
+of N-type blockers, but not in the presence of both L—type and
+N-type blockers, we conclude that ILS-920 selectively inhibits the
+L-type VGCC, although we cannot exclude the possibility that other
+VGCC (such as P/Q or R) also may contribute to some lesser
+degree. Moreover, this effect is specific to ILS-920, because under
+the same conditions, rapamycin showed essentially no inhibition of
+the L—type VGCC. It therefore is likely that attenuation of Ca2+
+influx is mechanistically important for neuroprotection, because
+Ca2+ overload generally is considered to be a critical event in
+excitotoxic-mediated neuronal death (28).
+
+Having prepared nonimmunosuppressive rapalogs with im-
+proved neuroprotective properties, identified their binding part-
+ners, and established a link between these proteins and the com-
+pounds’ biological activities, we further sought to evaluate their
+actiVity in an in vivo model of stroke. ILS—920 was selected as a
+suitable candidate for testing based on its lack of immunosuppres-
+sion, superior potency, and pharmacokinetic properties in addition
+to its improved stability relative to WYE-592 (see above). Treat-
+ment with ILS—920 at 10 and 30 mg/kg, administered 4 h postoc-
+clusion, significantly reduced infarct volume and improved neuro-
+logical recovery in a tMCAO model of ischemic stroke. The in vivo
+efficacy of ILS-920 is in marked contrast to rapamycin, which failed
+to reduce infarct volume in a rat tMCAO model (16). GPI—1046 also
+was reported to have limited or no efﬁcacy in comparable models
+of ischemic stroke (24). N-(N’,N’-dimethylcarboxamidomethyl)cy-
+
+Ruan et al.
+
+cloheXimide (DM-CHX) was reported to reduce infarct volume by
+up to 44% when delivered Via intracerebroventricular (i.c.V.) ap-
+plication 2 h postocclusion (but not 6 h) in a rat model of
+endothelin-induced transient focal ischemia (6). Because i.c.V.
+application is impractical for human stroke patients, in the absence
+of data employing alternate routes of delivery it is unclear at present
+what the clinical utility of such a compound might be. FK506 also
+has been reported to protect against ischemic insult (16), although
+its immunosuppressive actiVity and other off-target activities (9)
+also limit the therapeutic utility of the compound. In contrast,
+treatment with ILS—920 results in significant enhancement of neu-
+rological recovery in a tMCAO model of stroke with at least a 4—h
+therapeutic window (time elapsed between insult and initial dose)
+when delivered intravenously. Interestingly, modulation of calcium
+transients are implicated in both the proposed FKBP38 and cyclo-
+philin D-mediated pathways of neuroprotection, as well as for the
+calcineurin/calmodulin pathway inhibited by FK506. The additional
+capacity of ILS—920 to promote neurite outgrowth, mediated by
+binding to FKBP52, may serve to further extend the therapeutic
+window of the compound beyond the acute phase of recovery from
+ischemic injury. Together, our results indicate that perhaps both
+FKBP52 and CaZT-channel-mediated signaling pathways are re-
+quired for clinically relevant in vivo efficacy in stroke models.
+
+In conclusion, our work presents evidence that modification of
+rapamycin at the mTOR binding region can provide nonimmuno-
+suppressive compounds with unanticipated selectivity for FKBP52,
+inhibition of L-type Ca2+ channel currents, and significant efficacy
+in an animal model of ischemic stroke. The in vivo efﬁcacy of
+ILS—920 derives from the compound’s dual functions as an potential
+activator of glucocorticoid and other steroid receptors Via dissoci-
+ation of FKBP52 from the receptor complexes and as an inhibitor
+of L-type VGCC Via binding to the Bl-subunit.
+
+Materials and Methods
+
+Protocols for well established procedures (affinity matrix syntheses, kinetic anal-
+ysis of immunophilin ligands, cloning and expressing recombinant genes and
+binding assays, preparation of neuronal cultures, transient MCAO, and immuno-
+suppression assays) can be found in the SIMethods.
+
+Materials. Chemicals were purchased from Sigma-Aldrich (St. Louis, MO).
+Antibodies were from Abcam (Cambridge, MA). Media, human ORF clones
+(cacnb1, cacnb4, fkbp3, fkbp4, fkbp8, ppiF, and ppiD), plasmids (pDEST17),
+and SuperScript system were from Invitrogen (Carlsbad, CA). Protein purifi-
+cation kits were from Pierce (Rockford, |L)or Qiagen (Valencia, CA).TOPTip P-4
+column was from Glygen (Columbia, MD). Ni-chelated flash plates and
+[3H]FK506 were from PerkinElmer Life Science (Boston, MA). PCR reagents and
+Affi-Gel 10 were from BioRad (Hercules, CA).
+
+Synthesis of WYE-592. Rapamycin (0.3 g, 0.328 mmol) was dissolved in 5 ml of
+toluene with gentle heating. To this solution was added, dropwise, a solution of
+nitrosobenzene (0.1 g, 3 equivalents) in 5 ml oftoluene. The reaction mixture was
+stirred at 70°C for 16 h, and then the products were chromatographed via
+reversed-phase HPLC (column: 250 X 20 mm YMC ODS-A with 50 X 20 guard;
+mobile phase: 80 to 85% methanol:water in 40 min, flow = 20 ml/min) to yield
+0.139 g of WYE-592 (42% yield, >99% purity; SI Table 2). [14C]WYE-592 (5 mCi,
+specific activity 241 mCi/mmol) was prepared by a similar method.
+
+Synthesis of lLS-920. WYE-592 (0.29 g, 0.284 mmol) was dissolved in 7 ml of
+methanol in an 18-mm test tube, and a spatula tip of Pd/C catalyst (Aldrich) was
+added. The mixture was hydrogenated on a Parr apparatus for 15 min at 2.0
+atmosphere H2. The products were chromatographed via reversed-phase HPLC
+(column: 250 X 20 mm YMC ODS-A with 50 X 20 guard, mobile phase: 80%
+methanol:water for 15 min, then to 85% in 5 min, then held at 85% for 20 min,
+flow = 20 ml/min)to yield 0.089 g of |LS-920 (31 % yield, >99% purity; SI Table 2)
+
+Affinity Precipitation of Drug Targets and Western Analyses. F11 cells were
+grown in culture medium, DMEM supplemented with 10% FBS, and 1% penicil-
+lin/streptomycin in 75-cm2 vented flasks in a 37°C incubator with 5% C02. Cells
+were harvested at 80% confluence and washed with PBS buffer. To 3 X 108 cells,
+2 ml of lysis buffer (50 mM Tris, pH 7.4, 250 mM NaCl, 5 mM EDTA, 50 mM NaF,
+1 mM Na3VO4, 1% Nonidet P-40, 0.1% mercaptoethanol, and 2% protease
+
+PNAS | January8.2008 | vo|.105 | no.1 | 37
+
+NEUROSCIENCE
+
+CHEMISTRY
+
+!
+.1
+
+VA
+
+ 
+
+inhibitor cocktails) was added, and its S-100 supernatant was collected after a
+15-min centrifugation at 4°C. Aliquots (2 ml) were incubated with affinity ma-
+trices (1007150 Ml) at 4°C. After washing with lysis buffer (2 ml) and then PBS
+buffer (2 ml), beads were analyzed by SDS/PAG E. The protein bands were cut and
+digested with trypsin (0.3 pug) in digestion buffer (30 MI; 0.2% NH4HC03) at 30°C.
+The resulting peptides (2 MI) were loaded into a nanoelectrospray tip of a Bruker
+(Billerica, MA) APEXII FT-ICR mass spectrometer equipped with an actively
+shielded 9.4 T superconducting magnet (Magnex Scientific Ltd., U.K.), and an
+external Bruker Apollo ESI source, and mixed with 1% formic acid in methanol (2
+MI). A voltage of a 7800V was applied between the nanoelectrospray tip and the
+glass capillary. The mass spectra data were externally calibrated by using HP
+tuning mix and used for a Mascot search in the NCBI protein databases. Reason-
+able protein candidates were selected based on confidence scores (P value). For
+Western analysis, the proteins obtained from the affinity matrices were sepa-
+rated by SDS/PAGE, transferred to PVDF membranes by electroblotting (100 V,
+1 h), immunoblotted with the anti-CACNB1 or anti-FKBP4 antibody, and visual-
+ized by 3,3’,5,5’-tetramethylbenzidine (TMB) staining.
+
+Transient Transfection of siRNA into Primary Cortical Neurons. For each condi-
+tion, 5 X 105 cortical neurons were transfected with 200 ng of scrambled siRNA
+(Dharmacon RNA Technologies, Boulder, CO), siGLO lamin A/C siRNA (Dharma-
+con), L-type calcium channel B1-subunit siRNA [5’-GGAGAAGUACAAUAAU-
+GAC‘IT-3’ (sense) and 5’-GUCAUUAUUGUACUUCUCC‘IT-3’ (antisense)] or FKBP4
+siRNA [5’-CCUAGCUAUGCUUUUGGCATT-3’ (sense)and 5’-UGCCAAAGCAUAGC-
+UAGGTT-3’ (antisense)] (Ambion, Inc., Austin, TX) by using program DC-104 on
+the 96-well shuttle (Amaxa Biosystems, Gaithersburg, MD). Then 25 Ml from each
+transfection reaction were added to a poly(D)-lysine-coated 96-well plate (four
+wells per experiment). Transfected cortical neurons were maintained in culture
+for 24 h.
+
+Western BlottingAnalyses. Cortical neuronstreated with scrambled siRNA, lamin
+A/C, CACNB1, or FKBP52 siRNA were lysed in RIPA buffer containing protease
+
+1. Lyons WE, George EB, Dawson TM, SteinerJP, Snyder SH (1994) Immunosuppressant
+FK506 promotes neurite outgrowth in cultures of PC12 cells and sensory gangli. Proc
+NatlAcad Sci USA 91:319173195.
+
+. SteinerJP, eta]. (1997) Neurotrophic actions of nonimmunosuppressive analogues of
+immunosuppressive drugs FK506, rapamycin, and cyclosporin A. Nat Med 3:4217428.
+
+. Marshall VL, Grosset DG (2004) GPlr1485 Guilford. Curr Opin Invest Drug 5:1077112.
+
+Summers MY, Leighton M, Liu D, Pong K, Graziani El (2006) 3rNormeridamycin: A
+
+potent nonrimmunosuppressive immunophilin ligand is neuroprotective in dopamir
+
+nergic neurons. J Antibiot 59:1847189.
+
+. Gold BG, Densmore V, Shou W, Matzuk MM, Gordon HS (1999) Immunophilin FK506
+
+binding protein 52 (not FK506rbinding protein 12) mediates the neurotrophic action
+
+of FK506. J Pharmacol Exp Ther 289:120271210.
+
+Edlich F, et al. (2006) The specific FKBP38 inhibitor N7(N’,N’rdimethy|carboxamidomr
+
+ethy|)cyc|oheximide has potent neuroprotective and neurotrophic properties in brain
+
+ischemia. J Biol Chem 281:14961714970.
+
+. Baines CP, er al. (2005) Loss of cyclophilin D reveals a critical role for mitochondrial
+
+permeability transition in cell death. Nature 434:6587662.
+
+Pong K, Zaleska MM (2003) Therapeutic implications for immunophilin ligands in the
+
+treatment of neurodegenerative diseases. Curr Drug Tar CNS Neural Dis 2:3497356.
+
+. Lam E, eta]. (1995)A novel FK506 binding protein can mediatethe immunosuppressive
+effects of FK506 and is associated with the cardiac ryanodine receptor. J Biol Chem
+27026511726522.
+
+10. Cameron AM, et al. (1995) Immunophilin FK506 binding protein associated with
+inositol 1,4,57trisphosphate receptor modulates calcium flux. Proc Natl Acad Sci USA
+92:178471788.
+
+. SinkinsWG, Goel M, Estacion M, SchillingWP(2004)Association of immunophilinswith
+mammalian TRPC channels. J Biol Chem 2793452134529.
+
+12. Galat A, Lane WS, Standaert RF, Schreiber SL (1992) A rapamycinrselective 257kDa
+
+immunophilin. Biochemistry 31 :242772434.
+13. Kissinger CR, er al. (1995) Crystal structures of human calcineurin and the human
+FKBP127FK506rcalcineurin complex. Nature 378:6417644.
+
+14. LiuJ, eta]. (1991) Calcineurin is a common target of cyclophilinrcyclosporinA, FKBPVFK506
+
+complexes. Cell66:8077815.
+
+15. ChoiJ, ChenJ, SchreiberSL, CIardyJ (1996) Structure ofthe FKBP127rapamycin complex
+
+interacting with the binding domain of human FRAP. Science 273:2397242.
+16. Sharkey J, Butcher SP (1994) Immunophilins mediate the neuroprotective effects of
+FK506 in focal cerebral ischaemia. Nature 371 :336339.
+
+N
+
+w
+
+P
+
+m
+
+F“
+
+\1
+
+9°
+
+u:
+
+38 | www.pnas.org/cgi/doi/10.1073/pnas.0710424105
+
+inhibitor mixture and phosphatase inhibitors, and protein concentrations were
+measured with a Bradford assay (Bio—Rad Laboratories, Hercules, CA). Two mi-
+crograms of protein per condition were loaded into each well and separated via
+SDS/PAGE. Proteins were transferred onto nitrocellulose and incubated with an
+antibody against lamin A/C (Upstate), CACNB1 (Abcam, Cambridge, MA), or
+FKBP52 (Santa Cruz Biotech nolog)’), and actin (Sigma) as a loading control. Bands
+were developed and quantified by using an Odyssey Infra red Imaging System and
+Odyssey software (Li-Cor Biosciences, Lincoln, NE). Protein expression knockdown
+was calculated as the ratioto actin as a percentage of scrambled siRNA expression
+(79.2 : 13.7% forlamin A/C, 70.8 : 20.8% for CACNB1, and 86.8 : 7.0 for FKBP52,
+n = 3).
+
+Whole-Cell Patch-Clamp Recordings. The whole-cell configuration of the patch-
+clamptechnique was used to record Ca2+ currents from cells at room temperatu re
+by using an EPC—9 amplifier (HEKA InstruTECH Corp.) with the acquisition and
+analysis program Pulse-PulseFit from HEKA (Lambrecht, Germany). Electrodes
+were fabricated by using a P-87 puller (Sutter Instrument). Electrodes had a
+resistance of 275 M0 when filled with recording solution (140 mM CsCl, 10 mM
+EGTA, 10 mM Hepes, 5 mM M902, 2 mM ATP, and 1 mM CAMP, pH 7.2). The
+standard bath recording solution is Ca2+- and MgZ+-free HBSS (pH 7.4) containing
+10 mM Hepes, 10 mM dextrose, and 4 mM BaCIZ. Currents were filtered at 3 kHz,
+and the inward Ca2+ currents were recorded from cells held at 790 mV with 10
+mV depolarizing steps from 780 mV to 60 mV for 50 ms for characterization, or
+to 0 mV for 50 ms (F-11) or 100 ms (neurons) once every 30 s for compound
+experiments. Saturating concentrations of N-type and L-type Ca2+ channel block-
+ers were used in the indicated experiments.
+
+ACKNOWLEDGMENTS. We thank Bob Abraham and Frank Walsh for critical
+discussions and Robert P. Smith, Patric Stenberg, Marshall Siegel, Girija Krish-
+namurthy, Sue McElhiney, Maya Singh, KerYu, Beatriz Carreno, Mary Collins, Mia
+Summers, Laurel Barbieri, Huiyu Yang, Bradley Haltli, Mike May, Ann Aulabaugh,
+and Christine Li for help and advice.
+
+17. Platika D, Boulos MH, Baizer L, Fishman MC (1985) Neuronal traits of clonal cell lines
+derived by fusion of dorsal root ganglia neurons with neuroblastoma cells. Proc Natl
+Acad Sci USA 82349973503.
+
+. Opatowsky Y, Chen CC, Campbell KP, Hirsch JA (2004) Structural analysis of the
+voltagerdependent calcium channel [Ssubunitfunctional core and its complexwiththe
+a1 interaction domain. Neuron 423877399.
+
+19. Pichler M, eta]. (1997) ﬁsubunit heterogeneity in neuronal Lrtype Ca“ channels.JBiol
+
+Chem 27213877713882.
+
+Yasutsune T, are]. (1999)Vasorelaxation and inhibition ofthevoltageroperated Ca“
+
+channels by FK506 in the porcine coronary artery. BrJ Pharmacol126:717r729.
+
+Norris CM, Blalock EM, Chen KC, Porter NM, Landfield PW (2002) Calcineurin enhances
+
+Lrtype Ca“ channel activity in hippocampal neurons: Increased effect with age in
+
+culture.Neuroscience110:2137225.
+
+. Steiner JP, et al. (1997) Neurotrophic immunophilin ligands stimulate structural and
+
+functional recovery in neurodegenerative animal models. Proc Natl Acad Sci USA
+
+94:201972024.
+
+Harper 5, er al. (1999) Analysis of the neurotrophic effects of GP|71046 on neuron
+
+survival and regeneration in culture and in Vivo. Neuroscience 88:2577267.
+
+Bocquet A, et al. (2001) Failure of GPI compounds to display neurotrophic activity in
+
+Vitro and in Viva. EurJ Pharmacol415:173r180.
+
+. Wu B, et al. (2004) 3D structure of human FK506rbinding protein 52: Implications for
+theassembly oftheglucocorticoid receptorlep90/immunophilin heterocomplex. Proc
+NatlAcad Sci USA 101:834878353.
+
+. Kessler H, Haessner R, SchulerW (1993) Structure of rapamycin: An NMR, molecular
+dynamics investigation. Helv Chim Acta 76:1177130.
+
+27. Bito H, Deisseroth K, Tsien RW (1996) CREB phosphorylation and dephosphorylation:
+
+A C3217 and stimulus durationrdependent switch for hippocampal gene expression.
+Cell 87:120371214.
+
+oo
+
+2
+
+.0
+
+2 .
+
+2
+
+N
+
+2 .
+
+w
+
+2
+
+P
+
+2
+
+m
+
+2
+
+ch
+
+28. Ghosh A, Greenberg ME (1995) Calcium signaling in neurons: Molecular mechanisms
+and cellular consequences. Science 268:2397247.
+
+29. Impey S, eta]. (1998) Cross talk between ERK, PKA is required for Ca“ stimulation of
+CREBrdependent transcription and ERK nuclear translocation. Neuron 21:8697883.
+
+30. Graef IA, er al. (1999) Lrtype calcium channels and GSK73 regulate the activity of
+NFVATc4 in hippocampal neurons. Nature 401:7037708.
+
+31. Augustine GJ, Santamaria F, Tanaka K (2003) Local calcium signaling in neurons.
+
+Neuron 40:3317346.
+
+Ruan et al.
+

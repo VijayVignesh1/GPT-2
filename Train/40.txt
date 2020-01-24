@@ -1,0 +1,707 @@
+Contribution of propriospinal neurons to recovery of
+hand dexterity after corticospinal tract lesions
+in monkeys
+Takamichi Tohyamaa,b,1,2, Masaharu Kinoshitac
+, Kenta Kobayashid,e, Kaoru Isaa
+, Dai Watanabef
+, Kazuto Kobayashig
+,
+Meigen Liub
+, and Tadashi Isaa,e,h,3
+a
+Department of Developmental Physiology, National Institute for Physiological Sciences, Okazaki 444-8585, Japan; b
+Department of Rehabilitation Medicine,
+Graduate School of Medicine, Keio University, Tokyo 160-8582, Japan; c
+Department of Physiology, Hirosaki University Graduate School of Medicine,
+Hirosaki 036-8562, Japan; d
+Section of Viral Vector Development, National Institute for Physiological Sciences, Okazaki 444-8585, Japan; e
+The Graduate
+University for Advanced Studies (SOKENDAI), Hayama 240-0193, Japan; f
+Department of Molecular and System Biology, Graduate School of Biostudies,
+Kyoto University, Kyoto 606-8501, Japan; g
+Department of Molecular Genetics, Institute of Biomedical Sciences, Fukushima Medical University School of
+Medicine, Fukushima 960-1295, Japan; and h
+Department of Neuroscience, Graduate School of Medicine and Faculty of Medicine, Kyoto University, Kyoto
+606-8501, Japan
+Edited by Peter L. Strick, University of Pittsburgh, Pittsburgh, PA, and approved December 5, 2016 (received for review July 12, 2016)
+The direct cortico-motoneuronal connection is believed to be
+essential for the control of dexterous hand movements, such as
+precision grip in primates. It was reported, however, that even
+after lesion of the corticospinal tract (CST) at the C4–C5 segment,
+precision grip largely recovered within 1–3 mo, suggesting that
+the recovery depends on transmission through intercalated neurons rostral to the lesion, such as the propriospinal neurons (PNs)
+in the midcervical segments. To obtain direct evidence for the
+contribution of PNs to recovery after CST lesion, we applied a
+pathway-selective and reversible blocking method using double
+viral vectors to the PNs in six monkeys after CST lesions at C4–
+C5. In four monkeys that showed nearly full or partial recovery,
+transient blockade of PN transmission after recovery caused partial
+impairment of precision grip. In the other two monkeys, CST lesions were made under continuous blockade of PN transmission
+that outlasted the entire period of postoperative observation (3–
+4.5 mo). In these monkeys, precision grip recovery was not
+achieved. These results provide evidence for causal contribution
+of the PNs to recovery of hand dexterity after CST lesions; PN
+transmission is necessary for promoting the initial stage recovery;
+however, their contribution is only partial once the recovery
+is achieved.
+spinal cord injury | plasticity | neural circuit | nonhuman primates |
+viral vector
+As a potential treatment for brain and spinal cord injury, regeneration of the injured axons has been attempted in animal
+models, often using rodents with corticospinal tract (CST) lesions.
+Regeneration of the injured CST fibers was facilitated by treatments
+such as peripheral nerve graft (1), application of an antibody against
+neurite growth inhibitors IN-1 (2), combined application of the
+antibody and neurotrophic factor NT-3 (3), and transplantation of
+neural stem cells derived from induced pluripotent stem cells (4). A
+more recent study showed that regenerated CST axons increased
+the connection to the spinal motoneurons (MNs) after spinal cord
+injury in monkeys (5). However, in these studies, the causal contribution of such regenerated fibers to the functional recovery was
+not directly demonstrated. Therefore, recent debates address the
+question whether these therapies should target repairing the
+injured CST fibers and/or facilitating compensation by indirect
+cortico-motoneuronal (CM) connections via other descending
+motor pathways (6–9).
+Traditionally, the neural control of dexterous hand movements in higher primates has primarily been associated with
+development of the direct pathway from the motor cortex to
+MNs, known as the CM pathway (10–12). Lesion of the CST at
+the brainstem level in nonhuman primates caused near-permanent
+loss of dexterous hand movements (13). The authors also argued for
+partial compensation of grasping movements by the brainstemmediated descending pathways such as the rubrospinal tract (14).
+More recent studies on the neural basis of functional recovery following CST lesions revealed that a variety of plastic changes in
+neural circuits occurred in the supraspinal structures including the
+motor and premotor cortices (15), and in the connectivity from the
+nucleus accumbens to motor cortex (16, 17). At the more caudal
+level, sprouting of the midline-crossing CST fibers was revealed in
+the lower cervical segment of monkeys with hemisected spinal cords
+(18). In addition, the “indirect” CM pathways via interneurons such
+as the propriospinal neurons (PNs), which are located in the midcervical segments and project to hand/arm MNs in the lower cervical segments, and/or reticulospinal neurons (RSNs) in the
+pontomedullary reticular formation might also be involved in mediating cortical commands to MNs of forelimb muscles in animal
+models with CST lesions (19–21). To demonstrate which pathways
+causally contribute to recovery after damage to the CST, selective
+and reversible manipulation of particular pathways is needed.
+Significance
+There are different views about the targets of regenerative
+therapies to induce functional recovery in patients with motor
+paralysis following brain and spinal cord injury: whether we
+should aim at repairing the injured corticospinal tract or at
+facilitating compensation by other descending motor pathways. To help answer this question, we used double viral
+vectors to reversibly and selectively block the propriospinal
+neurons (PNs), one of the major intercalated neurons mediating cortical commands to motoneurons, in monkeys with partial spinal cord injury. We demonstrated causal roles of the PNmediated pathway in promoting recovery of hand dexterity
+after the lesion. Thus, targeting the PNs might lead to developing effective treatment to facilitate recovery after spinal
+cord injury.
+Author contributions: T.T., M.K., M.L., and T.I. designed research; T.T., M.K., and T.I.
+performed research; T.T. and K.I. performed histology; Kenta Kobayashi, D.W., and Kazuto Kobayashi provided viral vectors; T.T. analyzed data; and T.T. and T.I. wrote
+the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+Present address: Division of Cerebral Integration, Department of System Neuroscience,
+National Institute for Physiological Sciences, Okazaki 444-8585, Japan.
+2
+Present address: Department of Rehabilitation Medicine, Keio University School of Medicine, Tokyo 160-8582, Japan.
+3
+To whom correspondence should be addressed. Email: isa.tadashi.7u@kyoto-u.ac.jp.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1610787114/-/DCSupplemental.
+604–609 | PNAS | January 17, 2017 | vol. 114 | no. 3 www.pnas.org/cgi/doi/10.1073/pnas.1610787114
+Historically, much less attention has been paid to the “indirect”
+CM pathways in the control of dexterous hand movements compared
+with the direct CM pathway, because they were supposed not to be
+involved in the control of fine digit movements. During the last decade, however, lesion and electrophysiological studies in nonhuman
+primates suggested that the pathway through the PNs might be involved in the control of dexterous hand movements in the intact state
+(21, 22). However, this suggestion was based on the indirect evidence
+obtained by comparing the behavioral effects caused by transection of
+the CST at different rostrocaudal levels. Recently, however, a technique was developed that can selectively and reversibly control
+transmission via neurons comprising a particular pathway using two
+different kinds of viral vectors and doxycycline (Dox)-inducible
+tetanus neurotoxin. Applying the technique to the PNs in intact
+monkeys revealed that the PN-mediated pathway could carry the
+command for dexterous hand movements in the intact state (23).
+However, contribution of the PN-mediated pathway to recovery
+after lesion of the direct CM pathway in the monkey remains
+unclear. In the present study, to examine whether the PNs causally
+contribute to recovery of dexterous hand movements after damage
+to the CST, we applied the pathway-selective and reversible
+blocking method to the PNs in monkeys after lesioning the CST
+at C4–C5.
+Results
+The experiments were conducted on six macaque monkeys (4.0–
+6.0 y, 4.0–8.3 kg; see details in Table S1). Two kinds of viral
+vectors were injected into the cervical spinal cord of each
+monkey (Fig. 1A). The first was a highly efficient retrograde gene
+transfer vector, HiRet (24) or its derivatives [FuG-E (25) or
+NeuRet (26)], carrying the sequences for tetracycline-inducible,
+enhanced GFP (EGFP)-tagged enhanced tetanus neurotoxin
+light chain (eTeNT) (27). This vector was injected into the
+ventral horn of the C6–Th1 segments, where MNs innervating
+distal forelimb muscles are located. The second was the adenoassociated viral (AAV) vector carrying the sequence for the
+highly efficient Tet-on, rtTAV16. This vector was injected into
+the intermediate zone of the caudal C2 to caudal C4 segment,
+where the cell bodies of PNs are located, thus enabling the Doxinducible blockade of PNs (23). CST lesions were then made
+between the injection sites of the two viral vectors, mostly in C4–
+C5 (Fig. 1 A and B). Two different sets of protocols for administering Dox were arranged (Fig. 1C and Fig. S1) to determine
+whether and how the PNs contributed to recovery of dexterous
+hand movements after the lesion, as described below. At the end
+of the behavioral observation, acute electrophysiological experiments were conducted under anesthesia to confirm the extent of
+the lesion and the effects of blockade of PNs by the vectors.
+Confirmation of the Extent and Completeness of Lesion. The dorsolateral funiculus was lesioned unilaterally at the C4–C5 segment to completely interrupt the direct CM transmission (15, 17,
+19, 21, 28, 29), while sparing the axons of the PNs and RSNs. In
+the present study, five of the six monkeys had a lesion in C4–C5
+(monkeys U, B, S, K, and R), whereas the lesion of monkey N
+was located in C6/C7 (Fig. 1B and Table S1). The extent of the
+lesions was 42.5−70.4% of the whole lateral and ventral funiculi
+(SI Materials and Methods and Table S1). In monkeys S and N,
+the lesions partly extended to the dorsal column. Completeness
+of the lesion was examined electrophysiologically by recording the
+cord dorsum potentials at C6 and extracellular field potentials in
+the deep radial motor nuclei at C6−C7, that is, caudal to the CST
+lesion, evoked by stimulation of the contralateral pyramid (Fig.
+2G). No direct volleys or monosynaptic negative field potentials
+were found in the affected side, which was the side with the viral
+vector injections and a chronic spinal cord injury, in any of the
+monkeys examined (a representative is shown in Fig. 2H), revealing
+that the lesions completely abolished the direct CM connections.
+Visualization of “Blocked” PNs. The double-infected PNs were visualized with anti-GFP immunohistochemistry (Fig. 2 A–F and
+Fig. S2) (23). Labeled cell bodies were located mainly in the
+lateral portions of laminae VI−VII of Rexed (Fig. 2 A–D and
+Fig. S2), that is, the intermediate zone where PNs are known to
+be located (30). Their longitudinal distribution extended from
+C2 to the rostral part of C6 (Fig. 2E and Fig. S2). As described
+above, the CST lesion was located mainly in C4–C5. Therefore,
+some GFP-labeled cells were located caudal to the lesion in two
+monkeys (U and R), presumably due to spread of the vector
+solution beyond lesion sites. However, we consider that this
+C6/C7
+Monkey U A B
+C4–C5
+C4–C5
+C4–C5
+C Monkeys U, B, S, N
+Monkeys K, R
+Acute exp.
+1–8d. 1–2w. 3–4.5mo. 2mo.
+AAV
+NeuRet or
+HiRet
+Dox
+1mo.
+Dox
+HiRet or
+FuG-E
+2–10d. 2–3mo. 1w. 2w–2mo.
+Dox
+2–3 rounds
+1–3w.
+Dox
+Lesion
+Behavioral analysis
+Behavioral analysis
+Lesion
+Acute exp.
+C4–C5
+AAV
+AAV
+Monkey B
+Monkey S Monkey N
+Monkey K Monkey R
+Dox
+1–2 rounds
+C4–C5 CST lesion
+AAV-2/DJ-CMV-rtTAV16
+Spinal cord
+HiRet
+or FuG-E
+or NeuRet
+TRE-EGFP.eTeNT
+C2–C4
+C6–Th1
+MN
+PNs
+Muscles
+CST
+HiRet
+or FuG-E
+or NeuRet
+C4–C5
+Fig. 1. Experimental procedures and the extent of lesions in all of the six monkeys. (A) We injected a retrograde gene transfer vector, HiRet/FuG-E/NeuRetTRE-EGFP.eTeNT, into C6 to Th1 and successively injected an anterograde vector, AAV-2/DJ-CMV-rtTAV16, into caudal C2 to caudal C4, that enabled doxycycline (Dox)-inducible blockade of propriospinal neurons (PNs) in the midcervical segments (23). The lateral corticospinal tract (CST) was then lesioned
+between the injection sites of the two viral vectors, mostly in C4–C5 (Left, in black; Right, black bar). MN, motoneurons. (B) Lesions are indicated by black
+areas. (C) Two different sets of protocols for administering Dox (pink bars) were arranged. In the transient–PN-blocked group (monkeys U, B, S, and N), 2–3
+mo after the viral injections (HiRet or FuG-E, red open pentagon, and AAV, blue open triangle), administration of Dox for 1–3 wk was repeated one to three
+times before and after the lesion (black filled triangle). In the continuously PN-blocked group (monkeys K and R), 2 mo after the viral injections (NeuRet or
+HiRet, red open pentagon, and AAV, blue open triangle), administration of Dox from 1 to 2 wk before lesion continued for 3–4.5 mo after the lesion. Black
+open triangles, terminal acute electrophysiological experiments.
+Tohyama et al. PNAS | January 17, 2017 | vol. 114 | no. 3 | 605
+NEUROSCIENCE
+would not affect the main conclusion of this study (Discussion).
+Axons and boutons of GFP-labeled cells were found in the motor
+nuclei at C6–Th1 (Fig. 2F), suggesting that the blocked cells were
+directly connected with MNs innervating distal forelimb muscles.
+Confirmation of Blockade of Synaptic Transmission Through PNs. We
+examined to what degree the PN-mediated cortical commands to
+MNs were blocked by the administration of Dox by recording
+extracellular field potentials in many locations of the deep radial
+motor nuclei, each separated by more than 200 μm, in response
+to stimulation of the contralateral pyramid (Fig. 2G) under anesthesia. To dissociate effects of the PN-mediated pathway from
+other indirect pathways that could mediate the cortical commands to MNs, such as those through segmental interneurons
+(sINs) and RSNs, the lesions of the dorsolateral funiculus were
+made sequentially at the C4–C5 level on the unaffected side and
+then at the C2 levels on both sides during the acute experiments
+(Fig. 2G). Strychnine was injected i.v. to reduce glycinergic inhibition from the CST. The amplitudes of the disynaptic field
+potentials in the affected side were significantly smaller than
+those in the unaffected side after acute C4–C5 CST lesion on the
+unaffected side (Fig. 2 H and I, and Fig. S3), suggesting that
+synaptic transmission through the propriospinal and reticulospinal pathways in the affected side were much weaker
+compared with those in the unaffected side. After additional C2
+CST lesion on the unaffected side (Fig. 2I and Fig. S3) and on
+the affected side (Fig. S3), the amplitudes were very small,
+suggesting that contribution of the reticulospinal pathway was
+minor in both sides. These findings revealed that synaptic
+transmission presumably through the PNs was blocked by 74.2–
+93.3% [mean (SD), 83.1 (8.2)] compared with the unaffected
+side in four monkeys (U, S, N, and K), whereas no significant
+blocking was observed in monkey B, as will be discussed later. No
+data were obtained from monkey R due to a sudden change in
+the monkey’s condition during the experiment.
+Partially Impaired Recovery of Dexterous Hand Movements After the
+CST Lesion by Transient Blockade of PNs. We conducted behavioral
+observations of recovery time courses after the CST lesions using
+a reach and grasp task (Fig. 3 and Movies S1–S4). The monkeys
+were trained to reach for and grasp a piece of sweet potato
+presented on the other side of a slit (8- to 10-mm width) with a
+precision grip, which was defined as a grip using just the index
+finger and the pad of thumb (the first and third rows of Fig. 3A,
+the Left of Fig. 3B, the first row of Fig. 4A, the Left of Fig. 4B,
+and Movies S1 and S3). Before lesion, administration of Dox
+partly and transiently impaired these dexterous hand movements, such as precision grip, correctness of gripping, and
+reaching, consistent with a previous study (23). During administering Dox, success rate (SI Materials and Methods, Behavioral
+Testing) dropped by 15.8–34.1% in transiently PN-blocked
+monkeys (U, B, S, and N). One to 2 mo after lesion, administration of Dox impaired dexterous hand movements that had
+already shown recovery, for instance, in cooperative movements
+of the index finger and thumb (Fig. 3 A and B, and Movies S1–
+S4). Decreased success rates generally tended to start 1–2 d after
+the start of Dox administration and returned to baseline levels
+within 1 wk, even after lesion, suggesting a limited role of PNs in
+dexterous hand movements in the intact and once-recovered
+state. Recovery time courses differed between the following two
+groups. In the well-recovered group, including monkeys U and B,
+dexterous hand movements recovered within less than 1 mo after
+the lesion. On the other hand, in the partial-recovery group
+(monkeys S and N), there was no full recovery during the entire
+observation period even through intensive rehabilitative training,
+probably because of the lesion in C6/C7 (monkey N, Fig. 1B, and
+Table S1) and extended lesions to the dorsal column (monkeys S
+and N, Fig. 1B) (31) and/or to the ventral part of the lateral
+funiculus (monkey S; the extent of lesion was 70.4%; Fig. 1B and
+Table S1). Despite different recovery time courses in these two
+groups, success rates for recovered or partially recovered
+-
++
+-
++
+-
+-
++
++
+MNs
+RSN
+C4–C5
+lesion
+Field
+rec.
+C2
+lesion
+D
+A B G
+C4
+100
+50
+0
+I-IIIIVVVI
+VIIVIIIIX
+C : GFP+ cell
+I-III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+E F
+Layer
+H
+Field CDP
+Unaffected side
+C4–C5 acute lesion
+Th1
+Affected side
+C4–C5 lesion
+I
+Amplitude (mV)
+C4–C5 (9)
+*
+: Affected side
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+Pyr
+PNs
+sINs
+Unaffected
+side
+*
+*
+X
+0
+20
+40
+60
+GFP+ cells
+per 400 μm
+C2 C3 C4 C5 C6
+Segment
+GFP+ cells (%)
+CDP Field
+No (14)
+C2 (6)
+Lesion (n)
+C4–C5 (4)
+Fig. 2. Visualization of blocked PNs and confirmation of blockade of synaptic transmission through PNs. A–F were obtained from monkey U, and G–I were
+obtained from monkey K. (A) Representative GFP-labeled cells in C4. Dashed square indicates area shown in B. (Scale bar, 200 μm.) (B) High magnification of
+A. (Scale bar, 50 μm.) (C) Reconstructed distribution of GFP-labeled cells by multiple sections, which were separated by 200 μm. I–X, laminae of Rexed. (Scale
+bar, 500 μm.) (D) Distribution of GFP-labeled cells in individual laminae (I–X). (E) Longitudinal distribution of GFP-labeled cells along the spinal cord. Red arrow
+indicates the site of lesion. (F) A representative axon and bouton of GFP-labeled cell in a motor nucleus at Th1. The sections were counterstained with Neutral
+Red. (Scale bar, 10 μm.) (G) The arrangement of terminal acute electrophysiological experiments. In addition to the direct cortico-motoneuronal connection,
+indirect pathways through reticulospinal neurons (RSN), propriospinal neurons (PNs), and segmental interneurons (sINs) might exist. During the experiments,
+the lateral CST was transected at C4–C5 and successively at C2. MNs, motoneurons. Pyr, contralateral medullary pyramid. (H) Representative field potentials
+(Field) and cord dorsum potentials (CDP) in the unaffected side of a monkey with a C4–C5 acute lesion (Top) and in the affected side (Bottom) following four
+trained stimuli of Pyr at 200 μA. Arrows indicate disynaptic field potentials. (Vertical scale bar, 0.2 mV; horizontal bar, 1 ms.) (I) Quantitative analysis of the
+amplitudes of the disynaptic field potentials with no lesion, a C4–C5 lesion, and a C2 lesion on the unaffected side, and with a C4–C5 lesion on the affected
+side. The numbers of records are shown in parentheses. The box plots represent the 25th and 75th percentiles of the data. *P < 0.01 (the Wilcoxon test).
+606 | www.pnas.org/cgi/doi/10.1073/pnas.1610787114 Tohyama et al.
+dexterous hand movements decreased significantly during Dox
+administration 1–2 mo after lesion (success rates dropped by 19.1–
+24.1% in the four monkeys). These results provided evidence for
+partial, but causal contribution of the PNs to recovery of dexterous
+hand movements after the CST lesion. In contrast, the effects of
+Dox administration 2–3 mo after lesion differed between the two
+groups; in the well-recovered group (monkeys U and B), no significant decrease in success rates were observed during administration of Dox 71–87 d after lesion, whereas in the partial-recovery
+group (monkeys S and N), success rates were still significantly decreased 82–92 d after lesion. These findings suggest that PNs
+contribute to recovery in different ways depending on the stage of
+recovery, which might vary depending on the severity of the lesions.
+It is worth remembering that electrophysiological analysis indicated
+that neurotransmission through the PNs was not obviously blocked
+in monkey B (Fig. S3). In this monkey, the behavioral effects of
+Dox were relatively weak, likely due to low infection and/or expression rate of the viral vectors, as the number of GFP-labeled
+cells was small (Fig. S2). It was also supposed that expression of
+eTeNT might have deteriorated during the long survival time after
+the viral vector injection (255 d; see table in Fig. S1).
+Impairment of Recovery Under Continuous Blockade of PNs. In
+monkeys K and R, Dox was administrated continuously to suppress PNs over the entire time course of recovery after the lesion.
+These monkeys could not perform the precision grip (Fig. 4C,
+squares) but could retrieve a small piece of food without dropping it, which we termed a “retrieval,” in most cases by gripping
+it with the dorsum of the thumb or palm (Fig. 4B, Right). Successful retrievals with the alternate grips persisted throughout
+the entire period of observation (91–132 d after the lesion) (Fig.
+4 A and B, Right, and Fig. 4C, triangles). Thus, in both of these
+monkeys, continuous blockade of PNs from 1 to 2 wk before lesion
+resulted in minimum recovery of dexterous hand movements 3–4.5
+mo after lesion (Fig. 4C), despite the intensive rehabilitative
+training required during the early period after the lesion (29).
+These findings contrasted obviously with those of previous studies,
+in which dexterous hand movements of all monkeys with C4–C5
+CST lesions of this size largely recovered within 1–3 mo (15, 17,
+21, 28). These findings suggested that the PNs played a key role in
+promoting the recovery of dexterous hand movements after the
+CST lesion.
+Discussion
+We showed that recovery of dexterous hand movements in
+monkeys after a CST lesion was perturbed following the blockade of synaptic transmission through the PNs in the midcervical
+cord segments. The effects of blocking PN transmission depended
+on when and how long it was blocked along with the ongoing
+stage recovery. Based on the present findings, we conclude that
+the PNs exert a stage-dependent contribution to recovery of
+hand dexterity in monkeys after CST lesions.
+Previous studies in rodents suggested that PNs that bypass the
+lesion might mediate spontaneous recovery after spinal cord
+injury, which were confirmed by anterograde and retrograde
+labeling (32, 33) and by lesioning them with NMDA infusions
+(34). NMDA infusions cause hyperexcitability-induced death of
+cells that are located in injection sites. Transection of the corticospinal fibers at the rostral level to the PNs impaired recovery
+(35). These studies suggested a relationship of PNs to recovery,
+but such lesion might affect other group of neurons besides PNs,
+and demonstration of causal contribution of PNs was still indirect. Furthermore, because there are considerable differences
+in neural structures and body apparatus related to hand movements between rodents and primates (12, 36, 37), studies in
+nonhuman primates are critical for translating therapeutic strategies to treat spinal cord injury in humans (38, 39). Therefore,
+A B
+C
+Fig. 3. Behavioral effects following transient blockade of PNs after the CST lesion. (A) Recovery process of dexterous hand movements 10 and 40 d after the
+CST lesion and a typical example obtained 42 d after the lesion (1 d after start of Dox) in monkey U. The numbers below in each panel indicate frame numbers
+(30 frames/s) from the moment when the digit passed through the edge of slit. (B) Stick diagram and drawing of grasping movements of monkey U. Blue line,
+the index finger and estimated second metacarpal. Red line, the thumb and estimated first metacarpal. Every third frame before and after the time of
+touching a piece of food to just before pulling it out in a single trial are superimposed at 40 d (Dox-off) and at 42 d (Dox-on, 1 d after start of Dox) after lesion.
+The numbers below indicate frame numbers from the moment when the digit passed through the edge of slit. (C) Recovery curves of success rate for
+dexterous hand movements (SI Materials and Methods, Behavioral Testing) after lesion in four monkeys (U, B, S, and N). The data are aligned to the day of
+lesion (dashed line). Pink bars, administration of Dox. *P < 0.05, **P < 0.01 (comparison of total success rate for 4 d before and after Dox using the Pearson χ2
+test). †
+P < 0.05 (comparison of total success rate for 2 d before and after Dox using the Pearson χ2 test).
+Tohyama et al. PNAS | January 17, 2017 | vol. 114 | no. 3 | 607
+NEUROSCIENCE
+direct evidence to show the causal contribution of PNs to recovery
+in nonhuman primates was needed.
+In the present transient blockade experiments, the effect of
+PN blockade on the success rate for dexterous hand movements
+after CST lesion was similar to that before lesion (Fig. 3C). If the
+PNs play a major role in recovery, their blockade should be
+expected to result in much severer impairment than in the intact
+state; however, the effects were weaker than expected. Two
+possible explanations might be considered for such low effectiveness of PN blockade on dexterous hand movements after
+lesion. First, it is possible that other descending pathways, such
+as the reticulospinal tract (20), the rubrospinal tract (14), and the
+remaining CST (18) or regenerated CST (5) contributed to the
+recovery. However, it is unlikely that either the reticulospinal or
+rubrospinal tracts contributed to recovery of dexterous hand
+movements in this experiment because synaptic transmission
+presumably through RSNs to the deep radial MNs was relatively
+minor (see “after C2 lesion” in Fig. 2I and Fig. S2), and
+descending axons of the rubrospinal tract were most likely
+transected in this animal model of spinal cord injury (40). Second, it is possible that the proportion of blocked neurons among
+the entire PN population was relatively small due to a limited
+rate of infection by the vectors.
+In contrast, the effect of continuous blockade of PNs on recovery was strong and remarkable (Fig. 4). The extent of CST
+lesions in these two monkeys (K and R in Fig. 1B; 61.5% and
+54.5%, respectively; Table S1) was not larger than those in previous studies (15, 17, 21, 28), which would lead us to expect near
+complete recovery. However, in these two monkeys, alternate grip
+strategies, which indicate insufficient recovery (41), persisted
+throughout the entire period of observation. Here, in contrast to
+the low effectiveness in the transient blockade experiments, recovery of dexterous hand movements was not achieved even 3–4.5
+mo after the CST lesion (Fig. 4). Therefore, the context of PN
+blockade, its timing and length, appear to be critical for the extent
+of recovery. Blocking PN-mediated pathway at the same time of
+lesioning the CST made it more difficult to induce recovery than
+blocking it serially after lesioning the CST. Such phenomenon has
+also been previously explained by a changed function in unlesioned systems after serial spinal cord lesions in cats (42).
+Our previous study showed that the training during the early
+period after lesion was critical for recovery (29). Early training
+might be effective in inducing the plasticity of the motor circuits;
+however, blockade of the PN-mediated pathway at this stage
+perturbed the effect of training, which might have resulted in
+poor recovery. Thus, the PN-mediated pathway was likely to
+have a more significant role in recovery of dexterous hand
+movements during the early period after lesion. In the present
+study, we intended to selectively target the descending branch of
+PNs, which can mediate cortical commands to the lower cervical
+MNs, using a double-virus infection method. However, it should
+be kept in mind that, when PN transmission was blocked by the
+Tet-on system, neural transmission through the ascending PN
+branches targeting the lateral reticular nucleus, one of the precerebellar nuclei, was also affected due to the bifurcating character of the PNs (23, 30). Therefore, the role of PNs in the
+recovery of skilled reach and grasp movements revealed in this
+study may also be dependent on their ascending pathways mediating the efference copy of movements (43), which will be a
+target of future studies.
+As a methodological limitation of this study, we observed
+blocked neurons in the C5–C6 segments (Fig. 2E and Fig. S2),
+presumably caused by spread of viral vectors. We could not exclude completely the possibility for partial contribution of sINs in
+the C5–C6 segments to recovery after CST lesions. However, a
+few number of MNs in the C5 segment innervate digit muscles,
+which were thought to play a critical role in dexterous hand
+movements. Therefore, we did not consider that this affected the
+main conclusion of this study, namely, the contribution of PNs in
+the midcervical segments, which may partly include those in the
+C5 segment that are connected to digit MNs beyond segments,
+to recovery.
+Recently, the reversible, pathway-selective blocking method
+combined with double-viral vectors was used also to investigate
+the recovery mechanism for skilled forelimb function in the
+stroke model rats (44, 45). Wahl et al. (44) showed that, after
+cortical lesions, administration of an antibody against the antineurite extension protein Nogo-A before intensive rehabilitative
+training enabled new and functional circuit formation of the CST
+fibers from the contralesional hemisphere to the contralesional
+half of the spinal cord, resulting in almost full recovery of skilled
+forelimb function. On the other hand, Ishida et al. (45) showed
+that the pathway from the motor cortex to the red nucleus
+contributed to recovery through intensive training after internal
+capsule hemorrhage. Thus, this method has great advantages in
+determining the role of a specific population of neurons in a
+recovery process after brain and spinal cord injury. Identification
+of a key neural element involved in the recovery mechanism is
+crucial, because it can promote development of novel treatments
+-20 0 40 120
+0
+50
+100
+80
+Pre Ope
+(Dox on-15d)
+ Post 19d
+(Dox on-35d)
+Post 132d
+(Dox on-148d)
+-0.1 0 0.1 0.2 0.3 (s)
+Success rate (%)
+Days after lesion
+A
+C
+Dox (Monkey K)
+Dox (Monkey R)
+(d)
+, : Dexterous
+ hand movements
+, : Retrieval
+B Pre Ope
+(Dox on-15d)
+Post 132d
+(Dox on-148d)
+Fig. 4. Behavioral effects under continuous blockade of PNs after the CST
+lesion. (A) Recovery process of dexterous hand movements under continuous
+administration of Dox in monkey K. Upper row, before lesion (15 d after
+start of Dox). Middle row, 19 d after lesion (35 d after start of Dox). Bottom
+row, 132 d after lesion (148 d after start of Dox). Each panel is aligned to the
+moment of touching a piece of food. Blue line, the index finger; red line, the
+thumb. (B) Drawing of shapes of grasping before (15 d after start of Dox)
+and 132 d after lesion (148 d after start of Dox) in monkey K. (C) Recovery
+curves of success rates for dexterous hand movements (squares) and retrieval
+(triangles) under continuous administration of Dox (open boxes above the
+curves) after the lesion in monkey K (black lines) and monkey R (green lines).
+The data are aligned to the day of lesion (dashed line).
+608 | www.pnas.org/cgi/doi/10.1073/pnas.1610787114 Tohyama et al.
+combined with rehabilitation of motor disability following the brain/
+spinal cord injury. Selectively enhancing the plasticity of the pathways thus identified as being responsible for recovery will become a
+key technology to facilitate recovery in future studies.
+Materials and Methods
+The animal experimental procedures in this study were conducted in accordance with the principles of the National Institutes of Health and the
+Ministry of Education, Culture, Sports, Science, and Technology of Japan. The
+protocols were approved by the Institutional Animal Care and Use Committee
+of the National Institutes of Natural Sciences. We recruited eight monkeys
+and then excluded two because the infection rate and/or expression of viral
+vectors in one monkey were judged to be obviously insufficient and the
+extent of lesion of the other monkey was too large; thus, the results of six
+monkeys are presented. The monkeys were first trained for a few weeks in a
+reach-and-grasp task described previously (15–17, 21–23) and in Supporting
+Information (SI Materials and Methods, Behavioral Testing, and Movie S1).
+The retrograde gene transfer vector (HiRet/FuG-E/NeuRet-TRE-EGFP.eTeNT)
+was then injected into the ventral horn of the spinal cord at C6–Th1 as
+previously described (23). One to 10 d after the injection, the anterograde
+vector (AAV-2/DJ-CMV-rtTAV16) was injected into the intermediate zone of
+the spinal cord at caudal C2 to caudal C4. Four monkeys (U, B, S, and N)
+received a total of four rounds of oral Dox (15 mg·kg−1
+·d−1
+, each round, 7–25 d)
+before and after the CST lesion. Two monkeys (K and R) received continuous administration of Dox from 8–16 d before the CST lesion to 3–4.5 mo
+after the lesion. Video recordings of reach and grasp movements before and
+after the lesion were analyzed off-line. The CST lesion was made by transecting the dorsolateral funiculus at C4–C5 under anesthesia with isoflurane
+(1–2%). After the end of behavioral observations, acute electrophysiological
+experiments were conducted on the cervical spinal cord in five of the six
+monkeys (data could not be obtained from monkey R due to a sudden
+change in the monkey’s condition during the experiment) under anesthesia
+(see details in SI Materials and Methods). After transcardial perfusion with
+deep anesthesia, the brains and spinal cords were removed. Histological
+examinations were conducted with anti-GFP immunohistochemistry. Full
+materials and methods are described in SI Materials and Methods.
+ACKNOWLEDGMENTS. We thank Y. Nishimura, B. Alstermark, and L.-G.
+Pettersson for comments on an earlier version of the manuscript. We thank
+M. Togawa, Y. Yamanishi, and N. Takahashi for technical support. This study
+was supported by the Strategic Research Program for Brain Sciences by the
+Ministry of Education, Culture, Sports, Science, and Technology (MEXT) of
+Japan, and by Grant-in-Aid for Scientific Research on Innovative Areas
+(“Adaptive Circuit Shift”) by MEXT (to T.I.).
+1. Richardson PM, McGuinness UM, Aguayo AJ (1980) Axons from CNS neurons regenerate into PNS grafts. Nature 284(5753):264–265.
+2. Schnell L, Schwab ME (1990) Axonal regeneration in the rat spinal cord produced by
+an antibody against myelin-associated neurite growth inhibitors. Nature 343(6255):
+269–272.
+3. Schnell L, Schneider R, Kolbeck R, Barde YA, Schwab ME (1994) Neurotrophin-3 enhances sprouting of corticospinal tract during development and after adult spinal
+cord lesion. Nature 367(6459):170–173.
+4. Salewski RP, et al. (2015) Transplantation of induced pluripotent stem cell-derived
+neural stem cells mediate functional recovery following thoracic spinal cord injury
+through remyelination of axons. Stem Cells Transl Med 4(7):743–754.
+5. Nakagawa H, Ninomiya T, Yamashita T, Takada M (2015) Reorganization of corticospinal tract fibers after spinal cord injury in adult macaques. Sci Rep 5:11986.
+6. Raineteau O, Schwab ME (2001) Plasticity of motor systems after incomplete spinal
+cord injury. Nat Rev Neurosci 2(4):263–273.
+7. Nishimura Y, Isa T (2009) Compensatory changes at the cerebral cortical level after
+spinal cord injury. Neuroscientist 15(5):436–444.
+8. Oudega M, Perez MA (2012) Corticospinal reorganization after spinal cord injury.
+J Physiol 590(16):3647–3663.
+9. Isa T, Nishimura Y (2014) Plasticity for recovery after partial spinal cord injury—hierarchical organization. Neurosci Res 78:3–8.
+10. Bernhard CG, Bohm E (1954) Cortical representation and functional significance of
+the corticomotoneuronal system. AMA Arch Neurol Psychiatry 72(4):473–502.
+11. Kuypers HG (1982) A new look at the organization of the motor system. Prog Brain
+Res 57:381–403.
+12. Lemon RN (2008) Descending pathways in motor control. Annu Rev Neurosci 31:
+195–218.
+13. Lawrence DG, Kuypers HG (1968) The functional organization of the motor system in
+the monkey. I. The effects of bilateral pyramidal lesions. Brain 91(1):1–14.
+14. Lawrence DG, Kuypers HG (1968) The functional organization of the motor system in
+the monkey. II. The effects of lesions of the descending brain-stem pathways. Brain
+91(1):15–36.
+15. Nishimura Y, et al. (2007) Time-dependent central compensatory mechanisms of
+finger dexterity after spinal cord injury. Science 318(5853):1150–1155.
+16. Nishimura Y, et al. (2011) Neural substrates for the motivational regulation of motor
+recovery after spinal-cord injury. PLoS One 6(9):e24854.
+17. Sawada M, et al. (2015) Function of the nucleus accumbens in motor control during
+recovery after spinal cord injury. Science 350(6256):98–101.
+18. Rosenzweig ES, et al. (2010) Extensive spontaneous plasticity of corticospinal projections after primate spinal cord injury. Nat Neurosci 13(12):1505–1510.
+19. Nishimura Y, Morichika Y, Isa T (2009) A subcortical oscillatory network contributes to
+recovery of hand dexterity after spinal cord injury. Brain 132(Pt 3):709–721.
+20. Zaaimi B, Edgley SA, Soteropoulos DS, Baker SN (2012) Changes in descending motor
+pathway connectivity after corticospinal tract lesion in macaque monkey. Brain 135(Pt
+7):2277–2289.
+21. Sasaki S, et al. (2004) Dexterous finger movements in primate without monosynaptic
+corticomotoneuronal excitation. J Neurophysiol 92(5):3142–3147.
+22. Alstermark B, et al. (2011) Motor command for precision grip in the macaque monkey
+can be mediated by spinal interneurons. J Neurophysiol 106(1):122–126.
+23. Kinoshita M, et al. (2012) Genetic dissection of the circuit for hand dexterity in primates. Nature 487(7406):235–238.
+24. Kato S, et al. (2011) A lentiviral strategy for highly efficient retrograde gene transfer
+by pseudotyping with fusion envelope glycoprotein. Hum Gene Ther 22(2):197–206.
+25. Kato S, Kobayashi K, Kobayashi K (2014) Improved transduction efficiency of a lentiviral vector for neuron-specific retrograde gene transfer by optimizing the junction
+of fusion envelope glycoprotein. J Neurosci Methods 227:151–158.
+26. Kato S, et al. (2011) Neuron-specific gene transfer through retrograde transport of
+lentiviral vector pseudotyped with a novel type of fusion envelope glycoprotein. Hum
+Gene Ther 22(12):1511–1523.
+27. Yamamoto M, et al. (2003) Reversible suppression of glutamatergic neurotransmission of cerebellar granule cells in vivo by genetically manipulated expression of tetanus neurotoxin light chain. J Neurosci 23(17):6759–6767.
+28. Higo N, et al. (2009) Increased expression of the growth-associated protein 43 gene in
+the sensorimotor cortex of the macaque monkey after lesioning the lateral corticospinal tract. J Comp Neurol 516(6):493–506.
+29. Sugiyama Y, et al. (2013) Effects of early versus late rehabilitative training on manual
+dexterity after corticospinal tract lesion in macaque monkeys. J Neurophysiol 109(12):
+2853–2865.
+30. Isa T, Ohki Y, Seki K, Alstermark B (2006) Properties of propriospinal neurons in the
+C3–C4 segments mediating disynaptic pyramidal excitation to forelimb motoneurons
+in the macaque monkey. J Neurophysiol 95(6):3674–3685.
+31. Qi HX, Gharbawie OA, Wynne KW, Kaas JH (2013) Impairment and recovery of hand
+use after unilateral section of the dorsal columns of the spinal cord in squirrel
+monkeys. Behav Brain Res 252:363–376.
+32. Bareyre FM, et al. (2004) The injured spinal cord spontaneously forms a new intraspinal circuit in adult rats. Nat Neurosci 7(3):269–277.
+33. Filli L, et al. (2014) Bridging the gap: A reticulo-propriospinal detour bypassing an
+incomplete spinal cord injury. J Neurosci 34(40):13399–13410.
+34. Courtine G, et al. (2008) Recovery of supraspinal control of stepping via indirect
+propriospinal relay connections after spinal cord injury. Nat Med 14(1):69–74.
+35. Ueno M, Hayano Y, Nakagawa H, Yamashita T (2012) Intraspinal rewiring of the
+corticospinal tract requires target-derived brain-derived neurotrophic factor and
+compensates lost function after brain injury. Brain 135(Pt 4):1253–1267.
+36. Alstermark B, Ogawa J, Isa T (2004) Lack of monosynaptic corticomotoneuronal EPSPs
+in rats: Disynaptic EPSPs mediated via reticulospinal neurons and polysynaptic EPSPs
+via segmental interneurons. J Neurophysiol 91(4):1832–1839.
+37. Isa T, Ohki Y, Alstermark B, Pettersson LG, Sasaki S (2007) Direct and indirect corticomotoneuronal pathways and control of hand/arm movements. Physiology (Bethesda)
+22:145–152.
+38. Courtine G, et al. (2007) Can experiments in nonhuman primates expedite the
+translation of treatments for spinal cord injury in humans? Nat Med 13(5):561–566.
+39. Friedli L, et al. (2015) Pronounced species divergence in corticospinal tract reorganization and functional recovery after lateralized spinal cord injury favors primates. Sci Transl Med 7(302):302ra134.
+40. Holstege G, Blok BF, Ralston DD (1988) Anatomical evidence for red nucleus projections to motoneuronal cell groups in the spinal cord of the monkey. Neurosci Lett
+95(1-3):97–101.
+41. Murata Y, et al. (2008) Effects of motor training on the recovery of manual dexterity
+after primary motor cortex lesion in macaque monkeys. J Neurophysiol 99(2):773–786.
+42. Alstermark B, Lundberg A, Pettersson LG, Tantisira B, Walkowska M (1987) Motor
+recovery after serial spinal cord lesions of defined descending pathways in cats.
+Neurosci Res 5(1):68–73.
+43. Azim E, Jiang J, Alstermark B, Jessell TM (2014) Skilled reaching relies on a V2a
+propriospinal internal copy circuit. Nature 508(7496):357–363.
+44. Wahl AS, et al. (2014) Neuronal repair. Asynchronous therapy restores motor control
+by rewiring of the rat corticospinal tract after stroke. Science 344(6189):1250–1255.
+45. Ishida A, et al. (2016) Causal link between the cortico-rubral pathway and functional
+recovery through forced impaired limb use in rats with stroke. J Neurosci 36(2):
+455–467.
+46. Sooksawate T, et al. (2013) Viral vector-mediated selective and reversible blockade of
+the pathway for visual orienting in mice. Front Neural Circuits 7:162.
+Tohyama et al. PNAS | January 17, 2017 | vol. 114 | no. 3 | 609
+NEUROSCIENCE

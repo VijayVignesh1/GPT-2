@@ -1,0 +1,695 @@
+TMEM175 deficiency impairs lysosomal and
+mitochondrial function and increases
+α-synuclein aggregation
+Sarah Jinna,b, Robert E. Droletc
+, Paige E. Cramerc
+, Andus Hon-Kit Wonga
+, Dawn M. Toolanc
+, Cheryl A. Gretzulac
+,
+Bhavya Voletic
+, Galya Vassilevad
+, Jyoti Disaa
+, Marija Tadin-Strappsa
+, and David J. Stoneb,1
+a
+Target and Pathway Biology, Genetics and Pharmacogenomics, Merck Research Laboratories, Merck & Co., Inc., Boston, MA 02115; b
+Genetics, Genetics and
+Pharmacogenomics, Merck Research Laboratories, Merck & Co., Inc., West Point, PA 19486; c
+Neuroscience, Merck Research Laboratories, Merck & Co., Inc.,
+West Point, PA 19486; and d
+Genomic Sciences, Genetics and Pharmacogenomics, Merck Research Laboratories, Merck & Co., Inc., Boston, MA 02115
+Edited by Edward Scolnick, Massachusetts Institute of Technology, Cambridge, MA, and approved January 13, 2017 (received for review September 30, 2016)
+Parkinson disease (PD) is a neurodegenerative disorder pathologically characterized by nigrostriatal dopamine neuron loss and the
+postmortem presence of Lewy bodies, depositions of insoluble
+α-synuclein, and other proteins that likely contribute to cellular
+toxicity and death during the disease. Genetic and biochemical
+studies have implicated impaired lysosomal and mitochondrial
+function in the pathogenesis of PD. Transmembrane protein 175
+(TMEM175), the lysosomal K+ channel, is centered under a major
+genome-wide association studies peak for PD, making it a potential
+candidate risk factor for the disease. To address the possibility that
+variation in TMEM175 could play a role in PD pathogenesis, TMEM175
+function was investigated in a neuronal model system. Studies
+confirmed that TMEM175 deficiency results in unstable lysosomal
+pH, which led to decreased lysosomal catalytic activity, decreased
+glucocerebrosidase activity, impaired autophagosome clearance
+by the lysosome, and decreased mitochondrial respiration. Moreover, TMEM175 deficiency in rat primary neurons resulted in increased susceptibility to exogenous α-synuclein fibrils. Following
+α-synuclein fibril treatment, neurons deficient in TMEM175 were
+found to have increased phosphorylated and detergent-insoluble
+α-synuclein deposits. Taken together, data from these studies suggest that TMEM175 plays a direct and critical role in lysosomal and
+mitochondrial function and PD pathogenesis and highlight this ion
+channel as a potential therapeutic target for treating PD.
+TMEM175 | lysosome | mitochondria | α-synuclein | Parkinson disease
+Genome-wide association studies (GWAS) have identified a
+large number of loci that alter the risk of developing Parkinson disease (PD) (1). Given the nature of idiopathic PD as a
+complex, multifaceted disease, these non-Mendelian variants typically result in small increases or decreases in disease risk. However,
+the causal variants under the majority of GWAS peaks have not
+been definitively identified (2, 3). Characterizing the biological
+function of genes located in GWAS-implicated regions in the
+context of molecular and cellular development of PD may help to
+identify pathways that are critical in the etiology of the disease.
+Several genes associated with PD (both Mendelian and GWAS)
+function in the lysosomal degradation pathway. Lysosomal degradation serves as a key final step to resolve protein aggregation in the
+process of macroautophagy and chaperone-mediated autophagy,
+and mutations that impair this process have been suggested to cause
+α-synuclein aggregation and downstream cellular toxicity. Mutations
+in the lysosomal hydrolase glucocerebrosidase (GBA) substantially
+increase the risk of PD (4, 5) and have been reported to compromise lysosomal degradation and increase α-synuclein aggregation (6). Mutations in lysosomal type 5 P-type ATPase (ATP13A2),
+a lysosomal ATPase, cause early-onset Parkinsonian syndrome (7)
+and have also been shown to cause lysosomal impairment.
+ATP13A2 mutations are linked to impaired acidification, decreased
+proteolytic processing, reduced degradation of lysosomal substrates,
+diminished lysosomal-mediated clearance of autophagosome, and
+neurotoxicity via the accumulation of α-synuclein (8, 9). Vacuolar protein sorting-associated protein 35 (VPS35) deficiency,
+also linked to familial PD (10), has been shown to perturb the
+maturation step of cathepsin D (CTSD) by increasing mannose6-phosplate receptor turnover, resulting in accumulation of
+α-synuclein in the lysosomes (11). VPS35 gene deletion in dopamine neurons has also been reported to result in accumulation
+of α-synuclein and dopamine neuron loss (12, 13).
+Mitophagy, the selective autophagy of mitochondria, also requires lysosomal degradation (14) and has also been implicated
+in the pathogenesis of PD. Phosphatase and tensin homolog
+deleted on chromosome 10-induced putative kinase 1 (PINK1), a
+mitochondrial ubiquitin kinase, and parkin, an E3 ubiqutin ligase,
+together initiate ubiquitin-mediated autophagosome formation
+around mitochondria (15–18). Mutations in genes encoding
+these proteins cause early-onset parkinsonian syndrome (19, 20).
+Mutations in F-box protein 7 that also cause early-onset autosomal recessive PD (21, 22) were recently shown to act on the
+parkin-mediated mitophagy by directly interacting with PINK1
+and parkin (23). Although there are varying degrees of α-synuclein pathology in PINK1 or parkin-associated PD cases, reduced
+respiratory capacity and increased susceptibility to oxidative
+stress by the impairment of mitochondria quality control was
+demonstrated to lead to dopaminergic neuronal damage (24,
+25). Additionally, overexpression of PINK1 or parkin can protect
+cells against toxicity associated with reduced proteasome function induced by synuclein aggregation (26, 27). Although it remains to be determined whether dysregulation of mitophagy also
+Significance
+Genetic studies have identified potential risk factors that have
+helped elucidate biological pathways involved in the development of Parkinson disease (PD). However, the majority of
+genome-wide association studies-implicated loci contain multiple genes requiring further investigation to establish the
+causality of any nominated gene to the pathology of associated disease. Here, we provide functional evidence that deficiency of the lysosomal K+ channel transmembrane protein
+175, discovered under the third most-significant PD genomewide association study peak, is critical for pathogenesis of PD
+by impairing lysosomal and mitochondrial function.
+Author contributions: S.J., R.E.D., P.E.C., M.T.-S., and D.J.S. designed research; S.J., A.H.-K.W.,
+D.M.T., C.A.G., B.V., G.V., and J.D. performed research; S.J. analyzed data; and S.J., R.E.D.,
+P.E.C., and D.J.S. wrote the paper.
+Conflict of interest statement: All of the authors are employed by Merck & Co.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+1
+To whom correspondence should be addressed. Email: david_stone4@merck.com.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1616332114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1616332114 PNAS | February 28, 2017 | vol. 114 | no. 9 | 2389–2394
+NEUROSCIENCE
+contributes to sporadic PD, maintenance of mitochondrial health is
+clearly linked to the molecular pathology of PD.
+Human transmembrane protein 175 (TMEM175), recently
+identified from a lysosomal proteome (28), is a K+ channel located
+in late endosomes and lysosomes (29). A PD GWAS meta-analysis
+(1) identified a highly significant risk loci on chromosome 4, which
+covers several genes, including TMEM175. Identification of the
+candidate gene residing in this peak could be critical, not only to
+understanding the pathogenesis of PD but also in identifying a novel
+genetically validated therapeutic target for treating the disease. If in
+fact TMEM175 is the candidate gene, then as a K+ channel there is
+a high potential for druggability and there is a tractable therapeutic
+strategy. TMEM175 appears a likely candidate, as it has been
+shown to regulate lysosomal membrane potential, pH stability,
+and organelle fusion via potassium conductance on lysosomal
+and endosomal membranes (29). To help resolve a potential link
+between TMEM175 and PD, we have characterized the effects of
+TMEM175 in the context of lysosomal and mitochondrial function, as well as the susceptibility to α-synuclein aggregation in
+both neuroblastoma and primary neuron cellular systems. We
+show that TMEM175 deficiency impairs lysosomal degradation,
+lysosome-mediated autophagosome clearance, and mitochondrial respiratory capacity. These cellular defects result in increased
+neuronal susceptibility to exogenously applied α-synuclein fibrils, a
+well-studied model of α-synuclein uptake, processing, and degradation. Our findings suggest that TMEM175 loss-of-function mutations likely impair autophagy-mediated degradation of α-synuclein
+oligomeric species and, moreover, that variation in TMEM175
+may be in part responsible for the linkage of the chromosome
+4:951,947 GWAS peak to PD risk.
+Results
+TMEM175 Deficiency Decreased Lysosomal Catalytic Activity in
+Neuronal Cells via Destabilized Lysosomal pH. TMEM175 was
+identified as a K+ channel that mediates potassium conductance
+on lysosomal and endosomal membranes, and thus regulates
+lysosomal membrane potential and pH in RAW 246.7 murine
+macrophages (29). To determine if TMEM175 serves a similar
+function in cells of neuronal origin, knockout of TMEM175
+(KO) was engineered in the SH-SY5Y neuroblastoma cell line
+using a CRISPR/Cas9 approach (Fig. 1A). Under fed conditions,
+in media containing 10% (vol/vol) serum, lysosomal pH of
+TMEM175 KO SH-SY5Y was slightly more acidic than WT.
+Upon starvation in Earle’s Balanced Salt Solution (EBSS) for
+3 h, a significant increase in lysosomal pH was observed, whereas
+WT SH-SY5Y cells maintained lysosomal pH in both fed and
+starved conditions (Fig. 1B). This result agrees with previous
+findings in TMEM 175 KO macrophage, and is expected given
+universal expression of TMEM175 in lysosomes throughout
+multiple tissues. Protein levels of lysosomal aspartyl protease,
+CTSD, and cysteine protease, cathepsin B (CTSB), were significantly decreased in TMEM175 KO cells relative to WT both in fed
+and starved conditions (Fig. 1D), suggesting lysosomal dysfunction. Faster migration of lysosome-associated membrane glycoprotein 1 (LAMP1) was also observed in TMEM175 KO cells
+relative to WT potentially by deglycosylation or proteolytic cleavage that could lead to their instability (Fig. 1D, second row) (30,
+31). TMEM175 KO did not change the number of LAMP1+
+lysosomes (Fig. 1C). Further evaluation of the activities of these
+lysosomal enzymes revealed that CTSD, CTSB, and GBA, another lysosomal hydrolase linked to PD, were significantly decreased by 20–30% in TMEM175 KO compared with WT, as
+indicated by the smaller rate constant (k) (Fig. 1 E–G). Starvation did not further amplify the degree of enzyme activity reduction
+between WT and KO. This finding would suggest that additional
+mechanisms (beyond impaired pH regulation) may play a role in the
+reduced enzyme activity resulting from TMEM175 KO. Consistent with
+decreased activities of proteases, the rate of L-Homopropargylglycine
+(HPG)-labeled protein degradation was decreased in KO relative to
+WT (Fig. 1H).
+We confirmed these results in primary rat hippocampal neuronal cultures. Transient knockdown (KD) of TMEM175 in
+primary neurons by siRNA (Fig. S1A) led to unstable pH compared with control siRNA, consistent with the above result in
+SH-SY5Y (Fig. S1B). TMEM175 knockdown did not affect the
+number of LAMP1+ lysosomal counts (Fig. S1C). Depletion of
+TMEM175 also significantly decreased enzyme activity of CTSD,
+CTSB, and GBA by 20–35% relative to controls (Fig. S1 E–G),
+even though only CTSB protein level was decreased in TMEM175-
+depleted rat hippocampal neurons (Fig. S1D). This result could be
+because of a transient knockdown in this model instead of complete
+KO of TMEM175 in SH-SY5Y. The degradation rate of HPGlabeled proteins was also lower in TMEM175-depleted cells compared with controls (Fig. S1H). Taken together these results indicate
+that TMEM175 plays critical role in maintaining lysosomal pH and
+proper lysosomal enzyme function in neuronal cells.
+TMEM175 Deficiency Impairs Clearance of Autophagosome After
+Accelerated Autophagosome–Lysosome Fusion. One major function of lysosomes as cellular catalytic machinery is to degrade
+B C
+F G CTSB GBA
+E
+H
+CTSD
+TMEM175
+GAPDH
+WT KO A
+WT KO WT KO
+GAPDH
+LAMP2
+CTSD
+CTSB
+LAMP1
+fed stv
+*
+D
+Fig. 1. Unstable lysosomal pH and reduced lysosomal enzyme activity in
+TMEM175 KO cells (A) Western blotting and quantitative real-time PCR (qRTPCR) showing levels of TMEM175 in SH-SY5Y WT and TMEM175 KO cells.
+(B) Lysosomal pH of WT and KO was measured in fed (white) and starved
+(stv, black, EBSS 3 h) conditions (n = 6). (C) Number of LAMP1+ lysosomes
+determined by immunohistochemistry and shown relative to WT (n = 5–7).
+(D) Protein levels of lysosomal CTSD and CTSB were quantified by Western
+blotting (Left) and shown normalized to glyceraldehyde 3-phosphate dehydrogenase (GAPDH) (Right, faster migrating LAMP1 in the second row is
+indicated with red asterisk) (n = 4). (E–G) Lysosomal enzyme activity of CTSD,
+CTSB, and GBA was determined by the relative fluorescence from enzyme
+activities of crude lysosomal fractions of WT and KO cells in fed (black) and
+starved (red) conditions (n = 3–4). Relative fluorescence as a function of time
+was fit to first order reaction with rate constants, k, for each group indicated
+on the right. (H) Relative intensity of HPG-labeled proteins after incorporation of HPG was plotted as a function of time and fit to one phase exponential decay (n = 3–5). The rate constant k is indicated on the right. Data
+are given in relative units (RU). Data presented are mean + SEM. Two-way
+ANOVA in B, D, E–H; Bonferroni’s test in C, *P < 0.05, **P < 0.01, and ***P <
+0.001 WT vs. KO.
+2390 | www.pnas.org/cgi/doi/10.1073/pnas.1616332114 Jinn et al.
+autophagy cargos through fusion with autophagosomes at the final
+step of autophagy. Digestion of engulfed materials is important for
+recycling amino acids and preventing the accumulation of aggregated proteins and aged organelles (14, 32). To determine if
+TMEM175 deficiency affects the process of autophagy, we
+evaluated the fusion of autophagosome to lysosome. To monitor
+the autophagosome, a RFP–GFP–LC3 construct was transiently
+transfected into TMEM175 KO SH-SY5Y cells. The signal of
+autophagosome-associated LC3 under fed conditions was evaluated. In this assay, pH-sensitive GFP signal (Fig. 2, green) is
+quenched by the acidic environment of lysosomes, although RFP
+signal (Fig. 2, red) is pH-insensitive. Thus, autophagosomes (AP,
+not fused to lysosomes) are marked by both GFP and RFP,
+whereas autophagolysosome (APL, fused to lysosomes) are
+marked only by RFP (Fig. 2A). The number of GFP puncta was
+significantly decreased in TMEM175 KO cells relative to WT
+cells, whereas the number of the total puncta mildly decreased,
+resulting in an overall decreased GFP (AP) and increased RFPonly (APL) puncta relative to total puncta (Fig. 2 B and C). This
+result suggests that a larger portion of autophagosomes are fused
+to lysosomes in TMEM175 KO cells, consistent with the previous
+finding that deficiency of TMEM175 leads to accelerated fusion
+of autophagosomes to lysosomes in RAW246.7 macrophage
+(29). To further determine whether TMEM175 deficiency affects
+the completion of autophagy, clearance of autophagy substrates
+was assessed. The endogenous level of microtubule-associated
+protein 1A/1B-light chain 3-II (LC3-II), which increases upon
+initiation of autophagy and is degraded as a part of autophagic
+cargo, was evaluated at multiple time points by Western blotting
+or immunocytochemistry in the absence and the presence of
+bafilomycin A. Without bafilomycin, autophagosome LC3 formation upon starvation (LC3-II/I ratio or LC3 puncta) peaked at
+1 h and decreased afterward in WT, whereas there was a delayed
+degradation of LC3 in TMEM175 KO cells (Fig. 2 D and E and
+Fig. S2A), resulting in a significant increase in LC3 levels in
+TMEM175 KO cells relative to control at 3 and 5 h after starvation (Fig. 2 F and G, Upper). Adding bafilomycin resulted in
+accumulation of LC3 over time after the initiation of starvation
+to the same degree in both WT and TMEM175 KO cells,
+eliminating the difference in LC3 levels between WT and
+TMEM175 KO cells (Fig. 2 D and E and Fig. S2A) (+BafA1).
+This result indicates that reduction of LC3 in WT was indeed
+because of lysosomal degradation, and that inefficient lysosomal
+clearance of autophagosome but not autophagosome biogenesis
+was the cause of increased LC3 levels in TMEM175-deficient
+cells. Similarly, in rat primary hippocampal neurons, the autophagy substrate sequestosome1 (p62), as well as LC3 levels, were
+increased in TMEM175-depleted cells relative to control hippocampal neurons in both fed and starved conditions by immunocytochemistry (Fig. 2 F and G, Lower). Protein levels
+determined by Western blotting confirmed these findings (Fig.
+S2B), suggesting accumulation of autophagosomes. Given that
+the number of total autophagosomes is mildly decreased in
+TMEM175-depleted cells, increase levels of autophagosome
+substrates suggests that completion of autophagy is stalled because of impaired lysosomal degradation.
+TMEM175 Deficiency Decreases Mitochondrial Respiration. Autophagy regulates mitochondrial turnover through multiple
+mechanisms of mitophagy, which establish energetic homeostasis
+and prevent mitochondrial aging in response to environmental
+cues (14, 33). Inhibition of autophagy can lead to decreased
+mitochondrial respiration through accumulation of dysfunctional
+mitochondria and deficits in metabolic substrates (34, 35). To
+determine whether decreased clearance of autophagosomes in
+TMEM175-deficient cells also affects mitochondrial energetic
+capacity, we measured mitochondrial oxygen consumption rate
+(OCR). There were significant decreases in basal as well as
+maximal mitochondrial OCR in TMEM175 KO SH-SY5Y cells
+relative to WT cells (Fig. 3 A and B). Maximal OCR was determined from the difference between carbonyl cyanide-p-trifluoromethoxyphenylhydrazone (FCCP)-induced OCR and
+Oligomycin A-induced OCR. Oligomycin A inhibited complex V
+of the electron transport chain to decrease oxygen consumption
+to a similar degree between TMEM175 KO and WT cells.
+Therefore, maximal OCR was reduced primarily because of a
+decrease in uncoupled respiration induced by a range of FCCP
+concentrations (Fig. S3 A and B), which cause maximal electron
+transfer through the electron transport chain independent of
+ATP synthesis. This finding indicates considerably compromised
+KO
+A B RFP GFP LC3
+Red&Green
+Autophagosome
+(AP)
+Autophagolysosome
+(APL)
+Red
+01 3 5 01 3 5
+WT
+GAPDH
+Dtime
+Starved
+(hr)
+LC3-I
+(-) BafA1
+GAPDH
+LC3-II
+(+) BafA1
+LC3-I
+LC3-II
+E
+F
+LC3 Hoechst
+WT KO WT KO
+fed stv
+siCTL siTM175 LC3 Hoechst
+siCTL siTM175
+G
+P62 Hoechst
+C
+puncta
+puncta
+Fig. 2. TMEM175 deficiency leads to accelerated autophagosome–lysosome
+fusion and impairs clearance of autophagosome. (A) Schematic describing
+autophagosome–lysosome fusion assay with the RFP- and GFP-tagged LC3
+construct transfected into WT and TMEM175 KO cells. (B) The number of
+green and total LC3 puncta from WT and KO cells was quantified (n = 5).
+(C) Ratio of GFP puncta or RFP only puncta to total is quantified (n = 5).
+(D and E) Level of autophagy substrate LC3 was measured at indicated time
+points by Western blotting in WT and KO cells with or without bafilomycin
+A1 (100 nM). Quantified ratio of LC3-II to LC3-I relative to time = 0 is shown
+(n = 4). Extra space between LC3-I and LC3-II was cropped to improve the
+clarity of images. (F and G) Autophagosome-associated LC3 puncta [red, Top, 5-h
+starvation, SH-SY5Y; Middle, 4-h starvation, rat hippocampal neurons treated
+with control (siCTL) or TMEM175 targeting (siTM175) shRNA], and p62 puncta
+(green, Bottom, rat hippocampal neurons) in fed and starved conditions were
+assessed by immunohistochemistry. Black and white contrast images of LC3 were
+highlighted with puncta quantified (yellow) (F). Quantified intensity of each
+puncta is plotted (n = 5) (G). (Scale bars, 10 μm.) Data presented are mean +
+SEM. Two-way ANOVA in B, E, G; Mann–Whitney test in C, *P < 0.05, **P <
+0.01, and ***P < 0.001. WT vs. KO or siCTL vs. siTM175.
+Jinn et al. PNAS | February 28, 2017 | vol. 114 | no. 9 | 2391
+NEUROSCIENCE
+respiratory capacity in TMEM175-deficient cells compared with
+WT cells. Transient depletion of TMEM175 (siTM175) in rat
+hippocampal neurons also led to decrease in maximal OCR (Fig.
+S3 C and D), although to a lesser degree than complete KO.
+Consistent with this result, total ATP levels were decreased in
+TMEM175-depleted cells relative to controls because of a decrease in mitochondrial oxidative phosphorylation (Fig. 3C and
+Fig. S3E). In primary neurons, this decrease also coincides with
+reductions of MitoTracker staining, which accumulates in active
+mitochondria, particularly in neurites, suggesting diminished
+migratory ability of active mitochondria (Fig. 3 D and E). Because TMEM175 is localized to lysosomes and endosomes, and
+does not appear to be expressed in mitochondria as shown by
+MitoFates (36) and MitoCarta (37) prediction of mitochondrial
+localization, decreased respiration is likely mediated by lysosomal impairment. Together, these findings suggest that reduction of TMEM175 expression leads to deficits in energy
+homeostasis through impaired lysosome-mediated mitophagy.
+TMEM175 Deficiency Increases Phosphorylated α-Synuclein Aggregates
+in Rat Primary Hippocampal Neurons. Impaired completion of
+autophagy in TMEM175-deficient cells strongly suggests that
+TMEM175 might influence α-synuclein aggregation, the clearance of which is often mediated by autophagy. To determine if
+TMEM175 plays a role in α-synuclein aggregation, we used a
+previously published method of seeding preformed α-synuclein
+fibrils (PFF) (38, 39) in rat hippocampal neuronal cultures. In this
+model, exogenously provided human α-synuclein PFF recruits
+endogenously expressed rat α-synuclein, which is essential to form
+aggregates that are characterized by hyperphosphorylation and
+detergent insolubility. Rat hippocampal neurons were seeded
+with human α-synuclein PFF after preinfection with lentiviral
+control shRNA (shCTL) or TMEM175 shRNA (shTM175) and
+incubated for an additional 14 and 21 d, after which they were
+evaluated for the phosphorylated α-synuclein by immunocytochemistry and Western blotting (Fig. 4A). shRNA against
+TMEM175, which resulted in ∼75–80% KD of TMEM175 relative to control shRNA in 14- and 21-d cultures (Fig. 4B). In PFFtreated TMEM175-KD neurons, a significant ∼2- to 3-fold (14 d)
+(Fig. 4 C and D) and ∼1.5 fold (21 d) (Fig. 4 G and H) increase
+in phosphorylated α-synuclein staining was observed compared
+with control PFF-treated neurons. This increase was independent
+of types of shRNAs used and correlated with the degree of
+TMEM175 depletion (Fig. S4A). Depletion of TMEM175 alone
+did not change the endogenous levels of α-synuclein in PBStreated groups (Fig. S4B). There was no change in cell viability
+assessed by the number of healthy nuclei or metabolic activity in
+TMEM175-KD neurons at 14 d after PFF (Fig. 4E). Viable cells
+decreased at 21 d after PFF (Fig. 4I), potentially contributing to
+attenuated fold-increase in phosphorylated α-synuclein compared
+with 14 d after PFF. Importantly, the pathologically relevant,
+phosphorylated oligomers of α-synuclein in the detergent-insoluble
+fraction were also increased by ∼1.7-fold (14 d) (Fig. 4F, Upper)
+and ∼1.4-fold (21 d) (Fig. 4J, Upper) in TMEM175-deficient neurons relative to control neurons. Phosphorylated α-synuclein
+monomers in the Triton X-100 soluble fraction were also increased in TMEM175-deficient neurons relative to control neurons (Fig. S4C). Total α-synuclein levels detected by antibody that
+recognizes both human and rat α-synuclein remained unchanged
+in both detergent-insoluble and insoluble fractions (Fig. 4 F and J,
+Lower, and Fig. S4C). Taken together, these results suggest that
+TMEM175 appears to play a critical role in α-synuclein dynamics
+and depletion of TMEM175 leads to increased propensity for
+accumulation of α-synuclein aggregates, which is the key factor in
+α-synucleinopathies and the development of PD.
+Discussion
+Genetic studies have identified potential risk factors that have
+helped elucidate biological pathways involved in the development
+PD. However, the majority of GWAS-implicated loci contain
+multiple genes requiring further work, such as sequencing, integrative approaches such as Mendelian randomization, and wetlaboratory biological validation to establish the causality of any
+nominated gene to the pathology of associated disease. In this
+study, we have experimentally shown multiple cellular/physiological results that raise the possibility that TMEM175 is at least
+in part responsible for the increased risk of PD from the thirdmost significant PD GWAS peak. Cyclin-G–associated kinase
+(GAK) is a candidate for this GWAS peak because of its interaction with LRRK2 (1, 40). Lysosomal pH was altered and
+catalytic capacity of the lysosome was decreased by the depletion
+of TMEM175, as illustrated by the decreased activity of major
+lysosomal proteases. In TMEM175-defecient cells, autophagosome clearance was thus delayed with accumulation of autophagic substrates. Mitochondrial energetic capacity was also
+reduced potentially through impairment in maintaining a functional mitochondrial pool and providing sufficient metabolite to
+fuel oxidative phosphorylation. Taking these data together, we
+find that deficiency of TMEM175 leads to increased formation
+of phosphorylated α-synuclein aggregates, potentially contributed by impaired lysosomal and mitochondrial function. We
+suggest that TMEM175, like GAK, should be considered a
+candidate based on functional data. These data demonstrate
+links to two established PD genetic risk factors: α-synuclein,
+through increased α-synuclein aggregation; and GBA, through
+reduced GBA activity in TMEM175-deficient cells. It was noted
+in the most recent meta-analysis that two independent signals are
+present in the Chr 4:951,947 GWAS peak (1), raising the possibility that variants in both GAK and TMEM175 could be
+contributing to disease risk. Similarly, genes in this genomic region may be involved in the same functional pathways.
+Dysregulation of ion currents across lysosomal membrane and
+lysosomal pH alters lysosomal function, and disruption of channel
+function has been implicated in neurological diseases, including PD.
+In familial PD, disruption of ATP13A2, which regulates cation
+transport across lysosomes, leads to dysfunctional lysosomal
+degradation of proteins and autophagosomes via impaired lysosomal acidification (8, 9). Overexpression of two-pore channels,
+which mediate endolysosomal Ca2+ signals, alkalinizes lysosomal
+A B
+siCTL siTM175
+D E
+C
+MitoTracker
+Hoechst
+Fig. 3. Mitochondrial respiration is decreased by TMEM175 depletion.
+(A) OCR of SH-SY5Y WT and TMEM175 KO cells were measured in real time.
+(B) Basal OCR and the difference between FCCP-induced OCR and Oligomycin
+A-induced OCR were plotted (n = 9–11). (C) Total intracellular ATP normalized
+to protein was plotted (n = 9). (D and E) Representative images of MitoTracker
+Red staining of siCTL and siTM175-treated rat hippocampal neurons were
+shown (D). (Scale bar, 50 μm.) Quantification of intensity, area and number of
+MitoTracker Red puncta in neurites was plotted (E) (n = 6). Data presented are
+mean + SEM. Mann–Whitney test in B and C; two-way ANOVA in E, *P < 0.05,
+**P < 0.01, and ***P < 0.001. WT vs. KO or siCTL vs. siTM175.
+2392 | www.pnas.org/cgi/doi/10.1073/pnas.1616332114 Jinn et al.
+pH to specifically inhibit autophagosomal-lysosomal fusion (41)
+and are also shown to act downstream of pathogenic leucine-rich
+repeat kinase 2 (LRRK2) to regulate trafficking within the endolysosomal system (42). This evidence stresses the importance of ion
+current regulation in lysosomal function in PD, and the association
+of TMEM175 with sporadic PD would further support this pathway
+as a potential area of intervention for disease-modification
+therapies. Depletion of TMEM175 leads to unstable pH and the
+impairment of lysosomal function via decreased protease and
+GBA activity, the enzymatic function of which is also influenced
+by the pH of the surrounding environment. Whether the integrity
+of the lysosome is also compromised by the dysregulation of lysosomal pH requires further investigation; however, complete
+abrogation of TMEM175 resulted in decreased protein levels of
+mature CTSD, CTSB, and LAMP1, suggesting that the absence
+of TMEM175 contributes to early disintegration of dysfunctional
+lysosomes.
+It is important to notice that this impairment of lysosomal
+catalytic activity also resulted in decreased capacity of macroautophagy,
+where enzymatic degradation after fusion of the autophagosome to
+lysosome is critical for complete turnover of unwanted proteins
+and organelles. Inhibition of basal autophagy is particularly detrimental in neurons that are postmitotic and cannot dilute unfolded
+proteins or damaged organelles through cell division (43, 44).
+TMEM175 depletion led to accumulation of autophagy substrates
+and accelerated fusion of autophagosomes to lysosomes. Given that
+the formation of autophagosomes is mildly affected by TMEM175
+deficiency, these results suggest that decreased lysosomal catalytic
+activity by TMEM175 deficiency also impairs lysosomal capacity to
+clear autophagosomes, and thus stalls the completion of autophagy.
+Cellular fusion of autophagosomes to lysosomes might be increased, in part, as an adaptive response to compensate for stalled
+degradation of autophagosomes.
+The impact of mitigated lysosomal function culminates when
+cells are challenged with a proteostatic burden, such as α-synuclein
+aggregates, which are handled by various mechanisms that converge
+on lysosomal degradation (45). Depletion of TMEM175 resulted in
+increased aggregate formation in the α-synuclein PFF seeding model,
+where endocytosed PFF seeds induce endogenous α-synuclein recruitment and aggregation (39). Importantly, there was no difference
+in the uptake of α-synuclein PFF seeds between control and
+TMEM175-depleted cells (Fig. S4D), suggesting the effect of impaired lysosomal degradation by TMEM175 depletion manifested
+during the maturation of phosphorylated, insoluble α-synuclein aggregates. Similarly, impaired lysosomes in TMEM175-deficient cells
+may simply be unable to handle α-synuclein aggregates, which are
+also resistant to autophagic degradation, reenforcing the vicious cycle
+of aggregate maturation and inhibition of macroautophagy. However, exactly which parts of any cellular attempt to resolve α-synuclein
+aggregation are compromised by lysosomal dysfunction resulting
+from the depletion TMEM175 remains to be studied. The PFF
+seeding model we adopted was designed to induce minimal cellular
+toxicity. Hence, we could not determine if TMEM175 KD leads to
+synergistically increased susceptibility to PFF-induced cell death.
+Rather, we focused on initial processing/aggregation events of
+α-synuclein aggregates that we believe to be far upstream from
+actual cell death, and more proximal to the early cellular insults/
+stress in the disease. As cellular models of α-synuclein aggregatemediated cell death become better understood, a logical next step in
+this research would be to investigate whether TMEM175 deficiency
+renders cells more vulnerable to aggregate-induced cell death.
+It is also important that impaired autophagy might link
+TMEM175 deficiency to decrease in mitochondrial energetic
+capacity. Direct inhibition of autophagy through genetic and
+pharmacological methods was shown to decrease mitochondrial
+oxygen consumption and energy production, through accumulation of dysfunctional mitochondria and reduced availability of
+50
+37
+25
+20
+15
+50
+37
+25
+20
+15
+50
+37
+25
+20
+15
+50
+37
+25
+20
+15
+KD PBS/PFF
+DIV 7 11
+14D 21D
+25 32
+shCTL
+shTM175
+PFF
+seeding
+Evaluation
+Immunocytochemistry
+Western blotting
+kD
+p-α-syn 14d shCTL shTM175 α-syn p-α-syn PFF - + + - + +
+kD
+PFF + + + + + +
+21d shCTL shTM175
+A
+C
+G J 21D
+PBS PFF
+shCTL shTM175
+B
+PBS PFF
+shCTL shTM175
+βIII Tubulin
+P-Ser129
+14D
+H
+α-syn
+D
+E
+14D
+21D
+F
+βIIItub
+I
+βIIItub
+Fig. 4. TMEM175 deficiency increases phosphorylated
+α-synuclein aggregates in rat primary hippocampal
+neurons. (A) Diagram depicting the experimental
+design of PFF-seeding model. (B) Levels of TMEM175
+mRNA from rat hippocampal cells treated with control shRNA (shCTL) or TMEM175 targeting shRNA
+(shTM175) at 14 and 21 d after PFF. (C and G)
+Immunocytochemistry staining of phosphorylated
+α-synuclein (p-a-syn) aggregate (green) and βIIItubulin outlining neuronal cell body and neurites
+(red) at 14 d (C,14 d) and 21 d (G, 21 d) after PBS/PFF
+treatment in control (shCTL) and TMEM175 (shTM175)
+targeting shRNA infected neurons. Blue indicates nuclear staining by Hoechst. (Scale bars, 100 μm.) (D and
+H) Quantification of intensity, area and number of
+aggregates was plotted (n = 3). (E and I) Cell viability
+was assessed by the number of healthy nuclei (Left)
+and metabolic activity (Right) (n = 3). (F and J) Protein
+amounts of phosphorylated α-synuclein (Upper) and
+total α-synuclein (Lower) aggregate in insoluble fraction were quantified by Western blotting, and intensity of monomer and oligomers normalized to
+tubulin was plotted on the right (n = 3–5). Data
+presented are mean + SEM. Student t test in B; twoway ANOVA in D and H; Bonferroni’s test in E, F, I,
+and J *P < 0.05, **P < 0.01, and ***P < 0.001. shCTL
+vs. shTM175.
+Jinn et al. PNAS | February 28, 2017 | vol. 114 | no. 9 | 2393
+NEUROSCIENCE
+metabolites to fuel oxidative phosphorylation (34, 35, 46, 47).
+Decreased mitochondrial respiration and ATP generation in
+TMEM175-deficient cells could also be caused by these mechanisms. Although the exact mechanism remains to be elucidated,
+mitochondrial dysfunction could independently increase the risk
+of PD by promoting the loss of dopaminergic neurons through
+production of oxidative stress, energy depletion, and ultimately
+cell death (48, 49).
+Together, these findings establish TMEM175 as a potential risk
+factor and candidate point of intervention for PD with both genetic
+and biological evidence tying TMEM175, lysosomal function,
+macroautophagy, and mitochondrial function to α-synucleinopathy.
+Methods
+Isolation of Lysosomal Fraction. Lysosomal fraction was isolated by differential
+sedimentation in in sucrose homogenization buffer (0.25 M sucrose, 20 mM
+Hepes). Details are provided in SI Methods.
+Lysosomal Enzyme Activity Assay. CTSD and CTSB activity was measured using
+a cathepsin D and B activity assay kit (Abcam, Ab65302, Ab65300), according
+to the manufacturer’s instructions. Details are provided in SI Methods.
+Lysosome pH Imaging and Lysosomal Staining. Lysosome pH measurement was
+adapted from a previously described method (29). Details are provided in SI Methods.
+Mitochondrial Analysis. Mitochondrial oxygen consumption was measured
+according to the instruction of XF Cell Mito Stress Test Kit (Seahorse Bioscience). Details are provided in SI Methods.
+α-Synuclein PFF Seeding. PFF was prepared according to previously described
+method (50) using human α-synuclein (rPeptide, S-1001-2). Details are provided in SI Methods.
+Immunocytochemistry. Cells were fixed with 4% (vol/vol) paraformaldehyde/
+4% (wt/vol) sucrose. After primary and secondary antibody staining and
+rinsing, antibody-specific fluorescence was visualized with imaging using
+ArrayScan XTI Live High Content Platform (Thermo Fisher). Details are provided in SI Methods. See Table S1 for a list of antibodies used.
+Statistical Analyses. Statistical analysis was done by the GraphPad Prism v7.0
+(GraphPad Software). Details are provided in SI Methods.
+ACKNOWLEDGMENTS. The authors thank Jun Zhuang and Katie DiFelice for
+TMEM175 siRNA-cholesterol conjugates used for rat neuron work; and
+Dr. Robert Plenge for his support of the work.
+1. Nalls MA, et al. (2014) Large-scale meta-analysis of genome-wide association data
+identifies six new risk loci for Parkinson’s disease. Nat Genet 56(9):1–7.
+2. Gusev A, et al. (2016) Integrative approaches for large-scale transcriptome-wide association studies. Nat Genet 48(3):245–252.
+3. Zhu Z, et al. (2016) Integration of summary data from GWAS and eQTL studies predicts complex trait gene targets. Nat Genet 48(5):481–487.
+4. Clark LN, et al. (2007) Mutations in the glucocerebrosidase gene are associated with
+early-onset Parkinson disease. Neurology 69(12):1270–1277.
+5. Neumann J, et al. (2009) Glucocerebrosidase mutations in clinical and pathologically
+proven Parkinson’s disease. Brain 132(Pt 7):1783–1794.
+6. Mazzulli JR, et al. (2011) Gaucher disease glucocerebrosidase and α-synuclein form a
+bidirectional pathogenic loop in synucleinopathies. Cell 146(1):37–52.
+7. Ramirez A, et al. (2006) Hereditary parkinsonism with dementia is caused by mutations in
+ATP13A2, encoding a lysosomal type 5 P-type ATPase. Nat Genet 38(10):1184–1191.
+8. Usenovic M, Tresse E, Mazzulli JR, Taylor JP, Krainc D (2012) Deficiency of ATP13A2 leads to
+lysosomal dysfunction, α-synuclein accumulation, and neurotoxicity. J Neurosci 32(12):
+4240–4246.
+9. Dehay B, et al. (2012) Loss of P-type ATPase ATP13A2/PARK9 function induces general
+lysosomal deficiency and leads to Parkinson disease neurodegeneration. Proc Natl
+Acad Sci USA 109(24):9611–9616.
+10. Zimprich A, et al. (2011) A mutation in VPS35, encoding a subunit of the retromer
+complex, causes late-onset Parkinson disease. Am J Hum Genet 89(1):168–175.
+11. Miura E, et al. (2014) VPS35 dysfunction impairs lysosomal degradation of α-synuclein and
+exacerbates neurotoxicity in a Drosophila model of Parkinson’s disease. Neurobiol Dis 71:1–13.
+12. Tang FL, et al. (2015) VPS35 deficiency or mutation causes dopaminergic neuronal loss
+by impairing mitochondrial fusion and function. Cell Reports 12(10):1631–1643.
+13. Tsika E, et al. (2014) Parkinson’s disease-linked mutations in VPS35 induce dopaminergic neurodegeneration. Hum Mol Genet 23(17):4621–4638.
+14. Youle RJ, Narendra DP (2011) Mechanisms of mitophagy. Nat Rev Mol Cell Biol 12(1):9–14.
+15. Kane LA, et al. (2014) PINK1 phosphorylates ubiquitin to activate Parkin E3 ubiquitin
+ligase activity. J Cell Biol 205(2):143–153.
+16. Kazlauskaite A, et al. (2014) Parkin is activated by PINK1-dependent phosphorylation
+of ubiquitin at Ser65. Biochem J 460(1):127–139.
+17. Lazarou M, et al. (2015) The ubiquitin kinase PINK1 recruits autophagy receptors to
+induce mitophagy. Nature 524(7565):309–314.
+18. Koyano F, et al. (2014) Ubiquitin is phosphorylated by PINK1 to activate parkin.
+Nature 510(7503):162–166.
+19. Kitada T, et al. (1998) Mutations in the parkin gene cause autosomal recessive juvenile
+parkinsonism. Nature 392(6676):605–608.
+20. Valente EM, et al. (2004) Hereditary early-onset Parkinson’s disease caused by mutations in PINK1. Science 304(5674):1158–1160.
+21. Di Fonzo A, et al. (2009) FBXO7 mutations cause autosomal recessive, early-onset
+parkinsonian-pyramidal syndrome. Neurology 72(3):240–245.
+22. Paisán-Ruiz C, et al. (2010) Early-onset L-dopa-responsive parkinsonism with pyramidal signs due to ATP13A2, PLA2G6, FBXO7 and Spatacsin mutations. Mov Disord
+25(12):1791–1800.
+23. Burchell VS, et al. (2013) The Parkinson’s disease-linked proteins Fbxo7 and Parkin
+interact to mediate mitophagy. Nat Neurosci 16(9):1257–1265.
+24. Burman JL, Yu S, Poole AC, Decal RB, Pallanck L (2012) Analysis of neural subtypes
+reveals selective mitochondrial dysfunction in dopaminergic neurons from parkin
+mutants. Proc Natl Acad Sci USA 109(26):10438–10443.
+25. Matsui H, et al. (2013) PINK1 and parkin complementarily protect dopaminergic
+neurons in vertebrates. Hum Mol Genet 22(12):2423–2434.
+26. Petrucelli L, et al. (2002) Parkin protects against the toxicity associated with mutant
+alpha-synuclein: Proteasome dysfunction selectively affects catecholaminergic neurons. Neuron 36(6):1007–1019.
+27. Todd AM, Staveley BE (2008) Pink1 suppresses alpha-synuclein-induced phenotypes in
+a Drosophila model of Parkinson’s disease. Genome 51(12):1040–1046.
+28. Chapel A, et al. (2013) An extended proteome map of the lysosomal membrane reveals novel potential transporters. Mol Cell Proteomics 12(6):1572–1588.
+29. Cang C, Aranda K, Seo YJ, Gasnier B, Ren D (2015) TMEM175 is an organelle K(+)
+channel regulating lysosomal function. Cell 162(5):1101–1112.
+30. Kiffin R, et al. (2007) Altered dynamics of the lysosomal receptor for chaperonemediated autophagy with age. J Cell Sci 120(Pt 5):782–791.
+31. Kundra R, Kornfeld S (1999) Asparagine-linked oligosaccharides protect Lamp-1 and
+Lamp-2 from intracellular proteolysis. J Biol Chem 274(43):31039–31046.
+32. Xu H, Ren D (2015) Lysosomal physiology. Annu Rev Physiol 77(1):57–80.
+33. Mijaljica D, Prescott M, Devenish RJ (2007) Different fates of mitochondria: Alternative ways for degradation? Autophagy 3(1):4–9.
+34. Guo JY, et al. (2011) Activated Ras requires autophagy to maintain oxidative metabolism and tumorigenesis. Genes Dev 25(5):460–470.
+35. Yang S, et al. (2011) Pancreatic cancers require autophagy for tumor growth. Genes
+Dev 25(7):717–729.
+36. Fukasawa Y, et al. (2015) MitoFates: Improved prediction of mitochondrial targeting
+sequences and their cleavage sites. Mol Cell Proteomics 14(4):1113–1126.
+37. Calvo SE, Clauser KR, Mootha VK (2016) MitoCarta2.0: An updated inventory of
+mammalian mitochondrial proteins. Nucleic Acids Res 44(D1):D1251–D1257.
+38. Volpicelli-Daley LA, et al. (2016) G2019S-LRRK2 expression augments α-synuclein sequestration into inclusions in neurons. J Neurosci 36(28):7415–7427.
+39. Volpicelli-Daley LA, et al. (2011) Exogenous α-synuclein fibrils induce Lewy body pathology leading to synaptic dysfunction and neuron death. Neuron 72(1):57–71.
+40. Beilina A, et al.; International Parkinson’s Disease Genomics Consortium; North
+American Brain Expression Consortium (2014) Unbiased screen for interactors of
+leucine-rich repeat kinase 2 supports a common pathway for sporadic and familial
+Parkinson disease. Proc Natl Acad Sci USA 111(7):2626–2631.
+41. Lu Y, et al. (2013) Two pore channel 2 (TPC2) inhibits autophagosomal-lysosomal
+fusion by alkalinizing lysosomal pH. J Biol Chem 288(33):24247–24263.
+42. Hockey LN, et al. (2015) Dysregulation of lysosomal morphology by pathogenic LRRK2
+is corrected by TPC2 inhibition. J Cell Sci 128(2):232–238.
+43. Hara T, et al. (2006) Suppression of basal autophagy in neural cells causes neurodegenerative disease in mice. Nature 441(7095):885–889.
+44. Komatsu M, et al. (2007) Essential role for autophagy protein Atg7 in the maintenance of axonal homeostasis and the prevention of axonal degeneration. Proc Natl
+Acad Sci USA 104(36):14489–14494.
+45. Xilouri M, Brekk OR, Stefanis L (2013) α-Synuclein and protein degradation systems: a
+reciprocal relationship. Mol Neurobiol 47(2):537–551.
+46. Borkowska J, Schwartz RA, Kotulska K, Jozwiak S (2011) Tuberous sclerosis complex:
+Tumors and tumorigenesis. Int J Dermatol 50(1):13–20.
+47. Liang X, et al. (2012) Inhibiting systemic autophagy during interleukin 2 immunotherapy promotes long-term tumor regression. Cancer Res 72(11):2791–2801.
+48. Exner N, Lutz AK, Haass C, Winklhofer KF (2012) Mitochondrial dysfunction in Parkinson’s disease: Molecular mechanisms and pathophysiological consequences. EMBO
+J 31(14):3038–3062.
+49. Vila M, Ramonet D, Perier C (2008) Mitochondrial alterations in Parkinson’s disease:
+New clues. J Neurochem 107(2):317–328.
+50. Volpicelli-Daley LA, Luk KC, Lee VM-Y (2014) Addition of exogenous α-synuclein
+preformed fibrils to primary neuronal cultures to seed recruitment of endogenous
+α-synuclein to Lewy body and Lewy neurite-like aggregates. Nat Protoc 9(9):
+2135–2146.
+51. Ma L, et al. (2010) Genome-wide microarray analysis of the differential neuroprotective effects of antioxidants in neuroblastoma cells overexpressing the familial
+Parkinson’s disease alpha-synuclein A53T mutation. Neurochem Res 35(1):130–142.
+2394 | www.pnas.org/cgi/doi/10.1073/pnas.1616332114 Jinn et al.

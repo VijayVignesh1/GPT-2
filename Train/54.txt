@@ -1,0 +1,326 @@
+The role of fatty acid binding protein 7 in spinal cord astrocytes in a mouse model of experimental autoimmune encephalomyelitis
+Author links open overlay panelKenyuKamizatoaShoSatoaSubrata KumarShilaBanlanjo A.UmaruaYoshiteruKagawaaYuiYamamotoabMasakiOgataabYukiYasumotoaYukoOkuyamacNaotoIshiicYujiOwadaaHirofumiMiyazakia
+Show more
+https://doi.org/10.1016/j.neuroscience.2019.03.050Get rights and content
+Under a Creative Commons licenseopen access
+Highlights
+•
+FABP7 was increased in astrocytes at demyelinated region after onset of EAE.
+
+•
+The onset of clinical signs of EAE was earlier in FABP7-KO mice than in WT.
+
+•
+FABP7-KO mice induced early onset of inflammation in spinal cord in EAE.
+
+•
+Chronic symptoms of EAE were more improved in FABP7-KO mice compared with WT.
+
+•
+Fibronectin expression was decreased in FABP7-KO spinal cord at late phase of EAE.
+
+
+Abstract
+Fatty acid binding protein 7 (FABP7) is expressed in astrocytes of the developing and mature central nervous system, and modulates astrocyte function by controlling intracellular fatty acid homeostasis. Astrocytes in the spinal cord have an important role in the process of myelin degeneration and regeneration. In the present study, the authors examined the role of FABP7 in astrocytes in a mouse model of experimental autoimmune encephalomyelitis (EAE), which is an established model of multiple sclerosis (MS). FABP7 was expressed in the white matter astrocytes and increased after EAE onset; particularly strong expression was observed in demyelinating regions. In FABP7-knockout (KO) mice, the onset of EAE symptoms occurred earlier than in wild type (WT) mice, and mRNA expression levels of inflammatory cytokines (IL-17 and TNF-α) were higher in FABP7-KO lumbar spinal cord than in WT lumbar spinal cord at early stage of EAE. Interestingly, however, the clinical score was significantly reduced in FABP7-KO mice compared with WT mice in the late phase of EAE. Moreover, the area exhibiting expression of fibronectin, which is an extracellular matrix protein mainly produced by astrocytes and inhibits remyelination of oligodendrocytes, was significantly decreased in FABP7-KO compared with WT mice. Collectively, FABP7 in astrocyte may have a role to protect from the induction of inflammation leading to demyelination in CNS at early phase of EAE. Moreover, FABP7 may be involved in the regulation of fibronectin production through the modification of astrocyte activation at late phase of EAE.
+
+Previous article in issueNext article in issue
+Abbreviations
+BBBblood–brain barrierCCcentral canalCNScentral nervous systemCSPGchondroitin sulfate proteoglycanDAPI4′,6-diamidino-2-phenylindoledpidays post immunizationEAEexperimental autoimmune encephalomyelitisECMextracellular matrixFABPFatty acid binding proteinFNfibronectinGFAPglial fibrillary acidic proteinGMgray matterKOknockoutLPSlipopolysaccharideMBPmyelin basic proteinMOGmyelin oligodendrocyte glycolipidMSmultiple sclerosisOPColigodendrocyte precursor cellPBSphosphate buffered salinePFAparaformaldehydeWMwhite matterWTwild type
+Key words
+fatty acid binding protein 7 (FABP7)astrocytespinal cordexperimental autoimmune encephalomyelitis (EAE)multiple sclerosis (MS)
+Introduction
+Multiple sclerosis (MS) is a demyelinating (degeneration of the myelin sheath) and axonal degenerating disease of the central nervous system (CNS). It is believed that autoimmunity plays a major role in pathogenesis MS; nevertheless, its pathophysiological mechanism remains unclear. However, glial cells in the CNS, including microglia, astrocytes and oligodendrocytes, play important roles in various aspects of MS, for example, in the attraction of inflammatory cells, demyelination and remyelination (regeneration of the myelin sheath) (Clemente et al., 2013, Domingues et al., 2016). A model of experimental autoimmune encephalomyelitis (EAE), induced by immunization with myelin oligodendrocyte glycoprotein (MOG35–55) peptide, is the most commonly used animal model of MS. In this model, Bjelobaba et al. previously described the most accepted mechanism of EAE onset induced by MOG35–55. Immunization of MOG35–55 emulsified in complete Freund's adjuvant leads to the priming of myelin specific T cells (especially CD4+ T cells) in the secondary lymphoid organs. Activated T cells are differentiated into effector T cells and pass into the blood circulation. Then, effector T cells enter into CNS through the expression of adhesion molecules, cytokines, and chemokines leading to disintegration of blood–brain barrier (BBB). In the perivascular space or within CNS, effector T cells become reactivated after they recognize antigens on antigen-presenting cells such as microglia/macrophages and/or astrocytes. Effector T cells, macrophages and astrocytes amplify inflammatory response resulting in tissue damage and demyelination (Bjelobaba et al., 2018). Arima et al. have shown that morphological changes are seen in the lumbar spinal cord in early phase of EAE according to autoreactive T cells infiltrating into the CNS via the fifth lumbar cord (Arima et al., 2012). Generally, initial clinical symptoms of the EAE induced by MOG35–55, started from tail as tail paralysis and then the paralysis progress ascending manner from limb to body bilaterally (Bittner et al., 2014).
+
+It has been reported that astrocytes are activated in the early stage after MOG peptide immunization and promote the infiltration of inflammatory cells by the production of chemokines (Karpus and Ransohoff, 1998, Calderon et al., 2006). It has also been reported that astrocytes play a role in suppressing inflammatory cells by producing cytokines that inhibit invasion of these cells (Lalive et al., 2017). Furthermore, activated astrocytes secrete extracellular matrix (ECM) proteins such as fibronectin and chondroitin sulfate proteoglycans (CSPGs), which inhibit remyelination (Correale and Farez, 2015). Activated astrocytes have been reported to form scars (astrocytic scar) in a spinal cord injury model (Hara et al., 2017), moreover astrocytic scars are evident in tissue from MS patients (Holley et al., 2003). Thus, it is believed that reactive astrocytes in lesions and scar-forming astrocytes inhibit remyelination.
+
+Fatty acid binding proteins (FABPs) are low molecular weight proteins (14–15 kDa) that serve as intracellular chaperones of long chain fatty acids, thereby regulating cellular lipid metabolism, signal transduction and gene expression (Owada, 2008). FABP7 (BLBP) is a well-known marker of neural stem cells and radial glia in the CNS. In the embryonic brain, FABP7 is essential for the maintenance and proliferation of neural stem-progenitor cells and radial glia (Owada, 2008, Liu et al., 2010); expression of the FABP7 gene is considered to be downstream of Pax 6 and Notch signaling (Anthony et al., 2005, Arai et al., 2005). In the adult brain, we previously reported that FABP7 is expressed in astrocytes and oligodendrocyte precursor cells (OPC), and is involved in astrocytic proliferation in normal and stab-injured brain cerebral cortex (Sharifi et al., 2011). Additionally, astrocyte-expressed FABP7 regulates dendritic morphology and the excitatory synaptic function of cortical neurons (Ebrahimi et al., 2016). Furthermore, we also have reported that FABP7 controls lipid raft function in astrocytes through regulation of caveolin-1 expression, and that FABP7 deficiency results in altered response of astrocytes to external stimuli (Kagawa et al., 2015). Based on the regulatory functions of FABP7 in astrocytes, it is highly possible that FABP7 exerts a critical role in various neurodegenerative diseases; nevertheless, its pathophysiological function in EAE remains elusive.
+
+In the adult spinal cord, FABP7 is expressed in pial boundary glial fibrillary acidic protein (GFAP)-positive cells, and is increased in EAE lesions (Kipp et al., 2011). Although FABP7 may play roles in astrocyte activation during EAE, it remains unknown whether the functional involvement of FABP7 has an accelerative or suppressive effect on EAE pathophysiology. In this study, we aimed to clarify the functional involvement of FABP7 in the spinal cord during the pathogenesis of EAE. We conclude that FABP7 in adult spinal cord astrocytes plays a pivotal role in the remyelination process by regulating fibronectin production.
+
+Experimental Procedures
+Mice
+Eight- to 9-week-old female C57BL/6 mice (wild-type [WT] and FABP7 gene knockout [FABP7-KO] (Owada et al., 2006)) were used. All experimental protocols were reviewed by the Ethics Committee for Animal Experimentation of Tohoku University School of Medicine, and were performed according to the Guidelines for Animal Experimentation of the Tohoku University School of Medicine under the law and notification requirements of the Japanese government.
+
+EAE model
+WT and FABP7-KO mice (age matched) were immunized subcutaneously using a 200 μL emulsion containing 150 μg MOG35–55 peptide [MEVGWYRSPFSRVVHLYRNGK] (Gene Script, NJ, USA) in incomplete Freund's adjuvant (F5506-6X 10ML, Sigma-Aldrich, MO, USA) supplemented with 600 μg of Mycobacterium tuberculosis H37Ra (231141, Becton, Dickinson and Company, NJ, USA). Mice were injected with 200 ng of pertussis toxin (168-22471, Wako, Osaka, Japan) intraperitoneally at 2 h after MOG injection and again 2 days post-immunization (dpi). Clinical scores were designated numerically according to the following referred to other papers (Marusic et al., 2005, Rao et al., 2015, Choi et al., 2016): 0, no detectable EAE symptom; 1, tail paralysis/loss of tonicity; 2, abnormal gait; 3, hind limb paralysis; 4, hind limb and forelimb paralysis; and 5, moribund or dead; 0.5 gradations were assigned for intermediate scores.; Gradations of 0.5 were assigned for intermediate scores.
+
+Immunohistochemistry, immunofluorescence staining and histochemistry
+For immunohistochemistry and histochemistry, the mice were perfused intracardially with 4% paraformaldehyde (PFA) under anesthesia. The lumbar spinal cord (at the vertebral body level of L1 and L2) was sampled and post-fixed with fresh 4% PFA for overnight.
+
+For paraffin embedded sections, lumbar spinal cords fixed with 4% PFA were dehydrated in gradual concentrations of ethanol, cleared in xylene, infiltrated, and then embedded in paraffin. Tissue was cut into 4-μm sections using a sliding microtome (Leica, Wetlar, Germany). Sections were de-paraffinized using xylene, and then hydrated with water. To detect de-myelinated lesions in the spinal cord, solochrome cyanine staining was performed according to a previous report (Kiernan, 2007). To detect FABP7 in the spinal cord, de-paraffinized sections were stained with anti-FABP7 antibody (rabbit polyclonal antibody, 1:250) (Abdelwahab et al., 2003) using DAB method after blocking with 5% normal goat serum.
+
+For frozen sections, the spinal cords were post-fixed in 4% PFA and placed in 30% sucrose. After the samples had sunk, the spinal cords were embedded in OCT compound (Sakura Finetek, CA, US) and cut into 10-μm sections. Sections were rehydrated with phosphate-buffered saline (PBS), permeabilized with 0.3% Triton X-100 in PBS for 30 min, washed three times in PBS for 15 min and then incubated in blocking solution containing 5% normal goat serum for 1 h at room temperature. The sections were subsequently incubated with the following primary antibodies at 4 °C for 14–16 h: FABP7 (rabbit polyclonal antibody, 1:250), GFAP (rat monoclonal, 1:600, [13-0300, Thermo Fisher Scientific, MA, US]), MBP (rat monoclonal, 1:20 [ab7349, abcam, Cambridge, UK]), fibronectin (rabbit polyclonal, 1:200 [ab2413, abcam], CD4 (rat monoclonal, 1:200 [100505, Biolegend, CA, US]). After primary antibody incubation, the sections were washed three times in PBS for 15 min and incubated with the following secondary antibodies for 1 h at room temperature: goat anti-rabbit IgG-Alexa Fluor 488 and goat anti-rat IgG-Alexa Fluor 594 (Thermo Fisher Scientific). Nuclei were stained using 4′, 6-Diamidino-2-phenylindole (DAPI, 0.5 mg/mL, Thermo Fisher Scientific) as a nuclear marker. Slides were cover-slipped using Fluoromount (Diagnostic Biosystems, CA, US).
+
+The number of CD4+ T cells in a lumbar spinal cord section was counted using ImageJ software.
+
+Measurement of fibronectin positive area in spinal cord sections
+For quantitative analysis of the fibronectin-positive area in lumbar spinal cord sections (% fibronectin area), the ratio of fibronectin-positive to spinal cord parenchyma area inside the glia limitans, which was formed by GFAP-positive cells, was measured using image analysis software (BZ-II Analyzer, KEYENCE, Osaka, Japan).
+
+Western blotting
+For Western blotting, raw lumbar spinal cord tissue was extracted from mice under anesthesia and stored in − 80 °C until total protein extraction was performed. Isolated total protein was dissolved in lysis buffer (100 mmol/L Tris–HCl [pH 6.8], 2% sodium dodecyl sulfate, 20% glycerol) and protein concentration was measured using the bicinchoninic acid (BCA) assay. Western blot analysis was performed as described previously (Kagawa et al., 2015).
+
+Primary astrocyte culture
+Primary astrocytes were prepared from cerebral cortices of 0- to 1-day-old WT and FABP7-KO mice as described with slight modification (Kagawa et al., 2015). In brief, following isolation of cortices and removal of meninges, olfactory bulb, and hippocampus, dissociated cells were treated with 0.25% w/v of trypsin (Life Technologies) for 20 min. The cells were resuspended in Dulbecco's modified Eagle's medium (DMEM, Life Technologies) containing 10% v/v of heat-inactivated fetal bovine serum (FBS) (Thermo Fisher Scientific), 1% v/v of penicillin/streptomycin and 2 mM L-glutamine, and filtered through a 100-μm cell strainer (BD Falcon, NJ). Finally, the cells obtained from two pups were seeded in T75 flask (BD Falcon). Medium was replaced every second or third day. After 7–9 days in vitro, flasks were shaken for 24 h at 200 rpm to remove microglia and oligodendrocyte progenitor cells. The remaining astrocyte on the adherent monolayer was detached with 0.1% w/v of trypsin and 0.02% w/v of EDTA (Sigma-Aldrich, Japan) and seeded into appropriate plates and dishes and grown 2–3 days until confluent. The purity of astrocyte was confirmed to be > 95% by GFAP immuno-staining. Primary cultured astrocytes for both genotypes were isolated, passaged, and analyzed at the same time to minimized bias. When astrocytes reached to confluence, astrocytes were treated with/without TGF-β (10 ng/mL, Biolegend) for 3 h. After 3 h, total RNA was isolated from astrocytes using RNA easy micro kit (QIAGEN).
+
+Quantitative RT-PCR
+Isolated total RNA was revers transcribed with the use of the First Strand cDNA Synthesis kit (Roche). Each cDNA sample was analyzed for gene expression by quantitative real-time PCR (qPCR) with the TaqMan Probe reagent on an Applied Biosystems Step One Plus thermal cycler according to the manufacturer's protocol. Gene expression levels were calculated after normalization to the standard housekeeping gene 18S ribosomal RNA (rRNA) by using the ΔΔCT method. The following TaqMan probes were used: 18S rRNA, Mm03928990_g1; Fn1 (fibronectin 1), Mm01256744_m1; Il-17a, Mm00439618_m1; Tnfa, Mm00443258_m1.
+
+Statistical analysis
+All data are expressed as mean ± SEM. Statistical comparisons were performed using the Student's t-test; P < 0.05 was considered to be statistically significant.
+
+Results
+FABP7 expression in adult spinal cord during EAE
+Initially, FABP7 expression was confirmed in normal adult lumbar spinal cord. FABP7 was highly expressed by small size cells located on the surface of the white matter (WM), around the central canal and in the dorsal gray matter (GM) (Fig. 1A, D, G, J) as previously reported (Kipp et al., 2011). Double immunofluorescent histochemistry revealed that FABP7 was primarily localized in GFAP+ cells, namely, astrocytes (Fig. 1C, F, I, L). As a negative control for FABP7 immunostainings, it was confirmed that all FABP7+ cells were absent in the spinal cord of FABP7-KO mice (data not shown).
+
+Fig. 1
+Download high-res image (1MB)Download full-size image
+Fig. 1. FABP7 expression in the spinal cord of normal adult mouse. (A–L) Expression of FABP7 (green) and GFAP (red) was detected by immunofluorescent staining in the ventral white matter (WM) (A–C), in the lateral WM (D–F), around the central canal (CC) (G–I), and in the dorsal gray matter (GM) (J–L). FABP7 was primarily localized in GFAP+ cells. Scale bar = 50 μm.
+
+Next, the distribution and the expression levels of FABP7 in the spinal cord were examined at 9 dpi (before onset of clinical symptom), at 15 dpi (peak of clinical symptoms), and at 21 dpi (late phase). Immunohistochemistry revealed a decreased number of FABP7+ GFAP+ astrocytes in the lumbar spinal cord at 9 dpi compared with control (Fig. 2A, B, E, F). At 15 dpi (peak of clinical symptoms), the number of FABP7+ GFAP+ astrocytes was markedly increased throughout the spinal cord, especially in the WM compared with control (Fig. 2C, G). In addition, FABP7 expression in the dorsal and ventral GM astrocytes was also increased compared to control (Fig. 2I, J, M, N), although FABP7 the expression in ventral GM was faint in normal lumbar spinal cord. Increased expression of FABP7 was also observed around the central canal (Fig. 2Q, R). At 21 dpi (late phase), FABP7 expression in WM-astrocytes remained higher relative to control (Fig. 2D, H); however, the expression levels of FABP7 in the GM were almost the same as control (Fig. 2K, L, O, P, S and T). When the distribution pattern of FABP7+ cells was compared with solochrome cyanine staining in the adjacent section of spinal cord, strong FABP7 was observed especially in the demyelinated region indicated by the absence of solochrome cyanine staining in WM (Fig. 2U, V). Consistent with the results of immunohistochemistry, in Western blotting, FABP7 expression levels were transiently decreased in the spinal cord at 9 dpi and markedly increased at 21 dpi compared with control (Fig. 2W). Collectively, FABP7 was primarily expressed in WM-astrocytes in the lumbar spinal cord, and the expression of FABP7 increased in the demyelinated region of the WM after the onset of EAE.
+
+Fig. 2
+Download high-res image (3MB)Download full-size image
+Fig. 2. Alteration of FABP7 expression in the spinal cord during EAE. (A–T) Expression of FABP7 (green) and GFAP (red) was detected by immuno-fluorescent staining in spinal cord. The number of FABP7+ GFAP+ cells was decreased at 9 dpi (B, F), but increased at 15 and 21 dpi (C, D, G, H) compared with control (A, E). FABP7 expression in gray-matter GFAP+ cells was transiently increased around the peak phase (I–T). Scale bar = 300 μm (A–D), = 50 μm (E–H). (U, V) Solochrome cyanine staining (U) and immunostaining for FABP7 (V) were performed in the adjacent sections of lumbar spinal cord. FABP7+ cells were distributed in a demyelinated region indicated by the absence of solochrome cyanine staining. Scale bar = 100 μm. (W) Western blot analysis of FABP7 in the lumbar spinal cord. FABP7 expression levels were significantly decreased at 9 dpi, and increased at 21 dpi compared with control.
+
+Alterations in EAE clinical score in FABP7 KO mice
+The degree of clinical symptoms of EAE in FABP7-KO and WT mice was compared using clinical scores. In WT mice, the first clinical signs (tip of tail was limp) were observed at day 9 dpi, and onset rate reached 100% at 13 dpi (Fig. 3A). In FABP7-KO mice, the first clinical signs were observed at 8 dpi, and the onset rate reached 100% at 10 dpi (Fig. 3A). The average time when the clinical score reached the peak was at 12 dpi and at 15 dpi in FABP7-KO and in WT mice, respectively (Fig. 3B). Moreover, the onset of clinical signs and the time to reach at the peak were both earlier in FABP7-KO than in WT mice (Fig. 3A, B). There was no significant difference in peak clinical score between FABP7-KO (at day 12, score: 2.81 ± 0.23) and WT mice (day 15, score: 3.0 ± 0.28) (Fig. 3B). In both mice genotypes, the clinical score decreased somewhat after the peak; however, it is interesting to note that FABP7-KO mice exhibited significantly lower clinical scores compared with WT mice from 15 dpi to 21 dpi (Fig. 3B). At 21 dpi, the clinical score in WT mice was 2.29 ± 0.24 and 1.6 ± 0.19 in FABP7-KO mice.
+
+Fig. 3
+Download high-res image (251KB)Download full-size image
+Fig. 3. Alteration of EAE clinical score in FABP7-KO mice. (A) Percentage of incidence of EAE clinical signs. Onset of clinical signs and the time to reach 100% incidence occurred earlier in FABP7-KO mice (n = 8) compared with WT mice (n = 8). (B) The average of clinical score for EAE. The time to reach the peak occurred earlier in FABP7-KO mice (n = 8) compared with WT mice (n = 8). However, FABP7-KO mice exhibited significantly lower clinical score compared with WT mice from 15 dpi to 21 dpi. *P < 0.05.
+
+Early induction of inflammation in FABP7-KO spinal cord
+Demyelinated lesions in white matter at 10 dpi were observed in both WT and FABP7-KO spinal cord (Fig. 4A, B). Furthermore, GFAP expression was higher around the lesions of white matter in WT and FABP7-KO spinal cord (Fig. 4C, D) compared to in intact white matter of control WT and FABP7-KO spinal cord (Fig. 4E, F) respectively. Since FABP7-KO mice had early onset of clinical symptoms rather than WT mice, we hypothesized that invasion of inflammatory cells in the spinal cord through BBB and initiation of inflammation in spinal cord may occur earlier in FABP7-KO mice than WT mice. The number of CD4+ cells infiltrated into lumbar spinal cord showed an increasing trend in FABP7-KO mice compared to WT mice, although there was no statistically significant difference (Fig. 4G–I). Furthermore, mRNA expression levels of IL-17 and TNF-α, which are important inflammatory cytokines to induce demyelination, were higher in FABP7-KO lumbar spinal cord at 10 dpi than in WT lumbar spinal cord (Fig. 4J). Both cytokines were rarely detected in intact spinal cord (data not shown). These results suggested that FABP7 in astrocyte may have a role to protect from the invasion of inflammatory cells into CNS and induction of demyelination.
+
+Fig. 4
+Download high-res image (1MB)Download full-size image
+Fig. 4. Early induction of inflammation in FABP7-KO spinal cord. (A, B) Solochrome cyanine staining of lumbar spinal cord at 10 dpi. The demyelinated areas (indicated by arrow heads) were observed in both WT and FABP7-KO mice. Scale bar = 300 μm. (C–D) Immunostaining for GFAP in demyelinated lesion of WT (C) and FABP7-KO (D) spinal cord indicated square in Fig. 4A and B respectively. Scale bar = 100 μm. (E–F) Immunostaining for GFAP in intact white matter of control WT (E) and FABP7-KO (F) lumbar spinal cord. The expression of GFAP was increased around lesions in both WT and FABP7-KO spinal cord. Scale bar = 100 μm. (G, H) CD4+ T cells were detected by immuno-fluorescent staining in lumbar spinal cord of WT (G) and FABP7-KO (H) mice at 10 dpi. (I) The number of CD4+ T cells in a spinal cord section was measured. The number of CD4+ cells in lumbar spinal cord showed an increasing trend in FABP7-KO mice (n = 4) compared to WT mice (n = 4), but no statistical significance. (J) The mRNA expression of Il-17 and Tnfa was measured by qPCR in lumbar spinal cord. The mRNA expression Il-17 and Tnfa was higher in FABP7-KO (n = 4) than in WT mice (n = 4).
+
+Decreased fibronectin-positive area in the spinal cord of FABP7-KO EAE mice
+Given the correlation with such differences in clinical score, the demyelinated area in the lumbar spinal cord was less apparent at 21 dpi in FABP7-KO mice compared with WT mice (Fig. 5A, B). Highly GFAP expressing cells distributed in demyelinated area in both WT and FABP7-KO mice (Fig. 5C, D). There is a possibility that amelioration of clinical symptoms during the late phase in FABP7-KO mice was associated with altered the process of remyelination. Fibronectin is one of the ECM proteins produced by activated astrocytes, up-regulated in MS lesions, and is known to inhibit oligodendrocyte differentiation and remyelination (van Horssen et al., 2006, Stoffels et al., 2013).
+
+Fig. 5
+Download high-res image (2MB)Download full-size image
+Fig. 5. Decreased fibronectin-positive area in FABP7-KO mice spinal cord. (A, B) Solochrome cyanine staining of lumbar spinal cord at 21 dpi. The demyelinated area (indicated by arrow heads) was less apparent at 21 dpi in FABP7-KO mice (B) compared with WT mice (A). Scale bar = 300 μm. (C, D) GFAP was detected by immuno-fluorescent staining in lumbar spinal cord at 21 dpi. GFAP highly expressing cells were present in demyelinated lesions of both WT (C) and FABP7-KO mice (D). Scale bar = 100 μm. (E, F) Fibronectin (FN, green) and GFAP (red) were detected by immuno-fluorescent staining in lumbar spinal cord of WT mice at 21 dpi. GFAP highly expressing cells were present in the immediate vicinity of the FN-positive region. (G, H) Representative images demonstrating FN-positive area (indicated by arrow heads) in the spinal cord parenchyma of WT mice (G) and FABP7-KO mice (H). (I) Percent fibronectin area was measured (see experimental procedure). Percent fibronectin area was decreased in FABP7-KO (n = 7) compared with WT mice (n = 7). (J) mRNA expression of Fn1 in primary cultured astrocytes was measured by qPCR after treatment with/without TGF-β (10 ng/mL) for 3 h (n = 4, each group). Fn1 expression was less induced in FABP-KO astrocytes compared with WT after TGF-β treatment (Fig. 5J). *P < 0.05.
+
+In normal lumbar spinal cord of mice of both genotypes, fibronectin was barely detected (data not shown). In the EAE model, fibronectin was increased in the lesion area where myelin basic protein immunoreactivity was decreased (data not shown) and considered to be the demyelinated region, and cells that highly expressed GFAP were present in the immediate vicinity of the fibronectin-positive region (Fig. 5E, F). In immunohistochemistry at 21 dpi, the fibronectin-positive area was less discerned in the spinal cord parenchyma of FABP7-KO compared with WT mice (Fig. 5G, H). Quantitative analysis of % fibronectin positive area was 1.95 ± 0.21% in WT versus 1.36 ± 0.25% in FABP7-KO mice (p < 0.05) (Fig. 5I). Furthermore, mRNA expression of fibronectin 1 (Fn1) in primary culture astrocyte after treatment with/without TGF-β was examined by qPCR. Although there was no significant difference in Fn1 expression between in FABP7-KO and WT-astrocytes without TGF-β treatment, Fn1 expression was significantly lower in FABP-KO astrocytes compared with WT after TGF-β treatment (Fig. 5J). These results suggest that FABP7 in activated astrocytes may up-regulate the production of fibronectin in the demyelinated region of the spinal cord, and exerts inhibitory effects on the remyelination process.
+
+Discussion
+In this study, we demonstrated that FABP7 in adult mouse spinal cord was primarily expressed in astrocytes in the WM. Expression of FABP7 was low before the development of EAE symptoms, but became high after onset, and was particularly increased in reactive astrocytes in the demyelinated region of the WM. The onset of EAE clinical symptoms and the time to reach the peak were observed earlier in FABP7-KO mice compared with WT mice, while the symptoms improved in FABP7-KO mice rather than in WT mice in the late phase of EAE. Fibronectin, which has been suggested to prevent remyelination, was less distributed in the spinal cord of FABP7-KO mice in the late phase of EAE. Collectively, FABP7 may be involved in the regulation of fibronectin production through the modification of astrocyte activation and may inhibit remyelination.
+
+Improvement of symptoms in the late stages of EAE was observed in FABP7-KO mice rather than in WT mice, although there was no difference in clinical score between two groups at the peak. Therefore, we hypothesized that FABP7 in astrocytes may inhibit remyelination by oligodendrocytes. Reactive and scar-forming astrocytes produce fibronectin, which inhibits the differentiation and myelination of oligodendrocytes (Siskova et al., 2009, Stoffels et al., 2013). In addition to fibronectin, other types of ECM proteins, such as CSPGs and the glycosaminoglycan hyaluronan are also produced by activated astrocytes in the damaged area of spinal cord and have the effect of inhibiting remyelination (Lau et al., 2012, Correale and Farez, 2015). Furthermore, endothelin-1 and fibroblast growth factor-2 are also secreted by reactive astrocytes in demyelinated lesions, and these molecules are known to prevent remyelination (Goddard et al., 1999, Hammond et al., 2014). It has been reported that transforming growth factor (TGF-β) enhances the production of fibronectin via SMAD and/or MAPKs signaling by activated astrocytes (Tatomir et al., 2018). We revealed that FABP7 deficient astrocytes impaired the expression of fibronectin after TGF-β treatment compared to WT astrocytes. The TGF-β receptor expression and SMAD and MAPKs signaling activation should be examined. Other research groups have demonstrated that fibronectin expression is increased in cultured astrocytes after lipopolysaccharide (LPS) stimulation (Stoffels et al., 2013). Recently, we reported that FABP7 controls lipid raft function through the regulation of caveolin-1 expression, and is involved in the response of astrocytes to external stimuli. In FABP7-deficient astrocytes, LPS stimulated activation of signal transduction such as MAPKs was impaired compared with WT astrocytes (Kagawa et al., 2015). In the EAE model, it was suggested that astrocytes with high expression of FABP7 in demyelinated regions may exhibit enhanced responses to external stimuli, including TGF-β, eventually up-regulating fibronectin production. It is, therefore, necessary to investigate the involvement of FABP7 in the mechanism of fibronectin production. We did not actually observe the process of remyelination or OPC differentiation in this study, so further investigation is necessary.
+
+In this study, the onset of EAE symptoms in FABP7-KO mice occurred earlier than in WT mice, and mRNA expression of inflammatory cytokines (IL-17 and TNF-a) in lumbar spinal cord of FABP7-KO mice was higher than of WT mice at EAE early phase. IL-17 and TNF-α are important cytokines to induce demyelination, and mainly produced by Th17 (CD4 +) cells and monocytes /macrophages including microglia respectively. We also demonstrated that astrocytic FABP7 expression was transiently downregulated throughout spinal cord at 9 dpi. The significance of such changes in FABP7 expression during the early phase of EAE remains unclear. However, one possibility is that FABP7 may modulate the function of blood–brain barrier (BBB), where astrocytes play a key maintenance role in its integrity (Abbott et al., 2006). It has been reported that loss of astrocytic end-feet around small blood vessels represents an early event in lesion development linked to BBB disruption in EAE (Correale and Farez, 2015). It is also known that activated CD4-positive T cells infiltrate the CNS during EAE, induce CNS inflammation, and promote demyelination (Constantinescu et al., 2011). Therefore, the early disruption of BBB due to astrocytic FABP7 deficiency may enhance the infiltration of activated T cells into the CNS, and lead to the early development of EAE in FABP7-KO mice.
+
+The majority of astrocytes are post-mitotic at physiological conditions, and highly active proliferation is usually associated with astrogliosis, (e.g., induced by spinal cord injury and EAE (Nash et al., 2011, Lundgaard et al., 2014). Astrocyte proliferation following injury may be important for scar formation (Bardehle et al., 2013). Our group has reported that proliferation of reactive astrocytes after stab injury is decreased in FABP7-KO mice compared with WT mice (Sharifi et al., 2011); we have also demonstrated that FABP7 regulates OPC proliferation (Sharifi et al., 2013). Furthermore, it has been reported that the expression of FABP7 is associated with the proliferation of glioma cells (Tian et al., 2018). Therefore, results of the present study suggest that increased expression of FABP7 in reactive astrocytes in EAE lesions may modulate astrocyte proliferation and scar formation. We examined the proliferation of astrocytes by immuno-fluorescent staining for Ki67 and GFAP in spinal cord at 10, 15 and 21 dpi (data not shown). Ki67+ astrocytes were rarely seen around lesions at 10 dpi but were observed around lesions at 15 and 21 dpi. However, there was no significant difference in the number of Ki67+ astrocytes between WT and FABP7-KO mice at each time point. However, 15 and 21 dpi might not be the peak phase of astrocyte proliferation. Further detailed time course studies are needed to clarify this issue.
+
+FABP7 was expressed primarily in astrocytes in the normal state, and a pathological state of spinal cord WM in this study. FABP7 expression was markedly enhanced during the remyelination period in the mouse model of EAE. It is known that astrocyte activity can be affected by the intracellular lipid milieu (Iglesias et al., 2017, van Deijk et al., 2017); thus, it is likely that FABP7 modulates astrocyte reactivity during EAE pathology through its involvement in lipid metabolism. Further studies are warranted to clarify the cellular mechanism of how FABP7 is involved in astrocytic activation in EAE pathology, which in turn may provide a molecular basis for developing new approaches towards the treatment of demyelinating diseases, including MS.
+
+Acknowledgment
+This research was supported in part by grants from JSPS KAKENHI (16H05116 to Y.O.; 18K14998 to H.M.) and in part by a grant from the Project of Translational and Clinical Research Core Centers from AMED of Japan (Y.O.). The authors thank the Biomedical Research Unit of Tohoku University Hospital for their support.
+
+References
+Abbott et al., 2006
+NJ Abbott, L Ronnback, E Hansson
+Astrocyte-endothelial interactions at the blood-brain barrier
+Nat Rev Neurosci, 7 (2006), pp. 41-53
+CrossRefView Record in ScopusGoogle Scholar
+Abdelwahab et al., 2003
+SA Abdelwahab, Y Owada, N Kitanaka, H Iwasa, H Sakagami, H Kondo
+Localization of brain-type fatty acid-binding protein in Kupffer cells of mice and its transient decrease in response to lipopolysaccharide
+Histochem Cell Biol, 119 (2003), pp. 469-475
+CrossRefView Record in ScopusGoogle Scholar
+Anthony et al., 2005
+TE Anthony, HA Mason, T Gridley, G Fishell, N Heintz
+Brain lipid-binding protein is a direct target of Notch signaling in radial glial cells
+Genes Dev, 19 (2005), pp. 1028-1033
+CrossRefView Record in ScopusGoogle Scholar
+Arai et al., 2005
+Y Arai, N Funatsu, K Numayama-Tsuruta, T Nomura, S Nakamura, N Osumi
+Role of Fabp7, a downstream gene of Pax6, in the maintenance of neuroepithelial cells during early embryonic development of the rat cortex
+J Neurosci, 25 (2005), pp. 9752-9761
+CrossRefView Record in ScopusGoogle Scholar
+Arima et al., 2012
+Y Arima, M Harada, D Kamimura, JH Park, F Kawano, FE Yull, T Kawamoto, Y Iwakura, UA Betz, G Marquez, TS Blackwell, Y Ohira, T Hirano, M Murakami
+Regional neural activation defines a gateway for autoreactive T cells to cross the blood-brain barrier
+Cell, 148 (2012), pp. 447-457
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Bardehle et al., 2013
+S Bardehle, M Kruger, F Buggenthin, J Schwausch, J Ninkovic, H Clevers, HJ Snippert, FJ Theis, M Meyer-Luehmann, I Bechmann, L Dimou, M Gotz
+Live imaging of astrocyte responses to acute injury reveals selective juxtavascular proliferation
+Nat Neurosci, 16 (2013), pp. 580-586
+CrossRefView Record in ScopusGoogle Scholar
+Bittner et al., 2014
+S Bittner, AM Afzali, H Wiendl, SG Meuth
+Myelin oligodendrocyte glycoprotein (MOG35-55) induced experimental autoimmune encephalomyelitis (EAE) in C57BL/6 mice
+J. Vis. Exp., 86 (2014), Article e51275
+Google Scholar
+Bjelobaba et al., 2018
+I Bjelobaba, V Begovic-Kupresanin, S Pekovic, I Lavrnja
+Animal models of multiple sclerosis: Focus on experimental autoimmune encephalomyelitis
+J Neurosci Res, 96 (2018), pp. 1021-1042
+View Record in ScopusGoogle Scholar
+Calderon et al., 2006
+TM Calderon, EA Eugenin, L Lopez, SS Kumar, J Hesselgesser, CS Raine, JW Berman
+A role for CXCL12 (SDF-1alpha) in the pathogenesis of multiple sclerosis: regulation of CXCL12 expression in astrocytes by soluble myelin basic protein
+J Neuroimmunol, 177 (2006), pp. 27-39
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Choi et al., 2016
+IY Choi, L Piccio, P Childress, B Bollman, A Ghosh, S Brandhorst, J Suarez, A Michalsen, AH Cross, TE Morgan, M Wei, F Paul, M Bock, VD Longo
+A diet mimicking fasting promotes regeneration and reduces autoimmunity and multiple sclerosis symptoms
+Cell Rep, 15 (2016), pp. 2136-2146
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Clemente et al., 2013
+D Clemente, MC Ortega, C Melero-Jerez, F de Castro
+The effect of glia-glia interactions on oligodendrocyte precursor cell biology during development and in demyelinating diseases
+Front Cell Neurosci, 7 (2013), p. 268
+Google Scholar
+Constantinescu et al., 2011
+CS Constantinescu, N Farooqi, K O'Brien, B Gran
+Experimental autoimmune encephalomyelitis (EAE) as a model for multiple sclerosis (MS)
+Br J Pharmacol, 164 (2011), pp. 1079-1106
+CrossRefView Record in ScopusGoogle Scholar
+Correale and Farez, 2015
+J Correale, MF Farez
+The role of astrocytes in multiple sclerosis progression
+Front Neurol, 6 (2015), p. 180
+Google Scholar
+van Deijk et al., 2017
+AF van Deijk, N Camargo, J Timmerman, T Heistek, JF Brouwers, F Mogavero, HD Mansvelder, AB Smit, MH Verheijen
+Astrocyte lipid metabolism is critical for synapse development and function in vivo
+Glia, 65 (2017), pp. 670-682
+CrossRefView Record in ScopusGoogle Scholar
+Domingues et al., 2016
+HS Domingues, CC Portugal, R Socodato, JB Relvas
+Oligodendrocyte, astrocyte, and microglia crosstalk in myelin development, damage, and repair
+Front Cell Dev Biol, 4 (2016), p. 71
+Google Scholar
+Ebrahimi et al., 2016
+M Ebrahimi, Y Yamamoto, K Sharifi, H Kida, Y Kagawa, Y Yasumoto, A Islam, H Miyazaki, C Shimamoto, M Maekawa, D Mitsushima, T Yoshikawa, Y Owada
+Astrocyte-expressed FABP7 regulates dendritic morphology and excitatory synaptic function of cortical neurons
+Glia, 64 (2016), pp. 48-62
+CrossRefView Record in ScopusGoogle Scholar
+Goddard et al., 1999
+DR Goddard, M Berry, AM Butt
+In vivo actions of fibroblast growth factor-2 and insulin-like growth factor-I on oligodendrocyte development and myelination in the central nervous system
+J Neurosci Res, 57 (1999), pp. 74-85
+CrossRefView Record in ScopusGoogle Scholar
+Hammond et al., 2014
+TR Hammond, A Gadea, J Dupree, C Kerninon, B Nait-Oumesmar, A Aguirre, V Gallo
+Astrocyte-derived endothelin-1 inhibits remyelination through Notch activation
+Neuron, 81 (2014), p. 1442
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Hara et al., 2017
+M Hara, K Kobayakawa, Y Ohkawa, H Kumamaru, K Yokota, T Saito, K Kijima, S Yoshizaki, K Harimaya, Y Nakashima, S Okada
+Interaction of reactive astrocytes with type I collagen induces astrocytic scar formation through the integrin-N-cadherin pathway after spinal cord injury
+Nat Med, 23 (2017), pp. 818-828
+CrossRefView Record in ScopusGoogle Scholar
+Holley et al., 2003
+JE Holley, D Gveric, J Newcombe, ML Cuzner, NJ Gutowski
+Astrocyte characterization in the multiple sclerosis glial scar
+Neuropathol Appl Neurobiol, 29 (2003), pp. 434-444
+CrossRefView Record in ScopusGoogle Scholar
+van Horssen et al., 2006
+J van Horssen, L Bo, CD Dijkstra, HE de Vries
+Extensive extracellular matrix depositions in active multiple sclerosis lesions
+Neurobiol Dis, 24 (2006), pp. 484-491
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Iglesias et al., 2017
+J Iglesias, L Morales, GE Barreto
+Metabolic and inflammatory adaptation of reactive astrocytes: role of PPARs
+Mol Neurobiol, 54 (2017), pp. 2518-2538
+CrossRefView Record in ScopusGoogle Scholar
+Kagawa et al., 2015
+Y Kagawa, Y Yasumoto, K Sharifi, M Ebrahimi, A Islam, H Miyazaki, Y Yamamoto, T Sawada, H Kishi, S Kobayashi, M Maekawa, T Yoshikawa, E Takaki, A Nakai, H Kogo, T Fujimoto, Y Owada
+Fatty acid-binding protein 7 regulates function of caveolae in astrocytes through expression of caveolin-1
+Glia, 63 (2015), pp. 780-794
+CrossRefView Record in ScopusGoogle Scholar
+Karpus and Ransohoff, 1998
+WJ Karpus, RM Ransohoff
+Chemokine regulation of experimental autoimmune encephalomyelitis: temporal and spatial expression patterns govern disease pathogenesis
+J Immunol, 161 (1998), pp. 2667-2671
+View Record in ScopusGoogle Scholar
+Kiernan, 2007
+JA Kiernan
+Histochemistry of staining methods for normal and degenerating myelin in the central and peripheral nervous systems
+J Histotechnol, 30 (2007), pp. 87-106
+CrossRefView Record in ScopusGoogle Scholar
+Kipp et al., 2011
+M Kipp, S Gingele, F Pott, T Clarner, P van der Valk, B Denecke, L Gan, V Siffrin, F Zipp, W Dreher, W Baumgartner, S Pfeifenbring, R Godbout, S Amor, C Beyer
+BLBP-expression in astrocytes during experimental demyelination and in human multiple sclerosis lesions
+Brain Behav Immun, 25 (2011), pp. 1554-1568
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Lalive et al., 2017
+PH Lalive, M Kreutzfeldt, O Devergne, I Metz, W Bruck, D Merkler, C Pot
+Increased interleukin-27 cytokine expression in the central nervous system of multiple sclerosis patients
+J Neuroinflammation, 14 (2017), p. 144
+Google Scholar
+Lau et al., 2012
+LW Lau, MB Keough, S Haylock-Jacobs, R Cua, A Doring, S Sloka, DP Stirling, S Rivest, VW Yong
+Chondroitin sulfate proteoglycans in demyelinated lesions impair remyelination
+Ann Neurol, 72 (2012), pp. 419-432
+CrossRefView Record in ScopusGoogle Scholar
+Liu et al., 2010
+RZ Liu, R Mita, M Beaulieu, Z Gao, R Godbout
+Fatty acid binding proteins in brain development and disease
+Int J Dev Biol, 54 (2010), pp. 1229-1239
+CrossRefView Record in ScopusGoogle Scholar
+Lundgaard et al., 2014
+I Lundgaard, MJ Osorio, BT Kress, S Sanggaard, M Nedergaard
+White matter astrocytes in health and disease
+Neuroscience, 276 (2014), pp. 161-173
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Marusic et al., 2005
+S Marusic, MW Leach, JW Pelker, ML Azoitei, N Uozumi, J Cui, MW Shen, CM DeClercq, JS Miyashiro, BA Carito, P Thakker, DL Simmons, JP Leonard, T Shimizu, JD Clark
+Cytosolic phospholipase A2 alpha-deficient mice are resistant to experimental autoimmune encephalomyelitis
+J Exp Med, 202 (2005), pp. 841-851
+CrossRefView Record in ScopusGoogle Scholar
+Nash et al., 2011
+B Nash, K Ioannidou, SC Barnett
+Astrocyte phenotypes and their relationship to myelination
+J Anat, 219 (2011), pp. 44-52
+CrossRefView Record in ScopusGoogle Scholar
+Owada, 2008
+Y Owada
+Fatty acid binding protein: localization and functional significance in the brain
+Tohoku J Exp Med, 214 (2008), pp. 213-220
+CrossRefView Record in ScopusGoogle Scholar
+Owada et al., 2006
+Y Owada, SA Abdelwahab, N Kitanaka, H Sakagami, H Takano, Y Sugitani, M Sugawara, H Kawashima, Y Kiso, JI Mobarakeh, K Yanai, K Kaneko, H Sasaki, H Kato, S Saino-Saito, N Matsumoto, N Akaike, T Noda, H Kondo
+Altered emotional behavioral responses in mice lacking brain-type fatty acid-binding protein gene
+Eur J Neurosci, 24 (2006), pp. 175-187
+CrossRefView Record in ScopusGoogle Scholar
+Rao et al., 2015
+E Rao, P Singh, Y Li, Y Zhang, YI Chi, J Suttles, B Li
+Targeting epidermal fatty acid binding protein for treatment of experimental autoimmune encephalomyelitis
+BMC Immunol, 16 (2015), p. 28
+CrossRefView Record in ScopusGoogle Scholar
+Sharifi et al., 2013
+K Sharifi, M Ebrahimi, Y Kagawa, A Islam, T Tuerxun, Y Yasumoto, T Hara, Y Yamamoto, H Miyazaki, N Tokuda, T Yoshikawa, Y Owada
+Differential expression and regulatory roles of FABP5 and FABP7 in oligodendrocyte lineage cells
+Cell Tissue Res, 354 (2013), pp. 683-695
+CrossRefView Record in ScopusGoogle Scholar
+Sharifi et al., 2011
+K Sharifi, Y Morihiro, M Maekawa, Y Yasumoto, H Hoshi, Y Adachi, T Sawada, N Tokuda, H Kondo, T Yoshikawa, M Suzuki, Y Owada
+FABP7 expression in normal and stab-injured brain cortex and its role in astrocyte proliferation
+Histochem Cell Biol, 136 (2011), pp. 501-513
+CrossRefView Record in ScopusGoogle Scholar
+Siskova et al., 2009
+Z Siskova, VW Yong, A Nomden, M van Strien, D Hoekstra, W Baron
+Fibronectin attenuates process outgrowth in oligodendrocytes by mislocalizing MMP-9 activity
+Mol Cell Neurosci, 42 (2009), pp. 234-242
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+Stoffels et al., 2013
+JM Stoffels, JC de Jonge, M Stancic, A Nomden, ME van Strien, D Ma, Z Siskova, O Maier, C Ffrench-Constant, RJ Franklin, D Hoekstra, C Zhao, W Baron
+Fibronectin aggregation in multiple sclerosis lesions impairs remyelination
+Brain, 136 (2013), pp. 116-131
+CrossRefView Record in ScopusGoogle Scholar
+Tatomir et al., 2018
+A Tatomir, CA Tegla, A Martin, D Boodhoo, V Nguyen, AJ Sugarman, A Mekala, F Anselmo, A Talpos-Caia, C Cudrici, TC Badea, V Rus, H Rus
+RGC-32 regulates reactive astrocytosis and extracellular matrix deposition in experimental autoimmune encephalomyelitis
+Immunol Res., 66 (2018), pp. 445-461
+CrossRefView Record in ScopusGoogle Scholar
+Tian et al., 2018
+W Tian, J Shi, J Qin, G Jin, X Han, H Li
+Brain lipid binding protein mediates the proliferation of human glioblastoma cells by regulating ERK1/2 signaling pathway in vitro
+In Vitro Cell Dev Biol Anim, 54 (2018), pp. 156-162

@@ -1,0 +1,610 @@
+α-Synuclein binds and sequesters PIKE-L into Lewy
+bodies, triggering dopaminergic cell death via
+AMPK hyperactivation
+Seong Su Kanga
+, Zhentao Zhanga
+, Xia Liua
+, Fredric P. Manfredssonb
+, Li Hec
+, P. Michael Iuvonec
+, Xuebing Caod
+,
+Yi E. Sune,f, Lingjing Jing,1, and Keqiang Yea,e,f,1
+a
+Department of Pathology and Laboratory Medicine, Emory University School of Medicine, Atlanta, GA 30322; b
+Translational Science and Molecular
+Medicine, College of Human Medicine, Michigan State University, Grand Rapids, MI 49503; c
+Department of Ophthalmology and Pharmacology, Emory
+University School of Medicine, Atlanta, GA 30322; d
+Department of Neurology, Union Hospital, Tongji Medical College, Huazhong University of Science and
+Technology, Wuhan 430022, China; e
+Translational Center for Stem Cell Research, Tongji Hospital, Shanghai 200065, China; f
+Department of Regenerative
+Medicine, Tongji University School of Medicine, Shanghai 200065, China; and g
+Department of Neurology, Tongji Hospital, Shanghai 200065, China
+Edited by Solomon H. Snyder, Johns Hopkins University School of Medicine, Baltimore, MD, and approved December 27, 2016 (received for review November
+10, 2016)
+The abnormal aggregation of fibrillar α-synuclein in Lewy bodies plays
+a critical role in the pathogenesis of Parkinson’s disease. However, the
+molecular mechanisms regulating α-synuclein pathological effects
+are incompletely understood. Here we show that α-synuclein binds
+phosphoinositide-3 kinase enhancer L (PIKE-L) in a phosphorylationdependent manner and sequesters it in Lewy bodies, leading to
+dopaminergic cell death via AMP-activated protein kinase (AMPK)
+hyperactivation. α-Synuclein interacts with PIKE-L, an AMPK inhibitory
+binding partner, and this action is increased by S129 phosphorylation
+through AMPK and is decreased by Y125 phosphorylation via Src family kinase Fyn. A pleckstrin homology (PH) domain in PIKE-L directly
+binds α-synuclein and antagonizes its aggregation. Accordingly, PIKE-L
+overexpression decreases dopaminergic cell death elicited by
+1-methyl-4-phenylpyridinium (MPP+), whereas PIKE-L knockdown elevates α-synuclein oligomerization and cell death. The overexpression
+of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) or α-synuclein
+induces greater dopaminergic cell loss and more severe motor defects
+in PIKE-KO and Fyn-KO mice than in wild-type mice, and these effects
+are attenuated by the expression of dominant-negative AMPK.
+Hence, our findings demonstrate that α-synuclein neutralizes PIKEL’s neuroprotective actions in synucleinopathies, triggering dopaminergic neuronal death by hyperactivating AMPK.
+neurodegenerative disease | dopamine | Lewy bodies
+Parkinson’s disease (PD), the second most prevalent age-related
+neurodegenerative disease, is characterized by progressive selective loss of dopaminergic (DAergic) neurons in the substantia
+nigra pars compacta with the concomitant loss of nigrostriatal
+DAergic termini and the resulting motor symptoms. Altered protein folding is thought to play a key role in the etiopathogenesis of
+PD, because the disorder is characterized neuropathologically by
+the accumulation of intraneuronal protein aggregates (Lewy bodies). The principal component of the Lewy body is aggregated
+α-synuclein (1). Point mutations in the α-synuclein gene (SNCA)
+cause rare familial forms of PD. Importantly, multiplication of
+wild-type SNCA also causes a familial form of PD, indicating that
+an increased level of normal α-synuclein protein is sufficient to
+cause the disease. The Lewy bodies stain positively for α-synuclein,
+ubiquitin, and a specific form of posttranslationally modified
+α-synuclein that is phosphorylated on S129 and is found only in
+Lewy bodies and Lewy neurites. The C terminus of α-synuclein can
+be phosphorylated at Y125 and at S129 by Src family kinase Fyn
+and various casein kinases or AMP-activated protein kinase
+(AMPK), respectively (2–5). It has been proposed that p-Y125 and
+p-S129 have opposing effects on neurotoxicity and soluble oligomer
+formation. α-Synuclein neurotoxicity in PD may result from an
+imbalance between the detrimental, oligomer-promoting effect of
+p-S129 and a neuroprotective action of p-Y125 that inhibits toxic
+oligomer formation (6). AMPK consists of α, β, and γ subunits. The
+α subunit possesses catalytic activity. Phosphorylation of the Thr
+residue at 172 in the α subunit is essential for AMPK activation to
+function as a protein kinase (7). AMPK is a key sensor of cellular
+energy status. AMPK signaling regulates the energy balance at the
+cellular, organ, and whole-body level. AMPK activation may have
+dual functions in the regulation of neuronal survival and death:
+AMPK provides a protective effect during transient energy depletion, as exemplified in a model of neuronal Ca2+ overloading.
+Conversely, prolonged AMPK activation can lead to neuronal cell
+death (8). AMPK activation is commonly present in many neurological diseases, including stroke (9), Huntington’s disease (10),
+Alzheimer’s disease (11), and synucleinopathies (5). Lactate levels
+are increased in the aging brain (12), in PD-affected subjects as
+compared with age-matched controls (13), and in mice treated with
+1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) (14). Recently,
+it has been reported that lactic acid up-regulates the activity of
+AMPK (15), leading to α-synuclein accumulation and oligomerization via AMPK phosphorylation of S129 in a time- and concentrationdependent manner (5). Phosphatidylinositol 3-kinase enhancers
+(PIKEs) are a family of GTPases that participate in multiple cellular
+processes including cell survival, brain development, memory formation, and metabolism (16–18). In the CNS, phosphoinositide-3
+kinase enhancer L (PIKE-L) is highly enriched in the nerve termini (19–21) where it interacts with various receptors to trigger
+PI3K activation and displays neuroprotective activities (21, 22). In
+addition, PIKE-L exerts neuroprotective actions by protecting the
+DNase inhibitor SET from degradation by asparagine endopeptidase during stroke or kainic acid treatment (23). Interestingly,
+Significance
+We discovered that α-synuclein interacts with the neuroprotective protein phosphoinositide-3 kinase enhancer L (PIKE-L)
+in an S129 phosphorylation-dependent manner and sequesters
+PIKE-L in Lewy bodies, leading to the hyperactivation of AMPactivated protein kinase (AMPK) and subsequent dopaminergic
+neuronal cell death. Our findings may identify a molecular
+mechanism by which α-synuclein triggers dopaminergic neuronal
+cell death in Parkinson’s disease.
+Author contributions: S.S.K., Z.Z., L.J., and K.Y. designed research; S.S.K., Z.Z., and X.L.
+performed research; F.P.M., L.H., and P.M.I. contributed new reagents/analytic tools; X.C.,
+Y.E.S., and L.J. analyzed data; and K.Y. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence may be addressed. Email: kye@emory.edu or lingjingjin@163.
+com.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1618627114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1618627114 PNAS | January 31, 2017 | vol. 114 | no. 5 | 1183–1188
+NEUROSCIENCE
+PIKE-L is important in regulating the development of the neocortex
+(24) and also is implicated in brain-derived neurotrophic factor
+(BDNF)/TrkB signaling cascades. The BDNF-mediated PI3K/Akt
+pathway, but not the MAPK pathway, is selectively diminished when
+PIKE is depleted. Consequently, PIKE−/− neurons are more vulnerable to glutamate- or stroke-induced cell death (24–26). Most
+recently, we demonstrated that PIKE-A, an isoform in the PIKE
+family, binds the AMPK α subunit and suppresses its activation and
+kinase activity, and this interaction is enhanced by Fyn phosphorylation of PIKE-A (27). In the current study, we report that
+α-synuclein associates with PIKE-L, which is regulated by p-S129
+and p-Y125, which in turn are mediated by AMPK and Fyn, respectively. This interaction prevents α-synuclein aggregation and
+blocks its neurotoxic effect. Using both 1-methyl-4-phenylpyridinium
+(MPP+
+) neurotoxin and α-synuclein genetic models of nigrostriatal
+degeneration, we demonstrate that PIKE-L and Fyn are required to
+prevent DAergic cell loss from both toxic stimuli and that inhibition
+of AMPK rescues DAergic cell death triggered by MPTP. This
+finding may provide insight into the molecular mechanism by which
+α-synuclein exerts its neurotoxic effects in DAergic neurons and may
+shed important light on the etiology of PD.
+Results
+α-Synuclein Binds PIKE-L in an S129 Phosphorylation-Dependent
+Manner. To explore whether PIKE-L is implicated in DAergic
+neuronal survival, we monitored dopamine (DA) metabolism in the
+substantia nigra, striatum, and hippocampus of wild-type mice and
+age-matched PIKE-KO littermates. DA is primarily oxidized
+by monoamine oxidase B (MAO-B) into the metabolite 3,4-
+dihydroxyphenylacetic acid (DOPAC). HPLC analysis revealed
+that striatal DA and DOPAC did not differ in 3-m-old wild-type
+and PIKE−/− mice. By contrast, DA levels in the substantia nigra
+and hippocampus in were significantly reduced 3- and 8-mo-old
+PIKE−/− mice (Fig. S1), indicating that DA metabolism is altered
+when PIKE is knocked out. Hence, PIKE might be involved in PD
+progression. Because lactate activates AMPK, which promotes
+phosphorylation of α-synuclein on S129, leading to its aggregation
+and neuritis reduction (5), we hypothesized that there might be
+crosstalk between PIKE and α-synuclein. Coimmunoprecipitation
+showed that α-synuclein interacts with PIKE-L upon activation of
+AMPK via 5-aminoimidazole-4-carboxamide ribonucleotide
+(AICAR) or metformin treatment, whereas the AMPK inhibitor
+compound C blocks this interaction (Fig. 1A, Top). Phosphorylation of AMPK and α-synuclein (S129) correlated with the binding
+affinities between PIKE-L and α-synuclein (Fig. 1A, Third and
+Bottom). As expected, the nonphosphorylatable S129A mutant
+barely interacted with PIKE-L regardless of AMPK activation
+status (Fig. 1B), indicating that S129 phosphorylation is required for
+α-synuclein to associate with PIKE-L. Consequently, constitutively
+active AMPK (AMPK-CA) strongly phosphorylated α-synuclein on
+S129, resulting in increased association with PIKE-L, compared
+with control or kinase-dead AMPK (AMP-KD) (Fig. 1C). Accordingly, the phosphorylation mimetic mutant α-synuclein S129D
+demonstrated a strong interaction with PIKE-L, but S129A did not
+bind PIKE-L to any significant degree (Fig. 1D), suggesting that
+S129 phosphorylation is indispensable for the association between
+α-synuclein and PIKE-L. Coimmunoprecipitation revealed that
+endogenous PIKE-L and α-synuclein interact with each other specifically in the brain (Fig. 1E). Finally, to assess whether PIKE-L
+interacts with α-synuclein in the brains of humans with PD, we
+conducted dual-label immunohistochemical staining and found that
+PIKE and α-synuclein colocalized in Lewy body inclusions (Fig. 1F),
+indicating that they might bind to each other in the Lewy bodies and
+that PIKE-L might be implicated in PD etiology via interaction with
+α-synuclein. A truncation assay revealed that the PIKE-L C-terminal
+fragment comprising amino acids 900–1,186 is not required for
+α-synuclein binding (Fig. S2A). Fragmenting PIKE-L further into
+different functional domains, we found that the pleckstrin homology
+(PH) domain in PIKE-L interacted directly with α-synuclein in a
+GST pull-down assay (Fig. S2B). An in vitro aggregation assay
+demonstrated that the PH domain significantly reduced the aggregation of both wild-type α-synuclein and the A53T mutant as
+measured by a Thioflavin T aggregation assay (Fig. S2C). Ultracentrifugation also showed that the presence of the PH domain
+reduces the degree of aggregated α-synuclein in the pellet, resulting
+in the augmentation of soluble α-synuclein (Fig. S2D). EM analysis
+validated the fibrillization of recombinant α-synuclein proteins (Fig.
+S2E). Hence, these studies indicate that the PIKE-L PH domain
+binds α-synuclein and inhibits its aggregation. Phosphorylation of
+α-synuclein on amino acids Y125 and S129 produces opposing effects (6). Accordingly, we wanted to test whether Fyn phosphorylation of Y125 also regulates the binding activity of α-synuclein with
+PIKE-L. Coimmunoprecipitation revealed that constitutively active
+Fyn (Fyn-CA) strongly phosphorylated α-synuclein Y125, abolishing
+the association between PIKE-L and α-synuclein (Fig. S3A). When
+Fyn was inhibited by Src kinase inhibitor (PP2), but not by the inactive analog of PP2 (PP3), α-synuclein binding to PIKE-L was
+elevated (Fig. S3B, first blot). As expected, α-synuclein Y125
+phosphorylation was potently blocked by PP2 but not by PP3 (Fig.
+S3B, sixth blot), indicating that Fyn-mediated Y125 phosphorylation
+inhibits the association between PIKE-L and α-synuclein. These
+findings also were confirmed in vivo (Fig. S3C). Thus, Fyn phosphorylates α-synuclein Y125 and blocks its binding to PIKE-L.
+Fig. 1. α-Synuclein binds PIKE-L in an S129 phosphorylation-dependent manner. (A) AMPK mediates the interaction between PIKE-L and α-synuclein. HEK
+293 cells were cotransfected with Myc–PIKE-L and GFP–α-synuclein and were
+treated with AICAR (200 μM), metformin (1 mM), or compound C (200 nM) for
+24 h. The binding between PIKE-L and α-synuclein was confirmed using
+immunoprecipitation. (B) α-Synuclein S129 phosphorylation is required for
+α-synuclein to bind PIKE-L. HEK 293 cells were cotransfected with Myc–PIKE-L
+and GFP–α-synuclein S129A and were treated with AICAR, metformin, or compound C. The binding between PIKE-L and S129A was confirmed using immunoprecipitation. The expression of AMPK, transfected PIKE-L, and α-synuclein
+was examined also. (C) AMPK-CA elevates the PIKE-L/α-synuclein interaction.
+Myc-PIKE-L and GFP-α-synuclein were cotransfected to HEK 293 cells with wildtype AMPK, AMPK-CA, or AMPK-KD. (D) S129 phosphorylation of α-synuclein is
+required for the binding of α-synuclein to PIKE-L. Myc-PIKE-L was cotransfected
+to HEK 293 cells with GFP–α-synuclein wild-type, S129D, or S129A. The binding
+of these proteins was examined by immunoprecipitation. (E) Endogenous PIKE-L
+binds α-synuclein in mouse brain. Immunoprecipitation and immunoblotting
+were performed in substantia nigra lysates of wild-type and PIKE-KO mice. The
+interaction of α-synuclein (S129) and PIKE-L in the brain was confirmed. (F) PIKEL/α-synuclein colocalization in Lewy bodies. PIKE-L (green) was stained with
+α-synuclein (red) in cortex from normal controls and patients with PD. PIKE-L and
+α-synuclein were colocalized in Lewy bodies (arrows). (Scale bar, 100 μm.)
+1184 | www.pnas.org/cgi/doi/10.1073/pnas.1618627114 Kang et al.
+α-Synuclein Overexpression Strips PIKE-L from AMPK, Inducing AMPK
+Activation and Cell Death. To explore whether α-synuclein overexpression affects the association between PIKE-L and AMPK, we
+performed a competition assay. We found that the association between PIKE-L and AMPK was gradually repressed as the concentration of α-synuclein was progressively increased (Fig. 2A, Top).
+Notably, AMPK T172 phosphorylation was steadily increased in an
+α-synuclein dose-dependent manner (Fig. 2A, Fourth and Fifth),
+whereas PIKE-L overexpression suppressed its phosphorylation.
+Consequently, knockdown of endogenous PIKE by shRNA expression elicited additional AMPK T172 phosphorylation and its downstream signaling, Acetyl-CoA carboxylase phosphorylation (p-ACC),
+tightly coupled with p-AMPK patterns (Fig. 2B). As a major energy
+sensor in cells, AMPK activation is intimately regulated by the cellular AMP/ATP ratio. Overexpression of α-synuclein elevates the
+cellular ADP/ATP ratio, presumably because of α-synuclein’s ability
+to modulate mitochondrial function. This ratio was reduced by
+PIKE-L overexpression. Knockdown of endogenous PIKE-L led to
+further escalation of ADP/ATP ratios (Fig. 2C). A cell-death assay
+in which lactate dehydrogenase (LDH) was released in the medium showed similar patterns, demonstrating that α-synuclein
+overexpression induced DAergic cell death, which was attenuated by
+concomitant PIKE-L overexpression. Finally, PIKE-L knockdown
+further enhanced the neurodegenerative effect of α-synuclein (Fig.
+2D). Lactate induces AMPK activation and α-synuclein S129 phosphorylation, leading to its aggregation and neurite reduction (5). The
+neurotoxicity of α-synuclein is related to its oligomerization or
+fibrillization. To assess the effect of PIKE-L on α-synuclein aggregation, we transfected SH-SY5Y cells with PIKE-L plasmid or
+silenced PIKE-L expression using shRNA, followed by infection with
+a virus expressing α-synuclein. Next, we treated the cells with vehicle
+or 20 mM lactate for 3 d. Lactate treatment strongly induced AMPK
+pathway activation (p-T172 and p-ACC), which was blocked by
+PIKE-L overexpression, whereas knockdown of PIKE-L resulted in
+further activation of AMPK. Noticeably, lactate triggered α-synuclein
+aggregation, which was exacerbated in the PIKE-L–depleted cells,
+whereas overexpression of PIKE-L reduced α-synuclein aggregation
+(Fig. 2E), in keeping with our in vitro observations that the PIKE-L
+PH domain inhibits α-synuclein aggregation (Fig. S2 D and E).
+Interestingly, PIKE-L knockdown elevated lactate-mediated autophagy as seen by increases in the autophagy biomarker microtubuleassociated protein 1A/1B-light chain 3 (LC3-II), whereas autophagy
+was suppressed by PIKE-L overexpression. (Fig. 2E, Bottom). Cellular ADP/ATP ratios corresponded with p-AMPK levels (Fig. 2F)
+and an LDH cell-death analysis (Fig. 2G). Accordingly, these
+findings suggest that AMPK activation mediates neurodegeneration
+induced by α-synuclein overexpression and that PIKE-L plays a
+crucial protective role by blocking AMPK activation.
+PIKE-L Is Required for DAergic Neuronal Survival in the MPTP Mouse
+Model. To investigate the physiological role of the PIKE-L/
+α-synuclein interaction in the MPTP model of PD, we treated wildtype mice, PIKE-KO mice, and Fyn-KO mice with saline or 15 mg/kg
+of MPTP two times/wk for 5 wk, followed by behavioral assays to
+assess motor functions. Tyrosine hydroxylase-positive (TH+
+) neurons and terminals were reduced in all MPTP-treated substantia
+nigra and striatum (Fig. 3A). Quantitative immunohistochemistry
+using an LC3-II antibody revealed that MPTP triggered more robust autophagy in PIKE-KO and Fyn-KO mice than in wild-type
+mice (Fig. 3B). Notably, S129 phosphorylation was elevated upon
+MPTP treatment in all mice, and MPTP treatment increased the
+degree to which p-S129 α-synuclein bound to PIKE-L (Fig. 3C, Top
+and Second). As expected, AMPK and ACC phosphorylation was
+enhanced by MPTP because knockout of PIKE or Fyn activates the
+AMPK/ACC pathway (28, 29). Noticeably, MPTP treatment further
+elevated AMPK/ACC signal pathways (Fig. 3C, Third through
+Sixth). Moreover, immunoblotting of LC3-II was consistent with the
+quantitative data in Fig. 3B. Motor behavioral tests using the grid
+performance and the rotarod test demonstrated that MPTP treatment resulted in significant impairments in locomotor functions
+compared with saline (control) treatment. Remarkably, and in
+agreement with our histological findings, both MPTP-treated
+PIKE-KO and Fyn-KO mice exhibited much more severe motor
+impairments than wild-type mice (Fig. 3 D and E). MPTP induced
+much stronger reductions of both DA and DOPAC in PIKE-null
+and Fyn-KO mice than in wild-type mice (Fig. S4 A and B).
+Quantitative densitometric analyses of TH immunoreactivity in
+both the substantia nigra and striatum supported the finding that
+MPTP produced greater DAergic neurodegeneration in PIKE-null
+and Fyn-KO mice than in wild-type mice (Fig. S4 C and D). In
+alignment with the hyperactivation of p-AMPK/p-ACC, the measured ADP/ATP ratio demonstrated that MPTP provoked stronger
+activity in both PIKE-null and Fyn-KO mice than in wild-type mice
+(Fig. S4E). Together, these data suggest that PIKE prevents
+MPTP-induced DAergic neurodegeneration and that Fyn negatively regulates the association between PIKE-L and α-synuclein.
+Therefore, depletion of Fyn stimulates α-synuclein to block the
+interaction between PIKE-L and AMPK, resulting in AMPK
+hyperactivation and the subsequent DAergic neurodegeneration.
+PIKE-L Is Required for DAergic Neuronal Survival in the α-Synuclein
+Transgenic Mouse Model. To interrogate further the pathological
+role of PIKE in PD pathogenesis, we used adeno-associated virus
+(AAV) to overexpress α-synuclein unilaterally in the substantia
+nigra, an established model of nigrostriatal neurodegeneration.
+The contralateral (control) hemisphere was treated with AAV
+expressing GFP. Immunofluorescent analysis of TH immunoreactivity indicated that nigral α-synuclein overexpression resulted in
+significant nigrostriatal denervation in both PIKE-null and Fyn-KO
+mice compared with the GFP-treated contralateral hemisphere
+Fig. 2. PIKE suppresses AMPK phosphorylation and cell death induced by
+α-synuclein. (A) α-Synuclein competes with AMPK for binding to PIKE-L. GFP–
+α-synuclein was transfected into SH-SY5Y cells at different doses (0, 5, 10, and
+15 μg). The binding of AMPK and PIKE-L was examined by immunoprecipitation. (B)
+PIKE mediates AMPK signaling activation induced by α-synuclein. GFP–α-synuclein
+was transfected into SH-SY5Y cells. Twenty-four hours later, the cells were infected with virus overexpressing PIKE, virus expressing PIKE shRNA, or vehicle.
+Forty-eight hours later, phosphorylation of AMPK and ACC was confirmed by
+immunoblotting. (C) Quantitative analysis of the ADP/ATP ratio in these cell lysates and cell media. (D) LDH analysis in these cell lysates and cell media. (E)
+Immunoblotting analysis of lactate-treated cells infected with PIKE-L or its
+shRNA. Cortical neurons were cultured and were infected with AAV–α-synuclein
+at 7 d in vitro and 2 d later were infected with Adeno-PIKE or Adeno–Sh-PIKE
+virus. On the day after Adeno virus infection, cells were treated with lactate (0 or
+20 mM) for 3 d. α-Synuclein, p-S129, p-AMPK/AMPK, PIKE-L, and LC3-II were
+examined by immunoblotting. N.S., nonspecific band. (F) ADP/ATP ratios were
+examined in these lysates and cell media. (G) LDH analysis in these lysates and cell
+media. Data are shown as mean ± SEM (n = 3 each group). *P < 0.05.
+Kang et al. PNAS | January 31, 2017 | vol. 114 | no. 5 | 1185
+NEUROSCIENCE
+(Fig. 4A, Middle and Bottom). Moreover, autophagy (LC3-II
+staining) in the substantia nigra was increased in both PIKE-null
+and Fyn-KO mice (Fig. 4A, Top). Quantitative analysis showed that
+α-synuclein–induced LC3-II was significantly elevated in PIKE-null
+and Fyn-KO mice compared with wild-type mice. Again, the contralateral hemisphere treated with AAV-GFP displayed only a
+basal level of LC3-II, which was not different in any groups (Fig.
+4B). Immunoblotting of substantia nigra lysates demonstrated that
+α-synuclein overexpression induced AMPK/ACC activation in
+wild-type mice. Notably, α-synuclein was clearly phosphorylated at
+S129 (Fig. 4C, Left). By contrast, α-synuclein overexpression in
+PIKE-null mice triggered a higher degree of AMPK/ACC phosphorylation and loss of TH. As expected, we found that S129
+phosphorylation was significantly increased with the hyperactivation of AMPK in the absence of PIKE. Because Fyn blocks
+AMPK activation via both the liver kinase B1 (LKB1) and PIKE
+pathways (27–29), knockout of Fyn led to stronger activation of
+p-AMPK/p-ACC, which was further hyperactivated by α-synuclein.
+S129 phosphorylation was highly elevated in Fyn-KO mice (Fig. 4C,
+Right). Remarkably, autophagy (as measured by LC3-II levels) was
+enhanced by α-synuclein, and the levels of LC3-II showed an incremental increase from wild-type mice to PIKE-null mice and were
+highest in Fyn-null mice, tightly coupled to p-AMPK and p-S129
+signals in all groups (Fig. 4C, Right). Behavioral analysis indicated
+that overexpression of α-synuclein significantly impaired motor
+functions in both PIKE-null and Fyn-KO mice compared with wildtype mice. Moreover, in comparison with GFP, α-synuclein overexpression triggered pronounced motor deficits in both PIKE-null
+and Fyn-KO mice but not in wild-type mice (Fig. 4 D and E). In
+alignment with DAergic neuronal loss, DA and its metabolite
+DOPAC were reduced in the substantia nigra and striatum of
+PIKE-null and Fyn-KO mice as compared with wild-type mice (Fig.
+S5 A–D). Quantitative analysis of TH immunoreactivity in the
+substantia nigra and striatum supported these findings (Fig. S5 E
+and F). Consistent with AMPK activation by α-synuclein overexpression, ADP/ATP ratios were greatly enhanced in wild-type
+mice and were further augmented in PIKE-null and Fyn KO mice
+(Fig. S5G). These findings suggest that hyperactivation of AMPK by
+α-synuclein overexpression in the absence of PIKE or Fyn leads to
+DAergic neuronal loss via autophagy and apoptosis.
+AMPK Activation Mediates DAergic Cell Death Triggered by MPP+.
+MPP+ impairs mitochondrial respiration, resulting in the formation of high levels of reactive oxygen species that ultimately
+lead to apoptosis, necrosis, and autophagy, depending on the
+dose (Fig. S6) (30, 31).
+AMPK Is Required for DAergic Neuronal Loss in the MPTP Mouse
+Model (Fig. S7). Detailed information is supplied in SI Results.
+Also see Figs. S6 and S7.
+The AMPK Signaling Pathway Is Highly Activated in Dementia with
+Lewy Bodies. Our findings suggest that α-synuclein binds PIKE-L
+and sequesters it into Lewy bodies by stripping it away from AMPK,
+leading to hyperactivation of AMPK (and neurodegeneration in
+PD mouse models). To examine whether this hypothesis applies to
+human disease, we evaluated these signaling pathways in brains
+from patients with dementia with Lewy bodies (DLB) after ultracentrifugation. Compared with healthy control brains, PIKE-L
+Fig. 3. MPTP induces AMPK hyperactivation in PIKE−/− and Fyn−/− mice,
+triggering DA neuron autophagy. Wild-type, PIKE-KO, or Fyn-KO mice were
+treated with MPTP two times/wk for 5 wk. (A, Top Row) DAergic neurons
+were greatly decreased by MPTP treatment in PIKE-KO or Fyn-KO substantia
+nigra. Autophagy in the damaged substantia nigra was measured via immunohistochemistry using LC3-II antibody. (Scale bar, 50 μm.) (Middle and
+Bottom Rows) Immunofluorescence with anti-TH shows the reduction of
+DAergic cell bodies in the substantia nigra and striatum of MPTP-injected
+wild-type, PIKE-KO, and Fyn-KO mice compared with saline-injected mice.
+(Scale bar, 200 μm.) (B) Quantification of autophagy. LC3-II+ cells in the
+substantia nigra showed the increased neuronal autophagy in PIKE-KO and
+Fyn-KO mice compared with wild-type mice. (C) MPTP induces p-AMPK and
+LC3-II in PIKE-KO and Fyn-KO mice. The changes in protein levels in substantia nigra lysates from MPTP-treated animals were analyzed by immunoblotting. (D and E) Motor defects in mice were measured by performance
+in the grid (D) and rotarod (E) tests. Data are shown as mean ± SEM (n = 6–8
+mice per group). *P < 0.05, **P < 0.01.
+Fig. 4. α-Synuclein induces AMPK hyperactivation in PIKE−/− and Fyn−/−
+mice, triggering DA neuronal cell death via autophagy. AAV–α-synuclein or
+AAV-GFP was injected into the right substantia nigra of wild-type, PIKE-KO,
+and Fyn-KO mice. The animals were killed 2 mo after vector delivery.
+Overexpression of α-synuclein enhances autophagy in PIKE-KO or Fyn-KO
+mice. (A, Top Row) Autophagy in damaged substantia nigra was shown by
+immunohistochemistry using LC3-II antibody. (Scale bar, 50 μm.) (Middle and
+Bottom Rows) Immunofluorescence with anti-TH showed the reduction of
+DAergic cells in substantia nigra and nigrostriatal terminals in wild-type,
+PIKE-KO, and Fyn-KO mice injected with AAV–α-synuclein compared with
+mice injected with AAV-GFP. (Scale bar, 200 μm.) (B) Quantification of
+autophagy. An increase in LC3-II+ cells in the substantia nigra demonstrates
+increased neuronal autophagy in PIKE-KO and Fyn-KO mice compared with
+wild-type mice. (C) α-Synuclein overexpression induces p-AMPK and autophagy in PIKE-KO and Fyn-KO mice. The changes in protein levels in lysates
+of substantia nigra with overexpressed α-synuclein were analyzed by immunoblotting. (D and E) Motor defects in mice were measured by the cylinder (D) and rotarod (E) tests. Data are shown as mean ± SEM (n = 6–8 mice
+per group). *P < 0.05.
+1186 | www.pnas.org/cgi/doi/10.1073/pnas.1618627114 Kang et al.
+content in the supernatant was reduced in the brains from DLB
+patients compared with control brains; accordingly, its levels were
+increased in the pellet fraction of samples from DLB patients. On
+the other hand, α-synuclein monomer levels were reduced in the
+supernatant of DLB brain samples, but its aggregated/oligomeric
+form was elevated in the pellet (Fig. 5A, First to Fourth). Interestingly, the total level of Fyn was reduced in the DLB brains
+compared with brains from healthy controls. Consistently, p-AMPK/
+p-ACC and α-synuclein p-S129 were significantly enhanced in DLB
+brains compared with controls (Fig. 5A, Fifth through Ninth). As
+expected, levels of the autophagy marker LC3-II were markedly
+higher in DLB brains than in controls. Interestingly, the apoptotic
+marker active caspase-3 was slightly higher in DLB brains than in
+controls (Fig. 5A), indicating that neuronal cell death in synucleinopathies might be caused primarily by AMPK-mediated excessive autophagy combined with neuronal apoptosis. ADP/ATP
+ratios also supported the finding that AMPK was highly activated
+in DLB brains as compared with control brains (Fig. 5 B and C).
+PIKE-L and Fyn were significantly reduced in DLB brains compared with control brains (Fig. 5 D and E). Collectively, our
+in vitro, in vivo, and human patient data support the hypothesis
+that aggregated p-S129 α-synuclein binds strongly to PIKE-L and
+sequesters it into the Lewy bodies. This process, which is negatively regulated by Fyn tyrosine kinase, ultimately leads to AMPK
+hyperactivation and DAergic neurodegeneration.
+Discussion
+In the current report we show that α-synuclein overexpression or
+MPTP administration triggers AMPK/ACC signaling activation,
+leading to the phosphorylation of α-synuclein S129 by activated
+AMPK; that the α-synuclein/PIKE-L association is dependent on
+S129 phosphorylation; and that this action is mediated by AMPKmediated phosphorylation of α-synuclein S129. This result is consistent with previous findings (32) in which McFarland et al. used
+proteomics/mass spectrometry to demonstrate that p-S129 synuclein selectively binds PIKE. Overexpression of PIKE-L represses
+the DAergic neurodegeneration induced by lactate or α-synuclein
+overexpression (Fig. 2). On the other hand, knockout of PIKE-L or
+Fyn leads to AMPK hyperactivation by MPTP or α-synuclein
+overexpression, triggering DAergic neuronal death (Figs. 2–5).
+Conceivably, p-S129 α-synuclein sequesters PIKE-L into the Lewy
+body inclusions. As expected, AMPK signaling is hyperactivated in
+PD brains, inducing extensive autophagy and some degree of apoptosis, as previously reported in human PD brain samples (33).
+Our findings described herein support the following molecular
+model: MPTP and α-synuclein interfere with complex I in the
+electron transport system in the mitochondria (34–36), causing
+mitochondrial dysfunction and the resultant oxidative stress and
+ultimately resulting in energy depletion (elevation of the ADP/ATP
+ratio) and AMPK activation. The activated AMPK phosphorylates
+α-synuclein on S129, elicits its association with PIKE-L, and sequesters it into Lewy bodies. This process subsequently removes
+PIKE-L’s inhibitory effect on AMPK activation, results in a feedforward scenario with increased S129 phosphorylation by AMPK,
+and increases the formation of the α-synuclein/PIKE-L complex.
+This process is further escalated by reduced levels of Fyn, which
+lead to LKB1 activation and concurrent AMPK activation (29). On
+the other hand, diminished Fyn tyrosine kinase disrupts the formation of the PIKE-L/α-synuclein complex. These interrelated
+processes ultimately induce AMPK hyperactivation, triggering
+neurodegeneration via excessive autophagy, accompanied by apoptosis in nigral neurons of PD brains (Fig. 5F). It is worth noting
+that we have reported previously that PIKE binds Akt and elevates
+its kinase activity and that knockout of PIKE diminishes its kinase
+activity (16, 24, 37). Sequestration of PIKE into the Lewy bodies in
+PD may strip PIKE away from both Akt and AMPK, additively
+contributing to neuronal cell death by inhibiting prosurvival signaling from Akt and amplifying the autophagic effects from hyperactive AMPK. Fyn inhibits AMPK activation via both the LKB1
+pathway and the PIKE-L/α-synuclein complex; thus, depletion of
+Fyn exhibits stronger p-AMPK signals than PIKE knockout or
+knockdown alone and results in more severe DAergic neuronal loss
+and motor deficits than seen in PIKE-null mice (Figs. 3–5). To
+discern which form of cell death is mainly responsible for MPP+
+-
+induced AMPK activation in DAergic cells, we found that depletion of either of PIKE-L or Fyn activated AMPK, leading to robust
+autophagy and apoptosis, which could be blocked by dominantnegative AMPK (AMPK-DN). It was notable that the inhibition
+of autophagy in SH-SY5Y DAergic cells triggered by MPP+ via
+3-methyladenine (3-MA) gradually reduced cell death associated
+with LDH release (i.e., necrosis), whereas apoptosis increased
+progressively (Fig. S6). Hence, these findings suggest that AMPK
+might mediate DAergic cell death upon MPP+ treatment primarily
+through excessive autophagy, in keeping with the controversial view
+of apoptosis in PD (38). Accordingly, in PIKE-null and Fyn-KO
+mice, overexpression of AMPK-DN suppressed MPTP-induced
+autophagy in the substantia nigra, leading to improved DAergic
+neuronal survival and motor function (Fig. S7). These findings are
+in agreement with a previous report that blockade of AMPK activation by the expression of AMPK-DN strongly inhibits DA
+neuron atrophy with moderate suppression of apoptosis and that
+overactivation of AMPK conversely strengthens DA neuronal
+degeneration induced by 6-hydroxydopamine (6-OHDA) (39).
+Furthermore, suppression of AMPK activity, either pharmacologically or genetically, exerts neuroprotective effects in cerebral
+ischemia (9, 40). Taken together, our results provide compelling
+evidence supporting the role of AMPK in DAergic cell death in
+Fig. 5. AMPK is hyperactivated in patients with DLB and is associated with
+substantial autophagy in the substantia nigra. (A) PIKE-L is sequestrated by
+α-synuclein into insoluble inclusions in the brains of humans with DLB. The
+changes in PIKE-L, Fyn, and α-synuclein were examined by immunoblotting of
+samples from brains of healthy controls and patients with DLB. Phosphorylation
+of AMPK and ACC was confirmed. Moreover, autophagy and apoptosis were
+verified by immunoblotting of anti–LC3-II and anti-active caspase-3. (B–E)
+Quantitative analysis of ADP/ATP ratios (B), p-AMPK/AMPK (C), PIKE-L (D), and
+Fyn (E) in brains from controls and patients with DLB. The increase in the ADP/
+ATP ratio in patients with DLB was measured in human brain lysates (B). Densitometric analysis of immunoblotting shows the increase in p-AMPK (C) and the
+reduction of PIKE-L (D) and Fyn (E) in DLB tissues compared with controls. Data
+are shown as mean ± SEM (n = 4 each group). *P < 0.05. (F) The schematic model
+demonstrates that α-synuclein and MPTP might induce hyperactivation of AMPK
+and DAergic neuronal death by sequestering PIKE-L so that it cannot inhibit
+AMPK. Solid lines indicate results proved in the present study, and dashed lines
+indicate results from previous studies.
+Kang et al. PNAS | January 31, 2017 | vol. 114 | no. 5 | 1187
+NEUROSCIENCE
+PD pathogenesis. Specifically, α-synuclein overexpression or treatment with neurotoxins elicits AMPK activation, which subsequently
+phosphorylates S129, triggering α-synuclein binding to PIKE-L and
+the sequestration of the latter into Lewy bodies. This action alleviates the inhibitory effect of PIKE-L on AMPK activation, leading to AMPK hyperactivation and DAergic cell loss via excessive
+autophagy in PD.
+Methods
+Animal care and handling were performed according to the Declaration of
+Helsinki and Emory Medical School guidelines. The protocol was reviewed and
+approved by the Emory Institutional Animal Care and Use Committee. Investigators were blinded to the group allocation during the animal experiments.
+Human Tissue Samples. Postmortem brain samples were dissected from
+frozen brains from four control cases (age 71.2 ± 20.2 y, mean ± SEM) and
+four DLB cases (age 73.8 ± 9.3 y, mean ± SEM) from the Emory Alzheimer’s
+Disease Research Center. The study was approved by the biospecimen
+committee of Emory University. DLB cases were clinically diagnosed and
+neuropathologically confirmed.
+In Vitro Aggregation of α-Synuclein. Purified α-synuclein protein (rPeptide,
+5 mg/mL) was first incubated with vehicle or the PH domain of PIKE for 1 h
+and was dialyzed against PBS, pH 7.0. The samples were incubated at 37 °C
+with continuous shaking for 3 d. The aggregation kinetics of α-synuclein was
+measured using Thioflavin T staining. The remaining solutions of aggregated
+α-synuclein were centrifuged at 100,000 × g for 30 min to separate the
+aggregated α-synuclein pellet and nonaggregated α-synuclein supernatant
+and were analyzed by Western blot.
+MPTP Injection. MPTP (15 mg/kg) was injected s.c., and probenecid (250 mg/kg),
+a MPTP clearance inhibitor, was injected i.p. 10 times (every 3.5 d for 5 wk) to
+five groups: wild-type mice (n = 7), PIKE-KO mice (n = 7), Fyn-KO mice (n = 8),
+wild-type mice injected with AMPK-DN ( n = 8), and Fyn-KO mice injected with
+AMPK-DN (n = 8). Control mice for each group (n = 8 in each group) received
+saline s.c. and probenecid MPTP i.p.
+Cell Quantification. The number of TH+ cells in the substantia nigra and
+striatum was estimated by ImageJ software using fluorescence intensity. For
+each animal, three consecutive sections of the substantia nigra and striatum
+were analyzed. For quantification of LC3-II+ cells, the stained color was selected and set to the proper threshold for the binarization of the selected
+color image. The total number of immunoreactive neurons was analyzed using
+the same threshold (ImageJ). The investigator was blinded to the conditions of
+the analysis.
+Statistical Analysis. Statistical analysis was performed using either Student’s
+t test (for two-group comparisons) or one-way ANOVA followed by the least
+significant difference post hoc test (for comparisons of more than two groups).
+Differences with P values less than 0.05 were considered significant.
+ACKNOWLEDGMENTS. We thank Dr. Zhijun Luo at Boston University for the
+lentivirus construct of dominant-negative AMPK. This work was supported by
+Grant 11137 from the Michael J. Fox Foundation (to K.Y.).
+1. Olanow CW, Brundin P (2013) Parkinson’s disease and alpha synuclein: Is Parkinson’s
+disease a prion-like disorder? Mov Disord 28(1):31–40.
+2. Ellis CE, Schwartzberg PL, Grider TL, Fink DW, Nussbaum RL (2001) alpha-synuclein is
+phosphorylated by members of the Src family of protein-tyrosine kinases. J Biol Chem
+276(6):3879–3884.
+3. Nakamura T, Yamashita H, Takahashi T, Nakamura S (2001) Activated Fyn phosphorylates alpha-synuclein at tyrosine residue 125. Biochem Biophys Res Commun
+280(4):1085–1092.
+4. Okochi M, et al. (2000) Constitutive phosphorylation of the Parkinson’s disease associated alpha-synuclein. J Biol Chem 275(1):390–397.
+5. Jiang P, et al. (2013) Adenosine monophosphate-activated protein kinase overactivation
+leads to accumulation of α-synuclein oligomers and decrease of neurites. Neurobiol
+Aging 34(5):1504–1515.
+6. Chen L, et al. (2009) Tyrosine and serine phosphorylation of alpha-synuclein have opposing effects on neurotoxicity and soluble oligomer formation. J Clin Invest 119(11):
+3257–3265.
+7. Woods A, et al. (2000) Characterization of the role of AMP-activated protein kinase in
+the regulation of glucose-activated gene expression using constitutively active and
+dominant negative forms of the kinase. Mol Cell Biol 20(18):6704–6711.
+8. Weisová P, et al. (2011) Role of 5′-adenosine monophosphate-activated protein kinase in
+cell survival and death responses in neurons. Antioxid Redox Signal 14(10):1863–1876.
+9. McCullough LD, et al. (2005) Pharmacological inhibition of AMP-activated protein
+kinase provides neuroprotection in stroke. J Biol Chem 280(21):20493–20502.
+10. Ju TC, et al. (2011) Nuclear translocation of AMPK-alpha1 potentiates striatal neurodegeneration in Huntington’s disease. J Cell Biol 194(2):209–227.
+11. Lopez-Lopez C, Dietrich MO, Metzger F, Loetscher H, Torres-Aleman I (2007) Disturbed cross talk between insulin-like growth factor I and AMP-activated protein
+kinase as a possible cause of vascular dysfunction in the amyloid precursor protein/
+presenilin 2 mouse model of Alzheimer’s disease. J Neurosci 27(4):824–831.
+12. Ross JM, et al. (2010) High brain lactate is a hallmark of aging and caused by a shift in
+the lactate dehydrogenase A/B ratio. Proc Natl Acad Sci USA 107(46):20087–20092.
+13. Bowen BC, et al. (1995) Proton MR spectroscopy of the brain in 14 patients with
+Parkinson disease. AJNR Am J Neuroradiol 16(1):61–68.
+14. Koga K, et al. (2006) H MRS identifies lactate rise in the striatum of MPTP-treated
+C57BL/6 mice. Eur J Neurosci 23(4):1077–1081.
+15. Chen JL, et al. (2010) Lactic acidosis triggers starvation response with paradoxical
+induction of TXNIP through MondoA. PLoS Genet 6(9):e1001093.
+16. Ye K, Snyder SH (2004) PIKE GTPase: A novel mediator of phosphoinositide signaling.
+J Cell Sci 117(Pt 2):155–161.
+17. Ye K (2005) PIKE/nuclear PI 3-kinase signaling in preventing programmed cell death.
+J Cell Biochem 96(3):463–472.
+18. Chan CB, Ye K (2010) Multiple functions of phosphoinositide-3 kinase enhancer
+(PIKE). Sci World J 10:613–623.
+19. Ye K, et al. (2000) Pike. A nuclear gtpase that enhances PI3kinase activity and is
+regulated by protein 4.1N. Cell 103(6):919–930.
+20. Ye K, et al. (2002) Phospholipase C gamma 1 is a physiological guanine nucleotide
+exchange factor for the nuclear GTPase PIKE. Nature 415(6871):541–544.
+21. Rong R, et al. (2003) PI3 kinase enhancer-Homer complex couples mGluRI to PI3 kinase, preventing neuronal apoptosis. Nat Neurosci 6(11):1153–1161.
+22. Tang X, et al. (2008) Netrin-1 mediates neuronal survival through PIKE-L interaction
+with the dependence receptor UNC5B. Nat Cell Biol 10(6):698–706.
+23. Liu Z, et al. (2008) Neuroprotective actions of PIKE-L by inhibition of SET proteolytic
+degradation by asparagine endopeptidase. Mol Cell 29(6):665–678.
+24. Chan CB, et al. (2011) Phosphoinositide 3-kinase enhancer regulates neuronal dendritogenesis and survival in neocortex. J Neurosci 31(22):8083–8092.
+25. Chan CB, et al. (2012) Essential role of PIKE GTPases in neuronal protection against
+excitotoxic insults. Adv Biol Regul 52(1):66–76.
+26. Chan CB, et al. (2014) PIKE is essential for oligodendroglia development and CNS
+myelination. Proc Natl Acad Sci USA 111(5):1993–1998.
+27. Zhang S, et al. (2016) Fyn-phosphorylated PIKE-A binds and inhibits AMPK signaling,
+blocking its tumor suppressive activity. Cell Death Differ 23(1):52–63.
+28. Chan CB, et al. (2010) Deficiency of phosphoinositide 3-kinase enhancer protects mice
+from diet-induced obesity and insulin resistance. Diabetes 59(4):883–893.
+29. Yamada E, Pessin JE, Kurland IJ, Schwartz GJ, Bastie CC (2010) Fyn-dependent regulation of energy expenditure and body weight is mediated by tyrosine phosphorylation of LKB1. Cell Metab 11(2):113–124.
+30. Przedborski S, Jackson-Lewis V (1998) Mechanisms of MPTP toxicity. Mov Disord 13
+(Suppl 1):35–38.
+31. Nicotra A, Parvez SH (2000) Cell death induced by MPTP, a substrate for monoamine
+oxidase B. Toxicology 153(1-3):157–166.
+32. McFarland MA, Ellis CE, Markey SP, Nussbaum RL (2008) Proteomics analysis identifies
+phosphorylation-dependent alpha-synuclein protein interactions. Mol Cell Proteomics
+7(11):2123–2137.
+33. Anglade P, et al. (1997) Apoptosis and autophagy in nigral neurons of patients with
+Parkinson’s disease. Histol Histopathol 12(1):25–31.
+34. Nicklas WJ, Vyas I, Heikkila RE (1985) Inhibition of NADH-linked oxidation in brain
+mitochondria by 1-methyl-4-phenyl-pyridine, a metabolite of the neurotoxin,
+1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine. Life Sci 36(26):2503–2508.
+35. Nicklas WJ, Youngster SK, Kindt MV, Heikkila RE (1987) MPTP, MPP+ and mitochondrial function. Life Sci 40(8):721–729.
+36. Devi L, Raghavendran V, Prabhu BM, Avadhani NG, Anandatheerthavarada HK (2008) Mitochondrial import and accumulation of alpha-synuclein impair complex I in human dopaminergic neuronal cultures and Parkinson disease brain. J Biol Chem 283(14):9089–9100.
+37. Ahn JY, Hu Y, Kroll TG, Allard P, Ye K (2004) PIKE-A is amplified in human cancers and
+prevents apoptosis by up-regulating Akt. Proc Natl Acad Sci USA 101(18):6993–6998.
+38. Yasuda T, Nakata Y, Mochizuki H (2013) α-Synuclein and neuronal cell death. Mol
+Neurobiol 47(2):466–483.
+39. Kim TW, et al. (2013) (ADP-ribose) polymerase 1 and AMP-activated protein kinase
+mediate progressive dopaminergic neuronal degeneration in a mouse model of
+Parkinson’s disease. Cell Death Dis 4:e919.
+40. Li J, Zeng Z, Viollet B, Ronnett GV, McCullough LD (2007) Neuroprotective effects of
+adenosine monophosphate-activated protein kinase inhibition and gene deletion in
+stroke. Stroke 38(11):2992–2999.
+41. Hu Y, Liu Z, Ye K (2005) Phosphoinositol lipids bind to phosphatidylinositol 3 (PI3)-kinase
+enhancer GTPase and mediate its stimulatory effect on PI3-kinase and Akt signalings.
+Proc Natl Acad Sci USA 102(46):16853–16858.
+42. Jackson-Lewis V, Jakowec M, Burke RE, Przedborski S (1995) Time course and morphology
+of dopaminergic neuronal death caused by the neurotoxin 1-methyl-4-phenyl-1,2,3,6-
+tetrahydropyridine. Neurodegeneration 4(3):257–269.
+43. Benskey MJ, et al. (2016) Continuous collection of Adeno-Associated Virus from
+producer cell medium significantly increases total viral yield. Hum Gene Ther Methods
+27(1):32–45.
+1188 | www.pnas.org/cgi/doi/10.1073/pnas.1618627114 Kang et al.

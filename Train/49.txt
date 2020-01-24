@@ -1,0 +1,806 @@
+DNA methylation in the gene body influences
+MeCP2-mediated gene repression
+Benyam Kindea
+, Dennis Y. Wub
+, Michael E. Greenberga,1, and Harrison W. Gabelb,1
+a
+Department of Neurobiology, Harvard Medical School, Boston, MA 02115; and b
+Department of Neuroscience, Washington University School of Medicine,
+St. Louis, MO 63110
+Contributed by Michael E. Greenberg, November 21, 2016 (sent for review June 22, 2016; reviewed by Anne Brunet and Li-Huei Tsai)
+Rett syndrome is a severe neurodevelopmental disorder caused by
+mutations in the methyl-CpG binding protein gene (MECP2). MeCP2
+is a methyl-cytosine binding protein that is proposed to function as
+a transcriptional repressor. However, multiple gene expression studies comparing wild-type and MeCP2-deficient neurons have failed to
+identify gene expression changes consistent with loss of a classical
+transcriptional repressor. Recent work suggests that one function of
+MeCP2 in neurons is to temper the expression of the longest genes
+in the genome by binding to methylated CA dinucleotides (mCA)
+within transcribed regions of these genes. Here we explore the
+mechanism of mCA and MeCP2 in fine tuning the expression of long
+genes. We find that mCA is not only highly enriched within
+the body of genes normally repressed by MeCP2, but also enriched
+within extended megabase-scale regions surrounding MeCP2-repressed
+genes. Whereas enrichment of mCA exists in a broad region around
+these genes, mCA together with mCG within gene bodies appears to
+be the primary driver of gene repression by MeCP2. Disruption of
+methylation at CA sites within the brain results in depletion of
+MeCP2 across genes that normally contain a high density of genebody mCA. We further find that the degree of gene repression by
+MeCP2 is proportional to the total number of methylated cytosine
+MeCP2 binding sites across the body of a gene. These findings suggest a model in which MeCP2 tunes gene expression in neurons by
+binding within the transcribed regions of genes to impede the elongation of RNA polymerase.
+DNA methylation | Rett syndrome | MeCP2 | transcription
+Rett syndrome (RTT) is a severe neurodevelopmental disorder
+characterized by developmental stagnation and regression,
+stereotyped hand movements, seizures, and autism spectrum-like
+behavior (1). RTT is caused by mutations in the gene encoding the
+methyl-CpG binding protein 2 (MECP2) (1), and the monogenic
+nature of RTT provides the unique opportunity to investigate the
+molecular basis of a complex human neurodevelopmental disorder. One particularly useful approach for studying RTT has been
+to generate mouse models that harbor RTT-causing mutations in
+MeCP2. These RTT-like mice recapitulate many features of RTT
+seen in humans, displaying defects in neural circuit excitatory–
+inhibitory balance, increased incidence of seizures, motor discoordination, and breathing abnormalities (2, 3).
+The onset of symptoms in girls with RTT and in mouse models of
+the disorder occurs during a period of postnatal brain development
+in which MeCP2 accumulates to exceedingly high levels in neurons
+of the brain, such that the number of MeCP2 molecules in neurons
+approaches the number of nucleosomes in adult neuronal nuclei (4).
+Whereas MeCP2 is expressed to some extent in most cells of the
+body, MeCP2 protein levels are approximately sevenfold higher in
+neurons (4). Brain-specific disruption of MeCP2 is sufficient to cause
+the vast majority of RTT-like phenotypes in mice, providing evidence
+that RTT is predominantly a disorder of neuronal dysfunction (2, 3).
+Key molecular functions of MeCP2 have been highlighted by the
+observation that RTT-causing mutations largely cluster into two
+functional domains: the methyl-DNA binding domain (MBD) and
+the transcriptional repressor domain (TRD) (5). Bird and colleagues first identified MeCP2 on the basis of its high-affinity
+binding to DNA containing mCG sequences and identified the
+MBD of MeCP2 as essential for the high-affinity interaction between MeCP2 and methylcytosine (6, 7). For many years methylation of cytosines in the CpG dinucleotide context (mCG) has been
+thought to represent the majority of DNA methylation in mammalian cells and to be the major site of MeCP2 binding in neurons.
+It has recently been shown that in the brain, high levels of nonCG methylation (predominantly mCA) also contribute to the
+neuronal “methylome,” with the number of mCA sites at late
+stages of neuronal maturation approaching the number of mCG
+sites (8–10). We, and others, have recently investigated whether
+MeCP2 binds mCA sites and demonstrated that MeCP2 binds to
+mCA and symmetrically methylated CG with similarly high affinity
+(9, 11, 12). Thus, the number of possible sites of MeCP2 binding in
+neurons increases significantly as mCA is laid down in the postnatal period. Given that the mCA mark is deposited at the time
+that MeCP2 levels increase postnatally, and when the phenotype of
+RTT syndrome is first observed in MeCP2 mutant mice, it has
+been suggested that the disruption of MeCP2 binding to mCA in
+neurons may be a key event in the etiology of RTT. Consistent with
+this possibility, mutations that disrupt the function of Dnmt3a, the
+de novo methyltransferase enzyme responsible for depositing mCA
+in the brain, results in severe neurological deficits in mice that are
+reminiscent of phenotypes observed in MeCP2 KO mice (13).
+Furthermore, mutations in DNMT3A have been linked to intellectual disability and autism spectrum disorder in humans (14).
+Considerable evidence supports the conclusion that when bound
+to mC sequences, MeCP2 functions as a repressor of transcription.
+Biochemical studies have demonstrated that the TRD of MeCP2
+interacts with NCoR/SMRT and Sin3a corepressor complexes (5,
+15). Notably, one of the most common non-MBD MeCP2 missense
+Significance
+Mutations in the methyl-CpG binding protein 2 (MECP2) lead to
+the severe neurological disorder Rett syndrome, but our understanding of how MeCP2 regulates gene expression in the brain
+has been limited. Recently we uncovered evidence that MeCP2
+controls transcription of very long genes with critical neuronal
+functions by binding a unique form of DNA methylation, enriched
+in neurons. Here, we provide evidence that MeCP2 represses
+transcription by binding within transcribed regions of genes. We
+show that this repressive effect is proportional to the total number of methylated DNA binding sites for MeCP2 within each gene.
+Our findings suggest a model in which MeCP2 represses transcription of long neuronal genes that contain many methylated
+binding sites by impeding transcriptional elongation.
+Author contributions: B.K., M.E.G., and H.W.G. designed research; B.K., D.Y.W., and
+H.W.G. performed research; B.K., D.Y.W., and H.W.G. analyzed data; and B.K., M.E.G., and
+H.W.G. wrote the paper.
+Reviewers: A.B., Stanford University; and L.-H.T., Massachusetts Institute of Technology.
+The authors declare no conflict of interest.
+Data deposition: The data reported in this paper have been deposited in Gene Expression
+Omnibus (GEO) database, www.ncbi.nlm.nih.gov/geo (accession no. GSE90704).
+1
+To whom correspondence may be addressed. Email: gabelh@wustl.edu or michael_
+greenberg@hms.harvard.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1618737114/-/DCSupplemental.
+15114–15119 | PNAS | December 27, 2016 | vol. 113 | no. 52 www.pnas.org/cgi/doi/10.1073/pnas.1618737114
+mutations that leads to RTT, MeCP2 R306C, disrupts the interaction between MeCP2 and NCoR, suggesting that a key
+function of MeCP2 is to mediate transcriptional repression (5, 16).
+Despite evidence that MeCP2 functions as a silencer of transcription, identifying the specific targets of MeCP2 has proven to
+be difficult both because MeCP2 binds broadly across the entire
+neuronal genome (4, 12, 17, 18), and because the changes in
+gene expression that occur in the absence of MeCP2 are small
+(11, 12, 17, 19–23). These unique challenges have made it difficult to identify which changes in gene expression in the absence
+of MeCP2 are direct consequences of MeCP2 loss and which are
+secondary effects of overall cellular dysfunction.
+As a strategy for identifying the direct targets of MeCP2 action, we recently sought to identify common features of genes
+that might distinguish whether or not a gene will be misregulated
+as a direct consequence of the absence of MeCP2. These analyses revealed that at a genome-wide level, MeCP2 functions to
+temper the expression of genes in a gene-length–associated
+manner, possibly by binding to mCA sequences within the
+transcribed region of these genes (12). Consistent with this idea,
+the disruption of MeCP2 or Dnmt3a leads to up-regulation of
+long genes that contain a high density of mCA. Notably, the
+longer the gene the greater the extent of up-regulation that occurs in the absence of MeCP2 or Dnmt3a. Together with other
+recent studies indicating that both gene length and non-CG
+DNA methylation are associated with gene regulation by MeCP2
+(11, 23), these findings suggest that MeCP2 acts at least in part as
+a transcriptional repressor by functioning through brain-enriched
+mCA to temper the expression of long genes in the brain.
+Despite this recent progress in identifying putative direct targets
+of MeCP2, several key gaps in knowledge remain. Whereas MeCP2
+binding to mCA sequences appears to be critical to MeCP2-
+dependent repression of gene transcription, this binding has not
+been established unequivocally. Furthermore, whereas our initial
+studies point to the binding of MeCP2 within genes as important for
+transcriptional regulation, the sites of functionally relevant MeCP2
+binding—for example, whether they are at enhancers, promoters,
+and/or within the transcribed region of genes—remained to be
+determined. In the present study, we examine the patterns of DNA
+methylation across genes and provide evidence that the degree of
+repression experienced by each gene is proportional to the total
+number of MeCP2 binding sites within the transcribed region of the
+gene. Taken together, these findings support a model in which
+MeCP2 binds to methylated cytosines within gene bodies with high
+affinity to temper gene expression, with the extent of gene repression by MeCP2 being related to the total number of MeCP2 molecules bound across a gene.
+In addition to its role as a repressor of gene expression,
+MeCP2 may function as an activator of transcription. Consistent
+with this idea, many genes are down-regulated when MeCP2
+function is perturbed and MeCP2 has been reported to interact
+with the cAMP response element binding protein (CREB), a
+neuronal stimulus-dependent activator of gene transcription
+(19). Despite these findings, when we examined features of the
+genes that are down-regulated when MeCP2 function is disrupted, such as their length, density of mCA and mCG, and the
+extent of MeCP2 binding, these MeCP2-activated genes were
+largely indistinguishable from similarly expressed genes whose
+transcription is unaffected when MeCP2 is mutated. Taken together, these findings suggest that when bound to mCA, MeCP2
+may function primarily as a repressor of gene expression.
+Results
+mCA and MeCP2 Binding Are Enriched in and Around MeCP2-Repressed
+Genes. We have previously shown that genes whose expression is
+up-regulated when MeCP2 function is disrupted are significantly
+longer than the typical gene and contain a higher density of mCA
+within their gene bodies than genes compared with the typical
+gene in the genome (12). However, it is not known if the high
+density of methylation of CA sites occurs specifically within the
+transcribed regions of long genes or if this mark is laid down more
+broadly across the genome. In the latter case, mCA would be
+predicted to recruit MeCP2 throughout the broad domain of
+mCA and could potentially repress the transcription of genes that
+happen to reside within the mCA domain. At these sites, MeCP2
+might function as a classical repressor that inhibits transcription by
+binding to specific noncoding regulatory sequences or by compacting the DNA throughout broad genomic domains. Alternatively, binding of MeCP2 within the gene body might function
+to retard the movement of the RNA polymerase II complex.
+To begin to explore these possibilities, we examined the DNA
+methylation (mCG and mCA) and MeCP2 binding profiles in and
+around genes that have been consistently implicated as repressed
+or activated by the presence of MeCP2 across multiple studies
+(12), comparing these profiles to the average profiles for all other
+genes in the genome. For this analysis, we calculated mCA or
+mCG levels as the number of unconverted cytosines sequenced
+during whole genome bisulfite sequencing analysis (8) within a
+1-kb window of the genome divided by the total number of cytosine positions sequenced within that window; we then plotted the
+average values for windows across gene loci (SI Experimental
+Procedures). To assess MeCP2 binding we plotted the average
+value of the MeCP2 ChIP divided by the input for 1-kb windows
+across gene loci. Notably, this analysis revealed that genes that are
+repressed by MeCP2 are enriched for mCA and MeCP2 binding,
+not only within the body of the gene, but also as far away from the
+transcribed region as several megabases 5′ of the transcriptional
+start site (TSS) and 3′ of the transcriptional end site (TES) (Fig. 1).
+This broad binding of MeCP2 is consistent with several distinct
+models of MeCP2 function. MeCP2 might regulate chromatin
+structure across the broad mCA domain, leading to silencing of
+transcription within the entire domain. Alternatively, although
+MeCP2 binds throughout the mCA domain, it could function selectively as a repressor at specific regulatory elements or within the
+transcribed region to temper transcriptional elongation.
+To further explore these possibilities, we analyzed the mCA
+and mCG content across the length of broad mCA-enriched
+domains that encompass genes to determine whether there is a
+correlation between the degree of gene up-regulation in the
+absence of MeCP2 and the presence of mCA sequences within
+the 5′ flank, transcribed region, or 3′ flanking region of the gene.
+By calculating the Spearman correlation for 1-kb bins of DNA
+methylation in and around genes, we found that gene-body mCA
+is most highly correlated with an up-regulation of gene expression in the absence of MeCP2 compared with the TSS, 5′ or 3′
+flanking regions mCA (Fig. 1D). This suggests that the greater
+the level of gene-body mCA across a gene, the greater the extent
+of gene up-regulation that occurs in the absence of MeCP2,
+highlighting an intimate link between gene-body mCA content
+and the function of MeCP2 as a repressor that tempers gene
+transcription within the transcribed regions of long genes.
+As a further test of the idea that an enrichment of gene-body
+mCA within genes is a reliable predictor that a given gene will be
+repressed by MeCP2, we asked if the broad domain (400 kb)
+encompassing short genes (<7 kb) was predictive of gene upregulation to a similar extent as gene-body mCA within long genes
+(>100 kb). If the level of mCA in the region in or around a gene,
+rather than gene-body methylation per se, determines the extent
+of repression by MeCP2, one might predict that short genes embedded within a broad domain of high-density mCA would be upregulated in the absence of MeCP2. However, we find that short
+genes within a large domain of high-density mCA are not significantly up-regulated when MeCP2 function is disrupted (Fig. S1).
+This finding suggests that methylation of broad domains of CA
+sequences around genes (i.e., within their 5′ and 3′ flanking regions) is not sufficient to impose regulation by MeCP2 on a gene;
+rather, the methylation must occur within a broad region of the
+gene itself for MeCP2 to exert an effect. Together, this analysis
+suggests that whereas genes that are repressed by MeCP2 are
+enriched for mCA within their 5′ flanking, transcribed, and 3′
+flanking regions, the transcriptional repressive effects of MeCP2
+Kinde et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15115
+NEUROSCIENCE
+are likely due to the binding of MeCP2 to methylated DNA within
+the transcribed region of the gene.
+Gene-Body mCA Is Critical for the Binding and Function of MeCP2. To
+test directly the requirement of mCA for gene repression by
+MeCP2, we used mice that lack mCA in the brain due to brainspecific conditional knockout (KO) of Dnmt3a (Nestin-Cre; Dnmt3a
+flx/flx, referred to as Dnmt3a cKO mice), the de novo methyltransferase that catalyzes the addition of a methyl group to cytosines within CA sequences during early postnatal development
+(12). To assess the influence of gene-body mCA on the distribution of MeCP2, we conducted MeCP2 ChIP sequencing (ChIPseq) from the cortex of Dnmt3a cKO and littermate control mice.
+Whereas the amount of MeCP2 expressed in the cortex of
+Dnmt3a cKO and control mice are similar (12), ChIP-seq analysis
+reveals that in the Dnmt3a cKO cortex, MeCP2 is preferentially
+depleted from genes that normally contain a high density of genebody mCA in control mice (Fig. 2). These findings suggest that
+gene-body mCA is critical for the binding of MeCP2 within the
+transcribed regions of genes. Consistent with this observation, we
+have observed that long genes containing a high density of genebody mCA are up-regulated in Dnmt3a cKO mice (12), thus
+phenocopying the misregulation of gene expression observed in
+mice lacking MeCP2. We conclude that mCA within gene bodies
+recruits MeCP2, which in turn functions to suppress the transcription of long genes. We note, however, that binding of MeCP2
+across the genome was not completely abolished by disruption of
+mCA in the brain (Fig. 2), suggesting that MeCP2 likely has mCGdependent as well as methylation-independent modes of binding
+in addition to its interaction with mCA.
+MeCP2-Mediated Gene Repression Is Proportional to the Total Number
+of MeCP2 Binding Sites Within the Body of a Gene. Previously we have
+observed that both gene-body mCA density and gene length are
+correlated with gene repression by MeCP2, with long genes containing a high density of mCA showing the highest degree of
+derepression in the MeCP2 KO (12). In addition, we observe a
+correlation between fold change in gene expression in the MeCP2
+KO compared with wild type (WT) and the density of MeCP2
+ChIP signal within long genes (Fig. S2). These findings led us to
+A
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+mCA/CA
+0.0
+0.2
+0.4
+0.6
+0.8
+0.0
+0.2
+0.4
+0.6
+0.8
+mCG/CG mCG/CG
+B
+−0.8
+−0.6
+−0.4
+−0.2
+0.0
+0.2
+−0.8
+−0.6
+−0.4
+−0.2
+0.0
+0.2
+log2 MeCP2 ChIP/Input log2 MeCP2 ChIP/Input
+C
+0.00
+0.01
+0.02
+0.03
+0.04
+0.05
+mCA/CA
+−6mb
+−4mb
+−2mb
++2mb
++4mb
++6mb
+−50kb
++50kb
+mCA/CA
+Metagene
+−1mb to −50kb
+−50kb to −1bp
+promoter
+gene
+0.00
+0.02
+0.04
+0.06
++50kb to −1bp
++1mb to −50kb
+−50kb
+TSS
+TES
++50kb
+Metagene
+−6mb
+−4mb
+−2mb
++2mb
++4mb
++6mb
+mCG/CG
+−1mb to −50kb
+−50kb to −1bp
+promoter
+gene
+0.00
+0.20
+0.40
+0.60
++50kb to −1bp
++1mb to −50kb
+0.80
+1.00
+MeCP2-repressed genes MeCP2-activated genes All other genes
+−6mb
+−4mb
+−2mb
++2mb
++4mb
++6mb
+−50kb
++50kb
+Metagene
+−1mb to −50kb
+−50kb to −1bp
+promoter
+gene
++50kb to −1bp
++1mb to −50kb
+log2 MeCP2 ChIP/Input
++1
+0
+−2
+−1
+TSS
+TES
+TSS
+TES
++5kb
++5kb
++5kb
+D
+mCA/CA mCG/CG
+−0.05
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+−0.05
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+−50kb
+TSS
+TES
++50kb
+−1000kb
++1000kb
+Spearman Correlation Spearman Correlation
++75kb
+TSS
+TES
+Fig. 1. Relationship between genomic DNA methylation profiles, MeCP2 binding, and MeCP2-mediated gene regulation. (A–C) Plot of mean signal for mCA (A),
+mCG (B), or MeCP2 ChIP (C) density in the flanking 50 kb (Top) or 6 Mb (Middle) region around TSS and TES of MeCP2-activated genes (blue), MeCP2-repressed
+genes (red), and all other genes (black). To represent signal in genes of differing sizes the “metagene” region (gray) shows the average signal from +5 kb
+downstream of the TSS to the TES in 100 equally sized bins per gene. Boxplots (Bottom) show the distributions of levels for mCA, mCG, and MeCP2 for promoters,
+gene bodies, and flanking regions. Methylation density was calculated from analysis of bisulfite sequencing data in ref. 8. mCA/CA and mCG/CG are calculated as
+the number of nonconverted cytosines divided by the total number of cytosines sequenced in the CA or CG dinucleotide sequence context within 1-kb bins.
+MeCP2 ChIP density was calculated as the log2 fold change of MeCP2 ChIP-seq coverage relative to input coverage from the reanalysis of data in ref. 11. In A–C,
+analysis was restricted to genes >5 kb to avoid confounding affects of promoter mC depletion when analyzing the TES. Similar qualitative results were observed
+when including all genes. (D) Spearman correlation between mCA and mCG density in 1-kb bins in and around genes and gene misregulation in the MeCP2 KO
+cerebral cortex. Spearman correlation was calculated between this methylation density (8) and the log2 fold change in gene expression of MeCP2 KO vs. WT cortex
+(12). Data are plotted from 50 kb upstream to 75 kb downstream of the TSS and 50 kb downstream of the TES. In D, analysis was restricted to genes >75 kb to
+allow for inclusion of the gene body; similar results with lower correlation values are observed when analyzing all genes.
+15116 | www.pnas.org/cgi/doi/10.1073/pnas.1618737114 Kinde et al.
+consider the possibility that the total number of MeCP2 binding
+sites across the body of a gene might best determine the extent of
+repression exerted by MeCP2. In considering this possibility, we
+included both mCA and mCG in the analysis, reasoning that even
+though mCG density does not correlate with changes in gene
+expression, it remains the case that mCG binds MeCP2 with high
+affinity, and thus the number of mCG and mCA sequences within
+a gene is likely the most accurate estimate of the number of
+MeCP2 binding sites within a gene. Thus, we calculated the total
+number of MeCP2 binding sites across the body of genes, summing the partial methylation frequency at each CG and CA and
+examining the degree to which this value correlates with gene
+repression relative to gene length or methylation density alone.
+Consistent with previous findings, we observed that gene length
+and gene-body mCA density, but not mCG density, are correlated
+with the gene misregulation in MeCP2 KO mice (Spearman r: 0.12
+for gene length, 0.12 for mCA density, and −0.007 for mCG density). However, the total number of mCA and mCG sites present
+across the body of genes is slightly more correlated with gene
+misregulation than either gene length or mCA density alone
+(Spearman r: 0.14 for total mCA, 0.14 for total mCG, and 0.14 for
+total mCA and mCG). Notably, the correlation between gene
+misregulation and total MeCP2 binding sites was stronger for very
+long genes (genes > 100 kb, Spearman r: 0. 28 for total mCA, 0. 25
+for total mCG, and 0.27 for total mCA and mCG; genes > 400 kb,
+Spearman r: 0.52 for total mCA, 0.53 for total mCG, and 0.56 for
+total mCA and mCG), suggesting more robust detection of these
+effects for genes with many mC sites. Visulization of the change in
+gene expression in the MeCP2 KO compared with WT as a
+function of the total number of mCA and mCG sites per gene
+showed that the repression of genes by MeCP2 appears to be
+continuous and proportional to the total number of mCA and
+mCG sites within the gene, with no clear minimum threshold
+number of sites required for the effect (Fig. 3A).
+Given that gene length and the total number of mCG and mCA
+sites across the body of a gene are highly correlated (Spearman r:
+0.96), we next sought to determine whether the total number of
+methylation sites is significantly correlated with the degree of gene
+up-regulation in the absence of MeCP2 under conditions where
+the correlation between gene length and gene misregulation is
+excluded. By binning all genes in the genome by total mCA and
+mCG counts per gene, we assessed the extent of length-dependent
+gene up-regulation of a population of genes that fall within a restricted range of total mCA and mCG counts per gene. In this
+way, a relationship between MeCP2-mediated gene repression
+(i.e., genome-wide up-regulation) and gene length can be effectively
+isolated away from an effect attributable to the total number of
+sites per gene, despite the normally strong correlation between the
+total number of mCA and mCG sites per gene and gene length.
+This analysis failed to reveal an association between gene length
+and the degree of gene up-regulation in the absence of MeCP2
+when examining a set of genes that have a similar number of total
+mCA and mCG sites within the body of genes (Fig. 3B). In contrast, examination of a population of genes in which the variation
+in gene length was restricted revealed that the degree of gene upregulation correlated with the total number of mCA and mCG
+sites across the body of a gene (Fig. 3C), suggesting that the total
+number of mCA and mCG sites across the body of a gene best
+predicts gene up-regulation in the absence of MeCP2. These results were robust to the particular set of genes that was selected, as
+similar results were observed when analyzing gene populations
+over a range of restricted-length windows or restricted total mCA
+and mCG windows (Fig. S3). In addition, our findings were confirmed using partial correlation analysis, which demonstrated that
+0.01
+0.03
+0.05
+0.07
+Gene-body mCA/CA
+−0.2
+−0.1
+0.0
+0.1
+0.2
+log2 MeCP2 ChIP/Input
+0.02
+0.04
+0.06
+0.08
+Dnmt3a cKO
+Control
+Fig. 2. Disruption of Dnmt3a in the brain results in a mCA-associated depletion of MeCP2. MeCP2 ChIP-seq analysis of the cerebral cortex from
+Dnmt3a cKO (Nestin-Cre; Dnmt3a flx/flx, red) and littermate controls
+(Dnmt3a flx/flx, gray). The mean log2 fold change of MeCP2 ChIP coverage
+relative to input coverage in gene bodies was calculated for genes binned
+according to gene-body mCA/CA levels (200 genes per bin, 40 gene steps).
+Methylation data (from ref. 8) of the cerebral cortex was used for this
+analysis.
+2.8 2.9 3.0 3.1 3.2 3.3
+3.5 4.5 5.5 6.5
+0.0
+0.2
+0.4
+0.6
+0.8
+Log10
+gene length
+Density
+Log10 mean total
+mCA and mCG per gene
+4.9 5.0 5.1 5.2 5.3
+−0.05
+0.00
+0.05
+0.10
+0.15
+Log2 mRNA fold-change
+MeCP2 KO/WT
+0
+0.0
+0.2
+0.4
+0.6
+Log10 total
+mCA and mCG per gene
+Density
+123 4
+−0.05
+0.00
+0.05
+0.10
+0.15
+Log2 mRNA fold-change
+MeCP2 KO/WT
+Log10 mean
+gene length
+B C
+1.0 1.5 2.0 2.5 3.0 3.5
+−0.05
+0.00
+0.05
+0.10
+0.15
+Log10 mean total
+mCA and mCG per gene
+Log2 mRNA fold-change
+MeCP2 KO/WT
+A
+Fig. 3. The total number of methylcytosines per gene, independent of gene
+length, is predictive of gene repression by MeCP2. (A) Mean log2 fold change
+in the MeCP2 KO cortex compared with WT plotted for genes according to
+the log10 total number of mCA and mCG sites per gene. (B) Distribution of
+gene-body log10 total mCA and mCG per gene (Top), with the area highlighted in gray representing the population of genes analyzed in the Bottom
+plot. Mean log2 fold change was plotted for genes according to gene length
+(Bottom) for genes that fall within the range of total mCA and mCG sites per
+gene indicated above. The area in gray (Bottom) indicates the maximum
+predicted change in gene expression that could possibly be associated with
+the variation in the total mCA and mCG sites per gene given the distribution
+of total mCA and mCG sites in the genes selected for analysis. (C) Distribution of log10 gene length (Top), with the area highlighted in gray representing the population of genes analyzed in the Bottom plot. Mean log2 fold
+change plotted for genes according to the log10 total number of mCA and
+mCG per gene (Bottom) for genes that fall within the indicated range of
+gene length. The area in gray (Bottom) indicates the maximum predicted
+change in gene expression for genes that could possibly be associated with
+the variation in gene length given the selected range of gene lengths indicated above. In A and the Bottom plots of B and C, mean log2 fold change
+in gene expression was calculated for 500 gene bins, moving one gene between each point (500 genes per bin, one gene step). Analyses were performed on bisulfite-sequencing (8) and RNA-sequencing (12) data generated
+in cerebral cortex tissue.
+Kinde et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15117
+NEUROSCIENCE
+the total number of mCA and mCG marks across the body of a
+gene contributes to the correlation with the degree of gene upregulation in the absence of MeCP2, even when gene length
+is excluded as a parameter (Spearman r, controlling for gene
+length = 0.12, P = 1.93 × 10−32). By contrast, if in this analysis we
+control for the total number of mCA and CG sites within genes,
+the positive correlation between gene length and the up-regulation
+of gene expression in the absence of MeCP2 is no longer observed
+(Spearman r, controlling for the total number of mCA and mCG
+sites per gene = −0.07, P = 2.45 × 10−15). Taken together, these
+analyses suggest that the total number of MeCP2 binding sites
+within a gene is an important determinant of the extent of MeCP2-
+mediated repression for that gene. Thus, whereas many shorter
+genes likely experience little repression by MeCP2 because they
+have an insufficient number of MeCP2 binding sites within their
+transcribed regions, long genes with a high density of gene-body
+mCA are likely the most repressed by MeCP2 because they contain the greatest number of total mCA and mCG marks per gene.
+mCA Is Enriched in Genes That Are Repressed, but Not Activated by
+MeCP2. Given that genes whose expression is increased when
+MeCP2 function is disrupted contain high levels of gene-body
+mCA and are significantly longer than the average gene length
+(12), we considered the possibility that the group of genes that is
+down-regulated in the absence of MeCP2 might also have a specific methylation and/or chromatin signature that defines this set
+of genes and explains how the presence of MeCP2 in the cell
+activates their expression. To address this possibility, we compared
+the features (e.g., mCA and mCG content, histone acetylation,
+gene length) of genes whose expression is down-regulated in the
+absence of MeCP2 across studies of several brain regions with
+those of genes whose expression does not change when MeCP2
+function is disrupted in these studies. This analysis revealed that
+with respect to mCA and mCG density, the extent of MeCP2
+binding, the presence of histone acetylation marks and average
+gene length these genes are largely indistinguishable. In particular,
+DNA methylation analysis from the cortex (8), cerebellum (12), or
+hippocampus (9) revealed that neither mCA nor mCG is enriched
+in the promoters or gene bodies of genes whose expression is
+consistently decreased in the absence of MeCP2 across multiple
+studies of MeCP2 mutants (Fig. 4). Furthermore, lists of MeCP2-
+activated genes identified by analysis of gene expression changes
+for individual brain regions showed little enrichment for mCA or
+mCG or gene bodies (Fig. 4).
+Discussion
+In this study, we explored determinants of MeCP2-mediated
+gene regulation. Consistent with MeCP2 functioning through
+gene-body DNA methylation, we find that mCA density and
+MeCP2 occupancy within the transcribed region of a gene are
+correlated with the up-regulation of gene expression in the absence of MeCP2. Furthermore, we find that the number of mCA
+and mCG MeCP2 binding sites within the body of a gene is a
+better predictor of the repressive effects of MeCP2 than the
+density of mCA in the surrounding genomic territory in which a
+gene resides. Thus, whereas the broad region around MeCP2-
+repressed genes is enriched in mCA, the level of gene-body mCA
+together with mCG appears to be a major determinant of transcriptional repression by MeCP2. In addition, DNA methylation
+is not notably enriched at promoter regions of MeCP2-repressed
+genes relative to expression-matched control genes (Fig. 4),
+further supporting a role for gene-body–mediated repression by
+MeCP2. These findings raise the possibility that MeCP2 represses
+gene transcription by operating within genes rather than affecting
+larger domains of chromatin or specific regulatory elements.
+However, future studies exploring the nature of Dnmt3a-mediated
+DNA methylation in maturing neurons will be critical to understand how high levels of DNA methylation accumulate in and
+around MeCP2-repressed genes.
+Recently, we demonstrated that loss of mCA or disruption of
+MeCP2 function in the brain can lead to the up-regulation of
+long genes that have a high-density of mCA within their transcribed region (12). In addition to this correlation with gene
+repression by MeCP2, we show here that loss of mCA results in a
+modest reduction in MeCP2 occupancy in genes, with the
+greatest reduction in MeCP2 occurring in gene bodies that
+normally contain a high density of mCA. These findings suggest
+that the binding of MeCP2 to mCA sites contributes to MeCP2-
+dependent transcriptional repression. However, we note that
+mCA density is not the sole determinant of DNA binding or gene
+repression by MeCP2, as the binding of MeCP2 to chromatin is
+not completely disrupted by erasure of the mCA mark.
+In this study, we present evidence that it is not the length of a
+gene per se, or the density of mCA irrespective of gene length,
+but rather it is the total number of MeCP2 molecules bound to
+mCA and mCG sequences in the gene that predicts the extent of
+gene silencing by MeCP2. In a recent study, we had examined
+mCA density and gene length independently, observing that
+genes that are below a minimum mCA density or a minimum
+length do not show length-associated or mCA-associated derepression in the MeCP2 KO, respectively (12). Whereas these
+findings suggested that there is a threshold mCA density and
+gene length required in order for MeCP2 to repress genes,
+reexamination of the gene sets analyzed in our previous study
+indicates that the genes that are below the thresholds used
+contain low levels of total mC (due to their short length or low
+mCA density), and as a result, they would not be expected to be
+measurably affected in the MeCP2 mutant. Thus, our previous
+findings are consistent with a model in which the level of repression exerted on a gene by MeCP2 is proportional to the total
+number of MeCP2 binding sites in the gene.
+Whereas MeCP2 binds to mCA and mCG marks with high
+affinity as assessed by in vitro and in vivo binding studies (9, 11,
+12), it is notable that density of gene-body mCG does not appear
+to be substantially enriched in MeCP2-repressed genes compared
+with sets of genes whose expression is unaffected or decreased in
+the absence of MeCP2 (Fig. 4). Compared with mCA, the density
+of mCG within gene bodies does not vary substantially across
+the genome. Thus, lack of gene-body mCG enrichment in MeCP2-
+repressed genes may reflect the fact that CG dinucleotides are
+generally highly methylated in the majority of gene bodies. We note
+that this lack of increased mCG density within MeCP2-repressed
+MeCP2-repressed
+genes
+MeCP2-activated
+genes
+Promoter Gene body
+“Single” gene list
+“Meta” gene list
+mCA
+mCG
+CB
+HC
+CTX
+CB
+HC
+CTX
+-log10(p-value)
+0 20 40
+Fig. 4. Analysis of mCA density for MeCP2-repressed and MeCP2-activated
+genes. Heatmap summary of the −log10 P value of mCA/CA (green sidebar)
+or mCG/CG (black sidebar) for genes identified as misregulated in MeCP2
+mutant mice compared with expression-matched control genes in individual
+brain regions (“single” gene list) or through metaanalysis of multiple studies
+(“meta” gene list). Meta gene lists of MeCP2-activated and MeCP2-repressed
+genes were generated from reanalysis of eight microarray gene expression
+studies (12) (SI Experimental Procedures). Median –log10 P value was calculated (paired, one-tailed t test) for MeCP2-activated (n = 536) or MeCP2-
+repressed (n = 466) genes compared with 1,000 bootstrapped-resampled,
+expression-matched control gene lists for each respective gene list. DNA
+methylation data from whole genome bisulfite sequencing generated in the
+cortex (8), hippocampus (9), and the cerebellum (12) were analyzed.
+15118 | www.pnas.org/cgi/doi/10.1073/pnas.1618737114 Kinde et al.
+genes does not exclude the possibility that binding of MeCP2 to
+mCG within these genes contributes to gene repression. Indeed, our
+analysis showing that the total number of mC sites in genes predicts
+gene repression by MeCP2 supports a role for both mCG and mCA
+in this repressive mechanism (Fig. 3).
+Whereas our study points to binding of MeCP2 in gene bodies
+as an important site of gene regulation, the molecular mechanism
+by which this process occurs remains to be defined. Our findings
+are consistent with a model in which each MeCP2 molecule bound
+within a gene contributes to a cumulative repressive effect on
+transcription elongation. For example, MeCP2 molecules along
+the gene body might recruit the NCoR corepressor complex,
+thereby promoting a restrictive local chromatin structure that
+impedes or blocks the progress of RNA polymerase II. If each
+instance of this MeCP2 binding and repression along the gene
+leads to a slight increase in the rate of aborted transcription during
+the elongation phase of transcription for that gene, this would
+result in the subtle down-regulation of genes containing many
+MeCP2 binding sites that we observe. This model is consistent
+with previous observations that interaction with NCoR is critical
+for the function of MeCP2 (5), and our finding that the MeCP2
+R306C missense mutation, which disrupts the MeCP2–NCoR interaction, leads to length-associated up-regulation of gene expression in mouse brain (12). Future studies examining precisely
+how transcription of long genes is affected in the MeCP2 KO and
+dissecting the role of NCoR in this process will allow us to test this
+model for gene-body–mediated regulation by MeCP2.
+The present study describes one mode of gene repression by
+MeCP2, but other potential mechanisms of gene regulation mediated by this enigmatic protein likely remain to be uncovered. For
+example, recent evidence suggests that MeCP2 recruits NCoR to
+specific regulatory elements in the genome to deacetylate the FOXO
+transcription factor and alter gene expression (24). The degree
+to which this mechanism intersects with the gene-body–mediated
+mechanism we describe here remains to be determined. In addition, a large number of genes are down-regulated when MeCP2
+function is disrupted, raising the possibility that MeCP2 is directly
+activating these genes. Our analyses failed to detect a robust enrichment in MeCP2 binding and/or mCA content when these
+genes were compared with sets of genes whose expression is unaffected when MeCP2 function is disrupted. This raises the possibility that MeCP2 may not activate genes by a direct mode of
+action that requires mCA. One of the hallmark features of
+MeCP2-deficent mouse and human neurons is decreased dendritic
+branching, soma, and nuclear size (25, 26). It has recently been
+demonstrated that mammalian cells globally scale transcription in
+a cell-volume–dependent manner to preserve transcript concentration (27). Genes down-regulated in the absence of MeCP2 may
+reflect a global reduction in transcription in the context of reduced
+cellular volume. Alternatively, genes may be targeted for gene
+activation by MeCP2 by a yet-to-be-appreciated mechanism. Future studies will help to define the full complement of mechanisms
+used by MeCP2 for its critical role in neuronal gene regulation.
+Experimental Procedures
+All animal experiments were performed using procedures approved by the
+Harvard Medical Area Institutional Animal Care and Use Committee. Analyses of gene expression, DNA methylation, and ChIP-seq were performed
+through reanalysis of published datasets and through generation of MeCP2
+ChIP-seq data from the cortex of the Dnmt3a conditional KO mice. SI Experimental Procedures provides additional details.
+ACKNOWLEDGMENTS. We thank A. Bird, G. Mandel, M. Coenraads, and
+members of the M.E.G. and H.W.G. laboratories for discussions and critical
+reading of the manuscript. This work was supported by the Rett Syndrome
+Research Trust and NIH Grant 5R01NS048276-12 (to M.E.G.) and NIH Grant
+T32GM007753 and a Howard Hughes Medical Institute Gilliam Fellowship
+(to B.K.).
+1. Chahrour M, Zoghbi HY (2007) The story of Rett syndrome: From clinic to neurobiology. Neuron 56(3):422–437.
+2. Chen RZ, Akbarian S, Tudor M, Jaenisch R (2001) Deficiency of methyl-CpG binding
+protein-2 in CNS neurons results in a Rett-like phenotype in mice. Nat Genet 27(3):
+327–331.
+3. Guy J, Hendrich B, Holmes M, Martin JE, Bird A (2001) A mouse Mecp2-null mutation
+causes neurological symptoms that mimic Rett syndrome. Nat Genet 27(3):322–326.
+4. Skene PJ, et al. (2010) Neuronal MeCP2 is expressed at near histone-octamer levels
+and globally alters the chromatin state. Mol Cell 37(4):457–468.
+5. Lyst MJ, et al. (2013) Rett syndrome mutations abolish the interaction of MeCP2 with
+the NCoR/SMRT co-repressor. Nat Neurosci 16(7):898–902.
+6. Lewis JD, et al. (1992) Purification, sequence, and cellular localization of a novel
+chromosomal protein that binds to methylated DNA. Cell 69(6):905–914.
+7. Meehan RR, Lewis JD, Bird AP (1992) Characterization of MeCP2, a vertebrate DNA
+binding protein with affinity for methylated DNA. Nucleic Acids Res 20(19):5085–5092.
+8. Lister R, et al. (2013) Global epigenomic reconfiguration during mammalian brain
+development. Science 341(6146):1237905.
+9. Guo JU, et al. (2014) Distribution, recognition and regulation of non-CpG methylation
+in the adult mammalian brain. Nat Neurosci 17(2):215–222.
+10. Xie W, et al. (2012) Base-resolution analyses of sequence and parent-of-origin dependent DNA methylation in the mouse genome. Cell 148(4):816–831.
+11. Chen L, et al. (2015) MeCP2 binds to non-CG methylated DNA as neurons mature,
+influencing transcription and the timing of onset for Rett syndrome. Proc Natl Acad
+Sci USA 112(17):5509–5514.
+12. Gabel HW, et al. (2015) Disruption of DNA-methylation-dependent long gene repression in Rett syndrome. Nature 522(7554):89–93.
+13. Nguyen S, Meletis K, Fu D, Jhaveri S, Jaenisch R (2007) Ablation of de novo DNA
+methyltransferase Dnmt3a in the nervous system leads to neuromuscular defects and
+shortened lifespan. Dev Dyn 236(6):1663–1676.
+14. Tatton-Brown K, et al.; Childhood Overgrowth Consortium (2014) Mutations in the
+DNA methyltransferase gene DNMT3A cause an overgrowth syndrome with intellectual disability. Nat Genet 46(4):385–388.
+15. Nan X, et al. (1998) Transcriptional repression by the methyl-CpG-binding protein
+MeCP2 involves a histone deacetylase complex. Nature 393(6683):386–389.
+16. Guy J, Cheval H, Selfridge J, Bird A (2011) The role of MeCP2 in the brain. Annu Rev
+Cell Dev Biol 27:631–652.
+17. Baker SA, et al. (2013) An AT-hook domain in MeCP2 determines the clinical course of
+Rett syndrome and related disorders. Cell 152(5):984–996.
+18. Cohen S, et al. (2011) Genome-wide activity-dependent MeCP2 phosphorylation
+regulates nervous system development and function. Neuron 72(1):72–85.
+19. Chahrour M, et al. (2008) MeCP2, a key contributor to neurological disease, activates
+and represses transcription. Science 320(5880):1224–1229.
+20. Ben-Shachar S, Chahrour M, Thaller C, Shaw CA, Zoghbi HY (2009) Mouse models of
+MeCP2 disorders share gene expression changes in the cerebellum and hypothalamus.
+Hum Mol Genet 18(13):2431–2442.
+21. Samaco RC, et al. (2012) Crh and Oprm1 mediate anxiety-related behavior and social
+approach in a mouse model of MECP2 duplication syndrome. Nat Genet 44(2):
+206–211.
+22. Zhao YT, Goffin D, Johnson BS, Zhou Z (2013) Loss of MeCP2 function is associated
+with distinct gene expression changes in the striatum. Neurobiol Dis 59:257–266.
+23. Sugino K, et al. (2014) Cell-type-specific repression by methyl-CpG-binding protein 2 is
+biased toward long genes. J Neurosci 34(38):12877–12883.
+24. Nott A, et al. (2016) Histone deacetylase 3 associates with MeCP2 to regulate FOXO
+and social behavior. Nat Neurosci 19(11):1497–1505.
+25. Yazdani M, et al. (2012) Disease modeling using embryonic stem cells: MeCP2 regulates nuclear size and RNA synthesis in neurons. Stem Cells 30(10):2128–2139.
+26. Li Y, et al. (2013) Global transcriptional and translational repression in humanembryonic-stem-cell-derived Rett syndrome neurons. Cell Stem Cell 13(4):446–458.
+27. Padovan-Merhar O, et al. (2015) Single mammalian cells compensate for differences
+in cellular volume and DNA copy number through independent global transcriptional
+mechanisms. Mol Cell 58(2):339–352.
+28. Neph S, et al. (2012) BEDOPS: High-performance genomic feature operations.
+Bioinformatics 28(14):1919–1920.
+29. Quinlan AR, Hall IM (2010) BEDTools: A flexible suite of utilities for comparing genomic features. Bioinformatics 26(6):841–842.
+30. Love MI, Huber W, Anders S (2014) Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol 15(12):550.
+Kinde et al. PNAS | December 27, 2016 | vol. 113 | no. 52 | 15119
+NEUROSCIENCE

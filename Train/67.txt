@@ -1,0 +1,559 @@
+Spontaneous default network activity reflects
+behavioral variability independent of mind-wandering
+Aaron Kucyia,b,c, Michael Estermand,e,f, Clay S. Rileyc
+, and Eve M. Valerab,c,1
+a
+Department of Neurology & Neurological Sciences, Stanford University, Stanford, CA 94305; b
+Department of Psychiatry, Harvard Medical School, Boston,
+MA 02129; c
+Department of Psychiatry, Massachusetts General Hospital, Charlestown, MA 02129; d
+Boston Attention and Learning Laboratory, Veterans
+Administration, Boston Healthcare System, Boston, MA 02130; e
+Neuroimaging Research for Veterans Center (NeRVe), Veterans Administration, Boston
+Healthcare System, Boston, MA 02130; and f
+Department of Psychiatry, Boston University School of Medicine, Boston, MA 02130
+Edited by Marcus E. Raichle, Washington University in St. Louis, St. Louis, MO, and approved October 25, 2016 (received for review July 18, 2016)
+The brain’s default mode network (DMN) is highly active during
+wakeful rest when people are not overtly engaged with a sensory
+stimulus or externally oriented task. In multiple contexts, increased
+spontaneous DMN activity has been associated with self-reported
+episodes of mind-wandering, or thoughts that are unrelated to the
+present sensory environment. Mind-wandering characterizes much of
+waking life and is often associated with error-prone, variable behavior. However, increased spontaneous DMN activity has also been reliably associated with stable, rather than variable, behavior. We
+aimed to address this seeming contradiction and to test the hypothesis that single measures of attentional states, either based on selfreport or on behavior, are alone insufficient to account for DMN
+activity fluctuations. Thus, we simultaneously measured varying levels of self-reported mind-wandering, behavioral variability, and brain
+activity with fMRI during a unique continuous performance task optimized for detecting attentional fluctuations. We found that even
+though mind-wandering co-occurred with increased behavioral variability, highest DMN signal levels were best explained by intense
+mind-wandering combined with stable behavior simultaneously,
+compared with considering either single factor alone. These brain–
+behavior–experience relationships were highly consistent within
+known DMN subsystems and across DMN subregions. In contrast,
+such relationships were absent or in the opposite direction for other
+attention-relevant networks (salience, dorsal attention, and frontoparietal control networks). Our results suggest that the cognitive processes that spontaneous DMN activity specifically reflects are only
+partially related to mind-wandering and include also attentional state
+fluctuations that are not captured by self-report.
+daydreaming | default mode network | sustained attention | spontaneous
+thought | resting state
+The brain’s default mode network (DMN) has been described
+as a distributed set of regions in association cortices showing
+increased activity during undirected, awake “resting” states relative to a wide variety of states that commonly involve externally
+oriented attention (1, 2). During undirected, awake life, humans
+frequently engage in mind-wandering, self-generated thoughts
+unrelated to the immediate sensory world (3). Based on such
+observations, researchers have considered that increased spontaneous DMN activation could be a neurophysiological correlate
+of mind-wandering (4, 5).
+Neuroimaging studies that have incorporated self-report measures suggest a role of the DMN in spontaneous cognition.
+Converging evidence from tasks that elicit mind-wandering (6, 7),
+interindividual differences in mind-wandering tendencies (8),
+and intraindividual fluctuations in self-reports (9–12) suggests
+that DMN activity is increased during stimulus-independent, taskunrelated thought. The DMN is also engaged when subjects
+actively think about the past, the future, and the perspectives of
+other people, all of which constitute the types of thoughts that
+commonly occur during mind-wandering (4).
+However, theoretical considerations pose serious challenges to
+the notion that increased spontaneous DMN activity reflects
+mind-wandering exclusively. The correlational neuroimaging evidence described above does not imply that instances of increased
+spontaneous DMN activity signify mind-wandering (the “reverse
+inference” problem) (13). Behavioral and self-report outcomes are
+imperfect measures of cognition, and the fundamental function of
+the DMN may not be captured by any single measure.
+Empirical considerations also suggest that a sole focus on
+studying mind-wandering is unlikely to unveil a comprehensive
+account of DMN function (14). For example, although the DMN
+is commonly deactivated during externally oriented tasks requiring cognitive control (15), older adult populations report low
+levels of mind-wandering during task performance yet exhibit attenuated DMN deactivation (16). Additionally, in certain contexts,
+increased DMN activity is time-locked to stimulus changes in the
+external environment (17, 18).
+Although spontaneous increases of DMN activity are postulated
+to reflect mind-wandering, a highly consistent finding is that DMN
+activity is higher when ongoing behavior is stable rather than variable (19–21). This finding would be counterintuitive if there were a
+one-to-one mapping between mind-wandering intensity and DMN
+activity. Mind-wandering occurrence is consistently associated with
+variable, rather than stable, behavior (10, 22, 23). Both variable
+behavior and mind-wandering are associated with errors in continuous performance tasks (CPTs) (incorrect responses), or “attention
+lapses” (20, 24), and DMN activity is elevated preceding such lapses
+(20, 25). Thus, it remains mysterious how DMN activity is associated with both mind-wandering (presumably an error-prone, behaviorally variable state) and behavioral stability.
+Here, using a unique task paradigm, we simultaneously
+assessed fluctuating levels of behavioral variability, self-reported
+mind-wandering, and brain activity with fMRI during a CPT
+Significance
+The brain’s default mode network (DMN) is comprised of regions
+that are highly active during wakeful rest. In the past 15 y, the
+DMN has been a target of investigation in thousands of basic and
+clinical neuroscience studies, yet the fundamental role of this
+network remains debated and unknown. Some studies suggest
+that DMN activity increases with self-reported mind-wandering
+away from the present sensory environment, a state in which
+task performance tends to be highly unstable. However, we
+show that DMN activity increases with stable, rather than variable, behavior, independent from increases with mind-wandering. Our work urges reinterpretation of the significance of DMN
+activity fluctuations in daily life and DMN disruption in disease.
+Author contributions: A.K., M.E., C.S.R., and E.M.V. designed research; A.K., C.S.R., and
+E.M.V. performed research; A.K. and M.E. analyzed data; and A.K., M.E., C.S.R., and E.M.V.
+wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: eve_valera@hms.harvard.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1611743113/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1611743113 PNAS Early Edition | 1 of 6
+NEUROSCIENCE
+optimized for detecting these fluctuations. Doing so, we introduce
+a platform for going beyond understanding whether increased
+DMN activity simply co-occurs with mind-wandering or with behavioral stability. Considering both factors simultaneously and
+dynamically, we test whether DMN activity fluctuations reflect
+cognitive processes that are captured only when both self-reported
+and behavioral indices of attentional states are jointly considered.
+Results
+Linking Self-Reported Attention with Behavior. We recruited 28
+healthy adults to perform a modified version of the gradual CPT
+(gradCPT) (Fig. S1), known to elicit marked fluctuations of attention (20, 26). Participants viewed gradually changing images of
+scenes and were instructed to respond with a button press to city
+but not mountain scenes. It was previously shown that slower,
+relative to faster, rates of stimulus presentation in other cognitive
+tasks are associated with increased mind-wandering and associated
+neural activity (27, 28), and so we presented scene transitions at a
+slower rate than in previous gradCPT studies (∼1,300 ms instead of
+∼800 ms). An experience sampling approach (9) was used to detect
+mind-wandering. Blocks of the task lasted 44–60 s, with a “thoughtprobe” appearing at the end of the block consisting of a self-report
+rating of the degree to which attention was on- or off-task in the
+immediately preceding period. In contrast to previous fMRI
+studies (9–11), the rating scale was graded rather than discrete,
+ranging from 0 (focus was completely on task) to 100 (focus was
+completely on something else). Thus, we assessed a wide spectrum
+of self-reported attentional states and linear relationships with
+behavior and brain activity (Fig. S2A). Subjects completed 36 total
+thought-probes in four gradCPT runs (each ∼9 min) with short
+breaks between runs (summary behavioral data in Table S1).
+Upon task completion, subjects were interviewed about the degree to which their reports of attention off-task were due to (a)
+external/sensory distractions (e.g., sounds), (b) task-related interferences (e.g., task strategizing), and (c) mind-wandering (i.e., taskunrelated and stimulus-independent thoughts) (1, never; 7, always)
+(11, 24). Although there was substantial interindividual variability
+in these ratings (see Specificity to Mind-Wandering), mean ratings
+for mind-wandering (mean ± SD = 4.4 ± 1.7) were higher than
+those for external distractions (2.9 ± 1.9) and task-related interferences (3.2 ± 1.8) (Fig. S2B). Participants reported high
+confidence in their abilities to accurately indicate on- or off-task
+focus (mean ± SD rating = 5.8 ± 0.96; 0, “not confident at all”; 7,
+“extremely confident”).
+We next sought to provide behavioral validation of these offtask self-reports. We predicted that greater off-task attention
+ratings would be associated with increased prerating behavioral
+variability in the gradCPT, similar to results shown with other
+cognitive tasks (10, 29). We focused on reaction time (RT) variability in the 30-s prerating period (except where indicated) because relative to shorter prerating time windows, we could use
+more samples to calculate RT metrics (23 trials) and acknowledge
+uncertainty in the duration of preprobe periods to which participants’ thought-probe responses referred (but results from shorter
+prerating periods were largely similar; Table S2). For consistency
+with previous studies on the DMN and RT variability (19, 20), we
+report our main analyses based on RT variance (absolute deviance
+from the mean) across trials preceding thought probes, but we also
+report results with RT coefficient of variation (CoV).
+The mean within-subject correlation of off-task rating with RT
+variance was positive and significantly greater than zero (P =
+0.0009, two-tailed Wilcoxon signed rank test; Fig. S2C), supporting the hypothesized relationship (similar results were obtained
+with RT CoV; see Table S3). In contrast, off-task rating was not
+significantly correlated with mean RT (P = 0.19), and RT variance
+was also not significantly correlated with mean RT (P = 0.42),
+suggesting that RT variance is an independent and better marker
+of self-reported attentional state compared with RT speed.
+At the interindividual level, RT variability was positively correlated with rate of attention lapses (commission errors; r = 0.67,
+P = 9 × 10−5
+; Fig. S2D), replicating previous work and suggesting
+that individuals with increased RT variability have heightened
+levels of “out-of-the-zone” attention (20, 26). We extend those
+results here, showing that such individuals also report experiencing greater off-task attention during task performance; the
+mean off-task rating across all thought-probes within subjects
+was positively correlated with both RT variability (r = 0.58, P =
+0.001) and attention lapse rate (r = 0.37, P = 0.049; Fig. S2D) but
+not with mean RT (r = 0.24, P = 0.22).
+DMN Fluctuations Reflect Both Self-Reported Attention and Behavioral
+Variability. Here, we have shown that increased RT variability is
+associated with self-reports of greater off-task attention at both
+intra- and interindividual levels, yet decreased RT variability and
+off-task self-reports have separately been previously associated
+with increased DMN activity (9, 10, 12, 19, 20). To evaluate each
+of those relationships in our paradigm, we extracted mean activity
+level (percent signal change, %SC) in 30-s prerating periods from
+the DMN, defined from a network atlas developed in an independent, large cohort of subjects, and including gray matter in
+the medial prefrontal cortex, posterior cingulate cortex, lateral
+parietal areas, portions of the temporal lobe, and cerebellar
+A B C
+Fig. 1. DMN activity correlates positively with self-reported off-task attention and negatively with behavioral variability. (A) The DMN mask used for extracting
+mean activity, including cortical and cerebellar regions. (B) Within-subject Fisher-transformed Pearson correlations between prerating DMN %SC and off-task rating
+across 36 trial-blocks within each subject. (C) Within-subject Fisher-transformed Pearson correlations between prerating DMN %SC and prerating RT variance across
+36 trial blocks within each subject. In B and C, shaded dark gray denotes SEM, shaded light gray denotes SD, dark line denotes mean across subjects, and dotted line
+demarcates zero value. *P < 0.05, two-tailed Wilcoxon signed rank test. DMN, default mode network; RT, reaction time; SC, signal change.
+2 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1611743113 Kucyi et al.
+components (Fig. 1A) (30, 31). We refer to fluctuations in this
+extracted brain activity, and in associated self-reported attention
+and behavioral variability, as “spontaneous” (32) because each
+sample within a given subject occurs during performance of the
+same task without any explicit change in cognitive demand or in
+the nature of the presented stimuli across prerating periods (the
+number of target mountain events was matched).
+The mean within-subject correlation of off-task rating with
+prerating spontaneous DMN activity was positive and significantly greater than zero (P = 0.0009, two-tailed Wilcoxon signed
+rank test; Fig. 1B). Additionally, the mean within-subject correlation of prerating RT variance with DMN activity was negative and significantly less than zero (P = 0.0009) (Fig. 1C; similar
+results for RT CoV are shown in Table S3). Thus, our results
+suggest that simultaneous relationships of DMN activity with
+self-reported off-task attention and with behavioral variability
+are in opposite directions.
+Multiple Cognitive Factors Explain DMN Fluctuations. Our results
+thus far show that spontaneous DMN activity is increased both
+during self-reported off-task attention and during periods of
+stable behavior, even though off-task attention is associated with
+greater behavioral variability. How can DMN activity simultaneously relate to two seemingly opposing processes? We empirically addressed this question with linear mixed-effects model
+analyses (subjects as random effects and within-subject variables
+as fixed effects; see SI Methods) that had several possible outcomes. For example, DMN activity that is explained by off-task
+rating could be dependent on or interacting with behavioral
+variability (or vice versa), or DMN activity could be explained by
+additive variance of off-task rating and RT variability, with relative independence.
+Our model fits provided unequivocal support for independent,
+additive effects of the variances contributed by off-task rating and
+RT variability to DMN activity. Compared each to models only
+including off-task rating (β = 0.11, t = 3.6, P = 0.0004) or only
+including RT variability (β = –0.12, t = –3.8, P = 0.0001), the
+combination of off-task rating (β1 = 0.13, t = 4.1, P = 0.0002) and
+RT variability (β2 = –0.14, t = –4.3, P = 8.9 × 10−5
+) in a single model
+afforded an improved explanation of DMN signal, with more than
+double the variance explained (R2 for combined fixed effects =
+0.031) relative to the inclusion of only one predictor (R2 = 0.012 for
+off-task rating, R2 = 0.014 for RT variability; see SI Results for
+outcomes with RT CoV and mean RT modeled). No significant
+off-task rating by RT variability interaction was found (P = 0.15),
+further supporting independence of the variances contributed to
+DMN activity. A 3D plot (for visualization only) of trial blocks
+across all subjects is shown in Fig. 2A (and Fig. 2B for alternative
+representation based on median splits of trial block types). These
+plots show that the highest DMN activity trial blocks were those
+that occurred during combined low RT variance with high selfreported off-task attention, whereas the lowest DMN activity
+trial blocks were those that occurred during combined high RT
+variance with high self-reported on-task focus.
+Specificity to Mind-Wandering. Previous studies show that before
+thought-probe onsets, increased DMN activation levels are most
+strongly associated with mind-wandering compared with external
+distractions and task-related interferences (10, 11). Mind-wandering and external distraction represent internally and externally
+oriented attention, respectively, and opposite relationships with
+DMN activity have been shown (11). Thus, using interindividual
+differences in postscan ratings of the degree to which off-task
+attention reports were due to different factors, we sought to determine whether the relationship between off-task rating and
+DMN activity was driven by participants who reported highest
+relative levels of mind-wandering (calculated as the ratio of mindwandering to external distraction rating). Focusing on the 10-s
+prerating period (9, 10), we found a positive correlation between
+relative mind-wandering and the correlation strength of off-task
+rating vs. DMN activity (ρ = 0.44, P = 0.02) (Fig. 3). To illustrate
+the time dependence of this positive relationship, we repeated the
+analysis using activity from single whole-brain volumes (acquired every 1.08 s) (SI Results and Fig. S3). These results
+suggest temporal specificity of the relationship between DMN
+activity and mind-wandering to the period that participants
+referred to when they were evaluating their attentional state.
+Generalizability Across DMN Subcomponents. Our results reveal that
+mean activity within the whole DMN is explained by a combination of self-reported off-task attention and behavioral stability
+levels, but the DMN is comprised of anatomical and functional
+subsystems and subregions that could exhibit distinct profiles (4,
+33, 34). For example, a given DMN subsystem/subregion could
+relate to self-reported attention but not behavioral variability, or
+vice versa, an effect that would be washed out when analyzing only
+average whole-DMN activity. We thus repeated our analyses of
+within-subject correlation of off-task rating vs. DMN activity
+A B DMN %SC DMN %SC
+Off-task rating
+RT-variance
+Fig. 2. Self-reported attention and RT variability additively account for DMN activity. (A) 3D plot showing all trial blocks in all subjects with values for off-task
+rating (x1; within-subject normalized off-task rating), RT variance (x2), and DMN %SC (y). Color is proportional to mesh surface height, with red areas highest
+(high DMN activity) and blue areas lowest (low DMN activity). (B) Bar plots showing mean DMN %SC in trial blocks with four combinations of on-/off-task
+attention and high and low RT variance, with on/off (low/high) categories defined based on median split of all trial blocks of all subjects for within-subject
+normalized off-task ratings and RT variance. DMN, default mode network; RT, reaction time; SC, signal change.
+Kucyi et al. PNAS Early Edition | 3 of 6
+NEUROSCIENCE
+within three known subsystems [i.e., the DMN core, the dorsomedial prefrontal cortex (dmPFC) subsystem, and the medial
+temporal lobe (MTL) subsystem (30, 33)].
+Within each subsystem, relationships of DMN activity with offtask attention vs. those with behavioral variability were of similar
+magnitude and, as in the whole-DMN analysis, were in opposite
+directions (Fig. 4). Higher off-task rating was significantly associated with activity in the DMN core (P = 0.001), dmPFC subsystem (P = 0.006), and MTL subsystem (P = 0.03). Lower RT
+variance was significantly associated with activity in the DMN
+core (P = 0.0004) and dmPFC subsystem (P = 0.008), whereas
+the association with MTL subsystem activity was in the same
+direction but was not significant (P = 0.12). An additional analysis
+with a more fine-grained parcellation of the DMN (54 subregions)
+revealed that subregions that relate most strongly (and positively)
+to off-task attention are similar to those that relate most strongly
+(and negatively) to behavioral variability (SI Results and Fig. S4).
+Specificity Relative to Other Brain Networks. Other networks besides
+the DMN could be involved in self-reportable attention and/or
+behavioral variability. Increased behavioral variability has previously been associated with higher activity in dorsal attention and
+salience networks (opposite to the DMN pattern) (19–21), and
+some but not all previous studies (35, 36) have found increased
+mind-wandering associated with activity in the frontoparietal control network. Additionally, because our measurements occurred in
+tandem with sensorimotor processes (due to button pressing), it
+was important to ensure that we had captured effects that were
+specific to cognitive processes in the DMN. Thus, to test for
+specificity of effects in the DMN, we performed control analyses
+testing for relationships of self-reported attention and behavioral
+variability with (a) dorsal attention, salience, and frontoparietal
+network activity and (b) sensorimotor network activity.
+Consistent with our predictions, within-subject correlations of
+prerating RT variance with salience network (P = 0.0004, twotailed Wilcoxon signed rank test) and dorsal attention network
+activity (P = 0.01) were significantly greater than zero at the
+group level, but there was no significant association between RT
+variance and activity in sensorimotor (P = 0.24) or frontoparietal
+control (P = 0.73) networks. There were no significant withinsubject correlations of off-task rating with salience (P = 0.55),
+dorsal attention (P = 0.80), sensorimotor (P = 0.73), or frontoparietal control (P = 0.68) network activity (Fig. S5).
+Discussion
+Here we present a unique account of the behavioral relevance
+of spontaneous DMN activity. We found that simultaneous
+consideration of both self-reported attentional fluctuations and
+behavioral variability provides a better explanation of DMN
+activity than either factor does alone. Spontaneous DMN activity
+was greatest during intense mind-wandering coupled with stable
+Fig. 3. DMN off-task relationship is driven most strongly by individuals with
+high relative levels of self-reported mind-wandering. The degree to which
+subjects reported off-task attention due to mind-wandering (relative to
+external distractions) is positively correlated with the within-subject Fishertransformed Pearson correlation between off-task rating and prerating
+DMN %SC averaged within the 10-s prerating period. DMN, default mode
+network; SC, signal change.
+A BC
+Fig. 4. Subsystems of the DMN are associated with self-reported attention and RT variance. For each subsystem, we show within-subject Fisher-transformed
+Pearson correlations of prerating %SC with off-task rating (Left) and RT variance (Right) across 36 trial blocks within each subject. (A) The core DMN regions
+(yellow). (B) The dmPFC subsystem regions (blue). (C) The MTL subsystem regions (green). In all plots, shaded dark gray denotes SEM, shaded light gray
+denotes SD, dark line denotes mean across subjects, and dotted line demarcates zero value. *P < 0.05, two-tailed Wilcoxon signed rank test. DMN, default
+mode network; dmPFC, dorsomedial prefrontal cortex; MTL, medial temporal lobe; RT, reaction time; SC, signal change.
+4 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1611743113 Kucyi et al.
+behavior, even though mind-wandering was associated with greater
+behavioral variability. These results were consistent across DMN
+subsystems and subregions. Furthermore, activity of the salience,
+dorsal attention, frontoparietal control, and sensorimotor networks
+showed opposite or no such relationships, suggesting specificity of
+DMN function in mind-wandering and behavioral variability. Our
+results reveal that the cognitive processes reflected by spontaneous
+DMN activity are only partially related to mind-wandering and include also attentional state fluctuations that are not captured by
+self-report.
+Critically, our findings challenge the notion that increased
+spontaneous DMN activity predominantly reflects internal mentation. Moreover, our findings can be used to inform new possible
+hypotheses of DMN function that may not have been realized from
+studies of mind-wandering or behavioral variability alone. One
+possible hypothesis is that spontaneous DMN activity is associated
+with both mind-wandering and stable behavior, each independently,
+because of separate neurophysiological processes. Increased BOLD
+activations are associated with local field potentials and broadband
+gamma-wave activity (37, 38), whereas the basis of BOLD deactivations is complex and less well understood (39, 40). Mind-wandering may be time-locked to DMN activation, as supported by
+findings indicating that autobiographical memory processes (typically engaged during mind-wandering) are associated with increased
+broadband gamma activity (41). Conversely, stable behavior may be
+reflected in reduced DMN deactivation. Spontaneous states of
+variable behavior could be associated with DMN deactivation due
+to transient “perceived” increases in cognitive demand, consistent
+with observed activation in dorsal attention and salience networks.
+Thus, our findings here may be explained by additive effects of
+increased DMN activation (mind-wandering) and reduced DMN
+deactivation (behavioral stability).
+Our findings speak to the significance of the “baseline” activity
+often studied in neuroimaging experiments, typically a wakeful
+resting state (39). During rest, attention may fluctuate among
+states comparable to those characterized here. In aging populations exhibiting cognitive decline or deficits (e.g., in Alzheimer’s
+disease) (4), a common finding is baseline-level DMN hypometabolism while patients are at rest. Such populations also exhibit
+increased behavioral variability (42) and decreased self-reported
+mind-wandering (43), both of which were associated with decreased
+DMN activity in our study, thus providing conceivable behavioral
+correlates of low baseline DMN activity with cognitive decline.
+Another common finding in such populations is reduced DMN
+deactivation (relative to baseline) during tasks requiring active cognitive control (15). Whereas increased cognitive demand typically
+results in greater DMN deactivation in healthy individuals (44), a
+testable hypothesis is that this deactivation is suppressed in populations with a high propensity for behavioral variability and decreased (or distorted) mind-wandering because a chronic baseline
+state of low DMN activity could decrease the range of deactivation
+responsiveness to cognitive demand (45) (see also ref. 16).
+Notably, our findings do not rule out the possibility that DMN
+fluctuations reflect an overarching function that is indicated by both
+stable behavior and mind-wandering. For example, both factors may
+be relevant to memory consolidation and/or retrieval. Simultaneous
+electrophysiology with fMRI suggests that spontaneous hippocampal ripples are followed by selective activation of the DMN (46).
+Hippocampal ripples after learning have been shown to be predictive of subsequent memory performance (47). States of mindwandering often involve rehearsal of learned information to prepare
+for the future. Although a link between stable behavior and memory
+remains speculative, states of stable behavior could be associated
+with a readiness to consolidate information.
+A common feature across many contexts is that the DMN is
+activated when attention is likely focused away from the immediate sensory environment and toward internally oriented
+thoughts (15). We confirm here that DMN activity is increased
+with greater mind-wandering intensity. However, the finding that
+stable behavior is associated with increased DMN activity, over and
+above the association with mind-wandering, is not easily reconcilable with an exclusive role of spontaneous DMN activity in internally focused attention. Consistent with previous studies (22–24,
+29), we show that variable, rather than stable, behavior is associated
+with self-reported off-task attention both at intra- and interindividual levels. It remains possible that stable behavior reflects “in the
+zone” periods where task performance is high and attentional resources are available for internal mentation that is not reportable
+because subjects are not aware of their attentional state.
+Conversely, stable behavior and associated DMN activity may
+reflect an aspect of externally oriented attention. Several lines of
+evidence point toward a nonexclusive role of the DMN in internally
+oriented attention. First, as in all other brain networks, DMN activity does not stop fluctuating during loss of consciousness (48).
+Second, intracranial electrophysiology studies of DMN areas have
+shown increased activity immediately at the offset of task performance, perhaps too rapidly to reflect mind-wandering (49). Third,
+fMRI studies with unique task paradigms suggest that under certain
+contexts, increased DMN activity occurs during cognitive processes
+that may involve aspects of externally oriented attention (17, 18, 50).
+Finally, studies of spontaneous prestimulus activity suggest nuanced
+relationships of DMN activity with attentional performance (51,
+52). Thus, roles in intrinsic function, internally oriented attention,
+and externally oriented attention may need to be reconciled to
+provide a full account of DMN function.
+Although our results shed light on the functional significance of
+fluctuations in DMN activation/deactivation, further work is needed
+to uncover the behavioral relevance of dynamic communication
+within the DMN and with other networks. Despite the relationships
+with activity presented here, mind-wandering and stable behavior
+could each have unique relationships with functional network connectivity. Connectivity of the DMN is highly relevant to attentional
+fluctuations (12, 21, 34). Simultaneous consideration of both selfreported mind-wandering and behavior could yield insights into the
+significance of time-varying network dynamics.
+Virtually every known brain disorder has been associated with
+altered DMN (de)activation and/or intrinsic DMN functional
+connectivity (15, 53). Often the behavioral significance of these
+DMN disruptions is inferred from what is known about the role of
+a healthy DMN in cognition. Although our results confirm that the
+DMN is engaged during mind-wandering, they also may point
+toward a more fundamental function in cognition that should be
+considered in healthy as well as clinical populations. Further research into the relationship between the DMN and cognition in
+the healthy brain is thus much needed so that a better understanding of DMN dysfunction in disease can be achieved.
+Methods
+Twenty-eight healthy, right-handed adults (13 males, 15 females; mean
+age ± SD = 26.2 ± 3.8) were included for all final analyses. Participants provided written informed consent for procedures approved by the Partners
+Human Research Institutional Review Board. Subjects were trained to perform
+the gradCPT on an initial visit and then returned on another day to complete
+neuroimaging on the 3T Siemens CONNECTOM scanner with 64-channel head
+coil. In each of four fMRI runs, the gradCPT was presented with nine self-paced
+thought-probes (see SI Methods). Procedures for behavioral and neuroimaging
+data preprocessing and analyses are detailed in SI Methods.
+ACKNOWLEDGMENTS. We thank Jonathan Smallwood and Michael Hove for
+study design advising, Aya Hamadeh for data collection, and Francesca
+Fortenbaugh, David Rothlein, and Joke Durnez for analysis support. This work
+was performed at Athinoula A. Martinos Center for Biomedical Imaging,
+Massachusetts General Hospital. This work was supported by a Canadian
+Institutes of Health Research fellowship award (to A.K.), NIH Grant R01
+HD067744-01A1 (to E.M.V.), the Athinoula A. Martinos Center for Biomedical
+Imaging, and National Center for Research Resources Grants P41RR14075 and
+P41 EB015896. M.E. was supported by a Veterans Affairs Clinical Science R&D
+Career Development Award 1IK2CX000706-01A2.
+Kucyi et al. PNAS Early Edition | 5 of 6
+NEUROSCIENCE
+1. Shulman GL, et al. (1997) Common blood flow changes across visual tasks: II. Decreases in cerebral cortex. J Cogn Neurosci 9(5):648–663.
+2. Raichle ME, et al. (2001) A default mode of brain function. Proc Natl Acad Sci USA
+98(2):676–682.
+3. Smallwood J, Schooler JW (2006) The restless mind. Psychol Bull 132(6):946–958.
+4. Buckner RL, Andrews-Hanna JR, Schacter DL (2008) The brain’s default network:
+Anatomy, function, and relevance to disease. Ann N Y Acad Sci 1124:1–38.
+5. Christoff K, Irving ZC, Fox KC, Spreng RN, Andrews-Hanna JR (2016) Mind-wandering
+as spontaneous thought: A dynamic framework. Nat Rev Neurosci 17(11):718–731.
+6. McKiernan KA, Kaufman JN, Kucera-Thompson J, Binder JR (2003) A parametric
+manipulation of factors affecting task-induced deactivation in functional neuroimaging. J Cogn Neurosci 15(3):394–408.
+7. Andrews-Hanna JR, Reidler JS, Huang C, Buckner RL (2010) Evidence for the default
+network’s role in spontaneous cognition. J Neurophysiol 104(1):322–335.
+8. Mason MF, et al. (2007) Wandering minds: The default network and stimulus-independent
+thought. Science 315(5810):393–395.
+9. Christoff K, Gordon AM, Smallwood J, Smith R, Schooler JW (2009) Experience sampling during fMRI reveals default network and executive system contributions to
+mind wandering. Proc Natl Acad Sci USA 106(21):8719–8724.
+10. Stawarczyk D, Majerus S, Maquet P, D’Argembeau A (2011) Neural correlates of
+ongoing conscious experience: Both task-unrelatedness and stimulus-independence
+are related to default network activity. PLoS One 6(2):e16997.
+11. Kucyi A, Salomons TV, Davis KD (2013) Mind wandering away from pain dynamically
+engages antinociceptive and default mode brain networks. Proc Natl Acad Sci USA
+110(46):18692–18697.
+12. Mittner M, et al. (2014) When the brain takes a break: A model-based analysis of
+mind wandering. J Neurosci 34(49):16286–16295.
+13. Poldrack RA (2011) Inferring mental states from neuroimaging data: From reverse
+inference to large-scale decoding. Neuron 72(5):692–697.
+14. Raichle ME (2015) The brain’s default mode network. Annu Rev Neurosci 38:433–447.
+15. Anticevic A, et al. (2012) The role of default network deactivation in cognition and
+disease. Trends Cogn Sci 16(12):584–592.
+16. Maillet D, Schacter DL (2016) Default network and aging: Beyond the task-negative
+perspective. Trends Cogn Sci 20(9):646–648.
+17. Crittenden BM, Mitchell DJ, Duncan J (2015) Recruitment of the default mode network during a demanding act of executive control. eLife 4:e06481.
+18. Simony E, et al. (2016) Dynamic reconfiguration of the default mode network during
+narrative comprehension. Nat Commun 7:12141.
+19. Esterman M, Rosenberg MD, Noonan SK (2014) Intrinsic fluctuations in sustained
+attention and distractor processing. J Neurosci 34(5):1724–1730.
+20. Esterman M, Noonan SK, Rosenberg M, Degutis J (2013) In the zone or zoning out?
+Tracking behavioral and neural fluctuations during sustained attention. Cereb Cortex
+23(11):2712–2723.
+21. Kucyi A, Hove MJ, Esterman M, Hutchison RM, Valera EM (2016) Dynamic brain
+network correlates of spontaneous fluctuations in attention. Cereb Cortex bhw029.
+22. McVay JC, Kane MJ (2009) Conducting the train of thought: Working memory capacity, goal neglect, and mind wandering in an executive-control task. J Exp Psychol
+Learn Mem Cogn 35(1):196–204.
+23. Bastian M, Sackur J (2013) Mind wandering at the fingertips: Automatic parsing of
+subjective states based on response time variability. Front Psychol 4:573.
+24. Stawarczyk D, Majerus S, Maj M, Van der Linden M, D’Argembeau A (2011) Mindwandering: Phenomenology and function as assessed with a novel experience sampling method. Acta Psychol (Amst) 136(3):370–381.
+25. Weissman DH, Roberts KC, Visscher KM, Woldorff MG (2006) The neural bases of
+momentary lapses in attention. Nat Neurosci 9(7):971–978.
+26. Rosenberg M, Noonan S, DeGutis J, Esterman M (2013) Sustaining visual attention in
+the face of distraction: A novel gradual-onset continuous performance task. Atten
+Percept Psychophys 75(3):426–439.
+27. Smallwood J, McSpadden M, Luus B, Schooler J (2008) Segmenting the stream of
+consciousness: The psychological correlates of temporal structures in the time series
+data of a continuous performance task. Brain Cogn 66(1):50–56.
+28. McKiernan KA, D’Angelo BR, Kaufman JN, Binder JR (2006) Interrupting the “stream
+of consciousness”: An fMRI investigation. Neuroimage 29(4):1185–1191.
+29. Seli P, Cheyne JA, Smilek D (2013) Wandering minds and wavering rhythms: Linking mind
+wandering and behavioral variability. J Exp Psychol Hum Percept Perform 39(1):1–5.
+30. Yeo BT, et al. (2011) The organization of the human cerebral cortex estimated by
+intrinsic functional connectivity. J Neurophysiol 106(3):1125–1165.
+31. Buckner RL, Krienen FM, Castellanos A, Diaz JC, Yeo BT (2011) The organization of the
+human cerebellum estimated by intrinsic functional connectivity. J Neurophysiol
+106(5):2322–2345.
+32. Fox MD, Raichle ME (2007) Spontaneous fluctuations in brain activity observed with
+functional magnetic resonance imaging. Nat Rev Neurosci 8(9):700–711.
+33. Andrews-Hanna JR, Reidler JS, Sepulcre J, Poulin R, Buckner RL (2010) Functionalanatomic fractionation of the brain’s default network. Neuron 65(4):550–562.
+34. Kucyi A, Davis KD (2014) Dynamic functional connectivity of the default mode network tracks daydreaming. Neuroimage 100:471–480.
+35. Fox KC, Spreng RN, Ellamil M, Andrews-Hanna JR, Christoff K (2015) The wandering
+brain: Meta-analysis of functional neuroimaging studies of mind-wandering and related spontaneous thought processes. Neuroimage 111:611–621.
+36. Stawarczyk D, D’Argembeau A (2015) Neural correlates of personal goal processing
+during episodic future thinking and mind-wandering: An ALE meta-analysis. Hum
+Brain Mapp 36(8):2928–2947.
+37. Heeger DJ, Ress D (2002) What does fMRI tell us about neuronal activity? Nat Rev
+Neurosci 3(2):142–151.
+38. Logothetis NK, Pauls J, Augath M, Trinath T, Oeltermann A (2001) Neurophysiological
+investigation of the basis of the fMRI signal. Nature 412(6843):150–157.
+39. Gusnard DA, Raichle ME, Raichle ME (2001) Searching for a baseline: Functional imaging and the resting human brain. Nat Rev Neurosci 2(10):685–694.
+40. Ramot M, et al. (2012) A widely distributed spectral signature of task-negative electrocorticography responses revealed during a visuomotor task in the human cortex.
+J Neurosci 32(31):10458–10469.
+41. Foster BL, Dastjerdi M, Parvizi J (2012) Neural populations in human posteromedial
+cortex display opposing responses during memory and numerical processing. Proc
+Natl Acad Sci USA 109(38):15514–15519.
+42. Hultsch DF, MacDonald SW, Dixon RA (2002) Variability in reaction time performance
+of younger and older adults. J Gerontol B Psychol Sci Soc Sci 57(2):101–115.
+43. Maillet D, Schacter DL (2016) From mind wandering to involuntary retrieval: Age-related
+differences in spontaneous cognitive processes. Neuropsychologia 80:142–156.
+44. Ceko M, et al. (2015) Is a responsive default mode network required for successful 
+working memory task performance? J Neurosci 35(33):11595–11605.
+45. Turner GR, Spreng RN (2015) Prefrontal engagement and reduced default network
+suppression co-occur and are dynamically coupled in older adults: The default-executive coupling hypothesis of aging. J Cogn Neurosci 27(12):2462–2476.
+46. Kaplan R, et al. (2016) Hippocampal sharp-wave ripples influence selective activation
+of the default mode network. Curr Biol 26(5):686–691.
+47. Axmacher N, Elger CE, Fell J (2008) Ripples in the medial temporal lobe are relevant
+for human memory consolidation. Brain 131(Pt 7):1806–1817.
+48. Vincent JL, et al. (2007) Intrinsic functional architecture in the anaesthetized monkey
+brain. Nature 447(7140):83–86.
+49. Dastjerdi M, et al. (2011) Differential electrophysiological response during rest, selfreferential, and non-self-referential tasks in human posteromedial cortex. Proc Natl
+Acad Sci USA 108(7):3023–3028.
+50. Spreng RN, et al. (2014) Goal-congruent default network activity facilitates cognitive
+control. J Neurosci 34(42):14108–14114.
+51. Sadaghiani S, Hesselmann G, Kleinschmidt A (2009) Distributed and antagonistic
+contributions of ongoing activity fluctuations to auditory stimulus detection.
+J Neurosci 29(42):13410–13417.
+52. Sali AW, Courtney SM, Yantis S (2016) Spontaneous fluctuations in the flexible control
+of covert attention. J Neurosci 36(2):445–454.
+53. Whitfield-Gabrieli S, Ford JM (2012) Default mode network activity and connectivity
+in psychopathology. Annu Rev Clin Psychol 8:49–76.
+54. Keil B, et al. (2013) A 64-channel 3T array coil for accelerated brain MRI. Magn Reson
+Med 70(1):248–258.
+55. Brainard DH (1997) The psychophysics toolbox. Spat Vis 10(4):433–436.
+56. Jenkinson M, Beckmann CF, Behrens TE, Woolrich MW, Smith SM (2012) Fsl. Neuroimage
+62(2):782–790.
+57. Pruim RH, Mennes M, Buitelaar JK, Beckmann CF (2015) Evaluation of ICA-AROMA
+and alternative strategies for motion artifact removal in resting state fMRI. Neuroimage
+112:278–287.
+58. Pruim RH, et al. (2015) ICA-AROMA: A robust ICA-based strategy for removing motion
+artifacts from fMRI data. Neuroimage 112:267–277.
+59. Chai XJ, Castañón AN, Ongür D, Whitfield-Gabrieli S (2012) Anticorrelations in resting
+state networks without global signal regression. Neuroimage 59(2):1420–1428.
+60. R Development Core Team (2013) R: A Language and Environment for Statistical
+Computing (R Foundation for Statistical Computing, Vienna, Austria).
+61. Gordon EM, et al. (2016) Generation and evaluation of a cortical area parcellation
+from resting-state correlations. Cereb Cortex 26(1):288–303.
+62. Barber AD, Caffo BS, Pekar JJ, Mostofsky SH (March 22, 2016) Decoupling of reaction
+time-related default mode network activity with cognitive demand. Brain Imaging
+Behav, 10.1007/s11682-016-9543-4.
+6 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1611743113 Kucyi et al.

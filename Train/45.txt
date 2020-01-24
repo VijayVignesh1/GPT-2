@@ -1,0 +1,639 @@
+Common and heritable components of white matter
+microstructure predict cognitive function at 1 and 2 y
+Seung Jae Leea,b, Rachel J. Steinera
+, Yang Yuc
+, Sarah J. Shorta
+, Michael C. Nealed
+, Martin Andreas Stynera,e,
+Hongtu Zhuf,g, and John H. Gilmorea,g,1
+a
+Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599; b
+Department of Psychiatry, Kyungpook National University
+School of Medicine, Daegu 700721, South Korea; c
+Department of Statistics and Operations Research, University of North Carolina at Chapel Hill, Chapel Hill,
+NC 27599; d
+Virginia Institute for Psychiatric and Behavioral Genetics, Virginia Commonwealth University, Richmond, VA 23298; e
+Department of Computer
+Science, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599; f
+Department of Biostatics, University of North Carolina at Chapel Hill, Chapel Hill,
+NC 27599; and g
+Biomedical Research Imaging Center, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599
+Edited by Brian A. Wandell, Stanford University, Stanford, CA, and approved November 22, 2016 (received for review March 23, 2016)
+Previous studies indicate that the microstructure of individual
+white matter (WM) tracts is related to cognitive function. More
+recent studies indicate that the microstructure of individual tracts
+is highly correlated and that a property common across WM is related
+to overall cognitive function in adults. However, little is known about
+whether these common WM properties exist in early childhood
+development or how they are related to cognitive development. In
+this study, we used diffusion tensor imaging (DTI) to investigate
+common underlying factors in 12 fiber tracts, their relationship with
+cognitive function, and their heritability in a longitudinal sample of
+healthy children at birth (n = 535), 1 y (n = 322), and 2 y (n = 244) of
+age. Our data show that, in neonates, there is a highly significant
+correlation between major WM tracts that decreases from birth to
+2 y of age. Over the same period, the factor structure increases in
+complexity, from one factor at birth to three factors at age 2 y, which
+explain 50% of variance. The identified common factors of DTI metrics
+in each age group are significantly correlated with general cognitive
+scores and predict cognitive ability in later childhood. These factors are
+moderately heritable. These findings illustrate the anatomical differentiation of WM fiber from birth to 2 y of age that correlate with
+cognitive development. Our results also suggest that the common
+factor approach is an informative way to study WM development
+and its relationship with cognition and is a useful approach for future
+imaging genetic studies.
+factor analysis | white matter | DTI | cognition | heritability
+I
+ndividual differences in white matter (WM) microstructure
+have been shown to be related to cognitive functions in adults
+(1, 2) and children (3–5). Diffusion tensor imaging (DTI) parameters in different WM regions or tracts are variably associated with
+processing speed, general intelligence, and higher-order cognitive
+abilities (1–5).
+To date, the majority of DTI studies of WM microstructure have
+analyzed each tract or WM region independently. However, more
+recent studies clearly demonstrate that fractional anisotropy (FA)
+and other DTI metrics of WM microstructure correlate highly
+across WM tracts and across a wide age range, including neonates,
+older children, and adults (6–8). Furthermore, studies indicate that
+a general factor derived by principal component analyses (PCA)
+describing common variance in FA across WM tracts is associated
+with information processing speed (9) as well as general intelligence
+(10), at least in older adults. In children ages 8 to 16 y, three
+principal components of FA have been identified; the one corresponding to the corpus callosum was significantly related to IQ (11).
+The identification of one or more common WM factors that
+influence variation in multiple WM tracts or regions is important
+for several reasons. Such factors could prove to be a good target
+for imaging genetic studies, as one would expect genetic variants
+influencing WM development and function to act on WM
+throughout the brain. Describing WM tracts in terms of their
+common underlying dimensions may also provide invaluable
+knowledge on how they are functionally linked. In addition,
+there is a practical value to combining and presenting complex
+microstructural data of every different fiber as a small number of
+summary scores, because they could be readily applied in clinical
+settings and easy to analyze in research studies. Finally, an understanding of how these common factors develop will be critical
+for understanding how WM tracts develop in relation to genetic,
+environmental, and functional influences.
+Early childhood is a time of rapid WM development, with a
+significant increase of myelination (12) and of FA and a decrease
+of radial diffusivity (RD) and axial diffusivity (AD) during the first
+2 y of life (13, 14). Two recent studies found that myelination, as
+measured by myelin water fraction (MWF), is predictive of general
+cognitive ability in young children (15, 16). However, little is known
+about how intertract microstructural covariance develops in this
+period of rapid growth, and how it is related to cognitive development. Furthermore, although studies have shown that regional or
+tract-based WM microstructure is heritable in children and adults
+(17), there have been no previous studies of the genetic and environmental contributions to the common factors that underlie WM
+integrity and development. Therefore, this study reports the covariance of tract-averaged DTI values across WM tracts, their relationship with cognitive functions, and their heritability in healthy
+children with longitudinal data collected at birth and ages 1 and 2 y.
+Results
+Changes in Intertract Correlations from Neonates to 2-y-Olds. We
+studied the correlation of tract-averaged DTI metrics between
+each WM tract across all subjects at each age. For this, tracts of
+interest were identified in an atlas, each subject’s images were
+registered to the atlas, and average AD, RD, and FA in each
+Significance
+The integrity or microstructure of white matter as determined
+by diffusion tensor imaging (DTI) is related to cognitive function. Most studies focus on individual tracts, even though the
+microstructure of white matter tracts throughout the brain is
+highly correlated. In older adults, a common property of white
+matter predicts cognitive function, though it is not known if
+common factors are present in early childhood development or
+how they relate to cognitive function. Here, we found that DTIbased common underlying factors that emerge at this age are
+significantly related to cognitive abilities from birth to age 2 y.
+These findings indicate that the functional specialization of
+cognition and the anatomical differentiation of fibers cooccur
+in the neonatal and infant brain.
+Author contributions: J.H.G. designed research; R.J.S., S.J.S., and J.H.G. performed research; S.J.L., R.J.S., Y.Y., S.J.S., M.C.N., M.A.S., and H.Z. analyzed data; and S.J.L., R.J.S.,
+and J.H.G. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: jgilmore@med.unc.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1604658114/-/DCSupplemental.
+148–153 | PNAS | January 3, 2017 | vol. 114 | no. 1 www.pnas.org/cgi/doi/10.1073/pnas.1604658114
+tract in the atlas space was determined. There was a general
+decrease in intertract correlations for all DTI-derived metrics
+from birth to 2 y of age, represented by the cooler colors in
+correlation matrices of 2-y-olds (Fig. 1). At birth, RD had the
+highest mean correlation among tracts, followed by FA and AD.
+This pattern was also observed at ages 1 and 2, but the correlations were not as strong at these older ages. Interestingly, each
+DTI parameter had a different developmental pattern; correlational coefficients of AD dropped extensively from birth to 1 y of
+age to the level observed at age 2, and those of RD and FA
+showed a more gradual reduction from birth to 2 y. Homologous
+pathways of the left and right cerebral hemispheres had higher
+correlation coefficients for all DTI parameters than did nonhomologous ones. Even though correlations of other nonhomologous tracts generally decreased, homologous tracts maintained
+fairly high correlations over time.
+In neonates, the splenium showed relatively low correlations
+with all other tracts across all DTI parameters (Table S1). In
+addition, AD and FA in the cingulate cingulum (CGC) and AD
+in the inferior longitudinal fasciculus (ILF) also had relatively
+poor correlations with the other tracts. At age 1 y, the genu and
+the splenium had high correlations with the corticothalamic tract
+(CT) and the ILF, respectively, across DTI parameters (Table
+S2). At age 2 y, some of these nonhomologous correlation coefficients were moderately high (Table S3): right CT–genu (ρ =
+0.59) for AD; right CT–genu (ρ = 0.62), right uncinate fasciculus
+(UNC)–genu (ρ = 0.63), and both ILF–splenium (ρ = 0.66) for
+RD; and right CT–genu (ρ = 0.63) for FA. Note that correlation
+patterns are very similar when one twin from each twin pair is
+excluded from the analysis across age groups (Tables S1–S3).
+To help ensure that the different numbers of gradient directions
+used for scans in this analysis did not contribute to the observed
+correlations, we analyzed intertract DTI correlations in a subgroup
+(n = 34) with all three time points using the same gradient directions (Table S4). In this subgroup, intertract correlation from birth
+to 2 y decreased in the same pattern with higher correlations of RD
+compared with AD and FA in a given age group, although many
+correlations were not significant due to the small sample size and
+increased variability of DTI parameters at ages of 1 and 2 y.
+Factor Analysis. Fig. 2 depicts extracted factors and their factor
+loading across 12 tracts using the principal axis factoring (also
+see Fig. S1 and Table S5). In neonates, factor analyses demonstrated a one-factor solution, with the first factor explaining
+72%, 69%, and 80% of the total variance of FA, AD, and RD,
+respectively. Factor loadings for individual tracts were evenly
+high ranging from 0.66 to 0.95, with the splenium having relatively low loadings across DTI metrics.
+At age 1 y, a single factor best describes FA and RD,
+explaining 47% and 56% of the total variance, respectively. Although the percentage of explained common variance and factor
+loading decreased somewhat, general patterns of factor loading
+were similar to that of neonates. In contrast, two factors were
+identified for AD, with the first two factors explaining 46%: F1
+with high loading for genu, ILF, and prefrontal CT, and F2 with
+high loading for CGC, arcuate (ARC), and UNC.
+At age 2 y, three factors were extracted for each DTI parameter. Three factors together explained 54% of total common
+variance of FA, 52% of AD, and 62% of RD. The overall pattern
+of factor loading was consistent for FA, AD, and RD. The ILF,
+Fig. 1. (A) Heat maps of the intertract correlation
+matrices obtained from tract-level AD, RD, and FA
+and (B) mean correlation coefficients of overall (OT),
+homologous (HT), and nonhomologous tracts (NHT).
+*P < 0.05 compared with a group of 1-y-olds; †, P <
+0.05 compared with a group of 2-y-olds; ‡, P < 0.05
+compared with a group of 2-y-olds. Bilateral cingulate cinguli, CGC; callosal genu, GENU; callosal splenium, SPLN; uncinate, UNC.
+Lee et al. PNAS | January 3, 2017 | vol. 114 | no. 1 | 149
+NEUROSCIENCE
+the ARC, and the splenium had high factor loadings for factor 1,
+the genu and the prefrontal projection of CT had high loading
+for factor 2, and the CGC and the ARC had high loading for
+factor 3. Interestingly, AD factor 3 at age 2 y corresponded to
+AD factor 2 at age 1 y. All individual tracts had a positive weight
+on the factor across age groups, whereas the weight was near
+zero for some tracts. In general, the degree of factor loading was
+similar for homologous tracts in each hemisphere.
+The similar factor structures were also found in two subgroups
+to which only one member of each of the twin pairs was randomly allotted across age groups (Fig. S2). Comparison of factor
+in the 6- and the 42-direction data found many similar factors
+with some differences; the 6- and 42-direction factors were related, suggesting differences were due to the small sample size of
+6-direction data (Fig. S3 and Dataset S1).
+Cognitive Relationships. There were several significant relationships
+between DTI parameter factors and Mullen early learning composite
+(ELC) scores (Table 1 and Fig. S4), including significant correlations
+between AD factor 1 in neonates and ECL at 1 y, AD factor 1 at 1 y
+and ECL at 2 y, and AD factor 2 at 1 y and ECL at 2 y, indicating
+that AD factors have a predictive ability for cognitive function at later
+ages. Interestingly, AD factors 1 or 2 at 1 y did not have any significant relationships with ECL at 1 y, whereas both FA factor 1 and
+RD factor 1 were significantly associated with ELC at 1 y, but not at
+other ages, indicating that DTI factor-cognitive function relationships
+are age-specific. Supplementary Spearman’s correlation indicated
+that FA had a positive relationship whereas RD had a negative relationship with ELC at age 1 y. Neonatal AD factor 1 had negative
+relationship with ELC at 1 y, whereas AD factor 1 at ages 1 and 2 y
+showed positive relationships with ELC at age 2 y (Table S6).
+Secondary analysis of distance correlations with verbal and
+nonverbal developmental quotients (VDQ and NVDQ, respectively) revealed several significant relationships of interest not
+captured by correlations with ECL (Table S7). Neonatal factor 1
+for FA, AD, and RD each was significantly correlated with
+NVDQ at age 1 y, and neonatal AD factor 1 was significantly
+correlated with VDQ at age 2 y, providing more evidence of the
+predictive ability of DTI factors for later cognitive function. FA
+factor 3 at 2 y was also significantly correlated with VDQ at age
+2 y. Analysis of the Mullen subscales revealed several significant
+correlations consistent with correlations identified with ECL,
+VDQ, and NVDQ (Table S7).
+These results were generally replicated in subgroups in which
+only one member of each of the twin pairs was assigned (Tables
+S8 and S9).
+Heritability Analysis. Genetic contributions to DTI factors are
+presented in Table 2. In neonates, the single factor of AD, RD,
+and FA had relatively little genetic variance (0.25 to 0.29),
+whereas 1-y-olds had higher heritability estimates (0.38 to 0.74).
+Genetic contributions were somewhat lower and more variable
+at age 2 y (0.20 to 0.53) given the complex factor structure
+present at age 2 y. These differences are likely nonsignificant;
+statistical tests involve multivariate longitudinal analyses, which
+are beyond the scope of this article.
+Discussion
+We have shown that there are highly significant correlations in
+measures of microstructure between major WM tracts in neonates
+and that these correlations tend to decrease after birth while the
+factor structure develops increased complexity by age 2 y. The
+factors that describe common WM microstructure are significantly
+related to cognitive development in the first years of life, and these
+relationships are age-specific. We also found that these common
+WM microstructure factors are moderately heritable.
+Factor Structure of Microstructural WM Parameters. This study investigates the factor structure of DTI parameters. We believe
+that explorative factor analysis (EFA) is more suitable than the
+PCA that previous studies have used because the main purpose of
+this study is not merely to reduce data but to identify unobservable
+latent variables that account for the shared variances (covariance)
+among variables that incorporate error of measurement (18).
+In the current study, factors were extracted based on statistically significant correlations of WM microstructure between fibers. The biological underpinning of the factors is fundamentally
+the basis of diffusion properties in WM, effect of longitudinally
+oriented axonal membranes, the coherence of the parallel organization of axons within fibers, the packing density of the fibers,
+and their degree of myelination (19). Functional relatedness of fibers (7, 20) as well as technical causes such as intravoxel partial
+volume averaging (21) have also been proposed as possible explanations of correlation.
+Fig. 2. Factor loadings of 12 tracts on extracted factors in three age groups.
+Refer to Fig. 1 for abbreviations.
+Table 1. Distance correlation coefficients (dCor) between
+Mullen ELC and factors of DTI parameters
+Group DTI factor
+ELC at age 1 y ELC at age 2 y
+dCor FDR-p dCor FDR-p
+Age 0 FA_F1 0.10 0.45 0.12 0.24
+AD_F1 0.13 0.02 0.12 0.35
+RD_F1 0.11 0.24 0.12 0.24
+Age 1 y FA_F1 0.20 <10−5 0.10 0.71
+AD_F1 0.11 0.446 0.20 <10−4
+AD_F2 0.10 0.745 0.09 0.78
+RD_F1 0.20 <10−4 0.12 0.45
+Age 2 y FA_F1 – – 0.12 0.56
+FA_F2 – – 0.12 0.52
+FA_F3 – – 0.13 0.45
+AD_F1 – – 0.19 0.001
+AD_F2 – – 0.11 0.71
+AD_F3 – – 0.16 0.17
+RD_F1 – – 0.11 0.63
+RD_F2 – – 0.10 0.39
+RD_F3 – – 0.13 0.78
+FDR-p, false discovery rate P value. Boldface P-values indicate significance
+level <0.05.
+150 | www.pnas.org/cgi/doi/10.1073/pnas.1604658114 Lee et al.
+Factor analyses in this study indicated that the number of
+factors increases from one at birth to three at age 2. In neonates,
+one-factor structure with a single factor explained over 69% of
+the variance for AD, RD, and FA. At 1 y, FA and RD are best
+described by a one-factor structure, but the amount of the variance explained by the factor was somewhat decreased compared
+with this relationship at birth. At 1 y, AD is best described by two
+factors: one that includes high factor loading for the UNC, ARC,
+and CGC and much weaker loading for other tracts, and one that
+generally has moderate loading for all tracts except the CGC.
+The UNC−ARC−CGC factor persists at age 2 y; RD also “develops” this factor by age 2 y.
+At age 2 y, three factors were extracted from all three DTI
+metrics. Fibers located in the posterior part of the cerebrum
+including the ILF, ARC, and splenium were dominant in factor 1
+while the CGC and CT tracts were weakly loaded; fibers located
+in the anterior cerebrum including the CT and genu were
+dominant in factor 2. These findings are consistent with the
+notion that the global pattern of WM development follows a
+posterior−anterior gradient and thus the factors seem to reflect a
+shared maturation between fibers. Previous DTI studies have
+demonstrated that many of the same frontal fiber systems that
+make up factor 2 at age 2 y (e.g., uncinate, genu, corticospinal
+tract) mature later in development than more posterior fiber
+systems that make up factor 1 (e.g., ILF, splenium) (22–24). In
+addition, there are differences in other WM-related profiles such
+as diameter of axon and thickness of myelin sheaths between
+anterior and posterior regions of the cerebrum (25, 26). In
+parallel with this posterior−anterior theory of cortical maturation, the synchrony we observed in WM tracts is also reflective of
+the theory that cortical development is hierarchical, with sensorimotor regions maturing before regions that support higherorder processing (27). Factor loading was similar in each hemisphere for homologous tracts, suggesting that even though FA,
+RD, and AD tend to be somewhat asymmetric on a tract basis
+(14), the overall factor loading is similar across hemispheres. In
+terms of functional similarities, the genu connects left and right
+prefrontal cortex (7, 20) and explains prefrontal functions predominantly (28), whereas the splenium, ARC, and ILF are major
+tracts in which associations are consistently revealed between
+diffusion measures and language function (29, 30). Factor 3, the
+UNC−ARC−CGC dominant factor present at age 2 y, was already apparent at age 1 y for AD, suggesting that AD may be a
+more sensitive marker of differences in early maturation compared
+with RD and FA. The three dominant fibers in this somewhat
+unexpected factor 3 are all curvilinear and later maturing association fibers connecting cortical regions within hemispheres. Because
+fibers with a higher degree of orientation dispersion reduce the FA
+due to partial volume effects (31), these three fibers may have
+relatively low FA in common (14) and cluster together. However,
+note that labeling a factor runs the risk of reifying a statistical
+finding, and further studies are needed to investigate the functional
+implication of these factors.
+At this time, it is not clear how the factor structure of common WM
+microstructure develops between age 2 y and adulthood. A previous
+PCA study identified one FA component in older adults (9). Although
+it is difficult to compare these studies directly, it may be that WM
+tracts differentiate into several complex factors during childhood development but, in adulthood at the endpoint of development, converge to make a single universal factor again. This assumption may
+corroborate the canalization effect, in which cumulative genetic effects
+determine the endpoint of development (32).
+Cognitive Relationships. This study found that the common factor
+for AD, RD, and FA at birth was significantly correlated with
+NVDQ at age 1 y, and neonatal AD was also correlated with
+ECL at age 1 y and VDQ at age 2 y. As such, neonatal WM microstructure at birth is somewhat predictive of cognitive function at
+later ages. AD factor 1 in 1-y-olds was predictive of ECL at age 2 y.
+It is interesting that the common FA and RD factor at age 1 y was
+significantly related to ELC at age 1 y whereas there was no relationship of any of the FA or RD factors with ECL at 2 y. In contrast, the AD factors at age 1 y are not related to cognitive function
+at age 1 y, whereas AD factor 1 (with high loading from ILF, ARC,
+and splenium) at ages 1 and 2 y is related to ECL at age 2 y. At ages
+1 and 2 y, less maturity (higher AD) in these association fibers is
+associated with better cognitive development. In contrast, the negative correlation of neonatal AD factor 1 with ECL at 1 y indicates
+that relatively more mature (lower AD) fibers at birth are associated with better cognitive development at 1 y. These results indicate
+that the relationship between WM microstructure and cognitive
+development is age-specific in early childhood.
+In the developing brain, AD is thought to reflect overall fiber
+density and complexity whereas RD is more reflective of myelination (12). These measures are more proximal to the neuroanatomical processes (i.e., axonal pruning and change of
+intracellular cytoskeleton during early development) than FA
+(22), and FA and RD change more rapidly from 1 to 2 y compared with AD (14). AD may be a better representative of WM
+fibers as a whole because of these properties (12). AD at birth
+was predictive of ECL at age 1 y and of VDQ at age 2 y, and AD
+factor 1 at age 1 y was predictive of ECL at age 2 y, suggesting
+that overall WM complexity and integrity is more highly correlated with later cognitive development. There is rapid development of myelin and a decrease in RD (13, 14) in the first year of
+life, and the relationship of the RD factor at 1 y with ELC at 1 y
+may reflect the role that myelination plays in cognitive development in the first year of life, although the role of myelination
+(at least as much as it is reflected in RD) is not as strong at age
+2 y, perhaps due to a ceiling effect. This may be because the bulk
+of myelination has occurred by age 1 y and individual variation in
+cognitive development in the second year of life is less dependent on further maturation of myelin and more dependent
+on inherent structure reflected in AD. This notion is supported
+by a previous study that found only a very weak association of
+MWF, a myelin-related imaging parameter, with Mullen cognitive scores in young children (16). In addition, a similar study
+found MWF had more widespread correlations with ECL in 1- to
+2-y-olds compared with 2- to 4.8-y-olds (15).
+FA and cognitive function relationships have been studied mainly
+in adults and older children (3, 33), and some studies find lower RD
+in association with better cognition as an index of myelination (4, 5).
+However, few studies have reported relationships between AD and
+cognition (1). AD appears to be more related to cognitive development in early childhood than are RD or FA (12).
+Table 2. Variance component estimates of each factor for DTI
+parameters
+Group DTI factor
+Variance components
+a2 c2 e2
+Age 0 FA_F1 0.29**** 0.00 0.06****
+AD_F1 0.25*** 0.02 0.07****
+RD_F1 0.25**** 0.03 0.04****
+Age 1 FA_F1 0.55** 0.00 0.24***
+AD_F1 0.38** 0.06 0.12****
+AD_F2 0.55* 0.02 0.23****
+RD_F1 0.74**** 0.00 0.12****
+Age 2 FA_F1 0.49*** 0.00 0.12****
+FA_F2 0.53* 0.00 0.21***
+FA_F3 0.46** 0.03 0.12****
+AD_F1 0.30 0.00 0.25
+AD_F2 0.51*** 0.00 0.06****
+AD_F3 0.32 0.10 0.17****
+RD_F1 0.20 0.06 0.21*
+RD_F2 0.35*** 0.10 0.07****
+RD_F3 0.41** 0.00 0.16***
+*P < 0.05; **P < 0.01; ***P < 0.001; ****P < 0.0001. Values are unstandardized variance component estimates.
+Lee et al. PNAS | January 3, 2017 | vol. 114 | no. 1 | 151
+NEUROSCIENCE
+Overall, the correlations between the DTI factors and cognitive functions were weak and ranged from 0.13 to 0.23. These
+correlations are, in fact, very similar to those found by the previous studies of older adults using a similar approach (9, 10),
+suggesting that the magnitude of the relationship between WM
+microstructure and overall cognitive function may be consistent
+throughout life. The tract-averaged analysis performed in this
+study may not be the best way to uncover structure−function
+relationships in WM, as specific regions within tracts may have
+stronger relationships with behavior and cognitive function.
+Heritability of Identified Factors. We observed that single factors of
+FA, AD, and RD in neonates had significant heritability ranging
+from 0.24 to 0.28. These findings are consistent with a mean
+heritability of around 0.30 in individual tracts in neonates using
+the same quantitative tractography (34). Factor heritability
+demonstrated a moderate increase at age 1 y—0.37 to 0.71—and
+then a mild decrease to 0.20 to 0.52 at age 2 y as the three factors
+were divided, with genetic estimates of factors at age 2 y still
+higher than those in neonates.
+On the other hand, the present study found that the common
+environment component for DTI factors was around zero across
+this age range, whereas the unique environment component showed
+considerable increase at age 1 y. These findings suggest that environmental effects shared by twin pairs are minimal, whereas
+those not shared by twin pairs increase with age; thus environment may influence the relative decrease of heritability from
+birth to 2 y of age.
+As imaging genetic studies of WM indicated that several genes
+are associated with WM microstructure (35, 36), WM-related
+genes likely have effects across all WM fibers. These possibilities,
+in turn, suggest that factor analysis or PCA may be more informative for imaging genetics studies.
+Microstructural Intertract Correlation. When two tracts have a
+positive correlation, a subject with a large FA value in one tract
+is likely to have a large FA in the other tract. A previous study
+found that adults had higher intertract correlations than neonates (6), although the trajectory between birth and adulthood is
+not clear. We found that, after initial decline, means of betweentract correlations in 2-y-olds reached 0.35 ± 0.12 for FA, 0.33 ±
+0.11 for AD, and 0.49 ± 0.10 for RD in this study, lower than
+neonates, and also supported for adolescents (0.35 ± 0.18 for
+FA, 0.78 ± 0.06 for AD, and 0.75 ± 0.08 for RD) (6) and adults
+(0.43 ± 0.18 for FA, 0.41 ± 0.16 for AD, and 0.51 ± 0.13 for RD)
+(7). Healthy neonates are born with mostly unmyelinated WM,
+and myelination occurs primarily over the first few years of life.
+Hence, the correlations between tracts would be expected to be
+high at birth given that tracts would tend to be homogenous, with
+little myelination and differentiation, and lower in the early
+postnatal period as tract maturation and myelination occurs in
+response to individual experience and heterogeneous genetic
+and environmental influences on individual tracts (6). Taken
+together, we propose U-shaped trajectory of microstructural
+intertract correlation, with a decrease from birth to 2 y and then
+a gradual increase throughout adolescence and into adulthood.
+Longitudinal studies in children are necessary to confirm this.
+This study has several limitations that need to be considered
+when interpreting the results. First, the use of different scanners
+with different gradient directions may introduce differences in
+DTI microstructural measurements (21, 37), although correlations between tracts in individuals would likely be less affected
+given they were determined at a single time point with the same
+sequence on the same scanner. In general, subjects across age
+groups showed similar factor structures between the 6- and the
+42-direction data, with some differences that were likely caused
+by the small sample size of the 6-direction data. In addition, the
+results for intertract DTI correlations over time using a subgroup
+with all three time points using the same gradient directions were
+similar to the larger group. Second, attrition across age groups is
+another caveat that may affect results, including reduced power
+to detect significant correlations at ages 1 and 2 y. In addition to
+loss of subjects over time due to dropouts, a further loss of analyzable scans in 1- and 2-y-olds was caused by failure to get the
+child to sleep and enter the scanner, which is more likely in older
+children, as well as motion once in the scanner, even when
+cognitive data were available for the subject. Finally, our analysis
+study was focused on correlations of tract averages, mainly to be
+comparable to previous studies in adults that used this approach.
+An analysis of pointwise DTI metrics, namely tract profiles along
+each tract, may provide more precise spatial information about
+correlations and how they change over development (14).
+In conclusion, our longitudinal study has demonstrated decreased intertract correlations, increased complexity of factor
+structure, and genetic heritability from birth to 2 y of age in
+terms of DTI parameters. Moreover, these common components
+of WM microstructure are associated with present and future
+cognitive ability and are age-specific. This suggests that studies of
+WM structure and cognitive ability need to be age-specific and
+that combining wide age ranges in development will miss agespecific relationships (30). Further studies at later ages in childhood
+are needed to understand how these relationships evolve. Finally,
+this study also suggests that the common factor approach is a
+fruitful way to study WM microstructure and the relationship to
+cognitive function in development and complements an individual-fiber-centered approach.
+Materials and Methods
+Participants. Children analyzed in this study are healthy singleton and twin
+subjects in the ongoing longitudinal University of North Carolina Early Brain
+Development Studies (EBDS). Pregnant women were recruited from the outpatient obstetrics−gynecology clinics at the University of North Carolina hospitals and Duke University Medical Center. Exclusion criteria for mothers
+included major maternal illness or infection during pregnancy, and maternal
+diagnosis of a major psychiatric disorder; for neonates, exclusion criteria included chromosomal abnormalities, severe congenital abnormalities, major
+medical illness or infection, and abnormalities on MRI other than small intracranial hemorrhages that are common in neonates (38). Zygosity was determined with PCR short tandem repeat analysis of 14 loci on DNA prepared
+from buccal swab cell collection (BRT Laboratories). Written informed consent
+was obtained from a parent of all infant participants. This study was approved
+by the Institutional Review Boards of the University of North Carolina School of
+Medicine and Duke University Medical Center.
+DTI and cognitive data from a total of 685 subjects were collected across three
+age groups (Dataset S2) including 429 twin (173 monozygotic, 256 dizygotic)
+and 256 nontwin subjects (male/female: 366/319, Caucasian/African American/
+Asian: 525/146/14). There were 535 subjects with analyzable DTI scans at birth,
+322 at 1 y, and 244 at 2 y; among 322 subjects with usable scans at age 1 y, 217
+(67%) were included at birth; of the 244 with usable scans at age 2 y, 164 (67%)
+were included at birth and 134 (55%) were included at age 1 y. Demographic
+variables for each group are presented in Table S10 and Fig. S5. Data from these
+participants have been published partially in our previous studies (14, 34).
+Image Acquisition. Most MRI data were acquired on a 3T Siemens Allegra headonly scanner (Siemens Medical System), comprising 86% of the neonates, 82% of
+the 1-y-olds, and 77% of the 2-y-olds in the present study. For earlier Allegra
+diffusion-weighted imaging (DWI) data, a single-shot echo-planar imaging spinecho sequence was used with the following parameters: Repetition Time (TR)/
+Echo Time (TE) = 5,200/73 ms, slice thickness = 2 mm, and in-plane resolution =
+2 × 2 mm2
+, with a total of 45 slices for six directions using b value of 1,000 s/mm2
+and 1 baseline image (b value = 0) per sequence, repeated five times total to
+improve signal-to-noise. For the remaining Allegra DWI data, 42 directions of
+diffusion sensitization were acquired with a b value of 1,000 s/mm2 in addition
+to seven images with no diffusion weighting for reference. The parameters
+were as follows: TR/TE/Flip angle = 7,680/82/90°, slice thickness = 2 mm, and inplane resolution = 2 × 2 mm2
+, with a total of 60 to 72 slices. The rest of the
+study subjects were scanned using an upgraded Siemens model, the 3T Tim Trio
+(Siemens Medical System), following the same sequencing parameters as the
+42-direction Allegra sequence detailed above.
+Quantitative Tractography. A study-specific quality control protocol was applied
+to all raw DWI data using DTIPrep (www.nitrc.org/projects/dtiprep), which included slice-wise and gradient-wise artifact detection, as well as eddy current
+and motion correction (39). Skull and nonbrain tissue was masked out using
+152 | www.pnas.org/cgi/doi/10.1073/pnas.1604658114 Lee et al.
+Brain Extraction Tool (BET) (40), and tensors were estimated using a weighted
+least-squares algorithm (41). Using the University of North Carolina −Utah
+National Alliance for Medical Image Computing DTI framework (www.nitrc.
+org/projects/dtiatlasbuilder, 42), the University of North Carolina EBDS combined neonate and pediatric (1 to 2 y) atlas was created, on which a total of 12
+fiber tract segments consistent with those of Penke et al. (12) were reconstructed using streamline tractography using 3D Slicer (https://www.slicer.org)
+and defined as follows: callosal genu and splenium; bilateral cingulate cinguli;
+ARC; uncinate; ILF; and prefrontal projections of the CT (see ref. 14 and appendix of ref. 34 for details). Each subject’s image was registered to the atlas.
+For group analysis, statistical diffusion profiles were generated for AD, RD, and
+FA at equally spaced points along the length of each fiber tract in each subject’s original DTI space. Note that the tractography can be considered to
+identify regions of interest along the tract, as crossing fibers from other tracts
+may be contributing to the results. Average AD, RD, and FA values were
+computed over a given fiber segment for each tract. These generated tractaveraged DTI parameters were used in the following analysis.
+Cognitive Measure: Mullen Scales of Early Learning. The Mullen Scales of Early
+Learning (MSEL) is a standardized developmental test for children ages 3 to
+60 mo; it consists of five scales: gross motor, fine motor, visual reception,
+expressive language, and receptive language (43). The MSEL was administered to all participants by trained researchers using standardized protocols
+at ages 1 and 2 y.
+The primary cognitive variable for the present study was the conventional
+Mullen ELC, which is a T score representing an average of the four scales:
+visual reception, fine motor, expressive language, and receptive language.
+Mullen VDQ, NVDQ, and raw scores composed of the five Mullen scales were
+also used as secondary variables (5).
+Statistical Analysis. For demographic variables, frequency distributions were
+calculated for categorical variables, and the means and SDs were calculated
+for continuous variables.
+Spearman’s correlation analyses were used to study the intercorrelations
+of the tract averages of DTI parameters between WM tracts. Then, EFA for
+each tract average DTI parameter was conducted in the whole sample using
+the package “psych” (44) and “MVN” (45) in R (46). The relationships between
+extracted factor scores of the tract average DTI metrics and the cognitive scores
+were studied using distance correlation performed by the package “energy” in
+R (47). The Benjamini and Hochberg (1995) false discovery rate (FDR) adjustment was used to adjust P values for multiple comparisons (48).
+For genetic analysis of twins, we fitted ACE (additive genetics, common
+environment, and unique environment) model to study the importance of
+environmental and genetic influences. The variance was decomposed into
+three components of ACE. Parameters were estimated using Full Information maximum Likelihood in the R package “OpenMx” (44). A full
+description of statistical analysis is provided in Supporting Information.
+ACKNOWLEDGMENTS. We thank Emil Cornea, Ph.D., for his assistance with
+statistical analysis. This work was supported by National Institutes of Mental
+Health Grants MH064065 and MH070890 (to J.H.G.) and RR025747 and
+MH086633 (to H.Z.), National Institute of Child Health and Human Development Grant HD053000 (to J.H.G.), and National Science Foundation Grants
+SES-1357666 and DMS-1407655 (to H.Z.).
+1. Borghesani PR, et al. (2013) The association between higher order abilities, processing
+speed, and age are variably mediated by white matter integrity during typical aging.
+Neuropsychologia 51(8):1435–1444.
+2. Sasson E, Doniger GM, Pasternak O, Tarrasch R, Assaf Y (2013) White matter correlates
+of cognitive domains in normal aging with diffusion tensor imaging. Front Neurosci 7:32.
+3. Schmithorst VJ, Yuan W (2010) White matter development during adolescence as
+shown by diffusion MRI. Brain Cogn 72(1):16–25.
+4. Tamnes CK, et al. (2010) Intellectual abilities and white matter microstructure in
+development: A diffusion tensor imaging study. Hum Brain Mapp 31(10):1609–1625.
+5. Short SJ, et al. (2013) Associations between white matter microstructure and infants’
+working memory. Neuroimage 64:156–166.
+6. Mishra V, et al. (2013) Differences of inter-tract correlations between neonates and
+children around puberty: A study based on microstructural measurements with DTI.
+Front Hum Neurosci 7:721.
+7. Wahl M, et al. (2010) Microstructural correlations of white matter tracts in the human
+brain. Neuroimage 51(2):531–541.
+8. Westlye LT, et al. (2010) Life-span changes of the human brain white matter: Diffusion
+tensor imaging (DTI) and volumetry. Cereb Cortex 20(9):2055–2068.
+9. Penke L, et al. (2010) A general factor of brain white matter integrity predicts information processing speed in healthy older people. J Neurosci 30(22):7569–7574.
+10. Penke L, et al. (2012) Brain white matter tract integrity as a neural foundation for
+general intelligence. Mol Psychiatry 17(10):1026–1030.
+11. Clayden JD, et al. (2012) Normative development of white matter tracts: Similarities and
+differences in relation to age, gender, and intelligence. Cereb Cortex 22(8):1738–1747.
+12. Dubois J, et al. (2014) The early development of brain white matter: A review of
+imaging studies in fetuses, newborns and infants. Neuroscience 276:48–71.
+13. Dubois J, et al. (2008) Microstructural correlates of infant functional development:
+Example of the visual pathways. J Neurosci 28(8):1943–1948.
+14. Geng X, et al. (2012) Quantitative tract-based white matter development from birth
+to age 2 years. Neuroimage 61(3):542–557.
+15. Deoni SC, et al. (2016) White matter maturation profiles through early childhood
+predict general cognitive ability. Brain Struct Funct 221(2):1189–1203.
+16. O’Muircheartaigh J, et al. (2014) White matter development and early cognition in
+babies and toddlers. Hum Brain Mapp 35(9):4475–4487.
+17. Blokland GA, de Zubicaray GI, McMahon KL, Wright MJ (2012) Genetic and environmental influences on neuroimaging phenotypes: A meta-analytical perspective on
+twin imaging studies. Twin Res Hum Genet 15(3):351–371.
+18. Preacher KJ, MacCallum RC (2003) Repairing Tom Swift’s electric factor analysis machine. Understanding Stat 2(1):13–43.
+19. Beaulieu C (2002) The basis of anisotropic water diffusion in the nervous system—A
+technical review. NMR Biomed 15(7-8):435–455.
+20. Hofer S, Frahm J (2006) Topography of the human corpus callosum revisited—Comprehensive fiber tractography using diffusion tensor magnetic resonance imaging.
+Neuroimage 32(3):989–994.
+21. Jones DK (2004) The effect of gradient sampling schemes on measures derived from
+diffusion tensor MRI: A Monte Carlo study. Magn Reson Med 51(4):807–815.
+22. Gao W, et al. (2009) Temporal and spatial development of axonal maturation and
+myelination of white matter in the developing brain. AJNR Am J Neuroradiol 30(2):
+290–296.
+23. Lebel C, Walker L, Leemans A, Phillips L, Beaulieu C (2008) Microstructural maturation
+of the human brain from childhood to adulthood. Neuroimage 40(3):1044–1055.
+24. Braga RM, et al. (2015) Development of the corticospinal and callosal tracts from
+extremely premature birth up to 2 years of age. PLoS One 10(5):e0125681.
+25. Lamantia AS, Rakic P (1990) Cytological and quantitative characteristics of four cerebral commissures in the rhesus monkey. J Comp Neurol 291(4):520–537.
+26. Husain J, Juurlink BH (1995) Oligodendroglial precursor cell susceptibility to hypoxia is
+related to poor ability to cope with reactive oxygen species. Brain Res 698(1-2):86–94.
+27. Guillery RW (2005) Is postnatal neocortical maturation hierarchical? Trends Neurosci
+28(10):512–517.
+28. Narberhaus A, et al. (2008) Corpus callosum and prefrontal functions in adolescents
+with history of very preterm birth. Neuropsychologia 46(1):111–116.
+29. Swanson MR, et al.; IBIS Network (October 21, 2015) Splenium development and early
+spoken language in human infants. Dev Sci, 10.1111/desc.12360.
+30. Wandell BA, Yeatman JD (2013) Biological development of reading circuits. Curr Opin
+Neurobiol 23(2):261–268.
+31. Szczepankiewicz F, et al. (2015) Quantification of microscopic diffusion anisotropy
+disentangles effects of orientation dispersion from microstructure: Applications in
+healthy volunteers and in brain tumors. Neuroimage 104:241–252.
+32. Gilmore JH, et al. (2010) Genetic and environmental contributions to neonatal brain
+structure: A twin study. Hum Brain Mapp 31(8):1174–1182.
+33. Madden DJ, et al. (2012) Diffusion tensor imaging of cerebral white matter integrity
+in cognitive aging. Biochim Biophys Acta 1822(3):386–400.
+34. Lee SJ, et al. (2015) Quantitative tract-based white matter heritability in twin neonates. Neuroimage 111:123–135.
+35. Chiang MC, et al. (2012) Gene network effects on brain microstructure and intellectual performance identified in 472 twins. J Neurosci 32(25):8732–8745.
+36. Chiang MC, et al. (2011) BDNF gene effects on brain circuitry replicated in 455 twins.
+Neuroimage 55(2):448–454.
+37. Ni H, Kavcic V, Zhu T, Ekholm S, Zhong J (2006) Effects of number of diffusion gradient directions on derived diffusion tensor imaging indices in human brain. AJNR Am
+J Neuroradiol 27(8):1776–1781.
+38. Looney CB, et al. (2007) Intracranial hemorrhage in asymptomatic neonates: Prevalence on
+MR images and relationship to obstetric and neonatal risk factors. Radiology 242(2):535–541.
+39. Oguz I, et al. (2014) DTIPrep: Quality control of diffusion-weighted images. Front
+Neuroinform 8:4.
+40. Smith SM (2002) Fast robust automated brain extraction. Hum Brain Mapp 17(3):143–155.
+41. Goodlett CB, Fletcher PT, Gilmore JH, Gerig G (2009) Group analysis of DTI fiber tract
+statistics with application to neurodevelopment. Neuroimage 45(1, Suppl):S133–S142.
+42. Verde AR, et al. (2014) UNC-Utah NA-MIC framework for DTI fiber tract analysis. Front
+Neuroinform 7:51.
+43. Mullen EM (1995) Mullen Scales of Early Learning: AGS Edition (Am Guidance Serv,
+Circle Pines, MN).
+44. Revelle W (2015) Psych: Procedures for Personality and Psychological Research,
+version 1.5.1 (Northwestern Univ, Evanston, IL).
+45. Korkmaz S, Goksuluk D, Zararsiz G (2014) MVN: An R package for assessing multivariate normality. R J 6(2):151–162.
+46. R Core Team (2014) R: A Language and Environment for Statistical Computing (R
+Found Stat Comput, Vienna).
+47. Szekely GJ, Rizzo ML (2013) Energy statistics: A class of statistics based on distances.
+J Stat Plan Inference 143(8):1249–1272.
+48. Benjamini Y, Hochberg T (1995) Controlling the false discovery rate: A practical and
+powerful approach to multiple testing. J R Stat Soc B 57(1):289–300.
+Lee et al. PNAS | January 3, 2017 | vol. 114 | no. 1 | 153
+NEUROSCIENCE

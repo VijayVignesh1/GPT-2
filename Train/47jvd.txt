@@ -1,0 +1,666 @@
+Human visual cortex responds to invisible
+chromatic flicker
+Yi Jiang1, Ke Zhou2 & Sheng He1
+When two isoluminant colors alternate at frequencies of 25 Hz or higher, observers perceive only one fused color. Chromatic
+flicker beyond the fusion frequency induces flicker adaptation in human observers and stimulates monkey V1 neurons. Here we
+use functional magnetic resonance imaging (fMRI) to show that many human visual cortical areas, with the exception of VO, can
+distinguish between fused chromatic flicker and its matched nonflickering control. This result supports the existence of significant
+intracortical temporal filtering of high-frequency chromatic information. The result also suggests that a considerable difference in
+cortical activation in many visual cortical areas does not necessarily lead to different conscious experiences.
+Humans have a very efficient and powerful visual system, yet both its
+spatial and temporal resolutions are limited. Spatial patterns that are
+too fine and temporal fluctuations that are too fast are lost to our
+perception. In the temporal domain, even under optimal conditions, we
+cannot resolve luminance flicker faster than about 50 Hz and chromatic
+flicker faster than 25 Hz1–4. Temporal modulations beyond the so-called
+critical flicker frequencies (CFF) are no longer perceived as flicker. For
+example, when two isoluminant colors alternate at frequencies of 25 Hz
+or higher, observers perceive only one fused color. The human visual
+system consists of multiple levels of neural processing, including retinal
+and lateral geniculate nucleus stages, and many cortical stages. It is
+natural to ask where in the system the resolution limit is imposed.
+One naive yet intuitive and reasonable prediction of the bottleneck
+for both spatial and temporal information processing would be that the
+primary loss of resolution occurs at the link between subcortical
+and cortical levels of processing. This idea is reasonable because if
+the information is not eventually perceived, then why bother having
+the information represented and processed cortically? However, both
+neurophysiological and psychophysical studies have suggested that
+invisible information can and does reach cortical neurons. For example,
+color opponent neurons in V1 of macaque monkeys respond to
+chromatic flicker at frequencies much higher than the CFF5. In
+psychophysical studies, adapting to either luminance or chromatic
+flicker at frequencies above their respective CFF can reduce observers’
+flicker sensitivity6 and alternating colored patterns too fast to be
+perceptible can still induce orientation contingent color aftereffects7.
+Recordings of evoked potentials from human subjects also show the
+so-called entrainment of the signal with the screen refresh8. However,
+single-unit studies generally suffer from severe sampling limitations,
+and psychophysical as well as VEP studies lack the ability to precisely
+localize the neural sites. Thus it is challenging for these techniques to
+investigate responses to fused chromatic flicker across multiple visual
+areas. Although fMRI studies have investigated cortical responses to
+chromatic modulation9, including its temporal properties10, and
+demonstrated a correlation between parietal and frontal activation
+and conscious perception of flicker11, it remains poorly understood
+how temporal resolution limitations are imposed in the neural transformation in human visual cortex, especially for chromatic information.
+In the current study, we investigated whether the human visual
+cortex could distinguish fused chromatic flicker from its matched
+nonflickering control using fMRI. An advantage of the fMRI approach
+is that measures of cortical responses can be taken simultaneously at
+multiple cortical areas, thus providing a more complete picture of how
+the information is processed and transformed in the visual brain. Our
+results show that fused chromatic flicker generated a substantially
+higher response compared with a matched nonflickering control
+stimulus in many early visual cortical areas, with the notable exception
+of area VO/V8, a region selectively sensitive to color information10,12.
+RESULTS
+Retinotopic mapping and ROIs identification
+Each subject was first scanned with the standard retinotopic mapping
+procedure of viewing a rotating wedge and an expanding ring13. This
+allowed us to identify the borders of different visual areas (V1, V2, V3/
+VP, V3A and hV4/V4v) on a computationally flattened brain (Fig. 1).
+An area just anterior to the hV4/V4v was also identified as a region of
+interest (ROI). The exact topography and name of this region is still
+controversial. One model suggests that hV4 (including the foveal part
+of V4v) contains a complete hemifield representation, and the region
+anterior to hV4 is labeled VO (VO-1, VO-2)14, whereas another model
+treats this region as a distinct region from the V4v representation and
+names it V8 (ref. 12). Our study does not address the topography of this
+region and so far we have used an inclusive label VO/V8 to refer to this
+region anterior to hV4/V4v. For simplicity, we will only use the label
+Received 13 January; accepted 21 February; published online 1 April 2007; doi:10.1038/nn1879
+1Department of Psychology, University of Minnesota, 75 E. River Rd., Minneapolis, Minnesota 55455, USA. 2State Key Laboratory of Brain and Cognitive Science, Graduate
+School and Institute of Biophysics, Chinese Academy of Sciences, 15 Datun Road, Beijing 100101, China. Correspondence should be addressed to S.H. (sheng@umn.edu).
+NATURE NEUROSCIENCE VOLUME 10 [ NUMBER 5 [ MAY 2007 657
+ARTICLES
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+VO, which in our study only includes the region outside the boundary
+corresponding to the horizontal meridian activation (that is, outside
+the last thin gray lines in Fig. 1b). Thus, the VO in our study does not
+include the area extending peripherally from V4v, a controversial area
+according to the two models. We should mention that the pattern of
+activation found in this excluded part was similar to the near-foveal
+region of the V4v (or hV4).
+Chromatic flickering stimuli and matched controls were presented
+to the four quadrants in the visual field as four pairs of wedges,
+two pairs counter-phase flickering and two static (Fig. 1a). With
+the identical spatial configuration, a full-contrast 5-Hz chromatic
+flicker stimulus was used to localize the retinotopic regions
+corresponding to the stimuli in visual cortex. We determined the
+ROIs by combining the retinotopic map and the locations defined by
+the 5-Hz full-contrast flicker stimulus. Detailed spatial locations of
+ROIs hV4 and VO for each subject can be found in Supplementary
+Table 1 online.
+fMRI responses to resolved and fused chromatic flicker
+We plotted BOLD signal time courses showing responses for V1, hV4
+and VO to three chromatic flickers: 5-Hz flicker at full contrast and at
+subthreshold contrast, and a 30-Hz flicker at full contrast (example
+time course, Fig. 2a). Time course data are not shown from V2, V3/VP
+and V3A, because they are very similar to the ones from V1 and hV4.
+Not surprisingly, compared with the nonflickering static control, the
+5-Hz full-contrast chromatic flicker evoked strong cortical responses in
+each ROI of the visual areas we have identified (V1: t4 ¼ 15.67, P o
+0.0005; V2: t4 ¼ 6.89, P o 0.005; V3/VP: t4 ¼ 8.27, P o 0.001; V3A:
+t4 ¼ 7.78, P o 0.001; hV4: t4 ¼ 4.24, P o 0.02; VO: t4 ¼ 5.32, P o 0.01;
+Fig. 2b). When the flicker frequency was 30 Hz, all four wedges
+appeared static and observers could not distinguish which two of the
+wedges were flickering. The BOLD signal measured in the corresponding ROIs of the visual cortex was substantially higher for a 30-Hz fused
+chromatic flicker compared with a matched nonflickering control
+stimulus in almost all of the visual areas identified, with the exception
+of VO (V1: t4 ¼ 4.28, P o 0.02; V2: t4 ¼ 3.94, P o 0.02; V3/VP:
+t4 ¼ 4.82, P o 0.01; V3A: t4 ¼ 8.17, P o
+0.001; hV4: t4 ¼ 4.10, P o 0.02; VO: t4 ¼ 1.41,
+P 4 0.2; Fig. 2b).
+It is of particular interest to compare
+response patterns in visual areas hV4 and
+VO, as they are believed to be critical for
+color selectivity and color perception10,12,14,15, although the properties
+of visual field maps in this region are still controversial12,14. In the
+current study, hV4 showed significant activation to the 30-Hz invisible
+chromatic flicker, but VO did not. In addition, a subthreshold-level
+5-Hz chromatic flicker, which also appeared to be static and perceptually matched to the 30-Hz chromatic flicker to observers, did not
+generate a significantly higher response than the matched control
+stimulus (V1: t4 ¼ 1.07, P 4 0.3; V2: t4 ¼ 1.01, P 4 0.3; V3/VP:
+t4 ¼ 0.75, P 4 0.4; V3A: t4 ¼ 0.99, P 4 0.3; hV4: t4 ¼ –0.37, P 4 0.7;
+VO: t4 ¼ 0.92, P 4 0.4; Fig. 2b).
+fMRI signal as function of flicker frequency and contrast
+The results described above show that human V1 to hV4 can
+respond robustly to unresolved chromatic flicker compared with
+perceptually matched static controls. In contrast, VO did not
+respond differently to the unresolved flicker versus the static control.
+However, because BOLD activity decreased quite significantly from
+5-Hz to 30-Hz flicker in all areas measured, it is possible then that
+response in VO simply reduced more rapidly compared with other
+areas as a function of temporal frequency, even before the temporal
+modulation exceeded the resolution limit. Another possibility is
+that the contrast response function in VO may be more expansively
+nonlinear, so that a small reduction in contrast would result in a
+much more significant decrease in response. Either or both of these
+two possibilities would explain the different pattern of response
+found in VO.
+We tested both of these possibilities in three subjects by measuring
+the BOLD response at additional temporal frequencies (5, 15 and
+30 Hz) and contrast levels (25, 50 and 100%). These contrast levels were
+all above flicker detection threshold at 5 and 15 Hz, but were of course
+below threshold for the 30-Hz flicker. We measured BOLD responses as
+a function of temporal frequency at three contrast levels (Fig. 3a) and
+BOLD contrast response functions at three flicker frequencies (Fig. 3b).
+The results again showed that V1–hV4, but not VO responded robustly
+to the fused 30-Hz chromatic flicker, replicating the first experiment. In
+addition, no support could be found for either of the two alternative
+LH
+V3A
+V3 V2 V1
+hV4 VP V2 V1
+VO
+V3A
+V3 V2 V1
+V1 V2 VP hV4
+VO
+RH
+* * *
+*
+* * *
+*
+2 1
+3 4
+2 1
+3 4
+2 1
+3 4
+2 1
+3 4
+3
+2
+4
+1
+b
+a Figure 1 Illustrations of chromatic flicker stimuli
+and cortical visual areas. (a) Chromatic flicker
+stimuli and matched controls were presented to
+the four quadrants in the visual field as four pairs
+of wedges, two counter-phase flickering and two
+static. (b) The corresponding retinotopic regions of
+chromatic flickering stimuli are depicted on both
+hemispheres of the flattened brain of a
+representative observer. Numbers (1, 2, 3 and 4)
+in a and b show corresponding locations in space
+and in the cortex. The boundaries between
+different retinotopic areas (V1, V2, V3, VP, V3A,
+hV4/V4v and VO/V8) are indicated with thin gray
+lines (horizontal meridians) and thick black lines
+(vertical meridians). The representations of the
+center of gaze (foveal) are indicated with white
+asterisks. Dashed lines indicate the boundary of
+two eccentricity maps associated with the two
+distinct foveal representations.
+658 VOLUME 10 [ NUMBER 5 [ MAY 2007 NATURE NEUROSCIENCE
+ARTICLES
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+explanations that motivated these additional measures. It is also clear
+that the BOLD signals to chromatic flicker decreased as the temporal
+frequency of the flicker increased for all of these test contrast levels and
+in all ROIs (Fig. 3a). It is worth noting that between 5 and 15 Hz, the
+BOLD signal reduction (slope) is comparable across all of these visual
+areas. Further increasing the flicker frequency from 15 to 30 Hz
+continued to reduce BOLD signal in V1–hV4 (Fig. 3a and Supplementary Fig. 1 online). However, VO showed a disproportionately
+large reduction in BOLD signal when flicker frequency was increased
+from 15 to 30 Hz. The contrast response
+functions are similar across the different
+visual areas; neither VO nor the other areas
+showed dramatically different contrast
+response functions (Fig. 3b and Supplementary Fig. 1). The exception, of course, is that
+there is no measurable response in VO at
+30 Hz at any of the contrast levels.
+Perceptual equivalency between flicker and control stimuli
+A key condition that allows us to interpret the results as indicating that
+V1–hV4 could still resolve the 30-Hz perceptually fused chromatic
+flicker is that the fused flicker was perceptually indistinguishable from
+the static control and the subthreshold 5-Hz chromatic flicker. Before
+subjects were scanned, they set the isoluminant red and green stimuli
+using a minimal flicker technique. After the scans were finished, each
+subject was further tested with a two-alternative forced choice (2AFC)
+task, determining in each trial which of the two temporal intervals had
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+BOLD signal (%)
+5 10 15 30
+Flicker frequency (Hz)
+100% contrast 50% contrast
+Flicker frequency (Hz)
+25% contrast
+5 10 15 30 5 10 15 30
+Flicker frequency (Hz)
+V1 hV4 VO
+BOLD flicker contrast response function
+V1 hV4 VO 1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+BOLD signal (%)
+20 40 60 80 100 20 40 60 80 100 20 40 60 80 100
+Flicker contrast (%) Flicker contrast (%) Flicker contrast (%)
+5 Hz 15 Hz 30 Hz
+a BOLD flicker frequency response function
+b
+5 Hz (full contrast)
+30 Hz (full contrast)
+5 Hz (subthreshold contrast)
+5 Hz (full contrast)
+30 Hz (full contrast)
+5 Hz (subthreshold contrast)
+Individual observers
+2.0
+1.0
+0.0
+–2 0 2 4 6 8 10 12 14 16 18
+Time (s)
+BOLD signal (%)
+BOLD signal (%) 2.0
+1.0
+0.0
+–2 0 2 4 6 8 10 12 14 16 18
+Time (s)
+–2 0 2 4 6 8 10 12 14 16 18
+Time (s)
+BOLD signal (%) 2.0
+1.0
+0.0
+V1 hV4 VO
+3.0
+2.0
+1.0
+0.0
+BOLD signal (%)
+V1 V2 V3/VP V3A hV4 VO
+5 Hz 30 Hz 5 Hz 30 Hz 5 Hz 30 Hz 5 Hz 30 Hz 5 Hz 30 Hz 5 Hz 30 Hz
+a
+b
+Figure 2 fMRI responses to 5- and 30-Hz flicker in different visual areas. (a) The sample time courses of BOLD signals to chromatic flicker in V1, hV4 and VO.
+(b) Each panel shows the BOLD signals from five individual observers (small gray symbols) as well as the averaged BOLD amplitude (large color symbols) in
+each visual cortical area. The 5-Hz chromatic flicker with full contrast (cyan circles) evoked strong cortical responses throughout all visual areas identified. The
+unperceived 30-Hz flicker (orange triangles) also generated a robust BOLD signal in the corresponding retinotopic regions in many early visual areas, with the
+exception of VO. However, a subthreshold 5-Hz chromatic flicker (gray squares), which was perceptually indistinguishable from the 30-Hz flicker, did not
+generate a significantly higher response than the matched control stimulus. Error bars indicate ± s.e.m.
+Figure 3 BOLD response as a function of flicker
+temporal frequency and contrast. (a) Each panel
+shows the averaged BOLD signals as a function of
+temporal frequency at three contrast levels (25%,
+50% and 100%) in different visual cortical areas
+(V1, hV4 and VO). The BOLD signals to chromatic
+flicker decreased as the temporal frequency of the
+flicker increased for all of these test contrast
+levels and in all ROIs. (b) Each panel shows the
+BOLD contrast response function at three flicker
+frequencies (5, 15 and 30 Hz). The contrast
+response functions are similar across different
+visual areas, with the exception of VO, where
+there is no measurable response at 30 Hz.
+Error bars indicate ± s.e.m.
+NATURE NEUROSCIENCE VOLUME 10 [ NUMBER 5 [ MAY 2007 659
+ARTICLES
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+the 30-Hz flickering stimulus while the 30-Hz flicker was presented
+randomly in either the first or the second interval and the static control
+or the 5-Hz subthreshold flicker presented in the other interval.
+Although subjects performed at chance level, discriminating between
+the 30-Hz flicker and the other two control stimuli, such a result
+does not rule out the possibility that the 30-Hz flicker stimulus
+was perceptually different from the static control and the 5-Hz
+subthreshold flicker.
+Thus, we conducted another psychophysical experiment specifically
+aimed at testing perceptual equivalency between the 30-Hz chromatic
+flicker and the other two control stimuli. In this task, the stimuli were
+essentially identical to the ones used during the scan. However, instead
+of the 30-Hz flicker occupying two wedges and the control stimuli
+occupying the other two (Fig. 1a), we had the 30-Hz flicker occupying
+three wedges, which left one wedge (randomly selected) as the control
+stimulus. In each 2-s trial, subjects had to decide which of the four
+wedges was different from the other three. In other words, subjects
+could perform this task above chance if the control stimuli were
+perceived to be different in any way compared with the 30-Hz flicker.
+In support of the perceptual equivalency between the 30-Hz flicker and
+the static as well as the 5-Hz subthreshold control, subjects performed
+at chance level (25%) in these four-alternative forced choice (4AFC)
+tasks (detailed behavioral results can be found in Supplementary
+Table 2 online, see Methods for more details).
+DISCUSSION
+The visual cortex showed a large BOLD signal when observers viewed a
+5-Hz full contrast chromatic flicker. When the flicker frequency was
+increased to 30 Hz and observers no longer perceived flicker, the
+invisible flicker still generated a significantly higher BOLD response
+than did a perceptually matched static stimulus in all of the visual areas
+that we identified except the region VO (Fig. 2b).
+To test the possibility that visual cortical areas could respond to
+subthreshold chromatic flicker in general, rather than a selective
+intracortical loss of high-frequency information, we also measured
+BOLD signals to a subthreshold 5-Hz chromatic flicker in the same
+scans. This subthreshold 5-Hz chromatic flicker was perceptually
+indistinguishable from the 30-Hz chromatic
+flicker to observers (this was verified with an
+objective 2AFC task as well as a 4AFC task, see
+Methods for details). Results show that the
+response to the 5-Hz subthreshold flicker was
+not different from that of the matched static
+wedges in all visual areas. In other words,
+observers had the same perception of static
+wedges for the 5-Hz subthreshold flicker, the
+30-Hz full contrast flicker and the physically
+static wedges, yet their visual brain responded
+more strongly to the 30-Hz flicker than to the
+other two matched stimuli.
+One possible model of the cortical representation of chromatic flicker is that the
+flicker signal goes through increasing levels
+of filtering from V1 to V2, V3/VP and so
+forth. Such a model would predict that the
+magnitude of the neural response to the
+chromatic flicker, especially at high temporal
+frequencies, would decrease as the flicker
+signal ascends from primary visual areas to
+extrastriate areas. However, the magnitude of
+the BOLD signal from V1 to V2, V3/VP and
+hV4 changes very little for either 5- or 30-Hz chromatic flicker; the
+insensitivity to rapid chromatic flicker is specific to VO (Fig. 2b). Given
+the complex origin and nature of the fMRI BOLD signal16, one needs to
+be cautious when interpreting the magnitude data. Quantitative interpretation aside, it is clear in the current study that the visual brain
+responds to the fused and invisible chromatic flicker not only in V1, but
+in many other visual areas as well. More importantly, although there
+was little change in the response magnitude from V1 to hV4, a
+qualitative change in response occurred between hV4 and VO. When
+the observers were not perceiving the 30-Hz flicker, the activity in VO
+was unable to distinguish a 30-Hz flicker from a static control. This
+finding is consistent with a recent imaging study that revealed significant chromatic (red-green) low-pass temporal filtering in VO, but
+not in V1 and other early visual areas10.
+The hV4 and VO regions have been suggested to be critical for color
+selectivity and color perception10,12,14,15, and it is also likely that this
+area was damaged in achromatopsic patients reported in clinical
+studies17–19, although researchers are yet to reach consensus on the
+functional properties and anatomical definition of this area12,14. The
+area labeled as V8 (which significantly overlaps with the VO defined in
+this paper) selectively responds to illusory colors12. Furthermore, early
+studies revealed an area anterior to V4, but not V4 itself, in the right
+fusiform gyrus that is selectively activated during color-imagery in both
+normal sighted subjects20 and a blind patient21. In the current study,
+hV4 responded to both the visible 5- and 15-Hz chromatic flickers, and
+the invisible 30-Hz chromatic flicker, whereas VO was activated in
+response to the visible 5- and 15-Hz flicker, but not the invisible 30-Hz
+flicker. This pattern of current results, combined with previous
+investigations, suggests that VO has a critical role in the conscious
+representation of chromatic information, whereas hV4 and earlier areas
+process color-related information more independently of the observers’
+awareness state. To highlight this point, the bootstrapped BOLD signal
+distributions based on all of the individual blocks from the primary
+experiment are shown in two-dimensional plots (Fig. 4)22,23. We
+plotted BOLD signals from V1 (Fig. 4a) and hV4 (Fig. 4b) against
+BOLD signals from VO. Data from V2 and V3/VP are not shown here,
+as they are similar to data from V1 and hV4. The three stimuli (5-Hz
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+–0.5
+–1.0–1.0 –0.5 0.0 0.5 1.0 1.5 2.0 2.5
+VO activity
+V1 activity
+5 Hz (full contrast)
+30 Hz (full contrast)
+5 Hz (subthreshold contrast)
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+–0.5
+–1.0–1.0 –0.5 0.0 0.5 1.0 1.5 2.0 2.5
+VO activity
+5 Hz (full contrast)
+30 Hz (full contrast)
+5 Hz (subthreshold contrast)
+hV4 activity
+a b
+Figure 4 Distribution of fMRI responses to 5- and 30-Hz flicker in different visual areas. A standard
+bootstrapping procedure is adopted, and the BOLD signals from all of the individual blocks of the
+primary experiment are resampled with replacement. The bootstrapped sample means for different
+conditions are shown in the two-dimensional plots. Estimated BOLD signals from V1 (a) and hV4 (b) are
+plotted against BOLD signals from VO. 5-Hz full contrast chromatic flicker (cyan), 30-Hz full contrast
+chromatic flicker (orange) and 5-Hz subthreshold flicker control (gray) could be classified either
+physically (three conditions) or perceptually (two perceptual categories). BOLD signals in areas V1and
+hV4 clearly segregated into three distinct distributions (vertical axes in both plots), whereas in VO there
+were only two distributions (horizontal axes in both plots) consistent with only two perceptions.
+660 VOLUME 10 [ NUMBER 5 [ MAY 2007 NATURE NEUROSCIENCE
+ARTICLES
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+full contrast chromatic flicker, 30-Hz full contrast chromatic flicker,
+5-Hz subthreshold flicker control) could be classified either physically
+(three conditions) or perceptually (two perceptual categories). BOLD
+signals in areas V1 and hV4 clearly segregated into three distinct
+distributions, whereas in VO there were only two distributions consistent with only two perceptions.
+The results suggest that considerable differences in cortical activation
+in early visual areas do not necessarily lead to different conscious
+experiences. Much effort has been devoted to the role (or the lack
+thereof) of V1 in visual awareness. One of the strongest pieces of
+evidence suggesting that V1 is not part of the neural correlates of
+consciousness is that responses in V1 exhibited variation between
+perceptually equivalent conditions5,6,24–26. This is straightforward, yet
+admittedly simplistic logic27. Given that almost all of the visual areas
+responded to the invisible flicker, according to the same simple logic,
+one would need to conclude that all of these areas are not part of the
+neural correlates of consciousness. Alternatively, visual awareness may
+always require the participation of multiple visual areas with both
+feedforward and feedback connections28–32. Given such a model, no
+area by itself is sufficient to support visual awareness. One should not
+rule out a given cortical area as a participant in the neural correlate of
+visual awareness simply on the basis of the observation that such an
+area shows ‘unconscious activation’.
+In summary, results show that many of the human visual cortical
+areas, with the exception of VO, can distinguish between fused
+chromatic flicker and its matched nonflickering control. Apparently,
+considerable differences in cortical activation in visual cortical areas do
+not necessarily lead to different conscious experiences.
+METHODS
+Participants. Five healthy subjects (two male) participated in the primary
+experiment, and two of them and another naive subject participated in the
+additional experiment to examine the BOLD response as a function of flicker
+temporal frequency and contrast. All had normal or corrected-to-normal
+vision, and gave written, informed consent in accordance with procedures
+and protocols approved by the human subjects review committee of the
+University of Minnesota.
+Stimuli and procedure. Stimuli were presented through a LCD projector
+(SANYO, Model PLC-XP41/L) onto a rear projection screen located behind the
+participant’s head inside the magnet bore. The rise and fall times of the LCD
+projector are about 10 ms and 2 ms, respectively, which was sufficiently fast to
+allow the signal to reach peak modulation even at 30 Hz. The screen was viewed
+with an angled mirror positioned on the head-coil. A central cross (0.31  0.31)
+was always presented to subjects serving as the fixation. The stimuli consisted of
+four wedges with each wedge extending to a visual angle of 3.51 in one of four
+quadrants (see Fig. 1a). Each wedge also subtended a polar angle of 621 and
+was distributed symmetrically along the diagonal axis. Two of the wedges in the
+opposite direction were filled with isoluminant red (with chromatic CIE xy
+coordinates of [0.523, 0.462]) and green (with chromatic CIE xy coordinates of
+[0.343, 0.638]) colors with each color occupying one side of the diagonal line
+(for example, the wedges in the second and the fourth quadrants as shown in
+the left side of Fig. 1a); in these wedges, the isoluminant red and green lights
+were synchronously exchanged at the flicker frequency. The other two (for
+example, the wedges in the first and the third quadrants as shown in the left
+side of Fig. 1a) were filled with a uniform and static yellow color with the mean
+luminance of the red-green flicker. Thus there were two possible presentation
+conditions for the chromatic flicker: the first/third quadrants and the second/
+fourth quadrants. The whole wedge pattern was superimposed on a uniform
+field whose intensity was equal to the mean luminance of each wedge
+(824 cd m–2). The viewing distance was 102 cm.
+In the primary experiment, there were three flickering conditions (5-Hz
+flicker with full contrast, 30-Hz flicker with full contrast and 5-Hz flicker with
+subthreshold contrast) and two possible display positions (the first/third
+quadrants and the second/fourth quadrants), resulting in six combinations.
+For each condition, stimuli were presented in a block design comprised of a
+12-s probe followed by 12-s of uniform background. The 24-s cycle time was
+chosen to minimize the effect of interference between the undershoot at the end
+of one hemodynamic response with the start of the following one. A total of 18
+blocks (each condition was repeated three times in a truly randomized order)
+were presented in each run, and an additional 8-s blank period was added at the
+start of the scan to minimize transient magnetic saturation effects. Thus, the
+total scan time for each run was 440 s. The participants were asked to do a
+demanding fixation task (detecting a slight change in the orientation of the
+fixation cross) throughout each run to facilitate stable fixation and to help
+maintain their attention at the center of the display. The fixation cross changed
+at random time points (on average once every 1 s), independent of the
+flickering stimulus presentation.
+The study with additional frequency and contrast conditions was similar to
+the primary study, except for the sampling of more temporal frequency (5, 15
+and 30 Hz) and contrast conditions (25%, 50% and 100%). For each
+condition, stimuli were presented in a block design comprised of a 12-s probe
+followed by 12 s of uniform background, with the order of different conditions
+randomized across runs. The participants were asked to do the same demanding fixation task as in the primary study (detecting a slight change in the
+orientation of the fixation cross) throughout each run to facilitate stable
+fixation and to help maintain their attention at the center of the display.
+Red-green isoluminance. Flicker photometry was used to select the isoluminant
+red and green stimuli for the chromatic flicker. Observers viewed a 3.51 circular
+patch with alternating red and green colors in the scanner before the fMRI
+experiment. The two colors were counterphase-modulated at 30 Hz, a frequency
+too fast for observers to track the color alternation. With the contrast of red
+color fixed, the red/green alternation generally appeared as achromatic flicker,
+but each observer could adjust the contrast of green color so that no flicker
+could be detected. Observers were instructed to make settings in both directions:
+gradually increasing the green color contrast or gradually decreasing it.
+2AFC flicker detection and 4AFC stimulus discrimination. Because the
+interpretation of the study depends critically on the 30-Hz chromatic flicker
+being truly fused and perceptually identical to the control conditions, we also
+tested flicker detection in a criterion-free manner. All participants underwent a
+2AFC experiment in separate sessions in the scanner after the fMRI experiment.
+The experimental situation (contrast, luminance, viewing angle, etc.) was exactly
+the same as the functional imaging experiments. For each trial in the 2AFC
+experiments, there were two successive temporal intervals (2 s each, with a
+500-ms blank gap between them). The 30-Hz full contrast flicker, the 5-Hz
+subthreshold flicker or the matched static control stimulus were presented
+randomly in the first or the second interval, and one of the others was presented
+in the other interval. Observers pressed one of two buttons to indicate which
+interval (the first or the second) had the flickering stimulus. All observers
+performed at chance level for all of the comparisons (30-Hz full contrast flicker
+with static control stimulus, 5-Hz subthreshold flicker with static control
+stimulus and 30-Hz full contrast flicker with 5-Hz subthreshold flicker).
+Because the 2AFC results primarily supported the notion that the 30-Hz
+flicker was not perceived as flickering, we performed another 4AFC test using
+the spatial layout essentially identical to that used during fMRI scanning to test
+perceptual equivalency between the 30-Hz chromatic flicker and the other two
+control stimuli. One of the four wedges was static (or 5-Hz subthreshold flicker),
+whereas the other three were the 30-Hz full contrast flicker. After each 2-s trial,
+observers indicated which wedge they believed was different than the other three.
+All observers performed at chance level (25%; see Supplementary Table 2).
+fMRI data acquisition and analysis. MRI data were collected on a 3T Siemens
+Trio outfitted with an 8-channel phase-array coil. Echoplanar data were acquired
+with standard parameters (28 axial slices, 3.0 mm thick; field of view, 220  220
+mm2
+; matrix, 64  64; repetition time, TR, 2,000 ms; echo time, TE, 30 ms; flip
+angle, 751). The first four volumes were discarded to allow for magnetization
+equilibration. A T1 weighted anatomical volume (3D MPRAGE; 1  1  1 mm3
+resolution) was acquired for localization and visualization of the functional data.
+After motion correction (SPM99, http://www.fil.ion.ucl.ac.uk/spm), the
+functional data were coregistered with the anatomical scan using BrainVoyager
+NATURE NEUROSCIENCE VOLUME 10 [ NUMBER 5 [ MAY 2007 661
+ARTICLES
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience
+QX (Brain Innovation). After regions of interest (ROIs) were defined, time
+courses from each ROI were extracted and imported into Matlab for further
+analyses. For each scan, we averaged the signal intensity across trials for each
+condition at each of 11 time points (from –2 s to 18 s). These time courses for
+each condition were then averaged across scans. The BOLD signal (flickering
+wedges minus static wedges) was calculated using average signals between 8 and
+12 s in each time course (condition) for each subject, as the signal usually took
+6–8 s to rise to the full magnitude.
+Note: Supplementary information is available on the Nature Neuroscience website.
+ACKNOWLEDGMENTS
+We thank F. Fang for technical assistance, D. MacLeod for comments on an early
+version of the manuscript, and P. Costello and R. Shannon for their help with
+the manuscript. This research was supported by the James S. McDonnell
+foundation, the US National Institutes of Health (EY-015261-01), the 973
+program (2005CB522800) and the Knowledge Innovation Project of the Chinese
+Academy of Sciences. The 3T scanner at the University of Minnesota is supported
+by Biotechnology Research Resource (BTRR) grant P41 008079 and by the
+Mental Illness and Neuroscience Discovery (MIND) Institute.
+Published online at http://www.nature.com/natureneuroscience
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions
+1. De Lange, H. Research into the dynamic nature of the human fovea-cortex systems with
+intermittent and modulated light. II. Phase shift in brightness and delay in color
+perception. J. Opt. Soc. Am. 48, 784–789 (1958).
+2. Brown, J.L. in Vision and Visual Perception (ed. Graham, C. H.) (John Wiley and Sons,
+Inc., New York, 1965).
+3. Matin, L. Critical duration, the differential luminance threshold, critical flicker frequency, and visual adaptation: a theoretical treatment. J. Opt. Soc. Am. 58, 404–415
+(1968).
+4. Kelly, D.H. Theory of flicker and transient responses. I. Uniform fields. J. Opt. Soc. Am.
+61, 537–546 (1971).
+5. Gur, M. & Snodderly, D.M. A dissociation between brain activity and perception:
+chromatically opponent cortical neurons signal chromatic flicker that is not perceived.
+Vision Res. 37, 377–382 (1997).
+6. Shady, S., MacLeod, D.I. & Fisher, H.S. Adaptation from invisible flicker. Proc. Natl.
+Acad. Sci. USA 101, 5170–5173 (2004).
+7. Vul, E. & Macleod, D.I. Contingent aftereffects distinguish conscious and preconscious
+color processing. Nat. Neurosci. 9, 873–874 (2006).
+8. Williams, P.E., Mechler, F., Gordon, J., Shapley, R. & Hawken, M.J. Entrainment to video
+displays in primary visual cortex of macaque and humans. J. Neurosci. 24, 8278–8288
+(2004).
+9. Engel, S., Zhang, X. & Wandell, B. Color tuning in human visual cortex measured with
+functional magnetic resonance imaging. Nature 388, 68–71 (1997).
+10. Liu, J. & Wandell, B.A. Specializations for chromatic and temporal signals in human
+visual cortex. J. Neurosci. 25, 3459–3468 (2005).
+11. Carmel, D., Lavie, N. & Rees, G. Conscious awareness of flicker in humans involves
+frontal and parietal cortex. Curr. Biol. 16, 907–911 (2006).
+12. Hadjikhani, N., Liu, A.K., Dale, A.M., Cavanagh, P. & Tootell, R.B. Retinotopy and color
+sensitivity in human visual cortical area V8. Nat. Neurosci. 1, 235–241 (1998).
+13. Engel, S.A., Glover, G.H. & Wandell, B.A. Retinotopic organization in human
+visual cortex and the spatial precision of functional MRI. Cereb. Cortex 7, 181–192
+(1997).
+14. Brewer, A.A., Liu, J., Wade, A.R. & Wandell, B.A. Visual field maps and
+stimulus selectivity in human ventral occipital cortex. Nat. Neurosci. 8, 1102–1109
+(2005).
+15. McKeefry, D.J. & Zeki, S. The position and topography of the human color centre
+as revealed by functional magnetic resonance imaging. Brain 120, 2229–2242
+(1997).
+16. Logothetis, N.K., Pauls, J., Augath, M., Trinath, T. & Oeltermann, A. Neurophysiological
+investigation of the basis of the fMRI signal. Nature 412, 150–157 (2001).
+17. Pearlman, A.L., Birch, J. & Meadows, J.C. Cerebral color blindness: an acquired defect
+in hue discrimination. Ann. Neurol. 5, 253–261 (1979).
+18. Damasio, A., Yamada, T., Damasio, H., Corbett, J. & McKee, J. Central achromatopsia: behavioral, anatomic, and physiologic aspects. Neurology 30, 1064–1071
+(1980).
+19. Zeki, S. A century of cerebral achromatopsia. Brain 113, 1721–1777 (1990).
+20. Howard, R.J. et al. The functional anatomy of imagining and perceiving color. Neuroreport 9, 1019–1023 (1998).
+21. Steven, M.S., Hansen, P.C. & Blakemore, C. Activation of color-selective areas of the
+visual cortex in a blind synesthete. Cortex 42, 304–308 (2006).
+22. Efron, B. & Tibshirani, R. An Introduction to the Bootstrap (Chapman & Hall, New York,
+1993).
+23. Davison, A.C. & Hinkley, D.V. Bootstrap Methods and their Application (Cambridge
+University Press, Cambridge; New York, 1997).
+24. Crick, F. & Koch, C. Are we aware of neural activity in primary visual cortex? Nature 375,
+121–123 (1995).
+25. He, S., Cavanagh, P. & Intriligator, J. Attentional resolution and the locus of visual
+awareness. Nature 383, 334–337 (1996).
+26. He, S. & MacLeod, D.I. Orientation-selective adaptation and tilt after-effect from
+invisible patterns. Nature 411, 473–476 (2001).
+27. Blake, R. & He, S. in Fitting the Mind to the World: Adaptation and After-effects in Highlevel Vision (eds. Clifford, C.W.G. & Rhodes, G.) (Oxford University Press, New York,
+2005).
+28. Lamme, V.A. & Roelfsema, P.R. The distinct modes of vision offered by feedforward and
+recurrent processing. Trends Neurosci. 23, 571–579 (2000).
+29. Lamme, V.A. Blindsight: the role of feedforward and feedback corticocortical connections. Acta Psychol. (Amst.) 107, 209–228 (2001).
+30. Pascual-Leone, A. & Walsh, V. Fast backprojections from the motion to the primary visual
+area necessary for visual awareness. Science 292, 510–512 (2001).
+31. Ro, T., Breitmeyer, B., Burton, P., Singhal, N.S. & Lane, D. Feedback contributions to visual awareness in human occipital cortex. Curr. Biol. 13, 1038–1041
+(2003).
+32. Juan, C.H., Campana, G. & Walsh, V. Cortical interactions in vision and awareness:
+hierarchies in reverse. Prog. Brain Res. 144, 117–130 (2004).
+662 VOLUME 10 [ NUMBER 5 [ MAY 2007 NATURE NEUROSCIENCE
+ARTICLES
+© 2007 Nature Publishing Group http://www.nature.com/natureneuroscience

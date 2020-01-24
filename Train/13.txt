@@ -1,0 +1,542 @@
+Spectrin βV adaptive mutations and changes in
+subcellular location correlate with emergence
+of hair cell electromotility in mammalians
+Matteo Cortesea,b,c,1, Samantha Papala,b,c,1, Francisco Pisciottanod,1, Ana Belén Elgoyhend,e, Jean-Pierre Hardelina,b,c,
+Christine Petita,b,c,f, Lucia Florencia Franchinid,2,3, and Aziz El-Amraouia,b,c,2,3
+a
+Génétique et Physiologie de l’Audition, Institut Pasteur, F-75015 Paris, France; b
+Unité Mixte de Recherche, UMRS 1120, Institut National de la Santé et de la
+Recherche Médicale (INSERM), F-75013 Paris, France; c
+Complexité du vivant, UPMC Université Paris 06, Sorbonne Universités, F-75005 Paris, France; d
+Instituto de Investigaciones en Ingeniería Genética y Biología Molecular “Dr. Héctor N. Torres” (INGEBI), Consejo Nacional de Investigaciones Científicas y
+Técnicas (CONICET), C1428ADN Buenos Aires, Argentina; e
+Instituto de Farmacología, Facultad de Medicina, Universidad de Buenos Aires, C1121ABG Buenos
+Aires, Argentina; and f
+Collège de France, F-75005 Paris, France
+Edited by William E. Brownell, Baylor College of Medicine, Houston, TX, and accepted by Editorial Board Member Jeremy Nathans January 11, 2017 (received
+for review November 17, 2016)
+The remarkable hearing capacities of mammals arise from various
+evolutionary innovations. These include the cochlear outer hair
+cells and their singular feature, somatic electromotility, i.e., the
+ability of their cylindrical cell body to shorten and elongate upon
+cell depolarization and hyperpolarization, respectively. To shed
+light on the processes underlying the emergence of electromotility, we focused on the βV giant spectrin, a major component of the
+outer hair cells’ cortical cytoskeleton. We identified strong signatures of adaptive evolution at multiple sites along the spectrin-βV
+amino acid sequence in the lineage leading to mammals, together
+with substantial differences in the subcellular location of this protein between the frog and the mouse inner ear hair cells. In frog
+hair cells, spectrin βV was invariably detected near the apical junctional complex and above the cuticular plate, a dense F-actin meshwork located underneath the apical plasma membrane. In the
+mouse, the protein had a broad punctate cytoplasmic distribution
+in the vestibular hair cells, whereas it was detected in the entire
+lateral wall of cochlear outer hair cells and had an intermediary
+distribution (both cytoplasmic and cortical, but restricted to the
+cell apical region) in cochlear inner hair cells. Our results support
+a scenario where the singular organization of the outer hair cells’
+cortical cytoskeleton may have emerged from molecular networks
+initially involved in membrane trafficking, which were present
+near the apical junctional complex in the hair cells of mammalian
+ancestors and would have subsequently expanded to the entire
+lateral wall in outer hair cells.
+unconventional spectrins | inner ear | F-actin cytoskeleton | cortical
+lattice | phylogenetics
+The response of the mammalian auditory organ (cochlea) to
+acoustic stimuli in an extended frequency range (including
+high frequencies) has remarkable properties including very high
+sensitivity and exquisitely sharp tuning (1–3). These properties
+are the consequence of an evolutionary process that involved
+major morphological and functional changes. One of them is the
+emergence, in the cochlea, of the outer hair cells, a unique type
+of specialized sensory cells that display somatic electromotility,
+i.e., they undergo periodic length changes in response to the oscillation of their membrane potential evoked by the sound wave
+(they shorten upon depolarization and elongate upon hyperpolarization) (SI Appendix, Fig. S1 A–C). This process has endowed
+the mammalian auditory organ with a singular mechanism of
+spectral analysis of the acoustic stimulus through frequencyselective mechanical amplification (1–3), whereas spectral analysis
+in other vertebrates (fish, amphibians, reptiles, and birds) primarily relies on electrical tuning of the hair cells (4, 5).
+An intriguing question is how the emergence of somatic
+electromotility is related with the evolution of individual proteins
+involved in this process. The electromotility of outer hair cells
+critically depends on the presence, in their lateral plasma
+membrane, of prestin (SLC26A5), a member of the solute carrier
+family, which undergoes conformational changes driven by the
+receptor potential of these cells (2, 6, 7). Prestin orthologs have
+been identified in all vertebrate and invertebrate species examined (8, 9), but distinct cell distributions and functional properties have been reported for nonmammalian and mammalian
+prestins (9–12), together with amino acid sequence signatures of
+an adaptive evolution in the mammalian lineage (8, 13). The
+electromotility of outer hair cells also relies on the unique trilaminate structure of their cylindrical lateral wall, which consists
+of the plasma membrane (containing millions of packed prestin
+molecules), the cortical lattice, and an innermost membranous
+apparatus forming the subsurface cisternae (1, 2, 7, 14). The
+cortical lattice mainly consists of circumferential actin filaments
+cross-linked by longitudinal spectrin filaments (1, 2, 7). These are
+large rod-like flexible components of the cytoskeleton made of
+two protein subunits, α and β, aligned side by side to form
+Significance
+The mammalian auditory organ harbors a subpopulation of
+sensory hair cells that alternately shorten and elongate in response to sound stimuli. This singular feature, called somatic
+electromotility, is associated with the presence of a flexible
+cortical network of F-actin and spectrin βV, a large unconventional β-spectrin. We show that adaptive mutations of
+spectrin-βV occurred in the mammalian lineage and were accompanied with substantial changes in the protein distribution
+within inner ear hair cells. This study illustrates how a comparison of the subcellular locations of a protein between
+nonmammalian and mammalian vertebrates in a given cell
+type, combined with branch-site model analysis of the protein
+family in silico, can shed light on a major mammalian
+structural/functional innovation.
+Author contributions: L.F.F. and A.E.-A. designed research; M.C., S.P., F.P., L.F.F., and
+A.E.-A. performed research; A.B.E. and C.P. contributed new reagents/analytic tools; M.C.,
+S.P., F.P., L.F.F., and A.E.-A. analyzed data; and J.-P.H., L.F.F., and A.E.-A. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. W.E.B. is a Guest Editor invited by the Editorial
+Board.
+Freely available online through the PNAS open access option.
+1
+M.C., S.P., and F.P. contributed equally to this work.
+2
+L.F.F. and A.E.-A. contributed equally to this work.
+3
+To whom correspondence may be addressed. Email: aziz.el-amraoui@pasteur.fr or
+franchini@dna.uba.ar.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1618778114/-/DCSupplemental.
+2054–2059 | PNAS | February 21, 2017 | vol. 114 | no. 8 www.pnas.org/cgi/doi/10.1073/pnas.1618778114
+heterodimers (SI Appendix, Fig. S1D), which in turn can form
+oligomers through head-to-head interactions. In mammals, there
+are two different α isoforms (αI and αII), four conventional β isoforms (βI, βII, βIII, and βIV), and one nonconventional β isoform
+(βV) almost twice as long as conventional β isoforms (15, 16) (SI
+Appendix, Fig. S2). We have previously reported that the cortical
+lattice of outer hair cells mainly contains the αII and βV spectrin
+subunits (17). We now report different subcellular distributions of
+Fig. 1. Spectrins αII and βII in the frog and mouse
+inner ear hair cells. (A–D) Frog (X. laevis). (A) Diagram of the amphibian inner ear, showing the sensory regions of the hearing organ (light green) and
+of the five balance end organs (dark green). (B and
+C) Side (B) and top (C) views of the utricular macula.
+(D) Isolated vestibular hair cells (VHCs). In frog hair
+cells, spectrins αII and βII are both detected in the cell
+apical region, specifically, in the cuticular plate (CP)
+and in the submembrane region of the apical junctional complex. In B and D, F-actin is stained in red by
+TRITC–phalloidin. (E–G) Mouse. (E) Diagram of the
+mammalian inner ear, showing the sensory epithelia
+of the hearing organ (cochlea) and of the five balance end organs. (F) Side views of the anterior crista.
+The VHCs can be identified by their myosin VIIa
+immunostaining. As in frog hair cells, spectrins αII
+and βII are detected mainly in the apical region of
+VHCs. (G) In isolated VHC and cochlear outer hair cell
+(OHC), spectrin αII (green) and spectrin βII (red) are
+both detected in the CP. In the OHC, spectrin αII is
+also present throughout the lateral wall. By contrast,
+the αII immunostaining of the VHC lateral wall does
+not cover the entire cell circumference (see diagrams). Bars, 5 μm.
+Fig. 2. Distinct subcellular distributions of spectrin
+βV in the frog and mouse hair cells. (A–C) Frog
+(X. laevis). (A and B) In the vestibular hair cells (VHCs)
+of a frog utricular macula, spectrin βV (green) is invariably detected both in the cuticular plate (CP) and
+as an apical immunoreactive peripheral ring (arrowheads in A). The top views in B show spectrin βV
+labeling just above and under (asterisk) the cuticular
+plate. (C) At the CP apical surface, the spectrin βV
+immunostaining forms a well-organized punctate
+pattern, with seemingly uniformly spaced dots resembling lattice knots. (D–G) Mouse. (D and E) In the
+VHCs of a mouse crista ampullaris, spectrin βV is
+detected as a cytoplasmic punctate immunostaining
+both in type I and type II VHCs, which can be differentiated by the tubulin βIII immunolabeling of
+their afferent nerve fibers. Spectrin βV-immunoreactive puncta extend from the apical region near the
+cuticular plate down to the supranuclear region of
+the VHCs. (F and G) In the cochlea, spectrin βV is
+present both in inner hair cells (IHCs) and outer hair
+cells (OHCs). Note that the immunostaining of the
+IHC lateral wall is restricted to the neck region (arrowheads), whereas the protein is detected in (and
+restricted to) the entire lateral wall of OHCs, where
+it contributes to the cortical lattice (see diagrams)
+(F). (G) In the OHCs, the spectrin βV immunostaining
+matches the distribution of the lateral plasma
+membrane protein prestin (arrowheads). Bars, 5 μm.
+Cortese et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 2055
+NEUROSCIENCE
+spectrin βV in amphibian and mammalian inner ear hair cells, and
+show how differences in protein- and lipid-binding profiles support
+the distinct functions of conventional and nonconventional β spectrin isoforms in these cells. In addition, a phylogenetic analysis of
+the spectrin–amino acid sequences in birds and mammals allowed
+us to identify strong signatures of adaptive evolution in spectrins αII
+and βV in the mammalian lineage, but not in the avian lineage.
+Assuming that both spectrins were present in ancestral hair cells, we
+suggest that special amino acid substitutions were evolutionarily
+selected in the mammalian lineage to serve the emerging function
+of sound stimulus mechanical amplification by the outer hair cells’
+somatic electromotility.
+Results and Discussion
+Differential Distribution of Spectrin βV in Amphibian and Mammalian
+Inner Ear Hair Cells. In the inner ear of vertebrates, the five vestibular end organs devoted to equilibration (utricle, saccule, and
+three semicircular canals) have remained fairly constant during
+evolution, whereas the auditory organ has undergone substantial
+changes that ultimately led to the emergence of the mammalian
+cochlea containing the electromotile outer hair cells (3, 18) (Fig.
+1 A and E). We studied the distribution of spectrins in the frog
+(Xenopus laevis) and mouse inner ears by immunofluorescence.
+The typical distribution of spectrin βIII and spectrin βIV in brain
+neuronal cell bodies and at axonal nodes of Ranvier, respectively, was found also in the vestibular and auditory neurons
+(SI Appendix, Fig. S3 A and B and ref. 17). Spectrins αII, βII, and
+βV were the only spectrin subunits detected in the inner ear hair
+cells. In both species, spectrins αII and βII were detected mainly
+as a prominent, diffuse, and uniform immunostaining in the most
+apical region of vestibular and auditory hair cells, specifically, in
+the cuticular plate, a dense transverse meshwork of actin filaments located under the apical surface of these cells (Fig. 1 A–G
+and SI Appendix, Fig. S3). In contrast, the distribution of spectrin
+βV was different between the frog and mouse hair cells and also
+between the different hair cell types in the mouse. In all frog hair
+cells, the bulk of spectrin βV immunostaining was invariably
+detected underneath the apical plasma membrane, a distribution
+reminiscent of those of the Drosophila, Caenorhabditis elegans,
+and chicken nonconventional β spectrins, all of which are restricted to the apical region of epithelial cells (19–21). Detailed
+analysis of the immunostaining by confocal microscopy revealed
+a peripheral ring at the level of the apical junctional complex and
+also a grid-like periodic pattern overlying the cuticular plate (Fig.
+2 A and C), with immunostaining becoming more and more
+diffuse as we went deeper into the cuticular plate (asterisk in Fig.
+2B, SI Appendix, Fig. S4A). This may indicate a variation in the
+local concentration of spectrin βV, because it has previously been
+shown in neurons that the local concentration of β spectrin (βII
+in that case) is critical for its organization into a periodic skeleton (22). In the mouse vestibular hair cells (type I and type II),
+spectrin βV was detected as dispersed cytoplasmic immunoreactive puncta spreading from the cell apical region near the
+cuticular plate down to the juxtanuclear region (Figs. 2 D and E
+and SI Appendix, Fig. S4B). In the cochlea, the inner hair cells,
+which are the genuine sensory cells that make synaptic contacts
+with the afferent nerve fibers, displayed both a cytoplasmic
+punctate staining and a submembrane staining in their neck region, whereas the outer hair cells only displayed the previously
+reported submembrane staining of their entire lateral wall (Fig. 2
+F and G and SI Appendix, Fig. S4C) (17).
+Interaction of Spectrin βV with Membrane Phospholipids. Ankyrins
+are adapter proteins located at the plasma membrane cytoplasmic surface, where they connect diverse cell-adhesion molecules
+and ion transporters to the underlying cortical cytoskeleton (15,
+16). All conventional spectrin β subunits interact directly,
+through their spectrin repeats R14-R15, with the ZU5 domain of
+ankyrins (15). We first showed that, as previously suggested (16,
+23), nonconventional spectrin β subunits do not interact with
+ankyrin. Unlike the R14-R15 fragment of the mouse spectrin βII
+(amino acids 1694–1905) used as a positive control, the R14-R15
+fragments of the human giant spectrin βV and Drosophila spectrin β-heavy (βH) indeed did not bind to ankyrin G in a pull-down
+experiment. In the reciprocal experiment using the ZU5 domain
+of ankyrin G and the full-length spectrin βV, we confirmed that
+spectrin βV cannot bind to ZU5 (Fig. 3A).
+Because nonconventional β spectrins do not bind to ankyrins,
+how do they interact with cell membranes? The previously
+reported direct interaction of the Drosophila spectrin βH C-terminal region, including the pleckstrin homology (PH) domain,
+with membrane phospholipids (24) prompted us to investigate
+the binding of an equivalent fragment of the human spectrin βV
+(R29-Cter, amino acids 3317–3674), also including the PH domain, to membrane lipids in a lipid overlay assay. We found that
+this fragment preferentially binds to phosphatidic acid, phosphatidylinositol 3-, 4-, or 5-monophosphate, phosphatidylinositol
+3,5-bisphosphate, and phosphatidylinositol 3,4,5-triphosphate
+Fig. 3. Direct interaction of spectrin βV with membrane phospholipids, but not with ankyrin G.
+(A) Spectrin-ankyrin interaction. (Left) Purified
+His-tagged ankyrin G binds to a GST-tagged R14-R15
+fragment of spectrin βII (GST-βII R14-R15), but not to
+GST-tagged R14-R15 fragments of the human spectrin
+βV (GST-βV R14-R15) or Drosophila spectrin βH (GST-βH
+R14-R15). (Right) In the reciprocal experiment, the
+GST-tagged ZU5 domain of ankyrin G (GST-ankyrin
+ZU5) does not bind to the myc-tagged full-length
+human spectrin βV. Homodimerization of spectrin βV
+through its C-terminal region (R29-Cter) was used
+as a positive control (17). (B) Spectrin-membrane
+interaction. In a membrane lipid strip assay, the R29-
+Cter fragment of spectrin βV, but not its actin-binding
+domain (βV ABD), binds to phosphatidic acid (PA) and
+phosphatidylinositol 4-monophosphate [PI(4)P]. In the
+PIP strip assay, the βV R29-Cter peptide binds to PI(3)P,
+PI(4)P, and PI(5)P, to PI(3,5)P2, and to PI(3,4,5)P3.
+2056 | www.pnas.org/cgi/doi/10.1073/pnas.1618778114 Cortese et al.
+(PIP3) (Fig. 3B), whereas the Drosophila spectrin βH preferentially
+interacts with PI(4,5)P2 (24). This could partially account for the
+targeting of these unconventional β spectrins to different cell regions
+or compartments. By acting as docking sites on the cytosolic side of
+membrane bilayers, phosphoinositides indeed play a substantial part
+in the targeting code (25). In epithelial cell lines such as MDCK
+cells, PIP3 is found in the basolateral plasma membrane and is excluded from the apical membrane, which contains large amounts of
+PI(4,5)P2. In addition, PIP3 is present in early endosomes, phagosomes, and autophagosomes, whereas PI(4)P functions as a trafficking regulator in the Golgi apparatus (25, 26). Therefore, βV
+spectrins are well suited to be recruited to different pools of cytosolic membranes, including trans-Golgi secretory vesicles.
+Spectrin βV as a Cargo Adapter for Intracellular Transport in Mammalian
+Vestibular Hair Cells. Several studies have indicated that spectrin
+βH plays a role in membrane stabilization and vesicular transport to and from the plasma membrane in the apical region of
+Drosophila epithelial cells (19, 20, 24, 27). In particular, overexpression of a C-terminal fragment of the protein, including the
+PH domain, in salivary glands leads to the formation of dynaminsequestering expansions of the plasma membrane, possibly due
+to the down-regulation of the endocytotic machinery (28, 29).
+Overexpression of an equivalent fragment of the human spectrin
+βV (R26-Cter, amino acids 3012–3674) in HeLa cells did not
+have a conspicuous effect on the plasma membrane, but dramatically affected the organization of the cytoplasmic vesicular
+membranes. Vesicles immunoreactive for this protein fragment
+were detected a few hours after the cell transfection, and later
+coalesced into giant interconnected multivesicular compartments
+that invaded the entire cell body (SI Appendix, Fig. S5A).
+To identify the spectrin βV-immunoreactive cytoplasmic
+structures in mouse vestibular hair cells, we used TRITC-conjugated wheat germ agglutinin (WGA), which labels the Golgi
+apparatus and Golgi-derived vesicles. We found that the WGA
+staining overlapped substantially with the spectrin βV immunostaining in the Golgi perinuclear region and in punctate
+structures extending toward the pericuticular region (Fig. 4 A
+and B and SI Appendix, Fig. S5B). The colocalization of spectrin
+βV and Golgi-derived structures was specific to spectrin βV and
+to vestibular hair cells, as no overlap was observed between
+WGA- and spectrin αII or βII stainings in vestibular hair cells
+(Fig. 4C and SI Appendix, Fig. S5B), or between WGA- and
+spectrin βV stainings in the cochlear outer hair cells (Fig. 4D).
+Because Rab GTPases play a key role in the transport of post
+Golgi-derived structures, we searched for a possible interaction
+between spectrin βV and Rab8, which is involved in the transport
+toward the plasma membrane in most epithelial cell types, including hair cells. We found that the R29-Cter fragment of
+spectrin βV indeed bound to Rab8 present in protein extracts of
+the inner ear or retina (Fig. 4E). Together, these results suggest
+that in mammalian vestibular hair cells, spectrin βV, through its
+interaction with Rab8, but without the assistance of spectrin αII,
+is involved in the directional translocation of tethered vesicular
+membranes to the plasma membrane. This conclusion is further
+supported by the previously reported interaction of spectrin βV
+with the dynein and kinesin complexes and with myosin VIIa,
+motor proteins that move cargos along microtubules and along
+actin filaments, respectively (30). Therefore, the involvement of
+nonconventional β spectrins in cargo transport seems to be
+evolutionarily conserved, despite differences in the subcellular
+location of these proteins between nonmammalian and mammalian cells. The transport function, restricted to the cell apical
+region in nonmammalian species, would have expanded to the
+entire cytoplasmic region in mammalian vestibular hair cells
+(and retinal photoreceptor cells), as inferred from the broad
+distribution of spectrin βV in these cells (see Fig. 2B and ref. 30).
+Spectrin βV and the Emergence of Somatic Electromotility. In the
+cochlear outer hair cells, the reverse-transduction process
+transforming the electrical receptor potential into a mechanical
+force is powered by the prestin molecules in the lateral plasma
+membrane. The cortical cytoskeleton, which is ∼25 nm distant
+from the plasma membrane, is an integral part of the force
+translation into the changes in cell length and stiffness that
+characterize somatic electromotility (1–3, 7). Possibly selected
+evolutionarily by virtue of its extended length, spectrin βV, with
+its additional 13 spectrin repeats, is by far the most abundant β
+subunit of the outer hair cell lateral wall, and its distribution
+matches that of prestin (refs. 6, 17, and Fig. 2B). The presence of
+spectrin βV in the lateral wall provides the outer hair cell with a
+scaffold, both robust and flexible, that directly relays the
+Fig. 4. Spectrin βV associates with post-Golgi
+structures and binds to the Rab8 GTPase. (A) In
+mouse isolated vestibular hair cells (VHCs) on P10,
+the staining with TRITC-tagged wheat germ agglutinin (WGA) substantially overlaps with the spectrin
+βV immunostaining, both in the Golgi apparatus and
+in scattered post-Golgi secretory vesicles. (B) Focus
+on a spectrin βV-immunoreactive and TRITC-WGAstained spot in the Golgi apparatus. (C) The TRITCWGA–stained structures (red) are not colocated with
+spectrin αII- and spectrin βII-immunoreactive structures (green). (D) Unlike in VHCs, spectrin βV in
+mouse cochlear outer hair cells (OHCs) does not
+colocalize with TRITC-WGA–stained structures.
+(E) Spectrin βV binds to Rab8, a small GTPase involved in vesicular trafficking toward the plasma
+membrane. A GST-tagged R29-Cter fragment of
+spectrin βV (GST-βV R29-Cter), but not GST alone,
+binds to Rab8 present in protein extracts from the
+mouse inner ear or retina. Bars, 2 μm.
+Cortese et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 2057
+NEUROSCIENCE
+membrane-based, voltage-dependent motor activity of prestin to
+the underlying cytoskeleton. In addition, the spectrin αII/βV
+crosslinks are expected to favor the longitudinal over circumferential mobility of lipids within plasma membrane microdomains,
+which may also be relevant for the cell electromotility (31).
+The cochlear outer hair cells are unique to mammals, but the
+existence of somatic electromotility in nonmammalian species has
+been a matter of debate (2, 3, 13). Indeed, it has been suggested
+that a prestin-dependent amplification mechanism also exists in the
+chicken auditory short hair cells, which could be correlated with the
+presence of prestin in the plasma membrane of their apical circumference (12). Recent findings did support the idea that avian
+hair cells produce mechanical force in vivo, but indicated that the
+effect on the vibration of the auditory epithelium is insufficient to
+sharpen tuning (5). In all frog hair cells and in the mouse vestibular
+hair cells and cochlear inner hair cells, spectrin βV was detected
+near the apical junctional complex. In addition, a trilaminate
+structure of the lateral wall, including a lateral cistern and associated pillar and filament complexes, has been reported in the apical
+region of inner hair cells, which however do not display electromotility (32). Together, these results support a scenario where the
+trilaminate organization of the mammalian outer hair cells’ lateral
+wall would have emerged from structures and molecular networks
+initially present near the apical junctional complex in the hair cells
+of mammalian ancestors. This putative apico-basal spreading along
+the hair cell lateral wall in the course of evolution may have left
+ontogenic traces in the present mammals, specifically, the expansion
+of the spectrin βV and prestin distributions from the neck region of
+the outer hair cells to their entire lateral wall during development,
+which is concomitant to the onset of electromotility (6, 17) and SI
+Appendix, Fig. S6). Likewise, the spreading of an actin- and spectrinbased cortical lattice has been reported in developing neuronal
+cells: the cortical skeleton of axons, a periodic structure formed by
+actin rings connected by flexible filaments made of βII, βIII, or βIV
+spectrin, is initiated next to the cell body and gradually extends to
+the axon terminals (22, 33, 34).
+Adaptive Evolution of the Spectrin βV Amino Acid Sequence in the
+Mammalian Lineage. We built a phylogenetic tree of the spectrin gene
+family, based on multisequence alignments from vertebrate and invertebrate protein-coding sequences (Fig. 5A and SI Appendix, Fig. S7
+and SI Appendix, Table S1). In addition, we analyzed the 13 genes
+encoding proteins that contain spectrin repeats in the unicellular
+choanoflagellate Monosiga brevicollis, one of the closest living relatives of metazoans, and identified three genes encoding spectrins.
+Prediction of protein domains allowed us to differentiate an α
+spectrin, a putative conventional β spectrin, and a putative βH spectrin. The latter contains 19 predicted spectrin repeats, two N-terminal
+calponin homology (CH) domains, a src homology 3 (SH3) domain
+(also present in the βH spectrins of invertebrate metazoans), and a
+C-terminal PH domain (16), whereas the putative conventional
+β spectrin only contains 16 predicted spectrin repeats and lacks a
+C-terminal PH domain (Fig. 5A). This result indicates that the differentiation between nonconventional and conventional β spectrins
+occurred in a unicellular ancestor of metazoans and preceded the
+appearance of ankyrins because the genome of M. brevicollis does not
+contain any ankyrin gene ortholog. The absence of a direct physical
+interaction between ankyrin and nonconventional β spectrins shown
+here (see Fig. 3A) further suggests that the binding to ankyrins was an
+evolutionary acquisition of conventional β spectrins in metazoans.
+Finally, a phylogenetic analysis of the modular structure of nonconventional β spectrins also allowed us to identify two substantial
+changes during evolution of metazoans, i.e., the addition of several
+spectrin repeats up to a total of 30 such repeats present in the βH
+spectrins of invertebrates and the βV spectrins of vertebrates (19, 20,
+27), and the removal of the SH3 domain, which is present in the two
+β spectrins of M. brevicollis and in the βH spectrins of invertebrates,
+but not in the βV spectrins of vertebrates (see Fig. 5A).
+Fig. 5. Spectrin family tree and signatures of positive
+selection in the amino acid sequences of mammalian
+spectrins βV. (A) Neighbor-joining phylogenetic tree of
+the complete spectrin gene family based on a multiple
+full-length sequence alignment from vertebrate and
+invertebrate species (Jones–Taylor–Thornton amino
+acid substitution model). Vertebrate spectrin branches
+were collapsed for the sake of clarity (see detailed tree
+in SI Appendix, Fig. S7). Predicted domains of the
+spectrins identified in the choanoflagellate Monosiga
+brevicollis are shown on the right side of the corresponding tree branches: MONBRDRAFT_14504, _31289,
+and _23028 refer to the putative α, β, and β-heavy (βH)
+spectrins, respectively. The nonconventional β spectrins
+of Drosophila (β-heavy) and mouse (βV) are shown for
+comparison. Bar, 0.5 substitution per site. (B) Diagram
+showing the positions of the amino acid residues submitted to positive selection in the mammalian lineage
+for spectrin βV (35 codon sites). Corresponding positions
+in the different vertebrate species are shown, with
+upper numbers indicating the positions in the human
+protein sequence. The protein domains are indicated
+below by horizontal bars. The phylogenetic tree of this
+spectrin is shown on the left side (the red and blue
+arrows indicate the mammalian and avian focal
+branches, respectively). Bar, 0.5 substitution per site.
+The detailed results of the phylogenic molecular
+analysis are presented in SI Appendix, Table S2. CH,
+calponin homology domain; Rn, spectrin repeat
+number n; PH, pleckstrin homology domain.
+2058 | www.pnas.org/cgi/doi/10.1073/pnas.1618778114 Cortese et al.
+In the course of evolution, most protein-coding DNA sequences
+are dominated by purifying (or negative) selection, i.e., the removal of functionally deleterious mutations. Rarely, a protein
+sequence will experience a burst of adaptive changes, driven by
+Darwinian (or positive) selection, that increase fitness. Comparative phylogenetic analyses of prestin and other SLC proteins have
+revealed significant adaptive changes in the amino acid sequence
+of prestin that occurred after the split between the avian and
+mammalian lineages. These changes have been related to the loss
+of ion transport activity of the protein in mammalians and the
+emergence of somatic electromotility in a subset of auditory hair
+cells, i.e., the outer hair cells (8, 13). We sought evidence of
+adaptive changes in the nucleotide sequences encoding all members of the α and β spectrin families using the modified branch-site
+model A, test 2 of positive selection, which allows for the selection
+intensity to vary among amino acid codon sites and among phylogenetic branches (SI Appendix, Materials and Methods). We
+tested the focal branches (tested branches of an evolutionary tree)
+in the lineage leading to mammals and the lineage leading to
+birds, for which multiple sequences of high quality were available.
+All β subunits, except βII, displayed signatures of positive selection
+in the mammalian lineage. The nonconventional βV subunit
+showed strong signatures of positive selection only in the lineage
+leading to mammals (P < 1.0 e−5
+). These signatures were identified at a total of 35 codon sites corresponding to amino acid positions in the first CH domain (CH1) and in several spectrin
+repeats (R), including R1 and R2 that are involved in protein
+dimerization (15). Three codon sites in the αII subunit, which
+forms heterodimers with βV, also displayed strong signatures of
+positive selection in the lineage leading to mammals (P = 1.2 e−3
+)
+(Fig. 5B and SI Appendix, Fig. S8 and SI Appendix, Table S2).
+The adaptive mutations in the amino acid sequence of spectrin
+βV are not sufficient to account for the changes of subcellular
+localization of the protein that occurred in the lineage leading to
+mammals because we were able to show that this localization differs
+substantially between vestibular and cochlear hair cells in a given
+species (mouse). However, they presumably contributed to these
+changes by allowing new physical interactions with as yet unidentified
+binding partners that would be produced or located differentially
+between the different cell types, as already suggested for the phosphoinositide code (25, 26). Although prestin might also appear as a
+good candidate at least in the outer hair cells, previous experiments
+have led to the conclusion that a direct interaction between this
+protein and spectrin βV is unlikely (17). Whatever the precise effects
+of these amino acid substitutions in spectrin βV, we suggest that they
+were evolutionarily selected in the mammalian lineage to serve the
+emerging function of sound stimulus mechanical amplification by the
+outer hair cells’ somatic electromotility, as previously suggested also
+for prestin and the α10 subunit of the acetylcholine receptor (8).
+From an evolutionary point of view, the critical role played by the
+cochlear outer hair cells in spectral analysis of acoustic signals and
+high-frequency hearing is indeed of utmost importance for the survival of most mammalian species (2, 3, 7).
+Materials and Methods
+A detailed description of the methods is available in SI Appendix, Materials
+and Methods. Approval for the experiments using animals was obtained
+from the Animal Use Committee of INSERM and Institut Pasteur. For immunofluorescence and immunoblot analyses, the reported antibodies were
+used as described in ref. 30. Protein–protein and protein–lipid interaction
+assays were carried out as described in ref. 17. In silico phylogenetic analyses
+on the complete spectrin family were carried out as described in ref. 8.
+ACKNOWLEDGMENTS. We thank J. Boutet de Monvel for assistance in
+data analyses, D. Rocancourt and J. Gros for providing us with avian tissue
+samples, and S. Gribaldo for fruitful discussions. This work was supported
+by Agence Nationale de la Recherche (ANR) as part of the second “Investissements d’Avenir” program (ANR-15-RHUS-0001), Laboratoire d’Excellence (LABEX) Lifesenses [ANR-10-LABX-65], LHW-Stiftung, FAUN-Stiftung
+(Suchert Foundation), and grants from ANPCyT from Argentina (to L.F.F.)
+(PICT2012-0414; PICT2013-1642). M.C. and S.P. benefited from fellowships
+from Ministère de l’Education Nationale de la Recherche et de Technologie (MNERT) and Fondation Retina-France, and F.P. received a CONICET
+doctoral fellowship.
+1. Brownell WE, Spector AA, Raphael RM, Popel AS (2001) Micro- and nanomechanics of
+the cochlear outer hair cell. Annu Rev Biomed Eng 3:169–194.
+2. Dallos P (2008) Cochlear amplification, outer hair cells and prestin. Curr Opin
+Neurobiol 18(4):370–376.
+3. Manley GA (2012) Evolutionary paths to mammalian cochleae. J Assoc Res
+Otolaryngol 13(6):733–743.
+4. Fettiplace R, Fuchs PA (1999) Mechanisms of hair cell tuning. Annu Rev Physiol 61:809–834.
+5. Xia A, Liu X, Raphael PD, Applegate BE, Oghalai JS (2016) Hair cell force generation does
+not amplify or tune vibrations within the chicken basilar papilla. Nat Commun 7:
+13133–13144.
+6. Belyantseva IA, Adler HJ, Curi R, Frolenkov GI, Kachar B (2000) Expression and localization of prestin and the sugar transporter GLUT-5 during development of electromotility in cochlear outer hair cells. J Neurosci 20(24):RC116–120.
+7. Ashmore J (2008) Cochlear outer hair cell motility. Physiol Rev 88(1):173–210.
+8. Franchini LF, Elgoyhen AB (2006) Adaptive evolution in mammalian proteins involved
+in cochlear outer hair cell electromotility. Mol Phylogenet Evol 41(3):622–635.
+9. Kavlie RG, et al. (2015) Prestin is an anion transporter dispensable for mechanical
+feedback amplification in Drosophila hearing. J Comp Physiol A Neuroethol Sens
+Neural Behav Physiol 201(1):51–60.
+10. Albert JT, et al. (2007) Voltage-sensitive prestin orthologue expressed in zebrafish
+hair cells. J Physiol 580(Pt. 2):451–461.
+11. Adler HJ, et al. (2003) Expression of prestin, a membrane motor protein, in the
+mammalian auditory and vestibular periphery. Hear Res 184(1-2):27–40.
+12. Beurg M, Tan X, Fettiplace R (2013) A prestin motor in chicken auditory hair cells:
+Active force generation in a nonmammalian species. Neuron 79(1):69–81.
+13. Elgoyhen AB, Franchini LF (2011) Prestin and the cholinergic receptor of hair cells:
+Positively-selected proteins in mammals. Hear Res 273(1-2):100–108.
+14. Kalinec F, Holley MC, Iwasa KH, Lim DJ, Kachar B (1992) A membrane-based force generation mechanism in auditory sensory cells. Proc Natl Acad Sci USA 89(18):8671–8675.
+15. De Matteis MA, Morrow JS (2000) Spectrin tethers and mesh in the biosynthetic
+pathway. J Cell Sci 113(Pt 13):2331–2343.
+16. Stabach PR, Morrow JS (2000) Identification and characterization of β V spectrin, a
+mammalian ortholog of Drosophila β H spectrin. J Biol Chem 275(28):21385–21395.
+17. Legendre K, Safieddine S, Küssel-Andermann P, Petit C, El-Amraoui A (2008) alphaIIbetaV spectrin bridges the plasma membrane and cortical lattice in the lateral wall of
+the auditory outer hair cells. J Cell Sci 121(Pt 20):3347–3356.
+18. Fritzsch B, Beisel KW, Pauley S, Soukup G (2007) Molecular evolution of the vertebrate
+mechanosensory cell and ear. Int J Dev Biol 51(6-7):663–678.
+19. Phillips MD, Thomas GH (2006) Brush border spectrin is required for early endosome
+recycling in Drosophila. J Cell Sci 119(Pt 7):1361–1370.
+20. McKeown C, Praitis V, Austin J (1998) sma-1 encodes a betaH-spectrin homolog required for Caenorhabditis elegans morphogenesis. Development 125(11):2087–2098.
+21. Glenney JR, Jr, Glenney P, Weber K (1983) The spectrin-related molecule, TW-260/240,
+cross-links the actin bundles of the microvillus rootlets in the brush borders of intestinal epithelial cells. J Cell Biol 96(5):1491–1496.
+22. Zhong G, et al. (2014) Developmental mechanism of the periodic membrane skeleton
+in axons. eLife 3:e04581.
+23. Thomas GH, et al. (1997) Intragenic duplication and divergence in the spectrin superfamily of proteins. Mol Biol Evol 14(12):1285–1295.
+24. Lee HG, Zarnescu DC, MacIver B, Thomas GH (2010) The cell adhesion molecule
+Roughest depends on β(Heavy)-spectrin during eye morphogenesis in Drosophila.
+J Cell Sci 123(Pt 2):277–285.
+25. Kutateladze TG (2010) Translation of the phosphoinositide code by PI effectors. Nat
+Chem Biol 6(7):507–513.
+26. Balla T (2013) Phosphoinositides: Tiny lipids with giant impact on cell regulation.
+Physiol Rev 93(3):1019–1137.
+27. Praitis V, Ciccone E, Austin J (2005) SMA-1 spectrin has essential roles in epithelial cell
+sheet morphogenesis in C. elegans. Dev Biol 283(1):157–170.
+28. Williams JA, MacIver B, Klipfell EA, Thomas GH (2004) The C-terminal domain of
+Drosophila (β) heavy-spectrin exhibits autonomous membrane association and modulates membrane area. J Cell Sci 117(Pt 5):771–782.
+29. Lee SK, Thomas GH (2011) Rac1 modulation of the apical domain is negatively regulated by β (Heavy)-spectrin. Mech Dev 128(1-2):116–128.
+30. Papal S, et al. (2013) The giant spectrin βV couples the molecular motors to phototransduction and Usher syndrome type I proteins along their trafficking route. Hum
+Mol Genet 22(18):3773–3788.
+31. de Monvel JB, Brownell WE, Ulfendahl M (2006) Lateral diffusion anisotropy and
+membrane lipid/skeleton interaction in outer hair cells. Biophys J 91(1):364–381.
+32. Furness DN, Hackney CM (1990) Comparative ultrastructure of subsurface cisternae in inner
+and outer hair cells of the guinea pig cochlea. Eur Arch Otorhinolaryngol 247(1):12–15.
+33. Xu K, Zhong G, Zhuang X (2013) Actin, spectrin, and associated proteins form a periodic cytoskeletal structure in axons. Science 339(6118):452–456.
+34. He J, et al. (2016) Prevalent presence of periodic actin-spectrin-based membrane
+skeleton in a broad range of neuronal cell types and animal species. Proc Natl Acad
+Sci USA 113(21):6029–6034.
+Cortese et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 2059
+NEUROSCIENCE

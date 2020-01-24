@@ -1,0 +1,822 @@
+Correction
+NEUROSCIENCE
+Correction for “A hypothalamic circuit that controls body temperature,” by Zheng-Dong Zhao, Wen Z. Yang, Cuicui Gao, Xin
+Fu, Wen Zhang, Qian Zhou, Wanpeng Chen, Xinyan Ni, Jun-Kai
+Lin, Juan Yang, Xiao-Hong Xu, and Wei L. Shen (first published
+January 4, 2017; 10.1073/pnas.1616255114).
+The authors note that the grant number X-0402–14-002 should
+instead appear as 31400955.
+www.pnas.org/cgi/doi/10.1073/pnas.1701881114
+www.pnas.org PNAS | February 28, 2017 | vol. 114 | no. 9 | E1755
+CORRECTION
+A hypothalamic circuit that controls body temperature
+Zheng-Dong Zhao (赵政东)
+a,b,c,1, Wen Z. Yanga,b,c,1, Cuicui Gaoa,b,c, Xin Fua,b,c, Wen Zhangd
+, Qian Zhoua,b,c,
+Wanpeng Chena,b,c, Xinyan Nia
+, Jun-Kai Lind
+, Juan Yanga
+, Xiao-Hong Xud
+, and Wei L. Shen (沈伟)
+a,2
+a
+School of Life Science and Technology, ShanghaiTech University, Shanghai, 201210, China; b
+Institute of Neuroscience, Shanghai Institutes for Biological
+Sciences, Chinese Academy of Sciences, Shanghai, 200031, China; c
+University of Chinese Academy of Sciences, Beijing, 100049, China; and d
+Institute of
+Neuroscience, State Key Laboratory of Neuroscience, Chinese Academy of Sciences Center for Excellence in Brain Science and Intelligence Technology,
+Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, Shanghai, 200031, China
+Edited by David J. Mangelsdorf, The University of Texas Southwestern Medical Center, Dallas, TX, and approved December 9, 2016 (received for review
+October 3, 2016)
+The homeostatic control of body temperature is essential for survival
+in mammals and is known to be regulated in part by temperaturesensitive neurons in the hypothalamus. However, the specific neural
+pathways and corresponding neural populations have not been fully
+elucidated. To identify these pathways, we used cFos staining to
+identify neurons that are activated by a thermal challenge and found
+induced expression in subsets of neurons within the ventral part of the
+lateral preoptic nucleus (vLPO) and the dorsal part of the dorsomedial
+hypothalamus (DMD). Activation of GABAergic neurons in the vLPO
+using optogenetics reduced body temperature, along with a decrease
+in physical activity. Optogenetic inhibition of these neurons resulted in
+fever-level hyperthermia. These GABAergic neurons project from the
+vLPO to the DMD and optogenetic stimulation of the nerve terminals
+in the DMD also reduced body temperature and activity. Electrophysiological recording revealed that the vLPO GABAergic neurons suppressed neural activity in DMD neurons, and fiber photometry of
+calcium transients revealed that DMD neurons were activated by cold.
+Accordingly, activation of DMD neurons using designer receptors
+exclusively activated by designer drugs (DREADDs) or optogenetics
+increased body temperature with a strong increase in energy expenditure and activity. Finally, optogenetic inhibition of DMD neurons
+triggered hypothermia, similar to stimulation of the GABAergic neurons in the vLPO. Thus, vLPO GABAergic neurons suppressed the thermogenic effect of DMD neurons. In aggregate, our data identify
+vLPO→DMD neural pathways that reduce core temperature in response to a thermal challenge, and we show that outputs from the
+DMD can induce activity-induced thermogenesis.
+thermoregulation | preoptic area | dorsomedial hypothalamus |
+fiber photometry | energy expenditure
+Adult mammals, including humans, precisely maintain core
+body temperature (Tcore) within a narrow range. This system
+is essential for survival because a significant deviation of Tcore
+can adversely affect cellular metabolism. Changes in environmental temperature activate homeostatic responses that, in turn,
+regulate energy expenditure, adaptive thermogenesis, and physical activity in an attempt to maintain near-optimal Tcore. Previous studies have shown that the preoptic area (POA) of the
+hypothalamus plays an important role in maintaining a stable
+Tcore via afferent inputs from skin thermoreceptors. The direct
+sensing of changes in skin temperature, in turn, activates POA
+efferent signals that control thermal effector organs (1, 2). For
+example, in response to a heat stress, warmth receptors within
+the dorsal root ganglion provide excitatory input to POA neurons via relay neurons in the dorsal lateral parabrachial nucleus
+(3). In addition, recordings from in vivo models and in slice preparations identify a group of intrinsic warm-sensitive neurons
+(WSNs) (20–40%) that may enable animals to directly detect brain
+warmth and promote heat loss (4). Thermosensitive transient receptor potential channel M2 (TRPM2), which is expressed in the
+POA, may be part of the heat sensor in WSNs that can limit fever
+and induce hypothermia (5). Furthermore, activation of glutamatergic neurons in several POA subareas results in severe hypothermia, whereas activation of subsets of POA GABAergic neurons
+has been found to have only a minimal or no effect on Tcore (5, 6).
+However, the precise nature of the POA projections that play a role
+in suppressing thermogenesis have not been elucidated. Thus, although several relevant brain regions have been suggested to act
+in concert with the POA to regulate Tcore (1, 2), including the dorsomedial hypothalamus (DMH), the periventricular nucleus, and
+the raphe pallidus nucleus, functional connections between the
+POA and other thermoregulatory regions are largely unknown.
+In the present study, we began by defining sites in which cFos
+staining was induced by changes in environmental temperature.
+These studies identified temperature-activated neurons in the
+ventral part of the lateral preoptic nucleus (vLPO) and the
+dorsal part of the DMH (DMD). We confirmed that DMD
+neurons responded to cold by using fiber photometry, and tested
+the ability of these and POA neurons to affect Tcore, energy
+expenditure (EE), and physical activity by using optogenetics (7)
+or designer receptors exclusively activated by designer drugs
+(DREADDs) (8). These functional studies identified neural
+pathways in which heat-activated GABAergic neurons in the
+vLPO inhibit cold-activated neurons in the DMD to suppress
+thermogenesis and lower Tcore.
+Results
+Activation of GABAergic POA Neurons Is Sufficient To Drive Hypothermia.
+The POA is known to receive input from cold- and heat-sensitive
+neurons (1). However, although recent data have identified some of
+the neural substrates for temperature sensing (5, 6), components of
+the neural circuit(s) that respond to thermal challenges have not been
+Significance
+Thermal homeostasis is essential for survival in mammals. Although it is known that temperature-sensitive neurons in the
+hypothalamus can control body temperature, the precise neural types and dynamics of neurons responding to changes in
+environmental temperature are not well defined. In this study,
+we identified subsets of temperature-activated neurons in two
+hypothalamic nuclei, the preoptic area (POA) and the dorsomedial hypothalamus (DMH), and showed that modulating
+their activity can lead to alterations in core temperature. The
+data further suggest that heat-activated GABAergic neurons in
+the POA reduce the activity of cold-activated neurons in the
+DMH, which function to increase thermogenesis and physical
+activity. These data identify a neural circuit that controls core
+temperature and thermogenesis.
+Author contributions: Z.-D.Z., W.Z.Y., X.-H.X., and W.L.S. designed research; Z.-D.Z., W.Z.Y.,
+C.G., X.F., W.Z., Q.Z., W.C., X.N., J.-K.L., and J.Y. performed research; Z.-D.Z., W.Z.Y., C.G.,
+X.F., W.Z., Q.Z., and W.C. analyzed data; and Z.-D.Z., W.Z.Y., and W.L.S. wrote
+the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+Z.-D.Z. and W.Z.Y. contributed equally to this work.
+2
+To whom correspondence should be addressed. Email: shenwei@shanghaitech.edu.cn.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1616255114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1616255114 PNAS Early Edition | 1 of 6
+NEUROSCIENCE
+fully elucidated. For example, there are conflicting data concerning
+the potential role of GABAergic neurons in the POA (2, 5, 6). To
+identify these key neural populations, we characterized the pattern of
+cFos activation following a thermal challenge (SI Appendix, Fig. S1).
+We found heat-induced cFos expression in the medial preoptic area
+(MPO) and the vLPO, and it colocalized with the GABAergic marker
+GAD67 (Fig. 1A and SI Appendix, Fig. S5A). Both the MPO and the
+vLPO have been suggested to play important roles in thermoregulation (1, 2, 9–11). To test the function of the vLPO neuronal population, we targeted expression of channelrhodopsin-2 (ChR2) fused
+with eYFP to GABAergic neurons within the vLPO by injecting Credependent adeno-associated virus (AAV) 5 viruses into the vLPO of
+Vgat-IRES-Cre driver mice (Vgat stands for vesicular GABA transporter) (Fig. 1B). In slice recordings, we confirmed that the delivery of
+blue light to ChR2-expressing vLPOVgat neurons resulted in neural
+excitation (Fig. 1C). In vivo, we found that light-induced activation of
+vLPOVgat neurons triggered a rapid reduction in Tcore with a decrease
+in physical activity (ΔT = –1.8 ± 0.09 °C at t = 30 min, mean ± SEM,
+Fig. 1 D and E) in freely behaving mice. This effect was specific to
+ChR2, because injection of control AAV5 viruses (expressing eYFP)
+did not significantly affect Tcore or activity.
+Next, we asked whether inhibiting these neurons was sufficient
+to drive hyperthermia. Using the Guillardia theta anion channelrhodopsin 1 (hGtACR1), which robustly silences neural activity in response to blue-yellow light (12), we found that blue
+light delivery was sufficient to silence neurons in slice recordings
+(Fig. 1C). Remarkably, light stimulation of mice expressing
+hGtACR1 in vLPOVgat neurons caused severe hyperthermia with
+elevated activity levels (maximal Tcore = 40.6 °C, Fig. 1 D and E).
+Indeed, we needed to minimize the time in which animals received light illumination to prevent hyperthermia-induced death.
+We also tested the function of MPO GABAergic neurons by
+targeted expressing of ChR2 to GABAergic neurons within the
+MPO of Vgat-IRES-Cre driver mice (SI Appendix, Fig. S5B).
+The GABAergic neurons in the MPO have been suggested to
+play important roles in thermoregulation (1, 2). Surprisingly, we
+found that optogenetic activation of these MPOVgat neurons did
+not significantly affect Tcore or activity (SI Appendix, Fig. S5 C
+and D). Similar to our results, DREADD activation of these
+neurons has a minimal effect on Tcore (5).
+Thus, our results establish that activation of GABAergic neurons
+within a preoptic subregion (vLPO) can inhibit thermogenesis,
+whereas inhibition of these neurons dramatically raises core temperature. We next explored the functional targets of these neurons.
+Critical Role of the POA→DMD Connection in Reducing Tcore. We
+thought that vLPOVgat neurons might project to the DMH because
+the DMH is known to participate in thermoregulation, and because
+we observed that thermal stimuli induced strong cFos staining within
+the DMD (SI Appendix, Fig. S1). To test whether vLPOVgat neurons directly innervate DMD neurons, we first performed anterograde tracing from these neurons by injecting ChR2 into vLPOVgat
+neurons (Fig. 2A) and found staining of nerve terminals in the
+DMD (Fig. 2B). We then performed retrograde labeling by injecting
+the retrograde protein, cholera toxin B subunit (CTb; ref. 13) into
+the DMD and found it labeled many neurons in the POA, including heat-activated neurons (as indicated by induction of cFos)
+in the vLPO (Fig. 2C).
+We tested the function of this vLPO→DMD projection by
+stimulating vLPOVgat terminals in the DMD after viral injection of
+ChR2 into the vLPO (Fig. 2D). We found that stimulation with blue
+light triggered a significant reduction of Tcore (ΔT = –2.3 ± 0.6 °C at
+t = 60 min, mean ± SEM, Fig. 2E) along with a decrease in activity
+(Fig. 2F). The magnitude of the effect was similar to that observed
+after direct stimulation of Vgat neurons in the vLPO. Thus, stimulation of vLPOVgat nerve terminals in the DMD recapitulated the
+phenotype observed when vLPOVgat cell bodies were stimulated
+(Fig. 1 D and E, Upper).
+These functional data suggest that vLPOVgat neurons inhibit
+DMD neurons and reduce core temperature and thermogenesis.
+We next set out to confirm this inhibition directly by recording
+inhibitory postsynaptic currents (IPSCs) in DMD neurons after
+vLPOVgat terminals were stimulated. This recording is important
+because our data could also be explained by inhibition of axon
+fibers that pass through the DMD without directly innervating
+DMD neurons. In slice preparations, we confirmed that stimulation of vLPOVgat terminals expressing ChR2 by blue lightinduced IPSCs in the DMD neurons and that these currents were
+blocked by a GABAA receptor antagonist, bicuculline (Fig. 2G).
+The onset of these currents was <3 ms after light delivery, which
+is within the time range of monosynaptic transmission (14). Furthermore, to identify which types of DMD neurons are synaptically
+connected to the vLPOVgat neurons, we used the recording pipette
+to isolate mRNA from individual, light-responsive DMD neurons
+immediately after recordings and analyzed gene expression by
+single-cell reverse transcription PCR (RT-PCR) (15). These singlecell RT-PCR data showed that there were both Vgat+ and Vglut2+
+postsynaptic neurons in the DMD, with the majority being Vgat+
+(Fig. 2H and SI Appendix, Fig. S6).
+Several reports (16–21) have suggested that DMD neurons
+can regulate thermogenesis, but the inputs to these neurons have
+not been elucidated. Our studies in anterograde and retrograde
+B = 0.14
+Heat GAD67 / cFos (29 38 A oC)
+MPO
+dLPO
+aca
+3V
+B
+C
+hGtACR1
+ChR2
+D
+Time (min)
+Tcore (°C)
+-20 0 20 40 60
+35
+37
+39
+41 Light
+**
+hGtACR1
+Control
+Body Temperature Physical Activity
+20 mV
+5 s
+Light on
+E
+vLPOVgat
+Light
+vLPO
+vLPOVgat
+3V
+3V
+aca
+aca
+Time (min)
+-20 0 20 40 60 34
+35
+36
+37
+38 Light ChR2
+Control
+**
+Act. (counts)
+vLPO
+vLPO
+MPO
+MPO
+ChR2 / DAPI
+hGtACR1 / DAPI
+VLPO
+VLPO
+Fig. 1. Requirement of preoptic GABAergic neurons in reducing Tcore.
+(A) Heat-induced (38 °C, 2 h) cFos colocalized with the GABAergic marker
+GAD67 in the vLPO (no. of cFos+ and GAD67+/no. of cFos+ = 36.3 ± 2.4%,
+n = 3). The dashed white lines indicate boundaries between subregions.
+(B) Scheme of optogenetic modulation and viral expression of ChR2 (excitatory) or hGtACR1 (inhibitory) in vLPOVgat neurons. The dashed yellow lines
+indicate the positions of optical inserts. (C) Slice recordings of neurons
+expressing ChR2 (Upper) or hGtACR1 (Lower). Blue light (blue, 6 mW, 40 Hz)
+faithfully elicited photocurrents in ChR2-expressing neurons in the vLPO. A
+blue light pulse (6 mW) completely silenced hGtACR1-expressing neurons in
+the vLPO. (D and E) Tcore (D) and activity (E) changes after optogenetic
+stimulation in mice expressing ChR2 (Upper, n = 4) or hGtACR1 (Lower, n = 3)
+in vLPOVgat neurons. Stimulation protocol for ChR2: unilateral light pulses for
+2 s (473 nm, 10 mW, 20 Hz, 40% on) followed by a 2-s break, with the sequence repeating for 30 min. For hGtACR1: bilateral light on for 30 s (473 nm,
+6 mW) followed by a 90-s break, with the sequence repeating for 30 min. Bar
+graph of activity changes (average of 10-min interval) are shown in the right.
+Baselines (b.s.) represents the average counts between t = –30 and –20 min.
+(20–30 min) represents the average of counts between t = 20 and 30 min.
+(Scale bars: A, 100 μm; B; 200 μm.) All data are plotted as mean ± SEM. The
+P values compared with control group (eYFP) are calculated based on statistical
+tests listed in SI Appendix, Table S1. *P ≤ 0.05; **P ≤ 0.01. aca, anterior commissure, anterior part; B, bregma; dLPO and vLPO, dorsal and ventral part of
+lateral preoptic nucleus respectively; MPO, medial preoptic nucleus; 3V, third
+ventricle; VLPO, ventrolateral preoptic nucleus.
+2 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1616255114 Zhao et al.
+tracing, optogenetic activation of terminals from vLPOVgat
+neurons in the DMD, slice recordings, and single-cell RT-PCR
+suggest the possibility that there are functional connections between the vLPOVgat neurons and DMDVgat or DMDVglut2 neurons
+to regulate core temperature. We next tested these connections
+directly by monitoring and modulating the activity of neurons in
+the DMD.
+Fiber Photometry Reveals That DMD Neurons Are Cold Activated. The
+observation that inhibitory neurons that project to the DMD
+cause hypothermia suggests that neurons within the DMD may
+be cold sensitive (via either direct or indirect inputs) and act to
+raise core temperature (which would explain why inhibiting their
+inhibitors would raise Tcore; Fig. 1D). We first tested this hypothesis by using the calcium reporter GCaMP6f (22) to directly
+measure neural Ca2+ signals by fiber photometry after changes
+in environmental temperature. Similar experimental setups
+have yielded stable recordings from the dorsal raphe (23) (Fig.
+3A). We recorded Ca2+ signals from both glutamatergic
+(DMDVglut2) and GABAergic (DMDVgat) neurons separately by
+injecting a Cre-dependent version of GCaMP6f into Vglut2-
+IRES-Cre and Vgat-IRES-Cre mice, respectively (Fig. 3B). We
+controlled floor temperature (Tfloor) of mice with a Peltier controller
+(Fig. 3C). The DMDVglut2 neurons showed significant Ca2+ signals
+in response to cooling (25–13 °C, maximal response, ΔF/F0_max =
+16.5 ± 2.6%, mean ± SEM; Fig. 3D, Left), but not to warming (25–
+38 °C, Fig. 3D, Center). The responses occurred within seconds of the
+temperature shift and diminished quickly in cold. Approximately 2 min
+following the temperature shift (t = 110–120 s), mean neuronal activity
+levels (ΔF/F0 (110–120 s)) were not higher than baseline (Fig. 3D, Right).
+We also observed an even larger Ca2+ increases in response to
+cooling in DMDVgat neurons (25–13 °C) (ΔF/F0_max = 22.7 ± 2.8%,
+mean ± SEM; Fig. 3E, Left). This Ca2+ signal increased rapidly
+(within seconds) after the temperature shift and diminished more
+slowly than in DMDVglut2 neurons. ΔF/F0(110–120s) was significantly
+larger than baselines (Fig. 3E, Right). We fitted the response curve
+by using a sigmoidal function and found the full width at half
+maximum (FWFM or T1/2 max) of the DMDVgat neurons was longer
+than that of DMDVglut2 neurons (T1/2 max = 22.6 s and 16.5 s, respectively; SI Appendix, Fig. S8 A and B).
+Taken together, these results indicate that both GABAergic
+and glutamatergic neurons in the DMD are activated by cooling.
+The response of DMDVgat neurons lasted longer than that
+of DMDVglut2 neurons. All of our temperature stimuli-evoked
+calcium responses appeared to result from periphery sensory input,
+rather than from a slow change in body temperature, based on
+D
+H
+bic.
+wash vLPOVgat DMD
+Light
+ChR2
+IPSCs
+aca
+3V
+A B
+3V
+DMD
+MPO vLPO
+CTb Vgat
+& ChR2
+vLPO DMD
+DMD
+ChR2
+terminals C
+G
+Vglut2
+Vgat
+Undefined
+Single-cell RT-PCR
+Cell number
+vLPO DMD
+dLPO
+DMV
+3V
+Vgat
+& ChR2
+Light
+CTb / DAPI / cFos (29 38oC)
+Injection site CTb in the POA
+VMH
+E F
+DMD
+B = -1.82
+Tcore ( C)
+Act. (counts)
+VLPO
+Fig. 2. Critical role of the vLPOVgat→DMD connection in reducing Tcore.
+(A) Scheme for anterograde tracing using ChR2 and retrograde tracing using
+CTb. (B) vLPOVgat & ChR2 terminals in the DMD. (C) vLPO neurons were retrogradely labeled by CTb injected in the DMD, which colocalized with heatinduced cFos. White arrows indicate the colocalization of cFos and CTb.
+(Scale bars: 100 μm.) (D) Scheme for terminal optogenetic stimulation in the
+DMD after ChR2 injection into vLPOVgat neurons. Both injection and stimulation were bilateral. (E and F) Bilateral terminal optogenetic stimulation in
+the DMD-reduced Tcore (E) and activity (F) (n = 5). Illumination protocol: light
+pulses for 2 s (473 nm, 10 mW, 20 Hz, 40%) followed by a 2-s break, with the
+sequence repeating for 1 h. Bar graph of activity changes (average of 20-min
+interval) are shown in F. Baselines (b.s.) represents the average of counts in
+between t = –30 and –10 min. (40–60 min) represents the average of counts
+between t = 40 and 60 min. (G) Induction of inhibitory postsynaptic currents
+(IPSCs) in DMD neurons by light stimulation (blue, 6 mW, 2 ms) of ChR2-
+expressing terminals projected from vLPOVgat neurons. IPSCs were blocked
+by bicuculline (bic.), and partially recovered after wash. Thick lines indicate
+the mean, whereas the shaded areas indicate SD. (H) Single-cell RT-PCR
+analysis of recorded cells. All data are plotted as mean ± SEM (except in G);
+P values compared with control group (532 nm) are calculated based on
+statistical tests listed in SI Appendix, Table S1. *P ≤ 0.05; ***P ≤ 0.001. DMD
+and DMV, dorsal and ventral part of dorsomedial hypothalamic nucleus respectively; VMH, ventromedial hypothalamic nucleus.
+Detector
+Laser Dichroic
+473nm
+525nm
+Thermal pad
+GCaMP6f
+3V
+DMDVglut2 DMDVgat
+3V
+-120 -60 0 60 120
+3
+13
+23
+33
+-120 -60 0 60 120
+-10
+0
+10
+20
+30
+Floor temp.
+DMD
+DMV
+DMD
+DMV
+DMDVglut2
+DMDVgat
+Floor temp.
+DMDVglut2
+DMDVgat
+DMDVglut2
+DMDVgat
+-120 -60 0 60 120
+-10
+0
+10
+20
+30
+Time (s)
+A B
+C
+D
+E
+Fig. 3. DMD neural dynamics in response to thermal stimuli. (A) Scheme of
+fiber photometry setup. (B) The expression of GCaMP6f in the DMD driven
+by Vglut2-IRES-Cre or Vgat-IRES-Cre. The dashed yellow lines indicate the
+positions of optical inserts. The dashed white lines indicate the boundary of
+the DMH. (Scale bars: 200 μm.) (C) Controlled floor temperature (Tfloor) with
+a Peltier controller. (Left) Cooling traces (25–13 °C). (Right) Heating traces
+(25–38 °C). (D) Cooling, but not warming-activated DMDVglut2 neurons. Thick
+lines indicate the mean, whereas the shaded areas indicate SEM. ΔF/Fo
+represents change in GCaMP6f fluorescence from the mean level before the
+floor temperature change. b.s. represents baseline, which is the averaged
+ΔF/Fo between t = –20 and –120 s. (0–10) and (110–120 s) represent the
+averaged ΔF/Fo between t = (0–10 s) and t = (110–120 s), respectively (n = 3).
+(E) Cold, but not warmth, activated DMDVgat neurons (n = 4). All data are
+plotted as mean ± SEM. The P values, compared with baselines, are calculated based on statistical tests listed in SI Appendix, Table S1. *P ≤ 0.05;
+***P ≤ 0.001; ns, not significant. DMD and DMV, dorsal and ventral part of
+dorsomedial hypothalamic nucleus, respectively; 3V, third ventricle.
+Zhao et al. PNAS Early Edition | 3 of 6
+NEUROSCIENCE
+the fast-rising kinetics. The calcium responses occurred within
+seconds after the temperature shift (Fig. 3 D and E), whereas the
+changes in Tcore happened minutes after the temperature shift
+(SI Appendix, Fig. S2).
+DMD Neurons Promote Thermogenesis. The finding that cooling
+leads to abrupt Ca2+ transients in DMDVglut2 neurons suggests
+that these neurons might play a functional role in cold-induced
+thermogenesis. We next tested this by using DREADDs to
+activate DMDVglut2 neurons remotely, allowing us to measure
+energy expenditure (EE) without being impeded by optical
+fibers required for optogenetics. As predicted, we found that
+injection of the ligand clozapine N-oxide (CNO) into mice
+expressing designed human M3 muscarinic receptor coupled to Gq
+(hM3D) (8) in DMDVglut2 neurons strongly increased Tcore, along
+with an increase in EE and physical activity (ΔT = 1.4 ± 0.3 °C,
+ΔEE = 47.3 ± 5.1% at t = 100 min, mean ± SEM; Fig. 4 A–D). These
+increases are direct evidence that activation of DMDVglut2 neurons
+promotes thermogenesis, which is consistent with previous studies
+showing that the DMD may send excitatory (or glutamatergic) projections to promote cold- or febrile-induced thermogenesis (16, 17,
+24, 25).
+The findings that cooling induced calcium transients in
+DMDVgat neurons (Fig. 3E) and that cold-induced cFos colocalized with GAD67 in the DMD (SI Appendix, Fig. S7A) suggest
+that these neurons could also be important for regulating coldinduced thermogenesis. We tested this by using both DREADDs
+and optogenetics to activate DMDVgat neurons. We found that
+injection of CNO, but not saline, into mice expressing h3MD
+in DMDVgat neurons resulted in a slow, yet long-lasting increase
+in Tcore, with an increase in EE and activity (ΔT = 1.3 ± 0.2 °C,
+ΔEE = 47.4 ± 7.5% at t = 100 min, mean ± SEM; Fig. 4 E–H).
+We fitted the response curve with a sigmoidal function and calculated maximum change rate (k) and full width at half maximum
+(FWFM) (SI Appendix, Fig. S8 C and D). For the same dose of
+CNO, the k for the Tcore, EE, and activity response curves were
+smaller for DMDVgat neural activation than was observed after
+DMDVglut2 neural activation. However, the FWFWs were longer
+after DMDVgat neural activation versus activation of DMDVglut2 (SI
+Appendix, Fig. S8 C and D). The kinetics of these biological responses matched that seen by recording from these neurons,
+which indicates that cold-induced Ca2+ transients of DMDVgat
+neurons diminished more slowly than that of DMDVglut2 neurons
+(Fig. 3 D and E and SI Appendix, Fig. S8 A and B). Also, we
+observed an increase in Tcore and activity after optogenetic
+stimulation of mice expressing ChR2 in DMDVgat neurons (SI
+Appendix, Fig. S8 B–D). In aggregate, these data show that activation of both glutamatergic and GABAergic neurons in the
+DMD can increase Tcore, EE, and activity, although the kinetics
+of the biological responses to activation of these neurons were
+different.
+Inhibition of DMD Neurons Is Sufficient To Drive Hypothermia. The
+finding that vLPOVgat inputs to the DMD lower core temperature led us to predict that optogenetic inhibition of DMD neurons would have a similar effect. This prediction was tested by
+injecting AAV9 viruses expressing hGtACR1 into the DMD of
+Vglut2-IRES-Cre or Vgat-IRES-Cre driver mice (thereby driving
+hGtACR1 expression in DMDVglut2 or DMDVgat neurons, respectively). We found that blue light stimulation of mice expressing
+hGtACR1 in DMDVglut2 neurons resulted in a significant reduction
+in Tcore, along with a decrease in activity (ΔT = –1.3 ± 0.2 °C at t =
+60 min, mean ± SEM; Fig. 5 A and B), similar to optogenetic
+activation of the vLPOVgat neurons (Fig. 1 D and E). Similarly,
+blue light stimulation of mice expressing hGtACR1 in DMDVgat
+neurons resulted in significant reductions in Tcore, along with a
+decrease in activity (ΔT = –2.5 ± 0.5 °C at t = 60 min, mean ± SEM;
+Fig. 5 C and D). Taken together, these results define elements of a
+POA→DMH neural circuit in the hypothalamus (including
+vLPOVgat→DMDVglut2 and vLPOVgat→DMDVgat connections) that
+regulate thermogenesis.
+Discussion
+The maintenance of a stable core temperature is essential for
+survival. Our study elucidates a central mechanism through
+which changes in core temperature (in response to alternations
+in ambient temperature or other stimuli) elicit a set of adaptive
+thermogenic responses that defend Tcore. In aggregate, we find
+that in response to a heat challenge, heat-activated GABAergic
+neurons in the vLPO directly inhibit the activity of cold-activated
+glutamatergic and GABAergic neurons in the DMD to lower
+Tcore, and do so (in part) by suppressing EE and activity. Thus,
+we have elucidated pathways for controlling body temperature
+and activity-induced thermogenesis.
+In connection with our study, previous studies have suggested
+that the vLPO is an important site for thermoregulation. Local
+warming of the vLPO causes paw vasodilation in rats (9), suggesting the existence of WSNs in this area that can drive hypothermia. Also, the vLPO is labeled when a retrograde tracer
+(pseudo rabies virus) is injected into the interscapular brown
+adipose tissue (BAT) of rats (26), suggesting its involvement in
+controlling BAT thermogenesis. Interestingly, a recent study
+discovered that a heat-sensitive channel, TRPM2, in the POA
+(including the vLPO) may be part of the WSN heat sensor to
+limit fever (5). Thus, it will be interesting to see whether TRPM2
+is important for vLPO neurons to detect brain warmth and
+lower Tcore.
+We found that heat activated a subset of GABAergic neurons in
+the vLPO, which then lowered Tcore. Although a similar (or
+stronger) effect was observed after activation of glutamatergic
+neurons in several preoptic subregions [MPA (6), and MPO (5)],
+activation of GABAergic neurons in these areas has a small effect
+on Tcore, and the role of GABAergic neurons in the vLPO was not
+studied previously. We found that activation of GABAergic neurons in the vLPO is sufficient to induce hypothermia (Fig. 1 B and
+D). However, this activation does not include the ventrolateral
+preoptic nucleus (VLPO), which is important for sleep regulation
+(27, 28) but may be dispensable for thermoregulation, because its
+lesion has a minimal effect on Tcore (27). The vLPO GABAergic
+neurons comprise a functionally confirmed GABAergic population in the POA. In addition, we found that inhibiting vLPO
+GABAergic neurons induced fever-level hyperthermia, suggesting
+that these neurons can control Tcore in either direction (Fig. 1D),
+and that these neurons provide a key entry point for studying the
+neural mechanisms controlling thermogenesis. Furthermore, we
+found heat can also activate a subset of glutamatergic neurons in
+the vLPO, which can drive severe hypothermia and hypoactivity (SI
+DMD
+DMV
+B Body Temperature Physical Activity
+F
+Time (min)
+-60 0 60 120 180 240 0.15
+0.20
+0.25
+0.30
+0.35 **
+Energy Expenditure
+DMD
+Vglut2 & hM3D
+Vgat & hM3D
+A
+DMD
+E
+C D
+G H
+3V
+3V
+DMD
+DMV
+Fig. 4. Activation of DMD neurons increases body temperature. (A) Schematic and representative images of viral expression of hM3D in DMD Vglut2-
+IRES-Cre+ neurons. (B–D) Activation of DMDVgut2 neurons (n = 5) by CNO
+injection (i.p. at t = 0, 1.5 mg/kg body weight) resulted in significant increases in Tcore (B), EE (C), and activity (D). (E) Schematic and representative
+images of viral expression of hM3D in DMD Vgat-IRES-Cre+ neurons.
+(F–H) Activation of DMDVgat neurons (n = 8) by CNO injection (i.p. at t = 0,
+1.5 mg/kg body weight) resulted in significant increases in Tcore (F), EE (G),
+and activity (H). (Scale bars: 100 μm.) All data are plotted as mean ± SEM. The
+P values, compared with the saline group, are calculated based on statistical
+tests listed in SI Appendix, Table S1. **P ≤ 0.01; ***P ≤ 0.001.
+4 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1616255114 Zhao et al.
+Appendix, Fig. S3). Thus, vLPO GABAergic neurons might receive local inputs from vLPO glutamatergic neurons or other
+preoptic glutamatergic neurons as proposed (1, 2) (such as the
+MnPO, because the MnPO receives inputs from the periphery (3) and sends glutamatergic outputs specifically to the
+vLPO; SI Appendix, Fig. S4). These inputs must be functionally
+confirmed.
+In addition to the POA, the DMH is also an important site for
+thermoregulation. Although a POA→DMH connection has been
+proposed to play a role in thermoregulation (1, 2), direct functional confirmation of this connection is lacking. For example,
+pioneering studies suggest that there are anatomical connections
+between DMH neurons and MnPO or MPO neurons, and DMH
+thermogenic neurons are differentially regulated by GABAergic
+and glutamatergic inputs (18, 24, 25). However, it is equally likely
+for these inputs to arise from preoptic subregions (such as the
+MnPO or MPO) vs. other brain regions. In addition, activation of
+GABAergic neurons in subregions including the MnPO and MPO
+have a small effect on Tcore (refs. 5 and 6 and SI Appendix, Fig. S5).
+We thus wondered whether vLPOVgat neurons innervate DMD
+neurons and reduced Tcore in response to heat by inhibiting
+DMD neurons. To test this hypothesis, we combined anterograde and retrograde tracing, terminal optogenetic stimulation,
+IPSC recording, and single-cell RT-PCR (Fig. 2) to show that
+vLPOVgat→DMD connections are critical for bidirectionally
+regulating Tcore and activity. Interestingly, we found that the
+vLPOVgat neurons preferentially innervated DMDVgat neurons,
+compared with DMDVglut2 neurons (Fig. 2H).
+Previous studies have shown that DMD neurons, especially
+glutamatergic neurons, play an important role in promoting
+thermogenesis (16–18, 29, 30). However, the response of these
+neurons to thermal stimuli was unknown. Here, we recorded
+calcium dynamics in the DMD by using fiber photometry and
+found, surprisingly, that both glutamatergic and GABAergic
+neurons were activated by cooling (25–13 °C; Fig. 3 D and E), but
+that these neurons responded with different dynamics. The glutamatergic neurons responded more abruptly and their response
+decayed more quickly compared with the GABAergic neurons
+(SI Appendix, Fig. S5). Consistent with these kinetics, we found
+that increases in Tcore, EE, and activity levels resulting from
+CNO-mediated activation of DMD glutamatergic neurons arose
+more rapidly and decayed more quickly than those elicited by
+CNO-mediated activation of DMD GABAergic neurons (Fig. 4
+and SI Appendix, Fig. S8).
+The role played by GABAergic neurons in the DMD in
+thermoregulation has not been studied previously, although the
+DMD contains more GABAergic than glutamatergic neurons
+(31). Here, we have shown unequivocally that these GABAergic
+neurons are essential for controlling thermogenesis. Their activation strongly promoted increases in Tcore, EE, and physical
+activity (Fig. 4 E–H and SI Appendix, Fig. S5), whereas their
+suppression reduced Tcore and activity (Fig. 5 C and D). We
+therefore have uncovered a type of thermogenic neuron.
+Several reports have suggested that neurons expressing the leptin
+receptor (LepR) in the DMD are important for thermogenesis
+(19–21). Cold-induced cFos expression colocalizes with LepR
+(21), and activation of these LepR neurons increases Tcore and
+EE (19). Our immunostaining results suggest that DMDLepR
+neurons contain both glutamatergic and GABAergic types, with the
+majority being glutamatergic (SI Appendix, Fig. S9). Thus,
+DMDLepR neurons might be a downstream target of the vLPOVgat
+neurons.
+It remains unclear how DMD neurons are connected with
+premotor neurons to direct thermogenesis. Early observations
+suggested that glutamatergic neurons may project directly to
+premotor neurons within the rostral medullary region (rMR) to
+promote thermogenesis (16–18). It has also been reported that
+rMR premotor neurons receive inhibitory inputs from other
+medullary regions (32, 33). Thus, DMDVglut2 neurons may directly innervate rMR premotor neurons to promote thermogenesis, and DMDVgat neurons might disinhibit rMR neurons by
+suppressing their inhibitory inputs.
+Delineating the specific neural cell types involved in thermoregulation is a key step toward understanding these critical
+neural circuits. Using the PhosphoTRAP approach (34), which
+enables the immunoprecipitation of translational ribosomes via
+phosphorylated ribosomal protein S6 (a marker of neural activity), we (SI Appendix, Fig. S10) and Tan et al. (35) independently
+discovered that brain-derived neurotrophic factor (BDNF), a
+classic neurotrophic factor (36), is transcriptionally activated
+following heat challenge and is a novel marker for heat-activated
+neurons. It is interesting to see that heat affects the expression of
+a neurotrophic factor, suggesting that long-term heat challenge
+may affect nerve growth and cause remodeling of thermoregulatory networks. The exact role played by BDNF in this context
+must be further tested. BDNF-expressing neurons in the ventromedial preoptic nucleus (VMPO) can drive hypothermia
+without affecting physical activity (35). Thus, the circuits involving VMPOBDNF neurons and vLPOVgat neurons may act
+coordinately to regulate EE, BAT thermogenesis, activity, and
+vasodilation to lower Tcore.
+Our results establish a neural circuit (Fig. 5E) for regulating
+heat loss behaviors, in which environmental heat indirectly activates POA glutamatergic neurons (refs. 1–3, 5, and 6 and SI
+Appendix, Fig. S3), which may, in turn, activate a population of
+GABAergic neurons in the vLPO (Fig. 1 and SI Appendix, Fig.
+S4). The vLPO GABAergic neurons inhibit thermogenic neurons in the DMD to suppress EE and activity, thereby lowering
+Tcore (Figs. 2, 4, and 5). The DMD neurons include both glutamatergic and GABAergic subtypes and are cold activated (Fig. 2
+and 3). DMD glutamatergic neurons may send excitatory input
+to premotor neurons in the rMR to stimulate thermogenesis (16–
+18). DMD GABAergic neurons might disinhibit rMR premotor
+neurons by suppressing their inhibitory inputs (32, 33).
+Glutamatergic GABAergic
+Time (min)
+Tcore (°C)
+-30 0 30 60 90
+33
+34
+35
+36
+37
+Vglut2 &
+hGtACR1
+A Light B Body Temperature Physical Activity
+C D
+DMDVgat 0
+50
+100
+150
+200
+250
+b.s. 30- 60 min
+*
+Tcore ( C)
+E undefined
+DMDVglut2
+Heat Thermogenesis
+EE, activity
+POA DMD
+rMR
+vLPO
+Fig. 5. Optogenetic inhibition of DMD neurons induces hypothermia.
+(A and B) Bilateral inhibition of DMDVgut2 neurons via hGtACR1 resulted in
+significant decreases in Tcore (A) and activity (B) (n = 4). ΔTcore represents the
+Tcore changes from the mean level before light delivery (t = –30 to –10 min).
+The baseline (b.s.) (average of t = –30 to –10 min) and t = 60 min are in the
+bar graph. The average of activity in 30-min intervals between t = –40 and
+–10 min (baseline, b.s.) and between t = 30 and 60 min are shown in the bar
+graph. Stimulation protocol: light on for 30 s (473 nm, 10 mW) followed by a
+90-s break, with the sequence repeating for 1 h. (C and D) Bilateral inhibition
+of DMDVgat neurons (n = 4) via hGtACR1 resulted in significant decreases in
+Tcore (C) and activity (D). Stimulation protocol is the same as in A. (E) Model
+for heat-induced suppression of thermogenesis. Sold line represents the
+connection verified in the current study. Dash lines represents proposed
+connections based our data and other reports. (+), activation. (–), inhibition.
+All data are plotted as mean ± SEM. The P values, compared with baseline
+(b.s.), are calculated based on statistical tests listed in SI Appendix, Table S1.
+*P ≤ 0.05; **P ≤ 0.01. DMD, dorsal part of dorsomedial hypothalamic nucleus; POA, preoptic area; rMR, rostral medullary region; vLPO, ventral part
+of lateral preoptic nucleus.
+Zhao et al. PNAS Early Edition | 5 of 6
+NEUROSCIENCE
+Materials and Methods
+Mice. Animal care and use conformed to institutional guidelines of ShanghaiTech University, Shanghai Biomodel Organism Co., and governmental
+regulations. All experiments were performed on adult mice (8–16 wk old).
+Mice were housed under controlled temperature (22–25 °C) in a 12-h reverse
+light/dark cycle (light time, 8 PM to 8 AM) with a standard chow diet [4%
+(wt/wt) fat SPF Rodent Feed] and ad libitum drinking water. The following
+mice strains were from Jackson Laboratory (USA): C57BL/6J (000664); Vglut2-
+IRES-Cre (016963); Vgat-IRES-Cre (028862); Ai14 (007914); LepR-Cre (008320);
+Gad67-GFP (006340).
+AAV Vectors. We used Cre-inducible AAV vectors (titer >1012) from the following sources: the Vector Core at the University of North Carolina at Chapel
+Hill (AAV5-EF1a-DIO-hChR2(H134R)-eYFP, AAV5-EF1a-DIO-eYFP, AAV5-
+hSyn-DIO-hM3D-mCherry, and AAV5-hSyn-DIO-hM4D-mCherry), the Vector
+Core at the University of Pennsylvania (AAV5-Syn-Flex-GCaMP6f), and
+Shanghai Taitool Bioscience Co. (AAV9-hSyn-GtACR1-P2A-EGFP). The latter
+construct was a gift by Minmin Luo, National Institute of Biological Sciences,
+Beijing, originally described in ref. 12.
+Surgeries. A detailed description is provided in SI Appendix, SI Materials and
+Methods. We delivered 0.2 μL (unless specified) of AAV virus through a
+pulled-glass pipette and a pressure microinjector (Nanoject II, 3-000-205A,
+Drummond). The fiber-optic inserts (200 μm i.d., AniLab Co.) were chronically implanted (200 μm above viral injection sites) and secured with dental
+cement.
+Behavioral Assays. A detailed description is provided in SI Appendix, SI
+Materials and Methods. Tcore, EE, and activity were monitored by animal
+monitoring system with temperature telemetry (Columbus, with G2 E-Mitter
+transponders).
+Immunohistochemistry. A detailed description is provided in SI Appendix, SI
+Materials and Methods.
+Fiber Photometry. A detailed description is provided in SI Appendix, SI Materials and Methods. The GCaMP6f fluorescence signals were acquired with a
+fiber photometry system (Fscope, Biolinkoptics, China). The floor temperature was controlled by a Peltier controller by customized Labview code
+(National Instrument) described in ref. 37.
+Electrophysiological Recordings and Single-Cell RT-PCR. A detailed description
+is provided in SI Appendix, SI Materials and Methods.
+PhosphoTRAP and mRNA Sequencing. A detailed description is provided in SI
+Appendix, SI Materials and Methods. The procedure of PhosphoTRAP was
+similar as described in ref. 34 with some modification.
+RNA Fluorescent In Situ Hybridization. A detailed description is provided in SI
+Appendix, SI Materials and Methods. RNA probes against Vgat, GAD67,
+Vglut2, and BDNF were constructed according to the description on Allen
+Brain Atlas (www.brain-map.org).
+ACKNOWLEDGMENTS. We thank Dr. Jeff Friedman for help with PhosphoTRAP; Drs. Ji Hu, Minmin Luo, Cheng Zhan, Jun Liao, Yan Zou, Pengyu
+Huang, and Winnie Shum for reagent share; Junjie Luo, Rongfeng Hu, and
+Yi Li for help with statistics; and “Shen Xian Hui” Wechat group for valuable
+discussion. This study is funded by National Nature Science Foundation of
+China Grants X-0402-14-002 (to W.L.S.) and 31471065 (to X.-H.X.), Ministry of
+Science and Technology Office China 973 program (to X.-H.X.), the Thousand
+Young Talents Program of China (to W.L.S. and X.-H.X.), and the ShanghaiTech University start-up fund.
+1. Morrison SF, Madden CJ, Tupone D (2014) Central neural regulation of brown adipose
+tissue thermogenesis and energy expenditure. Cell Metab 19(5):741–756.
+2. Morrison SF (2016) Central control of body temperature. F1000Res 5:880.
+3. Nakamura K, Morrison SF (2010) A thermosensory pathway mediating heat-defense
+responses. Proc Natl Acad Sci USA 107(19):8848–8853.
+4. Boulant JA (2006) Neuronal basis of Hammel’s model for set-point thermoregulation.
+J Appl Physiol 100(4):1347–1354.
+5. Song K, et al. (2016) The TRPM2 channel is a hypothalamic heat sensor that limits
+fever and can drive hypothermia. Science 353(6306):1393–1398.
+6. Yu S, et al. (2016) Glutamatergic preoptic area neurons that express leptin receptors
+drive temperature-dependent body weight homeostasis. J Neurosci 36(18):
+5034–5046.
+7. Boyden ES, Zhang F, Bamberg E, Nagel G, Deisseroth K (2005) Millisecond-timescale,
+genetically targeted optical control of neural activity. Nat Neurosci 8(9):1263–1268.
+8. Pei Y, Rogan SC, Yan F, Roth BL (2008) Engineered GPCRs as tools to modulate signal
+transduction. Physiology (Bethesda) 23:313–321.
+9. Kanosue K, Yanase-Fujiwara M, Hosono T (1994) Hypothalamic network for thermoregulatory vasomotor control. Am J Physiol 267(1 Pt 2):R283–R288.
+10. Osaka T (2004) Cold-induced thermogenesis mediated by GABA in the preoptic area
+of anesthetized rats. Am J Physiol Regul Integr Comp Physiol 287(2):R306–R313.
+11. Zaretsky DV, Hunt JL, Zaretskaia MV, DiMicco JA (2006) Microinjection of prostaglandin E2 and muscimol into the preoptic area in conscious rats: Comparison of
+effects on plasma adrenocorticotrophic hormone (ACTH), body temperature, locomotor activity, and cardiovascular function. Neurosci Lett 397(3):291–296.
+12. Govorunova EG, Sineshchekov OA, Janz R, Liu X, Spudich JL (2015) Natural light-gated
+anion channels: A family of microbial rhodopsins for advanced optogenetics. Science
+349(6248):647–650.
+13. Conte WL, Kamishina H, Reep RL (2009) Multiple neuroanatomical tract-tracing using
+fluorescent Alexa Fluor conjugates of cholera toxin subunit B in rats. Nat Protoc 4(8):
+1157–1166.
+14. Petreanu L, Huber D, Sobczyk A, Svoboda K (2007) Channelrhodopsin-2-assisted circuit mapping of long-range callosal projections. Nat Neurosci 10(5):663–668.
+15. Padilla SL, et al. (2016) Agouti-related peptide neural circuits mediate adaptive behaviors in the starved state. Nat Neurosci 19(5):734–741.
+16. Kataoka N, Hioki H, Kaneko T, Nakamura K (2014) Psychological stress activates a
+dorsomedial hypothalamus-medullary raphe circuit driving brown adipose tissue
+thermogenesis and hyperthermia. Cell Metab 20(2):346–358.
+17. Cao WH, Morrison SF (2006) Glutamate receptors in the raphe pallidus mediate
+brown adipose tissue thermogenesis evoked by activation of dorsomedial hypothalamic neurons. Neuropharmacology 51(3):426–437.
+18. Madden CJ, Morrison SF (2004) Excitatory amino acid receptors in the dorsomedial
+hypothalamus mediate prostaglandin-evoked thermogenesis in brown adipose tissue.
+Am J Physiol Regul Integr Comp Physiol 286(2):R320–R325.
+19. Rezai-Zadeh K, et al. (2014) Leptin receptor neurons in the dorsomedial hypothalamus are key regulators of energy expenditure and body weight, but not food intake.
+Mol Metab 3(7):681–693.
+20. Dodd GT, et al. (2014) The thermogenic effect of leptin is dependent on a distinct
+population of prolactin-releasing peptide neurons in the dorsomedial hypothalamus.
+Cell Metab 20(4):639–649.
+21. Zhang Y, et al. (2011) Leptin-receptor-expressing neurons in the dorsomedial hypothalamus and median preoptic area regulate sympathetic brown adipose tissue circuits. J Neurosci 31(5):1873–1884.
+22. Chen TW, et al. (2013) Ultrasensitive fluorescent proteins for imaging neuronal activity. Nature 499(7458):295–300.
+23. Li Y, et al. (2016) Serotonin neurons in the dorsal raphe nucleus encode reward signals. Nat Commun 7:10503–10517.
+24. Nakamura K, Morrison SF (2007) Central efferent pathways mediating skin coolingevoked sympathetic thermogenesis in brown adipose tissue. Am J Physiol Regul Integr
+Comp Physiol 292(1):R127–R136.
+25. Nakamura Y, et al. (2005) Direct pyrogenic input from prostaglandin EP3 receptorexpressing preoptic neurons to the dorsomedial hypothalamus. Eur J Neurosci 22(12):
+3137–3146.
+26. Bamshad M, Song CK, Bartness TJ (1999) CNS origins of the sympathetic nervous
+system outflow to brown adipose tissue. Am J Physiol 276(6 Pt 2):R1569–R1578.
+27. Lu J, Greco MA, Shiromani P, Saper CB (2000) Effect of lesions of the ventrolateral
+preoptic nucleus on NREM and REM sleep. J Neurosci 20(10):3830–3842.
+28. Sherin JE, Shiromani PJ, McCarley RW, Saper CB (1996) Activation of ventrolateral
+preoptic neurons during sleep. Science 271(5246):216–219.
+29. Zaretskaia MV, Zaretsky DV, Shekhar A, DiMicco JA (2002) Chemical stimulation of
+the dorsomedial hypothalamus evokes non-shivering thermogenesis in anesthetized
+rats. Brain Res 928(1-2):113–125.
+30. Cao WH, Fan W, Morrison SF (2004) Medullary pathways mediating specific sympathetic responses to activation of dorsomedial hypothalamus. Neuroscience 126(1):
+229–240.
+31. Vong L, et al. (2011) Leptin action on GABAergic neurons prevents obesity and reduces inhibitory tone to POMC neurons. Neuron 71(1):142–154.
+32. Cao WH, Madden CJ, Morrison SF (2010) Inhibition of brown adipose tissue thermogenesis by neurons in the ventrolateral medulla and in the nucleus tractus solitarius. Am J Physiol Regul Integr Comp Physiol 299(1):R277–R290.
+33. Madden CJ, Morrison SF (2005) Hypoxic activation of arterial chemoreceptors inhibits
+sympathetic outflow to brown adipose tissue in rats. J Physiol 566(Pt 2):559–573.
+34. Knight ZA, et al. (2012) Molecular profiling of activated neurons by phosphorylated
+ribosome capture. Cell 151(5):1126–1137.
+35. Tan CL, et al. (2016) Warm-sensitive neurons that control body temperature. Cell
+167(1):47–59.e15.
+36. Huang EJ, Reichardt LF (2001) Neurotrophins: Roles in neuronal development and
+function. Annu Rev Neurosci 24:677–736.
+37. Luo J, Shen WL, Montell C (2017) TRPA1 mediates sensation of the rate
+of temperature change in Drosophila larvae. Nat Neurosci 20(1):34–41.
+6 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1616255114 Zhao et al.

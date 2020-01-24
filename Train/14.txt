@@ -1,0 +1,767 @@
+High-resolution imaging of cellular dopamine efflux
+using a fluorescent nanosensor array
+Sebastian Krussa,1, Daniel P. Salema
+, Lela Vukovic
+b,c,2, Barbara Limaa
+, Emma Vander Endea
+, Edward S. Boydend,e,
+and Michael S. Stranoa,3
+a
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139; b
+Department of Physics, University of Illinois at
+Urbana–Champaign, Champaign, IL 61801; c
+Department of Chemistry, University of Texas at El Paso, El Paso, TX 79968; d
+Media Lab, Massachusetts Institute
+of Technology, Cambridge, MA 02139; and e
+McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, MA 02139
+Edited by David R. Walt, Tufts University, Medford, MA, and accepted by Editorial Board Member John A. Rogers January 11, 2017 (received for review August
+23, 2016)
+Intercellular communication via chemical signaling proceeds with
+both spatial and temporal components, but analytical tools, such as
+microfabricated electrodes, have been limited to just a few probes per
+cell. In this work, we use a nonphotobleaching fluorescent nanosensor array based on single-walled carbon nanotubes (SWCNTs)
+rendered selective to dopamine to study its release from PC12
+neuroprogenitor cells at a resolution exceeding 20,000 sensors per
+cell. This allows the spatial and temporal dynamics of dopamine
+release, following K+ stimulation, to be measured at exceedingly high
+resolution. We observe localized, unlabeled release sites of dopamine
+spanning 100 ms to seconds that correlate with protrusions but not
+predominately the positive curvature associated with the tips of cellular protrusions as intuitively expected. The results illustrate how
+directionality of chemical signaling is shaped by membrane morphology, and highlight the advantages of nanosensor arrays that can provide high spatial and temporal resolution of chemical signaling.
+sensors | imaging | dopamine | carbon nanotubes | chemical signaling
+Chemical signaling between cells is a hallmark of life, with one
+key example being neurotransmitter release from neurons to
+transmit and process information (1). However, unlike electrical
+potential, the measurement of chemical signaling between cells
+and within cellular networks is not as well developed, despite its
+importance to cellular biology. Neurotransmission via neurotransmitters, paracrine signaling between immune cells, or quorum sensing between bacteria in biofilms (2, 3) rely on spatial
+and temporal precision in chemical signaling. Analytical tools are
+not yet available to resolve these dynamics. Recently, the groups
+of Lindau and Ewing used 4–16 microelectrodes per array per
+chromaffin cell to estimate catecholamine release direction and
+dynamics (4–6). Nanosensors have several advantages for the
+study of cell signaling, as we have highlighted (7, 8). Their
+nanoscale size means that they can form dense arrays, increasing
+the number of probes per cell. In this work, we construct a
+fluorescent nanosensor array placed in the vicinity of PC12
+neuroprogenitor cells at a density of ∼20,000 sensors per cell,
+with better than 100-ms temporal resolution to study dopamine
+release with much higher resolution.
+The platform uses near-infrared (nIR) fluorescent single-walled
+carbon nanotubes (SWCNTs) rendered chemically selective to
+dopamine. nIR fluorescent single SWCNTs are versatile building
+blocks for biosensors and demonstrate detection limits down to
+single molecules (9–13). We selected the neurotransmitter dopamine for this study because of its central role for reward control
+and learning and because it is one of the neurotransmitters for
+which volume transmission is heavily discussed (14, 15). The spatially dependent concentration profile of dopamine plays an especially important role when neurotransmitters spill over from
+synapses and freely diffuse in all directions (volume transmission)
+through neural tissue (14, 16, 17). By placing such dopamine-sensitive nanosensors in arrays beneath dopaminergic cells we are able
+to image dopamine efflux, identify hotspots on the cell surface, and
+map the directionality of dopamine efflux (Fig. 1A). This platform
+has advantages over protein-based fluorescent sensors and semisynthetic protein–fluorophore conjugates on the cell surface in that
+it has higher sensitivity, time resolution, and lacks photobleaching
+(18–21). Electrochemical techniques, although the most advanced
+for measurement of redox-active neurotransmitters in vitro and
+in vivo, provide poor spatial resolution (4, 6) to date. Indirect
+(optical) methods can label cellular components that are involved
+in exocytosis or load vesicles with fluorescent dyes but cannot directly detect the molecules of interest or their dynamics in the
+extracellular space (22–24).
+Results and Discussion
+Previously we found that the corona phase around SWCNTs can be
+engineered to recognize certain small analytes––a phenomenon we
+termed Corona Phase Molecular Recognition (CoPhMoRe) (7, 25,
+26). Specifically, DNA-wrapped SWCNTs were found to increase
+their nIR fluorescence in the presence of catecholamines (13). Here,
+we synthesized and characterized different DNA/SWCNT complexes and identified the best candidates for dopamine detection (SI
+Appendix, Fig. S1). We measured the fluorescence responses of a
+panel of 10 DNA-wrapped (6, 5)-chirality enriched SWCNTs versus
+a panel of 15 molecules (SI Appendix, Figs. S2–S4) including dopamine, dopamine homologs, and potential interfering compounds
+present in biological environments (SI Appendix, Fig. S2). Our results
+Significance
+Cells communicate between themselves using waves of chemical
+concentration that change in both direction and time. Existing
+methods are not able to capture this spatial and temporal dependence at the necessary resolution to study the influence of
+cellular morphology. This study utilizes arrays of fluorescent
+nanosensors based on single-walled carbon nanotubes placed
+under and around neuroprogenitor cells to label-free image the
+efflux of the neurotransmitter dopamine. We use the spatiotemporal resolution of this approach to resolve where on the cell
+surface dopamine is released and how cell morphology affects
+the location of release sites.
+Author contributions: S.K., E.S.B., and M.S.S. designed research; S.K., D.P.S., L.V., B.L., and
+E.V.E. performed research; S.K., D.P.S., L.V., and M.S.S. analyzed data; and S.K., D.P.S., and
+M.S.S. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. D.R.W. is a Guest Editor invited by the Editorial
+Board.
+1
+Present address: Department of Chemistry, Institute of Physical Chemistry, Göttingen
+University & Center for Nanoscale Microscopy and Molecular Physiology of the Brain,
+37077 Goettingen, Germany.
+2
+Present address: Department of Chemistry, University of Texas at El Paso, El Paso,
+TX 79968.
+3
+To whom correspondence should be addressed. Email: strano@mit.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1613541114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1613541114 PNAS | February 21, 2017 | vol. 114 | no. 8 | 1789–1794
+CHEMISTRY NEUROSCIENCE
+indicate that (GA)15-ssDNA/SWCNT complexes provide the most
+promising selectivity and sensitivity profile for cell experiments
+(Fig. 1B and SI Appendix, Figs. S4–S6). These dopamine nanosensors were excited with a laser at 560 nm in a standard fluorescence microscope equipped with an nIR-camera that detects
+the nIR emission of (6, 5)-SWCNTs at ∼980 nm. We performed
+molecular dynamics (MD) simulations to gain a deeper understanding of molecular recognition of these sensors. Our results
+show that dopamine interacts via its two hydroxy groups with
+phosphate groups of the DNA backbone (Fig. 1C). This interaction pulls the phosphate group closer to the surface of the
+SWCNTs and changes the local potential (SI Appendix, Figs. S21–
+S26). These findings rationalize previous phenomenological theories of molecular recognition in the corona phase of SWCNTs
+(27, 28). Furthermore, we found that naked SWCNTs do not respond to dopamine at all (SI Appendix, Fig. S8 and S10) and the
+least responsive DNA sequences showed the highest (starting)
+fluorescence counts (SI Appendix, Figs. S9–S11). This result suggests that movement of the phosphate groups removes (pre)-
+quenching sites for excitons and that dopamine’s ability to pull
+these groups to the SWCNT surface results in an increase of
+SWCNT fluorescence.
+With respect to the envisioned application (Fig. 1A) we prepared homogeneously coated nanosensor surfaces and treated
+every pixel of the nIR image as a local sensor. Whereas nanosensors are randomly adsorbed on the surface, it would be possible
+to pattern them more regularly as it was shown for other nanoparticles (29–31). The SWCNT sensors were densely coated on
+the surface to maximize the signal/noise ratio (SI Appendix, Figs.
+S12–S14). Ensemble calibration curves (SI Appendix, Fig. S5) indicate that we can detect dopamine concentrations down to 100 nM
+(SI Appendix, Fig. S5). However, this is the mean response of a large
+population of sensors. When we analyzed individual nanosensors
+in the single-molecule regime (100 pM) we observed stochasticity
+indicative of binding and unbinding events of single dopamine
+molecules (SI Appendix, Fig. S7). To ensure that our sensors were
+capable of detecting dopamine in the presence of cells, we cultivated dopamine-releasing pheochromocytoma cells (PC12) on top
+of nanosensor arrays that were additionally coated with collagen to
+increase cell adhesion (SI Appendix, Figs. S13–S16). Collagen has
+been known to increase PC12 cell adhesion and differentiation,
+whereas nanotubes affect neurite outgrowth (32–35). Furthermore,
+the elasticity of the substrate affects PC12 cell morphology (36).
+PC12 cells on our sensor/collagen-coated surfaces attained a morphology similar to PC12 cells cultured without sensors. Similar
+scenarios in the literature are nanotube networks that were glycosylated to enhance biocompatibility and have been used for amperometric studies of dopamine release (37). This procedure
+increased adhesion and viability of PC12 cells on SWCNT networks. We focused our investigation mostly on isolated PC12 cells
+and not clusters to minimize cross-talk from different cells.
+Labeling with the fluorescent false neurotransmitter FFN551
+showed that PC12 cells on these surfaces contain vesicles with
+dopamine transporters, indicating dopamine-containing vesicles
+(SI Appendix, Fig. S16) (24, 38). After 1 d of cultivation at 37 °C
+in full culture medium, the medium was exchanged to PBS buffer
+and the response to dopamine and homologs (10 μM) was tested.
+The results (SI Appendix, Fig. S6) show that the nanosensor arrays are still functional and resist biofouling. Catecholamine
+homologs such as epinephrine, norepinephrine, and ascorbic
+acid could interfere with this array (SI Appendix, Fig. S6).
+Therefore, the sensor array reports about the total changes in the
+concentration of all catecholamines (ascorbic acid concentrations should be negligible/constant). However, PC12 cells are
+thought to mainly release dopamine even though pharmaceuticals and hypoxia can affect the ratio between the different catecholamine neurotransmitters (32, 39, 40). Consequently, sensor
+responses are expected to be attributed mainly to dopamine and
+to a lesser extent other catecholamines.
+Emission
+(nIR)
+Glass
+Collagen
+Dopamine Cell
+Stimulus
+A
++ Dopamine
+B
+Fluorescent
+carbon nanotubes Silane
+Polymer
+wrapping
+0 10 20 30 40 50 60 0
+25
+50
+75
+100
+Time (s)
++ dopamine
+Side-view
+Fluorescence
+intensity (a.u.)
+C Dopamine
+Phosphate
+group
+HO
+HO NH2
+P Dopamine RO
+RO O
+ODNA-backbone
+Amplitude-Image
+Brightfield image 1
+2 3
+4 5
+D
+n pixels
+m pixels
+t frames
+n x m
+Traces/Fits
+Image of fit parameters
+Time (s)
+Stimulation
+10 20 30 40 50 60 70
+Intensity (a.u.) 0
+n pixels
+m pixels
+nIR-movie E
+0 10 20 30 40 50 60 7 80
+Time (s)
+Signal (a.u.)
+1
+2
+3
+4
+5
+F
+20 μm
+Excitation
+(Vis)
+0 10 20 30 40 50 60 70 80
+Fig. 1. Chemical imaging using nanosensor arrays. (A) Fluorescent carbon nanotubes are rendered sensitive to dopamine by noncovalently attaching specific
+DNA sequences to them. They are immobilized onto a glass substrate, and dopamine-releasing PC12 cells are cultivated on top. When cells are stimulated they
+release dopamine and the SWCNT fluorescence changes. (B) Fluorescence intensity trace of a single (GA)15-ssDNA/SWCNT imaged on a surface while adding
+dopamine (10 μM). (C) Proposed sensing mechanism: Dopamine pulls phosphate groups to the SWCNT surface, which removes quenching sites and increases
+SWCNT fluorescence quantum yield (MD simulations). (D) PC12 cells are cultivated on top of a substrate coated with nanosensors. In an image of this substrate
+every pixel corresponds to a region containing one or more nanosensors and serves as a reporter of local dopamine concentration. Each pixel of an nIR-movie
+produces a trace that contains information about the dopamine signal. A fitting procedure of every trace yields amplitude, width, and time point of the signal.
+Those values can be represented in false-color images, and their spatial composition can be further analyzed. (E) Bright-field image of a PC12 cell adhering on top
+of a nanosensor array and corresponding image of signal amplitudes. (F) Examples for pixel traces from regions under and around the cell shown in E.
+1790 | www.pnas.org/cgi/doi/10.1073/pnas.1613541114 Kruss et al.
+The results from Fig. 1 indicate that we can use surface-immobilized nanosensors to optically detect dopamine in the presence of
+PC12 cells. Consequently, we recorded nIR movies (100 ms per
+image, 640 × 512-pixel resolution, 212 nm/pixel) of PC12 cells adhered on collagen-coated nanosensor arrays and stimulated the cells
+with potassium buffer to observe dopamine release. To increase the
+signal to noise ratio, we divided the field of view into squares of 4 ×
+4 pixels and developed a fitting algorithm for the normalized intensity traces of the pixel groups. This algorithm fits the curve
+fðtÞ= a+ bt+ ct2 +xe−ððt− yÞ
+2
+=2z2Þ to the intensity traces (Gaussian
+function plus background correction; Fig. 1 D–F).
+Consequently we get 20,480 “reporter” pixels per fitted image
+(pixel size ∼850 × 850 nm). Therefore, we expect ∼1,700 reporter
+pixels under a (round) cell (d = 40 μm), >180 reporter pixels in a
+2-μm zone around the cell, and ∼150 reporter pixels under the cell
+contour (pixel size = 850 × 850 nm). The fitting process reduced
+the 3D movie to a 2D image of fitting parameters, which can then
+be further analyzed (Fig. 1D). The different fitting parameters
+represent how the local reporter pixel responds to dopamine and
+the parameters account for amplitude (x), width (y), and time
+point (z) of the event. Fig. 1F shows typical traces from different
+locations under the cell, from the cell border, and other regions
+[1–5, shown in the bright-field (BF) image of Fig. 1E].
+We performed independent analyses to verify that (i) temporal
+and (ii) spatial patterns are related to the stimulation time point
+and the location of cells. To verify the temporal correlation in raw
+data traces (Fig. 2A), we defined three periods (before, during,
+and after stimulation) and searched for maxima (in each period)
+that would indicate a dopamine-induced fluorescence increase.
+The exact stimulation time point (±1 s) was known from the time
+point when K+ was added on top of the cells. The nonrandom
+distribution during the stimulation period proves that the observed
+sensor responses are related to stimulation (Fig. 2 A and B).
+Histograms of the normalized sensor signals from different
+regions of interest related to the cell (shown in white in Fig. 2C,
+Left) prove that the signals are not randomly distributed
+throughout the image. Specifically, there is a clear spatial correlation between responses (normalized amplitude change) and
+regions associated with the cell (e.g., cell border, cell body). The
+time resolution of our approach (100 ms) is not yet fine enough
+to observe a propagating wave of dopamine released by the cell
+given that the diffusion length scale during image acquisition
+x= ffiffiffiffiffiffiffi
+2Dt p is ∼12 μm [D = 7.63 × 10−6
+cm2
+/s (14)], comparable to
+the cell diameter. However, the technique is able to localize
+release events and their duration as shown below.
+Fig. 3A shows the fitted response of the sensors at different
+time points from the contour of a single cell (shown in Fig. 3B,
+Left). The 3D plots show the sensors turn on after cell stimulation, which indicates release of dopamine. Furthermore, the
+responses decay as dopamine unbinds and diffuses away. Fig. 3
+B–E shows bright-field images of four different cells and corresponding 3D plots of the sensor response magnitudes along the
+cell contour (line width = 850 nm). Here, in contrast to the timeresolved Fig. 3A, the maximum responses of the whole experiment are shown (fit parameter x). The height and color of the 3D
+plots indicate the magnitude of sensor responses indicative of
+higher transient dopamine concentrations (Fig. 1D). For clarity
+we only show responses along this contour (full response plots
+are shown in SI Appendix, Fig. S17 and a time-resolved full
+hotspot analysis in SI Appendix, Fig. S18).
+The contour is also the most interesting region because efflux
+parallel to the nanosensor array is centered there with dopamine
+concentrations highest at exocytosis sites. The response profiles
+show heterogeneity along the contour, which is expected from
+multiple dopamine release sites. Furthermore the shape of the
+cell affects the distribution of release sites. Fig. 3 demonstrates
+the superior spatial resolution of our sensing strategy compared
+with existing technology. For example, the groups of Lindau and
+Ewing used microelectrode arrays with up to 4–16 electrodes
+(per cell) to “image” catecholamine release from chromaffine
+cells (4–6). In contrast, our approach contains 349, 242, 192, and
+206 sensor pixels just along the contour of the four cells shown in
+5 10 15
+0
+1
+2
+3
+Maxima (counts/1000)
+Pre-stimulation period
+20 25 30 35
+Stimulation period
+Time(s)
+Post-stimulation period
+Pre-stimulation
+period
+Stimulation
+period
+Post-stimulation
+period
+Maxima (counts/1000)
+p=0.1954
+p=0.038
+p=0.049 0
+0 0.1 0.2 0.3 0.4 0.5 0.6
+C
+Normalized amplitude
+Frequency
+0
+1
+2
+3
+0
+0.01
+Frequency
+0
+0.01
+Frequency
+0
+0.01
+Frequency
+0
+0.01
+Frequency
+Cell
+Cell border
+Extended cell border
+Control region 1
+Control region 2
+0.01
+A
+B
+0 0.1 0.2 0.3 0.4 0.5 0.6
+0 0.1 0.2 0.3 0.4 0.5 0.6
+0 0.1 0.2 0.3 0.4 0.5 0.6
+0 0.1 0.2 0.3 0.4 0.5 0.6
+Fig. 2. Spatial and temporal correlation between sensor response and cells. (A) Temporal correlation between stimulation event and sensor responses (single
+experiment). (B) Large amplitudes are more likely in time intervals with cell stimulation. Two-sided t test of independent experiments (n = 4). (C) Spatial
+correlation between sensor responses (normalized amplitude change) and parts of the cell. The black/white image on the left indicates the regions/pixels (in
+white) that were analyzed. The histograms show that the sensor responses are related to the cell and are not randomly distributed.
+Kruss et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 1791
+CHEMISTRY NEUROSCIENCE
+Fig. 3 B–E and even more (>20,000) in the vicinity of the cell.
+Therefore, with nanosensor arrays there are around two orders
+of magnitude more sensors positioned on the contour of a single
+cell and more than three orders of magnitude more sensors in
+the area close to the cell. Compared with amperometric methods, nanosensor arrays currently exhibit reduced temporal resolution but amperometric methods cannot distinguish molecules
+of similar redox potential. Therefore, due to the higher chemical
+selectivity it is more appropriate to compare nanosensor arrays
+with cyclic voltammetry methods, which also have a time resolution of ∼100 ms (20). An advantage of amperometric methods
+is their ability to quantify (count) the number of molecules that
+encounter the electrode. Fluorescent sensors are more complex
+in terms of their signal transduction mechanism but are also
+capable of detecting single molecules (SI Appendix, Fig. S7) and
+could in principle be calibrated.
+In a next step we further analyzed data such as those shown in
+Fig. 3 to answer longstanding questions about dopamine efflux
+from PC12 cells. If we focus on responses >3× of the mean response (along the cell contour) we can pinpoint to locations that
+we refer to as hotspots (>3× mean response) and are distinct
+from locations close to the noise level. Fig. 4 A–C shows line
+profiles of the sensor response along the cell contour. Hotspots
+are maxima in these line plots. They are also shown in the cell
+contour in Fig. 4 A–C as blue dashed circles. Arrows in both plots
+indicate locations on the cell surface and the line plots show the
+responses in a clockwise fashion. It is striking that not all cells
+show hotspots, which means that not every stimulation finally
+leads to dopamine release. This behavior is known for PC12 cells
+and ∼50% of stimulation events do not lead to dopamine release
+as measured with electrochemical methods (33).
+Our results indicate 2–17 hotspots per cell (contour). This
+number is in agreement with electrochemical results from Zerby
+and Ewing that indicated ∼28 release events of PC12 cells per
+stimulation (41). Hotspots have been discussed in the past but
+the lack of spatial resolution of electrode-based methods made it
+impossible to directly pinpoint release sites on single cells (42). It
+is also known that neurons do not necessarily form well-defined
+synapses and therefore it is not known a priori where cells release signaling molecules (43).
+Interestingly, hotspots are not accumulated at the tips of
+protrusions (see also Fig. 3). The local curvature of the cell
+outline was calculated and is color-coded in the cell contour
+plots in Fig. 4. Our data (Fig. 4F) indicate that more hotspots are
+found in regions of negative curvature (64%) compared with
+regions with positive curvature (36%).
+However, 65% of the pixels along the cell contours (n = 8)
+have a curvature <0. The reason for this ratio is that cells with
+protrusions have many slightly concave segments and fewer
+strongly convex segments (tips). If the number of hotspots at a
+given curvature is normalized to the probability of this curvature
+(in all cells), there is no preference for either negative or positive
+curvature such as tips of protrusions (SI Appendix, Fig. S20).
+However, the nanosensor approach generates single-cell data
+about hotspot distribution (Figs. 3 and 4 A–C) and averaging
+might bury information.
+Previously, it was shown that nondifferentiated PC12 cells release dopamine from the cell body, whereas differentiated PC12
+cells release it mainly from structures called varicosities. However,
+our data indicate that they are distributed along cell protrusions
+with similar probabilities for regions of positive and negative curvature (41). Curvature and membrane tension are known to be a
+driving force of exocytosis and therefore spatially resolved images
+such as in Fig. 4 could provide new insights into this process (44).
+Our analysis focused on the cell border because it is the most
+relevant region for studying signaling to other cells. Nevertheless, when all sensors under the cell are analyzed, hotspots under
+the cell appear (SI Appendix, Figs. S17 and S18). Total internal
+reflection fluorescence microscopy studies of labeled vesicles
+demonstrated exocytosis from the bottom of chromaffine cells
+(45). However, these methods naturally focus on the parts of the
+cell close to the substrate (i.e., cell bottom). Other studies with
+different techniques reported exocytosis from the whole cell
+surface (46, 47). Our data (Fig. 4 and SI Appendix, Fig. S17) show
+that there is release from regions close to the cell border but also
+from the cell bottom. It is possible that the functionalization of
+the substrate and cell adhesion affect the distribution of release
+sites. Furthermore, our sensors directly image the released
+molecule whereas these other optical methods image the membrane fusion process.
+We further analyzed directionality of release. Fig. 4 A–C
+(Right) shows the signals from the cell perimeter region relative
+to center of mass of the cell and the arrow lengths indicate signal
+amplitudes. These plots reveal anisotropy of release—a measure
+not accessible with other methods. Anisotropy of cells translates
+into an anisotropy of dopamine release.
+C
+D
+20 μm
+20 μm
+t
+0
+-10s ≈ t0
+t
+0 + 4s
+A
+t
+0 + 14s
+*
+*
+B
+E
+Max
+0
+Fig. 3. Dopamine release profiles along the cell border. (A) Three-dimensional
+plots of fitted sensor responses along the cell border at different time points
+relative to the stimulation at t0 (the corresponding cell is shown in B). Height and
+color indicate the relative fluorescence change normalized to the maximum
+fluorescence change of the experiment. Other areas are shown in blue for clarity.
+(B–E, Left) Bright-field image of PC12 cells adhering on top of collagen-coated
+dopamine nanosensor arrays (contour shown in light blue). (Right) Threedimensional plot of maximum sensor responses (of all frames) along cell contour.
+Height and color indicate magnitude of the dopamine response, which correlates with dopamine concentration. Other areas are shown in blue for clarity.
+1792 | www.pnas.org/cgi/doi/10.1073/pnas.1613541114 Kruss et al.
+The most important cell features that govern anisotropy are
+protrusions. Hotspots are associated with protrusions (Fig. 4 D and
+E)––not necessarily at the tips but as well in regions where the
+protrusions begin (corresponding to negative curvature). To calculate a correlation, angular histograms of all pixels and hotspot pixels
+(e.g., Fig. 4D and SI Appendix, Fig. S19) were multiplied and integrated (n = 8). The results were compared with a completely
+random distribution of hotspots. Fig. 4E shows that hotspots are
+correlated with protrusions and are not randomly distributed. An
+anisotropic distribution of hotspots should cause anisotropic dopamine concentration profiles. Cells could therefore shape their signal
+by increasing or decreasing the number of protrusions into certain
+directions. Obviously primary neurons are anisotropic and the release profile is also predetermined by the geometry and location of
+synapses. But, PC12 cells do not form classical synapses and their
+morphology resembles tissue cells. Such cells could use this strategy
+to adjust and fine-tune their chemical signaling. The distribution of
+hotspots around cells is most likely dependent on cell type or may
+even change over time for a certain cell. Such differences can be
+precisely investigated using our nanosensor array approach.
+In summary, we present a method for spatiotemporal chemical
+imaging of dopamine release from cells. The spatial resolution of
+nanosensor arrays allows us to map hotspots of dopamine release
+on cell surfaces and assess anisotropy of dopamine release. We
+found that dopamine efflux happens more frequently at protrusions but not preferentially in regions of positive curvature such
+as the tips. Furthermore, we show how cell protrusions and anisotropy are correlated with dopamine release and suggest that
+this is a possible mechanism for cells to shape a chemical signal.
+Materials and Methods
+Materials and Preparation of Polymer-Wrapped Carbon Nanotubes. Chemicals
+were purchased from Sigma-Aldrich or IDT if not noted otherwise. To wrap
+SWCNTs, 2 mg of the 30-mer nucleic acid was dissolved in 1 mL of a 0.1 M NaCl
+solution containing 1 mg (6, 5)-enriched SWCNTs (SG65 from SouthWest Nano
+Technologies, distributed by Sigma-Aldrich). The solution was tip sonicated for
+10 min (3-mm tip diameter, 40% amplitude, Cole Parmer) in an ice bath. Then
+samples were centrifuged twice for 90 min at 16,100 g and the supernatant was
+collected. All experiments were performed in PBS at pH 7.4. For solution-based
+experiments the stock solution was diluted to obtain a final absorption of
+0.0075 at the (6, 5)-SWCNT S22-peak maximum at ∼570 nm.
+Spectroscopy of SWCNT/Polymer Complexes. nIR-spectra were collected with a
+fluorescence spectrometer equipped with a 785-nm photodiode laser (450 mW),
+an Acton SP2500 spectrometer (Princeton Instruments), and a 1D-InGaAs OMA V
+detector (Princeton Experiments). For all solution-based experiments the SWCNT/
+nucleic acid complexes were diluted in PBS to the final concentration and 198 μl of
+this solution was placed in a 96-well plate. Then 2 μl of the analyte (10 mM or
+less) was added to yield a final concentration of 100 μM or less. All experiments
+were done in triplicate and repeated at least twice.
+Imaging of Single SWCNTs. SWCNTs were imaged with an inverted microscope
+(Zeiss, AxioObserver.Z1) equipped with different objectives [Zeiss α-PlanAPOCHROMAT 100×/1.46 Oil DIC (UV) VIS-IR and Zeiss Plan-Apochromat
+63×/1.40 Oil DIC] and an appropriate filter set (Dichroic 620 nm longpass,
+900 nm longpass emission filter, Chroma). For image acquisition we used
+either a 2D OMA V InGaAs array (Princeton Instruments) with 320 × 256
+pixels or a NIRvana 640 camera (Princeton Instruments) with 640 × 512
+pixels. SWCNTs were excited with a 561-nm (100 mW–1 W) fiber laser (MPB
+VFL series). The laser was expanded by two lenses (Thorlabs) into the back
+focal plane of the microscope. The typical laser excitation power was
+500 mW.
+Cell Experiments. PC12 cells (ATCC CRL-1721.1) were purchased from American Type Culture Collection (ATCC) and cultivated according to the supplier’s
+protocol. In short, medium consisting of F-12K medium, 12.5% horse serum,
+and 2.5% FBS (all from ATCC) was used. Cells attached to cell culture flasks
+(Corning CellBIND) and were passaged when they reached ∼70% confluence. Cells were incubated at 37 °C and 5% CO2.
+α
+D
+
+
+F
+20 μm
+C
+B
+A
+-1 0 1 0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Hotspot response
+Curvature (1/μm)
+Cell protrusions
+Hot
+spots
+Negative
+Curvature
+Positive
+Curvature
+Curvature > 0
+Curvature < 0
+Curvature = 0
+Correlation (a.u.)
+E
+Counts
+Random Protrusions
+BF Outline + Hotspots
+Hotspot
+Response Profile Directionality
+Contour (pixel)
+Contour (pixel)
+Contour (pixel)
+Center of mass
+(cell)
+Angle α
+Relative
+sensor response
+Relative
+sensor response
+Relative
+sensor response
+1
+0
+0.5
+0 300 100 200
+0 100
+0 100 200
+1
+0
+0.5
+1
+0
+0.5
+0
+90
+180
+270
+30
+120 60
+150
+210
+240 300
+330
+0
+90
+180
+270
+30
+120 60
+150
+210
+240 300
+330
+0
+90
+180
+270
+30
+120 60
+150
+210
+240 300
+330
+20
+0
+40
+60
+80
+10
+0
+20
+0 100 200 300
+Fig. 4. Hotspots and directionality of dopamine release. (A–C) Bright-field (BF) images of PC12 cells cultivated and stimulated atop nanosensor arrays.
+Responses were analyzed along the contour of the cell (width ∼850 nm) and show hotspots (defined as 3× the mean response). Blue circles indicate hotspots
+in the contour picture. Arrows point at specific locations of the cell and corresponding locations in the response profile along the cell contour. Directionality
+plots show angular distribution of hotspots. Length of arrows is proportional to the magnitude of the sensor response. (D) Anisotropy of dopamine release is
+governed by the distribution of protrusions/cell surface. The histogram shows the angular distribution of contour pixels (cell in A). Hotspots are shown in black
+and reveal that they are correlated with protrusions (shown in grey). (E) Hotspots are not randomly distributed but colocalize with protrusions (n = 8). Errors
+are SEMs. (F) Hotspot magnitudes (from n = 8 cells) versus local curvature. Hotspots are more often found in regions of negative curvature (64% vs. 36%) but
+due to cell morphology there is also more negative curvature per cell (see SI Appendix, Fig. S20 for normalized histograms).
+Kruss et al. PNAS | February 21, 2017 | vol. 114 | no. 8 | 1793
+CHEMISTRY NEUROSCIENCE
+Sensor surfaces were prepared by the following procedure. First, glass
+substrates (#1, ThermoScientific) were functionalized with (3-aminopropyl)triethoxysilane (APTES) in ethanol (1% APTES, 1% water, 1 h).
+Then DNA-wrapped SWCNTs [(GA)15 ssDNA if not stated otherwise] were
+diluted 1:100 in PBS [corresponding to a final absorption of 0.0075 at the
+(6, 5)-SWCNT S22-peak maximum at around 570 nm] and incubated on top of
+those surfaces to let them adsorb (1 h). Afterward these surfaces were rinsed
+3× with PBS. Then they were incubated with a collagen solution (Collagen,
+Type I, C3867, Sigma) overnight at 4 °C and rinsed with PBS. For most experiments the glass substrates were mounted from the beginning in a flow
+chamber (ibidi sticky-Slide VI 0.4).
+Finally, PC12 cells were sparsely cultivated in full medium on these surfaces
+to avoid clustering (at least 4 h). Cell adhesion was verified by light microscopy
+and the full medium was exchanged to PBS supplemented with calcium and
+magnesium (Sigma). Cells in the flow chamber and all buffers were kept at
+37 °C before the experiment. Cell experiments were performed without an
+incubation chamber but given the time scale of the experiment (<10 min)
+the temperature was close to 37 °C. Cells were stimulated by adding 110 mM
+potassium chloride solution to the inlet of the flow chamber (final concentration ∼55 mM for the complete flow chamber volume).
+Data Analysis and Fitting Algorithm. Movies collected during cell experiments
+were processed by a fitting algorithm to identify regions where sensors
+responded to dopamine release. During each frame, the image of 640 × 512
+pixels was separated into 4 × 4-pixel groups over which mean intensity values
+were calculated, resulting in a time-dependent intensity trace for each of the
+20,480 groups. Each intensity trace was fit to the following equation:
+I =a +b ·t +c ·t2 +x · eðð−ðt−yÞ
+2
+Þ=2z2Þ.
+The functions formed by parameters a, b, and c represent the possible drift in
+baseline intensity caused by defocusing of the microscope during the experiment. The parameters x, y, and z represent the amplitude, peak center,
+and SD, respectively, of a Gaussian function used to fit a region of sensor
+response. A script was used to process the movies and perform the fittings.
+The fitting procedure provided images of fitting parameters.
+The curvature of the cell contour was calculated by using a three-point
+approximation (48). For each pixel of the contour the mean (curvature) of
+the local pixel curvature plus three adjacent pixels was calculated.
+ACKNOWLEDGMENTS. We thank Klaus Schulten and Markita Landry for input
+and support. S.K. was supported by the Deutsche Forschungsgemeinschaft and
+a Liebig Fellowship (Fonds der chemischen Industrie). D.P.S. is grateful for a
+National Science Foundation (NSF) Graduate Research Fellowship under Grant
+2388357. L.V. was supported by NSF Grant PHY1430124 and NIH Grant
+9P41GM104601. The authors acknowledge the NSF-funded Extreme Science
+and Engineering Discovery Environment CA93S028, the Taub computing
+cluster (University of Illinois), and the Texas Advanced Computing Center for
+computational resources. Additional funding was provided by the McGovern
+Institute Neurotechnology Program.
+1. Hyman SE (2005) Neurotransmitters. Curr Biol 15(5):R154–R158.
+2. Thurley K, Gerecht D, Friedmann E, Höfer T (2015) Three-dimensional gradients of
+cytokine signaling between T cells. PLOS Comput Biol 11(4):e1004206.
+3. Camilli A, Bassler BL (2006) Bacterial small-molecule signaling pathways. Science
+311(5764):1113–1116.
+4. Hafez I, et al. (2005) Electrochemical imaging of fusion pore openings by electrochemical detector arrays. Proc Natl Acad Sci USA 102(39):13879–13884.
+5. Wang J, Trouillon R, Lin Y, Svensson MI, Ewing AG (2013) Individually addressable
+thin-film ultramicroelectrode array for spatial measurements of single vesicle release.
+Anal Chem 85(11):5600–5608.
+6. Wang J, Ewing AG (2014) Simultaneous study of subcellular exocytosis with individually addressable multiple microelectrodes. Analyst (Lond) 139(13):3290–3295.
+7. Kruss S, et al. (2013) Carbon nanotubes as optical biomedical sensors. Adv Drug Deliv
+Rev 65(15):1933–1950.
+8. Polo E, Kruss S (2016) Nanosensors for neurotransmitters. Anal Bioanal Chem 408(11):
+2727–2741.
+9. Zhang J, et al. (2011) Single molecule detection of nitric oxide enabled by d(AT)15
+DNA adsorbed to near infrared fluorescent single-walled carbon nanotubes. J Am
+Chem Soc 133(3):567–581.
+10. Reuel NF, et al. (2013) Emergent properties of nanosensor arrays: Applications for
+monitoring IgG affinity distributions, weakly affined hypermannosylation, and colony
+selection for biomanufacturing. ACS Nano 7(9):7472–7482.
+11. Zhang J, et al. (2014) A rapid, direct, quantitative, and label-free detector of cardiac
+biomarker troponin T using near-infrared fluorescent single-walled carbon nanotube
+sensors. Adv Healthc Mater 3(3):412–423.
+12. Salem DP, et al. (2016) Chirality dependent corona phase molecular recognition of
+DNA-wrapped carbon nanotubes. Carbon 97:147–153.
+13. Kruss S, et al. (2014) Neurotransmitter detection using corona phase molecular recognition
+on fluorescent single-walled carbon nanotube sensors. J Am Chem Soc 136(2):713–724.
+14. Cragg SJ, Rice ME (2004) DAncing past the DAT at a DA synapse. Trends Neurosci
+27(5):270–277.
+15. Wise RA (2004) Dopamine, learning and motivation. Nat Rev Neurosci 5(6):483–494.
+16. Hires SA, Zhu Y, Tsien RY (2008) Optical measurement of synaptic glutamate spillover
+and reuptake by linker optimized glutamate-sensitive fluorescent reporters. Proc Natl
+Acad Sci USA 105(11):4411–4416.
+17. Garris PA, Ciolkowski EL, Pastore P, Wightman RM (1994) Efflux of dopamine from
+the synaptic cleft in the nucleus accumbens of the rat brain. J Neurosci 14(10):
+6084–6093.
+18. Liang R, Broussard GJ, Tian L (2015) Imaging chemical neurotransmission with genetically encoded fluorescent sensors. ACS Chem Neurosci 6(1):84–93.
+19. Masharina A, Reymond L, Maurel D, Umezawa K, Johnsson K (2012) A fluorescent sensor
+for GABA and synthetic GABA(B) receptor ligands. J Am Chem Soc 134(46):19026–19034.
+20. Bucher ES, Wightman RM (2015) Electrochemical analysis of neurotransmitters. Annu
+Rev Anal Chem (Palo Alto, Calif) 8(1):239–261.
+21. Adams KL, Puchades M, Ewing AG (2008) In vitro electrochemistry of biological systems. Annu Rev Anal Chem (Palo Alto, Calif) 1:329.
+22. Omiatek DM, Cans AS, Heien ML, Ewing AG (2010) Analytical approaches to investigate transmitter content and release from single secretory vesicles. Anal Bioanal
+Chem 397(8):3269–3279.
+23. Keighron JD, Ewing AG, Cans AS (2012) Analytical tools to monitor exocytosis: A focus
+on new fluorescent probes and methods. Analyst (Lond) 137(8):1755–1763.
+24. Gubernator NG, et al. (2009) Fluorescent false neurotransmitters visualize dopamine
+release from individual presynaptic terminals. Science 324(5933):1441–1444.
+25. Zhang J, et al. (2013) Molecular recognition using corona phase complexes made of
+synthetic polymers adsorbed on carbon nanotubes. Nat Nanotechnol 8(12):959–968.
+26. Bisker G, et al. (2016) Protein-targeted corona phase molecular recognition. Nat
+Commun 7:10241.
+27. Bisker G, et al. (2015) A mathematical formulation and solution of the CoPhMoRe
+inverse problem for helically wrapping polymer corona phases on cylindrical substrates. J Phys Chem C 119(24):13876–13886.
+28. Polo E, Kruss S (2016) Impact of redox-active molecules on the fluorescence of polymer-wrapped carbon nanotubes. J Phys Chem C 120(5):3061–3070.
+29. Kruss S, Srot V, van Aken PA, Spatz JP (2012) Au-Ag hybrid nanoparticle patterns of
+tunable size and density on glass and polymeric supports. Langmuir 28(2):1562–1568.
+30. Kruss S, et al. (2013) Adhesion maturation of neutrophils on nanoscopically presented
+platelet glycoprotein Ibα. ACS Nano 7(11):9984–9996.
+31. Kruss S, et al. (2010) Stimulation of cell adhesion at nanostructured teflon interfaces.
+Adv Mater 22(48):5499–5506.
+32. Greene LA, Tischler AS (1976) Establishment of a noradrenergic clonal line of rat
+adrenal pheochromocytoma cells which respond to nerve growth factor. Proc Natl
+Acad Sci USA 73(7):2424–2428.
+33. Westerink RH, Ewing AG (2008) The PC12 cell as model for neurosecretion. Acta
+Physiol (Oxf) 192(2):273–285.
+34. Attiah DG, Kopher RA, Desai TA (2003) Characterization of PC12 cell proliferation and
+differentiation-stimulated by ECM adhesion proteins and neurotrophic factors.
+J Mater Sci Mater Med 14(11):1005–1009.
+35. Cho Y, Borgens RB (2010) The effect of an electrically conductive carbon nanotube/collagen
+composite on neurite outgrowth of PC12 cells. J Biomed Mater Res A 95(2):510–517.
+36. Leach JB, Brown XQ, Jacot JG, Dimilla PA, Wong JY (2007) Neurite outgrowth and
+branching of PC12 cells on very soft substrates sharply decreases below a threshold of
+substrate rigidity. J Neural Eng 4(2):26–34.
+37. Sudibya HG, et al. (2009) Interfacing glycosylated carbon-nanotube-network devices with living
+cells to detect dynamic secretion of biomolecules. Angew Chem Int Ed Engl 48(15):2723–2726.
+38. Rodriguez PC, et al. (2013) Fluorescent dopamine tracer resolves individual dopaminergic synapses and their activity in the brain. Proc Natl Acad Sci USA 110(3):870–875.
+39. Byrd JC, Hadjiconstantinou M, Cavalla D (1986) Epinephrine synthesis in the PC12
+pheochromocytoma cell line. Eur J Pharmacol 127(1-2):139–142.
+40. Kumar GK, et al. (1998) Release of dopamine and norepinephrine by hypoxia from
+PC-12 cells. Am J Physiol 274(6 Pt 1):C1592–C1600.
+41. Zerby SE, Ewing AG (1996) Electrochemical monitoring of individual exocytotic events
+from the varicosities of differentiated PC12 cells. Brain Res 712(1):1–10.
+42. Schroeder TJ, Jankowski JA, Senyshyn J, Holz RW, Wightman RM (1994) Zones of exocytotic
+release on bovine adrenal medullary cells in culture. J Biol Chem 269(25):17215–17220.
+43. Hirasawa H, Contini M, Raviola E (2015) Extrasynaptic release of GABA and dopamine by
+retinal dopaminergic neurons. Phil Trans R Soc London Biol Sci 370(1672):20140186.
+44. Martens S, McMahon HT (2008) Mechanisms of membrane fusion: disparate players
+and common principles. Nat Rev Mol Cell Biol 9(7):543–556.
+45. Zhao WD, et al. (2016) Hemi-fused structure mediates and controls fusion and fission
+in live cells. Nature 534(7608):548–552.
+46. Becherer U, et al. (2007) Quantifying exocytosis by combination of membrane capacitance measurements and total internal reflection fluorescence microscopy in
+chromaffin cells. PLoS One 2(6):e505.
+47. Amatore C, Arbault S, Lemaître F, Verchier Y (2007) Comparison of apex and bottom
+secretion efficiency at chromaffin cells as measured by amperometry. Biophys Chem
+127(3):165–171.
+48. Belyaev AG (1999) A note on invariant three-point curvature approximations. RIMS
+1111:157–164.
+1794 | www.pnas.org/cgi/doi/10.1073/pnas.1613541114 Kruss et al.

@@ -1,0 +1,899 @@
+nature NEUROSCIENCE VOLUME 14 | NUMBER 8 | AUGUST 2011 1061
+a r t ic l e s
+Behavioral experiments have shown that owls are very accurate at
+localizing sounds near the center of gaze, but systematically underestimate the direction of sources in the periphery of the horizontal
+plane1,2 (Fig. 1a). This underestimation has also been observed in
+cats3, monkeys4, ferrets5 and humans6. The localization of sources in
+the horizontal direction depends on the timing of the signals received
+at the two ears, termed interaural time difference7 (ITD). Processing
+of ITD at multiple stages of the owl’s auditory system8–10 ultimately
+leads to a representation of auditory space in the optic tectum
+(homolog of mammalian superior colliculus), where stimulation
+induces head saccades11.
+The classical view of auditory-space coding in the owl is that
+sound-source direction is represented in a place code12,13. In
+this framework, the direction of a sound source is determined
+by the position in a topographic map of auditory space with the
+greatest activity level. However, this model has not been directly
+compared to the owl’s behavior. Thus, although considerable
+progress has been made in determining how ITD is encoded13,
+it remains unclear how ITD is decoded to support the owl’s
+localization behavior.
+The estimation of sound-source direction from ITD is an inherently
+ambiguous problem because of the non-unique dependence of ITD
+on sound direction2. Bayesian inference has been used to show how
+combining prior and sensory information can explain biased perception of ambiguous sensory signals14,15. We considered the hypotheses
+that a Bayesian estimator, with a prior distribution that emphasizes
+directions near the center of gaze (Fig. 1b), can explain the owl’s
+localization on the basis of ITD, and that the prior distribution is
+represented in the non-uniform distribution of preferred directions
+in the optic tectum (Fig. 1c). This provides an opportunity to address
+an open question in neuroscience: the degree to which perception and
+behavior are consistent with statistical inference.
+RESULTS
+Bayesian model of behavior
+Under the Bayesian model, the owl’s estimate of source direction
+depends on two factors: the statistical dependence of ITD on direction and a bias for particular directions. The direction dependence of
+ITD is known to be approximately sinusoidal from direct measurements of the sound signals reaching the owl’s tympanic membranes2.
+ITD is also subject to variability resulting from the type of sound
+signal, environmental conditions and noise in the neural computation of ITD16–19. Thus, we modeled ITD as a sinusoidal function of
+source direction that is corrupted by Gaussian noise (amplitude =
+260 µs, angular frequency = 0.0143 rad per deg; Fig. 1d). Note that
+the maximal ITDs are not at +90 and -90 deg, as the facial ruff of the
+owl causes a phase shift relative to the owl’s head2. The conditional
+probability over ITD given a source direction defined by this model,
+p(ITD|?), is called the likelihood function. The owl’s localization
+behavior showed a clear bias, corresponding to an underestimation of
+directions away from the center of gaze. We modeled this bias using
+a Gaussian-shaped probability density of sound-source directions
+that peaks at the center of gaze and decays for peripheral directions
+(Fig. 1b). This bias constitutes the prior for Bayesian inference p(?).
+Combining the likelihood function and the prior according to Bayes’
+rule yields the posterior density, p(?|ITD), which is the probability
+density over sound-source direction given a value of ITD (Fig. 1b).
+The Bayesian estimate of source direction ? given a value of ITD is
+taken to be the mean of ? under the posterior p(?|ITD). This leads to
+a probabilistic model of the relationship between direction and ITD
+with two parameters: the width of the prior probability density and
+the variance of the noise corrupting the computed ITD.
+After determining the two parameters, the performance of the
+Bayesian estimator was consistent with the owl’s localization behavior
+(root mean square error (RMSE) between the average behavior and
+1Group for Neural Theory, Département d’Etudes Cognitives, Ecole Normale Supérieure, Paris, France. 2Laboratoire de Neurosciences Cognitives, INSERM U960,
+Paris, France. 3Dominick P. Purpura Department of Neuroscience, Albert Einstein College of Medicine, Bronx, New York, USA. Correspondence should be
+addressed to B.J.F. (bfischer.su@gmail.com).
+Received 21 December 2010; accepted 29 April 2011; published online 3 July 2011; doi:10.1038/nn.2872
+Owl’s behavior and neural representation predicted by
+Bayesian inference
+Brian J Fischer1,2 & José Luis Peña3
+The owl captures prey using sound localization. In the classical model, the owl infers sound direction from the position of greatest
+activity in a brain map of auditory space. However, this model fails to describe the actual behavior. Although owls accurately
+localize sources near the center of gaze, they systematically underestimate peripheral source directions. We found that this
+behavior is predicted by statistical inference, formulated as a Bayesian model that emphasizes central directions. We propose
+that there is a bias in the neural coding of auditory space, which, at the expense of inducing errors in the periphery, achieves high
+behavioral accuracy at the ethologically relevant range. We found that the owl’s map of auditory space decoded by a population
+vector is consistent with the behavioral model. Thus, a probabilistic model describes both how the map of auditory space supports
+behavior and why this representation is optimal.
+© 2011 Nature America, Inc. All rights reserved. © 2011 Nature America, Inc. All rights reserved.
+1062 VOLUME 14 | NUMBER 8 | AUGUST 2011 nature NEUROSCIENCE
+a r t ic l e s
+the average Bayesian estimate was 1.66 deg; Fig. 1e). In addition, the
+precision of the Bayesian estimator was comparable to the behavioral
+precision measured for owls1,2 (s.d. of direction estimates: model, 9.0 ±
+0.5 deg; owl, 13.91 ± 5.26 deg)2. Differences between the average
+Bayesian estimate and the behavior are primarily a result of two features of the owl’s behavior: the asymmetry in the maximal leftward
+and rightward head turns, and the nonsmooth variation of the behavioral data with target direction that are not matched by the model.
+We tested the Bayesian model using data from two independent
+experiments: one that alters the relationship between ITD and sound
+direction, and another that changes noise in the measured ITD. The
+removal of the facial ruff, the heart-shaped array of dense feathers
+that collects and shapes incoming sound, altered the relationship
+between direction and ITD (Fig. 1f). This manipulation produced a
+corresponding change in the owl’s behavior in which the owl no longer
+reached a plateau of direction estimates for sources in the periphery2
+(Fig. 1g). We simulated the ruff removal by increasing the frequency
+and decreasing the amplitude of the sinusoid that describes the measured mapping of direction to ITD (amplitude = 230 µs, angular
+frequency = 0.0175 rad per deg; Fig. 1f and Supplementary Fig. 1).
+The parameters were determined by fitting the sinusoid to the
+measured mapping of direction to ITD after ruff removal2. Using
+unchanged parameters for the widths of the likelihood and the prior,
+the Bayesian model predicted the owl’s behavior under ruff-removed
+conditions (RMSE between the average behavior and the average
+Bayesian estimate was 0.44 deg; Fig. 1g).
+We used a second, independent test of the Bayesian model, by
+examining direction estimates under varying interaural correlations,
+a
+d e
+f g
+b
+c
+Prior
+Likelihood
+Posterior
+Bayes
+vector
+–90
+90
+180 0
+Population
+vector
+Weighted
+cell vector
+–90
+90
+180 0
+50
+Estimated direction (deg)
+0
+–50
+–150 –100 –50 0 50 100 150
+Target direction (deg)
+Facial ruff in place
+300
+Measured
+200 Asin(??)
+100
+ITD (µs)
+0
+–100
+–200
+–300 –100 100
+Direction (deg)
+0
+Facial ruff removed
+300
+200
+100
+ITD (µs)
+0
+–100
+–200
+–300 –100 100
+Direction (deg)
+0
+50
+Estimated direction (deg)
+0
+–50
+–150 –100 –50 0 50 100 150
+Target direction (deg)
+50
+Owl
+Bayes
+Pop. vector
+Estimated direction (deg)
+0
+–50
+–150 –100 –50 0 50 100 150
+Target direction (deg)
+Figure 1 Models of the owl’s behavior. (a) Owl’s behavior, modified
+from ref. 2. The solid gray line is the identity. (b) The Bayesian estimate
+is the direction of the vector found by averaging unit vectors in each
+direction weighted by the posterior density (medium gray). The posterior
+is proportional to the product of the likelihood (light gray) and the prior
+(black). All probability densities were normalized by their peak for display.
+The source direction is 70 deg, at one of the peaks of the likelihood.
+(c) The population vector (gray) is the average of the preferred direction
+vectors of the neurons, weighted by the firing rates (black). (d) Measured
+relationship between direction and ITD (black) under normal conditions2,
+along with the sinusoidal approximation (gray). (e) Owl’s behavior2
+(medium gray circle, dotted line), Bayesian estimator (black square,
+solid line) and population vector (light gray diamond, dashed line) under
+the normal condition. (f) Measured relationship between direction and
+ITD (black) under ruff-removed conditions2, along with the sinusoidal
+approximation (gray). (g) Owl’s behavior2, Bayesian estimator and
+population vector under the ruff-removed condition. Error bars in a, e and g
+represent the s.d. over trials.
+0
+0
+20
+40
+60
+80
+a 100 Standard deviation (µs)
+0.2 0.4
+Interaural correlation
+0.6 0.8 1.0
+c
+–50
+Response angle (deg)
+0
+50
+0 0.5 1.0
+Interaural correlation
+b
+0
+–60
+–40
+–20
+20
+0
+40
+60
+Estimated direction (deg)
+0.2 0.4
+Interaural correlation
+0.6 0.8 1.0
+Figure 2 Predicted behavior under varying levels of interaural correlation. (a) Variability of ITD with interaural correlation. ITD was estimated from
+the peak of the cross-correlation of the left and right input signals. (b) Direction estimates from the Bayesian model using levels of the s.d. of the
+noise corrupting ITD that follow the exponential relationship shown in a with a minimum value of 41.2 µs, estimated from the behavioral data
+(s.d. = 219.34e-11.31×IC + 41.2, where IC is the interaural correlation). Symbols correspond to four different source directions (±55, ±75 deg).
+Error bars represent the s.d. over trials. (c) The predicted trend is similar to observations in behaving owls (modified from Fig. 1 in ref. 20).
+Error bars represent the s.d. over trials.
+© 2011 Nature America, Inc. All rights reserved. © 2011 Nature America, Inc. All rights reserved.
+nature NEUROSCIENCE VOLUME 14 | NUMBER 8 | AUGUST 2011 1063
+a r t ic l e s
+that is, the degree of similarity of the sounds reaching the left and
+right ears. Changes in interaural correlation represent a means
+to increase the variability in ITD. In particular, as the interaural
+corre­lation decreases, the ITD determined by the peak in a crosscorrelation of the left and right input signals20,21 is influenced more by
+the independent noise at the left and right ears than by the coherent
+source signal20. Behaviorally, owls show a greater underestimation of
+sound-source direction when interaural correlation decreases20.
+We used a cross-correlation model to determine how interaural
+correlation affects the variability of the measured ITD20,21. For a fixed
+ITD of the input signals, we observed an exponential decrease in
+the variability of ITD as the interaural correlation increased, where
+the s.d. of ITD reached a minimum for interaural correlation values
+greater than 0.5 (Fig. 2a). We tested the Bayesian model using values
+of the s.d. of the noise corrupting ITD that followed this exponential relationship, with a minimum value of 41.2 µs set by fitting the
+para­meters of the Bayesian model to the behavioral data, as described
+above. Using this type of noise, the model predicted direction estimates that became increasingly biased toward zero as the interaural
+correlation decreased (Fig. 2b), consistent with the owl’s behavior
+(Fig. 2c). The model predictions showed a qualitative match with
+observations of the owl’s sound-localizing behavior when interaural
+correlation was manipulated20. In particular, direction estimates of
+the model and the owl decreased toward zero for interaural correlation values less than 0.5 (Fig. 2b,c). Given the asymmetry in the owl’s
+estimates for directions on the left and right sides (Fig. 2c), the model
+captures the central feature of the owl’s behavior, which is an increased
+bias toward zero as interaural correlation decreases.
+Assessment of Bayesian model parameters
+The presence of a prior distribution that emphasizes central directions
+is necessary to explain the owl’s localization behavior. Although we
+included the prior in the model to capture the behavior, we found that the
+actual distribution of target directions measured in previous behavioral
+studies of the interaction between barn owls and prey is consistent with
+a centrality prior22 (Fig. 3). The sinusoidal direction dependence of ITD
+produces a likelihood function that has multiple equivalent peaks for any
+given ITD (Fig. 1b). Thus, estimates of a given source direction computed from the likelihood function alone would be expected to fall into
+multiple distinct regions, rather than into a single cluster, as is seen in
+the owl’s behavior1,2. As a consequence, a maximum likelihood estimator
+fails to capture the bias in the owl’s localization behavior (Fig. 4a). The
+prior distribution must be incorporated into the estimation process to
+induce the owl to consistently localize directions near the more central
+of the two possible directions.
+The s.d. of the prior in the model was 23.3 degrees. This causes
+the estimator to favor directions near the center of gaze, but is wide
+enough to allow for detection of sources in the periphery. Support
+for this shape of the prior is given by the observation that a Bayesian
+estimator using a wider or uniform prior failed to capture the bias in
+the owl’s localization behavior (Fig. 4b,c).
+The likelihood function used in the Bayesian model is consistent
+with the natural variation of ITD. The s.d. of the noise corrupting ITD
+was 41.2 µs. To assess the plausibility of this value, we used barn owl
+head-related transfer functions19 to determine the natural variability
+in ITD of the signals received at the ears. For horizontal directions
+ranging over the frontal hemisphere, we measured the variability of
+ITD computed for a bank of natural sounds at different elevations23.
+Across horizontal directions, the median s.d. of ITD was 24.4 µs
+(19 directions, interquartile range = 6.7 µs). The s.d. of ITD did not
+vary with the magnitude of the horizontal direction (r2 = 0.02, P = 0.68).
+Although lower than the s.d. of the noise corrupting ITD in the model,
+this value does not take into account variability resulting from environmental conditions16 or the neural computation of ITD17,18.
+Behavior
+Maximum likelihood
+150
+100
+50
+0
+–50
+–100
+–150
+100500 150
+Target direction (deg)
+–150 –100 –50 100500 150
+Target direction (deg)
+–150 –100 –50 100500 150
+Target direction (deg)
+–150 –100 –50
+Estimated direction (deg)
+150
+100
+50
+0
+–50
+–100
+–150
+150
+100
+50
+0
+–50
+–100
+–150
+Behavior
+Wide Gaussian
+Behavior
+Uniform prior
+a b c
+Figure 4 Performance of alternative estimators. (a) Owl’s behavior2 (black) and maximum likelihood estimate (gray). The thin black line is the identity.
+(b) Owl’s behavior2 (black) and Bayesian estimate using the mean of the posterior distribution when using a Gaussian-shaped prior that is wider than the
+optimal value (gray). (c) Owl’s behavior2 (black) and Bayesian estimate using the mean of the posterior distribution when using a uniform prior (gray). Error
+bars represent the s.d. over trials.
+Front 0
+20
+40
+60
+80
+100
+Frequency (%)
+Frontside
+Side
+Owl with vole Owl with spiny mouse
+Sideback
+Back 0
+20
+40
+60
+80
+100
+Front Frontside
+Side Sideback
+Back
+Figure 3 Measured prior distribution of target direction. The relative
+frequency of different oppositions between an owl and two types of
+prey (vole on the left and spiny mouse on the right) during prey capture
+(modified from Fig. 3 in ref. 22). Front is the prey positioned at 0 deg
+relative to the owl’s center of gaze, front-side corresponds to the regions
+centered at ±45 deg, side corresponds to the regions centered at ±90 deg,
+side-back corresponds to the regions centered at ±135 deg and back
+corresponds to the region centered at 180 deg.
+© 2011 Nature America, Inc. All rights reserved. © 2011 Nature America, Inc. All rights reserved.
+1064 VOLUME 14 | NUMBER 8 | AUGUST 2011 nature NEUR OSCIENCE
+a r t ic l e s
+Neural decoding
+We then asked how the Bayesian estimate of source direction could
+be implemented in the neural circuitry of the owl’s auditory system.
+Neural decoding of directional variables has often been investigated
+using the population vector24,25. The population vector is obtained
+by averaging the preferred direction vectors of neurons in the population, weighted by the firing rates of the neurons (Fig. 1c). It can be
+shown that if the neural tuning curves are proportional to the likelihood function, the preferred directions are distributed according to
+the prior and the neural population is large enough, then the population vector will be consistent with the Bayesian estimate26 (Figs. 1e,g
+and 5 and Supplementary Discussion).
+To test the consistency of a population vector decoder with a Bayesian
+estimator, we constructed a model network using 500 neurons with
+preferred directions drawn from the prior distribution and tuning curves
+that are proportional to the likelihood function (Fig. 6a). We computed
+the population vector estimate of direction under both the normal condition and the ruff-removed condition2. In each simulation, the firing rates
+of neurons were drawn independently from Poisson distributions with
+mean values given by the values of the tuning curves.
+The population vector estimate from our model network (Fig. 6a)
+matched both the owl’s behavior and the Bayesian estimate in both
+conditions (Fig. 1e,g), with an error of less than 2 deg. The RMSE
+between the average behavior and the average population vector estimate was 1.44 deg in the normal condition and 0.39 deg in the ruffremoval condition. The RMSE between the average estimates of the
+Bayesian model and the population vector was 0.22 deg in the normal
+condition and 0.05 deg in the ruff-removal condition.
+We examined the accuracy of the population vector in approximating a Bayesian estimate as a function of population size and correlation of firing-rate variability. In these simulations, the firing rates of
+the neurons were drawn from a multivariate Gaussian distribution
+with the mean given by the firing-rate values of the tuning curves
+and correlation matrix with entries that depend on the product of
+the tuning curve values between neurons. The Gaussian model with
+multiplicative noise produces neural responses in which the variance increases with the mean firing rate, as in the Poisson case. The
+Gaussian model was used for computational convenience. In the
+behaviorally relevant range, the RMSE in the approximation of the
+Bayesian estimate by the population vector decreased as 1/ N , where
+N is the number of neurons, for each value of the correlation coefficient (Fig. 5). Given the large number of neurons in the output layers
+of the optic tectum, the population vector decoder of optic tectum
+responses should approximate the Bayesian estimate with an error
+of less than 2 deg. The robustness of this approximation indicates
+that the structure of the neural noise will not determine the form
+of the population code that produces the optimal representation of
+auditory space.
+Predicting the neural representation
+We used the neural population model to predict the representation of auditory space in the owl’s optic tectum. The model consists
+of a population of neurons with preferred directions covering the
+frontal hemisphere, but with greatest density near the center of gaze
+(Fig. 6a). Note that the population vector estimates were computed
+from the same population (Fig. 1). As a function of stimulus direction,
+the tuning curves were approximately Gaussian shaped with widths
+that increased with eccentricity (Fig. 6a,b), in accordance with the
+Gaussian likelihood function that describes the statistical dependence
+of ITD on sound-source direction.
+The nonuniform population predicted by the model is consistent
+with the representation of auditory space in the owl’s optic tectum.
+First, tuning curves of midbrain neurons can be described using
+Gaussian functions27. Second, the widths of the tuning curves in
+the model increased with eccentricity and fell directly in the bounds
+measured for space-specific neurons in optic tectum28 (Fig. 6b). The
+increase in width with eccentricity is a result of the sinusoidal function of direction that appears in the likelihood function. This occurs
+because the sine function describing the mapping from direction to
+ITD changes faster for directions near the center of gaze than for directions near the side of the head. Thus, for preferred directions near the
+center of gaze, a small range of source directions will produce ITDs
+that are near the preferred ITD of the neuron. In contrast, for preferred directions near the side of the head, a larger range of directions
+will produce ITDs that are near the preferred ITD of the neuron,
+thus leading to wider tuning curves for neurons with peripheral
+a 10 b
+c d Firing rate (spikes per s)
+8
+6
+4
+2
+0
+120
+Half-width (deg)
+80
+100
+60
+40
+20
+0 –50 0
+Direction (deg)
+50
+0 0
+2
+Distance from anterior
+end (mm)
+0
+0.005
+0.010
+0.015
+Density
+4
+6
+50
+Preferred direction (deg) Preferred direction (deg)
+100 –100 –50 0 50 100
+0 20
+Preferred direction (deg)
+Figure 6 Predicted midbrain representation of auditory space. (a 40 60 ) Example
+tuning curves in the model optic tectum population. (b) Plot of model
+tuning curve half-widths (black circles) along with experimental data
+measured in the optic tectum28 (solid lines, showing ±1 s.d., as reported
+in ref. 28). Gray and white circles correspond to the tuning curves
+highlighted in a. The two outlier points correspond to receptive fields
+in the periphery that wrap around the owl’s head and which are indeed
+observed in the owl’s optic tectum data as well28. (c) Measured values
+of space map positions of optic tectum neurons (modified from ref. 28)
+together with the fit by a scaled cumulative Gaussian distribution function
+(solid line). (d) The model prior density of preferred direction (dashed
+gray) and the measured bilateral density (solid black) found by combining
+the unilateral densities derived from the cumulative Gaussian in c.
+101 100
+101
+102
+Number of neurons
+r.m.s. error (deg)
+103
+Figure 5 Population vector
+approximation to Bayesian
+estimator. The r.m.s.
+differences in direction
+estimates between the
+population vector and
+the Bayesian estimator
+for different correlation
+coefficients in the noise
+between neurons are shown
+(black circles = 0.25,
+white circles = 0.5,
+black squares = 0.75).
+© 2011 Nature America, Inc. All rights reserved. © 2011 Nature America, Inc. All rights reserved.
+nature NEUROSCIENCE VOLUME 14 | NUMBER 8 | AUGUST 2011 1065
+a r t ic l e s
+preferred directions. Finally, the distribution of preferred directions
+in the model is consistent with the experimental distribution; that is,
+with the auditory space map in the optic tectum. Assuming that cell
+density is homogeneous in the optic tectum, the physical distance
+between points corresponding to different preferred directions in
+the optic tectum’s auditory space map will be proportional to the
+number of cells that lie between those directions. Thus, the shape of
+the auditory-space map on each side should be described by a curve
+that is proportional to the cumulative distribution function of the
+unilateral density of preferred directions. To determine the unilateral
+distribution, we fit the relationship between preferred direction and
+position in a previously measured optic tectum space map28 with a
+curve that is proportional to a cumulative Gaussian-distribution function (mean = 6.8 deg, s.d. = 20.3 deg; Fig. 6c). The bilateral density of
+preferred direction was obtained by linearly combining two Gaussians
+with means given by the estimated unilateral value and its negative
+value. The density of preferred directions predicted by the Bayesian
+model is consistent with the measured density in the optic tectum,
+where locations representing central directions cover a greater area
+than locations representing peripheral directions (measured density:
+mean = 0 deg, s.d. = 20.3 deg; Bayesian model density: mean = 0 deg,
+s.d. = 23.3 deg; Fig. 6d). Thus, the shapes of the tuning curves in the
+optic tectum are consistent with the likelihood function and the shape
+of the auditory space map is consistent with the prior distribution.
+DISCUSSION
+Here we describe a principle that explains both the sound-­localizing
+behavior and the neural representation of auditory space in the
+owl. This principle is the implementation of approximate Bayesian
+inference using a population vector. The idea that source direction
+is decoded from the auditory space map using a population vector
+revises the classical place-coding model of sound localization in barn
+owls12,13. To decode source direction, the population vector utilizes
+the entire optic tectum population and takes into account the overrepresentation of frontal space. Thus, the population-vector estimate
+is biased toward the center of gaze by the uneven distribution of preferred directions (Fig. 1c). This model provides an explanation for
+the owl’s underestimation of source direction, which is a common
+perceptual bias in sound localization across species3–6.
+Our model provides a theoretical explanation for the representation of auditory space in the owl that is more complete than previous
+theories. Previously, principles of optimal coding used to explain the
+neural representation of ITD have not addressed the issue of behavior29. We used optimal Bayesian inference and naturalistic constraints
+to analyze the function of the localization pathway in the owl. Having
+localization behavior that is consistent with the Bayesian estimator
+ensures that the owl will strike sources near the center of gaze more
+accurately, at the expense of underestimating the direction of sound
+sources in the periphery. Note that, even though the prior emphasizes
+central directions, sounds arising from behind the owl will lead to
+head turns toward the sound source and allow for localization after
+multiple head turns (Fig. 1). Given that owls strongly rely on capturing
+animals in the dark and the inherent uncertainty in sound-­localization
+cues, maximizing the ability to localize in the sound-localizing ‘fovea’
+may be the key to survival.
+In our analysis of the owl’s behavior, we found that a prior that
+emphasizes central directions is necessary to explain the observed
+bias in sound localization. The shape of the prior in the model
+comes directly from fitting the model to the behavioral data. The
+need for the prior is a result of the ambiguous direction dependence
+of ITD2. The presence of a bias in localization is not restricted to
+the case of the owl; the dependence of sound localization on a prior
+that emphasizes central directions is consistent with the biases seen
+in sound localization across species3–6. In fact, multiple studies of
+human lateralization of tones, narrowband sounds and broadband
+sounds have found that a centrality weighting function is necessary
+to predict human behavior30. Whether and how a prior is used in the
+sound localization behavior of other species remain unknown.
+The results of previous behavioral experiments indicate that, when
+the owl is engaged in capturing prey, the actual distribution of target directions is consistent with the centrality prior in the Bayesian
+model22 (Fig. 3). This behavior alternates between chase and periods
+when the owl and prey are immobile. The majority of the time when
+the owl and its prey are immobile, before a sound produced by the
+prey initiates chase, occurs with the owl facing its prey. The owl
+likely integrates information during the chase and utilizes multiple
+head turns to accurately track prey, and thereby ends up facing the
+prey more often than not. This indicates that sounds from a target
+source that the owl is engaged in capturing may, in natural conditions, occur with greatest frequency from directions in front of the
+owl. Thus, considering sources of interest that the owl engages with31,
+sound directions can show a distribution consistent with the prior22.
+Certainly, the initial location of arbitrary sound sources should be
+uniformly distributed in space. Even so, maximizing the ability to
+localize in the sound-localizing ‘fovea’ may represent an efficient
+strategy, across trials.
+Our model describes the owl’s localization behavior in the horizontal dimension using ITD as the sound-localization cue. A complete account of the owl’s sound-localization behavior will require
+additional sound-localization cues, integration of auditory and visual
+information, and temporal integration of sensory signals. These computations can naturally be incorporated into a Bayesian framework.
+Although the general solution will require additional components, this
+model describes how the owl solves the ethologically relevant problem
+of determining the horizontal direction of a sound source13.
+Bayesian approaches to modeling perception and behavior have
+a powerful theoretical basis and may serve as a unifying principle
+across species and modalities. The question of how probabilistic
+inform­ation, in particular a prior distribution, can be represented in
+a neural system remains open32. It has been suggested that a prior can
+be implemented in the distribution of neural tuning curves26,32,33. In
+particular, maximizing the mutual information between a stimulus
+and a population response leads to a population code in which the
+prior is encoded in the density of preferred stimuli and the widths
+of the tuning curves33. In addition, a population of Poisson neurons
+with divisive normalization can implement Bayesian inference if the
+tuning curves are proportional to the likelihood and the preferred
+stimuli are drawn from the prior density26. Our analysis uses a similar argument to show that a population vector can implement an
+approximate Bayesian inference. Our analysis also predicts that the
+prior is encoded in the density of preferred stimuli and the shapes of
+the tuning curves are determined solely by the likelihood function.
+The population vector implementation of Bayesian inference does
+not require a particular distribution of neural noise. The prediction
+of both the distribution of preferred stimuli and the shapes of the
+tuning curves were supported by experimental data (Fig. 6). This
+analysis provides a reinterpretation of a neural decoder that is generally viewed as suboptimal for heterogeneous populations34,35. We note
+that a Bayesian estimate from the posterior distribution conditioned
+on the neural responses does not match the owl’s behavior unless the
+distribution of model preferred directions is wider than the measured
+distribution in the optic tectum and the model tuning curves are much
+© 2011 Nature America, Inc. All rights reserved. © 2011 Nature America, Inc. All rights reserved.
+1066 VOLUME 14 | NUMBER 8 | AUGUST 2011 nature NEUR OSCIENCE
+a r t ic l e s
+sharper than the measured tuning curves (Supplementary Fig. 2).
+The conditions for optimality of the population vector, although not
+trivial, are likely to occur in other cases, as non-uniform representations of stimulus parameters are common26,33,36. For example, the
+oblique effect in visual perception has been described as Bayesian
+inference with a prior emphasizing cardinal axes37 and distributions
+of preferred locations are non-uniform, with a higher density of cells
+on the horizontal and vertical axes26,33,38. This provides a solution
+to what has been an open issue in applying Bayesian models across
+multiple levels of analysis from behavior to neural implementation.
+Methods
+Methods and any associated references are available in the online
+version of the paper at http://www.nature.com/natureneuroscience/.
+Note: Supplementary information is available on the Nature Neuroscience website.
+Acknowledgments
+We thank L. Hausmann and H. Wagner for providing the behavioral data and
+C. Keller and T. Takahashi for providing the head-related transfer functions. We thank
+S. Edut, D. Eilam, E. Knudsen, M. Konishi and K. Saberi, whose work substantially
+contributed to testing our hypothesis. We thank S. Deneve, M. Konishi, A. Margolis,
+A. Oster, O. Schwartz and A. Wohrer for advice and comments on the manuscript.
+This study was supported by US National Institutes of Health grant DC007690 (J.L.P.)
+and the Marie Curie Team of Excellence grant BIND MECT-CT-20095-02481 (B.J.F.).
+AUTHOR CONTRIBUTIONS
+B.J.F. designed the model and performed the model simulations. J.L.P. supervised
+the project. B.J.F. and J.L.P. wrote the paper.
+COMPETING FINANCIAL INTERESTS
+The authors declare no competing financial interests.
+Published online at http://www.nature.com/natureneuroscience/.
+Reprints and permissions information is available online at http://www.nature.com/
+reprints/index.html.
+1. Knudsen, E.I., Blasdel, G.G. & Konishi, M. Sound localization by the barn owl (Tyto
+alba) measured with the search coil technique. J. Comp. Physiol. 133, 1–11
+(1979).
+2. Hausmann, L., von Campenhausen, M., Endler, F., Singheiser, M. & Wagner, H.
+Improvements of sound localization abilities by the facial ruff of the barn owl (Tyto
+alba) as demonstrated by virtual ruff removal. PLoS ONE 4, e7721 (2009).
+3. Populin, L.C. & Yin, T.C. Behavioral studies of sound localization in the cat.
+J. Neurosci. 18, 2147–2160 (1998).
+4. Jay, M.F. & Sparks, D.L. Localization of auditory and visual targets for the initiation
+of saccadic eye movements. in Comparative Perception: Basic Mechanisms (eds.
+Berkley, M.A. & Stebbins, W.C.) 351–374 (Wiley, New York, 1990).
+5. Nodal, F.R., Bajo, V.M., Parsons, C.H., Schnupp, J.W. & King, A.J. Sound localization
+behavior in ferrets: comparison of acoustic orientation and approach-to-target
+responses. Neuroscience 154, 397–408 (2008).
+6. Zahn, J.R., Abel, L.A. & Dell’Osso, L.F. Audio-ocular response characteristics. Sens.
+Processes 2, 32–37 (1978).
+7. Blauert, J. Spatial Hearing: The Psychophysics of Human Sound Localization. (MIT
+Press, Cambridge, Massachusetts, 1983).
+8. Carr, C.E. & Konishi, M. A circuit for detection of interaural time differences in the
+brain stem of the barn owl. J. Neurosci. 10, 3227–3246 (1990).
+9. Knudsen, E.I. & Konishi, M. A neural map of auditory space in the owl. Science 200,
+795–797 (1978).
+10. Olsen, J.F., Knudsen, E.I. & Esterly, S.D. Neural maps of interaural time and intensity
+differences in the optic tectum of the barn owl. J. Neurosci. 9, 2591–2605 (1989).
+11. Masino, T. & Knudsen, E.I. Horizontal and vertical components of head movements
+are controlled by distinct neural circuits in the barn owl. Nature 345, 434–437
+(1990).
+12. Jeffress, L.A. A place theory of sound localization. J. Comp. Physiol. Psychol. 41,
+35–39 (1948).
+13. Konishi, M. Coding of auditory space. Annu. Rev. Neurosci. 26, 31–55 (2003).
+14. Weiss, Y., Simoncelli, E.P. & Adelson, E.H. Motion illusions as optimal percepts.
+Nat. Neurosci. 5, 598–604 (2002).
+15. Stocker, A.A. & Simoncelli, E.P. Noise characteristics and prior expectations in
+human visual speed perception. Nat. Neurosci. 9, 578–585 (2006).
+16. Nix, J. & Hohmann, V. Sound source localization in real sound fields based on
+empirical statistics of interaural parameters. J. Acoust. Soc. Am. 119, 463–479
+(2006).
+17. Christianson, G.B. & Peña, J.L. Noise reduction of coincidence detector output by
+the inferior colliculus of the barn owl. J. Neurosci. 26, 5948–5954 (2006).
+18. Pecka, M., Siveke, I., Grothe, B. & Lesica, N.A. Enhancement of ITD coding within
+the initial stages of the auditory pathway. J. Neurophysiol. 103, 38–46
+(2010).
+19. Keller, C.H., Hartung, K. & Takahashi, T.T. Head-related transfer functions of
+the barn owl: measurement and neural responses. Hear. Res. 118, 13–34
+(1998).
+20. Saberi, K. et al. Effects of interaural decorrelation on neural and behavioral detection
+of spatial cues. Neuron 21, 789–798 (1998).
+21. Fischer, B.J., Christianson, G.B. & Peña, J.L. Cross-correlation in the auditory
+coincidence detectors of the owl. J. Neurosci. 28, 8107–8115 (2008).
+22. Edut, S. & Eilam, D. Protean behavior under barn-owl attack: voles alternate between
+freezing and fleeing and spiny mice flee in alternating patterns. Behav. Brain Res.
+155, 207–216 (2004).
+23. Smith, E.C. & Lewicki, M.S. Efficient auditory coding. Nature 439, 978–982
+(2006).
+24. Georgopoulos, A.P., Kalaska, J.F., Crutcher, M.D., Caminiti, R. & Massey, J.T. The
+representation of movement direction in the motor cortex: single cell and population
+studies. in Dynamic Aspects of Neocortical Function (eds. Edelman, G.M., Goll,
+W.E. & Cowan, W.M.) 501–524 (Neurosciences Research Foundation, New York,
+1984).
+25. van Hemmen, J.L. & Schwartz, A.B. Population vector code: a geometric universal
+as actuator. Biol. Cybern. 98, 509–518 (2008).
+26. Shi, L. & Griffiths, T.L. Neural implementation of hierarchical Bayesian inference by
+importance sampling. in Advances in Neural Information Processing Systems NIPS
+Vol. 22 (eds. Bengio, Y., Schuurmans, D., Lafferty, J., Williams, C.K.I. & Culotta, A.)
+(MIT Press, Cambridge, Massachusetts, 2009).
+27. Pérez, M.L., Shanbhag, S.J. & Peña, J.L. Auditory spatial tuning at the crossroads
+of the midbrain and forebrain. J. Neurophysiol. 102, 1472–1482 (2009).
+28. Knudsen, E.I. Auditory and visual maps of space in the optic tectum of the owl.
+J. Neurosci. 2, 1177–1194 (1982).
+29. Harper, N.S. & McAlpine, D. Optimal neural population coding of an auditory spatial
+cue. Nature 430, 682–686 (2004).
+30. Stern, R.M. & Trahiotis, C. Models of binaural perception. in Binaural and Spatial
+Hearing in Real and Virtual Environments (eds. Gilkey, R. & Anderson, T.R.) 499–531
+(Lawrence Erlbaum Associates, New York, USA, 1996).
+31. Bergan, J.F., Ro, P., Ro, D. & Knudsen, E.I. Hunting increases adaptive auditory
+map plasticity in adult barn owls. J. Neurosci. 25, 9816–9820 (2005).
+32. Simoncelli, E.P. Optimal estimation in sensory systems. In The Cognitive
+Neurosciences, IV (ed. Gazzaniga, M.) 525–535 (MIT Press, Cambridge,
+Massachusetts, 2009).
+33. Ganguli, D. & Simoncelli, E.P. Implicit encoding of prior probabilities in optimal
+neural populations. in Advances in Neural Information Processing Systems NIPS
+Vol. 23 (eds. Lafferty, J., Williams, C.K.I., Shawe-Taylor, J., Zemel R.S. & Culotta,
+A.) (MIT Press, Cambridge, Massachusetts, 2010).
+34. Seung, H.S. & Sompolinsky, H. Simple models for reading neural population codes.
+Proc. Natl. Acad. Sci. USA 93, 339–344 (1993).
+35. Salinas, E. & Abbott, L.F. Vector reconstruction from firing rates. J. Comput.
+Neurosci. 1, 89–107 (1994).
+36. Köver, H. & Bao, S. Cortical plasticity as a mechanism for storing Bayesian priors
+in sensory perception. PLoS ONE 5, e10497 (2010).
+37. Girshick, A.R., Landy, M.S. & Simoncelli, E.P. Cardinal rules: visual orientation
+perception reflects knowledge of environmental statistics. Nat. Neurosci. advance
+online publication, doi:10.1038/nn.2831 (5 June 2011).
+38. Li, B., Patterson, M.R. & Freeman, R.D. Oblique effect: a neural basis in the visual
+cortex. J. Neurophysiol. 90, 204–217 (2003).
+© 2011 Nature America, Inc. All rights reserved. © 2011 Nature America, Inc. All rights reserved.
+doi:10.1038/nn.2872 nature NEUROSCIENCE
+ONLINE METHODS
+Behavior. Behavioral data were provided by ref. 2. The mean and s.d. of direction
+estimates are taken from the combined results for three owls.
+ITD model. ITD was modeled as a sinusoidal function of source direction, corrupted by Gaussian noise. The amplitude and frequency of the sinusoid Asin(??)
+were fit to the mapping between azimuth and the ITD in the signals received near
+the tympanic membranes measured previously2. The period corresponds to the
+interpeak distance and the amplitude is the average magnitude of the positive and
+negative extrema. The fit was performed for the mapping measured for an owl in the
+normal condition and for the owl after the facial ruff feathers were removed2.
+Bayesian estimate of direction. The Bayesian estimate of stimulus direction ?
+from ITD is given by the mean of ? under the posterior distribution p(?|ITD).
+The mean direction is found by first computing the vector that points in the
+mean direction as
+BV u p d u p p d = ?
+- -
+? ? ( ) ( | ) ( ) ( | ) ( ) q q q q q q q
+p
+p
+p
+p
+ITD ITD
+where u(?) is a unit vector pointing in direction ? and the proportionality
+follows from Bayes’ rule
+p p p
+p ( | ) ( | ) ( )
+( )
+q q q ITD ITD
+ITD =
+The direction estimate is computed from the mean vector using the inverse
+tangent function as
+q = p
+?
+?
+? ?
+?
+? >
+?
+?
+? ?
+?
+? +
+arctan ( )
+( ) ; ( )
+arctan ( )
+( ) ;
+BV
+BV
+BV
+BV
+BV
+B
+2
+1
+1 0
+2
+1
+V BV
+BV
+BV
+BV BV
+( ) , ( )
+arctan ( )
+( ) ; ( ) , ( )
+2 0 1 0
+2
+1
+2 0 1 0
+= <
+?
+?
+? ?
+?
+? - = <
+?
+?
+?
+p
+?
+??
+?
+?
+?
+?
+?
+Alternative models of behavior: uniform prior and maximum likelihood.
+To test the performance of a Bayesian estimator with a uniform prior, we used a
+prior density that was constant over the circle. The maximum likelihood estimate
+is the direction that maximizes the likelihood function p(ITD|?).
+Natural variability of ITD. We measured the variability in the ITD of the signals
+received at the owl’s ears as a result of signal type and elevation using head-related
+transfer functions19 (HRTFs). The HRTF is the transfer function that describes
+the mapping from a sound signal at a direction in space to the sound signal measured near the tympanic membrane. For each horizontal direction, we computed
+the ITD in the signals obtained by filtering a source signal with HRTFs at the
+horizontal direction and over the range of elevations covering the frontal hemisphere in 5-deg steps, measured in double polar coordinates. Source signals were
+taken from a set of 200 natural sound segments obtained by randomly selecting
+20 segments of 100 ms each from 10 natural sound signals23. ITD was computed
+from the peak in the cross-correlation of the left and right signals, with the range
+of possible ITDs limited to ±260 µs.
+We used a previously described cross-correlation model20, where input signals
+are first filtered with a bank of gammatone bandpass filters, cross-correlation is
+performed in each frequency channel, and the resulting cross-correlation outputs from each frequency channel are then linearly combined using a frequencydependent weighting that matches the owl’s sensitivity to frequency.
+Variability of ITD and interaural correlation. We used the cross-correlation
+model to determine how variability in ITD depends on interaural correlation.
+Interaural correlation was varied by adding independent noise to the left and right
+ear input signals. The noise and input signals were Gaussian signals with a flat
+spectrum up to 12 kHz20. Here, we are calculating the variability in ITD solely
+as a result of interaural correlation; this dependence does not depend on sound
+direction in the model. Thus, the ITD of the input signals was 0 µs. Interaural
+correlation was given by 1/(1+k2) where k is the ratio of the r.m.s. amplitudes of
+the noise and target sound signals20.
+Optic tectum model. The model consisted of a population of N directionselective neurons. The preferred directions were drawn independently from the
+Gaussian-shaped prior distribution on direction. The prior density is given by
+p Z ( ) q e s q
+=
+- 1 1
+2 2 2
+where the constant Z normalizes the density over the circle.
+The neural tuning curves, as a function of ITD, are proportional to the likelihood function and are given by
+a a e n
+n
+( ) max
+( )
+ITD
+ITD
+=
+- - 1
+2 2 2
+s m
+h
+where µn=Asin(??n) and ?n are the preferred direction. Responses to a given
+stimulus direction were simulated by first generating an ITD value according to
+ITD=A sin(??)+?, where ? is drawn from a zero-mean Gaussian distribution
+with variance of sh
+2
+. The tuning curves as a function of direction are found by
+inserting the sinusoidal mapping from direction to ITD into the above equation
+and are given by
+a a e n
+A n
+( ( )) max
+( sin( ) )
+ITD q s wq m
+h =
+- - 1
+2 2 2
+Note that the width parameter sh
+2 is the same for all neurons. The maximum
+firing rate was set to 10 spikes per s. During simulations, the neurons have independent Poisson distributed firing rates with mean values given by the neural
+tuning curves an(ITD(?)).
+To determine the density of preferred directions in optic tectum, we obtained
+measured pairs of preferred direction and auditory space map position from
+Figure 13a in ref. 28 using the Matlab function grabit.m (Mathworks).
+Population vector. The population vector is computed as a linear combination of
+the preferred direction vectors of the neurons, weighted by the firing rates
+PV
+N r u n n
+n
+N
+( ) ( ) ( ) ITD ITD =
+=
+?
+1
+1
+q
+where u(?n) is a unit vector pointing in the nth neuron’s preferred direction
+and rn(ITD) is the firing rate of the nth neuron, drawn either from a Poisson or
+Gaussian distribution as described above. The direction estimate is found by
+computing the direction of the population vector using the inverse tangent, as
+described above for the Bayesian estimate.
+Modeling correlated variability. To test the effect of correlated firing rate
+variability on the approximation of the Bayesian estimator by the population
+vector, simulations were performed where the neurons have independent
+Gaussian distributed firing rates with mean values given by the neural tuning
+curves an(ITD(?)) and covariance matrix S with entries
+( ( )) ( ( )) ( ( )) ( ( )), ITD q d r d q q ITD ITD ij ij ij i j ? = + -1 a a
+where ? is the correlation coefficient between neurons and dij = 1 if i = j and dij = 0
+if i ? j. This form of the covariance matrix causes the variance to equal the mean,
+as in the Poisson model. For all simulations, direction estimates were obtained
+for the population vector and the Bayesian estimators over 150 trials.
+© 2011 Nature America, Inc. All rights reserved. © 2011 Nature America, Inc. All rights reserved.

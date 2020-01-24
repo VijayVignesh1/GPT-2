@@ -1,0 +1,899 @@
+Quasimodo mediates daily and acute light effects on
+Drosophila clock neuron excitability
+Edgar Buhla,b,1, Adam Bradlaughc,d, Maite Oguetac,e, Ko-Fan Chenf
+, Ralf Stanewskyc,e,1,2, and James J. L. Hodgea,2
+a
+School of Physiology, Pharmacology and Neuroscience, University of Bristol, Bristol BS8 1TD, United Kingdom; b
+Hatherly Laboratories, University of Exeter
+Medical School, University of Exeter, Exeter EX4 4PS, United Kingdom; c
+Department of Cell and Developmental Biology, University College London, London
+WC1E 6DE, United Kingdom; d
+School of Biological and Chemical Sciences, Queen Mary College, London E1 4NS, United Kingdom; e
+Institute for Neuro- and
+Behavioral Biology, Westfälische Wilhelms University, 48149 Muenster, Germany; and f
+Institute of Neurology, University College London, London WC1N
+3BG, United Kingdom
+Edited by Joseph S. Takahashi, Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Dallas, TX, and approved October 5, 2016
+(received for review April 27, 2016)
+We have characterized a light-input pathway regulating Drosophila
+clock neuron excitability. The molecular clock drives rhythmic electrical excitability of clock neurons, and we show that the recently
+discovered light-input factor Quasimodo (Qsm) regulates this variation, presumably via an Na+, K+, Cl− cotransporter (NKCC) and the
+Shaw K+ channel (dKV3.1). Because of light-dependent degradation
+of the clock protein Timeless (Tim), constant illumination (LL) leads
+to a breakdown of molecular and behavioral rhythms. Both overexpression (OX) and knockdown (RNAi) of qsm, NKCC, or Shaw led to
+robust LL rhythmicity. Whole-cell recordings of the large ventral
+lateral neurons (l-LNv) showed that altering Qsm levels reduced
+the daily variation in neuronal activity: qsmOX led to a constitutive
+less active, night-like state, and qsmRNAi led to a more active, daylike state. Qsm also affected daily changes in K+ currents and the
+GABA reversal potential, suggesting a role in modifying membrane
+currents and GABA responses in a daily fashion, potentially modulating light arousal and input to the clock. When directly challenged
+with blue light, wild-type l-LNvs responded with increased firing at
+night and no net response during the day, whereas altering Qsm,
+NKKC, or Shaw levels abolished these day/night differences. Finally,
+coexpression of ShawOX and NKCCRNAi in a qsm mutant background
+restored LL-induced behavioral arrhythmicity and wild-type neuronal activity patterns, suggesting that the three genes operate in the
+same pathway. We propose that Qsm affects both daily and acute
+light effects in l-LNvs probably acting on Shaw and NKCC.
+circadian rhythms | light input | membrane excitability | GABA reversal
+potential | potassium currents
+All organisms are subject to predictable but drastic daily environmental changes caused by the earth’s rotation around
+the sun. It is critical for the fitness and well-being of an individual
+to anticipate these changes, and this anticipation is done by circadian timekeeping systems (clocks). These regulate changes in behavior, physiology, and metabolism to ensure they occur at certain
+times during the day, thereby adapting the organism to its environment (1). The circadian system consists of three elements: the
+circadian clock to keep time, inputs that allow entrainment, and
+outputs that influence physiology and behavior (2). Like a normal
+clock, circadian clocks run at a steady pace (24 h) and can be reset.
+In nature this environmental synchronization is done via daily light
+and temperature cycles, food intake, and social interactions (3).
+In Drosophila the central clock comprises 75 neuron pairs
+grouped into identifiable clusters that subserve different circadian functions (Fig. 1A). The molecular basis of the circadian
+clock is remarkably conserved from Drosophila to mammals (4).
+This intracellular molecular clock drives clock neurons to express
+circadian rhythms in electrical excitability, including variation in
+membrane potential and spike firing. Clock neurons are depolarized and fire more during the day than at night, and circadian
+changes in the expression of clock-controlled genes encoding
+membrane proteins such as ion channels and transporters likely
+contribute to these rhythms (5–8). Such cyclical variations in
+activity play a critical role in synchronizing different clock neurons and conveying circadian signals to other parts of the nervous
+system and body (9, 10). Furthermore, they provide positive feedback to the molecular clock, which can dampen rapidly without such
+feedback (7, 11, 12).
+Light resets the circadian clock every morning to synchronize
+the clock to the environment via Timeless (Tim) degradation
+after activation of the blue-light photoreceptor Cryptochrome
+(Cry), Quasimodo (Qsm), and potentially also visual photoreceptors (13–17). Qsm acts either independently or downstream
+of Cry and also is able to affect clock protein stability in Qsmnegative neurons by an unknown non–cell-autonomous mechanism
+(16). Recently Cry has been shown to regulate clock neuron excitability via the redox sensor of the Hyperkinetic voltage-gated potassium (KV)-β subunit (Hk) (18, 19), and here we ask if Qsm
+affects the clock neurons in a similar way.
+Membrane potential is important for control of circadian behavior,
+and manipulation of Shaw and the Narrow Abdomen (NA) channels,
+both of which are expressed and function within clock neurons influence neuronal electrical activity, the circadian clock, and clockcontrolled behavior in both flies (20–22) and mice (23–25). The firing
+rate is a key component in mammalian circadian rhythmicity and can
+be regulated by regional and circadian expression of the sodium
+potassium chloride cotransporter NKCC, which switches the effects
+of GABA from inhibitory to excitatory across the day (26, 27).
+Here we show that down-regulation or overexpression of the
+three membrane proteins encoded by the genes qsm, Shaw, and
+Significance
+Most organisms developed a circadian clock to adapt their
+behavior to daily changes of light and temperature. The molecular clock is remarkably conserved across species with much
+of our current understanding coming from Drosophila studies.
+To generate circadian behavior, appropriate levels of neuronal
+electrical activity are crucial, but the regulators of this activity
+have remained largely elusive. Here we identify three membrane proteins that interact to set the clock neurons to “day” or
+“night,” forming a light-input pathway to the circadian clock.
+The membrane-anchored extracellular protein Quasimodo affects both the daily changes in physiological properties and
+light responses of brain clock neurons, possibly acting upstream of the potassium channel Shaw and the Na+, K+, Cl− ion
+transporter NKCC.
+Author contributions: E.B., R.S., and J.J.L.H. designed research; E.B., A.B., M.O., and K.-F.C.
+performed research; K.-F.C. contributed new reagents/analytic tools; E.B., A.B., M.O., K.-F.C.,
+and R.S. analyzed data; and E.B., R.S., and J.J.L.H. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence may be addressed. Email: e.buhl@bristol.ac.uk or r.stanewsky@
+ucl.ac.uk.
+2
+R.S. and J.J.L.H. contributed equally to this work.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1606547113/-/DCSupplemental.
+13486–13491 | PNAS | November 22, 2016 | vol. 113 | no. 47 www.pnas.org/cgi/doi/10.1073/pnas.1606547113
+NKCC leads to rhythmicity in constant illumination (LL) and that
+these genes interact. All three genes are expressed in the wellcharacterized pigment-dispersing factor (Pdf)- and Cry-positive large
+ventral lateral neurons (l-LNv) (21, 28), which are important for
+arousal and light input to the clock (18, 19, 29–32). We used wholecell recordings of l-LNvs to characterize their physiological properties and acute light effects across the day and found that Qsm helps
+set the circadian state of clock neurons and modifies their response
+to light, possibly by acting via Shaw and NKCC.
+Results
+Rhythmic LL Behavior and the Interaction of Qsm with Shaw and
+NKCC. Light resets the circadian clock, and consequently, wildtype flies displayed arrhythmic behavior in constant dim white
+light (LL, 10 μW/cm2
+), whereas cry02 loss-of-function mutants
+were rhythmic (Fig. 1 B and C and Table S1) (15, 33). Previously
+we have shown that Qsm triggers Tim degradation within clock
+cells, and knockdown of qsm [qsmRNAi, i.e., >70% reduction of
+qsm mRNA (16)] in all clock neurons using tim-gal4 resulted in
+robust long-period (∼27-h) locomotor rhythms in LL (16). We
+confirmed that qsmRNAi induces robust and long-period rhythms
+in LL using two independent qsm-RNAi lines. Interestingly, qsm
+overexpression (qsmOX) led to shorter, ∼13-h rhythms, most
+likely reflecting the persistence of morning and evening activity
+peaks in LL.
+Because NKCC interacts physically with Qsm in yeast (34) and
+because Shaw expression in clock neurons partially overlaps with
+the expression of qsm (16, 21), we tested whether NKCC and
+Shaw would also affect LL behavior. Changing levels of both
+NKCC and Shaw resulted in flies that were rhythmic in dim LL.
+Like qsmRNAi flies, flies overexpressing NKCC (NKCCOX flies)
+exhibited long periods (∼29 h), whereas NKCC knockdown
+[NKCCRNAi ; an ∼70% reduction of mRNA (Fig. S1)] and Shaw
+knockdown [ShawRNAi ; an ∼90% reduction of Shaw (29)]
+resulted in ∼13-h periods, reflecting potential bimodal behavior
+similar to that of qsmOX. Shaw overexpression (ShawOX) induced
+remarkably robust ultradian rhythms with an ∼4-h period, indicating compromised circadian clock function (21) and uncovering an underlying ultradian rhythm presumably generated by a
+membrane-based oscillator. These manipulations did not affect
+behavior in constant darkness (DD) (Table S2), with the exception of ShawOX, which led to arrhythmicity as previously
+reported (21).
+The light sensitivity of wild-type flies is also influenced by the
+naturally occurring s-tim/ls-tim polymorphism (35, 36), and we
+therefore performed experiments with both alleles. In all tested
+cases (qsmOX, qsmRNAi, ShawRNAi, and NKCCOX), s-tim caused a
+dramatic (∼50%) reduction in the percentage of rhythmic flies
+compared with ls-tim flies and often was correlated with period
+lengthening (Fig. S2 and Table S1). This result fits well with the
+previous observation that flies carrying the s-tim allele are more
+light sensitive than their ls-tim counterparts, and the dramatic
+behavioral difference caused by the two alleles underscores their
+biological importance (35, 36).
+Because the tim-gal4 driver is also expressed in the photoreceptor cells of the compound eyes, we also tested flies with impaired visual system function. Similar to wild-type flies, flies
+lacking (i) all external photoreceptors (gl60j) (15), or (ii) phospholipase C-β required for the visual phototransduction cascade
+(norpAP41) (37), or (iii) histamine, the principal neurotransmitter
+of the visual system (HdcJK910) (38), became virtually arrhythmic
+during LL (Table S1). These results strongly suggest that the timgal4–mediated LL rhythmicity is induced by the alteration of qsm,
+Shaw, and NKCC expression within the clock neuronal network.
+To test directly for genetic interactions, we determined the
+effects of altering Shaw and NKCC levels on the LL-rhythmic
+phenotype induced by reducing Qsm. We used qsm105, an intragenic gal4 insertion line that reduces qsm expression, and induced ∼37% LL rhythmicity in heterozygous (qsm105 > +) flies
+(Fig. 1 B and C and Table S1) (16). With the qsm105 driver, both
+ShawOX and NKCCRNAi induced wild-type scores of LL rhythmicity
+(i.e., 2%), whereas the opposite manipulation led to increased
+rhythmicity scores (54% and 81%, respectively). The apparent genetic interaction among qsm, Shaw, and NKCC suggests that they
+function in the same pathway. We propose that Qsm influences
+membrane properties via ion channels (Shaw) and transporter
+proteins (NKCC) that in turn might influence the molecular responses of circadian clock neurons to light.
+Qsm Affects Daily Changes in Physiological Properties. To determine
+how Qsm, Shaw, and NKCC might contribute to clock neuronal
+activity, we examined their neurophysiological roles by performing whole-cell recordings from l-LNv with altered qsm,
+Shaw, or NKCC expression using Pdf-gal4 and uas-RFP (Fig. S3
+A and B). We focused on the l-LNv because they represent the
+electrophysiologically best-characterized clock neuronal cell type
+and because they express qsm, Shaw, and NKCC (8, 21, 28).
+(b) tim>qsmOX (c) tim>qsmRNAi (a) tim>+ (d) tim>ShawOX
+(k) qsm105>NKCCOX (l) qsm105>NKCCRNAi (j) qsm105>ShawRNAi (i) qsm105>ShawOX
+(e) tim>ShawRNAi (f) tim>NKCCOX (g) tim>NKCCRNAi (h) qsm105>+
+(m) cry02
+rhythmic percentage
+0
+25
+50
+75
+100
+(a)
+44
+(b)
+32
+(c)
+29
+(d)
+22
+(e)
+23
+(f)
+53
+(g)
+23
+(h)
+19
+(i)
+45
+(j)
+24
+(k)
+16
+(l)
+45
+(m)
+29
+circadian
+/ bimodal
+arrhythmic
+ultradian
+B
+A
+ocelli
+lamina
+compound eye HB-eyelet
+accessory medulla
+medulla
+dorsal
+lateral
+Cry
+Pdf
+LNd DN2
+DN1
+DN3
+LPN
+s-LNv
+5th s-LNv
+l-LNv
+C
+Fig. 1. The Drosophila circadian clock and LL behavior. (A) Cartoon of the
+Drosophila brain showing the ∼75 pairs of clock neurons forming several groups
+[six dorsal lateral neurons (LNd); four large and four small Pdf-expressing ventral
+lateral neurons (LNv) and a single Pdf-negative neuron (fifth s-LNv); three lateral
+posterior neurons (LPN); and dorsal neurons (16 DN1, 2 DN2, 40 DN3)] and the
+potential light input pathways (yellow arrows) via classical photoreceptors,
+ocelli, the HB-eyelet, and Cry+ neurons. (B) Double-plotted actograms of exemplary individual flies of the indicated genotypes recorded for the first 3 d in
+a 12-h:12-h light/dark cycle (LD) (gray, lights off; white, lights on) and then in
+LL. (C) Bar graph specifying the percentage of flies showing circadian or bimodal (black bars), ultradian (light gray bars), or arrhythmic (open bars) behavior for each genotype as indicated by small letters referencing the
+subpanels in B. Numbers in bars state the number of flies of each genotype.
+Buhl et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13487
+NEUROSCIENCE
+Although physiological parameters showed variability among
+recordings of different animals, wild-type l-LNvs showed a more
+depolarized resting membrane potential (RMP) and a higher
+spontaneous firing rate (SFR) in the day than at night (Fig. 2 A
+and B and Table S3) (5, 31). In daytime recordings, qsmOX led to
+a more hyperpolarized RMP and reduced SFR that were very
+similar to control and qsmOX nighttime recordings. In contrast,
+qsmRNAi depolarized the neurons and increased SFR at night to
+levels similar to those in wild-type and qsmRNAi l-LNvs. We tested
+two qsmRNAi lines targeting different regions of the qsm transcript
+(16) and did not observe a difference between the two lines (pooled
+data are shown). Interestingly, the differences in daytime and
+nighttime RMP and SFR in wild-type l-LNvs were abolished in both
+qsmOX and qsmRNAi l-LNvs. Resembling the changes seen for qsm,
+ShawOX led to more hyperpolarized, less active neurons, and
+ShawRNAi led to more depolarized and more actively firing neurons.
+NKCC manipulations had the opposite effect, with NKCCOX
+depolarizing and activating the neurons, in particular at nighttime,
+and with NKCCRNAi hyperpolarizing and inactivating the neurons.
+Qsm Affects Daily Changes in K+ Currents and the GABA Reversal
+Potential, and Qsm Interacts with Shaw and NKCC. To elucidate
+potential mechanisms by which Qsm could affect physiological
+properties, we tested whether the effect might be caused by alterations in voltage-dependent somatic currents affecting the
+RMP. We examined the current–voltage relationships of l-LNvs
+and measured the non-inactivating currents that include Shaw
+(Fig. 2 C and D and Table S4) (39, 40). We analyzed the sustained current densities of wild-type l-LNvs at daytime and
+nighttime and could not detect any difference around the RMP,
+most likely because of masking by the leak-current subtraction.
+There was a difference, however, at positive holding potentials
+(+100 mV), with current densities at night being >30 pA/pF
+larger than in the day, suggesting more potassium channels were
+open at night. ShawOX resulted in a high current density similar to
+that recorded in wild-type l-LNvs at night, whereas ShawRNAi values
+matched wild-type daytime recordings, indicating that Shaw is involved in the observed day/night difference. Mimicking Shaw,
+qsmOX had high current densities similar to those in wild-type
+l-LNvs at night, and qsmRNAi currents matched wild-type day levels.
+This observation suggests that Qsm interacts with voltage-gated
+potassium channels such as Shaw in setting membrane properties.
+Manipulating NKCC levels had an effect on RMP and SFR,
+and although NKCC activity is electrically neutral, NKCC pumps
+chloride ions into the cell, increasing the intracellular chloride
+concentration. We therefore tested whether the GABA reversal
+potential (EGABA) of l-LNvs also changes across the day by
+injecting GABA (10 ms, 25 mM, 10 psi) into the ipsilateral medulla.
+In all cases spiking activity was affected. We measured the induced
+currents and calculated EGABA from the resulting I–V curve (Fig. 2
+E–H and Table S5). During the day the EGABA was more positive
+(>10 mV), making GABA input less effective. GABA injections in
+the daytime or nighttime increased the EGABA in NKCCOX brains
+and had the opposite effect in NKCCRNAi brains in which the EGABA
+was more negative, thereby mimicking the wild-type day/night
+change. Changing Qsm levels also had an effect that again was in the
+opposite direction of NKCC, with qsmOX decreasing and qsmRNAi
+increasing the EGABA. Strikingly, in some cases the EGABA was more
+positive than the RMP and GABA consequently acted as an excitatory neurotransmitter that induced firing (Fig. 2G, red arrow in the
+top trace). These results suggest that Qsm interacts with NKCC and
+that they participate in the daily change in GABA efficiency.
+To characterize the interaction of Qsm with Shaw and NKCC
+further, we tested whether altering levels of Shaw and NKCC
+could rescue some of the qsm-induced physiological changes. We
+used tim-gal4 > qsmRNAi to reduce Qsm expression in all clock
+neurons and found an effect similar to that seen with Pdf-gal4.
+Again we did not observe a difference between day and night,
+but the resulting firing rate was much higher (Fig. 3 and Table
+S3), suggesting additional network effects. We then coexpressed
+qsmRNAi with ShawOX and NKCCRNAi and could rescue the
+***
+***
+***
+***
+***
+***
+** **
+***
+*
+* *
+RMP (mV) -40
+-45
+-55
+-50
+-70
+-65
+-60
+-40
+-45
+-55
+-50
+-70
+-65
+-60
+A DAY (ZT 1-3) NIGHT (ZT 13-15)
+wild-type
+qsmOX
+qsmRNAi
+ShawOX
+ShawRNAi
+NKCCOX
+cry02
+NKCCRNAi
+wild-type
+qsmOX
+qsmRNAi
+ShawOX
+ShawRNAi
+NKCCOX
+cry02
+NKCCRNAi
+BSFR (Hz)
+5
+4
+2
+3
+0
+1
+8
+4
+2
+3
+0
+1
+6
+15 10 11 9 10 7 4 10
+15 10 11 9 10 7 4 10
+11 9 10 6 6 6 4 7
+11 9 10 6 6 6 4 7
+**
+68 6655
+* D * Current+100 mV (pA/pF) 20
+40
+60
+0
+80
+100
+qsmOX
+qsm
+day
+RNAi
+night
+ShawOX
+ShawRNAi
+***
+78 5555
+**
+***
+E wild-type day wild-type night NKCCOX NKCCRNAi
+2 s
+20 mV
+20 pA
+-113
+-93
+-83
+-73
+-63
+-53
+qsmOX qsmRNAi H
+-113
+-93
+-83
+-73
+-63
+-53
+G
+F
+EGABA (mV) -60
+-75
+-70
+-65
+-80
+-55
+-50
+qsmOX
+qsm
+day
+RNAi
+night
+NKCCOX
+NKCCRNAi
+C
+Fig. 2. Daily changes in the physiological properties of l-LNvs. (A) Changes
+in the RMP of wild-type neurons (black bars) and l-LNvs with altered levels
+(Pdf-gal4) of qsm (blue bars), Shaw (green bars), and NKCC (red bars), and
+cry02 mutants (purple bars) in the day (Left) and at night (Right). Solid colored bars represent overexpression and open bars indicate RNAi knockdown
+of the respective genes. Data are presented as means; whiskers indicate the
+SD; the numbers in bars state the numbers of neurons for each genotype.
+The dotted red line represents wild-type daytime values, and the dashed
+black line indicates wild-type nighttime values. (B) SFR of the genotypes in A.
+(C) Current densities (measured at time point indicated by the green bar in
+the example shown in the inset) for wild-type l-LNvs in the daytime (open
+black circles) and nighttime (closed black circles), ShawOX l-LNvs (closed
+green circles), ShawRNAi l-LNvs (open green circles), qsmOX l-LNvs (closed blue
+circles), and qsmRNAi l-LNvs (open blue circles). Data are presented as
+means; whiskers indicate the SD. (D) Quantification of the current density at
++100 mV. (E–G) Representative examples of the GABA response of a wildtype l-LNv (E), NKCCOX and NKCCRNAi (F), and qsmOX and qsmRNAi (G) during
+the daytime (Left) and nighttime (Right). The top trace in each panel is the
+current-clamp response to GABA (10 ms, 25 mM, 10 psi) at the arrowhead.
+Bottom traces show the same neuron and the GABA pulse in voltage clamp
+held at the indicated potentials. Note the red arrow in G pointing to occasional excitatory GABA effects for qsmRNAi. (H) Quantification of EGABA for
+the indicated genotypes. *P < 0.05, **P < 0.01, ***P < 0.001; one-way
+ANOVA with Dunnett’s (A and B) test or Tukey’s (D and H) post hoc test (*) or
+t test (#
+).
+13488 | www.pnas.org/cgi/doi/10.1073/pnas.1606547113 Buhl et al.
+elevated firing rate to wild-type levels, mimicking the behavioral
+rescue experiments and further supporting a cell-autonomous
+interaction of Qsm with Shaw and NKCC. Interestingly, ShawOX
+seems to be more effective than NKCCRNAi, and the rescue was
+less pronounced at night.
+In summary, overexpression and RNAi knockdown of qsm and
+Shaw resulted in opposing phenotypes compared with NKCC
+manipulations. Interestingly, qsmOX or ShawOX and NKCCRNAi
+promote the less active nighttime state, whereas qsmRNAi, ShawRNAi
+and NKCCOX push the neurons into the more depolarized daytime
+state, eliminating the acute differences between daytime and
+nighttime in all cases. Furthermore, Qsm interacts with Shaw and
+NKCC to affect potassium currents and the EGABA.
+Effects of Acute Light on l-LNvs and Its Modulation by Qsm. Altering
+the levels of Qsm, Shaw, and NKCC led to LL rhythmicity, suggesting an impairment of the light input to the circadian clock.
+Because the visual system mutants became arrhythmic, the alteration of Qsm, Shaw, and NKCC within clock neurons must be responsible for the observed LL rhythmicity. Although l-LNv neurons
+are unlikely to be mediators of rhythmic behavior in LL (16, 41–43),
+they are arousal neurons that are activated by blue light via Cry (18).
+Therefore we tested the response of l-LNvs to light in isolated
+brains, i.e., in the absence of all canonical photoreceptors including
+the compound eye, the HB-eyelet, and the ocelli, leaving only deepbrain photosensitive pathways (e.g., Cry) intact.
+At night all tested wild-type neurons responded to blue light
+with a slight depolarization and an increase in firing rate, either
+directly at lights-on (Fig. 4A) or after a brief startle response
+(Fig. 4A, Bottom), often outlasting the stimulus by tens of seconds before eventually returning to the baseline firing rate. On
+average, the spiking in response to blue light at night increased
+by 1–2 Hz to levels near the resting firing rate in the daytime
+(Fig. 5A and Table S3). In the daytime the response was different,
+more complex, and variable. Some neurons briefly increased (n = 2)
+or decreased firing (n = 5), but on average there was not much
+change in firing frequency, a response clearly different from that
+observed at night and suggesting daily variation in the responsiveness and light sensitivity of the clock. We occasionally (n =
+8) observed a startle response with a brief period of either increased
+firing or no firing immediately after the lights-on transition both at
+day and night. Consistent with published data (18), the effect was
+seen only with blue (470 nm) and not with green (555 nm) (Fig.
+S3C) or red (625 nm) light. cry02 l-LNvs did not respond to blue
+light (Fig. S3D) but had day/night changes in RMP and SFR similar
+to those in control l-LNv, indicating that Cry is not required for the
+regulation of neuronal electrical activity by the circadian clock.
+qsmOX always led to neurons with diminished firing frequency in
+response to the light pulse (Fig. 4B). Therefore, qsmOX l-LNvs behaved rather like cry02 neurons, the control neurons exposed to
+green light, or the daytime wild-type neurons. qsmRNAi, in contrast,
+always led to an increase in the spike rate in response to blue light
+similar to that seen in wild-type night recordings but starting from a
+higher baseline rate (Fig. 4C). The average change in firing was very
+similar to the wild-type nighttime response and was independent of
+the time of day (Fig. 5A and Table S3). Light pulses in the presence
+of up- or down-regulation of Shaw resulted in changes similar to
+those seen with the equivalent alterations of qsm expression, and
+NKCC manipulations resulted in opposite changes (Fig. S3 E–H).
+In summary, wild-type flies show a differential day/night response to
+blue-light pulses, but no such difference was seen in flies with Qsm,
+Shaw, and NKCC manipulations, the response of these flies being
+determined instead by the respective up- or down-regulation of
+gene expression.
+Discussion
+Light is the dominant circadian zeitgeber that resets the molecular
+clock. In this study we determined how light affects membrane
+***
+***
+**
+***
+*
+RMP (mV) -40
+-45
+-55
+-50
+-70
+-65
+-60
+A DAY (ZT 1-3) NIGHT (ZT 13-15)
+B
+SFR (Hz) 8
+4
+6
+0
+2
+9 8 9 7 7 7
+qsmRNAi / GFP
+qsmRNAi / ShawOX
+-60
+-30
+-40
+-50
+qsmRNAi / NKCCRNAi
+2 s
+day night day night day night
+9 8 9 7 7 7
+day night day night day night
+MP (mV) -50
+-30
+-40
+-20
+-60
+-20
+-40
+MP (mV) -60
+-30
+-40
+-50
+-60
+-20
+-40
+MP (mV)
+-60
+-50
+-30
+-40
+qsmRNAi /
+NKCCRNAi
+qsmRNAi /
+ShawOX
+qsmRNAi /
+GFP
+qsmRNAi /
+NKCCRNAi
+qsmRNAi /
+ShawOX
+qsmRNAi /
+GFP
+Fig. 3. Physiological interaction of qsm with Shaw and NKCC. (A) Representative traces of l-LNvs coexpressing qsmRNAi with GFP (tim-gal4, control) (Top),
+ShawOX (Middle), and NKCCRNAi (Bottom) in the daytime (Left) and nighttime
+(Right). MP, membrane potential. (B) Quantification and statistical analysis of
+RMP (Left) and SFR (Right) showed a rescue of the qsmRNAi phenotype by both
+ShawOX and NKCCRNAi. For reference, the dotted red line indicates wild-type
+daytime values, and the dashed black line indicates nighttime values (from Fig.
+2 A and B). Data are presented as means; the whiskers indicate SD. The numbers
+in the bars show the number of recorded neurons for each genotype. *P < 0.05,
+**P < 0.01, ***P < 0.001; one-way ANOVA with Tukey’s post hoc test.
+MP (mV) -55
+-35
+-45
+-60
+-40
+-30
+-50
+A F (Hz)
+wild-type wild-type
+DAY (ZT 1-3) NIGHT (ZT 13-15)
+6
+0
+4
+2
+11
+-50
+-30
+-40
+MP (mV) -50
+-30
+-40
+6
+0
+4
+2
+15
+MP (mV) -55
+-35
+-45
+F (Hz) 6
+0
+4
+2
+B
+qsmOX qsmOX
+MP (mV) -20
+-50
+-30
+-40
+F (Hz)6
+0
+4
+2
+C
+qsmRNAi qsmRNAi
+10
+11
+-60
+-30
+-40
+-50
+6
+0
+4
+2
+-50
+-60
+-30
+-40
+6
+0
+4
+2
+9
+10
+60 s
+Fig. 4. Acute blue-light response of l-LNvs in daytime and nighttime.
+(A) Response of wild-type neurons to blue light in the daytime (Left) and
+nighttime (Right). ZT, zeitgeber time. (B and C) l-LNvs with altered qsm levels
+(Pdf-gal4) showed no differential response depending on the time of day but
+did show a differential response depending on the level of expression. (Upper)
+Examples of traces of a current-clamp recording of a l-LNv for 1 min before, 30 s
+during, and for 2.5 min after exposure to light (indicated by blue bar). (Lower)
+Quantification of the light response from multiple recordings. The solid line
+indicates the mean, and gray shading indicates the SD. The number of recorded
+neurons for each genotype is indicated. F, firing frequency; MP, membrane
+potential.
+Buhl et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13489
+NEUROSCIENCE
+excitability via the membrane proteins Qsm, Shaw, and NKCC.
+Previously we have shown that Qsm contributes to circadian clock
+light input with down-regulation in all clock neurons (tim-gal4)
+resulting in robust rhythmic behavior in LL (16). Here we show
+that overexpression (qsmOX) also results in robust LL rhythmicity,
+but with predominantly ∼13-h periods, suggesting a more robust
+morning oscillator that is normally weakened in DD conditions
+(Fig. 1 and Table S1). Manipulating the expression levels of both
+the potassium channel Shaw and the ion cotransporter NKCC also
+resulted in LL rhythmicity, whereas several visual system mutants
+behaved like wild-type flies and became arrhythmic. These experiments show that the membrane proteins encoded by qsm, Shaw,
+and NKCC control rhythmic behavior in LL. Furthermore, the
+rescue of wild-type behavior and neurophysiological properties by
+reciprocal changes of Qsm and Shaw and by the simultaneous reduction of Qsm and NKCC suggests that Qsm interacts genetically
+and perhaps directly with Shaw and NKCC.
+Clock neurons are more depolarized and fire more during the
+daytime, and circadian changes in the expression of clock-controlled genes such as ion channels and transporters are likely to
+play a part (7, 8). Contributing to this rhythm is a sodium leak
+current mediated by NA that recently has been shown to depolarize Drosophila clock neurons (22). Here we show that Shaw,
+NKCC, and Qsm also contribute to daily electrical activity
+rhythms: overexpression and RNAi knock-down of qsm and
+Shaw compared with NKCC resulted in opposing phenotypes.
+Interestingly, qsmOX or ShawOX and NKCCRNAi promote the less
+active nighttime state, whereas qsmRNAi, ShawRNAi, and NKCCOX
+push the neurons into the more depolarized daytime state, eliminating the acute day/night differences in all cases (Fig. 2 and
+Table S3). We have shown previously that Shaw regulates circadian behavior (21) and that, in agreement with our current findings, Shaw regulates membrane potential and firing in Drosophila
+motoneurons (29, 44). NKCC activity is electrically neutral but
+increases the intracellular Cl− concentration so that the GABAA
+receptor opens in response to GABA but, as a consequence, Cl−
+presumably exits the cell down its electrochemical gradient, thereby
+depolarizing the membrane potential so that GABA effectively
+becomes an excitatory neurotransmitter (6, 12, 26, 29, 45). Our
+data show that in Drosophila a similar mechanism occurs, which is
+consistent with potential NKCC enrichment in l-LNv at dawn (28).
+The mechanism setting the neuronal state to either daytime or
+nighttime via Qsm, Shaw, and NKCC is likely to be predominantly
+cell-autonomous, because all components have been shown to act
+or to be expressed in the l-LNv (8, 21, 28). Although in an earlier
+study (16) using qsm-gal4 lines we did not detect qsm expression in
+the l-LNv, these lines may not report expression faithfully in all qsm
+cells. Now, the finding that qsm RNA is enriched in the l-LNv (28),
+combined with the strong effects of two qsm-RNAi lines on l-LNv
+electrical properties presented in this study, indicates that qsm is
+endogenously expressed in these neurons.
+Our physiological studies are limited to the Pdf-expressing
+l-LNv neurons. These neurons are unlikely candidates for driving
+behavioral rhythms in LL (41–43), and we showed previously
+that qsm knockdown in Pdf neurons (s-LNv and l-LNv) does not
+result in robust LL rhythmicity (16). Therefore the effects of
+light on the electrical properties of l-LNv reported here do not
+necessarily explain the LL rhythmicity observed after manipulating qsm, Shaw, and NKCC in all clock neurons. However, the
+electrophysiological results using tim-gal4 show that Qsm, Shaw,
+and NKCC could fulfill similar functions in other clock neurons,
+including those crucial for LL rhythmicity (e.g., LNd and DN1).
+Additionally, or alternatively, the manipulated l-LNv could generate
+signals interfering with normal network function, resulting in the
+observed rhythmic LL behavior.
+Although qsm is a clock-controlled gene (16, 28, 46), the acute
+blue-light effects we observed are too fast to be mediated
+by transcriptional changes. Therefore, we favor a more direct
+membrane-localized mechanism in which rapid light-dependent
+posttranslational changes of Qsm alter the activity of Shaw and
+NKCC. Because (i) Cry is required for light-dependent Tim
+degradation in l-LNv (15), (ii) changing the Qsm level has no
+effect on Cry levels, and (iii) qsmOX triggers Tim degradation in
+the absence of Cry (16), the most likely explanation for the results reported here is that, in addition to activating Hk, Cry acts
+upstream of Qsm, which in turn regulates the activity of Shaw
+and NKCC. We assume that Qsm is activated by light because a
+light pulse at night rapidly increases protein levels (16). Qsm is
+an extracellular zona-pellucida (ZP) membrane-anchored protein, and we hypothesize that after light exposure the extracellular ZP domain is cleaved at a conserved furin protease
+cleavage site, a form of posttranslational processing typical for
+ZP-domain proteins (47). It is also possible that Qsm signals to
+Shaw and NKCC in both membrane-bound and cleaved forms.
+For example, at night membrane-bound Qsm could block
+NKCC, whereas light-induced cleavage could release this block,
+and the freed extracellular part could inactivate Shaw (Fig. 5B). This
+mechanism is reminiscent to the mechanism by which the GPI-anchored extracellular protein Sleepless increases Shaker (KV1 channel) activity for regulating Drosophila sleep (48).
+How Qsm-induced changes in clock neuron activity influence
+the molecular clock remains an open question. Recent work
+shows that, in addition to the canonical degradation via Cry and
+Jetlag (49), Tim is also degraded via a Cul-3– and neuronal
+activity-dependent pathway in DD that has been implicated in
+mediating phase delays in the circadian clock (50, 51). In contrast to this activity-dependent Cul-3 pathway, the light responses in the current study depend on Cry. We therefore favor a
+model in which the combined functions of Qsm, Shaw, and
+NKCC contribute to the canonical Cry- and Jetlag-dependent
+Tim-degradation pathway.
+B
+A
+Fig. 5. The effects of blue light on different genotype l-LNvs and the circadian model. (A) Quantification of the response of the indicated genotypes
+(Pdf-gal4) to blue light as measured by the activity in the 30-s light on (Fon)
+period minus the background activity in the 30 s before the light pulse (Foff).
+Data are shown as means; whiskers indicate SD. The number of recorded
+neurons for each genotype is indicated. *P < 0.05, ***P < 0.001; one-way
+ANOVA with Dunnett’s post hoc test (*) or t test (#
+). (B) Model of l-LNv
+cellular changes underlying the membrane potential and the firing differences between daytime and nighttime. Qsm receives light input from Cry
+and affects Shaw and NKCC activity. Additionally, Cry activates Hk and Qsm,
+and light-activated Cry degrades Tim. Because Qsm is also expressed in Crynegative clock neurons (16), it is likely that non–cell-autonomous mechanisms also activate this pathway (this possibility is indicated by the question
+mark). How, and to which extend, Qsm, Shaw and NKCC influence TIM
+stability is unclear (dashed line). In the daytime, Qsm is cleaved from the
+membrane, activity of Shaw is low, the sodium leak channel NA is active, and
+NKCC activity is high, resulting in a more positive RMP and higher spiking
+rate. In the nighttime Qsm is membrane bound, and Shaw levels are high, but
+there is less NA and NKCC, resulting in more negative RMP and less spiking.
+13490 | www.pnas.org/cgi/doi/10.1073/pnas.1606547113 Buhl et al.
+In conclusion, we demonstrate that Qsm affects both daily and
+acute light responses of l-LNvs, and therefore (Qsm) presumably
+contributes to light-input to the Drosophila circadian clock. Qsm
+possibly signals downstream of Cry and acts on Shaw and NKCC
+to change clock neuronal activity in response to light.
+Materials and Methods
+Flies were obtained from fly stock centers or were generated using the
+ΦC31 integrase system (52) and were raised under standard conditions.
+The efficiency of RNAi knockdown was confirmed using quantitative
+RT-PCR (RT-qPCR) and a standard RNeasy kit (Qiagen). Analysis of fly
+activity was performed using the Drosophila Activity Monitor (DAM) System and either a MatLab tool-box (53) or ActogramJ (54). Electrophysiological recordings were performed as previously described (55). Prism
+(GraphPad) was used for statistical tests. Detailed procedures can be found
+in SI Materials and Methods.
+ACKNOWLEDGMENTS. We thank Min Xu for generating the uas-qsmOX and
+uas-NKCCOX transgenics, Drs. Alan Roberts and Maria Usowicz for advice and
+helpful comments on the manuscript, and the Joerg Albert laboratory for
+assistance and equipment to perform the qPCR. This work was supported by
+Biotechnology and Biological Sciences Research Council Grants BB/J017221/1
+(to J.J.L.H.) and BB/J018589/2, (to R.S.).
+1. Dunlap JC, Loros JJ, DeCoursey PJ (2004) Chronobiology: Biological Timekeeping (Sinauer Associates, Sunderland, MA).
+2. Helfrich-Förster C, Nitabach MN, Holmes TC (2011) Insect circadian clock outputs.
+Essays Biochem 49(1):87–101.
+3. Hardin PE (2005) The circadian timekeeping system of Drosophila. Curr Biol 15(17):
+R714–R722.
+4. Panda S, Hogenesch JB, Kay SA (2002) Circadian rhythms from flies to human. Nature
+417(6886):329–335.
+5. Cao G, Nitabach MN (2008) Circadian control of membrane excitability in Drosophila
+melanogaster lateral ventral clock neurons. J Neurosci 28(25):6493–6501.
+6. Sheeba V, et al. (2008) Large ventral lateral neurons modulate arousal and sleep in
+Drosophila. Curr Biol 18(20):1537–1545.
+7. Mizrak D, et al. (2012) Electrical activity can impose time of day on the circadian
+transcriptome of pacemaker neurons. Curr Biol 22(20):1871–1880.
+8. Ruben M, Drapeau MD, Mizrak D, Blau J (2012) A mechanism for circadian control of
+pacemaker neuron excitability. J Biol Rhythms 27(5):353–364.
+9. Allada R, Chung BY (2010) Circadian organization of behavior and physiology in
+Drosophila. Annu Rev Physiol 72:605–624.
+10. Colwell CS (2011) Linking neural activity and molecular oscillations in the SCN. Nat
+Rev Neurosci 12(10):553–569.
+11. Nitabach MN, Blau J, Holmes TC (2002) Electrical silencing of Drosophila pacemaker
+neurons stops the free-running circadian clock. Cell 109(4):485–495.
+12. Meijer JH, Michel S (2015) Neurophysiological analysis of the suprachiasmatic nucleus:
+A challenge at multiple levels. Methods Enzymol 552:75–102.
+13. Emery P, So WV, Kaneko M, Hall JC, Rosbash M (1998) CRY, a Drosophila clock and
+light-regulated cryptochrome, is a major contributor to circadian rhythm resetting
+and photosensitivity. Cell 95(5):669–679.
+14. Stanewsky R, et al. (1998) The cryb mutation identifies cryptochrome as a circadian
+photoreceptor in Drosophila. Cell 95(5):681–692.
+15. Helfrich-Förster C, Winter C, Hofbauer A, Hall JC, Stanewsky R (2001) The circadian clock of
+fruit flies is blind after elimination of all known photoreceptors. Neuron 30(1):249–261.
+16. Chen KF, Peschel N, Zavodska R, Sehadova H, Stanewsky R (2011) QUASIMODO, a
+novel GPI-anchored zona pellucida protein involved in light input to the Drosophila
+circadian clock. Curr Biol 21(9):719–729.
+17. Yoshii T, et al. (2015) Cryptochrome-dependent and -independent circadian entrainment circuits in Drosophila. J Neurosci 35(15):6131–6141.
+18. Fogle KJ, Parson KG, Dahm NA, Holmes TC (2011) CRYPTOCHROME is a blue-light
+sensor that regulates neuronal firing rate. Science 331(6023):1409–1413.
+19. Fogle KJ, et al. (2015) CRYPTOCHROME-mediated phototransduction by modulation
+of the potassium ion channel β-subunit redox sensor. Proc Natl Acad Sci USA 112(7):
+2245–2250.
+20. Lear BC, et al. (2005) The ion channel narrow abdomen is critical for neural output of
+the Drosophila circadian pacemaker. Neuron 48(6):965–976.
+21. Hodge JJL, Stanewsky R (2008) Function of the Shaw potassium channel within the
+Drosophila circadian clock. PLoS One 3(5):e2274.
+22. Flourakis M, et al. (2015) A conserved bicycle model for circadian clock control of
+membrane excitability. Cell 162(4):836–848.
+23. Itri JN, Michel S, Vansteensel MJ, Meijer JH, Colwell CS (2005) Fast delayed rectifier
+potassium current is required for circadian neural activity. Nat Neurosci 8(5):650–656.
+24. Gamble KL, Kudo T, Colwell CS, McMahon DG (2011) Gastrin-releasing peptide
+modulates fast delayed rectifier potassium current in Per1-expressing SCN neurons.
+J Biol Rhythms 26(2):99–106.
+25. Kudo T, Loh DH, Kuljis D, Constance C, Colwell CS (2011) Fast delayed rectifier potassium current: Critical for input and output of the circadian system. J Neurosci 31(8):
+2746–2755.
+26. Alamilla J, Perez-Burgos A, Quinto D, Aguilar-Roblero R (2014) Circadian modulation of the
+Cl(-) equilibrium potential in the rat suprachiasmatic nuclei. BioMed Res Int 2014:424982.
+27. Jones JR, Tackenberg MC, McMahon DG (2015) Manipulating circadian clock neuron
+firing rate resets molecular circadian rhythms and behavior. Nat Neurosci 18(3):373–375.
+28. Kula-Eversole E, et al. (2010) Surprising gene expression patterns within and between PDFcontaining circadian neurons in Drosophila. Proc Natl Acad Sci USA 107(30):13497–13502.
+29. Parisky KM, et al. (2008) PDF cells are a GABA-responsive wake-promoting component
+of the Drosophila sleep circuit. Neuron 60(4):672–682.
+30. Shang Y, Griffith LC, Rosbash M (2008) Light-arousal and circadian photoreception
+circuits intersect at the large PDF cells of the Drosophila brain. Proc Natl Acad Sci USA
+105(50):19587–19594.
+31. Sheeba V, Gu H, Sharma VK, O’Dowd DK, Holmes TC (2008) Circadian- and light-dependent regulation of resting membrane potential and spontaneous action potential
+firing of Drosophila circadian pacemaker neurons. J Neurophysiol 99(2):976–988.
+32. Yoshii T, Todo T, Wülbeck C, Stanewsky R, Helfrich-Förster C (2008) Cryptochrome is
+present in the compound eyes and a subset of Drosophila’s clock neurons. J Comp
+Neurol 508(6):952–966.
+33. Emery P, Stanewsky R, Hall JC, Rosbash M (2000) A unique circadian-rhythm photoreceptor. Nature 404(6777):456–457.
+34. Giot L, et al. (2003) A protein interaction map of Drosophila melanogaster. Science
+302(5651):1727–1736.
+35. Peschel N, Veleri S, Stanewsky R (2006) Veela defines a molecular link between
+Cryptochrome and Timeless in the light-input pathway to Drosophila’s circadian clock.
+Proc Natl Acad Sci USA 103(46):17313–17318.
+36. Sandrelli F, et al. (2007) A molecular basis for natural selection at the timeless locus in
+Drosophila melanogaster. Science 316(5833):1898–1900.
+37. Szular J, et al. (2012) Rhodopsin 5- and Rhodopsin 6-mediated clock synchronization
+in Drosophila melanogaster is independent of retinal phospholipase C-β signaling.
+J Biol Rhythms 27(1):25–36.
+38. Rieger D, Stanewsky R, Helfrich-Förster C (2003) Cryptochrome, compound eyes,
+Hofbauer-Buchner eyelets, and ocelli play different roles in the entrainment and
+masking pathway of the locomotor activity rhythm in the fruit fly Drosophila melanogaster. J Biol Rhythms 18(5):377–391.
+39. Wei A, et al. (1990) K+ current diversity is produced by an extended gene family
+conserved in Drosophila and mouse. Science 248(4955):599–603.
+40. Salkoff L, et al. (1992) An essential ‘set’ of K+ channels conserved in flies, mice and
+humans. Trends Neurosci 15(5):161–166.
+41. Murad A, Emery-Le M, Emery P (2007) A subset of dorsal neurons modulates circadian
+behavior and light responses in Drosophila. Neuron 53(5):689–701.
+42. Picot M, Cusumano P, Klarsfeld A, Ueda R, Rouyer F (2007) Light activates output from
+evening neurons and inhibits output from morning neurons in the Drosophila circadian clock. PLoS Biol 5(11):e315.
+43. Stoleru D, et al. (2007) The Drosophila circadian network is a seasonal timer. Cell
+129(1):207–219.
+44. Hodge JJL, Choi JC, O’Kane CJ, Griffith LC (2005) Shaw potassium channel genes in
+Drosophila. J Neurobiol 63(3):235–254.
+45. Hebert SC, Mount DB, Gamba G (2004) Molecular physiology of cation-coupled Clcotransport: The SLC12 family. Pflugers Arch 447(5):580–593.
+46. Stempfl T, et al. (2002) Identification of circadian-clock-regulated enhancers and
+genes of Drosophila melanogaster by transposon mobilization and luciferase reporting of cyclical gene expression. Genetics 160(2):571–593.
+47. Plaza S, Chanut-Delalande H, Fernandes I, Wassarman PM, Payre F (2010) From A to Z:
+Apical structures and zona pellucida-domain proteins. Trends Cell Biol 20(9):524–532.
+48. Wu MN, et al. (2010) SLEEPLESS, a Ly-6/neurotoxin family member, regulates the
+levels, localization and activity of Shaker. Nat Neurosci 13(1):69–75.
+49. Peschel N, Chen KF, Szabo G, Stanewsky R (2009) Light-dependent interactions between the Drosophila circadian clock factors cryptochrome, jetlag, and timeless. Curr
+Biol 19(3):241–247.
+50. Grima B, Dognon A, Lamouroux A, Chélot E, Rouyer F (2012) CULLIN-3 controls
+TIMELESS oscillations in the Drosophila circadian clock. PLoS Biol 10(8):e1001367.
+51. Guo F, Cerullo I, Chen X, Rosbash M (2014) PDF neuron firing phase-shifts key circadian activity neurons in Drosophila. eLife 3:e02780.
+52. Bischof J, Maeda RK, Hediger M, Karch F, Basler K (2007) An optimized transgenesis
+system for Drosophila using germ-line-specific phiC31 integrases. Proc Natl Acad Sci
+USA 104(9):3312–3317.
+53. Levine JD, Funes P, Dowse HB, Hall JC (2002) Signal analysis of behavioral and molecular cycles. BMC Neurosci 3(1):1.
+54. Schmid B, Helfrich-Förster C, Yoshii T (2011) A new ImageJ plug-in “ActogramJ” for
+chronobiological analyses. J Biol Rhythms 26(5):464–467.
+55. Chen C, et al. (2015) Drosophila Ionotropic Receptor 25a mediates circadian clock
+resetting by temperature. Nature 527(7579):516–520.
+56. Dolezelova E, Dolezel D, Hall JC (2007) Rhythm defects caused by newly engineered
+null mutations in Drosophila’s cryptochrome gene. Genetics 177(1):329–345.
+57. Park JH, Hall JC (1998) Isolation and chronobiological analysis of a neuropeptide pigment-dispersing factor gene in Drosophila melanogaster. J Biol Rhythms 13(3):219–228.
+58. Kaneko M, Hall JC (2000) Neuroanatomy of cells expressing clock genes in Drosophila:
+Transgenic manipulation of the period and timeless genes to mark the perikarya of
+circadian pacemaker neurons and their projections. J Comp Neurol 422(1):66–94.
+59. Yu C, et al. (2011) Development of expression-ready constructs for generation of
+proteomic libraries. Protein Microarray for Disease Analysis, Methods in Molecular
+Biology, ed Wu CJ (Humana, Valley Stream, NY), Vol 723, pp 257–272.
+Buhl et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13491
+NEUROSCIENCE

@@ -1,0 +1,63 @@
+ARTICLES
+Although axonal regeneration is extremely limited in the mammalian
+adult central nervous system (CNS), partial lesions of the spinal cord
+can be followed by spontaneous, and often substantial, functional
+improvements1–4. The mechanisms underlying this recovery are not
+fully understood, but include recuperation from the spinal shock5,6,
+remyelination1,7 and axonal sprouting. The occurrence of spontaneous sprouting of axons has been shown after spinal cord lesion for a
+number of axonal tract systems, including the corticospinal tract
+(CST)8–12. To mediate functional recovery, the sprouting requirements of transected descending supraspinal tract systems like the CST
+are two fold. First, transected CST fibers must contact spared
+intraspinal neuronal tracts that bridge the lesion. Second, these
+intraspinal neurons must form synaptic contacts on the original target cells of the transected CST. This type of reorganization has long
+been suggested13, but has never been conclusively shown. In the present study, we show that, after midthoracic dorsal hemisection, the
+hindlimb CST collaterals sprout into the cervical gray matter where
+they contact descending propriospinal neurons (PSNs). The spinal
+cord holds two populations of PSNs—‘long’ and ‘short’—that have
+different abilities to reconnect the transected CST to the lumbar cord.
+The long PSNs are involved in coupling forelimb and hindlimb activity (e.g., during walking)14,15. They originate in the cervical enlargement (C3–C5), travel in the ventral and lateral funiculi16 and
+terminate in the ventral horn of the lumbosacral enlargement17,18.
+They are therefore spared by mid-thoracic dorsal hemisection and
+bridge spinal levels above and below the lesion. In contrast, short
+PSNs connect the upper (C3–C4) and lower (C6–Th1) cervical cord
+and are involved in visually guided target reaching with the forelimbs19,20. Although they are not affected by mid-thoracic dorsal
+hemisection, they do not provide an axonal pathway beyond the
+lesion. Here we show that initially axonal sprouts contacted short and
+long PSNs equally, but sprouts that contacted long PSNs were maintained, whereas sprouts onto short PSNs were progressively lost. In
+parallel, long PSNs increased their terminal arborization onto lumbar
+motor neurons. Trans-synaptic labeling showed that at least a part of
+these contacts were in fact true synapses, thereby creating a new
+intraspinal circuit. In our re-lesion experiments, the CST of rats
+whose functional recovery was substantial after mid-thoracic dorsal
+hemisection was specifically transected at the level of the medulla
+oblongata. The result was that both cortical stimulation–induced
+hindlimb movements and CST-specific behavioral responses were
+abolished. Parallel to the intraspinal remodeling, we observed a
+rearrangement of the cortical hindlimb motor map.
+This indicates that axonal sprouting is part of a general rewiring of
+cortical, supra- and intraspinal connections that, at least in part,
+explains functional recovery after spinal cord injury and likely constitutes a crucial element of rehabilitation in humans.
+RESULTS
+Lesioned hindlimb CST axons sprout and contact long PSNs
+In normal adult rats, axons arising from the hindlimb motor cortex21
+send only very few collaterals into the gray matter of the cervical
+1Department of Neuromorphology, Brain Research Institute, University of Zürich and Department of Biology, ETH Zürich, Winterthurerstrasse 190, 8057 Zürich,
+Switzerland. 2Present address: Department of Anatomy and Neurobiology, Washington University School of Medicine, 660 South Euclid, Box 8108, St. Louis,
+Missouri 68110, USA. 3Department of Neurophysiology, Brain Research Institute, University of Zürich, Winterthurerstrasse 190, 8057 Zürich, Switzerland. 4Institute of Molecular and Cellular Virology, Friedrich-Loeffler-Institute, Federal Research Center for Virus Diseases of Animals, D-17498 Insel Riems, Germany.
+Correspondence should be addressed to F.M.B. (florence@pcg.wustl.edu).
+Published online 15 February 2004; doi:10.1038/nn1195
+The injured spinal cord spontaneously forms a new
+intraspinal circuit in adult rats
+Florence M Bareyre1,2, Martin Kerschensteiner1,2, Olivier Raineteau3, Thomas C Mettenleiter4, Oliver Weinmann1
+& Martin E Schwab1
+In contrast to peripheral nerves, central axons do not regenerate. Partial injuries to the spinal cord, however, are followed by
+functional recovery. We investigated the anatomical basis of this recovery and found that after incomplete spinal cord injury
+in rats, transected hindlimb corticospinal tract (CST) axons sprouted into the cervical gray matter to contact short and long
+propriospinal neurons (PSNs). Over 12 weeks, contacts with long PSNs that bridged the lesion were maintained, whereas
+contacts with short PSNs that did not bridge the lesion were lost. In turn, long PSNs arborize on lumbar motor neurons, creating
+a new intraspinal circuit relaying cortical input to its original spinal targets. We confirmed the functionality of this circuit by
+electrophysiological and behavioral testing before and after CST re-lesion. Retrograde transynaptic tracing confirmed its integrity,
+and revealed changes of cortical representation. Hence, after incomplete spinal cord injury, spontaneous extensive remodeling
+occurs, based on axonal sprout formation and removal. Such remodeling may be crucial for rehabilitation in humans.
+NATURE NEUROSCIENCE VOLUME 7 | NUMBER 3 | MARCH 2004 269
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience

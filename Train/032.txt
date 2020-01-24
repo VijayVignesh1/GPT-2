@@ -1,0 +1,577 @@
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+Extrastriate body area in human occipital cortex
+responds to the performance of motor actions
+Serguei V Astafiev1, Christine M Stanley1, Gordon L Shulman2 & Maurizio Corbetta1–3
+A region in human lateral occipital cortex (the ‘extrastriate body area’ or EBA) has been implicated in the perception of body
+parts. Here we report functional magnetic resonance imaging (fMRI) evidence that the EBA is strongly modulated by limb (arm,
+foot) movements to a visual target stimulus, even in the absence of visual feedback from the movement. Therefore, the EBA
+responds not only during the perception of other people’s body parts, but also during goal-directed movements of the observer’s
+body parts. In addition, both limb movements and saccades to a detected stimulus produced stronger signals than stimulus
+detection without motor movements (‘covert detection’) in the calcarine sulcus and lingual gyrus. These motor-related
+modulations cannot be explained by simple visual or attentional factors related to the target stimulus, and suggest a potentially
+widespread influence of actions on visual cortex.
+
+Neural activity in visual cortex can be modulated by many factors in
+addition to retinal stimulation, including attention, working memory, familiarity and integration of stimuli from different sensory
+modalities1–4. Eye movements also modulate the responses of cells in
+V1 and V4 to visual stimuli5–8. There is no evidence to date, however,
+of modulation of visual cortex by limb movements. Here we report
+modulations in lateral and medial occipital cortex while observers
+pointed with their hand or foot to visual targets. These modulations
+were observed after controlling for attention and sensory factors
+related to the stimulus, and even when the limb was not visible to the
+observer. The activated area in lateral cortex corresponded to the
+EBA, which responds selectively to images of human bodies or body
+parts9,10. Previous studies9 have put forth the hypothesis that the EBA
+may be responsible for the identification of other people’s bodies,
+inferring the actions of others, or perceiving the position of one’s own
+body during the guidance of action. Our results suggest that this
+region, in addition to being activated by visual images of other people’s body parts, is also modulated by planning, executing and imagining movements of the observer’s hand or foot.
+RESULTS
+EBA is active for limb movements
+We first tested the hypothesis that the EBA responds not only during
+the perception of body parts, but also during the execution of visually
+guided hand movements, and that its response is specific for hand
+movements as compared to eye movements or covert target detection.
+In the first experiment, subjects (n = 15) were directed to one of two
+peripheral visual locations by a central arrow cue. After a variable delay
+of 5–6 s, an asterisk was flashed for 100 ms at the location indicated by
+the cue (73% of trials) or at the opposite location. In different scans,
+subjects did one of three tasks. In the ‘attention’ condition, subjects
+
+covertly directed attention to the cued location (that is, they attended
+to the cued location while maintaining central fixation) and then
+covertly detected the target (that is, no motor response was made). In
+the ‘saccade’ condition, they prepared an eye movement to the cued
+location, followed by a saccade to the target location upon target presentation. And in the ‘pointing’ condition, they prepared to point with
+their right index finger at the cued location, followed by a pointing
+movement in the direction of the target upon target presentation.
+Maintenance of fixation during the attention and pointing conditions
+and during the cue period of the saccade condition was verified by eye
+movement monitoring. None of the presented results can be explained
+by a loss of fixation or the presence of head movements during pointing (Supplementary Methods online). Event-related fMRI methods
+were used to separate blood oxygenation level–dependent (BOLD)
+signals for the cue and target/response period.
+The BOLD signal in lateral occipital cortex during the response to
+the target stimulus differed significantly across conditions (Fig. 1a). A
+region (x, y, z = –46, –68, 4) in the middle occipital gyrus, near/at the
+coordinates previously published for the EBA9, responded more
+strongly in the Pointing condition than in either the Saccade
+(P < 0.0001) or Attention (P < 0.0001) conditions. Similar results
+were obtained for the right hemisphere (x, y, z = 46, –62, 3;
+Supplementary Table 1 online).
+Given that in all conditions the target was attended and detected,
+it seems unlikely that the enhancement for hand pointing reflected
+an attentional enhancement of the visual response to the target.
+However, the larger signal in the Pointing condition might have
+reflected a difference in visual stimulation produced by partial
+vision of the moving hand. Furthermore, the claim that this modulation occurred in the EBA was based on a comparison of atlas coordinates across experiments.
+
+Departments of 1Radiology, 2Neurology and 3Anatomy and Neurobiology, Washington University School of Medicine, 4525 Scott Avenue, St. Louis, Missouri 63110,
+USA. Correspondence should be addressed to M.C. (mau@npg.wustl.edu).
+Published online 25 April 2004; doi:10.1038/nn1241
+
+542
+
+VOLUME 7 | NUMBER 5 | MAY 2004 NATURE NEUROSCIENCE
+
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+Therefore, we conducted a second experiment (n = 10) in which vision of the body
+and hand was occluded. We also localized the
+EBA region within each subject using stimuli
+and a block paradigm that have been previously described9, wherein pictures of body
+parts were alternated with pictures of object
+parts. In the main experiment, subjects performed the Attention and Pointing tasks of
+experiment 1, as well as a third task in which
+they pointed with their right foot. This latter
+condition was included to test whether the
+response in the EBA was hand-specific or
+could be induced by movements of other
+body parts. The positions of the hand and
+foot were monitored with a digital camera,
+and eye movements were also monitored.
+The BOLD response in several regions of
+lateral occipital cortex was stronger during
+the perception of body parts than object parts
+(Fig. 1b). There were two distinct peaks of
+activation in the left hemisphere: a dorsoanterior peak (x, y, z = –40, –58, 7) and a
+ventro-posterior peak (x, y, z = –48, –69, 6). Figure 1 Group-averaged movement-related BOLD responses in the EBA. Lateral view of the left
+The ventro-posterior peak was closer to the occipital lobe. (a) Group statistical map showing significant differences between the right hand
+EBA coordinates9 (x, y, z = –51, –72, 8, shown pointing, saccade and attention tasks during the target period (valid trials only; experiment 1). The
+graph shows the group-averaged BOLD time course in the middle occipital gyrus (MOG) near/at the
+as a blue square in Fig. 1b) than was the dorsal
+EBA, averaged over target direction. (b) Group statistical map from the EBA localizer scans showing
+peak. Right-hand pointing produced a signif- the difference between body parts (BP) and object parts (OP), as well as the relative signal change
+icantly stronger response in the ventral region compared to fixation for each condition. The position of the EBA9 is shown as a blue square. The
+than both right-foot pointing (P = 0.014) and group-averaged BOLD response from the EBA for right hand pointing, right foot pointing and covert
+attention (P = 0.032) whereas the response attention (experiment 2) are also presented. (c) Group statistical map of areas active during the right
+for right-foot pointing was stronger than for hand (red) and foot (green) pointing conditions of experiment 2. Significant voxels from the EBA
+attention (P = 0.0075). The left dorso- localizer scans are shown in blue. White voxels indicate region of overlap between hand, 9foot and EBA
+localizer. (d) The group-averaged signal time course from the published EBA coordinates during right
+anterior region did not show a significant dif- hand pointing, with visual feedback of the moving hand (experiment 1) and without visual feedback
+ference across the three conditions. A similar (experiment 2). (e) The group-averaged time course in the left EBA during the right and left hand
+trend was observed in the right hemisphere pointing tasks (experiment 3). L = left, R. hand = right hand pointing, R. foot = right foot pointing,
+L. hand = left hand pointing. Error bars represent the standard error of the mean (s.e.m.).
+(Supplementary Table 2 online).
+There was considerable overlap between
+the voxels activated by the EBA localizer and
+those voxels activated by hand or foot pointing, although the latter results suggest that the EBA is incrementally modulated by different
+two conditions were not clearly distinguished within the EBA kinds of signals, although they will need to be confirmed within the
+(Fig. 1c). These results show that visually guided hand and foot move- same experiment. Weak responses were elicited by visual attention,
+ments activate lateral occipital cortex, largely within or near the EBA, covert detection and saccadic eye movements; intermediate responses
+in the absence of visual input from the moving limb. These modula- were obtained by pointing movements in the absence of visual input,
+tions cannot be explained by simple sensory or attentional factors and the largest responses were obtained when partial vision of the
+related to the target flash and detection, since these factors were also movement was allowed.
+A third group of volunteers (n = 5) was tested to determine if EBA
+present in the covert attention task (experiments 1 and 2) and in the
+activity during pointing was modulated by the hand used to make the
+eye movement task (experiment 1).
+To determine whether activation in the EBA was affected by vision response. Subjects pointed to visual targets using either their left or
+of the hand, we compared the magnitude of the EBA activations in right hand in different scans. Vision of the hand and body was
+experiments 1 and 2. Spherical regions of interest (ROIs) with a diam- occluded, eye movements were monitored, and the EBA was localized
+eter of 1 cm were centered on the EBA coordinates (from ref. 9). In the in each subject as in experiment 2. Both right and left hand pointing
+left EBA, the signal magnitude for right-hand pointing was signifi- significantly activated the left EBA (x, y, z = –45, –65, 12; main effect
+cantly larger in experiment 1 than experiment 2 (time × experiment, of magnetic resonance frame, P < 0.0001 for right hand and
+P = 0.036), and no difference was observed in the attention condition P < 0.0001 for left hand), but showed no significant differences
+(P = 0.91; Fig. 1d). A similar trend was observed in the right hemi- (Fig. 1e). Similar results were obtained in the right EBA (x, y, z = 42,
+sphere, but the difference in the hand condition was not significant –58, 13; Supplementary Table 3 online).
+EBA modulations from limb movements were readily observable in
+(P = 0.06). We also found that within both the left and right ROIs, the
+BOLD signal magnitude in experiment 2 was larger during the per- single subjects (Fig. 2a–c). The time courses confirm that responses
+ception of body parts than object parts (left, P = 0.000051; right, were larger for the hand and foot conditions than for the attention
+P = 0.0021), confirming that these ROIs included the EBA. These condition (Fig. 2).
+
+NATURE NEUROSCIENCE VOLUME 7 | NUMBER 5 | MAY 2004
+
+543
+
+ARTICLES
+
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+Figure 2 Movement-related BOLD responses in the EBA from a single
+subject (experiment 2). BOLD responses are superimposed on a coronal
+slice (y = –69). All statistical maps are z maps for contrasts based on an
+assumed hemodynamic response function. (a) Localization of the left and
+right EBA, and percent signal change for passive observation of body parts
+(BP) or object parts (OP) with respect to fixation. (b) Statistical map for
+right hand pointing task. Note the activity in the EBA and medial occipital
+cortex. (c) Statistical map for right foot pointing task. Signal time courses,
+averaged over target direction, are shown for the left and right EBA regions
+defined in a. Error bars represent the standard error of estimate (s.e.e.)45.
+
+occipital cortex, including the calcarine sulcus (x, y, z = 0, –83, 10) and
+left (x, y, z = –8, –72, 1) and right (x, y, z = 10, –78, 0) lingual gyrus
+(Supplementary Fig. 1 online). Activations were significantly larger for
+both hand pointing (P < 0.0001 in calcarine sulcus, P < 0.0001 in left lingual gyrus, P < 0.0001 in right lingual gyrus) and foot pointing
+(P < 0.0003 in calcarine sulcus, P < 0.0003 in left lingual gyrus, P = 0.001
+in right lingual gyrus) than for Attention. Finally, no significant differences were observed between hand and foot pointing (experiment 2;
+Supplementary Table 2 online), or between left hand and right hand
+pointing (experiment 3; Supplementary Table 3 online).
+
+Medial occipital cortex is active for eye and limb movements
+We also determined whether other visual regions were activated during
+limb movements (Fig. 3). Both the calcarine sulcus and bilateral lingual
+gyrus were significantly more activated during right-hand pointing than
+during attention (P = 0.009 for calcarine sulcus, P = 0.0005 for left lingual gyrus, P = 0.0008 for right lingual gyrus) and showed a stronger
+response in the Saccade condition than in the Pointing condition
+(P < 0.0001 for calcarine sulcus, P = 0.0003 for left lingual gyrus,
+P < 0.0001 for right lingual gyrus) and the Attention condition
+(P < 0.0001 for calcarine sulcus, P < 0.0001 for left lingual gyrus,
+P < 0.0001 for right lingual gyrus). See Supplementary Table 1 online.
+The stronger responses in calcarine sulcus and lingual gyrus during saccades than during pointing may reflect shifts of the retinal image during
+eye movements and/or a spatially selective visual enhancement unique
+to eye movements5,11,12. As expected, limb movements strongly activated motor areas, including contralateral primary motor cortex, bilateral secondary somatosensory (S2) cortex and supplementary motor
+area (SMA). The time courses indicate that the latency of the activations
+in sensorimotor areas roughly matched those in visual cortex (Fig. 3).
+Similar modulations in experiment 2, in which vision of the limb was
+occluded, were observed for both hand and foot movements in medial
+
+EBA is active for motor imagery
+A reviewer suggested that mental imagery of the movement might
+have activated visual cortex, as activity in some visual category-specific
+regions is increased by mental imagery of the preferred stimulus category13. Moreover, imagined movements and actual movements activate similar regions14,15. A block-design experiment was conducted in
+which three subjects performed the pointing task, eye-movement task,
+or a third task in which pointing movements were imagined. Although
+mental imagery activated the EBA, some EBA voxels responded more
+strongly during pointing than during either imagery or eye movements (see Fig. 4 for data from a single subject; data for the remaining
+subjects are presented in Supplementary Fig. 2 online). Imagery activated almost all classical motor areas (S2, SMA, premotor cortex, posterior parietal cortex, cerebellum), except S1/M1 (not shown), in good
+correspondence with previous studies14,15. Interestingly, whereas
+motor imagery activated some parts of the EBA, it did not activate
+medial visual cortex (calcarine sulcus and lingual gyrus).
+Attention cannot explain motor-related activity
+Another possible concern is that the attention task was not as
+demanding as the pointing or eye movement tasks, resulting in
+weaker responses in the covert attention condition. Two results
+
+Figure 3 Group-averaged movement-related BOLD responses in medial
+occipital cortex. The statistical map shows the significant differences
+between right hand pointing, saccade and attention conditions (experiment
+1). The graphs show the group-averaged BOLD time courses, averaged over
+target direction (see Fig. 1 legend), from visual and motor regions active in
+the statistical map. L = left, Calc. S = calcarine sulcus, LG = lingual gyrus,
+Cu = cuneus. SMA = supplementary motor area, S2 = secondary
+somatosensory area. Error bars represent s.e.m.
+
+544
+
+VOLUME 7 | NUMBER 5 | MAY 2004 NATURE NEUROSCIENCE
+
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+strongly argue against this hypothesis. First,
+the BOLD response in left EBA was significantly higher (P = 0.00016) during the preparation of a pointing movement than an eye
+movement, but there was no significant difference between the preparation of an attention shift as compared to both a pointing
+movement and an eye movement. A similar
+trend was observed in the right hemisphere,
+but the difference between conditions was
+not significant. These data suggest that the
+attentional load was similar during the
+preparation of hand movements and covert
+spatial attention shifts to a target location
+(Supplementary Fig. 3 online, panel a).
+Second, the right temporal-parietal junction (TPJ) is thought to be involved in the
+reorienting of attention to unexpected
+events16, as it responds more strongly to visual
+stimuli presented at unattended than attended
+locations. In experiment 2, the BOLD signal
+during each task (Attention, right hand Figure 4 BOLD responses in the EBA from a single subject during the pointing and imagery
+Pointing, right foot Pointing) in right TPJ conditions. Significant BOLD responses are superimposed on a coronal slice (y = –59). (a) Pointing
+(x, y, z = 56, –43, 6) was also significantly with the right hand, no visual feedback; (b) imagining pointing with the right hand; (c) EBA localizer,
+larger during invalid trials (i.e., when the tar- observation of body parts vs. object parts; (d) EBA voxels with significantly greater activity during
+get was presented at an unattended location pointing than imagery and saccades. (e) Top row: the percent signal change for pointing (P), imagery
+(see Methods) than during valid trials (i.e. (I) and saccade (S) tasks as compared to fixation baseline, in the left and right EBA from the voxels in
+d. Middle row: percent signal change to body parts (BP) and object parts (OP) versus fixation baseline
+when the target was presented at the attended
+from the same voxels in panel d. Bottom row: percent signal change for pointing (P) and Imagery (I)
+location; P < 0.04). Notably, the difference in tasks versus fixation baseline for all significantly active voxels in the left and right EBA (z ≥ 2.6,
+the amplitude of the response for invalid and P < 0.01 uncorrected). Error bars represent s.e.e.
+valid trials was similar across conditions.
+Therefore, reorienting of attention to an unexpected target produced equivalent responses in the three conditions. motor signals involved in the representation of the observer’s body.
+Moreover, there was no difference in the amplitude of the response in A limb movement may affect the observer’s body representation
+right TPJ for arm movements and covert detection, which suggests that through proprioceptive inputs that result from the movement.
+both tasks were equally difficult. Covert detection produced a non-signif- Although to our knowledge there have not been reports of proprioicant trend for stronger responses than did foot movements ceptive activation of lateral occipital cortex or other regions in the
+(Supplementary Fig. 3 online, panel b). Therefore, we conclude that the occipital lobe, there have been reports that activity in visual cortex
+covert attention task used in this study was effective, and that the atten- can be modulated by tactile information. Both congenitally and
+tional load was not higher during limb movements both during prepara- late-onset blind subjects show strong activation in visual cortex
+tion (cue period) and target detection/response execution (test period). (V1, V2, VP, V4v and LOC (lateral occipital complex)) during
+Both the EBA and some regions in medial visual cortex responded Braille reading, which requires a mapping of tactile symbols onto
+more strongly during pointing than during covert detection the language system19. The LOC is modulated not only during
+(Attention), but they were distinguished by differential activation visual object recognition, but also during the recognition of haptic
+during eye movements, imagined limb movements and planning. objects20. Finally, a tactile stimulus may increase the visual
+Medial visual regions responded more strongly during saccades than response to a visual stimulus when both are presented simultaneduring pointing, whereas the EBA responded more strongly during ously at the same spatial location4.
+pointing, with little response to saccades. Moreover, the EBA was
+A limb movement may also affect a body representation through a
+recruited by imagining and planning of pointing movements, corollary discharge signal, which is used to adjust for changes in senwhereas medial visual cortex showed no response to either motor sory input caused by the movement21–23. This motor-generated signal
+imagery or planning.
+may activate the EBA and dynamically update a body representation.
+Similar mechanisms have been discovered in the superior colliculus,
+DISCUSSION
+posterior parietal cortex and in several visual areas during saccadic
+Until now, the EBA has been considered a high-level, category- eye movements for the updating of retinotopic representations23–25.
+specific object recognition area that is specialized for the analysis of Interestingly, there is evidence that areas in lateral posterior cortex
+human bodies17, similar to category-specific areas in visual cortex for near the EBA are involved in the representation of the body schema. A
+faces and places. Category-specific processing modules are thought to recent study demonstrated that an illusory perception of body movecomprise initial cores of knowledge around which human language is ment can be induced by electrical stimulation of a region near the
+EBA in the angular gyrus26. Lesions in the angular gyrus and lateral
+organized during child development18.
+Our results indicate that in addition to this visual recognition occipital cortex, particularly in the left hemisphere, induce disturfunction, the EBA integrates visual, spatial attention, and sensory- bance and misperception of the body schema27,28.
+
+NATURE NEUROSCIENCE VOLUME 7 | NUMBER 5 | MAY 2004
+
+545
+
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+If the EBA is involved in representing the observer’s body, it is
+necessary to explain how a body map contributes to the perception
+of another person’s body. Similarly, if the EBA is only involved in
+the perception of the bodies of other people, it is necessary to
+explain how movement of the observer’s body can affect how other
+bodies are perceived.
+One possibility is that the EBA is part of a system for both perception and action, similar to more anterior areas in the superior temporal sulcus (STS)29. Human and macaque STS contains neurons
+that respond to the observation of biological actions such as grasping, looking or walking30,31. The STS is also part of the so-called
+mirror neuron system, along with inferior frontal cortex (area F5 in
+macaque) and the anterior parietal cortex (area PF in
+macaque)32–34. This is an ensemble of areas in which neurons
+respond to the observation of actions performed by other people, as
+well as to the execution/imitation of the same actions performed by
+the observer (at least F5 and PF). It has been proposed that the mirror neuron system may mediate the understanding of actions
+through a mechanism by which motor representations ‘resonate’ to
+the observation of other people’s actions. That is, the automatic
+recruitment of motor representations by visual information would
+allow the observer to ‘match’ and thus understand the action of
+others (the direct-matching hypothesis).
+We do not know if the EBA is a ‘mirror neuron’ area, although some
+of its physiological properties suggest it might be. The EBA responds
+more strongly to moving than static human forms (and objects),
+especially when the motion is natural9. This is analogous to the
+response of neurons in human and macaque STS. Our results show
+that this area is modulated when the observer makes goal-oriented
+actions toward targets. These features are also similar to those
+reported in mirror neurons in areas F5 and PF. It will be interesting to
+test the activity in the EBA using protocols in which observation and
+execution/imitation of actions are directly compared29.
+Although action-related modulation of visual cortex was not
+unique to the EBA, it was not present in many visual areas. We compared attention-, saccade- and pointing-related responses in functional regions selected from the literature (fusiform face area
+(FFA), parahippocampal place area (PPA), LOC, middle temporal
+area (MT) and superior temporal sulcus (STS); Supplementary
+Table 4 online). Modulations by limb movements did not occur in
+FFA, PPA or anterior STS, but did occur in MT and LOC in foci
+localized within 1 cm of the center of the EBA. Given that functional areas MT and LOC share roughly 30% of voxels with the
+EBA, even within a single subject9, it was not surprising to find
+action-related modulations in these adjacent regions. Detailed
+single-subject studies will be necessary, however, to determine
+whether action-related signals are limited to EBA or also involve
+adjacent functional regions.
+The additional observation that medial occipital cortex, near or at
+V1/V2, is more strongly activated by visually guided eye movements
+and limb movements than by covert detection indicates that actionrelated modulations can occur in visual regions other than the EBA.
+Anatomically, areas V1/V2 may receive tactile feedback through area
+V6, which has reciprocal connections to both retinotopic visual areas
+(V1/V2/V3) and bimodal visual-tactile areas (V6a/MIP/VIP)35.
+Accordingly, we recently reported hand-specific planning and execution signals in various posterior parietal regions including the superior parietal lobule and precuneus, which map onto macaque areas
+MIP and PIP based on multidimensional warping of human and
+macaque brains36. Additional multimodal input into peripheral V1
+might come from auditory cortex as well as from the superior tempo-
+
+546
+
+ral polysensory area (area STP), which contains visual, auditory and
+tactile unimodal and multimodal neurons37,38.
+In conclusion, while explorations of the function of actionrelated activations in visual cortex are at an early stage, the results
+reported here indicate that these modulations are present in several
+different regions.
+METHODS
+Subjects. Fifteen subjects (6 females; age 19–24 years, mean 22) were recruited
+from the Washington University community for experiment 1. Ten subjects
+(8 females, age 19–25, mean 21.7) participated in experiment 2, five subjects
+(3 females; age 19–25, mean 21) in experiment 3 and three subjects (2 females;
+age 18–26, mean 22) in experiment 4. All subjects were strongly right-handed
+as measured by the Edinburgh Handedness Inventory, had normal or
+corrected-to-normal vision, and a normal neurological history. Informed
+written consent was obtained in accordance with procedures approved by the
+human studies committee at Washington University School of Medicine.
+Apparatus. For a detailed description, see Supplementary Methods online.
+Task and procedures. A fixation cross-hair was displayed inside a gray diamond (size 1.6°) on a black background at all times during experiments 1–3.
+A change in the color of the fixation point from red to green indicated the start
+of a trial. Simultaneously, one side of the diamond was illuminated for 100 ms,
+indicating either a left or right location (cue stimulus). After a random delay
+(4.76–5.86 s in experiment 1 and 2.6–3.7 s in experiments 2 and 3), a white
+asterisk (target stimulus) was flashed for 100 ms 7.3° to the left or right of fixation. The stimulus occurred at the cued location (valid trial) on 73% of trials
+(75% in experiments 2 and 3), and at the opposite location (invalid trial) on
+27% (25% in experiments 2 and 3) of the trials. In the attention condition, a
+random digit (1–9) was occasionally presented (either 0, 1 or 2 times in a block
+of trials) instead of the asterisk (only in experiment 1). After another interval
+(0.44–1.54 s), which yielded a fixed trial (cue + test) duration of 6.50 s (4.33 s
+in experiments 2 and 3), the fixation point changed color from green to red to
+indicate the end of the trial. Trials were separated by a random intertrial interval (ITI) of 2.16–6.50 s, in which the fixation point remained red. On 21%
+(20% in experiments 2 and 3) of the trials, only the cue stimulus was presented, followed by a fixed interval of 4.23 s (2.07 s in experiments 2 and 3)
+before the start of the ITI. The presentation of cue-only trials was necessary to
+separate cue and target fMRI responses within a trial without assuming a
+hemodynamic response function39–41.
+In experiment 1, three different tasks were performed. In the right-hand
+pointing task, subjects used the cue to prepare a pointing movement to the left
+or right with their right index finger. After the target was flashed, subjects
+pointed as quickly as possible in the direction of the target location (without
+touching the screen), and then returned to the starting position. Some subjects,
+because of their body size, could see their finger during the execution of the
+pointing movement (see Supplementary Methods online for additional details).
+In the saccade task, the cue was used to prepare a saccadic eye movement to
+the left or right. After the target was flashed, subjects looked at its location, and
+then quickly looked back at the fixation point. In the attention task, subjects
+covertly shifted and maintained attention at the cued location, and returned
+attention to the center after the presentation of the target. Subjects reported
+whether and how many times (0, 1 or 2 times) a random digit was presented in
+the course of a block of trials. This secondary task insured that subjects
+attended to the peripheral target on each trial. Mean accuracy was 97% correct. For each subject, there were 15 scans (5 scans per task) and each
+scan/block involved 28 trials.
+In experiment 2, three different tasks were performed: right hand pointing,
+attention and right foot pointing. The right hand pointing task was the same
+as in experiment 1. The attention task was similar to the task in experiment 1,
+except that no digits were presented. The right foot pointing task was similar
+to the right hand pointing task, but subjects pointed with their right foot
+instead of their right hand. Each subject (n = 10) performed 15 scans, 5 scans
+per task, and each scan consisted of 30 trials (see Supplementary Methods
+online for additional details).
+
+VOLUME 7 | NUMBER 5 | MAY 2004 NATURE NEUROSCIENCE
+
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+In experiment 3, only the pointing task was used. In different blocks/scans,
+subjects (n = 5) used either their left or right hand. Each subject performed 14
+scans, 7 scans per task, and each scan consisted of 30 trials.
+Experiment 4 involved a block design. Subjects performed four tasks: fixation, saccadic eye movements (saccade), right hand pointing movements
+(pointing), and mental imagery of pointing movements (imagery) to visual
+targets. In the imagery condition, subjects were asked to imagine their hand
+moving the same way it moved during the right hand pointing task, but without making any movement and keeping their hands relaxed (see
+Supplementary Methods online for additional details).
+In experiments 2, 3 and 4, vision of the hand and foot was occluded by a
+modification to the periscopic mirror. In experiments 2 and 3, a video camera
+was used to monitor the position of the hand and leg to confirm that movement had occurred only during the target period.
+In experiments 2, 3 and 4, all subjects performed an additional session to
+localize the EBA. We used a protocol similar to a previously published study9.
+Grayscale photographs of human body parts and object parts on a uniform
+background (provided by the authors of ref. 9) were presented in separate
+blocks within a scan (for details, see Supplementary Methods online). Each
+subject received 3 or 4 scans. Subjects were asked to pay attention to the pictures and to make no response.
+fMRI scan acquisition and data analysis. A Siemens whole body 1.5 T Vision
+MRI scanner (Siemens AG) and an asymmetric spin-echo, echo-planar
+sequence were used to measure blood oxygenation level–dependent (BOLD)
+contrast over the whole brain (TR = 2.165 s, TE = 37 ms, flip angle = 90°,
+16 contiguous 8 mm axial slices, 3.75 × 3.75 mm in-plane resolution).
+Anatomical images were acquired using a sagittal MP-RAGE sequence
+(TR = 97 ms, TE = 4 ms, flip angle = 12°, inversion time T1 = 300 ms).
+Functional data were realigned within and across runs to correct for head
+motion using six-parameter rigid-body realignment.
+In each subject, hemodynamic responses were estimated without any shape
+assumption at the voxel level using the general linear model. Random-effects
+analyses were performed by entering the individual time points of each estimated hemodynamic response into voxel-level and regional ANOVAs. In
+experiment 1, ANOVAs were run on the time courses from the target period
+with the following factors: MR frame (1–8), task (right hand pointing, saccade, attention), target visual field (left, right) and target validity (valid,
+invalid). These analyses were based on about 2,100 trials per task over the 15
+subjects. Experiment 2 was analyzed in a similar fashion, with three levels on
+the Task factor (right hand pointing, right foot pointing, attention). Analyses
+were based on about 1,500 trials per task over the 10 subjects. In experiment 3,
+the factor Task included only two levels (right hand pointing, left hand pointing) and the analyses were based on about 1.050 trials per task over the 5 subjects. For the analysis of the EBA localizer scans, the only factor was task
+(viewing pictures of body parts versus viewing object parts).
+Experiment 4 was analyzed as a block design experiment. Single-subject z
+maps of contrasts (pointing minus imagery, pointing minus saccades, perception of body parts minus perception of object parts, pointing minus fixation,
+imagery minus fixation) were first thresholded at z = 2 (P < 0.05 uncorrected).
+Next we found the overlap between the images for pointing minus saccades
+and perception of body parts minus perception of object parts to create a mask
+that was applied to the pointing minus imagery map.
+Group-average ANOVA F maps were transformed to z maps, corrected for
+multiple-comparison and adjusted for correlations across timepoints by using
+previously published methods42. The coordinates of responses in z maps were
+identified by an automated algorithm that searched for local maxima and minima, and localized according to a stereotactic atlas43. Group-average z maps
+were projected on the Colin-brain atlas44.
+Note: Supplementary information is available on the Nature Neuroscience website.
+ACKNOWLEDGEMENTS
+This research was supported by grants from National Institutes of Health
+(EY00379, EY001248, 5P50NS06833). We thank A. Snyder and M. McAvoy for
+image analysis and statistical advice; and C. Lewis, T. Phan, F. Miezin and
+M. Cowan for technical support. We also thank P. Downing and N. Kanwisher for
+providing the photographs of human body parts and object parts.
+
+NATURE NEUROSCIENCE VOLUME 7 | NUMBER 5 | MAY 2004
+
+COMPETING INTERESTS STATEMENT
+The authors declare that they have no competing financial interests.
+Received 4 February; accepted 26 March 2004
+Published online at http://www.nature.com/natureneuroscience/
+1. Moran, J. & Desimone, R. Selective attention gates visual processing in the
+extrastriate cortex. Science 229, 782–784 (1985).
+2. Corbetta, M., Miezin, F.M., Dobmeyer, S., Shulman, G.L. & Petersen, S.E.
+Selective and divided attention during visual discriminations of shape, color, and
+speed: functional anatomy by positron emission tomography. J. Neurosci. 11,
+2383–2402 (1991).
+3. Miller, E.K., Li, L. & Desimone, R. Activity of neurons in anterior inferior temporal cortex during a short-term memory task. J. Neurosci. 13, 1460–1478
+(1993).
+4. Macaluso, E., Frith, C.D. & Driver, J. Crossmodal spatial influences of touch on
+extrastriate visual areas take current gaze direction into account. Neuron 34,
+647–658 (2002).
+5. Wurtz, R.H. & Mohler, C.W. Organization of monkey superior colliculus:
+enhanced visual response of superficial layer cells. J. Neurophysiol. 39,
+745–765 (1976).
+6. Tolias, A.S. et al. Eye movements modulate visual receptive fields of V4 neurons.
+Neuron 29, 757–767 (2001).
+7. Chelazzi, L. & Corbetta, M. in The New Cognitive Neurosciences (ed. Gazzaniga,
+M.S.) 667–686 (MIT, Cambridge, Massachusetts, 2000).
+8. Fischer, B., Boch, R. & Bach, M. Stimulus versus eye movements: comparison of
+neural activity in the striate and prelunate visual cortex (A17 and A19) of trained
+rhesus monkey. Exp. Brain. Res. 43, 69–77 (1981).
+9. Downing, P.E., Jiang, Y., Shuman, M. & Kanwisher, N. A cortical area selective
+for visual processing of the human body. Science 293, 2470–2473 (2001).
+10. Grossman, E.D. & Blake, R. Brain areas active during visual perception of biological motion. Neuron 35, 1167–1175 (2002).
+11. Goldberg, M.E. & Bushnell, M.C. Behavioral enhancement of visual responses in
+monkey cerebral cortex. II. Modulation in frontal eye fields specifically related to
+saccades. J. Neurophysiol. 46, 773–787 (1981).
+12. Corbetta, M. et al. A common network of functional areas for attention and eye
+movements. Neuron 21, 761–773 (1998).
+13. O’Craven, K.M. & Kanwisher, N. Mental imagery of faces and places activates
+corresponding stiimulus-specific brain regions. J. Cogn. Neurosci. 12,
+1013–1023 (2000).
+14. Porro, C.A. et al. Primary motor and sensory cortex activation during motor performance and motor imagery: a functional magnetic resonance imaging study. J.
+Neurosci. 16, 7688–7698 (1996).
+15. Hanakawa, T. et al. Functional properties of brain areas associated with motor
+execution and imagery. J. Neurophysiol. 89, 989–1002 (2003).
+16. Corbetta, M., Kincade, J.M., Ollinger, J.M., McAvoy, M.P. & Shulman, G.L.
+Voluntary orienting is dissociated from target detection in human posterior parietal cortex. Nat. Neurosci. 3, 292–297 (2000).
+17. Tootell, R.B., Tsao, D. & Vanduffel, W. Neuroimaging weighs in: humans meet
+macaques in “Primate” visual cortex. J. Neurosci. 23, 3981–3989 (2003).
+18. Spelke, E. Initial knowledge: six suggestions. Cognition 50, 431–445 (1994).
+19. Burton, H. et al. Adaptive changes in early and late blind: a fMRI study of Braille
+reading. J. Neurophysiol. 87, 589–607 (2002).
+20. Amedi, A., Malach, R., Hendler, T., Peled, S. & Zohary, E. Visuo-haptic objectrelated activation in the ventral visual pathway. Nat. Neurosci. 4, 324–330
+(2001).
+21. Evarts, E.V. & Fromm, C. Transcortical reflexes and servo control of movement.
+Can. J. Physiol. Pharmacol. 59, 757–775 (1981).
+22. Sperry, R.W. Neural basis of the spontaneous optokinetic response produced by
+visual inversion. J. Comp. Physiol. Psychol. 43, 482–489 (1950).
+23. Wurtz, R.H. & Sommer, M.A. Identifying corollary discharges for movement in
+the primate brain. Prog. Brain. Res. 144, 47–60 (2004).
+24. Nakamura, K. & Colby, C.L. Visual, saccade-related, and cognitive activation of
+single neurons in monkey exstrastriate area V3A. J. Neurophysiol. 84, 677–692
+(2000).
+25. Duhamel, J.R., Colby, C.L. & Goldberg, M.E. The updating of the representation
+of visual space in parietal cortex by intended eye movements. Science 255,
+90–92 (1992).
+26. Blanke, O., Ortigue, S., Landis, T. & Seeck, M. Stimulating illusory own-body
+perceptions. Nature 419, 269–270 (2002).
+27. Halligan, P.W., Marshall, J.C. & Wade, D.T. Unilateral somatoparaphrenia after
+right hemisphere stroke: a case description. Cortex 31, 173–182 (1995).
+28. Coslett, H.B. Evidence for a disturbance of the body schema in neglect. Brain
+Cogn. 37, 527–544 (1998).
+29. Iacoboni, M. et al. Reafferent copies of imitated actions in the right superior
+temporal cortex. Proc. Natl. Acad. Sci. USA 98, 13995–13999 (2001).
+30. Jellema, T., Baker, C.I., Wicker, B. & Perrett, D.I. Neural representation for the
+perception of the intentionality of actions. Brain Cogn. 44, 280–302 (2000).
+31. Perrett, D.I. et al. Frameworks of analysis for the neural representation of animate objects and actions. J. Exp. Biol. 146, 87–113 (1989).
+32. Rizzolatti, G., Fadiga, L., Gallese, V. & Fogassi, L. Premotor cortex and the recognition of motor actions. Brain Res. Cogn. Brain. Res. 3, 131–141 (1996).
+
+547
+
+© 2004 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+33. Rizzolatti, G., Fogassi, L. & Gallese, V. Neurophysiological mechanisms underlying the understanding and imitation of action. Nat. Rev. Neurosci. 2, 661–670
+(2001).
+34. Iacoboni, M. et al. Cortical mechanisms of human imitation. Science 286,
+2526–2528 (1999).
+35. Galletti, C. et al. The cortical connections of area V6: an occipito-parietal network processing visual information. Eur. J. Neurosci. 13, 1572–1588 (2001).
+36. Astafiev, S.V. et al. Functional organization of human intraparietal and frontal
+cortex for attending, looking, and pointing. J. Neurosci. 23, 4689–4699 (2003).
+37. Falchier, A., Clavagnier, S., Barone, P. & Kennedy, H. Anatomical evidence of
+multimodal integration in primate striate cortex. J. Neurosci. 22, 5749–5759
+(2002).
+38. Hikosaka, K., Iwai, E., Saito, H. & Tanaka, K. Polysensory properties of neurons
+in the anterior bank of the caudal superior temporal sulcus of the macaque monkey. J. Neurophysiol. 60, 1615–1637 (1988).
+
+548
+
+39. Ollinger, J.M., Shulman, G.L. & Corbetta, M. Separating processes within a trial in
+event-related functional MRI I. The method. Neuroimage 13, 210–217 (2001).
+40. Ollinger, J.M., Corbetta, M. & Shulman, G.L. Separating processes within a trial
+in event-related functional MRI II. Analysis. Neuroimage 13, 218–229 (2001).
+41. Shulman, G.L. et al. Areas involved in encoding and applying directional expectations to moving objects. J. Neurosci. 19, 9480–9496 (1999).
+42. Ollinger, J.M. & McAvoy, M.P. A homogeneity correction for post-hoc ANOVAs in
+fMRI. Neuroimage 11, S604 (2000).
+43. Talairach, J. & Tournoux, P. Co-Planar Stereotaxic Atlas of the Human Brain
+(Thieme Medical, New York, 1988).
+44. Van Essen, D.C. et al. Mapping visual cortex in monkeys and humans using surface-based atlases. Vision Res. 41, 1359–1378 (2001).
+45. Rinaman, W.C., Heil, C., Strauss, M.T., Mascagni, M. & Souza, M. in Standard
+Mathematical Tables and Formulae (ed. Zwillinger, D.) 569–669 (CRC Press,
+Boca Raton, 1996).
+
+VOLUME 7 | NUMBER 5 | MAY 2004 NATURE NEUROSCIENCE
+
+

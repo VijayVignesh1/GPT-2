@@ -1,0 +1,69 @@
+nature neuroscience • volume 3 no 3 • march 2000 231
+During development of the central nervous system, a mass of
+undifferentiated cells develops into a precisely organized system
+that acquires information, processes that information and uses it
+to generate appropriate behavior. Formation of central chemical
+synapses, an important part of this self-organization, is poorly
+understood. Here we take advantage of the small size, optical
+transparency and rapid development of the zebrafish (Danio rerio)
+to study central synaptogenesis in an intact vertebrate embryo.
+The Mauthner cells (M-cells) are large, paired, identified hindbrain neurons that are well characterized in the teleost fishes1–7 and
+can be identified on the basis of size, position and morphology4,5
+(Fig. 1a and b). The M-cells mediate the escape response, a rapid
+movement away from auditory, vibrational or tactile stimuli1,2,7.
+Each M-cell axon crosses the ventral midline to extend down the
+contralateral spinal cord to synapse on primary motor neurons
+(Pmns) in each spinal hemisegment2,7 (Fig. 1a and c). Serially
+repeating, bilaterally paired sets of three primary motor neurons,
+the RoP (rostral primary), MiP (middle primary) and CaP (caudal primary)8–11, are activated during the escape reflex and fast
+swimming12. In goldfish and tench, the M-cell–Pmn synapse forms
+between a dorsal collateral of the M-cell axon and a spine-like structure on the ‘ventral dendrite’ of the Pmn2,13,14 (Fig. 1d).
+Time-lapse imaging in vivo is used to study growth cone
+dynamics and axonal pathfinding of the retinotectal projections
+in Xenopus laevis15–19 and zebrafish20, innervation of axial muscle
+by the Pmns11 and embryonic olfactory neuron pathfinding in
+zebrafish21, as well as the effect of collapsin 1 on sensory neuron
+growth cones22; however, these studies do not address the dynamics of pre- or postsynaptic cells as they contact one another.
+During synapse formation in vitro, dendritic filopodia of central neurons show rapid and extensive dynamics23,24, suggesting an
+active role in synaptogenesis. The number of filopodia gradually decreases as the number of dendritic spines increases, suggesting that filopodia may represent precursors to the more stable
+spines23,24. However, even in a tissue slice, the similarity of events
+in culture to those in an intact, developing organism is unknown.
+Analysis of brain development in vivo involving mainly electron
+microscopy (EM) reveals many synapses on dendritic filopodia25–27; however, such static studies do not reveal cellular dynamics or detailed interactions between cells.
+We used time-lapse confocal laser-scanning microscopy and
+two-photon laser-scanning microscopy of neurons labeled in living zebrafish embryos to characterize the cell motility events
+involved in making initial contacts. We found that the Mauthner growth cone moved rapidly and relatively smoothly down the
+spinal cord and seemed to interact transiently with successive
+target cells. Primary motor neurons interacted with the nearby
+axon via dynamic filopodia. These findings are consistent with
+an active involvement of both pre- and postsynaptic elements in
+establishing synaptic contacts. In addition, regularly spaced varicosities formed along the Mauthner axon in close proximity to
+motor neurons; these varicosities may represent nascent presynaptic boutons.
+RESULTS
+Growth of the Mauthner cell axon
+To observe migration of the M-cell growth cone down the spinal
+cord, lipophilic dye, DiD (confocal imaging) or DiO (two-photon imaging)28, was iontophoretically applied to the cell bodies of the M-cell 18–20 hours after fertilization (Fig. 1b).
+Consistent with estimations from fixed embryos5,9, the Mauthner growth cone moved at a mean rate of 99.6 ± 22.7 µm per
+hour (n = 12, ~28°C; Fig. 2). In general, the Mauthner growth
+cone moved smoothly and steadily, but time-lapse sequences
+variably showed slowing or brief pauses every 10–15 µm; these
+were more pronounced in some cases (Fig. 2b, top and middle) than in others (Fig. 2b, bottom). In all sequences examined, varicosities formed with variable timing along the nascent
+axon (Fig. 2c), often just behind the growth cone but not always
+in sequence. Thus, as it moved, the growth cone seemed to leave
+a trail of axonal thickenings spaced at 13.5 ± 4.3 µm (67 varicosities from 6 axons).
+articles
+Growth cone and dendrite dynamics
+in zebrafish embryos: early events in
+synaptogenesis imaged in vivo
+James D. Jontes, JoAnn Buchanan and Stephen J. Smith
+Department of Molecular and Cellular Physiology, Stanford University School of Medicine, Stanford, California 94305-5435, USA
+Correspondence should be addressed to S.J.S. (sjsmith@leland.stanford.edu)
+We used time-lapse fluorescence microscopy to observe the growth of Mauthner cell axons and their
+postsynaptic targets, the primary motor neurons, in spinal cords of developing zebrafish embryos.
+Upon reaching successive motor neurons, the Mauthner growth cone paused briefly before continuing along its path. Varicosities formed at regular intervals and were preferentially associated with
+the target regions of the primary motor neurons. In addition, the postsynaptic motor neurons
+showed highly dynamic filopodia, which transiently interacted with both the growth cone and the
+axon. Both Mauthner cell and motor neurons were highly active, each showing motility sufficient to
+initiate synaptogenesis.
+© 2000 Nature America Inc. • http://neurosci.nature.com
+© 2000 Nature America Inc. • http://neurosci.nature.com

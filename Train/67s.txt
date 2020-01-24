@@ -1,0 +1,65 @@
+ARTICLES
+Ligand-gated ion channels are multi-subunit, allosteric proteins
+that undergo agonist-promoted conformational changes between
+closed and open states1. The earliest mechanistic framework for
+agonist action suggested that binding and receptor activation were
+different steps, leading to the distinction between ‘agonist affinity’
+and ‘agonist efficacy’2. Receptors were thought to exist in conformationally and functionally distinct inactive and active states3,
+with the binding of agonist promoting an increase in the relative
+proportion of the active state4. These concepts contributed to the
+formation of the Monod-Wyman-Changeux (MWC) model of
+allosteric proteins5, which predicts that partial agonists shift inactive receptors toward the active state less efficiently than do full
+agonists. In contrast to the MWC model, the Koshland-NemethyFilmer (KNF) theory asserts that receptors undergo sequential,
+non-concerted changes6, with different ligands inducing specific
+and perhaps different conformational states. According to extensive
+kinetic analysis of voltage-activated Shaker potassium channels and
+Ca2+-activated potassium channels, activation proceeds as a series
+of transitions through discrete states linked by an MWC-like mechanism7–9. For ligand-gated ion channels, similar models have been
+proposed, but there is insufficient experimental evidence to accurately define the gating process.
+Ionotropic glutamate receptors (iGluRs) are ligand-gated ion
+channels that couple the energy of agonist binding at the ligandbinding core to the opening of a transmembrane ion pore10.
+AMPA-subtype iGluRs mediate most of the fast excitatory synaptic transmission in the mammalian brain and have been the focus
+of extensive pharmacological scrutiny11. iGluRs, which likely comprise four subunits, have semi-autonomous membrane-spanning
+and ligand-binding domains (Fig. 1a)10. AMPA receptors are
+appropriate for studying the molecular basis of partial agonism
+because the function of individual receptors can be measured by
+single-channel recording, and the ligand-binding core can be
+genetically excised and studied by high-resolution crystallographic techniques12,13.
+Previous studies show that kainate behaves as a partial agonist at
+AMPA receptors12,14,15, and mutations in the agonist binding site
+alter the relative efficacy of AMPA, glutamate and kainate16.
+Interpreting these studies is complicated, however, by the fact that
+AMPA, kainate and glutamate are chemically distinct and bind to
+different sub-sites within the ligand binding pocket. Furthermore,
+compared with other agonists, kainate stabilizes a unique conformational state of the ligand-binding core due to the presence of its
+pyrrolidine ring and isopropenyl group. Although the aforementioned studies help to explain the action of kainate on AMPA receptors, the mechanism by which partial agonists produce submaximal
+responses remains to be determined. Such an analysis would be
+facilitated by studies in which subtle and graded conformational
+changes in the ligand-binding core are correlated with changes in
+activity at the ion channel. In this regard, we have found that the 5-
+substituted willardiines (Fig. 1b)17–19, variations on the parent
+willardiine from Acacia willardiana and Mimosa asperata20, are
+ideal tools for elucidating the molecular basis of partial agonist
+action at AMPA receptors. Previous studies have shown that
+willardiines are partial agonists and that they result in graded levels
+of desensitization as a consequence of single-atom substitutions.
+Here we present crystallographic and physiological studies on the
+GluR2 ligand-binding core and on the intact receptor with a series
+of willardiine compounds. Our data show that the 5-substituted
+willardiines stabilize distinct conformational sub-states of the lig1Department of Biochemistry and Molecular Biophysics and 2Howard Hughes Medical Institute, Columbia University, 650 West 168 Street, New York, New York
+10032, USA. 3Department of Pharmacology, Emory University, School of Medicine, Rollins Research Center, Atlanta, Georgia 30322, USA. 4Laboratory of Cellular
+and Molecular Neurophysiology, National Institute of Child Health and Development, National Institutes of Health, Bethesda, Maryland 20892, USA. Correspondence
+should be addressed to E.G. (jeg52@columbia.edu).
+Structural basis for partial agonist action at
+ionotropic glutamate receptors
+Rongsheng Jin1, Tue G Banke3, Mark L Mayer4, Stephen F Traynelis3 & Eric Gouaux1,2
+An unresolved problem in understanding neurotransmitter receptor function concerns the mechanism(s) by which full and partial
+agonists elicit different amplitude responses at equal receptor occupancy. The widely held view of ‘partial agonism’ posits that
+resting and active states of the receptor are in equilibrium, and partial agonists simply do not shift the equilibrium toward the
+active state as efficaciously as full agonists. Here we report findings from crystallographic and electrophysiological studies of the
+mechanism of activation of an AMPA-subtype glutamate receptor ion channel. In these experiments, we used 5-substituted
+willardiines, a series of partial agonists that differ by only a single atom. Our results show that the GluR2 ligand-binding core can
+adopt a range of ligand-dependent conformational states, which in turn control the open probability of discrete subconductance
+states of the intact ion channel. Our findings thus provide a structure-based model of partial agonism.
+NATURE NEUROSCIENCE VOLUME 6 | NUMBER 8 | AUGUST 2003 803
+© 2003 Nature Publishing Group http://www.nature.com/natureneuroscience

@@ -1,0 +1,1085 @@
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+Random change in cortical load representation
+suggests distinct control of posture and movement
+Isaac Kurtzer1, Troy M Herter1 & Stephen H Scott
+Accurately maintaining a fixed limb posture and quickly moving between postures underlies both everyday skills, including holding
+and lifting a cup of coffee, and expert skills, such as an Olympic wrestler’s holding and throwing an opponent. A fundamental
+question in limb motor control is whether the brain manages these contrasting goals of posture and movement through a single,
+robust control process or whether each engages a specialized control process. We addressed this question by examining how
+individual neurons in the primary motor cortex of macaque monkeys represent mechanical loads during posture and movement
+tasks. Notably, approximately half of the neurons that expressed load-related activity did so exclusively during either posture only
+or movement only. Further, those neurons with load-related activity during both tasks randomly switched their magnitude of
+response between tasks. These random changes in load representation suggest specialized control processes, one for posture
+and one for movement.
+
+A fundamental and unresolved question in motor control research is
+whether posture and movement involve similar1–4 or specialized5–7
+neural control processes. The use of a similar control process has the
+advantage of generality and conserved neural circuitry. This is exemplified by equilibrium point control1,4, in which movement results
+from shifts in postural references with the detailed force requirements
+delegated to peripheral reflex control and intrinsic muscle stiffness. In
+contrast, using specialized control processes for posture and movement
+tasks has the advantage of context dependency and flexibility, as
+exemplified by using multiple internal models5,8 or an optimal feedback controller9,10, but requires circuitries with greater functional
+dedication and expertise. Determining which strategy is used by an
+organism is basic to understanding both posture and movement
+control and to explaining how the limb motor system weighs the
+conflicting requirements of generality and flexibility.
+Behavioral evidence bearing on this question has been equivocal,
+with researchers disagreeing whether the modulation of limb stiffness during movement3,11,12, motor adaptation to new movementdependent forces4,6,13,14 and patterns of movement accuracy7 reflect the
+operation of distinct control processes or of a more unified and robust
+control process that supports both posture and movement. Likewise,
+changes in reflex15,16 and perceptual function17 have been observed
+between posture and movement, but these data cannot indicate how
+descending motor commands treat these distinct tasks.
+A more direct approach is to analyze the underlying neural commands during motor control such that as in primary motor cortex
+(M1), the principal cortical region for voluntary motor execution18,19.
+Researchers have observed changes in the activity of individual M1
+neurons during different hand grips20, between ramp and hold
+
+movements and ramp and hold isometric forces of the wrist21, and
+between whole-limb isometric and movement tasks22. However, these
+alterations in neuron activity could have reflected many different
+factors, including changes in the musculature involved in the task or
+changes in movement kinematics.
+Appropriately comparing neural processing during posture and
+movement is difficult because the two tasks involve inherently different
+kinematics—one is stationary and the other is moving. This difficulty
+can be resolved by instead comparing the neurons’ representations of
+mechanical loads, a salient non-movement feature, during posture and
+movement tasks. Previous work has shown that load-related activity in
+M1 is highly predictable between single- and multijoint loads in both
+posture23 and movement24 tasks, suggesting that a neuron’s role in
+motor control remains invariant within posture tasks and within
+movement tasks. If individual neurons also maintain a similar role
+across movement and posture tasks, then their responses to mechanical
+loads should be invariant across tasks. In contrast, substantial changes
+in load-related activity between tasks would indicate a shift in the
+neurons’ role in each task. In two experiments, we observed significant
+changes in M1 neurons’ load-related activity between posture and
+movement tasks, providing evidence for specialized control of posture
+and movement.
+RESULTS
+Experiment 1: Separate posture and reaching tasks
+In this study, 94 M1 neurons associated with proximal forelimb control
+were recorded from four monkeys (monkeys A–D, n ¼ 26, 24, 31 and
+13, respectively) during separate posture and reaching tasks involving
+joint-based load compensation (Methods). Each task was performed
+
+Centre for Neuroscience Studies, Department of Anatomy and Cell Biology, Botterell Hall, Queen’s University, Kingston, Ontario K7L 3N6, Canada. 1These authors
+contributed equally to this work. Correspondence should be addressed to S.H.S. (steve@biomed.queensu.ca).
+Published online 13 March 2005; doi:10.1038/nn1420
+
+498
+
+VOLUME 8
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2005 NATURE NEUROSCIENCE
+
+ARTICLES
+while the monkeys wore a robotic exoskeleton (KINARM) that allowed
+planar limb motion and could apply mechanical loads to the shoulder
+and elbow joints independently25. In the posture task, monkeys kept
+their hand at a central target while countering constant loads applied
+to the shoulder, elbow, both or neither joint23. In the reaching
+
+Both
+
+EF
+
+0.12
+
+0.12
+0.0
+–0.12
+
+–0.12
+0.0
+0.12
+Shoulder torque (N m)
+
+0.12
+
+1s
+SE
+
+SF
+
+0.0
+
+[46, –53]
+
+0
+
+–0.12
+
+1s
+SE
+
+SF
+
+0.0
+
+EE
+20 spikes/s
+
+EE
+10 spikes/s
+
+0
+
+EF
+0
+
+EF
+0
+EE
+20 spikes/s
+
+0
+
+–0.12
+
+c
+
+Posture only
+
+Reach only
+
+Elbow torque (N m)
+0.0
+–0.12
+0.12
+
+–30
+
+Spikes/s
+
+b
+
+30
+
+1s
+SE
+
+0
+
+SF
+[–14, 97]
+
+–0.12
+
+0.0
+
+0.12
+
+0.0
+
+0.12
+
+VB
+VE
+
+40 spikes/s
+
+45 spikes/s
+
+65 spikes/s
+
+VS
+U
+
+0.12
+
+0.12
+–0.12
+
+0.0
+
+[48, –187]
+
+0.0
+
+0.12
+
+[64, –156]
+
+0.5 s
+
+0.0
+
+–0.12
+
+0.5 s
+
+–0.12
+
+Elbow torque (N m)
+0.0
+–0.12
+0.12
+
+Spikes/s
+
+d
+
+30
+
+0.5 s
+
+–30
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+a
+
+task, monkeys moved their hand from a central target to a peripheral
+target while countering resistive velocity-dependent loads applied to
+the shoulder, elbow, both or neither joint24. Because the monkeys
+were trained to achieve similar limb kinematics under various load
+conditions, any changes in neural activity between conditions
+
+–0.12
+0.0
+0.12
+Shoulder torque (N m)
+
+–0.12
+
+Figure 1 Neural activity of three cells during posture and reaching tasks. (a–d) Vertical columns show sample neurons expressing load-related activity during
+both tasks, reaching only and posture only: left, B59; middle, B34; right, A21. (a) Spike rasters and mean instantaneous firing rate under the nine load
+conditions of the posture task in a muscle-torque coordinate frame, shoulder extensor (SE) and flexor (SF) torques vs. elbow extensor (EE) and flexor (EF)
+torques. 0, no muscular torque. (b) Plane fits of ratio of change in neural activity to change in muscle torque during the posture task. Neuron’s response
+gain and direction are indicated by strength and direction of the plane’s color gradient; arrows and plane coefficients clarify and denote significant plane fit
+(P o 0.01). (c) Spike rasters and mean instantaneous firing rate under four viscous load conditions during reaching to a single target: VB, both; VE, elbow;
+VS, shoulder; U, unloaded. Data are for target direction closest to the cell’s preferred direction in hand space during unloaded condition. Vertical line, start of
+movement. (d) Plane fits of ratio of change in neural activity to change in muscle torque during reaching task (format as in b).
+
+NATURE NEUROSCIENCE VOLUME 8
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2005
+
+499
+
+reflect influences of the mechanical load (Supplementary Note and
+Supplementary Fig. 1 online).
+As observed previously21,26–29, M1 neurons expressed a wide range
+of responses to the loads. In both tasks, roughly half the cells showed
+significant load-related responses (posture task: 50/94; reaching task:
+53/94); this was determined by analyzing their change in activity during
+the loaded conditions relative to the unloaded condition with a planar
+regression model, P o 0.01 (Methods). The absolute magnitude
+of these responses, or response gain, ranged from very low to high
+firing rates (posture task, 1152 HzN1m1; reaching task,
+16194 HzN1m1). Likewise, the neurons varied in what load
+direction evoked the largest response, termed the response direction,
+as a neuron could express changes in discharge preferentially related to
+elbow loads, shoulder loads or both. In both tasks we observed a
+nonuniform representation of response directions biased toward
+whole-limb flexion and extension muscle torques (Rayleigh bimodal
+test: P o 0.01 and P o 0.001, respectively)23.
+If these load-related neurons formed a single cortical controller for
+both posture and movement, they should have similar load-related
+activity in both tasks. Instead, we observed a broad breakdown among
+each possible category: load-related activity during posture only
+(21/94), reaching only (24/94), both tasks (29/94) and neither task
+(20/94), (Figs. 1 and 2a). Notably, most neurons that were load-related
+only during the posture task were also tuned to the direction of hand
+motion during reaching (16/21, 76%); that is, these neurons were
+systematically modulated during reaching, but were insensitive to the
+task’s mechanical requirements (Fig. 1, right column). Additionally, the
+observed categorical breakdown among neurons did not mirror that of
+the proximal forelimb muscles. Virtually all shoulder and elbow
+muscles (97%) expressed some load-related activity and a larger
+percentage of these (64%) were load-related in both tasks than for
+M1 neurons (34%) (w2 ¼ 16.9, P o 0.001; Fig. 2a).
+We examined the response gain and response direction of neurons
+with load-related activity in both tasks to assess several putative
+relationships between neural activity and behavior. Similarity in
+response gain and response direction would suggest an underlying
+tight association in the control of the two tasks. In contrast, random
+changes in both response gain and response direction tuning would
+suggest a more labile, and consequently complex, link between cortical
+processing and the motor periphery. Lastly, random changes in
+response gain paired with invariance in response direction would
+suggest that neurons maintain a constant relative association to a
+
+a
+
+portion of the motor periphery (that is, shoulder, elbow or some
+combination of the two), but with an absolute contribution that varies
+with the behavioral context.
+Similarity in response gain was assessed by a linear correlation of the
+gains measured for each task; a high or low correlation indicates that
+the neurons make a similar or random contribution across tasks,
+respectively. We found negligible intertask gain correlations when we
+examined neurons tuned in either task or those tuned in both tasks
+(reither ¼ 0.02, P 4 0.05; rboth ¼ 0.13, P 4 0.05; Fig. 2b). Therefore, the
+absolute contribution of individual neurons varied greatly across
+posture and movement tasks; alternative measures of neural gain also
+produced very low correlations across tasks (Supplementary Note and
+Supplementary Fig. 2 online).
+Response direction was assessed by subtracting each cell’s response
+direction in the posture task from its response direction in the reaching
+task. If response directions were maintained between tasks, then their
+absolute angular difference would be smaller than that of random
+pairings. Notably, and in contrast to what was observed for response
+gain, we found a neuron’s response direction is generally conserved
+across tasks (mean absolute difference ¼ 521 versus random B901,
+bootstrap P o 104; Fig. 2c).
+The observed difference in the neurons’ intertask gain and direction
+correlations did not reflect a difference in the reliability of the measures,
+as both showed high intratask reliability (Supplementary Note and
+Supplementary Fig. 3 online). Also, the neural responses did not
+entirely parallel the muscular responses. Unlike the neurons, both
+response gain and direction were conserved between posture and
+movement in muscles (response gain: rboth ¼ 0.81, P o 0.001; response
+direction: mean absolute difference ¼ 281 versus random B901,
+bootstrap P o 104). Muscular response gains were also higher during
+the reaching task, presumably to compensate for the force-velocity
+relationship of muscle30,31 (slope ¼ 3.45, P o 0.001). Therefore,
+neurons retained a constant relative association with the motor
+periphery, although their absolute contribution was highly variable
+between tasks.
+Experiment 2: Integrated posture and reaching task
+In the experiment described above, we perturbed the monkey’s limb
+with constant and viscous loads during the posture and reaching tasks,
+respectively. Consequently, our observation of a substantial change in
+load representation could have arisen from either a difference between
+the two tasks per se or a difference in the two types of loads
+
+210
+
+b
+70
+
+31
+
+c
+
+40
+30
+20
+
+24
+150
+
+Percentage of cells
+
+Posture gain, Hz (N m)–1
+
+50
+
+120
+90
+60
+
+Both
+
+Reaching Posture
+
+None
+
+17
+14
+–∆90°
+10
+
+3
+
+0
+
+0
+
+∆0°
+
+21
+
+7
+30
+
+10
+
++∆90°
+
+28
+
+180
+
+60
+Percent load-related (%)
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+0
+
+30
+
+60
+
+90
+
+120
+
+150
+
+180
+
+0
+
+210
+
+–1
+
+Reaching gain, Hz (N m)
+
+0
+
+20
+
+40
+
+60
+
+80 100 120 140 160 180
+
+Absolute difference in response direction (deg)
+
+Figure 2 Load sensitivity of proximal forelimb muscles and M1 neurons during posture and reaching tasks. (a) Percentage of muscles and neurons with loadrelated activity. Gray bars, neurons; black bars, muscles. (b) Correlation of response gain of neurons between the reaching and posture tasks: gray circles, open
+triangles and black squares denote neurons with load-related responses during both tasks, reaching only and posture only, respectively. (c) Histogram of
+absolute difference in response direction between posture and reaching tasks. Inset, polar histogram of signed difference in response direction between
+posture and reaching tasks; arrow indicates mean change in direction.
+
+500
+
+VOLUME 8
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2005 NATURE NEUROSCIENCE
+
+were load-related in both epochs or not load-related in both epochs. In
+contrast, a score of 1 signified that all neurons ‘flipped’ their contribution between epochs, being load-related during one epoch and not
+load-related in the other (Fig. 4a).
+Not surprisingly, the similarity score, response gain correlation
+and response direction correlation remained high before target
+onset because the two epochs overlapped in time. Then, during the
+reaction time period, the similarity score rapidly decreased to a value
+similar to random chance throughout the movement time period
+(bootstrap P 4 0.01). The correlation in response gain between
+the two epochs also showed a corresponding drop during the reaction
+time period (Fig. 4b, solid line). In contrast, response direction
+was highly conserved across the reaction and movement time periods
+(Fig. 4b, dashed line). Near the end of the movement, the similarity
+score gradually returned close to its initial value, although the
+correlation in response gain did not reach premovement levels. That
+is, cells which expressed load-related activity at the central posture also
+tended to have load-related activity at the peripheral postures but
+with an altered response gain, probably owing to the influence
+of arm position28,35. The response direction at the peripheral
+
+used. Possibly one neural population was primarily sensitive to constant loads whereas another was primarily sensitive to viscous loads.
+Separate representations for different types of mechanical loads would
+allow a flexible control strategy and is consistent with some human
+behavioral studies8,32–34.
+We addressed this possibility with an experiment involving a single
+type of mechanical load applied during both posture and movement
+(monkey D, n ¼ 95). In each trial the monkey countered a constant
+load applied to the shoulder, elbow, both or neither joint during a
+prereach postural period and continued to counter this constant load
+while reaching from the central target to one of two peripheral targets
+(see Methods). By comparing each neuron’s load-related activity
+during a 1-s premovement postural period (epoch 1) with a 200-ms
+sliding window (epoch 2), we could observe how load-related activity
+evolved between behavioral contexts.
+As before, we found exemplar neurons with load-related activity
+only during posture, only during reaching, during both periods and
+during neither period (Fig. 3). These across-epoch categorizations were
+summarized with a similarity score between 1 and –1. Akin to a
+categorical correlation, a similarity score of 1 signified that all neurons
+
+EF
+0.32
+
+SF
+
+0.0
+
+0.32
+
+0
+
+SF
+[–14, 22]
+
+0.0
+
+–0.32
+
+–0.32
+
+1s
+SE
+0.32
+
+[54, –16]
+
+0
+
+–0.32
+
+0.0
+
+0.32
+
+–0.32
+
+1s
+SE
+
+0.0
+
+0.32
+
+SF
+
+0.0
+
+Elbow torque (N m)
+
+–0.32
+
+25
+Spikes/s
+–25
+
+0
+
+EE
+0
+35 spikes/s
+
+EF
+EE
+0
+35 spikes/s
+
+EF
+EE
+0
+45 spikes/s
+1s
+SE
+
+b
+
+Posture only
+
+Reach only
+
+Both
+
+a
+
+–0.32
+
+0.0
+
+0.32
+
+0.0
+
+0.32
+
+–0.32
+
+0.0
+
+0.32
+
+–0.32
+
+–0.32
+
+0.0
+
+0.0
+
+[1, 30]
+
+0.32
+
+0.32
+
+0.32
+0.0
+
+Elbow torque (N m)
+
+[30, –16]
+
+–0.32
+
+Spikes/s
+
+c
+
+25
+
+Shoulder torque (N m)
+
+–25
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+
+–0.32
+
+0.0
+
+0.32
+
+–0.32
+
+Shoulder torque (N m)
+Figure 3 Load-related activity across posture and reaching periods with constant-magnitude load. (a–c) Vertical columns indicate exemplar neurons expressing
+load-related activity during both task periods (left: neuron D729_3e), only during the reaching period (middle: neuron D756_4e), and only during the
+posture period (right: neuron D724_4b). (a) Same format as Figure 1a. Vertical lines indicate movement onset; shaded regions denote posture and movement
+epochs used for plane fits displayed in subsequent panels. (b,c) Indicated plane fits during the posture and reaching epochs, respectively. Same format
+as in Figure 1b.
+
+NATURE NEUROSCIENCE VOLUME 8
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2005
+
+501
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+a
+
+0.8
+
+Gain correlation
+
+0.4
+0.2
+0.0
+–0.2
+–0.4
+–0.6
+–0.8
+–1.0
+1,200 800
+400
+0
+Time from onset (ms)
+
+postures was highly correlated with the response direction at the
+central posture.
+Notably, the one study28 that had used a constant (hand-based) load
+during a posture and movement task reported high correlations
+in both direction and gain when the entire movement time (gain,
+rMT ¼ 0.51–0.86 across monkeys) or the combined reaction and
+movement time (gain, rRT+MT ¼ 0.65–0.90) were analyzed. However,
+early reaction-time and late movement-time activity can relate to
+postural control before and after movement, respectively36, and when
+we used similar time windows, we also observed elevated gain correlations (rMT ¼ 0.4 and rRT+MT ¼ 0.58).
+In summary, M1 neurons maintain a constant relative association with the motor periphery during both posture and movement, but their absolute contribution varies randomly across these
+behavioral contexts.
+DISCUSSION
+In this study we found a profound shift in load-related cortical
+processing during posture and movement, providing direct evidence
+for distinct control processes underlying the two behaviors. In the
+extreme, individual neurons can provide exquisite information on
+mechanical loads during posture and only reflect kinematic features
+during movement. These data are inconsistent with the notion that the
+control of movement is generated by shifts in positional control.
+Rather, there is an abrupt switch in neural processing in M1 starting
+just before the transition from a stationary posture to movement,
+consistent with task-dependent control strategies such as multiple
+internal models5,8 and optimal feedback control9,10. It is likely that
+this change in neural processing is linked to previous observations that
+cortical field potentials are phase-locked to muscle field potentials
+during posture and diminish markedly upon movement37.
+It was possible that a task-dependent change in neural processing
+in M1 would invoke distinct and dedicated populations of neurons.
+For example, the observation that neurons can be qualitatively categorized as ‘phasic’ or ‘tonic’ in nature21 could be assumed to reflect the fact
+that those in the former class are involved in dynamic control and those
+in the latter class in postural control. If posture and movement were
+supported by only two unique sets of neurons, the similarity score we
+obtained (Fig. 4a) should have become strongly negative during
+movement, reflecting a flip between these unique neural populations.
+Instead, the similarity score hovered within random levels during
+movement, reflecting the comparable presence of neurons expressing
+load-related activity exclusively to one task and those with load-related
+activity in both or neither task.
+
+502
+
+b
+
+1.0
+0.6
+
+Similarity score
+
+Figure 4 Running analysis of load-related activity
+during posture and movement. (a,b) Relationship
+between a fixed 1,000-ms premovement posture
+epoch and a sliding 200-ms epoch during
+Experiment 2. Left vertical line, gray window and
+central vertical line indicate average target onset,
+average movement time and average time of peak
+hand velocity, respectively. Horizontal error bars
+indicate standard deviations. (a) Thick vertical
+solid line denotes the measured similarity score.
+Thin solid and dashed horizontal lines denote the
+predicted mean similarity score and its confidence
+intervals (P o 0.01) for a random distribution
+between the two epochs. (b) Correlation of
+response gain (thick vertical solid line) and
+response direction (dashed line) across time for a
+cell tuned in both epochs. Mean vector length was
+used as a measure of angular correlation45.
+
+0
+400
+Time from end (ms)
+
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+–0.1
+–0.2
+–0.3
+
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+
+1,200 800
+400
+0
+Time from onset (ms)
+
+Directional correlation
+
+ARTICLES
+
+0
+400
+Time from end (ms)
+
+Most notably, those neurons with load-related activity in both tasks
+expressed random changes in their response gain, and hence their
+absolute contribution, between tasks. This random gain change
+strongly supports the notion of distinct control processes for posture
+and movement. Although it has been demonstrated that postural gain
+can change depending on the expected range of forces, this effect is
+modest and appears to be a systematic rather than a random change
+across conditions29.
+In contrast to the random change in response gain across posture
+and movement, the present work also illustrates that the response
+direction—that is, the preferred direction in muscle-torque space—was
+highly conserved across conditions. For example, if a neuron increases
+its activity for elbow flexor loads but is unresponsive to shoulder loads
+during posture, then this relative pattern of load-related activity is
+retained during movement. This invariance in response direction
+tuning would be expected if neurons maintained a fixed relative
+association with a group of limb muscles38,39.
+The present load-compensation protocol exposed a task-dependent
+change in the motor network for posture and for movement control.
+Future studies could use analogous load-compensation paradigms
+to determine whether M1 or other brain regions express additional
+task-dependent networks—possibly underlying rhythmic40 or tracking
+limb motions.
+With regard to clinical relevance, specialized control of posture and
+movement may explain why some neurological disorders result in
+difficulties associated with only one of the two states, or with transitions between these states, as with different types of tremors41 and
+Parkinson disease42, respectively. Practically, this work illustrates a
+potential challenge for developing neuroprosthetics to guide artificial
+motor actions. Whereas cortex-driven prostheses traditionally assume
+a fixed correlation between neural activity and motor output43,44,
+shifts in load representation across behavioral tasks suggest that
+using a single algorithm would be suboptimal. Separate algorithms
+may be necessary to associate neural activity related to posture and to
+movement as well as a decisional process to identify transitions between
+behavioral contexts.
+METHODS
+Experiments. Four male rhesus monkeys (Macaca mulatta, 6–12 kg) were
+treated according to approved guidelines of the Queen’s University Animal
+Care Committee. The monkeys were trained to counter flexion and extension
+loads applied at the shoulder and elbow joints by a robotic exoskeleton
+(KINARM, BKIN Technologies, Kingston, Canada) that allowed horizontal
+planar movement25. The entire limb remained visible, and the start and target
+
+VOLUME 8
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2005 NATURE NEUROSCIENCE
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+positions were presented as small circles in the movement plane through a
+virtual reality system.
+Experiment 1 involved separate posture and reaching tasks as described in
+previous studies23,24. Posture task: monkeys maintained their right hand within
+the central target window (0.8-cm radius) for B3 s while countering a constant
+flexion or extension torque at the shoulder, elbow, both or neither joint
+(monkeys A–C, 70.12 Nm; monkey D, 70.32 Nm). A total of 9 load
+conditions were presented in a pseudorandom block design, with each
+block repeated 5 times, for 45 trials total. Reaching task: monkeys moved
+their right hand from a central start window to eight (or, for monkey C only,
+two) peripheral targets (1-cm radius) distributed radially, with equal amplitude
+(6 cm) within 220–350 ms. Targets were presented in a pseudorandom
+block design, with each block repeated 6 (or 10) times, for 48 (or 20) trials
+total, respectively. In each reach set, the monkeys countered a velocitydependent torque that impeded joint motion at the shoulder, elbow, both or
+neither joint (0.2 Nradms1). Load conditions were presented in a blocked
+design with a pseudorandom order between targets, which allowed the
+monkeys to adapt to each load after the first block; the initial trial was dropped
+from analysis. Monkeys A–C reached under all load conditions, whereas
+Monkey D reached in the ‘no load’ and ‘both joints loaded’ conditions only.
+Experiment 2 (monkey D only) involved a combined task with both postural
+and reaching periods. Constant torques identical to those used in the earlier
+posture task in Experiment 1 were used (70.32 Nm) while the monkey
+maintained his right hand at the start position for B2 s, then reached to one of
+two targets (at 901 and 2701), and finally maintained his position at the target
+for another B1.5 s. The 18 load conditions (9 loads for each target) were
+presented in a pseudorandom block design with each block repeated 5 times for
+a total of 90 trials per set.
+Cell and muscle recording. Standard neurophysiological techniques were used
+for extracellular recordings in the shoulder-elbow region of M1 (refs. 24,28).
+Electromyographic activity of proximal forelimb muscles was recorded in all
+four monkeys during Experiment 1. These included percutaneous and chronic
+recordings, for a total of 39 samples (see Supplementary Note).
+Data analysis. Neuron and muscle activity were quantified by the mean change
+in spike rate and mean change in rectified voltage between the loaded and
+unloaded conditions for each task. In Experiment 1, the posture task used
+activity from final 2 s of hold; the reaching task used activity from movement
+onset to peak hand velocity. In experiment 2, epoch 1/premovement postural
+period used activity from 1,000 ms prior to target onset; epoch 2/sliding
+window used activity from the 200-ms window that was successively shifted in
+5-ms steps across the pre-, peri- and postmovement time periods.
+Muscle torque was estimated using the equations of motion for a two-joint
+system including the influence of mechanical properties of the limb and robotic
+device25. In all tasks, changes in muscle torque were calculated as the difference
+in mean elbow and shoulder muscle torque relative to the unloaded condition.
+For Experiment 2, we examined the load-related activity for the target that
+elicited the highest activity during unloaded reaching owing to the coupling of
+a neuron’s preferred hand direction and load sensitivity24.
+Load-related responses were assessed by a plane-fit of the change in neuron
+and muscle activity versus the change in shoulder and elbow muscle torque;
+acceptance level was P o 0.01. The shoulder (S) and elbow (E) slope
+coefficients yielded two measures used throughout the experiments: response
+direction (atan(E/S)) and response gain (E2 + S2)1/2 . We performed a number
+of tests to ensure that both measures were highly reliable (see Supplementary
+Note). Further, several alternative measures of response gain and response
+direction provided similar results (see Supplementary Note). The similarity
+score obtained in Experiment 2 (Fig. 4a) was defined as the number of cells that
+retained the same load-related activity as flagged by the plane-fit (both and
+neither sensitive) minus the number of cells sensitive to loads in only one of the
+epochs (epoch 1 only and epoch 2 only) divided by the total number of cells.
+Mean and confidence interval for a random similarity score were derived from
+the w2 statistic, P o 0.01.
+When comparing neural processing across tasks we used standard linear
+correlations for the response gain measure and bootstrapped circular analyses
+for the response direction measure. The bootstrap analysis randomly compared
+
+NATURE NEUROSCIENCE VOLUME 8
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2005
+
+the measured mean absolute angular difference from that obtained by 10,000
+random repeat reassignments45, and also calculated the circular correlation as
+the mean vector length of the response directions45 (Fig. 4b).
+Note: Supplementary information is available on the Nature Neuroscience website.
+
+ACKNOWLEDGMENTS
+S.H.S. is supported by Canadian Institutes of Health Research (CIHR)
+Investigator Award and this work is supported by funds from CIHR (MOP 13462
+and 200112NET). We thank K. Moore, J. Scott and J. Swaine for expert technical
+assistance, and P. Cisek, R. Flanagan, J. Kalaska and D. Munoz for comments on
+earlier versions of the manuscript.
+COMPETING INTERESTS STATEMENT
+The authors declare competing financial interests (see the Nature Neuroscience
+website for details).
+Received 2 November 2004; accepted 16 February 2005
+Published online at http://www.nature.com/natureneuroscience/
+
+1. Feldman, A.G. Once more on the equilibrium-point hypothesis (l model) for motor
+control. J. Mot. Behav. 18, 17–54 (1986).
+2. Bullock, D., Cisek, P. & Grossberg, S. Cortical networks for control of voluntary arm
+movements under variable force conditions. Cereb. Cortex 8, 48–62 (1998).
+3. Gribble, P.L., Ostry, D.J., Sanguineti, V. & Laboissiere, R. Are complex control
+signals required for human arm movement? J. Neurophysiol. 79, 1409–1424
+(1998).
+4. Mussa-Ivaldi, F.A. & Bizzi, E. Motor learning through the combination of primitives.
+Phil. Trans. R. Soc. Lond. B 355, 1755–1769 (2000).
+5. Gomi, H. & Kawato, M. Recognition of manipulated objects by motor learning with
+modular architecture networks. Neural Netw. 6, 485–497 (1993).
+6. Lackner, J.R. & DiZio, P. Rapid adaptation to Coriolis force perturbations of arm
+trajectory. J. Neurophysiol. 72, 299–313 (1994).
+7. Brown, L.E., Rosenbaum, D.A. & Sainburg, R.L. Limb position drift: implications for
+control of posture and movement. J. Neurophysiol. 90, 3105–3118 (2003).
+8. Wolpert, D.M. & Kawato, M. Multiple paired forward and inverse models for motor
+control. Neural Netw. 11, 1317–1329 (1998).
+9. Todorov, E. Optimality principles in sensorimotor control. Nat. Neurosci. 7, 907–915
+(2004).
+10. Scott, S.H. Optimal feedback control and the neural basis of volitional motor control.
+Nat. Rev. Neurosci. 5, 532–546 (2004).
+11. Gomi, H. & Kawato. Equilibrium-point control hypothesis examined by measured arm
+stiffness during multijoint movement. Science 272, 117–120 (1996).
+12. Shapiro, M.B., Gottlieb, G.L., Moore, C.G. & Corcos, D.M. Electromyographic responses
+to an unexpected load in fast voluntary movements: descending regulation of segmental
+reflexes. J. Neurophysiol. 88, 1059–1063 (2002).
+13. Gribble, P.L. & Ostry, D.J. Compensation for loads during arm movements using
+equilibrium-point control. Exp. Brain Res. 135, 474–482 (2000).
+14. Hinder, M.R. & Milner, T.E. The case for an internal dynamics model versus equilibrium
+point control in human movement. J. Physiol. (Lond.) 549, 953–963 (2003).
+15. Seki, K., Perlmutter, S.I. & Fetz, E.E. Sensory input to primate spinal cord is
+presynaptically inhibited during voluntary movement. Nat. Neurosci. 6, 1309–1316
+(2003).
+16. Stein, R.B. & Capaday, C. The modulation of human reflexes during functional motor
+tasks. Trends Neurosci. 11, 328–332 (1988).
+17. Brooke, J.D. et al. Sensori-sensory afferent conditioning with leg movement: gain control
+in spinal reflex and ascending paths. Prog. Neurobiol. 51, 393–421 (1997).
+18. Ashe, J. Force and the motor cortex. Behav. Brain Res. 87, 255–269 (1997).
+19. Scott, S.H. The role of primary motor cortex in goal-directed movements: insights
+from neurophysiological studies on non-human primates. Curr. Opin. Neurobiol. 13,
+671–677 (2003).
+20. Muir, R.B. & Lemon, R.N. Corticospinal neurons with a special role in precision grip.
+Brain Res. 261, 312–316 (1983).
+21. Cheney, P.D. & Fetz, E.E. Functional classes of primate corticomotoneuronal cells and
+their relation to active force. J. Neurophysiol. 44, 773–791 (1980).
+22. Sergio, L.E. & Kalaska, J.F. Changes in the temporal pattern of primary motor cortex
+activity in a directional isometric force versus limb movement task. J. Neurophysiol. 80,
+1577–1583 (1998).
+23. Cabel, D.W., Cisek, P. & Scott, S.H. Neural activity in primary motor cortex related to
+mechanical loads applied to the shoulder and elbow during a postural task.
+J. Neurophysiol. 86, 2102–2108 (2001).
+24. Gribble, P.L. & Scott, S.H. Overlap of internal models in motor cortex for mechanical
+loads during reaching. Nature 417, 938–941 (2002).
+25. Scott, S.H. Apparatus for measuring and perturbing shoulder and elbow joint positions
+and torques during reaching. J. Neurosci. Methods 89, 119–127 (1999).
+26. Evarts, E.V. Relation of pyramidal tract activity to force exerted during voluntary
+movement. J. Neurophysiol. 31, 14–27 (1968).
+27. Thach, W.T. Correlation of neural discharge with pattern and force of muscular activity,
+joint position, and direction of intended next movement in motor cortex and cerebellum.
+J. Neurophysiol. 41, 654–676 (1978).
+
+503
+
+© 2005 Nature Publishing Group http://www.nature.com/natureneuroscience
+
+ARTICLES
+28. Kalaska, J.F., Cohen, D.A., Hyde, M.L. & Prud’homme, M. A comparison of movement
+direction-related versus load direction-related activity in primate motor cortex, using a
+two-dimensional reaching task. J. Neurosci. 9, 2080–2102 (1989).
+29. Hepp-Reymond, M., Kirkpatrick-Tanner, M., Gabernet, L., Qi, H.X. & Weber, B. Contextdependent force coding in motor and premotor cortical areas. Exp. Brain Res. 128, 123–
+133 (1999).
+30. Joyce, G.C., Rack, P.M. & Westbury, D.R. The mechanical properties of cat soleus
+muscle during controlled lengthening and shortening movements. J. Physiol. (Lond.)
+204, 461–474 (1969).
+31. Scott, S.H., Brown, I.E. & Loeb, G.E. Mechanics of feline soleus: I. Effect of fascicle
+length and velocity on force output. J. Muscle Res. Cell Motil. 17, 207–219 (1996).
+32. Hollerbach, M.J. & Flash, T. Dynamic interactions between limb segments during planar
+arm movement. Biol. Cybern. 44, 67–77 (1982).
+33. Gottlieb, G.L., Song, Q., Almeida, G.L., Hong, D.A. & Corcos, D. Directional control of
+planar human arm movement. J. Neurophysiol. 78, 2985–2998 (1997).
+34. Kurtzer, I., DiZio, P. & Lackner, J.R. Adaptation to a novel multi-force environment.
+Exp. Brain Res. in the press.
+35. Sergio, L.E. & Kalaska, J.F. Systematic changes in motor cortex cell activity with arm
+posture during directional isometric force generation. J. Neurophysiol. 89, 212–228
+(2003).
+
+504
+
+36. Kalaska, J.F. & Crammond, D.J. Cerebral cortical mechanisms of reaching movements.
+Science 255, 1517–1523 (1992).
+37. Kilner, J.M., Baker, S.N., Salenius, S., Hari, R. & Lemon, R.N. Human cortical muscle
+coherence is directly related to specific motor parameters. J. Neurosci. 20, 8838–8845
+(2000).
+38. Fetz, E.E. & Cheney, P.D. Functional relations between primate motor cortex cells and
+muscles: fixed and flexible. Ciba Found. Symp. 132, 98–117 (1987).
+39. Holdefer, R.N. & Miller, L.E. Primary motor cortical neurons encode functional muscle
+synergies. Exp. Brain Res. 146, 233–243 (2002).
+40. Schaal, S., Sternad, D., Osu, R. & Kawato, M. Rhythmic arm movement is not discrete.
+Nat. Neurosci. 7, 1136–1143 (2004).
+41. Deuschl, G., Bain, P. & Brin, M. Consensus statement of the Movement Disorder Society
+on Tremor. Ad Hoc Scientific Committee. Mov. Disord. 13 (Suppl. 3): 2–23 (1998).
+42. McAuley, J.H. The physiological basis of clinical deficits in Parkinson’s disease.
+Prog. Neurobiol. 69, 27–48 (2003).
+43. Nicolelis, M.A. Brain-machine interfaces to restore motor function and probe neural
+circuits. Nat. Rev. Neurosci. 4, 417–422 (2003).
+44. Andersen, R.A., Burdick, J.W., Musallam, S., Pesaran, B. & Cham, J.G. Cognitive neural
+prosthetics. Trends Cogn. Sci. 8, 486–493 (2004).
+45. Batschelet, E. Circular Statistics in Biology (Academic Press, London, 1981).
+
+VOLUME 8
+
+[
+
+NUMBER 4
+
+[
+
+APRIL 2005 NATURE NEUROSCIENCE
+
+

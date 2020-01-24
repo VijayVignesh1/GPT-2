@@ -1,0 +1,426 @@
+42 nature neuroscience • volume 1 no 1 • may 1998
+article
+Brain-derived neurotrophic factor (BDNF) is a survival factor
+for specific subsets of sensory neurons during development1.
+However, the expression of BDNF increases in peripheral targets
+and in sensory neurons themselves in postnatal life, suggesting
+that BDNF has important functions in maturity2. Previous studies of animals deprived of other neurotrophins determined that
+loss of one neurotrophic factor or its preferred high-affinity
+receptor can lead to the loss of one or more functionally defined
+types of sensory neurons1,3. Thus, mice lacking nerve growth factor or trkA receptors display a severe loss of nociceptors4,5, whereas animals lacking neurotrophin-3 (NT-3) or the trkC receptor
+possess no proprioceptive neurons6,7. In addition, NT-3 is
+required for postnatal survival of cutaneous mechanoreceptive
+neurons8, including slowly adapting mechanoreceptors (SAM),
+which innervate Merkel cells in the skin. Studies on the expression
+of the high-affinity BDNF receptor trkB in the dorsal root ganglia
+indicate that 20-40% of cutaneous neurons with intermediateto-large soma can respond to BDNF9; such cells generally have
+a myelinated axon.
+Here we have used electrophysiological recording10 to analyze the functional properties of sensory neurons responsive to
+BDNF in BDNF-deficient mutant mice11. This approach allowed
+us to determine which functional types of sensory neurons
+require BDNF in vivo. We show that SAM neurons, which are
+required for fine tactile discrimination, show severely impaired
+mechanosensitivity when BDNF levels are reduced, and that this
+defect can be rescued by exogenous BDNF.
+Results
+We concentrated on cutaneous sensory neurons with myelinated
+axons, which constitute most of the DRG neurons with medium-to-large cell bodies12. Both homo- and heterozygous BDNF
+knockout mice exhibited dramatic deficits in the mechanotransduction properties of one specific subset of cutaneous afferents
+(Figs. 1 and 2), namely the SAMs, most of which innervate specialized Merkel cells in the touch-dome complexes of the skin8,13.
+In juvenile mice, the median mechanical threshold for activation
+A role for BDNF in mechanosensation
+Patrick Carroll1,2, Gary R. Lewin1,3, Martin Koltzenburg4, Klaus V. Toyka4 and Hans Thoenen1
+1 Department of Neurobiochemistry, Max-Planck-Institute for Neurobiology, D-82152, Planegg-Martinsried, Germany
+2 Present address: INSERM Unit 328, IBDM, Case 907, Luminy, F-13288 Marseille, France
+3 Growth Factor and Regeneration Group, Max Delbrück Institute for Molecular Medicine, D-13122 Berlin-Buch, Germany
+4 Department of Neurology, University of Würzburg, Josef-Schneider-Str. 11, D-97080 Würzburg, Germany
+The first three authors contributed equally to this work.
+Correspondence should be addressed to M.K. (Koltzenburg@mail.uni-wuerzburg.de)
+Brain-derived neurotrophic factor (BDNF) is a survival factor for certain sensory neurons during
+development. Using electrophysiology in BDNF-deficient mice, we show here that slowly adapting
+mechanoreceptors (SAM), but not other types of cutaneous afferents, require BDNF in postnatal life
+for normal mechanotransduction. Neurons lacking BDNF did not die, but instead showed a
+profound and specific reduction in their mechanical sensitivity, which was quantitatively the same in
+BDNF -/- and BDNF +/- animals. Postnatal treatment of BDNF +/- mice with recombinant BDNF completely rescued the mechanosensitivity deficit. Therefore BDNF is important for regulating SAM
+mechanosensitivity, independent of any survival-promoting function.
+was increased eightfold from 1.4 mN in wild-type to 11.2 mN in
+BDNF -/- mice (p<0.001, U-test). In adult mice, the median
+mechanical threshold was increased tenfold, from 1.0 mN to 11.2
+mN in mice heterozygous for the BDNF mutation (p<0.001, Utest). The stimulus–response function for the entire population
+of SAMs to suprathreshold constant-force stimuli exhibited a
+reduced slope in homozygotes (F1,152 = 12.6, p<0.001, ANOVA),
+as well as in heterozygotes (F1,311 = 82.2, p<0.001, ANOVA). In
+contrast, other measures of afferent function, such as peak firing frequency after suprathreshold stimulation or conduction
+velocity, were unimpaired (conduction velocities: wild-type adult,
+15.5 ± 0.5 m per s; wild-type juvenile, 10.6 ± 0.6 m per s; BDNF
++/-, 16.6 ± 1.0 m per s; BDNF -/-, 10.3 ± 1.0 m per s, p>0.5 ttest). Moreover, other afferents with the same conduction velocities but different adaptation properties were substantially
+unchanged. Thus rapidly adapting mechanoreceptors and the
+intermediate RA/SA (rapidly adapting/slowly adapting) afferents10, seen only in juvenile animals, were indistinguishable from
+wild-type afferents (Fig. 3). This was also true for thin myelinated sensory afferents, the rapidly adapting D-hair afferents and
+the A-fiber mechanonociceptors10.
+The specific effect on SAMs in BDNF-deficient mice indicates
+that changes in skin compliance are unlikely to explain the
+changes in the sensitivity of SAMs. Such changes would be
+expected to affect other types of sensory afferents equally. In normal mice, the sensitivity of SAMs increased significantly from
+the third postnatal week until adulthood (F1,254 = 19.4, p<0.001,
+ANOVA). This sensitivity increase was reduced severely in BDNFdeficient animals, suggesting that increasing levels of BDNF in
+the growing animal may be important in the postnatal maturation of SAMs.
+Normally, BDNF has been considered a survival factor for
+sensory neurons during development1. However, the population
+of large-diameter, myelinated cutaneous afferents that we have
+examined in detail do not seem to require BDNF for survival.
+Because the saphenous nerve is a purely cutaneous nerve, all its
+myelinated axons are sensory neurons, and therefore their num-
+© 1998 Nature America Inc. • http://neurosci.nature.com
+© 1998 Nature America Inc. • http://neurosci.nature.com
+nature neuroscience • volume 1 no 1 • may 1998 43
+article
+ber and size directly reflect the health of the recorded population
+of afferent fibers. In semi-thin histological sections of the nerve,
+neither the absolute number of neurons or axons nor the distribution of axon diameters was significantly altered (p>0.2, t-test)
+in BDNF-deficient mice (Fig. 3). Juvenile wild-type and BDNF
+-/- nerves contained 433 ± 51 and 391 ± 38 myelinated axons,
+respectively (mean ± SEM). Adult nerves contained slightly more
+myelinated axons, but this was also not different between nerves
+taken from wild-type, 510 ± 50, and BDNF +/- mice, 470 +/- 22
+(mean ± SEM).
+Consistent with these findings, the prevalence of receptor types
+in both -/- and adult +/- BDNF-deficient mice was not significantly different from controls. This indicates that no subtype of
+sensory neuron among those studied was selectively lost or
+reduced in number (Table 1). In normal mice, four major types
+of afferents are encountered among the myelinated cutaneousafferent population. These include the fastest-conducting SAM
+and rapidly adapting mechanoreceptor afferents and the slowerconducting D-hair afferents and A-fiber mechanonociceptors. In
+juvenile animals, an additional type of afferent called the RA/SA,
+which is not fully differentiated, is observed between 14–20 days
+postnatally10. All of these afferent types were found in normal
+numbers after unbiased sampling of all mechanoreceptive neurons in BDNF -/- and adult BDNF +/- mice (Table 1). The normal survival of these cutaneous neurons in BDNF-deficient mice
+contrasts with animals heterozygous for mutations of the NT-3
+gene, which selectively lose both SAMs and D-hair afferents and
+have a corresponding loss of axons from the nerve8.
+In both the BDNF -/- and +/- animals, we saw specific impairments in the mechanosensitivity of SAMs. These afferents innervate Merkel cells in the
+touch-dome complexes of the
+skin. The morphology and innervation of Merkel cells can be
+examined conveniently by double immunostaining for the cells
+and their innervating axons.
+Merkel cells were labeled with
+antibodies against cytokeratin-18,
+and the innervating axons and
+terminals were labeled with antineurofilament antibodies8. Such
+experiments showed that the
+morphological integrity of the
+sensory–Merkel cell complex was
+indistinguishable from that in wild-type mice (Fig. 3). The Merkel
+cells in hairy skin depend on innervation by SAMs for their survival postnatally8,14,15. Therefore, we quantified the number of
+Merkel cells by labeling them with the vital dye quinacrine15. The
+number and morphology of Merkel cells was normal in touch
+domes of the back of 14-day-old -/- animals (17.7 ± 4.9 cells per
+dome versus 16.6 ± 5.6 in wild-type animals, p>0.5, t-test). In
+contrast, Merkel cells are completely absent in 14-day-old mice
+lacking NT-38. We also confirmed in adult BDNF +/- mice that
+quinacrine-labeled Merkel cells were normal in number and morphology (data not shown). Thus, neither loss of Merkel cells nor
+morphological alterations in their innervating axons could explain
+the marked loss in mechanical sensitivity of SAM afferents. Moreover, the ability of SAMs to support Merkel cells is not altered in
+BDNF-deficient animals.
+Because mechanotransduction in a subset of sensory neurons was severely impaired and because it is clear that BDNF
+itself cannot be a mechanotransducer protein, we reasoned that
+endogenous BDNF regulates the functional properties of the
+mechanotransducer. To test this idea, we conducted a further
+series of rescue experiments in which exogenous BDNF protein was given systemically to BDNF-deficient mice (1 mg per
+kg subcutaneous twice daily) from birth until we recorded
+afferents between the 16th and 17th postnatal days. If exogenous BDNF regulates the molecular participants of a mechanotransduction complex, it should rescue the functional
+impairment in the SAMs. Electrophysiological experiments
+were done blind with respect to the genotype, with a total of
+115 additional afferent neurons recorded from a total of 12
+mice. In these studies, we deliberately concentrated on the funcFig. 1. Response properties of SAM afferents in wild-type and BDNF -/- and +/- mice. (a) The stimulus response of SAM afferents was
+severely impaired across all stimulus strengths in BDNF -/- animals compared to age-matched littermates. (b) The same proportional impairment was seen for SAMs recorded in adult BDNF +/- mice. The sensitivity of SAMs in wild-type animals increased from the third postnatal
+week until adulthood (>6 weeks). (c and d) The average response of all fibers at a stimulus intensity of 100 mN for SAM of wild-type (black)
+and BDNF +/- or -/- mice (white).
+a b c d Mean impulses/s
+P14-P21 Adult
+Force (mN) Force (mN)
+Mean impulses/s
+P14-P21 Adult
+Table 1 Prevalence of myelinated afferent fiber types innervating hairy skin
+Ad fibers Aß fibers
+AM D-hair RA/SA RA SA
+Adult WT 65% (37/57) 35% (20/57) - 52% (28/54) 48% (26/54)
+Adult BDNF +/- 64% (23/36) 36% (13/36) - 50% (24/48) 50% (24/48)
+Juvenile WT 55% (18/33) 45% (15/33) 22% (6/27) 30% (8/27) 48% (13/27)
+Juvenile BDNF-/- 73% (22/30) 27% (8/30) 29% (6/21) 29% (6/21) 42% (9/21)
+The prevalence of different physiological types of afferent fibers among the Ad and Aß groups, which are slowly
+and fast-conducting axons, respectively, in normal and transgenic mice. In adult animals, the cut-off between Ad
+and Aß fiber groups was found to be10 m/s, but in younger animals with generally smaller axons (Fig. 1) 7.5 m/s
+was found to be an appropriate cut-off10. No significant changes were observed in the prevalence of any of the different physiological types recorded in adult BDNF +/- animals or in juvenile BDNF -/- animals (smallest value of
+Yates-corrected chi-square test: p>0.2). AM, A-fiber mechanonociceptor; RA, rapidly adapting; SA slowly adapting.
+© 1998 Nature America Inc. • http://neurosci.nature.com
+© 1998 Nature America Inc. • http://neurosci.nature.com
+44 nature neuroscience • volume 1 no 1 • may 1998
+article
+tional characterization of SAMs, recording a total of 11 in
+BDNF-treated +/- animals and 6 in untreated +/- mice.
+The juvenile BDNF +/- animals displayed mechanotransduction deficits that were not significantly different from those
+of -/- animals (F1,102 = 2.3, p>0.1, ANOVA). However, the SAM
+afferents from BDNF-treated +/- animals showed a profound
+increase in mechanosensitivity compared to their untreated +/-
+littermates. The median von Frey threshold of afferents from
+BDNF-treated +/- animals was 1.0 mN, compared to 5.0 mN for
+untreated +/- controls. Quantitative stimulus–response functions confirmed that the sensitivity of SAMs in BDNF-treated
++/- mice was significantly higher than for untreated +/- mice
+(F1,134 = 21.5, p<0.001, ANOVA; Fig. 4). There was no difference between the stimulus–response functions of BDNF-treated BDNF+/- animals and wild-type controls (F1,182 = 2.2, p>0.1,
+ANOVA). In addition, the A-fiber mechanonociceptors recorded from BDNF-treated mice were more sensitive than those
+recorded in untreated
+wild-type or BDNF +/-
+mice. The median threshold of A-fiber mechanonociceptors in juvenile
+BDNF-treated +/- mice
+and wild-type mice was 1
+mN, compared to 5.6 mN
+in untreated wild-type
+mice (p<0.001, U-test).
+Discussion
+These results reveal several
+new aspects of the role of
+BDNF in vivo. First, cutaneous SAMs are specific
+targets for BDNF. This
+extends the growing body
+of evidence that specific
+neurotrophins act on specific subsets of cutaneous
+sensory neurons1,2,8. Second, BDNF regulates the
+receptive properties of SAM neurons rather than their survival.
+We have demonstrated previously that NT-3 is required for the
+survival of SAM neurons in postnatal life8. Thus, NT-3 and BDNF
+act on the same neuron to control survival and mechanotransduction properties, respectively. Such a differential role of neurotrophin action on sensory neurons has not been previously
+recognized. In mice lacking the low-affinity neurotrophin receptor p75, SAMs show neither selective death nor decreased mechanical sensitivity, indicating that the low-affinity neurotrophin
+receptor is not involved in regulating SAM survival or function16.
+Therefore, the present findings may explain why many adult cutaneous sensory neurons express both trkB and the NT-3 receptor
+trkC9. Our results further suggest that at least some of the trk B/trk
+C-expressing cells are SAMs. Evidence from studies of the whisker
+pad show that Merkel cells are lost in mice lacking NT-3 or trkC,
+but not in animals lacking BDNF or trkB17. Moreover, mice with
+function-blocking mutations of the trkB receptor display
+Fig. 2. Mechanical thresholds of slowly adapting (SAM) but not rapidly adapting Aß fibers are impaired in BDNF +/- mice. The cumulative
+sum distribution was plotted for the von Frey thresholds of mechanoreceptors in BDNF +/- and wild-type animals. (a) As predicted from the
+stimulus–response functions, the thresholds of slowly adapting Aß-fibers were significantly elevated compared to wild-type controls. (b) In
+contrast the distribution of von Frey thresholds of rapidly adapting Aß-fibers, which have the same conduction velocities as slowly adapting
+Aß-fibers10, were not significantly different.
+aCumulative percentage of units
+Cumulative percentage of units
+b
+SA RA
+von Frey hair threshold (mN) von Frey hair threshold (mN)
+Fig. 3. Frequency distribution of myelinated axon
+diameters in adult and juvenile mice. (a) Histograms
+from semi-thin sections of epon-embedded saphenous nerve taken from young postnatal wild-type
+and BDNF -/- mice. (b) Histograms from adult wildtype and BDNF +/- animals. (c) Confocal image of a
+touch dome taken from a heterozygous P16 mouse
+consisting of Merkel cells (red) innervated by myelinated fibers (green).
+Number of myelinated
+axons
+Axon diameter (µm)
+a Number of myelinated
+axons
+b
+L Juvenile wild type c l Juvenile BDNF +/-
+L Adult wild type
+l Adult BDNF +/-
+© 1998 Nature America Inc. • http://neurosci.nature.com
+© 1998 Nature America Inc. • http://neurosci.nature.com
+nature neuroscience • volume 1 no 1 • may 1998 45
+article
+mechanosensitivity deficits but no SAM neuron loss (C.L. Stucky,
+G.R. Lewin and R. Klein, unpublished observations). This strongly supports the idea that NT-3 and BDNF work via the trkC and
+trkB receptor in the same cell to mediate survival and receptive
+properties, respectively. Our data are consistent with another suggestion that trk A and trk B may be expressed together in single
+sensory neurons18, because A-fiber-mechanonociceptor afferents
+respond both to nerve growth factor1 and to exogenous BDNF.
+Interestingly, these nociceptive neurons are sensitized to mechanical stimuli by BDNF-treatment but do not require the factor for
+their normal mechanosensitivity.
+Coexistence of trkB and trkC in central neurons is a common
+phenomenon, which has most often been discussed in terms of
+a dual neurotrophic requirement or multifactorial support for a
+given neuron population19,20. Yet, our data show that discrete
+aspects of neuronal function can be regulated simultaneously by
+the availability of two different neurotrophins. No altered
+mechanosensitivity of SAMs has been observed in NT-4 knockout mice (C.L. Stucky et al., Soc. Neurosci. Abstr. 22, 992, 1996),
+which is somewhat surprising considering that NT-4 is also a ligand for the trkB receptor. One explanation could be that only
+BDNF, and not other ligands of the trkB receptor, can regulate
+certain properties of sensory neurons. Alternatively, BDNF and
+NT-4 could be differentially distributed in the targets of the neurons either temporally or spatially. Indeed, a large subpopulation
+of neurons in the dorsal root ganglion contain BDNF21,22, but
+these are probably not SAMs because SAMs and these BDNFexpressing neurons differ in soma size and their central projections23. We found here that systemic BDNF can rescue the
+mechanosensitivity deficit when administered during the first
+two weeks of life. This suggests that the target source of BDNF
+may be in the periphery. One potential candidate is the Merkel
+cells innervated by SAMs.
+The SAM neurons in BDNF-deficient mice displayed normal
+adaptation properties but markedly decreased sensitivity to
+suprathreshold stimuli. Their sensitivity was even reduced compared to nociceptive neurons10. The same proportional deficits
+in mechanotransduction occurred in SAMs regardless of whether
+one or both BDNF alleles were inactivated. This could mean that
+a threshold level of BDNF is required to regulate mechanical sensitivity, and once this level is reached, mature mechanosensitivity develops. Such all-or-none regulation also has been observed
+for long term potentiation in the hippocampus of BDNF-mutant
+mice11. In normal but not BDNF-deficient mice, BDNF acts to
+promote the maturation of SAM function as receptor sensitivity increases during postnatal development (Fig. 1). However, the
+effect is specific for the mechanical sensitivity of these neurons
+as other physiological properties that increase during postnatal
+maturation, such as axonal conduction velocity, are independent
+of BDNF availability.
+The present experiments indicate both histologically and electrophysiologically that no significant loss of myelinated afferents
+occurs in BDNF-deficient mice. Initially, this finding seems to
+contradict the first reports on BDNF-deficient mice, which
+showed with uncorrected cell-counting methods that up to 30%
+of sensory neurons of the DRG require BDNF for survival24,25.
+However, our analysis shows that the majority of these missing
+neurons do not belong to the myelinated population of sensory
+neurons that innervate skin, which comprise at most 25% of the
+total sensory neurons in a dorsal root ganglion. In BDNF-deficient mice, SAM afferents were physiologically healthy, as indicated by axon size, conduction velocity and the presence of
+normal Merkel cells. Therefore, we believe this mechanosensitivity deficit seen in the SAMs of BDNF-deficient mice probably
+reflects a critical regulation of genes that code for proteins
+required for mechanotransduction.
+At present, the gene products conferring mechanosensitivity
+in mammals are unknown. In the nematode worm C.elegans, at
+least 17 different gene products have been estimated to collaborate
+in conferring normal touch-receptor sensitivity26. Therefore, a
+deficit in mechanotransduction may result from a downregulation of one or more essential genes. Cloning of mutated genes in
+touch-insensitive mutants of C.elegans suggests that such mechanotransduction genes could be conserved across species 27. We suggest that such candidate mammalian genes might be subject to
+strong regulation by neurotrophic factors.
+Methods
+KNOCKOUT MICE. Mice with a null mutation of the BDNF gene were made
+using conventional gene targeting techniques as described11. In our hands,
+these mice, which have a BDNF null mutation on a mixed genetic background, can survive until the end of the third postnatal week. This is significantly longer than BDNF null mice on other genetic backgrounds24,25,
+enabling us to record electrophysiologically from BDNF -/- mice, which
+only becomes possible after postnatal day 14.
+ELECTROPHYSIOLOGY. An in vitro skin/nerve preparation was used to record
+from functionally single primary afferents in micro-dissected teased filaments of the saphenous nerve, as described10. Juvenile (14–26 days of
+age) wild-type or BDNF -/- animals or adult (>6 weeks of age) wild-type
+or BDNF +/- mice were used. Animals were killed by CO2-inhalation and
+after shaving, skin of the hindlimb was removed with the saphenous nerve
+attached. The nerve was dissected free to the lumbosacral plexus to ensure
+a sufficient length of nerve for recording. After dissection, the preparation
+was placed “inside-up” in an organ bath to facilitate oxygenation through
+the corium side of the skin, and the preparation was superfused
+(15 ml/min) with an oxygen-saturated modified synthetic interstitial fluid
+solution containing (in mM) 123 NaCl, 3.5 KCl, 0.7 MgSO4, 1.7
+NaH2PO4, 2.0 CaCl2, 9.5 sodium gluconate, 5.5 glucose, 7.5 sucrose and
+10 HEPES at a pH of 7.4 ± 0.05 and a temperature of 32 ± 0.5º C. Once
+the receptive field of a single unit had been identified with a mechanical
+search stimulus, its receptive properties were systematically examined
+with calibrated von Frey hairs and a feedback-controlled constant-force
+stimulator, as described10. By recording from a sample of neurons representing about 20% of the axons present in one nerve, we can obtain
+accurate estimates of the proportion of different receptor types in wildFig. 4. Response properties of SAM afferents in BDNF +/- mice
+with (L ) and without (l ) treatment with exogenous recombinant
+BDNF. For comparison, mean data of Fig. 1 is replotted for
+untreated wild-type (P ) and BDNF -/- (p ) SAMs. SAMs taken from
+BDNF-treated BDNF heterozygote animals respond normally to
+mechanical force stimuli. Data from Fig. 1 (P14-21) is comparable to
+these data from P16-17 because differentiation and sensory innervation of Merkel cells do not change significantly in this age range8. Mean discharge frequency (impulses/s)
+Force (mN)
+© 1998 Nature America Inc. • http://neurosci.nature.com
+© 1998 Nature America Inc. • http://neurosci.nature.com
+46 nature neuroscience • volume 1 no 1 • may 1998
+article
+type and transgenic mice. We have sampled afferent neurons using an
+initial mechanical search stimulus that consisted of probing the skin with
+a blunt glass rod. We have found in previous studies that this sampling
+method gives remarkably consistent proportions of receptor types in
+wild-type mice8,10,16. We probably have not missed a large population
+of mechanically insensitive afferents, as the initial stimuli used is capable of exciting all types of mechanoreceptive afferents, including highthreshold nociceptors10. In the rescue experiments (see Results), no
+systematic sampling of all types of afferent was undertaken, as we were
+specifically interested in the mechanosensitivity of SAM neurons. Animals used in these rescue experiments were given twice-daily injections
+of recombinant human BDNF (1mg/kg s.c. provided by Regeneron Inc.)
+from the day of birth until the day of the experiment.
+HISTOLOGY. After the animals were killed, a piece of the saphenous nerve
+was dissected at the upper thigh from adult or 14-day-old wild-type, heterozygous, and homozygous mice, fixed in 2.5% glutaraldehyde and
+embedded in epon. Semi-thin sections were transversely cut with glass
+knives and stained with toluidine blue. All myelinated axon profiles were
+counted and measured under high magnification (x1000, immersion oil
+optics) to obtain the number and diameter of all axons8.
+For immunohistochemistry, pieces of back skin of four juvenile or
+adult heterozygous mice were cut tangentially on a cryostat and
+immunostained as described8. Primary antibodies were directed against
+cytokeratin 18 (RGE53, Bio-Science, Emmenbrücke, Switzerland; diluted 1:10) against neurofilament H (NA 1121, Boehringer, Mannheim,
+Germany; diluted 1:500). Secondary antibodies were appropriate TRITCor FITC-conjugated goat (Dianova, Hamburg, Germany) antibodies. All
+antibodies were diluted in 0.1 M PBS containing 1% NGS and 0.2% Triton-X 100. Sections were viewed under a Leitz confocal laser-scanning
+microscope.
+Acknowledgements
+This work was supported by the Deutsche Forschungsgemeinschaft,
+Sonderforschungsbereich 353 (MK). GRL was supported during the first stages
+of this work by an Alexander von Humboldt fellowship. The technical assistance
+of Anke Scheer (MDC) is acknowledged. We wish to thank Dr. Ilka Bergmann
+for her help with the confocal imaging and Dr. Cheryl Stucky for critical reading
+of the manuscript.
+RECEIVED 24 FEBRUARY: ACCEPTED 24 MARCH 1998
+1. Lewin, G.R. & Barde, Y.-A. Physiology of the neurotrophins. Ann. Rev.
+Neurosci. 19, 289–317 (1996).
+2. Maisonpierre, P.C. et al. NT-3, BDNF, and NGF in the developing rat nervous
+system: Parallel as well as reciprocal patterns of expression. Neuron 5,
+501–509 (1990).
+3. Snider, W.D. Functions of neurotrophins during nervous system
+development: what the knockouts are teaching us. Cell 77, 627–638 (1994).
+4. Crowley, C. et al. Mice lacking nerve growth factor display perinatal loss of
+sensory and sympathetic neurons yet develop basal forebrain cholinergic
+neurons. Cell 76, 1001–1011 (1994).
+5. Smeyne, R.J. et al. Severe sensory and sympathetic neuropathies in mice
+carrying disrupted Trk/NGF receptor gene. Nature 368, 246–249 (1994).
+6. Ernfors, P., Lee, K.-F., Kucera, J. & Jaenisch, R. Lack of neurotrophin-3 leads
+to deficiencies in the peripheral nervous system and loss of proprioceptive
+afferents. Cell 77, 503–512 (1994).
+7. Klein, R. et al. Disruption of the neurotrophin-3 receptor gene trkC
+eliminates la muscle afferents and results in abnormal movements. Nature
+368, 249–251 (1994).
+8. Airaksinen, M.S. et al. Specific sub-types of cutaneous mechanoreceptors
+require neurotrophin-3 following peripheral target innervation. Neuron 16,
+287–295 (1996).
+9. McMahon, S.B., Armanini, M.P., Ling, L.H. & Phillips, H.S. Expression and
+co-expression of trk receptors in subpopulations of adult primary sensory
+neurons projecting to identified peripheral targets. Neuron 12, 1161–1171
+(1994).
+10. Koltzenburg, M., Stucky, C.L. & Lewin, G.R. Receptive properties of mouse
+sensory neurons innervating hairy skin. J. Neurophysiol. 78, 1841–1850
+(1997).
+11. Korte, M. et al. Hippocampal long-term potentiation is impaired in mice
+lacking brain-derived neurotrophic factor. Proc. Natl. Acad. Sci.U.S.A. 92,
+8856–8860 (1995).
+12. Lawson, S.N. in Sensory Neurons: Diversity, Development, and Plasticity (ed.
+Scott, S.A.) 27-59 (Oxford University Press, New York, 1992).
+13. Iggo, A. & Muir, A.R. The structure and function of a slowly adapting touch
+corpuscle in hairy skin. J. Physiol. (Lond.) 200, 763–796 (1969).
+14. Mills, L.R., Nurse, C.A. & Diamond, J. The neural dependency of Merkel cell
+development in the rat: the touch domes and foot pads contrasted. Dev. Biol.
+136, 61–74 (1989).
+15. Nurse, C.A., Macintyre, L. & Diamond, J. A quantitative study of the time
+course of the reduction in Merkel cell number within denervated rat touch
+domes. Neuroscience 11, 521–533 (1984).
+16. Stucky, C.L. & Koltzenburg, M. The low affinity neurotrophin receptor p75
+regulates the function but not the selective survival of specific
+subpopulations of sensory neurons. J. Neurosci. 17, 4398–4405 (1997).
+17. Fundin, B.T. et al. Differential dependency of cutaneous mechanoreceptors on
+neurotrophins, trk receptors, and P75 LNGFR. Dev. Biol. 190, 94–116 (1997).
+18. Wright, D.E. & Snider, W.D. Neurotrophin receptor mRNA expression
+defines distinct populations of neurons in rat dorsal root ganglia. J. Comp.
+Neurol. 351, 329–338 (1995).
+19. Lindholm, D., Carroll, P., Tzimagiogis, G. & Thoenen, H. Autocrineparacrine regulation of hippocampal neuron survival by IGF-1 and the
+neurotrophins BDNF, NT-3 and NT-4. Eur. J. Neurosci. 8, 1452–1460 (1996).
+20. Minichiello, L. & Klein, R. TrkB and TrkC neurotrophin receptors cooperate
+in promoting survival of hippocampal and cerebellar granule neurons. Genes
+Dev. 10, 2849–2858 (1996).
+21. Wetmore, C. & Olson, L. Neuronal and nonneuronal expression of
+neurotrophins and their receptors in sensory and sympathetic ganglia suggest
+new intercellular trophic interactions. J. Comp. Neurol. 353, 143–159 (1995).
+22. Apfel, S.C. et al. Nerve growth factor regulates the expression of brainderived neurotrophic factor mRNA in the peripheral nervous system.
+Mol.Cell Neurosci. 7, 134–142 (1996).
+23. Michael, G.J. et al. Nerve growth factor treatment increases brain-derived
+neurotrophic factor selectively in trkA-expressing dorsal root ganglion cells
+and in the central terminations within the spinal cord. J. Neurosci. 17,
+8479–8490 (1997).
+24. Ernfors, P., Lee, K.-F. & Jaenisch, R. Mice lacking brain-derived neurotrophic
+factor develop with sensory deficits. Nature 368, 147–150 (1994).
+25. Jones, K.R., Farinas, I., Backus, C. & Reichardt, L.F. Targeted disruption of
+the BDNF gene perturbs brain and sensory neuron development but not
+motor neuron development. Cell 76, 989–999 (1994).
+26. Tavernarakis, N. & Driscoll, M. Molecular modelling of
+mechanotransduction in the nematode Caenorhabditis elegans. Ann. Rev.
+Physiol. 59, 659–689 (1997).
+27. Garcia, A.J. & Corey, D.P. The molecules of mechanosensation. Ann. Rev.
+Neurosci. 20, 567–594 (1997).
+© 1998 Nature America Inc. • http://neurosci.nature.com
+© 1998 Nature America Inc. • http://neurosci.nature.com

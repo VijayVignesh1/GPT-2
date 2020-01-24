@@ -1,0 +1,218 @@
+brief communications
+Low glucose–sensing cells
+in the carotid body
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+Ricardo Pardal and José López-Barneo
+Laboratorio de Investigaciones Biomédicas, Departamento de Fisiología and
+Hospital Universitario Virgen del Rocío, Universidad de Sevilla, E-41013,
+Seville, Spain
+Correspondence should be addressed to J.L.-B. (lbarneo@hvr.sas.
+junta-andalucia.es)
+
+Published online: 19 February 2002, DOI: 10.1038/nn812
+
+Decreased plasma glucose concentration elicits a complex neuroendocrine response that prevents or rapidly corrects hypoglycemia
+as required to preserve brain function1–4; however, where and how
+low glucose is sensed is unknown4–6. Here we show that low glucose increases secretion from glomus cells in the carotid bodies,
+sensory organs whose stimulation by hypoxia produces sympathetic
+activation, by a process that depends on extracellular Ca2+ influx
+and is paralleled by inhibition of voltage-gated K+ channels. We
+propose a new glucose-sensing role for the carotid body glomus
+cell that serves to integrate information about blood glucose and
+O2 levels and to activate counterregulatory responses.
+The carotid body is composed of innervated clusters of glomus
+cells that, when activated by reduced O2 tension, release dopamine
+and other transmitters to stimulate afferent sensory fibers7–9. Using
+a new thin-slice preparation that retains the structure of the carotid
+body and preserves the characteristic response of glomus cells to
+hypoxia10, we examined the effect of decreased extracellular glucose. Exposure of glomus cells in these slices to a glucose-free (0 mM
+glucose) solution induced a secretory activity as monitored by
+amperometry9,10 (Fig. 1a). The average rate of secretion during the
+last minute of exposure to low glucose, calculated from cumulative
+secretion traces (Fig. 1a), was over 20 times that in the control condition of 5 mM glucose (Fig. 1b). The size distribution and mean
+area of quantal events triggered by low glucose (Fig. 1c) were similar to those previously observed in glomus cells activated by hypoxia10, suggesting that the two conditions (glucopenia and hypoxia)
+induced the release of a common vesicle pool. The effect of low glucose on glomus cells was concentration dependent. At normal air O2
+tension (PO2 = 150 mmHg), control cells showed almost no secretory activity. When glucose was lowered to 2 mM, catecholamine
+release increased in proportion to the glucopenia (Fig. 1d and e).
+At air PO2, glomus cells are inhibited as a result of suppression of the O2-sensitive activation pathway9. The typical response
+to hypoxia (PO2 ≈ 25 mmHg) of glomus cells in the slices10 was
+markedly enhanced in 0 mM glucose (Fig. 2a), and the mean
+secretory rate of cells exposed to hypoxia and glucose-free solutions was two- to threefold greater than to either stimulus separately (Fig. 2b). We therefore studied the sensitivity to glucose
+of glomus cells maintained at 12% O2 (≈90 mmHg), an O2 tension comparable to that in the arterial blood irrigating the rat
+carotid body in vivo. At this PO2, 5 mM glucose induced catecholamine release, and this activity was reversibly reduced on
+exposure to higher (10 mM) glucose concentration (Fig. 2c).
+The dependence of glomus cell secretion on glucose concentration at PO2 of 90 mmHg was displaced toward glucose levels
+higher than those that triggered secretion at normal air O2 tension (Fig. 2d and e). Therefore, at the PO2 level of arterial blood,
+glomus cell secretory activity is modulated by glucose in a physiological concentration range.
+nature neuroscience • volume 5 no 3 • march 2002
+
+Catecholamine secretion elicited by glucose-free solutions was
+abolished by blockade of voltage-gated Ca2+ channels with 0.2 mM
+cadmium7–10 (n = 3; Fig. 3a), suggesting that this response depends
+on depolarization-evoked Ca2+ influx. Modulation of glomus cell
+secretion by low glucose was maintained in slices treated with
+glibenclamide (5 µM), a blocker of ATP-regulated K+ (KATP) channels. In addition, input resistance measured in patch-clamped cells
+held at –80 mV (286 ± 11 MΩ, mean ± s.d., n = 9), although relatively low (perhaps due to the high temperature or to electrical
+coupling), was not altered by removal of glucose (267 ± 11 MΩ,
+n = 9). These data suggested that leakage and KATP channels were
+not appreciably influenced by the changes in glucose concentration. In contrast, glucose deficiency produced a reversible reduction
+of outward K+ current amplitude in the entire range of membrane
+potentials (Fig. 3b and c). At +20 mV, exposure to 0 mM glucose
+decreased peak outward current amplitude by 38 ± 12% (mean ±
+s.d., n = 7). These effects of low glucose were independent of
+changes in intracellular ATP concentration, because in most
+experiments cells were dialyzed with an internal solution containing 4 mM MgATP. In addition, low glucose–induced glomus
+cell secretion was not prevented by 10 mM sodium pyruvate (n =
+3; data not shown), a condition that supports the intracellular production of ATP. Low glucose regulated voltage-dependent K+ channels selectively, as it had no effect on the small inward current
+characteristic of rat glomus cells (Fig. 3d). In addition, inhibition
+of the K+ current by low glucose was maintained after blockade of
+the Ca2+-activated maxi-K+ channels with iberiotoxin (Fig. 3e).
+Our findings strongly suggest that carotid body glomus cells
+are physiological glucose detectors that transduce glucose levels
+into variable rates of transmitter release, which stimulate afferent
+sensory fibers to evoke sympathoadrenal activation. Blockers of
+
+a
+
+b
+
+d
+
+c
+
+e
+
+Fig. 1. Secretory response of rat glomus cells to low glucose. (a) Top,
+amperometric signal showing increased secretory activity in a glomus cell
+exposed to 0 mM extracellular glucose. Bottom, cumulative secretion signal (in femtocoulombs, fC) resulting from the time integral of the amperometric recording. The slice was continuously perfused with a standard
+solution containing 117 mM NaCl, 4.5 mM KCl, 23 mM NaHCO3, 1 mM
+MgCl2, 2.5 mM CaCl2, 5 mM glucose, 5 mM sucrose. The low-glucose solutions were obtained by replacing glucose with equimolar amounts of
+sucrose. (b) Average secretion rate in cells exposed to 5 mM
+(88 ± 45 fC/min, mean ± s.d., n = 14) and 0 mM (1,870 ± 386 fC/min,
+n = 14 cells) glucose (p < 0.001, Student’s t-test). (c) Distribution of the
+area of exocytotic events in low glucose. A Gaussian fit to the data is
+superimposed. (d) Secretory response of a single glomus cell to various
+levels of low glucose. (e) Secretory activity as a function of extracellular
+glucose concentration. PO2 in the experiments was 150 mmHg and temperature was 35–37ºC. Each data point is the average of 3–5 measurements in 3 cells (mean ± s.d.). The curve in Fig. 1e was drawn by eye. Use of
+animals was approved by the institutional Laboratory Animal Committee.
+197
+
+© 2002 Nature Publishing Group http://neurosci.nature.com
+
+brief communications
+
+Fig. 2. Increase in sensitivity to glucose in low PO2. (a) Augmentation of a
+c
+the secretory response to 0 mM glucose during hypoxia (PO2 ≈ 25 mmHg).
+Secretion rates during 3 responses to hypoxia are 1,837, 5,816 and
+1,729 fC/min. Resetting of the integrator used to calculate the cumulative secretion signal is indicated by dotted lines. (b) Average secretion
+rates (in fC/min) in cells exposed to a PO2 of ≈25 mmHg (1,780 ± 439,
+n = 8), 0 glucose (1,870 ± 386, n = 14) and both simultaneously
+(4,400 ± 1,300, n = 8; p < 0.005). (c) Modulation of secretory activity by
+glucose in the 5–10-mM range in a glomus cell exposed to 12% O2 b
+d
+e
+(PO2 = 90 mmHg). Secretory rates are 1,670 (0 mM glucose, 20% O2),
+505 (5 mM glucose, 12% O2), 8 (10 mM glucose, 12% O2) and 595 (recovery in 5 mM glucose, 12% O2). (d) Secretory activity versus extracellular
+glucose concentration. PO2 was 90 mmHg. Each data point is the mean ±
+s.d. of 3–5 measurements in 3 cells. The curve of Fig. 1e is shown for comparison (dotted line). (e) Logarithm of maximal secretion rate (ordinate)
+versus glucose concentration at 2 different PO2 values. Values of secretion are from Figs. 1e () and 2d (). The control solution was bubbled
+with 5% CO2, 20% O2 and 75% N2 (PO2 ≈ 150 mmHg). The 2 low PO2 levels used were obtained by continuously bubbling the solution in one reservoir
+with either 5% CO2 and 95% N2 (hypoxia, PO2 in the chamber ≈25 mmHg) or 5% CO2, 12 % O2 and 83% N2 (PO2 in the chamber ≈90 mmHg).
+Equilibration of solutions in the chamber, as determined with an O2 electrode, required <30 s. The pH of all solutions was 7.4, osmolality ≈300 mOsm/kg
+and temperature 35–37°C. Curves/lines in 2d, e were fitted by eye.
+
+voltage-dependent K+ channels evoke depolarization8,11 and catecholamine secretion10 in these cells; it therefore is likely that, like the
+hypoxia transduction cascade8–10, low-glucose signaling is initiated by inhibition of K+ channel activity, which facilitates membrane
+depolarization, Ca2+ influx through voltage-gated Ca2+ channels
+and transmitter release. These observations help to explain reports
+that anesthetized animals show a rapid increase in the output of
+hepatic glucose after infusion of the carotid body region with
+NaCN5,12, alterations of carbohydrate metabolism in acute hypoxia13, or impairment of insulin-induced counterregulatory response
+to mild hypoglycemia in dogs after resection of the carotid body
+and surrounding tissues6. Although peripheral glucose control
+might also be accomplished at the liver or portal vein4,14,15, the
+strategically located carotid bodies are of special importance for
+brain homeostasis, as neurons are particularly vulnerable to the
+simultaneous lack of glucose and oxygen1,2. The function of glomus
+cells as combined O2 and glucose sensors is surely advantageous
+in facilitating activation of the counterregulatory measures in
+response to small reductions of either variable.
+
+Acknowledgements
+We thank A. Alvarez-Buylla, P. Ortega-Sáenz, G. Gasic and A. Konnerth.
+Research was supported by grants from the Spanish Ministry of Science and
+Technology (1FD97-1614) and Fundaciones La Caixa and Ramón Areces. J.L.-B.
+received the “Ayuda a la investigación 2000” of the Juan March Foundation.
+
+Competing interests statement
+The authors declare that they have no competing financial interests.
+
+RECEIVED 4 DECEMBER; ACCEPTED 28 DECEMBER 2001
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+a
+
+14.
+15.
+
+b
+
+d
+
+198
+
+c
+
+e
+
+Auer, R. Stroke 17, 699–708 (1986).
+Martin, R. L., Lloyd, H. G. & Cowan, A. I. Trends Neurosci. 17, 251–257 (1994).
+Gerich, J. E. & Campbell, P. J. Diabetes Metab. Rev. 4, 93–111 (1988).
+Cane, P., Artal, R. & Bergman, R. N. Diabetes 35, 268–277 (1986).
+Alvarez-Buylla, R. & de Alvarez-Buylla, E. R. Resp. Physiol. 72, 347–360 (1988).
+Koyama Y. et al., Diabetes 49, 1434–1442 (2000).
+López-Barneo, J., López-López, J. R., Ureña, J. & González, C. Science 241,
+580–582 (1988).
+Wyatt, C. N. & Peers, C. J. Physiol. 483, 559–565 (1995).
+Ureña, J., Fernández-Chacón, R., Benot, A. R., Alvarez de Toledo, G. &
+López-Barneo, J. Proc. Natl. Acad. Sci. USA 91, 10208–10211 (1994).
+Pardal, R., Ludewig, U., García-Hirschfeld, J. & López-Barneo, J. Proc. Natl.
+Acad. Sci. USA 97, 2361–2366 (2000).
+Pérez-García, T. et al. J. Neurosci. 20, 5689–5695 (2000).
+Alvarez-Buylla, R. & de Alvarez-Buylla, E. R. Brain Res. 654, 167–170 (1994).
+Zinker, B. A., Nandaran, K., Wilson, R., Lacy, D. B. & Wasserman, D. H. Am. J.
+Physiol. 266, E921–E929 (1994).
+Donovan, C. M., Hamilton-Wessler, M., Halter, J. B. & Bergman, R. N. Proc.
+Natl. Acad. Sci. USA 91, 2863–2867 (1994).
+Havener, A. L., Bergman, R. N. & Donovan, C. M. Diabetes 46, 1521–1525
+(1997).
+
+Fig. 3. Low glucose-induced extracellular Ca2+ influx and inhibition of voltage-gated
+outward K+ currents. (a) Reversible suppression of low glucose–evoked secretory
+activity by 0.2 mM Cd2+. (b) Outward K+ currents from a patch-clamped glomus cell
+depolarized to 0 and +20 mV and exposed to 0 mM glucose. The control (c) and recovery (r) external solutions contained 5 mM glucose. (c) Peak outward current amplitude–voltage relation in the same cell bathed in control solutions before () and after
+() exposure to 0 mM glucose (). Holding potential, –80 mV. Pipette solution, 125 mM
+KCl, 4 mM MgCl2, 4 mM MgATP, 10 mM HEPES, 0.1 mM EGTA, pH = 7.2 and osmolality
+285–290 mOsm/kg. PO2, 150 mmHg; 35–37ºC. (d) Inward and outward currents
+recorded from a patch-clamped glomus cell depolarized to –10 mV and exposed to
+0 mM glucose. The control external solution contained 5 mM glucose. (e) Outward K+
+currents recorded from a patch-clamped glomus cell depolarized to +20 mV and
+exposed to 0 mM and 5 mM (control) glucose. The external solutions contained 200 nM
+iberiotoxin (IBTX), a blocker of the Ca2+-activated maxi-K+ channels.
+nature neuroscience • volume 5 no 3 • march 2002
+
+

@@ -1,0 +1,576 @@
+Model-driven experimental approach reveals the
+complex regulatory distribution of p53 by the
+circadian factor Period 2
+Tetsuya Gotoha,1, Jae Kyoung Kimb,1,2, Jingjing Liua,3, Marian Vila-Caballera,4, Philip E. Stauffera
+, John J. Tysonc
+,
+and Carla V. Finkielsteina,2
+a
+Integrated Cellular Responses Laboratory, Department of Biological Sciences, Biocomplexity Institute, Virginia Polytechnic Institute and State University,
+Blacksburg, VA 24061; b
+Department of Mathematical Sciences, Korea Advanced Institute of Science and Technology, Daejeon 34131, Korea; and c
+Computational Cell Biology Laboratory, Department of Biological Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061
+Edited by Joseph S. Takahashi, Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Dallas, TX, and approved October 14, 2016
+(received for review May 18, 2016)
+The circadian clock and cell cycle networks are interlocked on the
+molecular level, with the core clock loop exerting a multilevel regulatory role over cell cycle components. This is particularly relevant to the
+circadian factor Period 2 (Per2), which modulates the stability of the
+tumor suppressor p53 in unstressed cells and transcriptional activity in
+response to genotoxic stress. Per2 binding prevents Mdm2-mediated
+ubiquitination of p53 and, therefore, its degradation, and oscillations
+in the peaks of Per2 and p53 were expected to correspond. However,
+our findings showed that Per2 and p53 rhythms were significantly
+out-of-phase relative to each other in cell lysates and in purified
+cytoplasmic fractions. These seemingly conflicting experimental data
+motivated the use of a combined theoretical and experimental
+approach focusing on the role played by Per2 in dictating the phase
+of p53 oscillations. Systematic modeling of all possible regulatory
+scenarios predicted that the observed phase relationship between
+Per2 and p53 could be simulated if (i) p53 was more stable in the
+nucleus than in the cytoplasm, (ii) Per2 associates to various ubiquitinated forms of p53, and (iii) Per2 mediated p53 nuclear import. These
+predictions were supported by a sevenfold increase in p53’s half-life
+in the nucleus and by in vitro binding of Per2 to the various ubiquitinated forms of p53. Last, p53’s nuclear shuttling was significantly
+favored by ectopic expression of Per2 and reduced because of Per2
+down-regulation. Our combined theoretical/mathematical approach
+reveals how clock regulatory nodes can be inferred from oscillating
+time course data.
+tumor suppressor | circadian rhythms | p53 | mathematical modeling | Period 2
+The circadian clock is an autonomous molecular mechanism
+that controls biochemical, physiological, and behavioral processes with a periodicity of 24 h in living organisms and can be
+entrained by environmental cues (for review, see ref. 1). The clock
+is sustained by a coordinated interplay of positive and negative
+transcriptional–translational feedback loops driven by circadian
+factors, a core group of proteins that either possess intrinsic
+transcriptional activity or modulate gene expression (1). Disruption of the circadian clock by either desynchronizing the light/dark
+cycle entrainment, altering sleep/wake/feeding behavior, or manipulating the expression of core circadian genes result in an increased risk of development, progression, and exacerbation of a
+host of disease states, including proliferative disorders (for review,
+see refs. 2 and 3).
+Circadian factor protein Period 2 (Per2) is a large and multifaceted protein with an incompletely defined domain architecture, whose functional relevance extends beyond its role as a
+circadian regulator (for review, see ref. 4). Loss of Per2 function
+predisposes genetically engineered mice to spontaneous lymphomagenesis, increases susceptibility to radiation, and influences cell growth, division, and cell death in various models of
+human cultured cells (for review, see ref. 5). Whereas the above
+findings are consistent with a role for PER2 in suppressing a
+cancer-prone phenotype, a note of caution is in order, as inconsistencies among in vitro and in vivo studies have been recently reported (6, 7).
+At present, our understanding of the signaling events linking Per2
+to arrest of proliferation and to cell death are just beginning to
+emerge. We now know that, in unstressed cells, Per2 transcriptionally modulates TP53 and directly associates with the C-terminus
+region of the p53 transcription factor (p53), which prevents murine
+double minute-2 (Mdm2)-mediated ubiquitination of p53 and further degradation by the proteasome pathway (8). As a result, low
+levels of p53 remain present at all times in the cell allowing for a
+“preconditioning” state to exist. This primes the cell for a rapid
+response to genotoxic stress, which is further sustained by a Per2-
+induced p53 transcriptional loop (8, 9). As Per2 blocks p53’s
+oligomeric domain, which is needed for the formation of tetrameric transcriptionally active p53, p53’s downstream response to
+genotoxic stress not only depends on its availability in the system but
+also on its dissociation from Per2 in the nucleus (9). Furthermore, it
+is the spatiotemporal distribution of Per2:p53 that, ultimately,
+Significance
+Cells sense changes in environmental conditions and translate
+them into physiological responses that are mediated by a plethora
+of molecular intermediaries that converge at critical nodes. This is
+particularly relevant to multiple levels of biological organization in
+which the circadian clock and cell division are interlocked. Unexpectedly, the circadian rhythms of two critical components of
+the interlocked system, Period 2 (Per2) and p53, were in antiphase.
+This finding was analyzed using a systematic modeling approach,
+and predictions of the model were validated by experimental
+studies that revealed a distinct and complex scenario. Accordingly,
+we show that the spatiotemporal organization of Per2:p53 interactions and the nature of their chemical modifications are critical
+for their time-dependent subcellular redistribution and potential
+biological functions.
+Author contributions: T.G., J.K.K., and C.V.F. designed research; T.G., J.K.K., J.L., M.V.-C.,
+and P.E.S. performed research; C.V.F. supervised and coordinated all investigators for the
+project; T.G., J.K.K., J.J.T., and C.V.F. analyzed data; and J.K.K. and C.V.F. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+1
+T.G. and J.K.K. contributed equally to this work.
+2
+To whom correspondence may be addressed. Email: finkielc@vt.edu or jaekkim@kaist.ac.kr.
+3
+Present address: Molecular and Cellular Oncogenesis, The Winstar Institute, Philadelphia,
+PA 19104.
+4
+Present address: Department of Biomedical Sciences, University CEU Cardenal Herrera,
+Valencia 46113, Spain.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1607984113/-/DCSupplemental.
+13516–13521 | PNAS | November 22, 2016 | vol. 113 | no. 47 www.pnas.org/cgi/doi/10.1073/pnas.1607984113
+provides the unifying framework with which to understand the link
+between the two components of our initial model. These findings
+place Per2 as a component of the checkpoint response by intersecting the p53 node, thus providing a mechanistic account for some
+of the Per2-associated growth inhibitory and proliferative phenotypes observed in cultured cells and in knockout animals, respectively, where endogenous levels of Per2 were experimentally
+modulated (10–12).
+Using an approach that combines mathematical modeling of
+the protein interaction network with targeted experiments, we
+established the asymmetric distribution of Per2:p53 in the cell
+and its impact on the time-dependent regulatory mechanism that
+modulates p53’s rhythmic behavior, stability, and cellular distribution. Our models and data further revealed the relevance of
+posttranslational modification events that take place in separate
+cellular compartments and that contribute to the time-dependent
+phase shift in the accumulation of p53 proteins.
+Results
+Rhythmic Accumulation of p53 and Per2 Are Noticeably Out-of-Phase.
+The observation that Per2 binding to p53 favors its stability by
+preventing Mdm2-mediated polyubiquitination of p53 prompted
+us to investigate whether p53 oscillation closely follows Per2
+rhythms (Fig. 1A). Accordingly, extracts from circadian synchronized human colorectal carcinoma-116 (HCT116) cells were monitored for their level of expression of Per2, chryptochrome 1 (Cry1),
+Mdm2, and p53 proteins in a time-dependent fashion (Fig. 1A,
+Upper). As expected, Cry1 and Per2 undergo similar oscillations,
+albeit with a short delay, with a periodicity of about 24 h, following
+their mRNA by a few hours (Fig. 1B and Fig. S1A). Importantly,
+p53 was comparatively low at 0–4 h post serum shock, rose to a
+maximum at 12–16 h, and slowly decreased afterward (Fig. 1A).
+Thus, the peaks of Per2 and p53 expression in total cell extracts
+(named Per2te and p53te hereafter) is shifted by ∼8 h (out-ofphase), and the amplitude of the p53 peak is reduced compared
+with that of Per2 (Fig. 1A, Lower). Moreover, the out-of-phase
+relationship between Per2 and p53 remains a prevalent feature
+among cell-based systems and in response to different circadian
+stimuli as is the case, for example, in HeLa cells and with treatments such as dexamethasone (Fig. S1 B and C).
+Next, we investigated whether p53 rhythms stem from the
+rhythmic transcription of TP53 or, instead, its negative regulator,
+the E3 ubiquitin protein ligase Mdm2. In contrast to the strong
+rhythmically expressed changes observed for PER2 mRNA (Fig.
+1B), quantitative RT-PCRs (qRT-PCRs) exposed very weak
+rhythmic levels of the TP53 transcript. This was not unexpected
+as TP53’s transcript half-life is ∼9 h, which is much greater than
+that of Per2 (∼0.7 h) (13–15). Therefore, as the half-life of p53
+protein is much shorter (∼2 h) than its mRNA (8), circadian
+modulation of p53 is likely to be more effective at the protein
+level than at the gene expression level. Furthermore, taking into
+account that the peak of the p53 protein precedes that of its
+transcript, it is unlikely that the rhythms in protein level result
+from rhythms in gene expression. Last, we examined whether
+antiphase expression of Mdm2 could drive the rhythmic accumulation of p53. Accordingly, detection of Mdm2 levels was by
+immunoblotting, and quantitative studies were carried out using
+JTK_CYCLE, a nonparametric algorithm testing rhythmicity (Fig.
+1A and Table S1) (16). Whereas our results confirm the absence of
+rhythmic levels of Mdm2, a note of caution should be raised, as
+other scenarios involving Mdm2 cannot be excluded (e.g., posttranslational events, subcellular localization) that might contribute
+to the observed pattern of p53 expression.
+These findings further motivate the search for the formation
+of the Per2:p53 complex in extracts from synchronized cells.
+Accordingly, we examined how Per2 and p53’s phase relationship
+impact the formation of the Per2:p53 complex over time. Extracts from circadian synchronized HCT116 cells were analyzed
+for the presence of total Per2 levels and endogenous Per2:p53
+and Per2:Cry1 complexes by immunoprecipitation (Fig. 1C and
+Fig. S1 D and E). The Per2:p53 complex showed a peak at 8–16 h
+after synchronization (Fig. 1C, Lower), which is in clear contrast with the level of total Per2 detected in cell extracts (Fig.
+1C, Upper) and is shifted from that of Per2:Cry1 (Fig. S1E),
+which is depicted in the quantitative profile. Because Per2 stabilizes p53 (8), the lack of correspondence between the Per2
+peak and both the p53 (Fig. 1A) and Per2:p53 (Fig. 1C) peaks in
+total extracts implies the existence of an additional level of
+regulation (i.e., posttranslational) that needs to be factored into
+our initial model (9).
+We then investigated whether the Per2 and p53 phase shifts
+identified in total extracts resulted from a complex redistribution
+of these proteins in different cellular compartments. The rationale
+behind this hypothesis is based on findings that Per2 shuttles between compartments following an oscillatory pattern that leads to an
+uneven distribution of the protein over time (17) and that p53 undergoes nuclear–cytoplasmic shuttling in a process that is both rapid
+and energy dependent (18, 19). We monitored Per2 and p53 protein
+Fig. 1. Distinct p53 and Per2 phases characterize their time-dependent
+subcellular distribution. (A, Upper) Extracts from circadian synchronized
+HCT116 cells were analyzed for the expression of endogenous Per2, p53,
+Mdm2, and Cry1 by immunoblotting. Asterisks indicate nonspecific bands.
+(Lower) Bands were quantified using ImageJ, and values were normalized to
+tubulin levels. Data are in arbitrary units (a.u.). (B) Samples from A were
+processed for qRT-PCR as described in SI Materials and Methods. Data for
+PER2 and TP53 gene expression are shown as the mean ± SEM from three
+independent experiments performed in triplicate. Bar graphs are fold increase normalized to the level of expression at t = 0 h. Inset indicates level of
+Per2 expression within the first 4 h. (C) HCT116 extracts from various times
+postcircadian synchronization (t = 0–36 h) were immunoprecipitated using
+α-Per2. Bound proteins were identified by immunoblotting and quantified as
+described in A. Relative amounts of Per2 and total Per2:p53 complex were
+plotted in arbitrary units relative to t = 0. (D) Nuclear and cytoplasmic
+fractions from circadian synchronized HCT116 cells were enriched for endogenous Per2 and p53 by immunoprecipitation and blotted using α-Per2 or
+-p53 antibodies, respectively. Tubulin and lamin A/C were used as controls.
+Bands were quantified and plotted as in A. In A, C, and D, immunoblot data
+were originated from a single experiment that was repeated three times
+with similar results. Error bars represent mean ± SEM.
+Gotoh et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13517
+NEUROSCIENCE
+levels in nuclear and cytoplasmic fractions purified from circadian
+synchronized HCT116 cells (Fig. 1D). Unexpectedly, whereas the
+rhythms of Per2 and p53 were in-phase in the nucleus, both proteins
+exhibited an out-of-phase relationship in the cytoplasm (Fig. 1D). In
+context with our previous findings (8), these results established that
+the phase relationship between p53 and Per2 observed in total extracts overlooks the role of compartmentalization.
+Next, we wanted to evaluate whether the phase relationships
+for Per2 and p53 in either compartment were maintained even
+when the circadian clock was perturbed (Fig. S2). Consequently,
+HCT116 cells were circadian synchronized by serum shock followed
+by addition of PF670462 (named PF670 hereafter), a potent dual
+pharmacological inhibitor of casein kinase 1 e/δ (CK1e/δ) that
+causes lengthening of clock oscillations by stabilizing Per2 (20).
+Lysates and subcellular fractions were quantitatively analyzed to
+evaluate the level of Per2, p53, Mdm2, and CK1e expression (Fig.
+S2 A and B). As expected, addition of PF670 stabilized Per2 in both
+compartments (Fig. S2 A and B, Upper) and delayed the circadian
+phase (Fig. S2C). This is in agreement with the established role of
+CK1e/δ-mediated phosphorylation of Per2 for its turnover and in
+sustaining the negative loop (21). Remarkably, and unlike Mdm2
+and CK1 proteins (Fig. S2 A and B, Lower), the rhythms of Per2
+and p53 were both delayed in PF670-treated samples in a manner
+that mimics the phase relationship observed in the absence of
+PF670 treatment (Fig. S2 A and B, Upper). Last, the activity of
+CK1e/δ relevant to Per2’s stability and Per:Cry heterodimerization
+is not a contributing factor, at least under unstressed conditions, in
+regulating phase relationship between Per2 and p53. Instead, Per2
+acts as the chief regulator (Fig. S2C).
+Mathematical Modeling Predicts Underlying Interactions Between
+Per2 and p53. The inherent complexity of the interplay between
+Per2 and p53 begs for a combined theoretical and experimental
+approach to aid in the interpretation of experimental data, to generate testable predictions, and to develop a unified understanding of
+the phenomena (22, 23). Accordingly, the phase relationship between Per2 and p53 (Fig. 1) was analyzed in the context of all
+possible scenarios in which rhythmic Per2 could influence production, nucleus shuttling (entry/exit), and degradation of p53 (Fig.
+2A). For each scenario, regulation types were randomly selected
+among positive (+), null (0), or negative (−) interactions during the
+model fitting process (Fig. 1D and SI Materials and Methods). As a
+result, we found 103 predicted models that successfully simulated the
+observed phase relationship between p53 and Per2. Interestingly,
+although the regulation types were randomly chosen, Per2-mediated
+entry of p53 to the nucleus was strongly skewed in the positive direction among all models, indicating that this event is essential to
+accurately simulate the rhythms of p53 (Fig. 2B). An additional
+unifying property among the 103 models predicted that the stability of
+nuclear p53 should be greater than that of the protein in the cytoplasmic compartment to successfully simulate p53 rhythms (Fig. 2C).
+Based on these initial two findings (Fig. 2 B and C), we developed a more detailed and realistic mathematical model (Fig. 2D,
+Tables S2 and S3, and SI Materials and Methods). First, we modified
+the Kim and Forger’s model used to represent the dynamics of the
+transcriptional negative arm generated by Per2 (24, 25). Second, we
+considered the ubiquitination status of p53 as it modulates p53
+degradation and shuttling (26). Specifically, the dual role of monoubiquitination in p53 shuttling as a mode to impede nuclear import while facilitating p53 nuclear exit was addressed (18). In
+addition, the relevance of polyubiquitination in p53, which is
+associated with its rapid turnover (18), is reflected in the model
+by rapid clearance of p53 in the cytoplasm compared with the nucleus
+(Fig. 2C). Third, the model incorporates the interaction of Per2 with
+p53, which modulates p53 stability and function (8, 9). Accordingly,
+when p53 is prebound to Per2, both monoubiquitination and polyubiquitination of p53 are inhibited (8), thereby promoting p53 nuclear
+translocation (Fig. 2B) while blocking its proteasomal degradation.
+Next, we confirmed that the simulated time courses of Per2
+and p53 (Fig. 2 E and F, and Fig. S3) matched the experimental
+data equally well (Fig. 1 A and D). In particular, the model predicted that the differences in phases observed between the p53 and
+Per2 peaks in the cytoplasm (Fig. 1D) were largely due to Per2-
+mediated shuttling of p53 into the nucleus, where p53 remains
+stable (Fig. 2 B and D). In this scenario, when Per2 levels are high
+(Fig. 2 E and F; Per2t, dashed black line), the cytoplasmic-to-nuclear
+translocation of nonubiquitinated p53 is promoted [Fig. 2D, brown
+arrow, and Fig. 2F; Per2:nonubiquitinated p53 (p53nonub), red solid
+line]. Once in the nucleus, the Per2:p53nonub complex dissociates
+allowing for free p53 to be monoubiquitinated [Fig. 2F; monoubiquitinated p53 (p53monoub), green solid line], stabilized, and ultimately exported to the cytoplasm (27). Consequently, export of
+p53monoub results in a peak delay of p53 levels in the cytoplasm (Fig.
+2 D and E, green solid line). A corollary to that prediction is that
+p53 half-life should be shorter in a PER2−/− background (Fig. 2G) as
+demonstrated in ref. 8. Last, the model predicts that the phase of
+the Per2:p53 complex strongly depends on the ubiquitination status
+of p53 (nonubiquitinated, monoubiquitinated, or polyubiquitinated)
+that binds to Per2 and forms the complex (Fig. 2H). Accordingly, if
+binding of Per2 only occurs to nonubiquitinated p53, the phase of
+the Per2:p53 complex is predicted to be in-phase with that of total
+Per2 (Fig. 2H, orange dashed line) in clear contrast to the results
+Fig. 2. Mathematical modeling predicts unexpected mechanisms for Per2-
+mediated regulation of p53 phases. (A) Schematic representation of potential regulatory nodes for which Per2 can influence p53 phases. For each
+regulation, its type is randomly selected among positive (+)/null (0)/negative
+(−) throughout the process of fitting the model to the observed p53 and
+Per2 rhythms (see SI Materials and Methods for details). (B) Distribution of
+the 103 successful models according to their regulation type for p53. The
+strengths of regulation types are represented as the number of + and – (see
+SI Materials and Methods for details) (C) Distribution of the 103 successful
+models according to the relative half-life of nuclear vs. cytoplasmic p53.
+(D) Simplified representation of a comprehensive model for Per2 and p53
+interaction based on the two essential properties predicted in B and C.
+(E and F) Simulated time course levels of Per2 and p53 species in both cytoplasm (E) and nuclear (F) compartments (see Fig. S3 for total extracts).
+(G) Prediction of p53 half-life in the presence or absence of Per2 in the
+system. (H) Phase predictions for the Per2:p53 complex differ depending on
+whether Per2 binding occurs regardless of p53 ubiquitination status (model
+1) or is only associated to nonubiquitinated p53 (model 2).
+13518 | www.pnas.org/cgi/doi/10.1073/pnas.1607984113 Gotoh et al.
+shown in Fig. 1C. Alternatively, if Per2 binding occurs regardless of
+the ubiquitination status of p53, rhythms between the complex and
+total Per2 species are predicted to be antiphase (Fig. 2H, orange
+solid line) and in agreement with the experimental results shown in
+Fig. 1C. Overall, these predictions provide an initial framework for
+understanding what, a priori, was an unexpected observation (Fig.
+1A). Therefore, we set out to test these specific predictions of the
+model experimentally.
+The Localization of p53 Influences the Kinetics of Its Degradation.
+The model predicts that three essential properties simulate the
+correct rhythms of p53 (Fig. 2 B, C, and H). To test these predictions, initial experiments were devoted to evaluating whether
+p53 half-life differed in either the cytoplasmic or the nuclear
+compartment using cycloheximide (CHX). Whereas treatment of
+cells with CHX (an inhibitor of protein biosynthesis) can have a
+biasing effect on degradation rates of proteins in vitro and under
+normal growth conditions, and in different subcellular locations
+(28), this approach has been successfully used to compare the
+half-life of other core clock proteins in nuclear and cytoplasmic
+compartments (29). Therefore, HCT116 cells were treated with
+CHX (t = 0) and harvested at different times after treatment
+(Fig. 3; t = 1–4 h). The level of p53 was evaluated in both nuclear
+and cytoplasmic fractions as well as in whole-cell lysates by immunoblotting (Fig. 3 and Fig. S4). In agreement with the model’s
+prediction (Fig. 2C), the half-life of endogenous p53 in the nucleus
+was found to be considerably longer than that of p53 in the cytoplasmic compartment (Fig. 3B, Upper; t1/2n/t1/2c ∼ 7 times) where
+p53 is normally polyubiquitinated and targeted for degradation (30).
+Unlike p53, Per2 half-life remained unchanged in each compartment for the time course analyzed (Fig. 3B, Lower; t1/2n/t1/2c ∼ 1).
+These results further motivate the need to understand how Per2
+shuttling influences the dynamic distribution of p53.
+Qualitative Assessment of Per2 Association to the Various Ubiquitination
+Forms of p53. We previously showed that Per2 binding to p53 prevents subsequent p53 ubiquitination by Mdm2 (8). Whereas this
+interaction provides a means for enhancing p53’s stability and
+availability in the cell and for a rapid response to genotoxic stress
+(9), our model predicts that other ubiquitinated forms of p53 should
+be amenable to Per2 binding (Fig. 2H). To test this possibility
+in vitro, we performed a sequential ubiquitination and binding assay
+and monitored the presence of Per2 bound to the various ubiquitinated p53 forms (Fig. 4 and Fig. S5A). In vitro-transcribed
+and -translated myc-p53 was incubated with FLAG-Mdm2 in the
+presence (or absence) of a ubiquitin mixture and MG132, a proteasome inhibitor. Polyubiquitinated forms of p53 were purified and
+tested for Per2 binding by immunoprecipitation and blotting (Fig. 4
+and Fig. S5A). As shown in Fig. 4 and Fig. S5B, p53 is efficiently
+polyubiquitinated by Mdm2 (lanes 2 and 3 vs. 4 and 5, Lower) and,
+despite this chemical modification, Per2 binding still occurs (lanes 3
+vs. 5). When methyl-ubiquitin, which prevents elongation but not
+initiation of ubiquitin chains, was supplemented to the mixture instead, only monoubiquitinated p53 was generated. In accordance
+with our prediction, binding of Per2 was detected (Fig. 4 and Fig.
+S5B). Overall, these results, and those presented in Figs. 1C and
+2H, support a model in which Per2 is capable of associating with
+p53 regardless of p53’s ubiquitination status and, thus, contributes
+to the pool of Per2:p53 complex whose distribution is antiphase to
+that of Per2. Still, much remains unknown regarding the underlying
+biochemistry that surrounds the association between Per2 and p53
+as p53’s ubiquitination might influence, at multiple levels, the affinity of p53 for Per2 and/or that of its ternary partner Mdm2.
+Expression of Per2 Favors p53 Nuclear Translocation. An essential
+property predicted by our model is that, to simulate the correct
+phase of p53 rhythm, Per2 should positively influence p53 nuclear translocation (Fig. 2B). Further experiments were done to
+confirm this prediction by evaluating the influence of Per2 expression levels on p53 trafficking. Initially, HCT116 cells were
+transfected to express trace levels of myc-Per2, low enough to
+keep total levels of Per2 relatively constant in the cell and
+avoiding potential overexpression artifacts (Fig. 5A, Upper). In
+fact, detection of the tagged form of Per2 was marginal to the
+point that only the addition of six tags in the construct allowed
+for its identification (Fig. 5A, Middle, and Fig. S6A). To better
+capture p53 distribution, experiments were performed in the
+presence of both MG132, a proteasome inhibitor, to block p53
+degradation, and/or leptomycin B (LMB), which, by inhibiting
+the nuclear export factor CRM1, prevents p53 nuclear exit. As
+Fig. 3. The half-life of p53, but not Per2, differs in nuclear and cytoplasmic
+compartments. (A) Samples were obtained from HCT116 cells in the absence
+(t = 0) or presence of CHX as indicated in SI Materials and Methods section.
+Extracts from cytoplasmic and nuclear fractions were analyzed by immunoblotting using α-Per2 and -p53 antibodies. Tubulin and lamin A/C were used
+as controls. (B) Protein levels were quantified as described in SI Materials and
+Methods section, values were normalized to tubulin or lamin A/C levels, and
+p53 and Per2 half-life (t1/2) calculated using Excel. Error bars represent mean ±
+SEM of three independent experiments.
+Fig. 4. Per2 associates to ubiquitinated forms of p53. In vitro-transcribed and
+-translated FLAG-p53 was preincubated (+) with myc-Mdm2 and the complex
+added to a reaction mixture containing (+) or not (−) the ubiquitin substrate
+(ubiquitin, Ub, or methyl-ubiquitin, MeUb) as indicated in SI Materials and
+Methods and Fig. S5A. Circled “+” indicates myc-Per2 was added after complexes were formed and washed. Bound proteins were detected by immunoblotting. The FLAG-p53(Ub)n forms were detected using α-p53 antibody (Lower).
+Arrows indicate examples of monoubiquitinated forms of p53.
+Gotoh et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13519
+NEUROSCIENCE
+shown in Fig. 5A, augmented expression of myc-Per2 resulted in a
+concomitant decrease in p53 levels in the cytosol (lanes 5 and 6 vs.
+11 and 12) and increased detection of both components in the
+nucleus (lanes 11 and 12 vs. 17 and 18), an observation that was
+further supported by quantitative analysis and statistical inference
+(Fig. 5B). Indeed, the converse experiment, where endogenous Per2
+levels were down-regulated by small interfering RNA (siRNA)
+transfection (Fig. 5C and Fig. S6B), resulted in a sharp decrease of
+nuclear p53 accumulation (Fig. 5C, lanes 10 vs. 12 and Fig. 5D).
+Although existing shuttling mechanisms for p53 are in place in the
+cell (26), our results support a model in which partial translocation
+of p53 and its time-of-day cellular distribution are mediated by the
+availability and binding capability of Per2.
+Discussion
+Today, evidence points toward circadian factors controlling numerous processes that impact cell cycle transitions, growth, and
+death (for review, see ref. 31). However, we lack a unifying view
+about how those interactions operate under normal progression
+and how they adjust to stress conditions. To begin addressing this
+shortcoming, we focus on circadian components, specifically
+Per2, which play critical roles in controlling proliferation by
+interacting with cellular factors at key regulatory nodes. Accordingly, our previous findings placed Per2 at the core of the
+checkpoint response by directly interacting with p53, controlling
+p53’s stability in unstressed conditions and its transcriptional
+activity in response to genotoxic stimuli (8, 9); however, little is
+known about how Per2 and p53’s spatiotemporal distributions
+help to segregate signals in the cell.
+Our approach is simple in concept as it combines theoretical
+and experimental work and is motivated by an existing conundrum:
+how can discordant Per2 and p53 phases coexist in a model in which
+Per2 enhances p53’s stability (Fig. 1 and ref. 8)? To tackle this
+problem, we used a systematic investigation of models from which
+we could infer the interactions between Per2 and p53 using their
+time course data (Fig. 1 and refs. 22, 23, and 32). Three essential
+molecular mechanisms were predicted (Fig. 2 and Fig. S3) and
+validated experimentally: (i) p53 half-life is greater in the nucleus
+(Fig. 3 and Fig. S4), (ii) Per2 associates to various ubiquitinated
+forms of p53 (Fig. 4 and Fig. S5), and (iii) Per2 promotes p53’s
+nuclear entry (Fig. 5 and Fig. S6). Accordingly, the proposed model
+implies that the phase difference between Per2 and p53 in the cytoplasm may result from Per2:p53 binding and shuttling between
+compartments where posttranslational modifications in p53 take
+place (Fig. 6).
+Protein translocation dynamics and posttranslational events
+are recurrent themes when analyzing the importance of oscillations for modulating cell cycle transitions and for the generation
+of circadian rhythms. We know now that what makes the regulation of p53 by Per2 distinctive from others, besides Per2’s role
+as a p53 stabilizer, is its dual anchor/transporter function (depending
+on whether Per2 is bound to monoubiquitinated or nonubiquitinated Fig. 5. Per2 enhances p53 shuttling to the nucleus. (A) HCT116 cells were
+transfected with either myc-Per2 (0.25 or 0.5 μg) or empty vector (0) for 24 h
+before the addition of MG132 and/or leptomycin B (LMB). Lysates were subjected to subcellular fractionation, and total extract (Left), cytoplasmic (Middle),
+and nuclear (Right) fractions were analyzed for the presence of Per2, myc-Per2,
+and endogenous p53 by immunoblotting. Tubulin and lamin A/C were used as
+controls. (B) Endogenous p53 was quantified using Image Lab software/Gel Doc
+XR+ system and values normalized to tubulin or lamin A/C levels. (C) HCT116
+cells were transfected with either scrambled siRNA (mock) or Per2 siRNA (siRNA)
+for 48 h before the addition of MG132 and/or LMB. Endogenous proteins were
+detected as indicated in A and quantified as in B. In B and D, data are represented as fold increase of p53 (in arbitrary units) compared with similar treatment in either vector-transfected or mock samples, respectively. Values are the
+mean ± SEM from three independent experiments. Statistical significance was
+determined by t test. *P ≤ 0.05; **P ≤ 0.005, ***P < 0.001.
+Fig. 6. A unifying model for Per2-mediated regulation of p53 translocation
+and signaling. The schematic representation summarized in this section incorporates our previous and newly described findings. First, we focused on
+the Per2:p53 interaction as a mode of controlling the endogenous levels of
+p53 under physiological conditions. We proposed this to be a strategy to
+generate a stable pool of p53 that preconditions the cell for a rapid response
+to a stress situation (ref. 8; upper left corner of the model). Second, we
+demonstrated that Per2:p53 interaction is functionally relevant for modulating a p53-mediated transcriptional response in cells exposed to genotoxic
+stimuli (ref. 9; lower right corner). Last, we show that both processes are
+related and mediated by events that control the translocation and availability of p53 via Per2 in each subcellular compartment over the course of
+the circadian cycle (this publication).
+13520 | www.pnas.org/cgi/doi/10.1073/pnas.1607984113 Gotoh et al.
+p53) in the Per2:p53 complex, which takes place in a dynamic
+fashion throughout the day (Fig. 6). We first described the interplay
+between Per2, p53, and Mdm2, and how Per2:p53 interaction
+modulates the endogenous levels of p53 in unstressed conditions,
+thereby generating a readily available pool of p53 amenable for
+triggering a rapid response to, for example, genotoxic stress (ref. 8;
+Fig. 6, upper left corner). Then, we placed Per2 as a direct regulator
+of p53 expression and transcriptional activity under stress conditions,
+thus proving that Per2:p53 interaction could be functionally relevant
+in multiple scenarios (refs. 8 and 9; Fig. 6, lower right corner). Our
+findings bring both pieces of the Per2 and p53 story together by
+unveiling the role that Per2-mediated translocation of p53 plays in
+generating a time-dependent subcellular distribution of the p53’s
+pool (Fig. 6). In a larger context, and considering the functional
+significance of p53 in normal cell growth and carcinogenesis, understanding the underlying molecular mechanism by which circadian
+factors regulate p53 accumulation could help identify windows of
+opportunities for effective chronopharmaceutical treatments.
+Last, whereas the focus of our work is in understanding how the
+circadian clock drives the circadian rhythms of p53 via Per2, it is
+worth mentioning that other p53 oscillations, with a period of ∼5 h,
+exist and are generated in response to specific stimuli. For example,
+in MCF7 cells, DNA damage triggers p53 pulses that are primarily
+driven by those occurring in upstream kinases (e.g., ATM and ChK)
+and are sustained as long as the DNA damage persists (33). The
+existence of p53 pulses impacts the expression of different subsets
+of p53 target genes and, consequently, influences the fate of the cell
+(34). Interestingly, even unstressed proliferating cells exhibit spontaneous pulses of p53 that are believed to be triggered by intrinsic
+and transient DNA damage that occurs during cell cycle transitions
+(35). Consequently, and in future studies, it would be of interest to
+investigate the existing interplay between stress-induced pulses
+of p53 (36) and the circadian rhythms oscillations of p53 (our work)
+as both the circadian and cell cycle oscillators are synchronized
+(37, 38).
+Materials and Methods
+Subcellular fractionation was performed essentially as described (39). Nuclear
+and cytoplasmic fractions from synchronized HCT116 cells were analyzed for
+expression of endogenous proteins by immunoblotting following standard
+procedures (8). When indicated, immunoprecipitation of endogenous Per2 and
+p53 from nuclei and cytoplasmic fractions were from 8 × 106 and 2 × 106 cells,
+respectively. To measure protein half-life, fractions were obtained from HCT116
+cells collected after CHX (100 μg/mL) addition (t = 0). Endogenous protein levels
+were determined by immunoblotting and quantitated using the ImageJ software, version 1.45 [NIH software package (40)] or Image Lab Software followed
+by detection using Gel Doc XR+ System (Bio-Rad). For mathematical modeling,
+we extended a previous model of the intracellular mammalian circadian clock
+(24, 25) to describe interactions between p53 and Per2 (Fig. 2 A and D). Refer to
+SI Materials and Methods and Table S4 for technical details and Tables S2 and S3
+for a list of variables and parameters used in modeling, respectively.
+ACKNOWLEDGMENTS. We thank Dr. D. Capelluto for critical reading of the
+manuscript and Dr. J. Webster for comments and manuscript editing. This
+work was supported by National Science Foundation Molecular and Cellular
+Biosciences Division Grant MCB-1517298 and Fralin Life Science Institute (to
+C.V.F.), and Korea Advanced Institute of Science and Technology Research
+Allowance Grant G04150020, National Research Foundation of Korea Grant
+N01160447, and T. J. Park Science Fellowship of POSCO (to J.K.K.).
+1. Mohawk JA, Green CB, Takahashi JS (2012) Central and peripheral circadian clocks in
+mammals. Annu Rev Neurosci 35:445–462.
+2. Takahashi JS, Hong HK, Ko CH, McDearmon EL (2008) The genetics of mammalian
+circadian order and disorder: Implications for physiology and disease. Nat Rev Genet
+9(10):764–775.
+3. Rana S, Mahmood S (2010) Circadian rhythm and its role in malignancy. J Circadian
+Rhythms 8:3.
+4. Albrecht U, Bordon A, Schmutz I, Ripperger J (2007) The multiple facets of Per2. Cold
+Spring Harb Symp Quant Biol 72:95–104.
+5. Gery S, Koeffler HP (2010) Circadian rhythms and cancer. Cell Cycle 9(6):1097–1103.
+6. Antoch MP, Toshkov I, Kuropatwinski KK, Jackson M (2013) Deficiency in PER proteins
+has no effect on the rate of spontaneous and radiation-induced carcinogenesis. Cell
+Cycle 12(23):3673–3680.
+7. Sancar A, et al. (2015) Circadian clock, cancer, and chemotherapy. Biochemistry 54(2):
+110–123.
+8. Gotoh T, et al. (2014) The circadian factor Period 2 modulates p53 stability and
+transcriptional activity in unstressed cells. Mol Biol Cell 25(19):3081–3093.
+9. Gotoh T, Vila-Caballer M, Liu J, Schiffhauer S, Finkielstein CV (2015) Association of the
+circadian factor Period 2 to p53 influences p53’s function in DNA-damage signaling.
+Mol Biol Cell 26(2):359–372.
+10. Fu L, Pelicano H, Liu J, Huang P, Lee C (2002) The circadian gene Period2 plays an important
+role in tumor suppression and DNA damage response in vivo. Cell 111(1):41–50.
+11. Sun CM, et al. (2010) Per2 inhibits k562 leukemia cell growth in vitro and in vivo
+through cell cycle arrest and apoptosis induction. Pathol Oncol Res 16(3):403–411.
+12. Hua H, et al. (2007) Inhibition of tumorigenesis by intratumoral delivery of the circadian gene mPer2 in C57BL/6 mice. Cancer Gene Ther 14(9):815–818.
+13. Lück S, Thurley K, Thaben PF, Westermark PO (2014) Rhythmic degradation explains
+and unifies circadian transcriptome and proteome data. Cell Rep 9(2):741–751.
+14. Mazan-Mamczarz K, et al. (2003) RNA-binding protein HuR enhances p53 translation
+in response to ultraviolet light irradiation. Proc Natl Acad Sci USA 100(14):8354–8359.
+15. Siepka SM, et al. (2007) Circadian mutant Overtime reveals F-box protein FBXL3
+regulation of cryptochrome and period gene expression. Cell 129(5):1011–1023.
+16. Hughes ME, Hogenesch JB, Kornacker K (2010) JTK_CYCLE: An efficient nonparametric algorithm for detecting rhythmic components in genome-scale data sets.
+J Biol Rhythms 25(5):372–380.
+17. Tamanini F, Yagita K, Okamura H, van der Horst GT (2005) Nucleocytoplasmic shuttling of clock proteins. Methods Enzymol 393:418–435.
+18. Marchenko ND, et al. (2010) Stress-mediated nuclear stabilization of p53 is regulated
+by ubiquitination and importin-alpha3 binding. Cell Death Differ 17(2):255–267.
+19. Middeler G, et al. (1997) The tumor suppressor p53 is subject to both nuclear import
+and export, and both are fast, energy-dependent and lectin-inhibited. Oncogene
+14(12):1407–1417.
+20. Walton KM, et al. (2009) Selective inhibition of casein kinase 1 epsilon minimally alters circadian clock period. J Pharmacol Exp Ther 330(2):430–439.
+21. Vanselow K, Kramer A (2007) Role of phosphorylation in the mammalian circadian
+clock. Cold Spring Harb Symp Quant Biol 72:167–176.
+22. Clodong S, et al. (2007) Functioning and robustness of a bacterial circadian clock. Mol
+Syst Biol 3:90.
+23. Locke JC, Westermark PO, Kramer A, Herzel H (2008) Global parameter search reveals
+design principles of the mammalian circadian clock. BMC Syst Biol 2:22.
+24. Kim JK, Forger DB (2012) A mechanism for robust circadian timekeeping via stoichiometric balance. Mol Syst Biol 8:630.
+25. Kim JK (2016) Protein sequestration versus Hill-type repression in circadian clock
+models. IET Syst Biol 10(4):125–135.
+26. Kruse JP, Gu W (2009) Modes of p53 regulation. Cell 137(4):609–622.
+27. O’Brate A, Giannakakou P (2003) The importance of p53 location: Nuclear or cytoplasmic zip code? Drug Resist Updat 6(6):313–322.
+28. Belle A, Tanay A, Bitincka L, Shamir R, O’Shea EK (2006) Quantification of protein half-lives
+in the budding yeast proteome. Proc Natl Acad Sci USA 103(35):13004–13009.
+29. Yoo SH, et al. (2005) A noncanonical E-box enhancer drives mouse Period2 circadian
+oscillations in vivo. Proc Natl Acad Sci USA 102(7):2608–2613.
+30. Li M, et al. (2003) Mono- versus polyubiquitination: Differential control of p53 fate by
+Mdm2. Science 302(5652):1972–1975.
+31. Hardin PE, Panda S (2013) Circadian timekeeping and output mechanisms in animals.
+Curr Opin Neurobiol 23(5):724–731.
+32. Kim JK, Forger DB (2012) On the existence and uniqueness of biological clock models
+matching experimental data. SIAM J Appl Math 72(6):1842–1855.
+33. Batchelor E, Mock CS, Bhan I, Loewer A, Lahav G (2008) Recurrent initiation: A
+mechanism for triggering p53 pulses in response to DNA damage. Mol Cell 30(3):
+277–289.
+34. Purvis JE, et al. (2012) p53 dynamics control cell fate. Science 336(6087):1440–1444.
+35. Loewer A, Batchelor E, Gaglia G, Lahav G (2010) Basal dynamics of p53 reveal transcriptionally attenuated pulses in cycling cells. Cell 142(1):89–100.
+36. Kim JK, Jackson TL (2013) Mechanisms that enhance sustainability of p53 pulses. PLoS
+One 8(6):e65242.
+37. Bieler J, et al. (2014) Robust synchronization of coupled circadian and cell cycle oscillators in single mammalian cells. Mol Syst Biol 10:739.
+38. Feillet C, et al. (2014) Phase locking and multiple oscillating attractors for the coupled
+mammalian clock and cell cycle. Proc Natl Acad Sci USA 111(27):9828–9833.
+39. Schreiber E, Matthias P, Müller MM, Schaffner W (1989) Rapid detection of octamer
+binding proteins with “mini-extracts”, prepared from a small number of cells. Nucleic
+Acids Res 17(15):6419.
+40. Schneider CA, Rasband WS, Eliceiri KW (2012) NIH Image to ImageJ: 25 years of image
+analysis. Nat Methods 9(7):671–675.
+41. Balsalobre A, et al. (2000) Resetting of circadian time in peripheral tissues by
+glucocorticoid signaling. Science 289(5488):2344–2347.
+42. Yang X, et al. (2009) β-catenin induces β-TrCP-mediated PER2 degradation altering
+circadian clock gene expression in intestinal mucosa of ApcMin/+ mice. J Biochem
+145(3):289–297.
+43. Gonzalez OR, Küper C, Jung K, Naval PC, Jr, Mendoza E (2007) Parameter estimation using
+Simulated Annealing for S-system models of biochemical networks. Bioinformatics 23(4):
+480–486.
+Gotoh et al. PNAS | November 22, 2016 | vol. 113 | no. 47 | 13521
+NEUROSCIENCE

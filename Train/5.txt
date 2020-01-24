@@ -1,0 +1,315 @@
+Multiple-scale neuroendocrine signals connect brain
+and pituitary hormone rhythms
+Nicola Romanòa,1,2, Anne Guilloua
+, David J. Hodsonb,c, Agnès O Martina
+, and Patrice Mollarda,2
+a
+Institute of Functional Genomics (IGF), CNRS, INSERM, University of Montpellier, F-34094 Montpellier, France; b
+Institute of Metabolism and Systems
+Research and Centre of Membrane Proteins and Receptors, University of Birmingham, Edgbaston B15 2TT, United Kingdom; and c
+Centre for Endocrinology,
+Diabetes and Metabolism, Birmingham Health Partners, Birmingham B15 2TH, United Kingdom
+Edited by Donald W. Pfaff, The Rockefeller University, New York, NY, and approved January 17, 2017 (received for review October 12, 2016)
+Small assemblies of hypothalamic “parvocellular” neurons release their
+neuroendocrine signals at the median eminence (ME) to control longlasting pituitary hormone rhythms essential for homeostasis. How such
+rapid hypothalamic neurotransmission leads to slowly evolving hormonal signals remains unknown. Here, we show that the temporal
+organization of dopamine (DA) release events in freely behaving animals relies on a set of characteristic features that are adapted to the
+dynamic dopaminergic control of pituitary prolactin secretion, a key
+reproductive hormone. First, locally generated DA release signals are
+organized over more than four orders of magnitude (0.001 Hz–10 Hz).
+Second, these DA events are finely tuned within and between frequency domains as building blocks that recur over days to weeks. Third,
+an integration time window is detected across the ME and consists of
+high-frequency DA discharges that are coordinated within the minutes
+range. Thus, a hierarchical combination of time-scaled neuroendocrine
+signals displays local–global integration to connect brain–pituitary
+rhythms and pace hormone secretion.
+dopamine | prolactin | rhythms | hypothalamus | neuronal networks
+Aremarkable function of the brain is its capability to integrate
+temporal information with complex physiological responses.
+This has been well established for behavioral responses such as
+nonrapid eye movement (NREM) sleep, where three neuronal oscillations with distinct frequency bands support information transfer
+(1). However, the neuronal mechanisms that orchestrate the dialogue
+between the brain and other basic functions like reproduction, lactation, and growth remain largely unknown (2–5). They depend on
+the fine tuning of pituitary hormone pulses by small assemblies of
+hypothalamic neuroendocrine or parvocellular neurons that release
+specific secretagogues at the median eminence (ME) (4, 6).
+Here, we took advantage of the anatomical organization of the
+ME to investigate how the tuberoinfundibular (TIDA) neuronal
+population (7, 8) releases dopamine (DA) to negatively regulate
+pituitary secretion of prolactin (PRL), a key reproductive hormone (2). To do so, miniaturized amperometric carbon fiber implants were used to detect DA release events (9) for days to weeks
+in freely behaving mice. Using this approach, we uncovered a hierarchically organized delivery of release events over four orders
+of magnitude (from <0.1 s to several hours), which correlate with
+the dynamics of PRL in the bloodstream.
+Results
+Frequency Coding of DA Release Events in Vivo. To characterize the
+release dynamics of TIDA nerve terminals in vivo, we used longterm constant voltage amperometry in awake mice using thin (30-μm
+tip diameter) carbon fibers implanted into the ME (Fig. 1A). Voltage was clamped at −700 mV to allow detection of DA released
+from TIDA neurons. DA amperometry was performed continuously
+during several days, and the relationship with PRL secretion was
+assessed using tail blood microsampling for high-sensitivity mouse
+(m)PRL ELISA developed in-house (10) (Fig. 1A). Single carbon
+fiber electrode recordings revealed robust DA currents [median 325
+nA, interquartile range (IQR): 127–822 nA] due to oxidation of DA
+to dopamine-o-quinone (Fig. 1A), and these could be robustly
+detected over the long term (Fig. 1B) (n = 7 virgin female mice). We
+then used DA as a relevant readout to explore the dynamics of
+TIDA neuron population function in freely behaving animals. DA
+currents at the ME level discharged over different timescales (Fig. 1
+B and C) and more frequently during the night than day (Fig. 1D)
+(mean counts per hour from zeitgeber (ZT) 0, in 6 h blocks: 18.7,
+27.2, 28.6, and 30.4), implying that the strength of TIDA neuron
+excitability is likely modular around the day/night switch. DA release
+events were often grouped and interspaced by long-lasting (dozens
+of minutes to several hours) silent periods, suggesting nested relations between high- and low-frequency output patterns (Fig. 1 B
+and C). No clear association between DA current density and
+estrus cycle stage was detected (Fig. 1C and Fig. S1).
+Analysis of interevent intervals (IEI) for DA release unveiled a
+wide range of time intervals, from less than 100 ms to a few hours,
+with two principal frequencies of 1.5 Hz and 12 Hz (Fig. 1E).
+Elevated release from TIDA neurons corresponded with periods
+of lowered PRL concentration (Fig. 1F). A delay of several minutes between decreasing PRL levels and the onset of high-frequency DA release events was also observed following exogenous
+PRL injection (Fig. 1G), and these occurred at similar frequencies
+(0.9 Hz and 17 Hz) (Fig. 1H) to those recorded during spontaneous activity (Fig. 1E). Notably, this response outlasted the decrease in PRL levels (Fig. S2), supporting a role for persistent PRL
+receptor signaling (2, 11, 12) or other mediators (13–15) in the
+generation of high-frequency DA release events.
+Significance
+The hypothalamo–pituitary axis controls a wide range of homeostatic processes, including growth, stress, and reproduction. Despite
+this fact, the hypothalamic neuron firing patterns that lead to
+slowly evolving pituitary hormone rhythms remain enigmatic. Here,
+we used in vivo amperometric recordings in freely behaving mice to
+investigate how tuberoinfundibular neurons release dopamine (DA)
+at the median eminence (ME) to control pituitary prolactin secretion. Using this approach, we show that DA release occurs as
+multiple locally generated and time-scaled secretory events, which
+are integrated over a range of minutes across the ME. These results
+provide a broad physiological mechanism for the dialogue that
+occurs between the brain and pituitary to dictate hormone rhythms
+over multiple timescales, from ultradian to seasonal.
+Author contributions: N.R., A.O.M., and P.M. designed research; N.R. and A.G. performed
+research; N.R., D.J.H., A.O.M., and P.M. analyzed data; and N.R., D.J.H., A.O.M., and P.M.
+wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+Freely available online through the PNAS open access option.
+1
+Present address: Centre for Integrative Physiology, University of Edinburgh, Edinburgh
+EH8 9XD, UK.
+2
+To whom correspondence may be addressed. Email: Patrice.Mollard@igf.cnrs.fr or nicola.
+romano@ed.ac.uk.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1616864114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1616864114 PNAS | February 28, 2017 | vol. 114 | no. 9 | 2379–2382
+NEUROSCIENCE
+Conversely, the arrest of high-frequency DA release events was
+followed a few minutes later by an increase in PRL levels (Fig. 1 F
+and I), resembling the previously described responses to administration of a D2 receptor antagonist (10). Thus, the TIDA neuron
+population has the capability to generate bouts of DA release
+events at relatively high frequencies (hertz range), which are inversely correlated with PRL levels in the bloodstream of freely
+moving mice. We were also able to record these episodic highfrequency DA events over a number of days during lactation (Fig. S3),
+although their amplitude and frequency were lower, most likely due to
+the reported loss of DA granular content at this time (9).
+Long-Range Organization of DA Release Events at the Local ME Level.
+We next examined whether these subsecond DA release events
+possess a secondary/tertiary organization at the local level, i.e., in
+the close vicinity of carbon fiber tips. Using cluster analysis to
+group DA currents on the basis of their shape, and bootstrapping
+to identify temporal series of events appearing with a higherthan-chance frequency during the recording period, a specific
+distribution could be revealed. In six of the seven recorded mice,
+several repetitive patterns of DA release events were found, with
+stereotypical features remaining consistent between different
+animals recorded on different days (Fig. 2A and Fig. S4).
+Further analyses demonstrated that these stereotyped patterns
+of DA release were not randomly distributed, but rather
+appeared as chains of sequential events within the same group
+and/or between groups (Fig. 2 B–E). These recurrent motifs of
+DA release events were scaled from the millisecond (Fig. 2 B–D)
+right up to the hour (Fig. 2E) range, and could even be detected
+over days (Fig. 2 F–I). Thus, the mechanisms controlling TIDA
+neuron activities appear to be inherently robust.
+Local–Global Integration of DA Release Events Across the Median
+Eminence. A long-standing question regarding parvocellular
+neuron function is how nerve terminals discharge their neurohormones across the ME to sculpt pituitary output (2–4, 6).
+Given that TIDA nerve terminals abut over the whole ME (7, 8),
+dual-carbon fiber recordings were carried out 500 μm apart
+rostrocaudally, spanning the population (n = 3 animals).
+Whereas distant DA events at high frequencies (≥1 Hz) were not
+synchronized (Fig. 3A), DA events were coordinated with IEIs in
+the minutes range during most of the recordings (Fig. 3 B and C).
+This temporal coordination was not seen when each electrode
+was considered separately (Fig. 3D), suggesting that it is not
+simply due to hypothalamic PRL feedback, but rather effects on
+TIDA neuron interactions. Frequencies of 1.39 ± 0.12 Hz and
+Fig. 1. In vivo monitoring of DA release events at the median eminence (ME) level. (A) Electrodes were implanted at the ME of mice and dopamine (DA) was detected
+using constant voltage amperometry. Serial blood microsampling was performed from the tail vein. (B) Representative 24-h recording of DA release (Top, shaded area is
+lights out), with zoom of a 10-min sequence (Bottom). (C) Representative 11-d recording from a female mouse. Each vertical line corresponds to a single secretion event.
+The stage of the estrus cycle is indicated on the Left for each day (M, metestrus; D, diestrus; P, proestrus, E, estrus). (D) Mean distribution of DA release events during the day
+(n = 80 d from seven female mice). (E) Histogram of interevent intervals (IEIs): two prominent frequencies are apparent at 1.5 and 12 Hz (n = 80 d, from seven female mice).
+(F) Relation between DA and PRL. Average normalized PRL levels occurring around a DA event (n = 501 DA events, from six 1-h long sessions) (black, mean; blue, SEM).
+(G) DA secretory response to an i.p. injection of 1 μg ovine PRL (PRL injected at time 0) (from five animals, seven injections). (H) Distribution of the IEIs of DA events induced
+by i.p. injection of PRL. (I) Example of simultaneous recording of PRL levels (red) and DA release events (black). In all cases, bar graphs show the mean ± SEM.
+2380 | www.pnas.org/cgi/doi/10.1073/pnas.1616864114 Romanò et al.
+10.08 ± 2.6 Hz were both present during the dual electrode recordings of coordinated DA release events (n = 6) (Fig. 3 E and
+F). Such spatial organization strengthens the view of a large-scale
+coordination within the TIDA neuron population, which may
+provide a means for transforming short-lived hypothalamic signals into long-lasting inputs for downstream endocrine targets.
+Discussion
+Our results show how an ensemble of parvocellular TIDA neurons delivers its neuroendocrine products toward ME portal
+vessels in a freely behaving mouse model. DA release events are
+repeated over weeks as network-driven rhythms that cover more
+than four orders of magnitude of frequency, from infraslow
+(<0.001 Hz) to fast rhythms (1–10 Hz). This organization occurs
+not only locally within, but also across the TIDA neuron assembly, as DA release events are scaled over the minute range
+throughout the ME (Fig. 4).
+Specifically, the use of miniaturized carbon fibers stereotaxically implanted into the ME allowed us to detect and discriminate DA-related currents in vivo, which were far more complex,
+but also more organized than spike firing activities recorded in
+parvocellular neurons from either brain slices (9, 14–17) or
+anesthetized animals (18). Even though the small tip of the
+carbon fiber was likely able to detect DA release from only a few
+TIDA neurons, we observed a variety of rhythms. First, highfrequency (about 1 and 10 Hz) events were prominent locally but
+not synchronized globally. As the site of recording is variable and
+these rhythms were observed in all animals, a large number of
+local DA release processes presumably originate from TIDA
+neurons capable of secreting at high rates. The latter would be
+considered as “executive” in the top-down control of pituitary
+PRL rhythms by hypothalamic DA inputs, because they
+coincided with drops in pituitary PRL secretion. Second, slower
+rhythms of DA release (with time periods of minutes to hours) were
+detectable locally due to the ability of small carbon fibers to measure DA events over days to weeks with no noticeable deleterious
+effects. Strikingly, these were not distinguishable from high-frequency
+DA events with which a hierarchal combination occurred regarding
+both the specific frequencies generated and how they organize in
+time as temporal motifs. Because the local–global integration of highfrequency DA events occurred over frequencies of one or more
+minutes across the ME, slow rhythms may orchestrate the delivery of
+longer, but highly ordered DA outputs from the TIDA neuron
+assembly toward the pituitary responder.
+The current study performed in freely behaving animals poses the
+question of how the TIDA neuronal network generates such a hierarchal organization of DA release events in vivo. Whereas classical PRL feedback (2) is able to account for a proportion of the
+Fig. 2. Temporal patterning of DA release events. (A) Distribution of IEIs for
+each class of event obtained after clustering all events from one recording by
+shape (n = 13,541). Insets show average event shape in each group; the proportion of each class is shown near each graph. (B–E) Example of temporal
+patterns of DA release. Each dot represents a single DA release event, colored
+depending on the subgroup (as in Fig. 2A). Each line shows one repetition of the
+sequence during the recording; five examples of repetition are shown for each
+pattern. (F–I) Frequency of the four temporal patterns during 8 d of recording.
+Fig. 3. Spatial patterning of DA release events. (A) Representative double recording of DA secretion at distant sites in the ME (500 μm rostrocaudal), showing
+desynchronization of release events at the minute timescale. (B) Distribution of
+events from a double recording. (Top) “Rug plot” of DA release events, where
+each vertical line represents one event detected by one of the two electrodes.
+(Bottom) Density plot of the DA events, showing coincidence over a long timescale. (C) Cross-distribution of IEI between the two electrodes, showing reciprocal
+delays during a ∼7-min time lag. (D) Autocorrelation of the signals on each of
+the single electrodes shows only the expected peak at lag 0, suggesting that the
+coordination is not dependent on pituitary feedback. (E and F) Distribution of
+IEIs from the signals detected by the two electrodes during a period in which DA
+release was only detected by one electrode (E) (light purple) or during a period
+of coordination between both electrodes (F) (light purple and green; dark purple
+shows overlap of IEIs between both electrodes).
+Romanò et al. PNAS | February 28, 2017 | vol. 114 | no. 9 | 2381
+NEUROSCIENCE
+high-frequency DA release events through direct stimulation of TIDA
+neuron electrical activity, it cannot explain slower rhythms, including
+those organized over a minutes range across the ME. This observation
+raises the possibility that both intranetwork modes of information
+transfer (14, 19) and neuronal inputs (13–16), which were recently
+revealed in acute brain slice studies, may contribute to the coding of
+DA release at the ME level. Nonetheless, the present study suggests
+that the TIDA neuron network has the inherent capability to code DA
+release over time periods consistent with the pacing of PRL secretion.
+Finally, it has recently been shown that local somatodentritic DA
+release from the TIDA population is able to influence close neuronal
+neighbors within the arcuate nucleus (19). As D1 and D2 receptors
+are expressed in the ME (20), DA release events at this location,
+even those organized over slow rhythms, may also contribute to the
+regulation of other neurohormones, such as those underlying circhoral
+luteinizing- and growth-hormone pulses (20, 21).
+The discovery of a multiple-timescale integration of DA delivery at the neurohemal space provides a hitherto unknown element concerning how the brain dialogues with peripheral organs
+via a neuroendocrine connection. Such hierarchical organization
+of rhythms has been observed in other brain regions where multiple oscillations co-occur, with the slower oscillation generally
+driving local, faster oscillations (1). A similar multiple-timescale
+neurohemal code may plausibly be shared by other assemblies of
+hypothalamic parvocellular neurons. Notably, the ME is capable
+of delivering hormone changes over a wide range of timescales,
+from ultradian to seasonal (22, 23). This neurohemal structure
+may thus provide a model system for investigating how parvocellular outputs are translated into slowly evolving endocrine outcomes such as reproduction, growth, metabolism, and stress.
+Materials and Methods
+Detailed methods are provided in SI Materials and Methods. All animal procedures
+were approved by the local ethical committee under agreement CEEA-LR-12185
+according to European Union Directive 2010/63/EU. Briefly, carbon fiber microelectrodes were fabricated using a single 30-μm thread of carbon fiber, coated in
+Nafion and connected to a gold-plated pin. C57/BL6 female mice were stereotaxically implanted with carbon fiber microelectrodes at the level of the median
+eminence [stereotaxic coordinates (relative to Bregma) −1.3 mm rostrocaudal,
+0 mm mediolateral, and 6.1 mm ventral]. After recovery, mice were transferred to
+recording cages, connected to an electrical swivel to allow for free movement, and
+carbon fibers were held at 700 mV throughout the recording to detect secretion of
+DA. Repeated tail blood microsampling was performed to measure blood PRL
+levels, using a home-made ELISA. All statistical analysis was performed with
+R software.
+ACKNOWLEDGMENTS. We thank Evelyne Galibert for assistance with animal
+breeding and maintenance. P.M. was supported by the Agence Nationale de la
+Recherche (Grants ANR-06-BLAN-0322 and ANR 12 BSV1 0032), Fondation pour
+la Recherche Médicale (Grant DEQ20150331732), France-Bioimaging (Grant
+ANR-10-INBS-04-03), Institut National de la Santé et de la Recherche Médicale,
+Centre National de la Recherche Scientifique, Université de Montpellier, Biocampus-Montpellier, small animal imaging core facility (IPAM), Région Languedoc Roussillon, and the National Biophotonics and Imaging Platform (Ireland).
+D.J.H. was supported by Diabetes UK R. D. Lawrence (12/0004431), European
+Foundation for the Study of Diabetes/Novo Nordisk Rising Star and Birmingham Fellowships, a Wellcome Trust Institutional Support Award, a COMPARE
+primer grant, a Medical Research Council Project Grant (MR/N00275X/1), and a
+European Research Council Starting Grant (OptoBETA; 715884).
+1. Buzsáki G, Logothetis N, Singer W (2013) Scaling brain size, keeping timing: Evolutionary
+preservation of brain rhythms. Neuron 80(3):751–764.
+2. Grattan DR (2015) 60 years of neuroendocrinology: The hypothalamo-prolactin axis.
+J Endocrinol 226(2):T101–T122.
+3. Herbison AE (2016) Control of puberty onset and fertility by gonadotropin-releasing
+hormone neurons. Nat Rev Endocrinol 12(8):452–466.
+4. Le Tissier P, et al. (December 9, 2016) An updated view of hypothalamic-vascular-pituitary
+unit function and plasticity. Nat Rev Endocrinol, 10.1038/nrendo.2016.193.
+5. Le Tissier PR, et al. (2012) Anterior pituitary cell networks. Front Neuroendocrinol
+33(3):252–266.
+6. Harris GW (1951) Neural control of the pituitary gland. II. The adenohypophysis, with
+special reference to the secretion of A.C.T.H. BMJ 2(4732):627–634.
+7. Ajika K, Hökfelt T (1973) Ultrastructural identification of catecholamine neurones in
+the hypothalamic periventricular-arcuate nucleus-median eminence complex with
+special reference to quantitative aspects. Brain Res 57(1):97–117.
+8. Ibata Y, Watanabe K (1977) A morphological survey of the median eminence: Fluorescence histochemistry, electron microscopy and immunohistochemistry. Arch Histol
+Jpn 40(Suppl):303–315.
+9. Romanò N, et al. (2013) Plasticity of hypothalamic dopamine neurons during lactation
+results in dissociation of electrical activity and release. J Neurosci 33(10):4424–4433.
+10. Guillou A, et al. (2015) Assessment of lactotroph axis functionality in mice: Longitudinal
+monitoring of PRL secretion by ultrasensitive-ELISA. Endocrinology 156(5):1924–1930.
+11. Bernard V, Young J, Chanson P, Binart N (2015) New insights in prolactin: Pathological
+implications. Nat Rev Endocrinol 11(5):265–275.
+12. Goffin V, Touraine P (2015) The prolactin receptor as a therapeutic target in human
+diseases: Browsing new potential indications. Expert Opin Ther Targets 19(9):1229–1244.
+13. Briffaud V, Williams P, Courty J, Broberger C (2015) Excitation of tuberoinfundibular dopamine
+neurons by oxytocin: Crosstalk in the control of lactation. J Neurosci 35(10):4229–4237.
+14. Lyons DJ, Horjales-Araujo E, Broberger C (2010) Synchronized network oscillations in
+rat tuberoinfundibular dopamine neurons: Switch to tonic discharge by thyrotropinreleasing hormone. Neuron 65(2):217–229.
+15. Zhang X, van den Pol AN (2015) Dopamine/tyrosine hydroxylase neurons of the hypothalamic arcuate nucleus release GABA, communicate with dopaminergic and
+other arcuate neurons, and respond to dynorphin, met-enkephalin, and oxytocin.
+J Neurosci 35(45):14966–14982.
+16. Lyons DJ, Ammari R, Hellysaz A, Broberger C (2016) Serotonin and antidepressant
+SSRIs inhibit rat neuroendocrine dopamine neurons: Parallel actions in the lactotrophic axis. J Neurosci 36(28):7392–7406.
+17. Lyons DJ, Hellysaz A, Broberger C (2012) Prolactin regulates tuberoinfundibular dopamine neuron discharge pattern: Novel feedback control mechanisms in the lactotrophic
+axis. J Neurosci 32(23):8074–8083.
+18. Constantin S, Iremonger KJ, Herbison AE (2013) In vivo recordings of GnRH neuron
+firing reveal heterogeneity and dependence upon GABAA receptor signaling.
+J Neurosci 33(22):9394–9401.
+19. Stagkourakis S, Kim H, Lyons DJ, Broberger C (2016) Dopamine autoreceptor regulation of a hypothalamic dopaminergic network. Cell Reports 15:735–747.
+20. Romero-Fernandez W, et al. (2014) Dopamine D1 and D2 receptor immunoreactivities
+in the arcuate-median eminence complex and their link to the tubero-infundibular
+dopamine neurons. Eur J Histochem 58(3):2400.
+21. Fuxe K, et al. (1986) Medianosomes as integrative units in the external layer of the
+median eminence. Studies on grf/catecholamine and somatostatin/catecholamine
+interactions in the hypothalamus of the male rat. Neurochem Int 9(1):155–170.
+22. Lincoln GA, Clarke IJ, Hut RA, Hazlerigg DG (2006) Characterizing a mammalian circannual pacemaker. Science 314(5807):1941–1944.
+23. Walker JJ, et al. (2012) The origin of glucocorticoid hormone oscillations. PLoS Biol
+10(6):e1001341.
+24. Hulthe P, Hulthe B, Johannessen K, Engel J (1987) Decreased ascorbate sensitivity with
+nafion-coated carbon fibre electrodes in combination with copper(II) ions for the electrochemical determination of electroactive substances in vivo. Anal Chim Acta 198:197–206.
+25. Perkel DH, Gerstein GL, Moore GP (1967) Neuronal spike trains and stochastic point
+processes. II. Simultaneous spike trains. Biophys J 7(4):419–440.
+Fig. 4. Schematic of the brain–pituitary dialogue proposed to underlie hypothalamic dopaminergic control of pituitary prolactin secretion. Illustrated
+are three subsets of hypothalamic TIDA neurons (colored in green, brown, and
+magenta), which each locally release DA at the median eminence level (where
+the first loop of portal capillaries reside). Local DA release events are organized
+in the frequency domain (0.001 Hz–10 Hz) and recur as sequences. Local–global
+integration across the median eminence coordinates high frequency DA release events within the minutes range. This allows the build-up of DA in the
+portal blood required to efficiently inhibit pituitary prolactin secretion.
+2382 | www.pnas.org/cgi/doi/10.1073/pnas.1616864114 Romanò et al.

@@ -1,0 +1,2614 @@
+ARTICLES
+
+Notch controls embryonic Schwann cell differentiation,
+postnatal myelination and adult plasticity
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Ashwin Woodhoo1, Maria B Duran Alonso1, Anna Droggiti1, Mark Turmaine1, Maurizio D’Antonio2,
+David B Parkinson3, Daniel K Wilton1, Raya Al-Shawi4, Paul Simons4, Jie Shen5, Francois Guillemot6,
+Freddy Radtke7, Dies Meijer8, M Laura Feltri2, Lawrence Wrabetz2, Rhona Mirsky1 & Kristján R Jessen1
+Notch signaling is central to vertebrate development, and analysis of Notch has provided important insights into pathogenetic
+mechanisms in the CNS and many other tissues. However, surprisingly little is known about the role of Notch in the development
+and pathology of Schwann cells and peripheral nerves. Using transgenic mice and cell cultures, we found that Notch has complex
+and extensive regulatory functions in Schwann cells. Notch promoted the generation of Schwann cells from Schwann cell
+precursors and regulated the size of the Schwann cell pool by controlling proliferation. Notch inhibited myelination, establishing
+that myelination is subject to negative transcriptional regulation that opposes forward drives such as Krox20. Notably, in the
+adult, Notch dysregulation resulted in demyelination; this finding identifies a signaling pathway that induces myelin breakdown
+in vivo. These findings are relevant for understanding the molecular mechanisms that control Schwann cell plasticity and underlie
+nerve pathology, including demyelinating neuropathies and tumorigenesis.
+
+Schwann cells associate with axons in peripheral nerve trunks. They
+control neuronal survival in the embryo, provide myelin that is
+essential for normal movement and sensation in the adult, and control
+regeneration and repair in injured nerves1–3.
+Notch signaling is integral to the development of the main types of
+glial cell in the CNS, including astrocytes, Müller cells, radial glia and
+oligodendrocytes4,5, and Notch dysfunction has been implicated in a
+range of CNS diseases, including tumorigenesis and neurodegeneration6,7. In view of this, it has become important to understand the role
+of Notch in the development and pathology of Schwann cells, a system
+in which the involvement of Notch is surprisingly poorly understood.
+Here, we describe the role of Notch in the generation and amplification of Schwann cells in embryonic nerves; in myelination in perinatal
+nerves; and in the dramatic response of Schwann cells to injury in
+adult nerves.
+For these studies we generated several mouse mutants with conditional activation or inactivation of Notch signaling at different stages of
+the Schwann cell lineage (see Supplementary Fig. 1 online for the
+Notch pathway and our strategy). We focused on limb nerves in which
+the key transitions of the lineage have been unambiguously established
+(Supplementary Fig. 2 online)1. First, Schwann cell precursors (SCPs),
+which occupy mouse limb nerves at embryo day (E) 12/13 (E14/15 in
+the rat), are formed from neural crest cells. Second, immature Schwann
+cells, which occupy nerves from E15/16 (E17/18 in the rat), are
+generated. At this stage, axon/Schwann cell numbers are matched by
+
+regulation of Schwann cell proliferation and death. Third, immature
+cells diverge to form myelinating and non-myelinating cells. Before
+myelination, which starts around birth, axons and promyelin Schwann
+cells establish a 1:1 relationship from the irregular groups of axons and
+Schwann cells (Schwann cell families) that characterize embryonic
+nerves. This process is known as radial sorting2. Remarkably, in injured
+adult nerves, mature Schwann cells can dedifferentiate to a phenotype
+related to that of the immature Schwann cell8–10.
+We find that in embryonic nerves Notch accelerates the generation of
+Schwann cells from SCPs and regulates the size of the Schwann cell pool
+by controlling proliferation, without affecting apoptosis. In perinatal
+nerves, Notch acts as a brake to delay myelination, without affecting
+radial sorting. This finding establishes in vivo that myelination is subject
+to negative transcriptional regulation that opposes forward drivers of
+the process such as the key myelin transcription factor Krox20. Significantly, in adult nerves, Notch dysregulation results in demyelination.
+This represents, to the best of our knowledge, the first identification of a
+signaling pathway that induces myelin breakdown in vivo. These data
+establish that Notch regulates every developmental step of the Schwann
+cell lineage and controls pathological conditions in adult nerves.
+RESULTS
+Notch signaling and gliogenesis
+Notch signaling in Schwann cells has mainly been studied in the context
+of initial gliogenesis from the neural crest or from crest-like cells2. Even
+
+1Department of Cell and
+
+Developmental Biology, University College London, London, UK. 2DIBIT, San Raffaele Scientific Institute, Milan, Italy. 3Peninsula Medical School,
+Plymouth, UK. 4Department of Medicine, University College London, London, UK. 5Center for Neurologic Diseases, Brigham & Women’s Hospital, Harvard Medical School,
+Boston, Massachusetts, USA. 6National Institute for Medical Research, London, UK. 7Ludwig Institute for Cancer Research, University of Lausanne, Epalinges, Switzerland.
+8Department of Cell Biology and Genetics, Erasmus MC, Rotterdam, The Netherlands. Correspondence should be addressed to K.R.J. (k.jessen@ucl.ac.uk).
+Received 20 January; accepted 30 March; published online 14 June 2009; doi:10.1038/nn.2323
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+NUMBER 7
+
+[
+
+JULY 2009
+
+839
+
+ARTICLES
+
+Hes5
+
+S
+
+S
+
+*
+S
+
+*
+
+E11
+
+*
+
+*
+
+E11
+S
+
+Hes1; Hes5
+
+*
+
+E11
+S
+
+© 2009 Nature America, Inc. All rights reserved.
+
+*
+
+P0 protein
+
+S
+
+S
+
+*
+S
+
+*
+E10
+
+SCP
+
+E11
+
+E10
+
+S
+
+P0 mRNA
+
+*
+
+*
+100 µm
+
+10 µm
+
+10 µm
+
+here, the role of Notch remains unclear, as Notch activation in cultured
+crest cells promotes glial differentiation in rat11, but not chick12,
+whereas Notch activation in the neural crest in ovo fails to promote
+the generation of Schwann cells13.
+When we examined spinal nerves in mouse embryos lacking Hes 1
+and/or Hes 5, the effectors of canonical Notch signaling14, we found no
+significant effect on SCP formation (Fig. 1a and Supplementary Table 1
+online). Consistent with this, Schwann cell generation is reported to
+occur in mice with neural crest-selective ablation of RBPJ15, the key
+transcriptional mediator of canonical Notch signaling14, although the
+development of satellite cells and ganglia is impaired.
+In vitro, we failed to induce expression of the early glial (SCP) marker
+protein zero (P0) by infecting crest cells with an adenovirus expressing
+NICD, the active intracellular portion of the Notch receptor14 (AdNICD). In parallel experiments, P0 was readily induced by the gliogenic
+signal retinoic acid (Fig. 1b). These experiments indicate that the first
+step in the generation of Schwann cells, namely the appearance of SCPs,
+does not depend on canonical Notch signals.
+Notch pathway components in the Schwann cell lineage
+To determine the potential importance of the Notch pathway in the rest
+of the Schwann cell lineage, we showed that its components are
+expressed in rat sciatic nerves at different ages (Fig. 2a,b). Immunolabeling of teased nerves and freshly dissociated cells confirmed that
+the Notch ligand Jagged 1 was expressed by axons and glia, whereas
+Notch 1 was detected only on glial cells (Fig. 2c).
+Figure 2 Notch signaling pathway molecules are expressed at different stages
+in the Schwann cell lineage. (a) PCR of Notch pathway components in rat
+sciatic nerves at E14 (SCPs), E18 (immature Schwann cells) and P3–15
+(active myelination). Notch 1 mRNA increases between E14 and E18/P3,
+and decreases afterwards. Notch 2 and Notch 3 mRNA is not detectable at
+E14 but found from E18 onwards. Hes1 is high at E14 and at E18 but lower
+postnatally. Numb and Numblike mRNAs are low at E14 but detectable from
+E18 onwards. Gapdh: loading control. (b) PCR of Notch ligands in rat DRGs.
+Delta 1 and 3 are expressed only at E15, whereas Jagged 1 and 2 are
+expressed at E15 and birth but decrease thereafter. Gapdh: loading control.
+(c) Expression of Notch 1 and Jagged 1 in E14 and at birth (NB) teased
+sciatic nerves, and in SCP and Schwann cell cultures. Notch 1 (green) is
+expressed by SCP and Schwann cells (arrowheads) but is absent from axons
+in teased nerves (arrows), identified by neurofilament (NF; red). Jagged 1
+(green) is seen on axons (arrows) and by SCP and Schwann cells
+(arrowheads). L1 and S100b were used to identify SCP and Schwann cells,
+respectively, in dissociated cultures. (d) Western blot of NICD in rat sciatic
+nerve extracts. NICD increases between E14 and E18/NB, and decreases
+from P3 onwards. GAPDH: loading control.
+
+840
+
+Figure 1 Notch signaling is not involved in the generation of SCPs from
+neural crest cells. (a) Disruption of canonical Notch signaling does not impair
+gliogenesis in spinal nerves. Both control and mutant embryos express the
+SCP marker BFABP1,2 (red) in embryonic nerves (arrowheads) in E11
+Hes1/ and Hes5/, and E10 Hes1/Hes5/ mice. The neural tube is
+disorganized in Hes1/Hes5/ mice39 but BFABP+ cells are still associated
+with peripheral nerves. Insets: the sections were double immunolabeled
+with TUJ1 antibodies that bind to class III b-tubulin (green) in axons
+(arrowheads). DRGs (asterisk) are also BFABP+. S, spinal cord. The
+percentage of cells (Hoechst+ nuclei) in ventral roots or spinal nerves
+that express BFABP was not statistically different between control and
+mutant embryos (quantification: Supplementary Table 1). (b) Notch
+activation in rat neural crest cells (NCCs) does not upregulate the SCP
+marker P0. NCCs (1 d after emigration from neural tube) do not express P0
+mRNA or protein, whereas freshly isolated SCPs express both. Culture of
+NCCs in retinoic acid (100 ng ml1) for 3 d (NCC + RA) upregulates P0
+mRNA and protein, reflecting in vitro gliogenesis. Notch activation in NCCs,
+by adenoviral infection (NCC + Ad-NICD), does not upregulate P0 mRNA or
+protein after 3 d.
+
+Notch receptors in developing Schwann cells could therefore be
+activated by Notch ligands on axons or on the glial cells themselves. The
+finding that these nerves contain high levels of NICD (Fig. 2d) is
+also consistent with active Notch signaling in embryonic and early
+postnatal nerves.
+Notch drives differentiation of Schwann cell precursors
+We next investigated whether Notch controlled the differentiation of
+SCPs to Schwann cells by examining three changes that mark this
+
+a
+
+E14
+
+E18
+
+P3
+
+b
+
+P15
+Notch1
+
+c
+
+E14
+
+Delta3
+
+Numblike
+Gapdh
+
+Gapdh
+
+Delta1
+
+Culture
+Notch 1/Hoescht
+
+SCP
+
+E14 E18 NB
+
+P3
+
+P7
+
+Schwann
+
+SCP
+Jagged 1
+
+Schwann
+
+L1
+
+SCP
+
+Jagged 1/Hoescht
+
+5 µm
+
+NB
+
+S100β
+
+Jagged 1/Hoescht
+
+E14
+
+NB
+
+SCP
+
+Schwann
+Jagged 1
+
+NF/Hoescht
+
+L1
+
+Notch 1/Hoescht
+
+NB
+
+E14
+
+P15
+
+Numb
+
+Notch 1
+
+NF/Hoescht
+
+P7
+
+Jagged2
+
+E14
+
+NF/Hoescht
+
+NB
+
+Jagged1
+
+Notch 1
+
+NB
+
+d
+
+E15
+
+Notch2
+Notch3
+Hes1
+
+Teased nerves
+NF/Hoescht
+
+Notch 1
+
+*
+
+*
+
+S
+
+Jagged 1
+
+Hes1
+
+S
+
+b
+
+Mutant
+S
+
+NCC
+
+Control
+
+NCC + Ad-NICD NCC + RA
+
+a
+
+5 µm
+
+S100β
+
+Schwann
+
+P15
+NICD
+GAPDH
+
+VOLUME 12
+
+[
+
+NUMBER 7
+
+[
+
+JULY 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+
+a
+
+b
+
+RBPJ inactivation
+Mutant
+
+Control
+S
+
+S
+
+AP2α
+
+AP2α
+
+S
+
+E14
+
+50 µm
+S
+
+E14
+
+E14
+
+E14
+S
+
+S
+
+S100β
+
+S100β
+
+S
+
+E14
+
+50 µm
+
+E14
+
+E14
+
+10 µm
+
+E14
+
+E14
+
+E14
+
+E14
+
+O4
+
+O4
+
+E14
+
+Notch activation in cultured SCPs
+
+Percentage of GFAP+
+per Nestin+ cells
+
+*
+50
+
+*
+
+*
+
+25
+
+100
+
+0
+D2
+
+D3
+
+D4
+
+D5
+
+60
+
+Ad-GFP
+Ad-NICD
+
+*
+
+*
+
+40
+20
+
+D2
+
+g 150
+
+D
+
+f
+
+80
+
+0
+D1
+
+75
+
+ErbB2
+ErbB3
+p-ERK1/2
+p-JNK1/2
+
+50
+
+Percentage survival
+
+20 µm
+
+IC
+
+*
+
+75
+
+-N
+
+Ad-GFP
+Ad-NICD
+
+*
+
+Ad
+
+Percentage survival
+
+e 100
+
+GFAP
+
+D3
+
+d
+
+*
+
+Control 3T3
+Delta1 3T3
+
+FP
+
+GFAP
+
+D3 Nestin
+
+100
+
+-G
+
+Nestin
+
+Delta1 3T3
+
+Percentage of GFAP+
+per Nestin+ cells
+
+Control 3T3
+
+Ad
+
+c
+
+125
+100
+
+Ad-GFP
+Ad-NICD
+
+D4
+
+Figure 3 Notch drives Schwann cell generation
+from SCPs. (a,b) Top and middle panels,
+longitudinal sections of E14 hind limb nerves
+immunolabeled for TUJ1 (inset; red), AP2a or
+S100b (DAB). Insets, spinal cord (S), DRG
+(arrowheads). Bottem panels, dissociated cells
+from E14 sciatic nerves; 04 immunolabeling.
+Nuclei (blue): Hoechst dye. In Dhh–cre+RBPJ f/f
+nerves (mutant), AP2a labeling is increased, while
+S100b and O4 are decreased (a). In Dhh–
+cre+CALSL–NICD nerves (mutant), AP2a labeling
+is reduced while S100 and 04 are increased (b)
+(quantification: Supplementary Table 2). (c) Notch
+activation in SCPs, by co-culture with Delta1expressing 3T3 cells, accelerates their
+differentiation into Schwann cells, judged by
+GFAP expression (red) over a 5-d (D1–5) period.
+SCPs were 94–99% pure (L1 labeling)1,2.
+Nestin (green) labels SCPs and Schwann cells.
+(d,e) Infection of SCPs with Ad-NICD accelerates
+differentiation into Schwann cells, judged by
+GFAP expression, 2 (D2) and 4 (D4) d after
+infection (d), and appearance of autocrine survival
+mechanisms at 2 d in cells plated at high density
+(10,000 cells; e). (f) Western blot showing that
+ErbB2 receptors are elevated in Ad-NICD-infected
+SCP cultures. Phospho-p38 levels are also
+elevated. (g) The NRG1 concentration needed for
+50% survival of Ad-NICD-infected SCPs is only
+about half that needed for control Ad-GFPinfected cells. (h) Western blot showing reduced
+ErbB2 in mutant (Mut) E14 sciatic nerves from
+Dhh-cre+RBPJ f/f and Dhh-cre+Notch1f/f mice.
+Data: mean ± s.e.m., n ¼ 3, *P o 0.01.
+
+75
+
+increase in S100b+ cells). The number of O4+
+cells increased by 46% (Fig. 3b). Therefore
+p-p38
+25
+NICD
+NICD activation in SCPs results in premature
+0
+β-tubulin
+8 10
+0
+2
+4
+6
+Schwann cell generation.
+125
+10,000
+–1
+Neuregulin-1 (ng ml )
+cells
+cells
+This effect of Notch does not depend
+RBPJ
+Notch 1
+h inactivation inactivation
+on other factors that are selectively present
+in vivo, because we found that Notch activation
+strongly promoted the transition from SCPs to
+ErbB2
+Schwann cells in vitro as judged by two indeGAPDH
+pendent criteria, the appearance of the
+Schwann cell marker GFAP16 and autocrine
+transition: downregulation of the transcription factor AP2a, upregula- survival mechanisms17 (Fig. 3c–e). Thus, canonical Notch signaling
+tion of S100b protein and upregulation of the lipid antigen O41,2, using drives the second step in the generation of Schwann cells from neural
+crest cells, namely the transition from SCPs to immature Schwann cells.
+loss-of-function and gain-of-function experiments in vivo.
+Using Dhh-cre+ mice (Supplementary Figs. 1 and 2), we found
+that Notch inactivation in SCPs, by conditional deletion of RBPJ, Notch elevates erbB2 receptors and responsiveness to NRG1
+delayed both AP2a downregulation and S100b upregulation. This was We have shown previously that the transition from SCPs to immature
+evident from the intensity of immunolabeling and the number of Schwann cells in vitro is also promoted by neuregulin-1 (NRG1)18. We
+labeled cells in nerve sections (24% increase in AP2a+ cells and 30% therefore sought a link between Notch and NRG1 signaling, as seen in
+decrease in S100b+ cells). We saw a similar delay (40%) in O4 the development of radial glia4,5. We found that Notch activation in
+appearance when E14 nerves were dissociated and immunolabeled SCPs selectively upregulated the ErbB2 receptors for NRG1 and
+(Fig. 3a). Similar results were obtained when Notch 1 was deleted in increased the sensitivity of SCPs to NRG1. This was measured using
+SCPs (Supplementary Table 2 online). This indicates that, in normal an NRG1-dependent SCP survival assay19 (Fig. 3f,g).
+nerves, canonical (RBPJ-dependent) Notch signaling drives Schwann
+These results point towards a mechanism by which Notch promotes
+cell generation.
+Schwann cell generation in vivo, namely by maintaining high levels of
+To show this directly, we generated a mutant with activated Notch in ErbB2 receptors in SCPs, leading to enhanced NRG1 signaling, which is
+SCPs by breeding Dhh-cre+ mice with CALSL-NICD mice (Supple- required for SCP survival and is probably involved in promoting
+mentary Figs. 1 and 2). We found the opposite effect of that seen after lineage progression2,19,20. In support of this idea, we found that
+Notch inactivation. Downregulation of AP2a and upregulation of inactivation of Notch signaling in SCPs in vivo resulted in a sharp
+S100b were both accelerated (28% decrease in AP2a+ cells and 35% fall in ErbB2 protein in E14 nerves (Fig. 3h).
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+NUMBER 7
+
+50
+
+M
+
+ut
+
+on
+
+C
+
+ut
+
+M
+
+on
+
+25
+
+C
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Enforced NICD expression
+Control
+Mutant
+S
+
+[
+
+JULY 2009
+
+841
+
+ARTICLES
+
+b
+
+e
+
+25
+0
+
+100
+0
++NRG
+
+SC nuclei per nerve
+
+*
+
+*
+
+25
+0
+
+p-JNK1/2
+
+NICD
+
+NICD
+
+β-tubulin
+
+β-tubulin
+
+nu
+l
+
+J
+
+on
+
+cdk2
+
+Percentage BrdU+ cells
+
+D
+-N
+Ad
+
+p-ERK1/2
+
+Control
+JNK peptide
+UO126
+SB202190
+
+*
+*
+
+75
+50
+25
+0
+
+Notch controls Schwann cell proliferation and numbers
+Schwann cell generation from SCPs occurs during a period of
+increasing cell proliferation2,21,22 that peaks at the immature
+Schwann cell stage, a time of maximal NICD expression (Fig. 2d),
+indicating that Notch might drive Schwann cell proliferation. When
+we conditionally deleted RBPJ or Notch 1 using P0-cre+ mice
+(Supplementary Figs. 1 and 2), we found a marked reduction in
+proliferation (incorporation of 5-bromodeoxyuridine (BrdU) and
+phosphohistone (PH3) labeling) in both mouse lines (Fig. 4a–c and
+Supplementary Table 3 online).
+To confirm this, we examined proliferation in mice with activated
+NICD in Schwann cells (P0-cre+ mice bred with CALSL-NICD mice;
+Supplementary Figs. 1 and 2). Even though cells in control nerves
+proliferated rapidly, both BrdU incorporation and PH3 labeling
+were significantly increased in this mutant (Fig. 4d,e and Supplementary Table 3).
+When we counted Schwann cell nuclei in ultra-thin sections of P2
+nerves, we found that in all three mutants Schwann cell numbers
+changed in line with expectations. There was a reduction of 30% and
+18% in P0cre+RBPJ f/f mice and P0cre+Notch1f/f mice, respectively, and
+an increase of 13% in P0cre+CALSL-NICD mice (Fig. 4c,f and Supplementary Table 3). These findings indicate that the canonical Notch
+pathway is mitogenic for Schwann cells and that NICD elevation is part
+of the mechanism that controls proliferation and numbers in
+developing nerves.
+
+842
+
+Figure 4 Notch signaling controls the proliferation of immature Schwann
+cells. (a–c) RBPJ inactivation. (a) E17 nerve sections showing fewer BrdU+
+Schwann cells (green) in P0-cre+RBPJf/f nerves. Hoechst (): nuclei. (b) RBPJ
+inactivation significantly reduces BrdU+ and PH3+ cells in E17 nerves.
+(c) The number of Schwann cell (SC) nuclei in P2 nerves is decreased in
+mutants. (d–f) Enforced NICD expression. (d) E17 nerve sections showing
+increased BrdU+ Schwann cells (green) in P0-cre+CALSL-NICD nerves.
+(e) NICD significantly increases BrdU+ and PH3+ cells in E17 nerves.
+(f) The number of Schwann cell nuclei in P2 nerves is increased in mutants.
+(g-l) Notch activation in cultured Schwann cells. (g) Ad-NICD-infected
+Schwann cells have more BrdU+ cells (red) than controls (73.9 ± 2.0
+compared to 4.6 ± 1.3). (h,i) BrdU+ cells in control or RBPJnull Schwann
+cells after infection with Ad-NICD (h), or in the presence of absence of NRG1
+(i), showing that Ad-NICD, unlike NRG1, fails to induce DNA synthesis in the
+absence of RBPJ. (j,k) Western blot shows upregulation of cyclin D1 and
+cdk2 (j) and phospho-ERK 1/2 and phospho-JNK 1/2 (k), in Ad-NICDinfected Schwann cells 2 d after infection. NICD demonstrates enforced
+NICD expression. b-tubulin: loading control. (l) Ad-NICD-induced
+proliferation in Schwann cells in vitro is inhibited by JNK peptide (to block
+JNK phosphorylation) or UO126 (to block ERK1/2 phosphorylation) but not
+by SB202190 (to block p38 kinase phosphorylation). Data: mean ± s.e.m.,
+n ¼ 3, *P o 0.01.
+
+50
+
+100
+
+IC
+
+FP
+Ad
+
+Ad
+
+-G
+
+-N
+
+IC
+
+FP
+-G
+
+200
+
+75
+
+l
+
+Cyclin D1
+
+*
+
+300
+
+–NRG
+100
+
+R
+
+k
+D
+
+j
+
+400
+
+l
+
+50
+
+C
+
+0
+
+i
+
+Ad-NICD
+
+*
+
+75
+
+1
+
+Percentage BrdU+ cells
+
+20 µm
+
+Ad-GFP
+
+2
+
+Control
+Mutant
+
+l
+
+BrdU
+
+0
+
+100
+
+on
+
+BrdU
+
+10
+
+3
+
+nu
+l
+
+Hoescht
+
+20
+
+*
+
+4
+
+J
+
+Hoescht
+
+30
+
+0
+
+BP
+
+h
+
+Ad-NICD
+
+*
+
+40
+
+l
+
+Ad-GFP
+
+Ad
+
+© 2009 Nature America, Inc. All rights reserved.
+
+20 µm
+
+BrdU
+
+50
+
+100
+
+f
+
+Control
+Mutant
+
+tro
+
+BrdU
+
+*
+
+0
+
+200
+
+SC nuclei per nerve
+
+Hoescht
+
+Percentage BrdU+ cells
+
+Hoescht
+
+1
+
+*
+
+300
+
+l
+
+Mutant
+
+2
+
+BP
+
+Control
+
+g
+
+0
+
+Percentage BrdU+ cells
+
+d
+
+10
+
+400
+
+R
+
+BrdU
+
+*
+
+20
+
+3
+
+C
+
+BrdU
+
+30
+
+4
+
+Control
+Mutant
+
+tro
+
+Hoescht
+
+40
+
+Percentage PH3+ cells
+
+Hoescht
+
+50
+
+Percentage PH3+ cells
+
+Mutant
+
+Control
+
+c
+
+Control
+Mutant
+
+Percentage BrdU+ cells
+
+a
+
+To show this directly, we examined proliferation in immunopurified
+cultured Schwann cells after Notch activation. We found that BrdU
+incorporation was strongly stimulated by either infection with
+Ad-NICD (Fig. 4g) or co-culture with the immortalized cell line
+3T3, expressing the Notch ligand, Delta 1 (data not shown).
+To confirm that Notch stimulates proliferation, we used cells that
+lack RBPJ (RBPJnull; RBPJ f/f cells treated in vitro with Cre adenovirus).
+Ad-NICD did not induce DNA synthesis in these cells, unlike NRG1
+(Fig. 4h,i). The reduced proliferation observed in vivo in mice that lack
+RBPJ (P0-cre+RBPJ f/f mice) therefore reflects reduced Notch, but not
+NRG1, signaling.
+Enforced NICD expression also upregulated the cell cycle markers
+cyclin D1 and cdk2 (Fig. 4j). The mitogenic effect of NICD on Schwann
+cells involved and depended on phosphorylation of the kinases ERK1/2
+and JNK, but not p38 kinase (Fig. 4k,l). Apoptotic cell death2,23
+(measured by TdT-mediated dUTP nick end (TUNEL) labeling)
+was unaffected in E17 nerves of the three Notch mutants (Supplementary Fig. 3 online). In embryonic nerves, therefore, Notch signaling
+controls Schwann cell proliferation and numbers, but not apoptotic
+cell death.
+Krox20 suppresses Notch signaling in myelinating cells
+We next investigated Notch signaling in perinatal nerves during
+myelination. This process, which starts around birth, is incompatible
+with proliferation, and most Schwann cells have stopped dividing as
+they reach the pro-myelin 1:1 stage and start significant myelin
+gene activation2,21,24.
+Using fluorescence activated cell sorting (FACS) to separate myelinating cells from cells that are not making myelin in P5 nerves, we
+found that Notch signaling (which drives proliferation) is inactivated
+in myelinating cells in vivo (Fig. 5a). This is consistent with the
+downregulation of NICD protein at the start of myelination in
+postnatal nerves (Fig. 2d).
+The transcription factor Krox20 activates myelin genes and
+suppresses genes associated with immature Schwann cells1,25–27.
+We found that Krox20 suppressed Notch signaling in myelinating
+cells, as in culture, enforced Krox20 expression by adenoviral
+infection (Ad-K20) suppressed NICD protein, and in vivo, NICD
+levels remained high in P7 Krox20–/– animals, but low in normal
+nerves (Fig. 5b,c).
+
+VOLUME 12
+
+[
+
+NUMBER 7
+
+[
+
+JULY 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+
+–
+
+–
+
+20
+Kr
+ox
+-
+
+20
+
+–/
+
++/
+
++/
+
+Kr
+ox
+-
+
+Kr
+ox
+-
+
+f
+NB
+
+NICD
+Krox20
+GAPDH
+
+NICD
+β-tubulin
+
+Mutant
+
+P2 nerves
+
+Control
+
+P7
+
+M
+ut
+C
+on
+M
+ut
+
+C
+on
+
+Ad-GFP Ad-K20 Ad-K20 Ad-K20
+
+NICD
+Krox20
+GAPDH
+
+g
+
+NICD
+Krox20
+GAPDH
+
++
+D MG
+M
++ 132
+la
+ct
+ac
+ys
+te
+in
+
+Ad
+
+20
+
+K2
+0
+
+G
+FP
+
+Ad
+-
+
+e
+
+D2
+
+-G
+Ad FP
+-K
+Ad 20
+-G
+Ad FP
+-K
+20
+
+D1
+
+NICD
+Krox20
+GAPDH
+
+D
+M
+D
+M
+D
+M
+
+d
+
+Ad
+-
+
+Notch 1
+Notch 2
+Jagged 1
+Jagged 2
+Hes 1
+Periaxin
+Gapdh
+
+c
++
+
+b
+
+N
+M
+-S
+C
+M
+-S
+C
+
+a
+
+7 µm
+
+10
+0
+
+0.
+
+0.
+
+2–
+
+1–
+0.
+
+20
+10
+
+.4
+>0
+
+.4
+–0
+
+0.
+
+35
+
+35
+0.
+
+0.
+
+3–
+
+15
+0.
+
+1–
+0.
+
+0.
+
+25
+
+–0
+
+.2
+–0
+
+15
+
+0.
+<
+
+0.
+
+.3
+
+0
+
+1
+
+0
+
++/+
+
+Mutant K20+/–
+
+25
+
+0.25
+
+*
+
+Mutant K20
+30
+
+0.
+
+0.5
+
+Control
+
+2–
+
+*
+
+Myelin thickness (µm)
+
+j 40
+
+0.
+
+0.75
+
+Control
+Mutant K20+/+
+Mutant K20+/–
+
+Percentage frequency
+
+i
+
+3
+3–
+0
+0. .4
+4–
+0.
+5
+>0
+.5
+
+2 µm
+
+P5
+
+Mutant
+
+20
+
+0.
+
+P5
+
+Control
+
+40
+30
+
+0.
+
+Mutant
+
+P5 nerves
+
+Control
+
+2
+
+P2
+
+Percentage frequency
+
+h
+
+MS per PS
+
+© 2009 Nature America, Inc. All rights reserved.
+
+P2
+
+Myelin thickness (µm)
+
+Enforced Krox20 expression also suppressed exogenous NICD in
+Schwann cells (after stable infection with a retrovirus encoding
+NICD) showing that Krox20 can reduce NICD protein posttranslationally (Fig. 5d). This depended on the ubiquitinproteasomal degradation pathway (Fig. 5e). As expected, because
+Krox20 suppresses NICD post-translationally, the enhanced NICD
+levels in P0-cre+CALSL-NICD nerves (Supplementary Fig. 2)
+declined postnatally, when Krox20 was activated upon myelination
+(Fig. 5f).
+Notch signaling times the onset of myelination
+Because Notch drives proliferation and is downregulated in myelinating cells, we tested whether Notch inhibits myelination. In vitro,
+upregulation of the myelin proteins periaxin and P0 by enforced
+Krox20 expression was inhibited by simultaneous infection with
+Ad-NICD (Supplementary Fig. 4 online). The inhibition was transient, as expected, because Krox20 eventually suppresses exogenous
+NICD expression (Fig. 5d). Enforced NICD expression also blocked
+cAMP-induced upregulation of myelin proteins28,29 (Supplementary
+Fig. 4), and myelination in neurone-Schwann cell co-cultures27
+(Supplementary Fig. 5 online). Notch therefore negatively regulates
+myelination in vitro.
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+Figure 5 Notch signaling inhibits myelination. (a) PCR shows downregulation
+of Notch1, Notch2 and Hes1, and upregulation of Jagged1 and Jagged2 in
+myelinating Schwann cells (M-SC) compared to non-myelinating cells (NMSC). (b–f) Western blots show reduced endogenous NICD after Ad-K20
+infection of Schwann cells (b), increased endogenous NICD in P7 sciatic
+nerves from Krox20–/– mice (c), reduced exogenous NICD after Ad-K20
+infection at 1 (D1) and 2 (D2) d in culture, with exposure to X-ray film too
+short to reveal endogenous NICD (d), abolition of Ad-K20-mediated
+suppression of NICD expression by the proteosome inhibitors MG132 and
+lactacystein (e), and elevated NICD in P0-cre+CALSL-NICD nerves at birth
+(NB) but not at P7 (f). GAPDH/b-tubulin: loading control. (g) Enforced NICD
+expression reduces myelinating Schwann cells (arrows) in mutant nerves
+(quantification: Supplementary Table 4). (h) Schwann cells with thin
+(arrowheads) or thick myelin sheaths (arrows) in P5 nerves with or without
+enforced NICD expression. Graph depicts the frequency of Schwann cells
+at different myelin thickness and polynomial trend regression lines. The
+difference between mutants and controls was significant (quantification:
+Supplementary Table 4). (i) Ratio of myelinating to pro-myelinating Schwann
+cells (MS per PS); (j) frequency of Schwann cells at a particular myelin
+thickness, in control and NICD-overexpressing P2 nerves with normal
+(Mutant-K20+/+) or lower (Mutant-K20+/–) Krox20 levels. The mice with
+reduced Krox20 had significantly reduced myelination (quantification:
+Supplementary Table 4).
+
+NUMBER 7
+
+[
+
+JULY 2009
+
+To determine whether Notch is part of the mechanism that times
+the onset of myelination in vivo, we examined nerves from P0cre+CALSL-NICD mice, in which NICD levels are transiently
+elevated (Fig. 5f). We counted the number of myelin sheaths in
+each nerve profile in P2 nerves, and divided this by the number of
+Schwann cell nuclei (because NICD affects cell numbers), to obtain
+a normalized number of myelin sheaths (NNMS). This was reduced
+from 2.3 in controls to 1.4 in mutants (n ¼ 10, P o 0.01; Fig. 5g
+and Supplementary Table 4 online). We measured myelin
+thickness in P5 nerves, and found that mutant nerves contained
+significantly more Schwann cells with thin myelin and fewer
+Schwann cells with thick myelin than controls (Fig. 5h and
+Supplementary Table 4). Both measures therefore revealed a
+significant reduction in myelination in the mutants. P2
+mutant nerves also contained less P0 protein (Supplementary
+Fig. 5). Adult mutant nerves, however, had normal g-ratios
+(axon diameter to fiber diameter), axon diameters and numbers
+of myelinated axons, reflecting the transient NICD elevation in
+perinatal nerves (Supplementary Fig. 6 online).
+To confirm that Notch inhibits myelination independently of
+proliferation, we selectively examined Schwann cells that had
+already segregated from the Schwann cell families found in
+developing nerves and formed a 1:1 relationship with axons (pro–
+myelin cells plus myelinating cells), because proliferation has essentially ceased in these cells2,21,24. Within this population, we found a
+substantial (30%) reduction in the number of myelinating cells,
+and a corresponding increase in pro-myelin cells (Supplementary Table 4). This is the expected outcome if NICD inhibits myelination, that is, the transition of pro-myelin cells to
+myelinating cells.
+We compared this inhibitory effect of NICD in two genetic backgrounds: normal Krox20+/+ and Krox20+/– mice. Again examining
+the segregated cells only, we found that the NICD-induced reduction
+in myelinating cells seen in the normal background (Krox20+/+ mice)
+was more pronounced in Krox20+/– mice; myelin sheaths were
+also substantially thinner (Fig. 5i,j). There was no difference in
+myelination between Krox20+/+ and Krox20+/– control nerves. Thus,
+myelination defects in P0-cre+CALSL-NICD mice were amplified on a
+Krox20+/– background.
+
+843
+
+ARTICLES
+
+Control
+
+50
+
+Mutant
+
+40
+30
+20
+10
+0
+
+Percentage frequency
+
+b
+
+Notch 1 inactivation
+
+RBPJ inactivation
+Control
+
+50
+
+30
+20
+10
+0
+0.
+1–
+0
+0. .2
+2–
+0.
+0. 3
+3–
+0
+0. .4
+4–
+0.
+5
+>0
+.5
+
+Myelin thickness (µm)
+
+Myelin thickness (µm)
+Ad-GFP
+
+*
+
+25
+0
+
+*
+
+50
+25
+0
+Control
+
+RBPJnull
+
+*
+
+Ad-NICD
+
+*
+
+25
+
+f
+
+*
+
+75
+
+50
+
+Ad-GFP
+
+Control
+
+100
+Percentage
+P0+ cells
+
+Percentage
+Periaxin+ cells
+
+100
+
+75
+
+0
+
+RBPJnull
+
+Ad-K20/Ad-GFP
+Ad-K20/Ad-NICD
+
+e
+Krox20-induced
+myelin differentiation
+
+*
+
+50
+
+Control
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Ad-NICD
+
+d
+Percentage
+P0+ cells
+
+75
+Percentage
+Periaxin+ cells
+
+cAMP-induced
+myelin differentiation
+
+c
+
+Mutant
+
+40
+
+0.
+1–
+0. 0.2
+2–
+0. 0.3
+3–
+0. 0.4
+4–
+0. 0.5
+5–
+0.
+6
+>0
+.6
+
+Percentage frequency
+
+a
+
+75
+
+RBPJnull
+
+Ad-K20/Ad-GFP
+Ad-K20/Ad-NICD
+
+*
+
+*
+
+Control
+
+RBPJnull
+
+50
+25
+0
+
+Because Notch activation delays myelination, we tested whether,
+conversely, Notch inactivation in vivo would accelerate it. In
+P0-cre+Notch1f/f mice, where Notch 1 has been excised, the myelin
+sheaths in P5 nerves were significantly thicker than in controls (Fig. 6a
+and Supplementary Table 5 online). In P2 nerves, there was also a 40%
+increase in the NNMS. Analysis of segregated cells revealed a striking
+increase (70%) in the ratio of myelinating cells to pro-myelin cells,
+confirming that this increase in myelination was independent of
+proliferation (Supplementary Table 5). Thus, myelination is substantially accelerated in Schwann cells that lack Notch 1. These experiments
+show that Notch is a negative regulator of myelination and Krox20dependent downregulation of Notch signaling is obligatory for the
+normal onset of myelination.
+Notch controls myelination by RBPJ–independent mechanisms
+Although RBPJ is an important downstream effector of Notch, in
+some cases, an elevation in NICD can signal independently of
+RBPJ30,31. We found that, by any of our measures, P0-cre+RBPJ f/f
+mice had normal myelin, in contrast to that seen in mice without
+Notch 1 (Fig. 6b and Supplementary Table 6 online). In cultured
+Schwann cells, Ad-NICD could also suppress cAMP- and Krox20induced myelin protein expression, even in the absence of RBPJ
+(Fig. 6c–f). Adult nerves from both P0-cre+Notch1 f/f and P0cre+RBPJ f/f mice were normal (Supplementary Fig. 6). Therefore,
+the negative regulation of myelination by Notch is independent of
+RBPJ, in contrast to the positive regulation of Schwann cell generation and proliferation, which work through the canonical RBPJdependent pathway.
+Notch drives Schwann cell demyelination in injured nerves
+Remarkably, mature myelinating Schwann cells in adult nerves
+can dedifferentiate and adopt a phenotype related to that of
+immature Schwann cells8–10. Because Notch acts as a brake to delay
+myelination, we tested whether Notch was also involved in driving
+
+844
+
+Figure 6 Notch inactivation in Schwann cells leads to RBPJ-independent
+premature myelination. (a) Frequency of Schwann cells with different myelin
+thickness in P5 sciatic nerves from P0-cre+Notch1f/f mice. At each myelin
+thickness, the difference between mutants and controls was significant
+(quantification: Supplementary Table 5). (b) Frequency of Schwann cells at
+different myelin thickness in P5 sciatic nerves from P0cre+RBPJf/f mice. At
+each myelin thickness, the difference between mutants and controls was not
+significant (quantification: Supplementary Table 6). (c,d) Counts of periaxin+
+(c) and P0+ cells (d) show that enforced NICD expression inhibits cAMPinduced myelin protein expression equally in control and RBPJnull Schwann
+cells. RBPJnull Schwann cells were obtained by treating RBPJf/f cells with
+Cre adenovirus in vitro. (e,f) Counts of periaxin+ (e) and P0+ cells (f) show
+that enforced NICD expression inhibits Krox20-induced myelin protein
+expression equally in control and RBPJnull Schwann cells. Data: mean ±
+s.e.m., n ¼ 3, *P o 0.01.
+
+demyelination, a key feature of dedifferentiation. First, we found that
+infection of P5 Schwann cell cultures with Ad-NICD accelerated the
+normal loss of myelin in vitro (Fig. 7a). Second, NICD protein
+was strongly upregulated in the distal stump of transected
+nerves 1 and 2 d after they were cut (Fig. 7b), a prerequisite for
+functional involvement of Notch in dedifferentiation. Third, in the
+absence of RBPJ the rate of demyelination in cut sciatic nerves
+was substantially reduced. The number of intact myelin sheaths
+was 80% higher and the area occupied by MBP+ myelin 70%
+greater in nerves lacking RBPJ 3 d after transection (Fig. 7c,d). Similar
+results were obtained in mice lacking Notch 1 (Supplementary
+Fig. 7 online).
+In the transected facial nerve, the number of cells in the distal stump
+that retained expression of MBP and the myelin transcription factor
+Krox20 3 d after transection was also significantly higher in the absence
+of RBPJ. Furthermore, the number of cells that expressed p75NTR, a
+marker of immature and non-myelinating cells1,2, was significantly
+reduced, indicating delayed reversal to the immature phenotype
+(Supplementary Fig. 8 online). These observations show that without
+canonical RBPJ-dependent Notch signaling, the rate of Schwann cell
+dedifferentiation in cut nerves is reduced.
+To show directly that Notch can accelerate demyelination in vivo, we
+examined myelin disappearance in cut nerves of P0-cre+CALSL-NICD
+mice. First, we confirmed that nerve transection in these mice elevated
+NICD when compared with cut control nerves (Fig. 7e). This was
+expected because nerve injury will trigger expression of both the
+endogenous NICD (Fig. 7b) and the CALSL-NICD transgene, both
+of which are suppressed in intact nerves through a Krox-20-dependent
+mechanism (Fig. 5e,f). This increase in NICD resulted in accelerated
+dedifferentiation. The P0-cre+CALSL-NICD nerves contained 50%
+fewer intact myelinating Schwann cells and the area occupied by
+MBP+ myelin was 50% smaller than in cut control nerves 3 d after
+transection (Fig. 7f,g). These experiments show that Notch
+signaling drives demyelination in injured nerves through an RBPJdependent mechanism.
+Notch initiates demyelination even in uncut nerves
+In demyelinating neuropathies, demyelination occurs even though
+Schwann cells remain in contact with axons until the later stages
+when axons die32,33. The results shown in Figure 7 raise the question
+of whether Notch activation is sufficient to trigger demyelination in
+cells that maintain axonal contact. Initially, we addressed this by
+showing that infection of established myelinating co-cultures of
+neurons and Schwann cells with Ad-NICD resulted in myelin
+damage and apparent breakdown in a high proportion of infected
+cells, whereas very few Ad-GFP-infected cells had disrupted
+myelin (Fig. 8a).
+
+VOLUME 12
+
+[
+
+NUMBER 7
+
+[
+
+JULY 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+
+2)
+
+ut
+C
+Mut
+
+0
+D3
+
+D7
+
+*
+
+*
+
+NICD
+GAPDH
+
+Mutant
+
+75
+
+Control
+Mutant
+
+50
+25
+0
+
+2 mm
+
+2 mm 7 mm
+
+60
+
+Control
+
+Mutant
+
+40
+
+*
+
+20
+0
+75
+
+Control
+
+Mutant
+
+50
+25
+0
+
+*
+
+*
+
+2 mm 7 mm
+
+We obtained the same result in adult nerves in vivo when
+we injected intact nerves with Ad-NICD or Ad-GFP. Quantification
+of demyelination 10 d later showed that Notch activation induced
+
+extensive demyelination, revealed by a sixfold increase in the
+number of degenerating myelin sheaths and 90% loss of
+MBP+ myelin (Fig. 8b,c). These results indicate that tight
+control of Notch signaling is essential for the maintenance of
+myelin integrity.
+DISCUSSION
+We show that Notch signaling has multiple regulatory functions in
+Schwann cells that operate right across the lineage, from the SCPs in
+early embryonic nerves to the control of responses to injury in mature
+cells. Notch stimulates SCP differentiation and accelerates Schwann cell
+formation and proliferation in perinatal nerves, inhibits further differentiation and induces dedifferentiation in the adult. On one hand,
+therefore, the actions of Notch are strikingly pleiotropic and contextdependent. On the other hand, these diverse effects work towards one
+related biological outcome: the generation of the immature Schwann
+cell state in development or its closely related counterpart, the
+denervated Schwann cell in the adult. The role of Notch in the plasticity
+of postnatal Schwann cells indicates that it might be involved in the
+numerous Schwann cell disorders that involve dedifferentiation,
+including tumor formation and demyelinating neuropathies, and raises
+the possibility that the Notch pathway is relevant for the regeneration
+of damaged nerves.
+
+a
+Figure 8 Notch activation induces extensive demyelination in vitro and
+in vivo. (a) Notch activation results in extensive myelin breakdown in cocultures of neurons and Schwann cells. After Ad-GFP infection, MBP+ (red)
+myelin sheaths appear normal at low (arrows) and high magnification (inset).
+After Ad-NICD infection, many myelin sheaths appear damaged (arrowheads)
+with ovoids (inset). Non-infected cells have undamaged sheaths (asterisks).
+Graph, percentage of Ad-GFP+ or Ad-NICD+ cells containing degenerating
+myelin, 3 (D3) and 6 (D6) d after infection (n ¼ 6, *P o 0.01). (b,c) Notch
+activation results in extensive myelin breakdown in normal sciatic nerves.
+(b) Higher power view. After Ad-GFP infection, MBP+ myelin sheaths appear
+normal (arrows). After Ad-NICD infection, many myelin sheaths appear damaged with ovoids (arrowheads). Non-infected cells have undamaged sheaths
+(asterisks). Graph, percentage of Ad-GFP+ or Ad-NICD+ cells containing
+degenerating myelin (n ¼ 10, *P o 0.01). The low level of myelin degeneration in Ad-GFP+ fibers was similar to that in uninfected MBP+ fibers, indicating that infection with control virus does not induce myelin damage. Insets:
+single cells with intact (Ad-GFP) or degenerating (Ad-NICD) myelin. (c) Lower
+power view. Most Ad-GFP+ cells contain MBP whereas most Ad-NICD+ cells do
+not, indicating extensive myelin breakdown. Graph, MBP+ myelin area as a
+percentage of the total GFP+ area (n ¼ 10, *P o 0.01). Data: mean ± s.e.m.
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+NUMBER 7
+
+[
+
+JULY 2009
+
+Ad-GFP
+
+GFP
+
+b
+
+Ad-GFP
+
+Ad-NICD
+
+GFP/MBP *
+
+c
+
+Ad-GFP
+
+*
+20
+
+D3
+
+100
+
+*
+
+GFP/MBP
+
+40
+
+0
+
+* 10 µm
+
+MBP
+
+*
+
+60
+
+*
+
+GFP
+
+MBP
+
+Ad-GFP
+Ad-NICD
+
+Ad-NICD
+Percentage
+demyelination
+
+Enforced NICD expression
+Mutant
+
+Control
+
+(D
+
+l
+
+1)
+(D
+
+tro
+
+ut
+
+on
+
+C
+Con
+
+nc
+u
+C t
+ut
+U
+nc
+C ut
+ut
+
+*
+
+5 µm
+
+Percentage
+demyelination
+
+Percentage MBP
+area per nerve
+
++
+
+2 mm
+
+e
+
+20
+
+Percentage intact myelin
+sheaths per nerve
+
+5 µm
+
+2 µm
+
+g
+
+Control
+Mutant
+
+40
+
++
+
+Control
+
+*
+
+*
+
+60
+
+Percentage MBP
+area per nerve
+
+© 2009 Nature America, Inc. All rights reserved.
+
+f
+
+*
+
+Mutant
+
+2 mm
+
+2 mm
+
+Ad-GFP
+Ad-NICD
+
+D2 D4
+
+RBPJ inactivation
+Control
+Mutant
+
+Control
+
+100
+75
+50
+25
+0
+
+Percentage
+P0+ cells
+
+100 µm
+
+2 µm
+
+d
+
+NICD
+GAPDH
+
+U
+
+c
+
+*
+D2 D4
+
+Percentage intact myelin
+sheaths per nerve
+
+D2
+
+D2
+
+b
+*
+
+Figure 7 Notch promotes demyelination in injured nerves. (a) Notch
+activation accelerates dedifferentiation of P5 myelinating Schwann cells in
+vitro. There are significantly fewer periaxin+ (red) or P0+ (red) cells (arrows) in
+Ad-NICD-infected Schwann cells than in Ad-GFP-infected cultures, 2 (D2)
+and 4 (D4) d after plating. Nuclei (blue): Hoechst dye. Quantification is
+shown in right-hand panels. (b) Western blot shows elevation of NICD in the
+distal stump of P60 nerves, 1 (D1) and 2 (D2) d after cut. (c,d) Schwann cell
+demyelination is slower in the absence of RBPJ (P0-cre+RBPJf/ mice).
+(c) Electron micrographs of the distal stump (2 mm from the cut site) of
+control and mutant adult nerves, 3 d after cut showing Schwann cells with
+intact (arrows) or degenerating (arrowheads) myelin profiles. Right, counts at
+3 (D3) and 7 (D7) d after cut, 2 mm from cut site (n ¼ 7, *P o 0.01).
+(d) MBP immunolabeling of myelin (red) in the distal stump (2 mm from cut
+site) of control and mutant adult nerves, 3 d after cut. Right, measurement
+of total MBP+ areas at 2 and 7 mm from cut site (n ¼ 6, *P o 0.01).
+(e) Western blot of NICD in uncut and 3 d cut P60 sciatic nerves from
+P0-cre+CALSL-NICD mice. (f,g) Schwann cell demyelination is accelerated
+when NICD is overexpressed (P0-cre+CALSL-NICD mice). For details,
+see c and d. Data: mean ± s.e.m., n ¼ 3, *P o 0.01.
+
+D6
+
+Ad-NICD
+Ad-GFP
+Unifected MBP+
+
+*
+
+75
+50
+25
+0
+
+Ad-NICD
+Percentage MBP+
++
+per GFP area
+
+D2
+
+Pzero
+
+D2
+
+Ad-GFP
+Ad-NICD
+
+100
+75
+50
+25
+0
+
+C
+
+Ad-NICD
+
+Periaxin
+
+Ad-GFP
+
+Percentage
+Periaxin+ cells
+
+a
+
+100
+
+GFP
+
+GFP
+
+MBP
+
+MBP
+
+5 µm
+
+Ad-GFP
+
+Ad-NICD
+
+75
+50
+25
+
+*
+
+0
+
+845
+
+© 2009 Nature America, Inc. All rights reserved.
+
+ARTICLES
+Schwann cell generation
+Rather than instructing gliogenesis from the trunk neural crest, we find
+that Notch signaling acts at the second step of Schwann cell development by promoting the formation of immature Schwann cells from
+SCPs. SCPs are distinct from migrating neural crest cells because, first,
+they express glia-associated genes, including P0, desert hedgehog and
+BFABP; second, they differ from crest cells in survival and proliferative
+responses to extracellular signals; and third, unlike crest cells, they are
+always in tight apposition to axons, a universal characteristic of glia in
+the PNS and CNS. Global gene expression analysis also shows that a
+large group of genes is differentially expressed between SCPs and
+migratory neural crest cells1,2. Using five independent criteria in
+in vivo and culture experiments, we find that Notch inactivation in
+these cells retards their differentiation into immature Schwann cells
+whereas Notch activation accelerates it.
+Our data can be reconciled with the apparent promotion by
+Notch of Schwann cell generation from neural crest or crest-like
+cells, rather than from SCPs, in 14-d assays using the Schwann
+cell marker GFAP11,13. In these experiments, it is plausible
+that the long period in complex medium allowed some crest
+cells to generate SCPs. In such cultures, Notch activation would
+lead to the observed increase in Schwann cells by promoting the transition from SCPs to Schwann cells rather than
+by acting on neural crest cells, and by stimulating Schwann
+cell proliferation.
+Indirect support for the importance of Notch at this point in
+development comes from the fact that sensitivity to Notch signaling
+and Notch expression are much higher at the SCP stage than in
+migrating crest cells11. Thus, we conclude that Notch regulates
+Schwann cell generation at the SCP–Schwann cell transition.
+Schwann cell proliferation
+Our data establish canonical Notch signaling as an important positive
+regulator of Schwann cell proliferation and numbers. The decrease in
+Schwann cell numbers after Notch inactivation (P0-cre+RBPJ f/f and P0cre+Notch1f/f mice) was mirrored in a quantitatively similar reduction
+(by 38% and 16% respectively, P o 0.05) in the total number of
+segregated axon–Schwann cell units (pro-myelinating plus myelinating). This relationship between axonal segregation, and therefore the
+number of cells available for myelination, and total cell numbers has
+not been demonstrated before to our knowledge.
+It follows that the extent of myelination in early nerves is a function
+of Schwann cell numbers. Notch is, however, unlikely to be involved in
+the mechanism of segregation itself, because the ratio of segregated cells
+(pro-myelinating and myelinating) to total cells is not significantly
+different between Notch-inactivated and control nerves (5.3 ± 0.2 and
+5.9 ± 0.3 in P0-cre+RBPJ f/f mice and controls, respectively, and 6.1 ± 0.3
+and 6.0 ± 0.4 in P0-cre+Notch1 f/f mice and controls, respectively).
+Therefore, the probability of an axon segregating does not vary
+according to whether Notch signaling is present.
+Negative regulation of myelination
+Previous experiments have identified a set of positive transcriptional
+regulators of myelination, namely Krox20, Sox-10, Oct-6 and Brn2, the
+inactivation of which delay or prevent myelination in vivo1,34. The
+present results establish that the transcriptional regulation of myelination during development also incorporates a negative regulatory
+component. We find that inactivation of Notch 1 promotes in vivo
+myelination and Notch activation delays it. This delay is inversely
+proportional to levels of the key positive regulator Krox20, indicating
+that a balance between positive and negative regulatory mechanisms is
+
+846
+
+used to time the onset of myelination. In oligodendrocytes, Notch also
+negatively regulates myelination in vitro35 and reduced levels of Notch 1
+result in premature myelination in vivo36. In addition, it has been
+proposed that Notch activation in oligodendrocyte precursors inhibits
+their maturation into myelinating oligodendrocytes in multiple
+sclerosis plaques37.
+We find no enhanced myelination in nerves lacking RBPJ, in contrast
+to that seen in nerves without Notch1. Experiments on individual cells
+also show that NICD does not require RBPJ to inhibit the effects of the
+pro-myelin signals cAMP or Krox20. Together these results reveal an
+RPBJ-independent signaling pathway that acts as a brake on myelination. Although Notch times two key transitions, from SCPs to
+immature Schwann cells and immature Schwann cells to myelinating
+cells, the mechanisms of these two processes are notably different. The
+first involves RBPJ-dependent promotion of differentiation, whereasthe second involves RBPJ-independent inhibition of differentiation.
+Myelin stability and breakdown in cut and normal nerves
+After injury to adult nerves, Schwann cells lose their myelin sheaths and
+dedifferentiate to a phenotype related to that of immature Schwann
+cells8–10. This is accompanied by a sharp increase in NICD. The
+Notch ligands Jagged 1 and 2 are also upregulated (A.W., R.M. and
+K.R.J., unpublished data), but it is not known whether the Schwann
+cells themselves, macrophages or other cells activate Notch in Schwann
+cells under these conditions.
+In injured nerves, NICD accelerates myelin breakdown. This is
+severely retarded in the absence of either RBPJ or Notch1 and therefore
+depends on the canonical RBPJ pathway. The finding that Notch
+activates different mechanisms to negatively regulate myelination
+during development and injury was unexpected. It indicates that,
+more generally, the molecular machinery that controls adult Schwann
+cell plasticity might differ significantly from the machinery that
+regulates development.
+The present experiments and other recent work indicate that myelin
+breakdown and other aspects of Schwann cell dedifferentiation are
+controlled through the activation of a group of transcriptional regulators. In addition to Notch, in vivo evidence for this type of function
+exists for c-Jun27, and Sox-2, Pax-3 and Id2 might also be involved in
+Schwann cell dedifferentiation1,8. We therefore suggest that Schwann
+cells contain a set of negative transcriptional regulators that functionally complement the previously established positive regulatory proteins
+and that myelination and demyelination are determined by a balance
+between two opposing transcriptional programs1,8.
+The ability of Notch signaling to shift this balance and to drive
+myelinating cells towards demyelination is shown by the observation
+that activation of NICD in myelinating cells even of intact, uncut nerves
+results in severe demyelination. This finding shows that myelin stability
+and the maintenance of the myelinated state depend crucially on
+continuous inhibition of Notch signaling. It will be important to
+determine whether enhanced Notch signaling is a component of the
+pathogenetic mechanisms in inherited or acquired demyelinating
+neuropathies. In addition, the fact that Notch is mitogenic in Schwann
+cells raises the question of whether aberrant Notch activation could
+lead to the formation of Schwann cell tumors. In support of this idea,
+Notch can induce transformation in long-term cultured rat Schwann
+cells that can generate tumors when injected into nude rats38 and Notch
+acts as an oncogene in a number of cancers, including brain tumors6.
+METHODS
+Methods and any associated references are available in the online
+version of the paper at http://www.nature.com/natureneuroscience/.
+
+VOLUME 12
+
+[
+
+NUMBER 7
+
+[
+
+JULY 2009 NATURE NEUROSCIENCE
+
+ARTICLES
+Note: Supplementary information is available on the Nature Neuroscience website.
+
+ACKNOWLEDGMENTS
+This work was funded by a Wellcome Trust Programme Grant to K.R.J., R.M.
+and D.B.P., a Wellcome Trust Project grant to K.R.J. and R.M. and grants from
+the US National Institutes of Health to M.L.F. and L.W.
+AUTHOR CONTRIBUTIONS
+A.W. carried out all the experiments with the exception of cAMP myelination
+assays and PCR analyses, which were performed by M.B.D.A. A.W. was helped
+by A.D. in in situ hybridization experiments, by M.T. in EM sectioning, by M.D.
+in FACS, by D.B.P. in in vitro inhibitor experiments and by D.K.W. in animal
+husbandry. R.A.-S. and P.S. generated Hes1–/–Hes5–/– cells from frozen embryos.
+J.S., F.G., F.R., D.M., M.L.F. and L.W. provided the mice. A.W. generated all the
+figures. A.W., R.M. and K.R.J. designed the experiments. K.R.J., A.W. and R.M.
+wrote the manuscript.
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Published online at http://www.nature.com/natureneuroscience/
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1. Jessen, K.R. & Mirsky, R. The origin and development of glial cells in peripheral nerves.
+Nat. Rev. Neurosci. 6, 671–682 (2005).
+2. Woodhoo, A. & Sommer, L. Development of the Schwann cell lineage: from the neural
+crest to the myelinated nerve. Glia 56, 1481–1490 (2008).
+3. Chen, Z.L., Yu, W.M. & Strickland, S. Peripheral regeneration. Annu. Rev. Neurosci. 30,
+209–233 (2007).
+4. Louvi, A. & Artavanis-Tsakonas, S. Notch signalling in vertebrate neural development.
+Nat. Rev. Neurosci. 7, 93–102 (2006).
+5. Yoon, K. & Gaiano, N. Notch signaling in the mammalian central nervous system:
+insights from mouse mutants. Nat. Neurosci. 8, 709–715 (2005).
+6. Lasky, J.L. & Wu, H. Notch signaling, brain development and human disease. Pediatr.
+Res. 57, 104R–109R (2005).
+7. Bothwell, M. & Giniger, E. Alzheimer’s disease: neurodevelopment converges with
+neurodegeneration. Cell 102, 271–273 (2000).
+8. Jessen, K.R. & Mirsky, R. Negative regulation of myelination: relevance for development,
+injury and demyelinating disease. Glia 56, 1552–1565 (2008).
+9. Scherer, S.S. & Salzer, J.L. Axonal-Schwann cell interactions during peripheral nerve
+degeneration and regeneration. in Glial Cell Development: Basic Principles and Clinical
+Relevance (eds. Jessen, K.R. & Richardson, W.D.) 299–330 (Oxford, New York, 2001).
+10. Müller, H.W. & Stoll, G. Nerve injury and regeneration: basic insights and therapeutic
+interventions. Curr. Opin. Neurol. 11, 557–562 (1998).
+11. Kubu, C.J. et al. Developmental changes in Notch1 and numb expression mediated by
+local cell-cell interactions underlie progressively increasing delta sensitivity in neural
+crest stem cells. Dev. Biol. 244, 199–214 (2002).
+12. Wakamatsu, Y., Maynard, T.M. & Weston, J.A. Fate determination of neural crest cells by
+NOTCH-mediated lateral inhibition and asymmetrical cell division during gangliogenesis. Development 127, 2811–2821 (2000).
+13. Morrison, S.J. et al. Transient Notch activation initiates an irreversible switch from
+neurogenesis to gliogenesis by neural crest stem cells. Cell 101, 499–510 (2000).
+14. Bray, S.J. Notch signalling: a simple pathway becomes complex. Nat. Rev. Mol. Cell Biol.
+7, 678–689 (2006).
+15. Taylor, M.K., Yeager, K. & Morrison, S.J. Physiological Notch signaling promotes
+gliogenesis in the developing peripheral and central nervous systems. Development
+134, 2435–2447 (2007).
+16. Jessen, K.R., Morgan, L., Stewart, H.J.S. & Mirsky, R. Three markers of adult nonmyelin-forming Schwann cells, 217c (Ran-1), A5E3 and GFAP: development and
+regulation by neuron–Schwann cell interactions. Development 109, 91–103 (1990).
+
+NATURE NEUROSCIENCE VOLUME 12
+
+[
+
+NUMBER 7
+
+[
+
+JULY 2009
+
+17. Meier, C., Parmantier, E., Brennan, A., Mirsky, R. & Jessen, K.R. Developing Schwann
+cells acquire the ability to survive without axons by establishing an autocrine circuit
+involving insulin-like growth factor, neurotrophin-3 and platelet-derived growth factorBB. J. Neurosci. 19, 3847–3859 (1999).
+18. Brennan, A. et al. Endothelins control the timing of Schwann cell generation in vitro and
+in vivo. Dev. Biol. 227, 545–557 (2000).
+19. Dong, Z. et al. Neu differentiation factor is a neuron-glia signal and regulates survival,
+proliferation and maturation of rat Schwann cell precursors. Neuron 15, 585–596
+(1995).
+20. Birchmeier, C. & Nave, K.A. Neuregulin-1, a key axonal signal that drives Schwann cell
+growth and differentiation. Glia 56, 1491–1497 (2008).
+21. Stewart, H.J., Morgan, L., Jessen, K.R. & Mirsky, R. Changes in DNA synthesis
+rate in the Schwann cell lineage in vivo are correlated with the precursorSchwann cell transition and myelination. Eur. J. Neurosci. 5, 1136–1144
+(1993).
+22. Yu, W.M., Feltri, M.L., Wrabetz, L., Strickland, S. & Chen, Z.L. Schwann cell–specific
+ablation of laminin gamma1 causes apoptosis and prevents proliferation. J. Neurosci.
+25, 4463–4472 (2005).
+23. Winseck, A.K. & Oppenheim, R.W. An in vivo analysis of Schwann cell programmed cell
+death in embryonic mice: the role of axons, glial growth factor, and the pro-apoptotic
+gene Bax. Eur. J. Neurosci. 24, 2105–2117 (2006).
+24. Webster, H.D., Martin, R. & O’Connell, M.F. The relationships between interphase
+Schwann cells and axons before myelination: a quantitative electron microscopic study.
+Dev. Biol. 32, 401–416 (1973).
+25. Topilko, P. et al. Krox-20 controls myelination in the peripheral nervous system. Nature
+371, 796–799 (1994).
+26. Parkinson, D.B. et al. Regulation of the myelin gene periaxin provides evidence for
+Krox-20–independent myelin-related signaling in Schwann cells. Mol. Cell. Neurosci.
+23, 13–27 (2003).
+27. Parkinson, D.B. et al. c-Jun is a negative regulator of myelination. J. Cell Biol. 181,
+625–637 (2008).
+28. Lemke, G. & Chao, M. Axons regulate Schwann cell expression of the major myelin and
+NGF receptor genes. Development 102, 499–504 (1988).
+29. Morgan, L., Jessen, K.R. & Mirsky, R. The effects of cAMP on differentiation of cultured
+Schwann cells: progression from an early phenotype (04+) to a myelin phenotype (P0+,
+GFAP, N-CAM, NGF receptor) depends on growth inhibition. J. Cell Biol. 112,
+457–467 (1991).
+30. Luo, D., Renault, V.M. & Rando, T.A. The regulation of Notch signaling in muscle
+stem cell activation and postnatal myogenesis. Semin. Cell Dev. Biol. 16, 612–622
+(2005).
+31. Martinez Arias, A., Zecchini, V. & Brennan, K. CSL-independent Notch signaling: a
+checkpoint in cell fate decisions during development. Curr. Opin. Genet. Dev. 12,
+524–533 (2002).
+32. Nave, K.A., Sereda, M.W. & Ehrenreich, H. Mechanisms of disease: inherited demyelinating neuropathies from basic to clinical research. Nat. Clin. Pract. Neurol. 3,
+453–464 (2007).
+33. Suter, U. & Scherer, S.S. Disease mechanisms in inherited neuropathies. Nat. Rev.
+Neurosci. 4, 714–726 (2003).
+34. Svaren, J. & Meijer, D. The molecular machinery of myelin gene transcription in
+Schwann cells. Glia 56, 1541–1551 (2008).
+35. Wang, S. et al. Notch receptor activation inhibits oligodendrocyte differentiation.
+Neuron 21, 63–75 (1998).
+36. Givogri, M.I. et al. Central nervous system myelination in mice with deficient expression
+of Notch1 receptor. J. Neurosci. Res. 67, 309–320 (2002).
+37. John, G.R. et al. Multiple sclerosis: re-expression of a developmental pathway that
+restricts oligodendrocyte maturation. Nat. Med. 8, 1115–1121 (2002).
+38. Li, Y. et al. Notch and Schwann cell transformation. Oncogene 23, 1146–1152
+(2004).
+39. Hatakeyama, J. et al. Hes genes regulate size, shape and histogenesis of the nervous
+system by control of the timing of neural stem cell differentiation. Development 131,
+5539–5550 (2004).
+
+847
+
+© 2009 Nature America, Inc. All rights reserved.
+
+ONLINE METHODS
+Animals. We used a cre/lox strategy to inactivate Notch signaling. To delete
+RBPJ in SCPs, mice homozygous for the RBPJf/f locus40 were crossed with mice
+in which Cre expression is controlled by desert hedgehog regulatory sequences
+and directed to SCPs around E12 (Dhh-cre+ mice)41. The Dhh-cre+RBPJ f/+
+offspring were backcrossed with RBPJ f/f mice to generate Dhh-cre+RBPJ f/f
+(mutants) and Dhh-cre–RBPJ f/f (controls). To delete Notch1, we used mice
+homozygous for the Notch1 f/f locus42.
+For Notch activation in SCPs, we crossed CALSL-NICD transgenic mice, in
+which transcription of an NICD transgene is blocked by an upstream floxed
+‘stop–cassette’43, with Dhh-cre+ mice to generate Dhh-Cre+NICD (mutants)
+and Dhh-creNICD (controls). To activate or inactivate Notch signaling in
+Schwann cells, the same strategy was used, except that mice in which Cre
+expression is controlled by the P0 gene and activated selectively in Schwann cells
+around E15 (P0-cre+ mice)44, were used in place of Dhh-cre+ mice to generate
+the various mutants. Supplementary Figure 2 shows cre expression and
+recombination efficiency in mutants.
+Hes 1, Hes 5 and Krox20 null mice, and Hes1Hes5 double null mice have been
+described25,39. Primers for genotyping and recombination experiments are in
+Supplementary Table 7 online. Time-mated females, postnatal and adult rats
+and imprinting control region (ICR) mice were from the Biological Services
+Unit at UCL.
+Electron microscopy and morphometric analyses. Processing of nerves and
+analyses of morphometry, G–ratios and axon diameters in adults were as
+described27,45,46. For early myelination studies, images of whole P2 and P5
+nerves were acquired and analyzed using NIH ImageJ. At P2, the number of
+myelin sheaths (MS) per nerve profile was counted andeither divided by the
+number of Schwann cells, identified by their nuclei and association with axons,
+to obtain the normalized number of myelin sheaths (NNMS), or expressed as a
+ratio of the number of pro-myelinating Schwann cells (PS; non-myelinating
+Schwann cells in a 1:1 relationship with an axon) (MS per PS). In P5 nerves, we
+determined the axon diameter and myelin thickness of about 500 sheaths
+and calculated the proportion of Schwann cells within defined myelin
+thickness ranges.
+Nerve transection. Nerve transection was performed as described, according to
+UK Home Office guidelines27,47. Distal stumps and the control uninjured
+contralateral nerves were processed for western blotting, immunohistochemistry (IHC) or electron microscopy (EM) analysis, or dissociated and
+plated on coverslips for immunolabeling. For EM analysis, images of the whole
+nerve were acquired and the number of intact myelin sheaths counted and
+expressed as a percentage of the total number of myelinating Schwann cells in
+the uninjured contralateral nerve. For IHC, paraffin sections were immunolabeled for MBP and confocal pictures of the whole nerve acquired. The MBP+
+myelin area was calculated and expressed as a percentage of MBP+ myelin in the
+uninjured contralateral nerve using NIH ImageJ.
+
+needle using an inverted microscope, leaving the neural crest cells attached to
+the dish. The cells were then dissociated by incubating for 3 min in 200 ml
+versene (0.2 mg ml–1 EDTA, 0.01% PBS, 0.005% Phenol Red in ultra
+pure deionized water) containing three drops of enzyme cocktail (collagenase
+(2 mg ml–1), hyaluronidase (1.2 mg ml–1) and trypsin inhibitor (0.3 mg ml–1)
+in DMEM). After centrifugation the cells were resuspended in the relevant
+medium and plated.
+Schwann cell precursor cultures. We dissected sciatic nerves from E14 rat
+embryos and incubated them for 1 h in enzyme cocktail at 37 1C. The cell
+suspension was centrifuged and resuspended in DM supplemented with NRG1
+(10 ng ml–1) and insulin (109 M).
+Serum-purified Schwann cell cultures. Sciatic nerves were dissected from
+newborn or postnatal day 3 (P3) rats and dissociated by digestion in 0.25%
+trypsin, 0.4% collagenase in DMEM at 37 1C and 5%CO2 and 95% air for
+35 min with trituration at the end. The cell suspension was then centrifuged
+and cultured for 3 d in DMEM containing 10% FCS (FCS) and cytosine
+arabisnoside (AraC) (103 M), which kills contaminating fibroblasts. After 3 d
+in culture, more than 95% of the cells are Schwann cells.
+Neuron/Schwann cell co-cultures. We prepared co-cultures of neurons and
+myelinating Schwann cells by adding together purified E15 rat DRG neurons
+and purified neonatal Schwann cells27 stably infected with an NICD-expressing
+retrovirus. Myelination was induced by adding 50 mg ml–1 ascorbic acid to the
+medium, which contained DM, 10% FCS and NGF (50 ng ml–1). We used P0
+antibodies to immunolabel myelin segments.
+For demyelination assays, organotypic DRG/SC co-cultures were set up and
+myelination induced with ascorbic acid over two weeks. Thereafter, the cultures
+were infected with Ad-GFP or Ad-NICD adenovirus. At 3 and 6 d after
+infection, the cultures were fixed and immunolabeled with MBP antibodies.
+The number of GFP+ cells with damaged myelin profiles was counted and
+expressed as a percentage of the total number of myelin segments.
+Viral constructs. Adenoviral constructs expressing GFP/Krox20 (Ad-K20) and
+its matched GFP control (Ad-GFP) were a gift from J. Milbrandt (Washington
+University, St. Louis, Missouri)26,27. Adenoviral constructs expressing GFP/
+NICD (Ad-NICD) and its matched GFP control (Ad-GFP) were a gift from
+G.P. Dotto (University of Lausanne, Epaninges, Switzerland)48. The cDNAs for
+NICD, obtained by PCR from the full-length human Notch1 cDNA (amino
+acids 1760–2566) and the cDNAs for mouse full length Delta 1 (amino acids
+14–2190) were cloned into the retroviral plasmid vector pBABEpuro, and the
+GP+E ectotropic packaging cell line was then stably transfected with the
+plasmid DNA. We used plasmids without the transgene as a control vector.
+Retroviral supernatant obtained from the infected GP+E cells was used to infect
+confluent cells, followed by puromycin (1 mg ml–1) selection.
+Inhibitors. Specific inhibitors used were: UO126 (ERK 1/2 phosphorylation
+inhibitor; 10 mM, Calbiochem), SB202190 (p38 phosphorylation inhibitor;
+10 mM, Calbiochem), JNK peptide (JNK 1/2 phosphorylation inhibitor;
+10 mM, a gift from H. Mehmet (Imperial College, London, UK27)), MG132
+(10 mM, Calbiochem) and lactacystein (10 mM, Calbiochem).
+
+In vivo adenoviral infections. We exposed sciatic nerves of anaesthetized P60
+ICR mice and injected 1 ml of Ad-NICD or Ad-GFP (1012 virions ml1) into
+the endoneurium (ten animals per group). The nerves were dissected out 10 d
+later, teased onto microscope slides and immunolabeled for MBP. Confocal
+pictures of the infected Schwann cells (GFP expression) and myelin (MBP
+expression) were acquired and analyzed. To determine the extent of Notch–
+induced myelin breakdown, we counted the number of GFP+ Schwann cells
+with damaged myelin profiles. We also determined the area of MBP+ myelin
+occupied by GFP+ cells using NIH Image J.
+
+cAMP myelination assay. A cAMP analog, dibutryl cAMP (103 M), was
+added to cultures, as mentioned in the text. The cells were then fixed after 1 d
+for Krox20 ICC, 2 d for periaxin ICC or 3 d for P0 ICC26,27.
+
+Neural crest cell cultures. Neural tubes from E11 rat embryos were dissected
+out and plated on a PDL-fibronectin coated 35-mm Petri dish containing 2 ml
+of defined medium (DM) (1:1 mixture of DMEM and Ham’s F12, supplemented with transferrin (100 mg ml1), progesterone (60 ng ml–1), putrescine
+(16 mg ml–1), thyroxine (0.4 mg ml–1), tri-iodothyronine (10.1 ng ml–1),
+dexamethasone (38 ng ml–1), selenium (160 ng ml–1), BSA (0.3 mg ml–1),
+penicillin (100 IU ml–1), streptomycin (100 IU ml–1) and glutamine (2 mM))
+supplemented with NRG1 (10 ng ml–1), IGF1 (100 ng ml–1), N-acetyl cysteine
+(1 mM), FGF2 (3 ng ml–1) and insulin (109 M). Explants were cultured for
+24 h at 37 1C and 5% CO2 after which the neural tubes were excised with a
+
+Fluorescence-activated cell sorting (FACS). We separated immunopanned P5
+Schwann cells into myelinating and non-myelinating populations by FACS47.
+Schwann cells were isolated from 10 P5 rat pups, purified by immunopanning
+with OX-7 antibodies, immunolabeled with antibodies against GalC, which at
+this age is expressed by myelinating Schwann cells but not by non-myelinating
+Schwann cells49, and then sorted using a Becton-Dickinson FACSCalibur
+machine (BD), which first sorted the live cells from the dead cells and then
+separated the fluorescent (GalC+) from the non-fluorescent cells (GalC–).
+The two populations were collected and the mRNA extracted and processed
+for RT-PCR.
+
+NATURE NEUROSCIENCE
+
+doi:10.1038/nn.2323
+
+© 2009 Nature America, Inc. All rights reserved.
+
+Immunohistochemistry (IHC) and immunocytochemistry (ICC). For frozen
+sections, samples were fixed for 4 h in 4% PFA, placed in 30% sucrose
+overnight, frozen in OCT and sectioned (10 mm) using a cryostat. For paraffin
+sections, samples were fixed in PFA in PBS at 4 1C overnight, dehydrated and
+embedded in paraffin wax. Paraffin sections (5 mm) were rehydrated and
+subjected to antigen retrieval in 10 mM sodium citrate buffer (pH 6.0). For
+teased nerves, nerves were dissected out, immediately fixed in 4% PFA in PBS
+for 10 min, teased on microscope slides and allowed to dry.
+The samples were incubated in 0.2% triton in blocking solution (BS: PBS
+containing 10% FCS, 0.1% lysine and 0.02% sodium azide) followed by
+overnight incubation at 4 1C with the following primary antibodies: BFABP
+(rabbit, 1:5000); TUJ1 (mouse, 1:5000, Covance); S100b (rabbit, 1:1000,
+Dakopatts); AP2a (rabbit, 1:1000; Santa Cruz Biotechnology); MBP (mouse,
+1:500, Sternberger Monoclonals); Jagged 1 (rabbit, 1:200, Santa Cruz Biotechnology); Notch 1 (hamster, 1:100, Upstate); and neurofilament (mouse, 1:50).
+For S100b and AP2a IHC, HRP-conjugated secondary antibodies were used
+followed by HRP substrate, diaminobenzidine. For other IHC, secondary
+antibodies for detection of rabbit or mouse antibodies were labeled by
+fluorescence (FITC or Cy3; Cappel MP biomedicals or Jackson Immunoresearch Labs).
+For GFAP and nestin ICC, cultures were fixed with 4% PFA in PBS for 10
+min, permeabilized with methanol (20 1C) for 10 min and the following
+primary antibodies applied overnight at 4 1C: GFAP (rabbit, 1:200, Dakopatts);
+nestin (mouse, 1:2000, Developmental Studies Hybridoma Bank). Krox20,
+periaxin and P0 ICC procedures were as described26,27. For O4 antigen/L1
+ICC or p75NTR ICC, unfixed cells were incubated with O4 hybridoma supernatant (mouse, 1:1), and L1 hybridoma supernatant (rat, 1:1) or p75NTR
+antibody (rabbit, 1:200, Cell Signaling Technology) diluted in MEM-Hepes/
+10% FCS for 1 h, followed by application of appropriate secondary antibodies
+and post-fixation with 4% PFA in PBS for 5 min.
+Apoptotic cells were detected by TUNEL labeling. Proliferative cells were
+detected in vivo in E17 sciatic nerves by BrdU incorporation and immunolabeling or PH3 immunolabeling and in vitro were detected by BrdU incorporation46. P0 in situ hybridization has been described50.
+Western Blotting. Protein extracts were prepared and blotted as described26,27.
+The following antibodies were used: b-tubulin (mouse, 1:2000, Sigma), Cdk 2
+(rabbit, 1:500, Santa Cruz Biotechnology), Cyclin D1 (mouse, 1:500, Santa
+Cruz Biotechnology), ErbB2 (rabbit, 1:500, Santa Cruz Biotechnology), ErbB3
+(rabbit, 1:500, Santa Cruz Biotechnology), GAPDH (mouse, 1:5000 Abcam),
+Krox20 (rabbit, 1:2500, Covance), NICD (mouse, 1:1000, Chemicon), phos-
+
+doi:10.1038/nn.2323
+
+pho-ERK 1/2 (mouse, 1:2000, Sigma), phospho-JNK 1/2 (rabbit, 1:1000, Cell
+Signaling Technology), phospho-p38 (rabbit, 1:1000, Cell Signaling Technology), P0 (mouse, 1:2000, Astexx). HRP-conjugated secondary antibodies were
+used and developed with ECL reagent (Amersham Biosciences). Experiments were repeated three times with fresh samples and representative pictures
+are shown. For in vitro experiments, fresh cultures were used each time. For
+in vivo experiments, embryonic nerves were isolated from several embryos
+from at least two litters and postnatal nerves from at least two animals
+were used. Uncropped pictures of western blots are in Supplementary
+Figure 9 online.
+Semi-quantitative PCR. Protocols for RNA extraction from nerve samples and
+cDNA synthesis have been described47 and the primers used are found in
+Supplementary Table 7. Experiments were repeated three times with fresh
+samples and representative pictures are shown. For each experiment, embryonic nerves or DRGs were isolated from several embryos. For isolation of
+postnatal nerves, at least two animals were used.
+Statistical analysis. All values are shown as mean ± s.e.m. from at least three
+independent experiments and considered significant if P o 0.01. Significance
+between groups was calculated using Student’s t-tests.
+40. Tanigaki, K. et al. Notch-RBP-J signaling is involved in cell fate determination of
+marginal zone B cells. Nat. Immunol. 3, 443–450 (2002).
+41. Jaegle, M. et al. The POU proteins Brn-2 and Oct-6 share important functions in
+Schwann cell development. Genes Dev. 17, 1380–1391 (2003).
+42. Radtke, F. et al. Deficient T cell fate specification in mice with an induced inactivation of
+Notch1. Immunity 10, 547–558 (1999).
+43. Yang, X. et al. Notch activation induces apoptosis in neural progenitor cells through a
+p53-dependent pathway. Dev. Biol. 269, 81–94 (2004).
+44. Feltri, M.L. et al. P0-Cre transgenic mice for inactivation of adhesion molecules in
+Schwann cells. Ann. NY Acad. Sci. 883, 116–123 (1999).
+45. Sharghi-Namini, S. et al. The structural and functional integrity of peripheral nerves
+depends on the glial-derived signal desert hedgehog. J. Neurosci. 26, 6364–6376
+(2006).
+46. D’Antonio, M. et al. TGFbeta type II receptor signaling controls Schwann cell death and
+proliferation in developing nerves. J. Neurosci. 26, 8417–8427 (2006).
+47. D’Antonio, M. et al. Gene profiling and bioinformatic analysis of Schwann cell embryonic
+development and myelination. Glia 53, 501–515 (2006).
+48. Rangarajan, A. et al. Notch signaling is a direct determinant of keratinocyte growth arrest
+and entry into differentiation. EMBO J. 20, 3427–3436 (2001).
+49. Jessen, K.R., Morgan, L., Brammer, M. & Mirsky, R. Galactocerebroside is expressed
+by non-myelin-forming Schwann cells in situ. J. Cell Biol. 101, 1135–1143 (1985).
+50. Morgan, L., Jessen, K.R. & Mirsky, R. Negative regulation of the P0 gene in Schwann
+cells: suppression of P0 mRNA and protein induction in cultured Schwann cells by FGF2
+and TGF beta 1, TGF beta 2 and TGF beta 3. Development 120, 1399–1409 (1994).
+
+NATURE NEUROSCIENCE
+
+

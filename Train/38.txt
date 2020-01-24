@@ -1,0 +1,593 @@
+Amino-terminal domains of kainate receptors
+determine the differential dependence on
+Neto auxiliary subunits for trafficking
+Nengyin Shenga
+, Yun Stone Shia,b, and Roger A. Nicolla,c,1
+a
+Department of Cellular and Molecular Pharmacology, University of California, San Francisco, CA 94143; b
+Model Animal Research Center, Key Laboratory of
+Model Animal for Disease Study of Ministry of Education, Nanjing University, Nanjing 210061, People’s Republic of China; and c
+Department of Physiology,
+University of California, San Francisco, CA 94143
+Contributed by Roger A. Nicoll, November 24, 2016 (sent for review October 7, 2016; reviewed by David S. Bredt, John Isaac, and Andres V. Maricq)
+The kainate receptor (KAR), a subtype of glutamate receptor,
+mediates excitatory synaptic responses at a subset of glutamatergic synapses. However, the molecular mechanisms underlying the
+trafficking of its different subunits are poorly understood. Here
+we use the CA1 hippocampal pyramidal cell, which lacks KARmediated synaptic currents, as a null background to determine the
+minimal requirements for the extrasynaptic and synaptic expression of the GluK2 subunit. We find that the GluK2 receptor itself,
+in contrast to GluK1, traffics to the neuronal surface and synapse
+efficiently and the auxiliary subunits Neto1 and Neto2 caused no
+further enhancement of these two trafficking processes. However,
+the regulation of GluK2 biophysical properties by Neto proteins is
+the same as that of GluK1. We further determine that it is the
+amino-terminal domains (ATDs) of GluK1 and GluK2 that control
+the strikingly different trafficking properties between these two
+receptors. Moreover, the ATDs are critical for synaptic expression
+of heteromeric receptors at mossy fiber–CA3 synapses and also
+mediate the differential dependence on Neto proteins for surface
+and synaptic trafficking of GluK1 and GluK2. These results highlight the fundamental differences between the two major KAR
+subunits and their interplay with Neto auxiliary proteins.
+kainate receptor | amino-terminal domain | Neto proteins |
+synaptic trafficking
+Excitatory synaptic transmission in the brain is mediated primarily
+by glutamate, which acts on three types of glutamate receptors,
+AMPA receptors (AMPARs), NMDA receptors (NMDARs), and
+kainate receptors (KARs). AMPARs and NMDARs are expressed
+at most glutamatergic synapses, whereas KARs are expressed
+much more selectively at a subset of synapses. KARs are composed
+of low-affinity GluK1–3 subunits and high-affinity GluK4/5 subunits (1–3). Most of our knowledge of KARs comes from studies
+of excitatory mossy fiber synapses onto CA3 pyramidal cells (4).
+These receptors are expressed postsynaptically and are responsible
+for a slow excitatory postsynaptic current (EPSC) (5, 6). They are
+also expressed presynaptically and contribute to the profound
+frequency facilitation of these synapses (7–10). In the CA1 region,
+excitatory synapses onto pyramidal cells do not generate KARmediated currents (5, 11, 12), but, interestingly, functional
+GluK2-containing receptors are expressed on the surface of CA1
+pyramidal cells (11). These findings raise the question as to what
+determines the synaptic expression of KARs.
+Recently it has been discovered that Neto proteins serve as
+auxiliary subunits for KARs (13–15). They are neuropilin and tolloid-like proteins that are single pass transmembrane CUB domaincontaining proteins. Although Neto1 and Neto2 have profound
+effects on the trafficking and kinetics of GluK1 (16–20), their effects
+on GluK2 are less clear. Neto2 slows deactivation (14) as well as
+desensitization of GluK2 (14, 18) and has similar effects on GluK2/5
+receptors (19). Neto1 also slows desensitization of GluK2 receptors
+(18) and slows desensitization of GluK2/5 receptors (20, 21) as well
+as deactivation (21). In contrast to the dramatic effects that Neto
+proteins have on the kinetics of GluK2-containing receptors, their
+roles in trafficking of these receptors are less clear. Most studies
+find no effect of Neto1 or Neto2 on the surface expression of
+GluK2 (14, 21). On the other hand, Palacios-Filardo et al. reported
+that both Neto1 and Neto2 increased surface expression (18).
+In the present study, we have used the excitatory synapses onto
+CA1 pyramidal cells, which do not express KARs, to study the
+properties of the GluK2 receptor and the effects of Neto proteins
+on this receptor. We recently found that GluK1, in the absence of
+Neto proteins, is poorly expressed on the neuronal surface and
+does not appear at synapses (16). However, in the presence of
+either Neto1 or Neto2, the surface expression of GluK1 is extremely high and the receptor is targeted to the synapse. Neto
+proteins also affect the rate of GluK1’s desensitization, and Neto1,
+but not Neto2, slows the rate of its deactivation. Here we show
+that GluK2, on its own, is expressed on the surface at high levels,
+equivalent to GluK1 coexpressed with Neto proteins. Neto proteins have no effect on surface or synaptic expression of GluK2.
+However, in outside-out patches, Neto1 and Neto2 have the
+identical effects on deactivation and desensitization of GluK2, as
+they do on GluK1. We find that the profound difference in the
+surface trafficking of GluK1 and GluK2 resides in the aminoterminal domain (ATD) and the GluK2 ATD is also critical for
+the targeting of GluK2/5 heteromeric receptors to mossy fiber–
+CA3 synapses. Moreover, the ATDs of GluK1 and GluK2 control
+their differential dependence on Neto proteins for extrasynaptic
+and synaptic trafficking. Taken together, these results demonstrate
+Significance
+The kainate receptor (KAR) is a subfamily of glutamate receptors that mediates excitatory synaptic transmission in the
+central nervous system. GluK1 and GluK2 are two obligatory
+KAR subunits and their trafficking properties are quite different; however, the underlying molecular mechanism remains a
+mystery. Here we show that GluK2 receptor trafficking is independent on Neto auxiliary subunits, whereas the regulation
+of its biophysical properties by Neto proteins is the same as
+that of GluK1. Moreover, we show that it is the amino-terminal
+domains (ATDs) of GluK1 and GluK2 that determine their distinct trafficking performance and mediate their different dependence on Neto proteins for trafficking.
+Author contributions: N.S., Y.S.S., and R.A.N. designed research; N.S. and Y.S.S. performed
+research; N.S. and Y.S.S. contributed new reagents/analytic tools; N.S. and R.A.N. analyzed
+data; and N.S. and R.A.N. wrote the paper.
+Reviewers: D.S.B., Johnson & Johnson; J.I., Johnson & Johnson; and A.V.M., University of
+Utah.
+The authors declare no conflict of interest.
+1
+To whom correspondence should be addressed. Email: roger.nicoll@ucsf.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1619253114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1619253114 PNAS | January 31, 2017 | vol. 114 | no. 5 | 1159–1164
+NEUROSCIENCE
+a role of the ATD and its interplay with auxiliary subunits in
+glutamate receptor trafficking.
+Results
+GluK2 Receptor Targets to Excitatory Synapse on Its Own. For this study,
+we used organotypic rat hippocampal slices and exogenously
+expressed KARs and Neto proteins through biolistic transfection in
+CA1 neurons, which are devoid of KAR-mediated synaptic responses (5, 11, 12), and then measured the synaptic responses of
+transfected and neighboring wild-type CA1 neurons by dual wholecell recordings (Fig. S1A). In agreement with our previous results
+(16), expression of GluK1, by itself, failed to affect synaptic currents
+(Fig. 1A). However, expression of GluK2, by itself, caused a profound enhancement of the evoked EPSC (eEPSC) recorded at
+−70 mV and some of this current remained in the presence of the
+AMPAR selective antagonist GYKI53655 (Fig. 1B). It should be
+noted that a high concentration of GYKI53655 (100 μM), which
+blocks ∼20–30% of KAR-mediated responses (22), was used to
+ensure that the remaining currents are, indeed, solely KAR mediated. And in the absence of a specific GluK2 antagonist, currently,
+we could not rule out the possibility that GluK2 expression leads to
+additional recruitment of synaptic AMPARs. This result suggests
+that the lack of KAR-mediated synaptic response in CA1 neurons
+might be due to the limited endogenous expression of GluK2 receptor, although some functional GluK2-containing receptors are
+found on the cell surface (11). Interestingly, there was also a significant enhancement of the NMDAR currents (Fig. S2B) in
+GluK2-expressing cells, which raises the possibility of a synaptogenic
+effect. Although presynaptic KARs are known to regulate glutamate release at mossy fibers, sparse expression of GluK1 or GluK2
+receptors in CA1 neurons had no effect on presynaptic release
+probability as there were no significant changes of paired-pulse
+ratios (GluK1 vs. control: 1.51 ± 0.12 vs. 1.50 ± 0.09, P > 0.05;
+GluK2 vs. control: 1.28 ± 0.13 vs. 1.11 ± 0.05, P > 0.05). We next
+examined the possibility that activity played a role in the GluK2-
+induced enhancement. The experiments were repeated in the
+presence of the following drugs during culture: the AMPAR antagonist NBQX and the NMDAR antagonist APV (Fig. S3A), the
+sodium channel blocker tetrodotoxin (TTX) (Fig. S3B) or the calcium channel blocker nifedipine (Fig. S3C). None of these manipulations prevented the enhancement, either of the AMPAR/KAR
+or NMDAR responses.
+There are a number of possible mechanisms by which GluK2 enhances synaptic transmission. First, receptors could selectively populate silent synapses as is the case for the expression of GluK1 (16).
+Second, they could colocalize with synaptic AMPARs. However, it
+seems unlikely that these two mechanisms could fully account for the
+magnitude of the enhancement. One additional possibility is that new
+synapses are formed. To test these various possibilities, we examined
+the effect of GluK2 expression on the properties of miniature EPSCs
+(mEPSCs) (Fig. S4A). Both the amplitude (Fig. S4 B, 1 and 2) and
+the frequency (Fig. S4 C, 1 and 2) of mEPSCs were increased in
+cells expressing GluK2 compared with neighboring control cells.
+In addition, there was a dramatic speeding in the decay of the
+mEPSCs (Fig. S4 D, 1 and 2). Application of GYKI53655 (30 μM)
+completely blocked the AMPAR-mediated mEPSCs in the control
+cells, as expected (Fig. S4 A, E, and F), but had a minor effect on
+the mEPSCs in the GluK2-expressing cells (Fig. S4 E and F), indicating that a large majority of events in the expressing cells are
+mediated by KARs. We selected a concentration of GYKI53655
+(30 μM) that was just sufficient to entirely block responses in
+control cells and thus minimize the blocking of KAR-mediated
+mEPSCs. We next examined whether the large GluK2-mediated
+mEPSCs also contained an AMPAR component. For this analysis,
+we used a detection threshold of 40 pAs (Fig. S4 G, 1) so we were
+assured that the events were larger than the AMPAR-mediated
+mEPSCs in the control cells. If the large events contained an
+AMPAR component, then we would expect that GYKI53655
+should cause a substantial reduction in the amplitude of these
+large events and an acceleration of the decay of the mEPSCs.
+Surprisingly, we saw minimal effect on the amplitude (Fig. S4E)
+and no effect on the decay (Fig. S4 G, 2), suggesting that there is
+no colocalization of AMPARs at the GluK2-expressing synapses.
+To determine whether there were any neuronal structural
+modifications that accompanied the profound effects of GluK2
+expression, we imaged the dendritic spines as a proxy for the
+number of excitatory synapses. Remarkably, expression of GluK2
+had no effect on spine density (Fig. S2D). It did reduce the diameter of the spine neck (Fig. S2 E, 1 and 2) and spine head
+(Fig. S2 G, 1 and 2), whereas increasing the length of the spine
+shaft (Fig. S2 F, 1 and 2). However, none of these anatomical
+changes can account for the large GluK2 effects. To account for
+the large increase in mEPSC frequency (Fig. S4 C, 1 and 2) and
+the increase in the NMDAR comment of the eEPSC (Fig. S4B),
+we suggest that the additional synapses are preferentially made
+on dendritic shafts.
+Neto Proteins Do Not Regulate GluK2 Receptor Extrasynaptic and
+Synaptic Trafficking. The coexpression of Neto1 or Neto2 with
+GluK1 has a profound effect on surface and synaptic expression,
+as well as the kinetics of GluK1-mediated responses (16). In
+striking contrast, neither Neto1 nor Neto2 had any effect on the
+enhancement of synaptic responses caused by GluK2 (Fig. S5).
+However, we were concerned that the massive enhancement
+caused by the expression of GluK2 might obscure any effects that
+the Neto proteins might have on GluK2. We therefore lowered
+the expression of GluK2 by expressing it after an internal ribosome entry site (IRES). This substantially reduced the magnitude of the enhancement (Fig. 2A). However, neither the
+coexpression of Neto1 (Fig. 2 B and D) nor the coexpression of
+Fig. 1. Synaptic responses are potentiated by GluK2 but not GluK1 receptors in CA1 pyramidal neurons. Rat hippocampal slice cultures were biolistically
+transfected with GluK1 (A, n = 12) or GluK2 (B, n = 12). Simultaneous dual whole-cell recordings from a transfected CA1 pyramidal neuron (green trace) and a
+neighboring wild-type one (black trace) were performed. The evoked EPSCs (eEPSCs) were measured at −70 mV before and after GYKI53655 (100 μM)
+treatment. Open and filled circles represent amplitudes for single pairs and mean ± SEM, respectively. Insets show sample current traces from control (black)
+and experimental (green) cells. (Scale bars, 100 pA and 25 ms.) Bar graphs show normalized eEPSC amplitudes (mean ± SEM) of −70 mV pretreatment
+(A, 89.38 ± 20.24% control, P > 0.05 and B, 1721.09 ± 341.63% control, ***P < 0.001), GYKI53655 treatment (B, 487.70 ± 51.64% control pretreatment, ***P <
+0.001) presented in scatter plots. The eEPSC amplitudes measured at −70 mV after GYKI53655 wash-in in A and B were normalized according to respective
+pretreated control neurons. All of the statistical analyses are compared with respective control neurons with two-tailed Wilcoxon signed-rank sum test.
+1160 | www.pnas.org/cgi/doi/10.1073/pnas.1619253114 Sheng et al.
+Neto2 (Fig. 2 C and D) had any effect on the enhancement of the
+AMPAR/KAR-mediated eEPSCs and the NMDAR-mediated
+eEPSCs (Fig. S6). Because the trafficking of GluK2 is independent of Neto proteins, the lack of synaptic targeting of endogenous
+GluK2 cannot be related to these auxiliary proteins. Furthermore,
+unlike GluK1 (16), Neto1 and Neto2 had no effect on the size of
+the GluK2-mediated currents in outside-out patches (Fig. 2 E, 1).
+Neto1 and Neto2 did affect the kinetics of GluK2 currents
+obtained from outside-out patches and ultrafast glutamate application. These experiments were done in the presence of GYKI53655
+(100 μM) to ensure that GluK2 was fully responsible for the
+recorded currents. Neto1 had no effect on deactivation, whereas
+Neto2 slowed deactivation (Fig. 2 E, 2). Neto1 hastened the onset of
+desensitization in contrast to Neto2, which slowed the rate of desensitization (Fig. 2 E, 3). All of the effects of Neto1 and Neto2 on
+the kinetics of GluK2 are the same as that for GluK1 receptor (16).
+We also recorded the effects of Neto proteins on the decay of
+isolated KAR-mediated mEPSCs (Fig. 2F) in the presence of
+GYKI53655 (30 μM). Neto1 had no effect, as would be expected,
+because it did not affect deactivation, whereas Neto2 slowed the
+decay of mEPSCs, presumably by its slowing of deactivation. All of
+the results indicate that Neto auxiliary subunits have no regulation
+of the surface and synaptic trafficking of GluK2, but regulate the
+receptor’s biophysical properties.
+The ATDs Are the Critical Determinants for GluK1 and GluK2 Differential
+Synaptic Trafficking. What could account for the finding that expression of GluK1 had no effect on synaptic transmission, whereas
+GluK2 caused a more than 10-fold increase? Previous studies have
+already indicated the importance of the intracellular C-terminal
+domain (CTD) for KARs trafficking. It has been found that there is
+an ER retention and retrieval motif in GluK1 CTD, thereby limiting
+the surface expression of this homomeric receptor (23, 24) and
+GluK2 CTD possesses a forward-trafficking signal for its ER exit
+(25). Therefore, we first examined the effects of the KAR CTD on
+synaptic expression by swapping the CTDs between GluK1 and
+GluK2 (Fig. 3). The GluK2 CTD had a modest but significant effect
+on GluK1 synaptic expression (Fig. 3 A and G). Although the enhancement of synaptic responses by the GluK2 mutants, either
+GluK2(CTDK1) (GluK2 replaced with the CTD of GluK1) or
+GluK2(ΔCTD) (GluK2 lacking its CTD), were slightly but significant less than wild-type GluK2, the two mutants still trafficked to
+synapses very efficiently (Fig. 3 B and G). All these results suggest
+that GluK2 CTD might not be the major determinant for the receptor’s synaptic targeting. We next replaced the entire extracellular
+domain of GluK1 with that of GluK2, and surprisingly the GluK2
+extracellular domain delivered GluK1 receptors to synapses very
+efficiently and this GluK1(NK2) mutant almost phenocopied wildtype GluK2 (Fig. 3 C and G). More specifically, the enhancement
+caused by the extracellular domain of GluK2 resides in the ATD
+(Fig. 3 E and G). Consistent with these results, the presence of the
+extracellular domain [GluK2(NK1), Fig. 3 D and G] or the ATD
+[GluK2(ATDK1), Fig. 3 F and G] of GluK1 on GluK2 failed to
+increase synaptic transmission and phenocopied wild-type GluK1,
+suggesting it is the ATDs that account for the differential GluK1
+and GluK2 synaptic trafficking. Moreover, we also found that the
+GluK1(ATDK2) indeed significantly increased the synaptic currents mediated by NMDARs, the same as GluK2. However,
+GluK2(ATDK1) had no effect on NMDAR-mediated synaptic responses, the same as GluK1 (Fig. S7), indicating that the GluK2-
+regulated enhancement of synaptic responses mediated by
+NMDARs is dependent on the ATD of GluK2.
+For our above studies, we have taken advantage of the absence
+of KAR synaptic currents at the Schaffer collateral–CA1 synapse
+to characterize the basic properties of KARs. Can we apply these
+findings to a synapse that normally expresses KAR-mediated
+currents? We were specifically interested in the role of the ATD of
+low-affinity subunits GluK1 and GluK2 for the synaptic trafficking
+of native KARs. For this purpose we turned to the mossy fiber–
+CA3 synapse. Based on an elegant series of genetic studies, it has
+been found that KARs at mossy fiber synapses are heteromers
+consisting of GluK2 (26) and the high-affinity subunits GluK4/5
+Fig. 2. The auxiliary Neto1 and Neto2 proteins regulate the biophysical
+properties of GluK2 receptor but have no effect on GluK2 surface and synaptic
+trafficking. (A–C) The same experimental design as in Fig. 1 except that EGFPIRES-GluK2 (A), Neto1-IRES-GluK2 (B), and Neto2-IRES-GluK2 (C) were used for
+transfection. (Scale bars for representative eEPSC traces, 100 pA and 25 ms.)
+Bar graphs show normalized amplitudes of eEPSC (mean ± SEM) (A, n = 15,
+468.54 ± 78.94% control, ***P < 0.0001; B, n = 12, 331.02 ± 66.03% control,
+***P < 0.001; and C, n = 13, 379.13 ± 59.88% control, ***P < 0.001) presented
+in scatter plots. All of the statistical analyses are compared with respective
+control neurons with two-tailed Wilcoxon signed-rank sum test. (D) Logarithm
+summary of the eEPSC amplitude ratios between the experimental and respective control neurons (mean ± SEM) for the above three transfections [(I)
+EGFP-IRES-GluK2: 0.71 ± 0.08; (II) Neto1-IRES-GluK2: 0.52 ± 0.08; (III) Neto2-
+IRES-GluK2: 0.62 ± 0.11; I vs. II, P > 0.05; I vs. III, P > 0.05; II vs. III, P > 0.05]. All
+statistical analyses of the different groups are tested using Mann–Whitney
+u test. (E, 1) Bar graphs show the amplitude of GluK2 currents (mean ± SEM)
+from outside-out patches pulled from transfected CA1 neurons with indicated
+plasmids and exposed to applications of 10 mM glutamate and 100 μM
+GYKI53655 [(I) GluK2/EGFP: n = 8, 1831.72 ± 165.44 pA; (II) GluK2/Neto1: n = 8,
+1,414.01 ± 288.70 pA; (III) GluK2/Neto2: n = 9, 1,788.50 ± 336.94 pA; I vs. II, P >
+0.05; I vs. III, P > 0.05; II vs. III, P > 0.05]. Colored sample traces are shown above.
+(Scale bars, 500 pA and 10 ms.) (E, 2 and E, 3) Bar graphs show mean ± SEM.
+GluK2 deactivation [E, 2, (I) GluK2/EGFP: n = 9, 3.77 ± 0.25 ms; (II) GluK2/Neto1:
+n = 8, 3.85 ± 0.22 ms; (III) GluK2/Neto2: n = 9, 4.95 ± 0.39 ms; I vs. II, P > 0.05;
+I vs. II, *P < 0.05; II vs. III, *P < 0.05] and desensitization [E, 3, (I) GluK2/EGFP:
+n = 6, 9.62 ± 0.83 ms; (II) GluK2/Neto1: n = 7, 6.88 ± 0.45 ms; (III) GluK2/Neto2:
+n = 6, 13.78 ± 1.08 ms; I vs. II, *P < 0.05; I vs. III, *P < 0.05; II vs. III, ***P < 0.0001]
+from outside-out patches pulled from indicated transfected CA1 neurons and
+exposed to 1-ms or 100-ms applications of 10 mM glutamate and 100 μM
+GYKI53655, respectively. (F) Bar graphs show decay kinetics (mean ± SEM) of
+isolated GluK2 mEPSCs (in 30 μM GYKI53655) from transfected CA1 neurons
+with indicated plasmids [(I) GluK2/EGFP: n = 10, 4.72 ± 0.44 ms; (II) GluK2/Neto1:
+n = 10, 4.51 ± 0.43 ms; (III) GluK2/Neto2: n = 13, 7.75 ± 0.89 ms; I vs. II, P > 0.05;
+I vs. III, *P < 0.05; II vs. III, **P < 0.01]. Peak-normalized sample traces of E, 2, E, 3,
+and F are shown above. (Scale bar, 5 ms.) All of the statistical analyses were
+tested using Mann–Whitney u test.
+Sheng et al. PNAS | January 31, 2017 | vol. 114 | no. 5 | 1161
+NEUROSCIENCE
+(27). For these experiments, we expressed GluK5 before the IRES
+and GluK2 after the IRES. This would result in an excess of GluK5
+expression compared with GluK2. Because GluK5 does not form
+functional homomeric receptors, it ensures that any increased currents recorded will consist of GluK2/5 heteromers. We carried out
+simultaneous whole-cell recordings from experimental and neighboring wild-type CA3 neurons in the presence of GYKI53655 and
+stimulated the mossy fibers locally (Fig. S1B). Expression of GluK2/5
+resulted in a large enhancement of the slow EPSCs (Fig. 4 A and E),
+indicating that the mossy fiber synapses can accommodate additional
+GluK2/5 receptors. In contrast, expression of GluK1 with GluK5,
+which can form heteromeric receptors (28, 29), had no effect on the
+slow EPSCs (Fig. 4 B and E). When the ATD of GluK1 was placed
+on the GluK2 subunit the slow EPSCs was only modestly increased
+(Fig. 4 C and E), suggesting that the ATD of GluK2 is important for
+the synaptic targeting of heteromeric KARs. Indeed, the chimera
+mutant GluK1 containing the ATD of GluK2 [GluK1(ATDK2)]
+substantially increased the slow EPSCs (Fig. 4 D and E).
+The ATDs of GluK1 and GluK2 Are Critical for Their Differential Trafficking
+Regulated by Neto Proteins. We were curious as to how the coexpression of Neto proteins with GluK1 phenocopied the wild-type
+GluK2 on its own (16), whereas these auxiliary subunits cause no
+enhancement of GluK2 synaptic trafficking (Fig. 2 and Fig. S5). To
+test the possibility that the ATDs of GluK1 and GluK2 might be
+involved in this differential regulation, we coexpressed either Neto1
+or Neto2 with the GluK1 chimera in which the ATD is replaced
+with the GluK2’s, named GluK1(ATDK2), which traffics to synapses efficiently (Fig. 3 E and G), and found that neither caused any
+further enhancement of synaptic currents (Fig. 5 A–C). However,
+coexpression of Neto1 or Neto2 with the GluK2 chimera containing
+the GluK1 ATD [GluK2(ATDK1)], which failed to target to the
+CA1 synapses on its own (Fig. 3 F and G), significantly rescued
+synaptic potentiation (Fig. 5 D–F). These results indicate that it is
+the ATDs of GluK1 and GluK2 that control their differential dependence on Neto proteins for synaptic trafficking.
+Is the ATD of GluK2 necessary for delivery of the receptor to the
+surface and/or is it responsible for the targeting of surface receptors
+to the synapse? To address this question, we recorded extrasynaptic
+currents in the presence of GYKI53655 (100 μM) from outside-out
+somatic patches and used ultrafast glutamate application, because
+KARs desensitize extremely rapidly. The magnitude of the currents
+for the various chimeras generally correlated with the magnitude of
+their synaptic currents. Specifically, the marginal surface expression
+of GluK2(ATDK1) on its own was similar to that of GluK1,
+whereas the ATD of GluK2 delivered the GluK1(ATDK2) mutated
+receptors to the surface efficiently without Neto proteins (Fig. 5G),
+suggesting that the ATDs of GluK1 and GluK2 are also critical for
+these receptors’ surface expression. Moreover, coexpression of
+Neto2 had virtually the same enhancing effect on GluK1 and
+GluK2(ATDK1) (Fig. 5G), implying that the Neto interaction with
+the GluK1 ATD is essential for the surface expression of GluK1.
+On the other hand, Neto2 failed to further increase the magnitude
+of GluK1(ATDK2)-mediated enhancement (Fig. 5G), which is
+similar to the regulation of GluK2 by Neto proteins (Fig. 2 E, 1).
+Taken together, these results suggest that the ATDs of GluK1 and
+GluK2 interplay with auxiliary Neto proteins, regulating the KARs’
+surface and synaptic trafficking.
+Fig. 3. The synaptic targeting of GluK2 is dependent on its extracellular ATD region. (A–F) The same experimental design as in Fig. 1 except that indicated various
+GluK1 and GluK2 mutants were used for transfection. (Scale bars for representative
+eEPSC traces, 100 pA and 25 ms.) (G) Logarithm summary of the eEPSC amplitude
+ratios between the experimental and respective control neurons (mean ± SEM) for
+the indicated transfections [(I) GluK1: n = 12, 0.03 ± 0.1; (II) GluK1(CTDK2): n = 19,
+0.28 ± 0.08; (III) GluK1(NK2): n = 23, 0.86 ± 0.07; (IV) GluK1(ATDK2): n = 14, 0.84 ±
+0.09; (V) GluK2: n = 12, 1.25 ± 0.07; (VI) GluK2(CTDK1): n = 21, 0.96 ± 0.06; (VII)
+GluK2(ΔCTD): n = 14, 0.87 ± 0.09; (VIII) GluK2(NK1): n = 16, 0.05 ± 0.05; (IX)
+GluK2(ATDK1): n = 17, 0.06 ± 0.06; I vs. II, *P < 0.05; I vs. III, ***P < 0.0001; I vs.
+IV, ***P < 0.0001; V vs. VI, #
+P < 0.05; V vs. VII, #
+P < 0.05; V vs. VIII, ###P < 0.0001;
+V vs. IX, ###P < 0.0001]. Below are the represented cartoons for the swapped
+domains between GluK1 (blue) and GluK2 (red) proteins. All of the statistical
+analyses were tested with Mann–Whitney u test.
+Fig. 4. The ATD region of GluK2 is critical for synaptic trafficking of GluK2/
+GluK5 heteromeric kainate receptors in CA3 pyramidal neurons. (A–D) The
+same experimental design as in Fig. 1 except that GluK5-IRES-GluK2 (A), GluK5-
+IRES-GluK1 (B), GluK5-IRES-GluK2(ATDK1) (C), and GluK5-IRES-GluK1(ATDK2)
+(D) were used for transfection and CA3 pyramidal neurons were recorded in
+the presence of GYKI53655 (30 μM). (Scale bars for representative eEPSC traces,
+100 pA and 50 ms for A, C, and D and 50 pA and 50 ms for B.) Bar graphs show
+normalized eEPSC amplitudes (mean ± SEM) (A, n = 13, 354.09 ± 74.23%
+control, ***P < 0.0001; B, n = 14, 96.21 ± 12.29% control, P > 0.05; C, n = 13,
+176.38 ± 48.10% control, *P < 0.05; and D, n = 13, 354.09 ± 74.23% control,
+***P < 0.0001) presented in scatter plots. All of the statistical analyses are
+compared with respective control neurons with two-tailed Wilcoxon signedrank sum test. (E) Logarithm summary of the eEPSC amplitude ratios between
+the experimental and respective control neurons (mean ± SEM) for the indicated
+transfections [(I) GluK5-IRES-GluK2: 0.64± 0.06; (II) GluK5-IRES-GluK2TADK1:
+0.21 ± 0.05; (III) GluK5-IRES-GluK1: 0.03 ± 0.06; (IV) GluK5-IRES-GluK1(ATDK2):
+0.49 ± 0.07; I vs. II, ***P < 0.0001; III vs. IV, ***P < 0.0005]. All of the statistical
+analyses are tested with Mann–Whitney u test.
+1162 | www.pnas.org/cgi/doi/10.1073/pnas.1619253114 Sheng et al.
+Discussion
+In this study, we first used the hippocampal CA1 pyramidal neuron
+as a null background system to study the mechanism regulating the
+trafficking of KARs because the Schaffer collateral–CA1 synapses
+lack KAR expression. We find that unlike GluK1, which requires
+the auxiliary subunits Neto1 and Neto2 for surface and synaptic
+trafficking (16, 17), GluK2 extrasynaptic and synaptic trafficking is
+independent of Neto proteins. However, its proper synaptic targeting requires the extracellular ATD region. At the mossy fiber–
+CA3 synapses, which do express KARs, we find that the GluK2
+ATD is also critical for the synaptic targeting of GluK2/GluK5
+heteromeric receptor complexes. Furthermore, we determine that it
+is the ATDs of GluK1 and GluK2 contributing their differential
+dependence on Neto proteins for surface and synaptic trafficking.
+Our results demonstrate the important role of the interplay of the
+KAR ATDs and the Neto auxiliary subunits in controlling the
+surface expression and synaptic incorporation of kainate receptors.
+Consistent with our previous study (16), expressing GluK1 in
+CA1 pyramidal neurons results in very few KAR synaptic and
+surface currents. We interpret this finding as a defect in the forward
+trafficking of GluK1, although it is formally possible that the removal of surface receptors is greatly enhanced. By contrast, the
+expression of GluK2 generates huge responses from outside-out
+patches from the cell body membrane as well as the evoked EPSCs.
+These differences cannot be explained by the biophysical properties
+between GluK1 and GluK2 receptors because the rates of their
+desensitization or deactivation kinetics are very similar (16). Thus,
+the trafficking properties of GluK1 and GluK2 are fundamentally
+different. This finding is consistent with a previous study showing
+that the surface staining intensity of GluK2 is much higher than
+GluK1 when expressed in COS-7 or primary cultured hippocampal
+neurons (23). We also find that when coexpressing GluK5 with
+GluK1 or GluK2 in CA3 cells, the GluK2/GluK5 but not the
+GluK1/GluK5 heteromeric receptors can target to the mossy fiber–
+CA3 synapses, suggesting that the low-affinity KARs may also be
+critical for the expression and localization of the heteromeric receptors. The different trafficking abilities of KARs are presumably
+due to their different amino acid sequences (30, 31). Several studies
+have already shown the importance of the CTDs of KARs for
+surface trafficking (23–25, 32, 33), and thus we first examined the
+effects on synaptic expression by swapping the CTDs between
+GluK1 and GluK2. Much to our surprise, we found that the enhancement of synaptic responses mediated by the GluK2(CTDK1)
+or GluK2(ΔCTD) mutated receptor is similar to that seen with the
+wild-type GluK2 receptor. There are several possible reasons underlying the difference between our present observation and previous studies. First, many of the previous experiments (25, 33) were
+carried out in heterologous expression systems in which the regulation of GluK2 trafficking may differ from that in neurons. Consistent with this proposal, it has been reported that in COS-7 cells
+GluK2a, the splicing isoform with a long CTD and used in our
+current studies, traffics to the cell membrane more effectively than
+the shorter isoform GluK2b (23). However, the same study reported
+that the surface expression of the two isoforms is similar in primary
+cultured neurons (23). Second, Yan et al. (25) used a GluK2 mutant
+containing a GFP tag in the ATD. Given the critical role we have
+found for the ATD of GluK2 in trafficking, it is possible that the tag
+may have masked the role of the ATD of GluK2, allowing the role
+of the CTD to be dissected. Consistent with this hypothesis, we
+previously found that the synaptic expression of N-terminal HA or
+Myc tagged-GluK1 is impaired even in the presence of Neto proteins, although they could traffic to the surface successfully (16).
+The knockin studies by Straub et al. (33) suggest that the GluK2
+CTD stabilizes the receptor at synapses and in agreement we also
+find that the GluK2 CTD endows GluK1 with the ability to express
+at synapses. Given that the CTD is not critical for GluK2 synaptic
+trafficking, we focused on the extracellular domains of GluK2.
+Surprisingly, swapping the entire extracellular domains or just
+ATDs between GluK1 and GluK2 fully switches their surface and
+synaptic trafficking abilities. Furthermore, we show here that the
+ATDs of GluK1 and GluK2 determine their differential dependence on auxiliary Neto proteins for trafficking. All these results
+indicate that the ATDs of GluK1 and GluK2 receptors are the
+major determinant for their trafficking. Recently two studies have
+revealed that C1q-like proteins interact with the ATD of GluK2 or
+GluK4 to organize the KARs at mossy fiber–CA3 synapses (33, 34),
+and in accordance, we also find that the ATD of GluK2 is critical
+for the synaptic expression of GluK2/GluK5 heteromeric receptors
+at mossy fiber–CA3 synapses.
+In contrast to GluK1 (16), GluK2 surface and synaptic expression are independent on the auxiliary subunits Neto1 and
+Neto2. A similar conclusion was reached in previous studies
+showing that Neto2 has no effect on GluK2 trafficking in oocytes
+Fig. 5. The ATD region mediates the differential dependence of GluK1 and
+GluK2 synaptic and surface trafficking by Neto proteins. (A and B and D and
+E) The same experimental design as in Fig. 1 except that GluK1(ATDK2)/Neto1
+(A), GluK1(ATDK2)/Neto2 (B), GluK2(ATDK1)/Neto1 (D), and GluK2(ATDK1)/
+Neto2 (E) were used for transfection. (Scale bars for representative eEPSC traces,
+100 pA and 25 ms.) Bar graphs show normalized eEPSC amplitudes (mean ± SEM)
+(A, n = 19, 996.83 ± 122.09% control, ***P < 0.0005; B, n = 17, 650.92 ± 116.38%
+control, ***P < 0.0001; D, n = 19, 315.93 ± 87.69% control, ***P < 0.0005; and
+E, n = 16, 255.71 ± 41.25% control, **P < 0.001) presented in scatter plots. All of
+the statistical analyses are compared with respective control neurons with twotailed Wilcoxon signed-rank sum test. (C and F) Logarithm summary of the eEPSC
+amplitude ratios between the experimental and respective control neurons
+(mean ± SEM) for the indicated transfections [(I) GluK1(ATDK2): 0.84± 0.09; (II)
+GluK1(ATDK2)/Neto1: 0.96 ± 0.08; (III) GluK1(ATDK2)/Neto2: 0.75 ± 0.10; I vs. II,
+P > 0.05; I vs. III, P > 0.05; II vs. III, P > 0.05] (C) and [(IV) GluK2(ATDK1): 0.06 ±
+0.06; (V) GluK2(ATDK1)/Neto1: 0.39 ± 0.07; (VI) GluK2(ATDK1)/Neto2: 0.36 ± 0.07;
+IV vs. V, **P < 0.005; IV vs. VI, **P < 0.005; V vs. VI, P > 0.05] (F). All of the
+statistical analyses were tested with Mann–Whitney u test. (G) Bar graphs show
+the amplitude of wild-type and mutated GluK1 and GluK2 receptor-mediated
+currents (mean ± SEM) from outside-out patches pulled from transfected CA1
+neurons with indicated plasmids and exposed to applications of 10 mM glutamate and 100 μM GYKI53655 [(I) GluK1: n = 10, 81.65 ± 11.26 pA; (II) GluK1/
+Neto2: n = 1022.84 ± 220.74 pA; (III) GluK1(ATDK2): n = 7, 745.43 ± 176.42 pA;
+(IV) GluK1(ATDK2)/Neto2: n = 6, 687.67 ± 138.38 pA; (V) GluK2: n = 8, 1,831.72 ±
+165.44 pA; (VI) GluK2(ATDK1): n = 5, 200.60 ± 58.33 pA; (VII) GluK2(ATDK1)/
+Neto2: n = 7, 901.57 ± 208.07 pA; I vs. II, ***P < 0.0005; I vs. III, ***P < 0.0005;
+III vs. IV, P > 0.05; V vs. VI, **P < 0.005; VI vs. VII, **P < 0.005]. It should be noted
+that the raw data of GluK1 and GluK1/Neto2 are reused from our previous study
+(16). All of the statistical analyses were tested with Mann–Whitney u test. Sample
+traces are shown at Right. (Scale bars, 400 pA and 10 ms.)
+Sheng et al. PNAS | January 31, 2017 | vol. 114 | no. 5 | 1163
+NEUROSCIENCE
+(14) but does promote GluK1 surface expression in HEK cells and
+primary cultured neurons (17). However, the underlying molecular
+mechanism remains unknown. This differential dependence on
+auxiliary subunits for trafficking could not be explained by any
+specific interaction between GluK1 and Neto proteins because we
+find that the biophysical effects of Neto proteins on GluK1 and
+GluK2 are the same (16). Moreover, the decay of GluK2 mEPSCs
+is increased by coexpressed Neto2. All these results indicate that
+GluK2 and Neto proteins indeed interact at both the surface and the
+synapse. It has been reported that it is the extracellular CUB domains of Neto1 and Neto2 that mediate their interaction with GluK2
+(35), but it is unknown how they bind to GluK1 or which domains of
+GluK1 and GluK2 mediate their interactions with Neto proteins.
+Additionally, it has been reported that the extracellular LDLa domain of the Neto proteins is critical for their effects on GluK2 desensitization, but the intracellular C-terminal domain is critical for
+their regulation of GluK2 rectification (36), indicating that Neto
+proteins can regulate KAR function through different domains. We
+report here that the ATDs of GluK1 and GluK2 mediate the differential dependence on Neto proteins for trafficking. It will be of
+interest to identify the detailed structural and molecular basis for the
+difference. Importantly, in the central nervous system, most native
+KARs are heteromeric complexes and the presence of high-affinity
+subunits could affect the function of Neto proteins. Such a scenario
+might explain our finding that Neto2 but not Neto1 slows homomeric GluK2 mEPSC decay time, whereas previous studies indicate
+that Neto1 but not Neto2 is critical for the decay of the slow EPSC
+at mossy fiber–CA3 synapses (21, 35). It would be of interest to study
+further the effects of Neto proteins on the trafficking and biophysical properties of specific heteromeric KAR complexes.
+In summary, this study has characterized the critical role of the
+ATD for KAR trafficking in hippocampal neurons as well as their
+interplay with auxiliary subunit Neto proteins in this process. We
+first selected the Schaffer collateral–CA1 synapse that normally
+does not express KARs, to determine the minimal requirements
+that govern the insertion of KARs into excitatory synapses, and
+further confirm the findings at mossy fiber–CA3 synapses that
+express heteromeric KARs. Our results demonstrate the critical
+role of the extracellular ATD for KAR surface and synaptic expression as well as their contribution to KARs’ differential dependence on Neto proteins for trafficking.
+Materials and Methods
+Experimental Constructs. The cDNAs of rat GluK1, rat GluK2, mouse Neto1,
+and rat Neto2 as well as the GluK1 and GluK2 mutants were subcloned into
+pCAGGS vector for biolistic transfection.
+Electrophysiology in Slice Cultures. All experiments were performed in accordance with established protocols approved by the University of California
+San Francisco Institutional Animal Care and Use Committee. The methods of
+electrophysiology in slice culture in this study are described in SI Text.
+Anatomy Imaging. The method of anatomy imaging in this study is described
+in SI Text.
+Statistical Analysis. Significance of evoked dual whole-cell recordings and
+mEPSC recordings compared with controls was determined using the twotailed Wilcoxon signed-rank sum test. For all experiments involving unpaired
+data, including all outside-out patch data, a Mann–Whitney u test with
+Bonferonni correction for multiple comparisons was used. Paired-pulse ratios and spine densities were analyzed with unpaired t test. Data analysis
+was carried out in Igor Pro (Wavemetrics), Excel (Microsoft), and GraphPad
+Prism (GraphPad Software).
+ACKNOWLEDGMENTS. We thank K. Bjorgan, M. Cerpas, and D. Qin for
+technical assistance and all members of the R.A.N. laboratory for discussion
+of and comments on the manuscript. This work was funded by grants from
+the National Institute of Mental Health (to R.A.N.). Y.S.S. is supported by
+grants from Natural Science Foundation of China (31371061 and 31571060)
+and the Ministry of Science and Technology of China (2014CB942804).
+1. Contractor A, Mulle C, Swanson GT (2011) Kainate receptors coming of age: Milestones of two decades of research. Trends Neurosci 34(3):154–163.
+2. Jane DE, Lodge D, Collingridge GL (2009) Kainate receptors: Pharmacology, function
+and therapeutic potential. Neuropharmacology 56(1):90–113.
+3. Lerma J, Marques JM (2013) Kainate receptors in health and disease. Neuron 80(2):292–311.
+4. Nicoll RA, Schmitz D (2005) Synaptic plasticity at hippocampal mossy fibre synapses.
+Nat Rev Neurosci 6(11):863–876.
+5. Castillo PE, Malenka RC, Nicoll RA (1997) Kainate receptors mediate a slow postsynaptic current in hippocampal CA3 neurons. Nature 388(6638):182–186.
+6. Vignes M, Collingridge GL (1997) The synaptic activation of kainate receptors. Nature
+388(6638):179–182.
+7. Schmitz D, Frerking M, Nicoll RA (2000) Synaptic activation of presynaptic kainate
+receptors on hippocampal mossy fiber synapses. Neuron 27(2):327–338.
+8. Schmitz D, Mellor J, Nicoll RA (2001) Presynaptic kainate receptor mediation of frequency facilitation at hippocampal mossy fiber synapses. Science 291(5510):
+1972–1976.
+9. Lauri SE, et al. (2001) A critical role of a facilitatory presynaptic kainate receptor in
+mossy fiber LTP. Neuron 32(4):697–709.
+10. Contractor A, Swanson G, Heinemann SF (2001) Kainate receptors are involved in
+short- and long-term plasticity at mossy fiber synapses in the hippocampus. Neuron
+29(1):209–216.
+11. Bureau I, Bischoff S, Heinemann SF, Mulle C (1999) Kainate receptor-mediated responses
+in the CA1 field of wild-type and GluR6-deficient mice. J Neurosci 19(2):653–663.
+12. Granger AJ, Shi Y, Lu W, Cerpas M, Nicoll RA (2013) LTP requires a reserve pool of
+glutamate receptors independent of subunit type. Nature 493(7433):495–500.
+13. Copits BA, Swanson GT (2012) Dancing partners at the synapse: Auxiliary subunits
+that shape kainate receptor function. Nat Rev Neurosci 13(10):675–686.
+14. Zhang W, et al. (2009) A transmembrane accessory subunit that modulates kainatetype glutamate receptors. Neuron 61(3):385–396.
+15. Straub C, Tomita S (2012) The regulation of glutamate receptor trafficking and
+function by TARPs and other transmembrane auxiliary subunits. Curr Opin Neurobiol
+22(3):488–495.
+16. Sheng N, Shi YS, Lomash RM, Roche KW, Nicoll RA (2015) Neto auxiliary proteins
+control both the trafficking and biophysical properties of the kainate receptor GluK1.
+Elife 4:e11682.
+17. Copits BA, Robbins JS, Frausto S, Swanson GT (2011) Synaptic targeting and functional
+modulation of GluK1 kainate receptors by the auxiliary neuropilin and tolloid-like
+(NETO) proteins. J Neurosci 31(20):7334–7340.
+18. Palacios-Filardo J, Aller MI, Lerma J (2016) Synaptic targeting of kainate receptors.
+Cereb Cortex 26(4):1464–1472.
+19. Straub C, Zhang W, Howe JR (2011) Neto2 modulation of kainate receptors with
+different subunit compositions. J Neurosci 31(22):8078–8082.
+20. Fisher JL, Mott DD (2013) Modulation of homomeric and heteromeric kainate receptors by the auxiliary subunit Neto1. J Physiol 591(19):4711–4724.
+21. Straub C, et al. (2011) Distinct functions of kainate receptors in the brain are determined by the auxiliary subunit Neto1. Nat Neurosci 14(7):866–873.
+22. Bleakman D, et al. (1996) Activity of 2,3-benzodiazepines at native rat and recombinant human glutamate receptors in vitro: Stereospecificity and selectivity
+profiles. Neuropharmacology 35(12):1689–1702.
+23. Jaskolski F, et al. (2004) Subunit composition and alternative splicing regulate
+membrane delivery of kainate receptors. J Neurosci 24(10):2506–2515.
+24. Ren Z, et al. (2003) Cell surface expression of GluR5 kainate receptors is regulated by
+an endoplasmic reticulum retention signal. J Biol Chem 278(52):52700–52709.
+25. Yan S, et al. (2004) A C-terminal determinant of GluR6 kainate receptor trafficking.
+J Neurosci 24(3):679–691.
+26. Mulle C, et al. (1998) Altered synaptic physiology and reduced susceptibility to kainate-induced seizures in GluR6-deficient mice. Nature 392(6676):601–605.
+27. Fernandes HB, et al. (2009) High-affinity kainate receptor subunits are necessary for
+ionotropic but not metabotropic signaling. Neuron 63(6):818–829.
+28. Christensen JK, Paternain AV, Selak S, Ahring PK, Lerma J (2004) A mosaic of functional kainate receptors in hippocampal interneurons. J Neurosci 24(41):8986–8993.
+29. Fisher MT, Fisher JL (2014) Contributions of different kainate receptor subunits to the
+properties of recombinant homomeric and heteromeric receptors. Neuroscience 278:70–80.
+30. Coussen F (2009) Molecular determinants of kainate receptor trafficking. Neuroscience
+158(1):25–35.
+31. Jaskolski F, Coussen F, Mulle C (2005) Subcellular localization and trafficking of kainate receptors. Trends Pharmacol Sci 26(1):20–26.
+32. Ren Z, et al. (2003) Multiple trafficking signals regulate kainate receptor KA2 subunit
+surface expression. J Neurosci 23(16):6608–6616.
+33. Straub C, et al. (2016) Distinct subunit domains govern synaptic stability and specificity of the kainate receptor. Cell Reports 16(2):531–544.
+34. Matsuda K, et al. (2016) Transsynaptic modulation of kainate receptor functions by
+C1q-like proteins. Neuron 90(4):752–767.
+35. Tang M, et al. (2011) Neto1 is an auxiliary subunit of native synaptic kainate receptors. J Neurosci 31(27):10009–10018.
+36. Fisher JL, Mott DD (2012) The auxiliary subunits Neto1 and Neto2 reduce voltagedependent inhibition of recombinant kainate receptors. J Neurosci 32(37):12928–12933.
+1164 | www.pnas.org/cgi/doi/10.1073/pnas.1619253114 Sheng et al.

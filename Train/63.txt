@@ -1,0 +1,587 @@
+Correction
+NEUROSCIENCE, PHYSICS
+Correction for “Optical magnetic detection of single-neuron
+action potentials using quantum defects in diamond,” by John
+F. Barry, Matthew J. Turner, Jennifer M. Schloss, David R. Glenn,
+Yuyu Song, Mikhail D. Lukin, Hongkun Park, and Ronald
+L. Walsworth, which was first published November 22, 2016; 10.1073/
+pnas.1601513113 (Proc Natl Acad Sci USA 113:14133–14138).
+The authors note that, due to a printer’s error, the following text published incorrectly: on page 14137, left column,
+first paragraph, line 8, “34 nT·μm−3/2·Hz−1/2” should instead appear as “34 nT·μm3/2·Hz−1/2”; in the same paragraph, line 9,
+“118 pT·μm−3/2·Hz−1/2” should instead appear as “118 pT·μm3/2·Hz−1/2”;
+and in the subsequent paragraph, line 7, “118 pT·μm−3/2·Hz−1
+”
+should instead appear as “118 pT·μm3/2·Hz−1/2.”
+www.pnas.org/cgi/doi/10.1073/pnas.1712523114
+E6730 | PNAS | August 8, 2017 | vol. 114 | no. 32 www.pnas.org
+Optical magnetic detection of single-neuron action
+potentials using quantum defects in diamond
+John F. Barrya,b,c, Matthew J. Turnerb,c, Jennifer M. Schlossc,d, David R. Glenna,b,c, Yuyu Songe,f,g,h, Mikhail D. Lukinb
+,
+Hongkun Parkb,c,i,j, and Ronald L. Walswortha,b,c,1
+a
+Harvard-Smithsonian Center for Astrophysics, Cambridge, MA 02138; b
+Department of Physics, Harvard University, Cambridge, MA 02138; c
+Center for Brain
+Science, Harvard University, Cambridge, MA 02138; d
+Department of Physics, Massachusetts Institute of Technology, Cambridge, MA 02139; e
+Marine
+Biological Laboratory, Woods Hole, MA 02543; f
+Department of Genetics, Yale School of Medicine, New Haven, CT 06510; g
+Howard Hughes Medical
+Institute, Yale School of Medicine, New Haven, CT 06510; h
+Harvard Program in Therapeutic Science, Department of Systems Biology, Harvard Medical
+School, Boston, MA 02115; i
+Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA 02138; and j
+Broad Institute of MIT and
+Harvard, Cambridge, MA 02142
+Edited by Mark J. Schnitzer, Howard Hughes Medical Institute, Stanford University, Stanford, CA, and accepted by Editorial Board Member Gina G. Turrigiano
+October 27, 2016 (received for review January 27, 2016)
+Magnetic fields from neuronal action potentials (APs) pass largely
+unperturbed through biological tissue, allowing magnetic measurements of AP dynamics to be performed extracellularly or even
+outside intact organisms. To date, however, magnetic techniques
+for sensing neuronal activity have either operated at the macroscale
+with coarse spatial and/or temporal resolution—e.g., magnetic resonance imaging methods and magnetoencephalography—or been
+restricted to biophysics studies of excised neurons probed with
+cryogenic or bulky detectors that do not provide single-neuron
+spatial resolution and are not scalable to functional networks or
+intact organisms. Here, we show that AP magnetic sensing can be
+realized with both single-neuron sensitivity and intact organism
+applicability using optically probed nitrogen-vacancy (NV) quantum defects in diamond, operated under ambient conditions and
+with the NV diamond sensor in close proximity (∼10 μm) to the
+biological sample. We demonstrate this method for excised single
+neurons from marine worm and squid, and then exterior to intact,
+optically opaque marine worms for extended periods and with no
+observed adverse effect on the animal. NV diamond magnetometry is noninvasive and label-free and does not cause photodamage.
+The method provides precise measurement of AP waveforms from
+individual neurons, as well as magnetic field correlates of the AP
+conduction velocity, and directly determines the AP propagation
+direction through the inherent sensitivity of NVs to the associated
+AP magnetic field vector.
+nitrogen-vacancy center | magnetometry | action potential | neuron
+Nitrogen-vacancy (NV) color centers are atomic-scale quantum defects that provide high-resolution magnetic field
+sensing (1) and imaging via optically detected magnetic resonance (ODMR) (2), with broad applicability to both physical (3)
+and biological (4–7) systems under ambient conditions. For example, NV diamond ODMR has been used to image patterns of
+static magnetic fields produced by populations of living magnetotactic bacteria (5) and by immunomagnetically labeled tumor
+cells (6), with resolution of ∼1 μm and field-of-view of ∼1 mm. In
+the present study, we use a simple, robust apparatus (Fig. 1) with
+a magnetic field sensor consisting of a macroscopic, single-crystal
+diamond chip with a uniform 13-μm layer containing a high
+density (∼ 3 × 1017 cm−3
+) of NV centers at the top surface. The
+biological specimen is placed on or directly above the NVenriched surface (Fig. 1A), providing micrometer-scale proximity
+between the NV magnetic sensors and the sample, in contrast to
+macroscale sensors used to sense neuronal magnetic fields or
+activity (8–10). Laser light at 532 nm is applied to the sensing NV
+layer through the diamond at a sufficiently shallow angle that the
+light reflects off the top diamond surface (due to total internal
+reflection) and therefore does not irradiate the living sample
+(Fig. 1B). Microwaves (MWs) are applied to the NV sensor via
+a wire loop located above the diamond, with minimal observed
+perturbation to the specimen studied (11, 12) (see SI Appendix).
+Laser-induced fluorescence (LIF) from the NVs is imaged onto a
+photodiode, and continuous-wave electron spin resonance magnetometry (13, 14) is used to detect the magnetic field of a
+propagating action potential (AP) as a time-varying shift in the
+center of the ODMR spectrum, with temporal resolution as good
+as ∼32 μs (see SI Appendix and Fig. S9). We regularly achieve
+magnetic field sensitivity (15–17) η = 15 ± 1 pT/ ffiffiffiffiffiffi
+Hz p from an
+NV sensing volume (Fig. 1C) of about (13 × 200 × 2,000) μm3
+,
+which represents a 20-fold improvement over previous broadband NV diamond magnetometers (18) and provides signal-tonoise ratio (SNR) >1 for a single axonal AP event using matched
+filtering (see SI Appendix). For each biological specimen, we
+typically acquire repeated AP magnetic field measurements, often
+over extended periods of time (hours). Multiple synchronized,
+consecutive AP measurements (Navg) can also be averaged together to increase the AP SNR (see Methods and SI Appendix).
+Results
+We first performed magnetic sensing of single-neuron propagating APs from excised invertebrate giant axons, together with
+simultaneous electrophysiology measurements on the axons as a
+Significance
+We demonstrate noninvasive detection of action potentials
+with single-neuron sensitivity, including in whole organisms.
+Our sensor is composed of quantum defects within a diamond
+chip, which detect time-varying magnetic fields generated by
+action potentials. The sensor is biocompatible and can be
+brought into close proximity to the organism without adverse
+effect, allowing for long-term observation and superior resolution of neuron magnetic fields. Optical magnetic detection
+with quantum defects also provides information about action
+potential propagation that is not easily available with existing
+methods. The quantum diamond technique requires no labeling or genetic modification, allows submillisecond time resolution, does not bleach, and senses through opaque tissue.
+With further development, we expect micrometer-scale magnetic imaging of a variety of neuronal phenomena.
+Author contributions: J.F.B., D.R.G., M.D.L., H.P., and R.L.W. designed research; J.F.B., M.J.T.,
+J.M.S., Y.S., and R.L.W. performed research; J.F.B., M.J.T., and J.M.S. analyzed data; and J.F.B.,
+M.J.T., J.M.S., D.R.G., Y.S., M.D.L., H.P., and R.L.W. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. M.J.S. is a Guest Editor invited by the Editorial
+Board.
+Freely available online through the PNAS open access option.
+1
+To whom correspondence should be addressed. Email: rwalsworth@cfa.harvard.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1601513113/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1601513113 PNAS | December 6, 2016 | vol. 113 | no. 49 | 14133–14138
+NEUROSCIENCE PHYSICS
+comparison and check on the magnetic data. We studied two
+species, with consistent results: the marine fanworm Myxicola
+infundibulum and the North Atlantic longfin inshore squid Loligo
+pealeii—a model organism for neuroscience. Details of specimen preparation, axonal AP stimulation, and electrophysiology
+measurements and simulations are described in Methods and SI
+Appendix. Fig. 2A shows a representative measured intracellular
+axonal AP voltage time trace Φmeas
+in ðtÞfrom M. infundibulum. In a
+simple model of the electromagnetic dynamics of axonal propagating APs (19–21) (see SI Appendix), the magnetic field BðtÞ is
+proportional to the temporal derivative of the intracellular
+voltage ΦinðtÞ: BðtÞ =sð∂Φin=∂tÞ, where s is a scaling constant
+dependent on geometrical parameters (axon radius ra, radial
+distance of the field point to the axon center ρ) and electrophysiological axon parameters (AP conduction velocity vc, axoplasm electrical conductivity σ). As shown in Fig. 2 B and C, we
+find good agreement between (i) BcalcðtÞ, the AP magnetic field
+calculated from Φmeas
+in ðtÞfor a typical value of s for M. infundibulum,
+and (ii) a representative measured AP magnetic field time trace
+BmeasðtÞ. This correspondence demonstrates the consistency of
+NV diamond magnetic AP measurements with standard electrophysiology techniques and theory. Note that the example
+BmeasðtÞ in Fig. 2C has a peak-to-peak amplitude =4.1±0.2 nT
+(mean ± SD for four measurements on the same specimen each
+with Navg = 150; see SI Appendix and Fig. S11A), corresponding
+to an SNR of 1.2±0.1 for a single AP firing, i.e., Navg = 1. Here
+SNR is defined as the ratio of the mean signal peak-to-peak
+amplitude to the root mean square (RMS) noise after matched
+filtering is applied (see SI Appendix for SNR calculation and
+SNR analysis in terms of spike detection probabilities using a
+next-generation neuron magnetic sensor). Furthermore, we
+demonstrated that our method has multispecies capability via
+magnetic sensing of axonal APs from the squid L. pealeii (Fig.
+2D). No change to the apparatus or magnetic sensing protocol is
+required upon switching organisms, and good reproducibility is
+found for both the excised worm and squid axon AP magnetic
+field measurements, on the same and different specimens (see SI
+Appendix and Figs. S10 A and B and S11).
+We next demonstrated single-neuron AP magnetic sensing exterior to a live, intact, opaque organism—an undissected specimen
+of M. infundibulum (Fig. 3A)—for extended periods, with minimal
+adverse effect on the animal. Fig. 3B shows an example measured
+axonal AP magnetic field time trace BmeasðtÞfor a live intact specimen,
+which is a demonstration of single-neuron magnetoencephalography
+A C B
+Fig. 1. Experimental overview. (A) Schematic image depicting bipolar azimuthal magnetic field associated with AP propagating from left to right. Red
+arrows indicate axial current through axon, and blue arrows depict associated magnetic field. Magnetic field projection is detected by 13-μm-thick NV layer on
+diamond substrate. (Inset) NV center energy level diagram; see SI Appendix for details. (B) Custom-built microscope allows simultaneous magnetic sensing and
+conventional imaging of specimens. NV centers are excited by 532-nm laser light oriented at grazing incidence to diamond top surface. Inverted aspheric
+condenser objective collects NV LIF. Magnet applies a uniform 7-G bias field to the diamond. Specimens are placed on top of diamond, and individual APs are
+stimulated by suction electrode and detected downstream via a pair of bipolar recording electrodes. For clarity, wire loop for MW delivery and axon clamp are
+not shown. (C) Top, side, and axial views of NV diamond sensor and specimen. Top view shows sensing region from which LIF is collected, as well as top-down
+projection of the four crystallographic NV axes. AP magnetic field projects onto two NV axes perpendicular to specimen axis. Side view shows 532-nm laser light
+entering diamond at grazing angle and exciting NV layer. Blue arrow in axial view depicts AP magnetic field; black arrows depict NV axes in sensing region.
+A B C D
+Fig. 2. Measured AP voltage and magnetic field from excised single neurons. (A) Measured time trace of AP voltage Φmeas
+in ðtÞ for giant axon from M. infundibulum (worm). (B) Calculated time trace of AP magnetic field Bcalc(t) for M. infundibulum extracted from data in A. (C) Measured time trace of AP
+magnetic field Bmeas(t) for M. infundibulum giant axon with Navg = 600. (D) Measured time trace of AP magnetic field Bmeas(t) for L. pealeii (squid) giant axon
+with Navg = 375. Gray box indicates magnetic artifact from stimulation current.
+14134 | www.pnas.org/cgi/doi/10.1073/pnas.1601513113 Barry et al.
+(MEG) from the exterior of an intact animal. The measured AP
+waveform in Fig. 3B is similar to that of an excised axon (Fig.
+2C), with roughly 4 times smaller peak-to-peak amplitude (∼1
+nT), which is consistent with the separation of ∼1.2 mm from the
+center of the axon inside the animal to the NV sensing layer (see
+transverse sections and diagrams in Fig. 4 A−D, SI Appendix, and
+Fig. S1D). In addition, we recorded BmeasðtÞ from a live intact
+worm after >24 h of continuous exposure to the experimental
+conditions, including applied MWs and optical illumination of
+the diamond sensor. We observed little to no change in the
+magnetic AP signal or in the animal behavior (see SI Appendix
+and Fig. S10C).
+We also used live intact worms to demonstrate the capability
+of NV diamond magnetic sensing to determine the AP propagation direction and sense magnetic signal amplitude differences
+correlated with differences in conduction velocity vc, all from
+a single-channel measurement. NV diamond allows for vector
+magnetometry (22) by sensing the magnetic field projection
+along one or more of the four NV center orientations within the
+diamond crystal lattice (see SI Appendix and Figs. S3 and S4). An
+axonal AP produces a bipolar azimuthal magnetic field waveform, with the time-varying field orientation set by the direction
+of AP propagation (Figs. 1A and 4D). Thus, the measured AP
+magnetic field time trace BmeasðtÞ from an intact worm has an
+inverted waveform for anterior versus posterior AP stimulation,
+demonstrating clear distinguishability between oppositely propagating APs, as shown in Fig. 4 E and F, for three intact specimens (denoted worms F, G, and H) with both posterior and
+anterior stimulation, each with Navg = 1,650 trials.
+In addition to inversion of the BmeasðtÞ waveform upon reversal
+of the AP propagation direction, an asymmetry is observed in the
+peak-to-peak amplitude of the magnetic signal. As shown in Fig.
+4 E and F, larger peak-to-peak values of BmeasðtÞ are found for
+posterior stimulation (denoted Bp) than for anterior stimulation
+(Ba) for each of the three worms tested: Bp=Ba = 1.66±0.12 for
+worm F, 1.28±0.09 for worm G, and 1.27±0.10 for worm H
+(mean ± SD for 1,650 trials for each sample). One-tailed P
+values from a Student’s t test for the three samples are
+1.3 × 10−8
+, 9.9 × 10−4
+, and 2.9 × 10−3
+, respectively. The average asymmetry is Bp=Ba = 1.41 ±0.22 (mean ± SD for three
+samples). The asymmetry is independent of which point of
+stimulation (posterior or anterior) is tested first, and the effect is
+robust under multiple switches of stimulation (e.g., posterior,
+anterior, then posterior again).
+To understand the origin of the observed asymmetry of BmeasðtÞ
+with AP propagation direction, we (i) performed electrophysiology measurements of ΦinðtÞ and vc with both posterior and
+anterior stimulation (see Methods, SI Appendix, and Fig. S2);
+(ii) related the magnetic and electrophysiology data via the
+simple magnetic model (see above and SI Appendix), which
+predicts Bp=Ba = vc,a=vc,p × ð∂Φp=∂tÞ=ð∂Φa=∂tÞ for measurements
+taken at a fixed location z0; and (iii) performed numerical simulations of APs using a model of the M. infundibulum giant axon
+(see SI Appendix). Here, vc,p and vc,a are the conduction velocities
+for posterior and anterior stimulation, respectively, and ð∂Φp=∂tÞ
+and ð∂Φa=∂tÞ are the respective maximal temporal derivatives of
+the intracellular AP ΦinðtÞ. From electrophysiology measurements
+(detailed in SI Appendix), we find a significant difference between
+vc,p and vc,a resulting in vc,a=vc,p × ð∂Φp=∂tÞ=ð∂Φa=∂tÞ= 1.35±0.25
+(mean ± SD), which is consistent with the ratio of Bp=Ba measured
+with NV diamond magnetometry. Previous calculations based on
+cable theory (23) suggest that such asymmetry in vc [and hence
+BmeasðtÞ] is expected for axons exhibiting a tapered radius over
+their length, as is the case for the giant axon in M. infundibulum
+(24). To investigate whether tapered morphology contributes to
+the observed Bp=Ba asymmetry, we performed simulations based
+on cable theory (NEURON software) (25) of APs in a model
+tapered axon with geometrical and electrophysiological properties
+consistent with typical values for M. infundibulum (see Methods
+and SI Appendix). We find propagation-direction−dependent
+asymmetry for both vc and ∂Φ=∂t at the midpoint of the model
+axon with vc,a=vc,p × ð∂Φp=∂tÞ=ð∂Φa=∂tÞ= 1.4, which is consistent with the asymmetry observed in NV diamond magnetic
+measurements and electrophysiology measurements of APs in
+M. infundibulum. These results demonstrate the capability of our
+technique to measure small differences in magnetic signal
+waveforms correlated with differences in conduction velocity,
+which, in the present study, have contributions from differences
+in axon morphology.
+Discussion
+In the present work, we exploit two key advantages of NV diamond for magnetic sensing of living biological systems—ability
+to bring the NV sensors into close proximity to the signal source
+and operation under ambient conditions (biocompatibility)—
+to demonstrate single-neuron axonal AP magnetic sensing within
+∼10 μm of the specimens. By comparison, sensitive superconducting quantum interference devices (SQUIDs) (8) and
+atomic (26) magnetometers used for MEG (9) and neuron biophysics studies typically operate with standoff distances of several millimeters or more from the biological sample, as they
+function under extreme temperature conditions (cryogenic and
+heated, respectively) and have extended sensor geometries. Although SQUIDS can operate with sensitivity of ∼1 fT/ ffiffiffiffiffiffi
+Hz p (27),
+the much closer proximity of the NV diamond sensor to the
+neuronal signal source boosts the measurement SNR by several
+orders of magnitude for a given magnetic field sensitivity (see SI
+Appendix) and, additionally, for a given SNR, enables a higherquality reconstruction of source currents from a magnetic field
+map (28). Furthermore, operation of an NV magnetometer at a
+distance much closer than the AP wavelength λAP (of order
+∼1 mm for unmyelinated mammalian axons) (29, 30) can provide
+a more accurate determination of AP currents due to the reduced
+A
+B
+Fig. 3. Single-neuron AP magnetic sensing exterior to live, intact organism.
+(A) Overhead view of intact living specimen of M. infundibulum (worm) on
+top of NV diamond sensor. In configuration shown, animal is stimulated from
+posterior end by suction electrode, APs propagate toward worm’s anterior end,
+and bipolar electrodes confirm AP stimulation and propagation. (Scale bar,
+20 mm.) (B) Recorded time trace of single-neuron AP magnetic field Bmeas(t)
+from live intact specimen of M. infundibulum for Navg = 1,650 events.
+Barry et al. PNAS | December 6, 2016 | vol. 113 | no. 49 | 14135
+NEUROSCIENCE PHYSICS
+contribution from extracellular return currents (30), which significantly attenuate AP signals at standoff distances J λAP. A third
+key advantage of NV diamond technology is straightforward
+parallelization of optically detected NV sensors to provide widefield magnetic imaging with micrometer-scale spatial resolution,
+e.g., by imaging fluorescence from the NV sensing layer onto a
+camera (5). In combination with close proximity, the high spatial
+resolution provided by NV diamond magnetic imaging enables
+sensitivity to magnetic fields generated by currents on small length
+scales (31), which tend to cancel at the typical standoff distances of
+other magnetometers. With both source-to-sensor standoff distance and spatial resolution at the micrometer scale, a wide variety
+of neuronal current sources and sinks could be resolvable with NV
+diamond magnetic imaging (see SI Appendix).
+Key technical challenges to realize a next-generation NV diamond magnetic imager suitable for neuroscience applications
+include (i) improving the magnetic field sensitivity (32, 33) to
+enable real-time, single axonal AP event detection from individual mammalian neurons, which are expected to generate peak
+AP magnetic fields up to ∼1 nT at the NV sensor layer (see SI
+Appendix); and (ii) incorporating wide-field imaging of transient
+AP magnetic fields with micrometer-scale resolution. The imaging
+challenge can be met by adapting established NV techniques for
+wide-field imaging of static magnetic fields in biological samples
+(5, 6) to be able to acquire repeated, fast (<0.1 ms) images. This
+capability can then be integrated with tomographic methods
+similar to those used in MEG (9, 34, 35), such as spatial filtering
+(28, 36), to confront the inverse problem (37) of assigning measured magnetic waveforms from axonal APs, soma, and other
+neuronal processes to individual cells within a crowded field of
+neurons (see SI Appendix and Fig. S14). Prior knowledge about
+the neuronal sample, such as the cell network geometry, axon
+morphology, and degree of myelination, could aid magnetic signal
+localization as well as determination of the physiological origin of
+A
+D
+C
+B
+E F
+Fig. 4. Single-channel magnetic sensing of AP propagation exterior to live, intact organism. Transverse sections of M. infundibulum near midpoint of worm
+illustrate giant axon radius tapering from (A) smaller near posterior to (B) larger near anterior. Sections were taken ∼1 cm apart. Encircled white structure is
+giant axon. (Scale bars, 400 μm.) (C) Cartoon cross-section side view of live, intact worm and NV diamond sensor. Black dashed lines indicate tapered giant
+axon. Cartoon time traces of AP voltage indicate they are typically qualitatively indistinguishable for posterior stimulation (right-propagating AP) and anterior stimulation (left-propagating AP). (D) Cartoon cross-section axial view looking from anterior end. Blue arrows encircling axon indicate opposite azimuthal AP magnetic field vectors for oppositely propagating APs. (E) (Top) Expected AP magnetic field time trace for posterior AP stimulation of
+M. infundibulum, indicating effect of AP propagation direction and conduction velocity on sign of bipolar magnetic field waveform and magnetic field amplitude. (Bottom) Recorded time trace of AP magnetic field Bmeas(t) from three live intact specimens of M. infundibulum for posterior stimulation and Navg =
+1,650 events each. (F) (Top) Expected AP magnetic field time trace for anterior worm stimulation. (Bottom) Recorded time trace of AP magnetic field Bmeas(t)
+from same three intact live specimens of M. infundibulum as in E for anterior stimulation and Navg = 1,650 events each. Note that the observed sign of Bmeas(t)
+is reversed depending on AP propagation direction, and the average ratio of the magnetic signal amplitude of posterior-stimulated APs (Bp) and anteriorstimulated APs (Ba) from the three specimens shown (worms F, G, and H) is Bp/Ba = 1.41 ± 0.22 (mean ± SD for three samples, each with Navg = 1,650),
+consistent with two-point electrophysiology measurements of lower AP conduction velocity for posterior stimulation (see SI Appendix and Fig. S2).
+14136 | www.pnas.org/cgi/doi/10.1073/pnas.1601513113 Barry et al.
+signal differences between individual neurons, e.g., arising from
+variations in AP conduction velocity (see SI Appendix). The sensitivity challenge can be addressed by engineering optimized diamonds (38) with higher N-to-NV conversion efficiency and longer
+spin-dephasing times Tp
+2 (39), and by implementing pulsed Ramsey
+(40) and double-quantum (41, 42) measurement protocols: The
+volume-normalized sensitivity is expected to be enhanced nearly
+300-fold from the present 34 nT·μm−3/2·Hz−1/2 to an estimated
+118 pT·μm−3/2·Hz−1/2, and the temporal resolution is expected
+to reach ∼2 μs (43) (see SI Appendix). Along with the anticipated
+sensitivity improvement, the smaller sensing volume V of a nextgeneration instrument should yield a ∼6,000-fold gain in the figure
+of merit 1=ðηVÞ relevant for fields containing spatial information,
+such as is expected from dense neuronal networks (see SI Appendix).
+To realize further sensitivity enhancements, quantum-assisted
+techniques (41, 42, 44, 45) could enable measurements approaching
+fundamental quantum limits. Our present NV diamond instrument
+has a photon shot-noise-limited magnetic field sensitivity ∼1,500
+times worse than the quantum spin projection limit (see SI Appendix), highlighting the potential for large sensitivity gains. For example, it was recently demonstrated that spin-to-charge-state readout
+for single NV centers provides enhanced magnetic field sensitivity
+that is only a factor of 3 above the spin projection limit (46).
+The sensitivity and imaging challenges are related, as there are
+trade-offs between magnetic field sensitivity and spatial and
+temporal resolution for a given NV density in the sensor layer
+(47). To assess these trade-offs to inform future studies, we
+calculated the expected spatial resolution and SNR of a nextgeneration NV diamond magnetic imager with a projected volume-normalized sensitivity of 118 pT·μm−3/2·Hz−1 when sensing
+propagating APs from mammalian neurons (see SI Appendix and
+Fig. S13). Note that the optimal resolution and SNR for a given
+sensitivity depend on the nature, number, and spacing of current
+sources being measured. As an example, we simulated expected
+magnetic field maps of AP signals from multiple overlapping
+mammalian axons with added fluctuations due to magnetometer
+shot noise, and then performed modest spatial filtering of the
+simulated data to demonstrate the capability for enhanced SNR
+with image processing (see SI Appendix, Fig. S14). Furthermore,
+the flexibility afforded by optical readout allows further optimization of the SNR of single AP events through more advanced
+spatial and temporal filtering methods (48) (see SI Appendix). For
+the next-generation NV diamond magnetic imager discussed here,
+we expect to achieve a single-shot SNR J 10 for single axonal AP
+events and to distinguish magnetic signals in mammalian neuronal
+systems with an average spacing between neurons of ∼10 μm.
+We envision the next-generation NV diamond magnetic imager
+being applicable to noninvasive monitoring of AP activity and
+neuronal currents in a broad range of systems, including species
+for which genetic encoding and viral transduction of voltage-sensitive proteins is not currently practical. A possible near-term
+application, which exploits the capability of NV diamond to provide magnetic sensing with a few micrometers’ proximity to a biological sample, is mapping spatial variations in axonal magnetic
+fields, e.g., due to changes in AP conduction velocity affected by
+demyelinating diseases such as multiple sclerosis (49). In addition,
+NV diamond magnetic imaging could be combined with optical
+stimulation methods (50) to provide individual neuron-targeted
+excitation and noninvasive AP detection, enabling longitudinal
+studies of environmental and developmental effects (51, 52), as
+well as tests of models used to interpret conventional MEG signals
+from macroscopic brain circuits. When the sensor-to-source distance is well characterized, measurement of the magnetic field can
+give a more direct determination of axonal current than a measurement of voltage, as the former does not require assuming a
+fixed conduction velocity, the calculation of temporal derivatives, or
+any additional prior knowledge of electrophysiological parameters
+such as neuronal or bath conductivities (see SI Appendix). Thus,
+a next-generation NV diamond magnetic imager could be used
+to map the spatial and temporal profiles of currents in tapered
+axons, bifurcations of neuronal structures, and many other
+neuronal processes of nontrivial shape. With further advances in
+NV diamond magnetic field sensitivity, it may also be possible to
+measure current flow through nonaxonal processes such as the
+soma and dendrites, which may add insight to the present understanding of the role of such phenomena in AP initiation and
+computing in complex neuronal systems (53, 54).
+Methods
+M. infundibulum Properties and Acquisition. M. infundibulum specimens
+possess a large giant axon (24), are readily available year-round, and can be
+kept for long periods of time in laboratory environments. The giant axon
+mediates a rapid escape reflex; electrical or physical stimulus elicits a violent
+muscular contraction, which can shorten the worm by 50% or more compared with the relaxed state. Specimens are obtained from a commercial supplier (Gulf of Maine Inc.) or a research laboratory (University of
+California, Davis, Bodega Bay Marine Biology Laboratory). Worms are housed
+in a 208-L aquarium filled with artificial seawater (ASW) from a commercial
+supplier (Instant Ocean Sea Salt), and the temperature is stabilized to 7.5 ±
+0.5 °C. Worms are fed a plankton-based food source (Sera Marin Coraliquid)
+every 14 d. Large specimens of length ∼60 mm and diameter >5 mm (both
+measured when fully contracted) are used in the magnetic measurements.
+Electrophysiology measurements (55) use worms of length >30 mm and diameter >3.5 mm.
+M. infundibulum Specimen Preparation and AP Stimulation. For studies of the
+excised giant axon of M. infundibulum, a modified version of the Binstock
+and Goldman method is followed (56). (i) The ventral side of M. infundibulum is identified by a triangular structure on the thorax (57). (ii) The
+worm is pinned ventral side down in a glass dish spray-painted flat black
+(Krylon Ultra Flat Black #1602) and filled with polydimethylsiloxane (PDMS)
+(Dow Corning Sylgard 184). The specimen is illuminated with broadband
+white light at a shallow grazing angle. The painted dish and lighting increase contrast between the axon and the surrounding tissue for better
+visibility. The preparation is submerged in chilled ASW throughout. (iii) A
+median dorsal incision of length ∼2 cm is made through the body wall at the
+midsection of the animal. Further cuts sever connective tissue between the
+body wall and the gut. (iv) The freed body wall is pinned to the PDMS away
+from the axon with substantial tension (see ref. 56). (v) The gut is partially
+lifted (vertically up) from the body wall, allowing fine vanassas scissors to cut
+the connective tissue connecting the gut to the body wall. The gut is excised
+from the specimen, revealing the dorsal side of the ventral nerve cord
+containing the giant axon. (vi) The ventral blood vessels and additional
+tissue close to the axon are carefully stripped away with fine forceps, further
+exposing the nerve cord as shown in SI Appendix, Fig. S1 A and B. (vii) Additional cuts through the body wall remove tissue around the nerve cord as
+shown in SI Appendix, Fig. S1C. (viii) The excised nerve cord (still connected
+to the undissected worm anterior and posterior) is then placed dorsal side
+down on the diamond sensor chip. In this configuration, the worm is alive,
+and AP firing can continue for 72 h or longer. A flexible acrylic clamp holds
+the nerve cord fixed against the diamond chip to restrain the worm’s muscle
+contractions (58). Axon viability is checked periodically through physical or
+electrical stimulus at the worm posterior and confirmation of muscle response
+at the worm anterior. For studies of intact specimens of M. infundibulum, the
+worm is cleaned of accumulated mucus and placed in an acrylic jig to fix the
+dorsal side of the animal closest to the NV layer of the diamond. For both
+excised axons and live, intact worms, the specimen preparation is continuously
+perfused with 10 °C ASW with a gaseous solute of 99.5% O2 and 0.5% CO2.
+APs are evoked by a current pulse of duration Δtstim by a suction electrode
+engaging either the specimen posterior or anterior, and driven by an isolated pulse stimulator (A-M Systems Model 2100) producing biphasic pulses
+(positive polarity first) with 10-mA amplitude. Posterior stimulation is used
+unless otherwise noted. The value of Δtstim is typically set to twice the
+stimulation threshold, and ranges from 100 μs to 1 ms depending on the size
+and health of the organism and the degree of contact between the worm
+body and the suction electrode. Stimulation pulses are applied at repetition
+rate fstim ≈0.4 Hz. Successful AP stimulation and propagation are verified
+with a pair of bipolar platinum recording microelectrodes (World Precision
+Instruments PTM23B10 or PTM23B05) connected to a differential amplifier
+(A-M Systems Model 1800 Headstage), which is further amplified (A-M
+Systems Model 1800) and then digitized (National Instruments USB-6259) at
+250 kHz. For the intact worm studies, the same recording electrodes are
+Barry et al. PNAS | December 6, 2016 | vol. 113 | no. 49 | 14137
+NEUROSCIENCE PHYSICS
+gently positioned in contact with the worm skin near the axon, allowing
+verification of AP propagation. Care is taken to not puncture the skin to
+avoid damaging the specimen.
+L. pealeii Acquisition, Preparation, and AP Stimulation. Specimens of L. pealeii
+are acquired seasonally from the Marine Biological Laboratory in Woods
+Hole, MA, with medium to large squid (0.3 m to 0.5 m in overall length)
+chosen for the present studies. Following decapitation of the squid, the
+postsynaptic giant axons are isolated following the protocol described in ref.
+59. The axons are placed in vials containing calcium-free saline solution and
+stored on ice. The iced vials are transported from Woods Hole to our laboratory at Harvard University (90-min drive). The isolated axons maintain viability for up to 12 h after initial excision. For studies of the excised giant
+axon of L. pealeii, a squid buffer solution (475 mM NaCl, 115 mM MgCl2,
+10 mM CaCl2, 10 mM KCl, 3 mM NaHCO3, and 10 mM Hepes) chilled to 10 °C
+perfuses the axon. AP stimulation and extracellular voltage detection is accomplished through the same methods used for M. infundibulum, save for
+an increase in the stimulation repetition rate fstim. The squid giant axon can
+be fired as often as 100 Hz without reducing detected AP signal quality. For
+increased longevity of squid axons, stimulation is applied at fstim =25 Hz for
+15 s followed by a rest period of 15 s.
+Statistical Analysis. P values < 0.05 are taken to be significant.
+ACKNOWLEDGMENTS. We thank M. L. Markham and H. Dhillon of Element
+Six for diamond samples; E. R. Soucy and J. Greenwood for machining assistance and electrophysiology advice; M. W. Painter for dissection assistance;
+S. G. Turney, M. G. Shapiro, P. Ramesh, and H. Davis for technical guidance;
+D. Bowman and B. Faulkner-Jones of Beth Israel Deaconess Medical Center
+for tissue processing and imaging of transverse sections; the Grass Foundation
+for L. pealeii specimens and support; and the Harvard Center for Brain Science
+for infrastructure and support. J.M.S. was supported by a Fannie and John
+Hertz Foundation Graduate Fellowship and a National Science Foundation
+(NSF) Graduate Research Fellowship under Grant 1122374. This work was financially supported by the Defense Advanced Research Projects Agency Quantum
+Assisted Sensing and Readout (DARPA QuASAR) program, the Army Research
+Office Multidisciplinary University Research Initiative (ARO MURI) biological
+transduction program, the NSF, and the Smithsonian Institution.
+1. Arai K, et al. (2015) Fourier magnetic imaging with nanoscale resolution and compressed sensing speed-up using electronic spins in diamond. Nat Nanotechnol 10(10):
+859–864.
+2. Doherty MW, et al. (2013) The nitrogen-vacancy colour centre in diamond. Phys Rep
+528(1):1–45.
+3. Fu RR, et al. (2014) Paleomagnetism. Solar nebula magnetic fields recorded in the
+Semarkona meteorite. Science 346(6213):1089–1092.
+4. Kucsko G, et al. (2013) Nanometre-scale thermometry in a living cell. Nature
+500(7460):54–58.
+5. Le Sage D, et al. (2013) Optical magnetic imaging of living cells. Nature 496(7446):
+486–489.
+6. Glenn DR, et al. (2015) Single-cell magnetic imaging using a quantum diamond microscope. Nat Methods 12(8):736–738.
+7. Lovchinsky I, et al. (2016) Nuclear magnetic resonance detection and spectroscopy of
+single proteins using quantum logic. Science 351(6275):836–841.
+8. Wikswo JP, Barach JP, Freeman JA (1980) Magnetic field of a nerve impulse: First
+measurements. Science 208(4439):53–55.
+9. Hämäläinen M, Hari R, Ilmoniemi RJ, Knuutila J, Lounasmaa OV (1993) Magnetoencephalography—Theory, instrumentation, and applications to noninvasive studies
+of the working human brain. Rev Mod Phys 65(2):413–497.
+10. Sundaram P, et al. (2016) Direct neural current imaging in an intact cerebellum with
+magnetic resonance imaging. Neuroimage 132:477–490.
+11. Wang Z, van Dorp R, Weidema AF, Ypey DL (1991) No evidence for effects of mild
+microwave irradiation on electrophysiological and morphological properties of cultured embryonic rat dorsal root ganglion cells. Eur J Morphol 29(3):198–206.
+12. Shapiro MG, Priest MF, Siegel PH, Bezanilla F (2013) Thermal mechanisms of millimeter wave stimulation of excitable cells. Biophys J 104(12):2622–2628.
+13. Dréau A, et al. (2011) Avoiding power broadening in optically detected magnetic
+resonance of single NV defects for enhanced dc magnetic field sensitivity. Phys Rev B
+84(19):195–204.
+14. Shin CS, et al. (2012) Room-temperature operation of a radiofrequency diamond
+magnetometer near the shot-noise limit. J Appl Phys 112(12):124519.
+15. Schoenfeld RS, Harneit W (2011) Real time magnetic field sensing and imaging using
+a single spin in diamond. Phys Rev Lett 106(3):030802.
+16. Pham LM (2013) Magnetic field sensing with nitrogen-vacancy color centers in diamond. PhD thesis (Harvard Univ, Cambridge, MA).
+17. Le Sage D, et al. (2012) Efficient photon detection from color centers in a diamond
+optical waveguide. Phys Rev B 85(12):121202.
+18. Clevenson H, et al. (2015) Broadband magnetometry and temperature sensing with a
+light-trapping diamond waveguide. Nat Phys 11(5):393–397.
+19. Swinney KR, Wikswo JP, Jr (1980) A calculation of the magnetic field of a nerve action
+potential. Biophys J 32(2):719–731.
+20. Roth BJ, Wikswo JP, Jr (1985) The magnetic field of a single axon. A comparison of
+theory and experiment. Biophys J 48(1):93–109.
+21. Wikswo JP, Jr, Roth BJ (1988) Magnetic determination of the spatial extent of a single
+cortical current source: A theoretical analysis. Electroencephalogr Clin Neurophysiol
+69(3):266–276.
+22. Budker D, Romalis M (2007) Optical magnetometry. Nat Phys 3(4):227–234.
+23. Goldstein SS, Rall W (1974) Changes of action potential shape and velocity for
+changing core conductor geometry. Biophys J 14(10):731–757.
+24. Nicol JAC (1948) The giant nerve-fibres in the central nervous system of Myxicola
+(Polychaeta, Sabellidae). Q J Microsc Sci 89(Pt 1):1–45.
+25. Hines ML, Carnevale NT (1997) The NEURON simulation environment. Neural Comput
+9(6):1179–1209.
+26. Kim K, et al. (2014) Multi-channel atomic magnetometer for magnetoencephalography:
+A configuration study. Neuroimage 89:143–151.
+27. Drung D, et al. (2007) Highly sensitive and easy-to-use SQUID sensors. IEEE Trans Appl
+Supercond 17(2):699–704.
+28. Tan S, Roth BJ, Wikswo JP, Jr (1990) The magnetic field of cortical current sources: The
+application of a spatial filtering model to the forward and inverse problems.
+Electroencephalogr Clin Neurophysiol 76(1):73–85.
+29. Cotman CW, McGaugh JL (1980) Behavioral Neuroscience: An Introduction (Academic,
+Cambridge, MA).
+30. Woosley JK, Roth BJ, Wikswo JP (1985) The magnetic field of a single axon: A volume
+conductor model. Math Biosci 76(1):1–36.
+31. Pham LM, et al. (2011) Magnetic field imaging with nitrogen-vacancy ensembles. New
+J Phys 13(4):045021.
+32. Wolf T, et al. (2015) Subpicotesla diamond magnetometry. Phys Rev X 5(4):041001.
+33. Jensen K, et al. (2014) Cavity-enhanced room-temperature magnetometry using absorption by nitrogen-vacancy centers in diamond. Phys Rev Lett 112(16):160802.
+34. Sarvas J (1987) Basic mathematical and electromagnetic concepts of the biomagnetic
+inverse problem. Phys Med Biol 32(1):11–22.
+35. Ahonen AI, et al. (1993) Sampling theory for neuromagnetic detector arrays. IEEE
+Trans Biomed Eng 40(9):859–869.
+36. Roth BJ, Sepulveda NG, Wikswo JP (1989) Using a magnetometer to image a twodimensional current distribution. J Appl Phys 65(1):361–372.
+37. Parker RL (1977) Understanding inverse theory. Annu Rev Earth Planet Sci 5:35.
+38. Pham LM, et al. (2012) Enhanced metrology using preferential orientation of nitrogen-vacancy centers in diamond. Phys Rev B 86(12):121202.
+39. Dobrovitski VV, Feiguin AE, Awschalom DD, Hanson R (2008) Decoherence dynamics
+of a single spin versus spin ensemble. Phys Rev B 77(24):245212.
+40. Popa I, et al. (2004) Energy levels and decoherence properties of single electron and
+nuclear spins in a defect center in diamond. Phys Rev B 70(20):201203.
+41. Fang K, et al. (2013) High-sensitivity magnetometry based on quantum beats in diamond nitrogen-vacancy centers. Phys Rev Lett 110(13):130802.
+42. Mamin HJ, et al. (2014) Multipulse double-quantum magnetometry with near-surface
+nitrogen-vacancy centers. Phys Rev Lett 113(3):030803.
+43. Acosta VM, Jarmola A, Bauch E, Budker D (2010) Optical properties of the nitrogenvacancy singlet levels in diamond. Phys Rev B 82(20):201202.
+44. Jiang L, et al. (2009) Repetitive readout of a single electronic spin via quantum logic
+with nuclear spin ancillae. Science 326(5950):267–272.
+45. Neumann P, et al. (2010) Quantum register based on coupled electron spins in a
+room-temperature solid. Nat Phys 6(4):249–253.
+46. Shields BJ, Unterreithmeier QP, de Leon NP, Park H, Lukin MD (2015) Efficient readout of
+a single spin state in diamond via spin-to-charge conversion. Phys Rev Lett 114(13):136402.
+47. Taylor JM, et al. (2008) High-sensitivity diamond magnetometer with nanoscale
+resolution. Nat Phys 4(10):810–816.
+48. Hochbaum DR, et al. (2014) All-optical electrophysiology in mammalian neurons using
+engineered microbial rhodopsins. Nat Methods 11(8):825–833.
+49. Waxman SG (1998) Demyelinating diseases—New pathological insights, new therapeutic targets. N Engl J Med 338(5):323–325.
+50. Boyden ES, Zhang F, Bamberg E, Nagel G, Deisseroth K (2005) Millisecond-timescale,
+genetically targeted optical control of neural activity. Nat Neurosci 8(9):1263–1268.
+51. Chandrasekar I, Huettner JE, Turney SG, Bridgman PC (2013) Myosin II regulates activity
+dependent compensatory endocytosis at central synapses. J Neurosci 33(41):16131–16145.
+52. Turney SG, et al. (2016) Nerve growth factor stimulates axon outgrowth through
+negative regulation of growth cone actomyosin restraint of microtubule advance.
+Mol Biol Cell 27(3):500–517.
+53. Baranauskas G, David Y, Fleidervish IA (2013) Spatial mismatch between the Na+ flux
+and spike initiation in axon initial segment. Proc Natl Acad Sci USA 110(10):4051–4056.
+54. Marblestone AH, et al. (2013) Physical principles for scalable neural recording. Front
+Comput Neurosci 7:137.
+55. Rudy B (1981) Inactivation in Myxicola giant axons responsible for slow and accumulative adaptation phenomena. J Physiol 312:531–549.
+56. Binstock L, Goldman L (1969) Current- and voltage-clamped studies on Myxicola giant
+axons. Effect of tetrodotoxin. J Gen Physiol 54(6):730–740.
+57. Fish J, Fish S (1996) A Student’s Guide to the Seashore (Cambridge Univ Press,
+Cambridge, UK).
+58. Roberts MBV (1962) The rapid response of Myxicola infundibulum. J Mar Biol Assoc
+U K 42(3):527–539.
+59. Song Y, Brady ST (2013) Analysis of microtubules in isolated axoplasm from the squid
+giant axon. Methods Cell Biol 115:125–137.
+14138 | www.pnas.org/cgi/doi/10.1073/pnas.1601513113 Barry et al.

@@ -1,0 +1,1080 @@
+Trans-synaptic adhesion between NGL-3 and LAR
+regulates the formation of excitatory synapses
+Jooyeon Woo1,4, Seok-Kyu Kwon1,4, Seungwon Choi1, Seho Kim1, Jae-Ran Lee1, Anthone W Dunah2,
+Morgan Sheng3 & Eunjoon Kim1
+Synaptic adhesion molecules regulate multiple steps of synapse formation and maturation. The great diversity of neuronal
+synapses predicts the presence of a large number of adhesion molecules that control synapse formation through trans-synaptic
+and heterophilic adhesion. We identified a previously unknown trans-synaptic interaction between netrin-G ligand–3 (NGL-3),
+a postsynaptic density (PSD) 95–interacting postsynaptic adhesion molecule, and leukocyte common antigen-related (LAR), a
+receptor protein tyrosine phosphatase. NGL-3 and LAR expressed in heterologous cells induced pre- and postsynaptic
+differentiation in contacting axons and dendrites of cocultured rat hippocampal neurons, respectively. Neuronal overexpression of
+NGL-3 increased presynaptic contacts on dendrites of transfected neurons. Direct aggregation of NGL-3 on dendrites induced
+coclustering of excitatory postsynaptic proteins. Knockdown of NGL-3 reduced the number and function of excitatory synapses.
+Competitive inhibition by soluble LAR reduced NGL-3–induced presynaptic differentiation. These results suggest that the transsynaptic adhesion between NGL-3 and LAR regulates excitatory synapse formation in a bidirectional manner.
+Synaptogenesis involves a number of molecular processes, including
+axon-dendrite recognition, formation of nascent synapses and
+synapse maturation through recruitment of synaptic proteins. Synaptic
+cell adhesion molecules have been implicated in each of these
+processes1–6. Adhesion molecules capable of inducing early synaptic
+differentiation include neuroligin7,8, neurexin7,9, SynCAM10,11,
+NGL12,13 and EphB receptors14.
+The heterophilic and trans-synaptic adhesion between postsynaptic
+neuroligins and presynaptic neurexins is one of the most extensively
+studied synaptic adhesions7. Neuroligin and neurexin expressed in
+non-neural cells induce pre- and postsynaptic differentiation, respectively, in a bidirectional manner8,9. The interaction between neuroligin
+and neurexin is regulated by alternative splicing15–17. Neuroligin
+interacts with the postsynaptic scaffolding protein PSD-95 (ref. 18),
+which is thought to couple synaptic adhesion to postsynaptic protein
+clustering. Consistent with these important characteristics of the
+neuroligin-neurexin interaction, defects in neuroligin function are
+associated with human autism19,20. However, considering the great
+diversity of neuronal synapses, it is probable that additional cell
+adhesion molecule interactions that regulate synapse formation and
+functions remain to be discovered.
+Recent studies have identified the NGL family of PSD-95–interacting
+postsynaptic adhesion molecules, which contains three known members, NGL-1, NGL-2 and NGL-3 (refs. 12,13). NGL associates with
+netrin-G/laminet12, a family of glycosylphosphatidylinositol (GPI)-
+anchored adhesion molecules21–23, in an isoform-specific manner;
+NGL-1 and NGL-2 associate with netrin-G1 and netrin-G2, respectively12,13. In transgenic mice with netrin-G1 deficiency, NGL-1, but not
+NGL-2, shows a diffuse dendritic distribution; likewise, NGL-2 is
+selectively dispersed in netrin-G2–deficient mice24, suggesting that
+these interactions regulate axon-dependent localization of NGL-1 and
+NGL-2 in specific segments of dendrites. In support of the role for NGLs
+in synapse formation, NGL-2 induces presynaptic differentiation in
+contacting axons when expressed in non-neural cells13. Netrin-Gs show
+extensive alternative splicing21–23, which may regulate the netrin-G–
+NGL-1/2 interaction. Mice that are deficient in netrin-G2 or NGL-2
+show abnormal auditory responses25. Single-nucleotide polymorphism
+analysis associated both netrin-G1 and netrin-G2 with schizophrenia26.
+In contrast with the increasing studies of NGL-1/2 and their ligands, the
+third member of the NGL family (NGL-3), which does not bind netrinG1 or netrin-G2, has remained an orphan receptor.
+LAR is well-known for its involvement in axon guidance and
+presynaptic differentiation27,28. LAR contains three Ig-like domains
+and eight fibronectin type III domains in the extracellular region and
+two phosphatase domains in the intracellular region. The membraneproximal phosphatase domain is catalytically active, whereas the
+membrane-distal phosphatase domain is inactive and associates with
+various cytoplasmic proteins, including liprin-a29 and b-catenin30.
+C. elegans and Drosophila homologs of LAR are involved in the
+regulation of synaptic growth and active zone assembly at the neuromuscular junction (NMJ)31–33. Mammalian LAR has been shown to
+regulate excitatory synaptic development and maintenance34.
+Received 23 December 2008; accepted 22 January 2009; published online 1 March 2009; doi:10.1038/nn.2279
+1National Creative Research Initiative Center for Synaptogenesis and Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon,
+Korea. 2MassGeneral Institute for Neurodegenerative Disease, Massachusetts General Hospital and Harvard Medical School, Charlestown, Massachusetts, USA. 3The
+Picower Institute for Learning and Memory, Howard Hughes Medical Institute, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA. 4These authors
+contributed equally to this work. Correspondence should be addressed to E.K. (kime@kaist.ac.kr).
+428 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Several extracellular ligands for LAR have been identified. LAR
+associates with the laminin-nidogen complex, a major component
+of the extracellular matrix, and regulates extracellular matrix–
+dependent morphological changes in non-neural cells35. In
+Drosophila, LAR associates with the heparan sulfate proteoglycans
+Syndecan and Dallylike at the NMJ36,37. Syndecan is a transmembrane protein that regulates LAR-dependent presynaptic growth
+and Dallylike is a GPI-anchored protein that inhibits LAR’s ability
+to regulate active zone size at the NMJ36,37. LAR associates with a
+small (B11 kDa) ectodomain isoform of LAR, LARFN5C, in a
+homophilic manner to promote neurite outgrowth in mouse
+hippocampal neurons38. However, transmembrane ligands of
+LAR that adhere to LAR in a trans-synaptic manner at interneuronal synapses have not been identified in either invertebrates
+or vertebrates.
+Here, we identified a previously unknown interaction between
+NGL-3 and LAR. NGL-3 and LAR induced pre- and postsynaptic
+differentiation in contacting axons and dendrites, respectively, when
+they were expressed in non-neural cells. Data from direct aggregation,
+knockdown and competitive inhibition experiments suggest that the
+trans-synaptic adhesion between NGL-3 and LAR regulates excitatory
+synapse formation.
+RESULTS
+NGL-3 in HEK293 cells induces presynaptic differentiation
+The synaptogenic activity of an adhesion molecule can be studied in a
+mixed-culture or coculture assay in which an adhesion molecule
+expressed in non-neural cells is tested for its ability to induce presynaptic differentiation in contacting axons of cocultured neurons8,39.
+Accordingly, we used this mixed-culture assay to test for possible
+NGL-3 synaptogenic activity. NGL-3–expressing HEK293T cells that
+were cocultured with hippocampal neurons induced a strong clustering
+of synapsin I, a presynaptic vesicle marker, in contacting axons, whereas
+control cells expressing enhanced green fluorescent protein (EGFP)
+alone induced minimal synapsin I clustering (Fig. 1a,b). The extent of
+NGL-3–induced synapsin I clustering was much greater than that
+induced by NGL-1 or NGL-2 (Fig. 1a,b). This difference was not
+attributable to differential expression of the three NGL isoforms
+because all three were expressed on the surface of HEK293T cells at
+similar levels (Supplementary Fig. 1 online).
+NGL-3–expressing HEK293T cells also induced the clustering of
+both vGlut1 and VGAT, which are excitatory and inhibitory presynaptic
+markers, respectively (Fig. 1c–f). NGL-3 was more efficient in inducing
+vGlut1 clustering than VGAT clustering; the extent of vGlut1 clustering
+relative to the EGFP control was about sixfold greater than that of
+80
+a
+e f g h
+b
+c d 70
+60
+50
+40
+Intensity of synapsin I clusters (au) Intensity of VGAT
+clusters (au) 30
+20
+20
+***
+***
+***
+***
+***
+**
+16
+12
+8
+4
+0
+10
+EGFP NGL-1–EGFP NGL-2–EGFP NGL-3–EGFP
+EGFP NGL-3–EGFP
+EGFP NGL-3–EGFP
+EGFP
+NGL-3
+0
+60
+50
+40
+Intensity of vGlut1 clusters (au)
+Intensity of SynTag
+clusters (au)
+30
+20
+10
+0
+35
+30
+25
+20
+15
+10
+0
+5
+Figure 1 NGL-3 expressed in non-neural cells induces functional presynaptic differentiation in contacting axons. (a) Induction of presynaptic differentiation
+by NGL family proteins. HEK293T cells expressing EGFP alone, NGL-1–EGFP (C-terminally tagged), NGL-2–EGFP or NGL-3–EGFP were cocultured with
+hippocampal neurons (10–13 DIV) and stained for synapsin I. (b) Quantification of the integrated intensity of synapsin I clusters induced by NGLs (mean ±
+s.e.m.; n ¼ 32 for EGFP, 29 for NGL-1–EGFP, 32 for NGL-2–EGFP and 29 for NGL-3–EGFP; ** P o 0.01, *** P o 0.001, Student’s t test; au, arbitrary
+units). (c,d) NGL-3 induced clustering of vGlut1, an excitatory presynaptic marker. HEK293T cells expressing NGL-3–EGFP or EGFP alone were cocultured
+with neurons (10–13 DIV) and stained for vGlut1 (mean ± s.e.m.; n ¼ 34 for EGFP and 37 for NGL-3, ***P o 0.001, Student’s t test). (e,f) NGL-3 induced
+clustering of VGAT, an inhibitory presynaptic marker. Cocultured cells prepared as in c and d were stained for VGAT (mean ± s.e.m.; n ¼ 31 for EGFP and 33
+for NGL-3, ***P o 0.001, Student’s t test). (g,h) NGL-3 induced functional presynaptic differentiation. Cocultured cells were incubated with antibodies to
+synaptotagmin I (SynTag) luminal domain to visualize functional presynaptic nerve terminals (mean ± s.e.m.; n ¼ 27 for EGFP and NGL-3, ***P o 0.001,
+Student’s t test). Scale bars represent 20 mm.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 429
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+VGAT clustering (Fig. 1d,f). NGL-3 did not induce clustering of PSD95 or gephyrin, which are excitatory and inhibitory postsynaptic
+markers, respectively (Supplementary Fig. 2 online), indicating that
+the NGL-3–dependent presynaptic protein clustering was not induced
+by interneural synapses. In contacting axons of cocultured neurons,
+NGL-3 induced the uptake of antibodies that were directed against the
+luminal domain of the synaptic vesicle protein synaptotagmin I, which
+is present during the recycling of presynaptic vesicles (Fig. 1g,h), thus
+indicating that NGL-3 induces functional presynaptic differentiation.
+These results suggest that NGL-3 can induce functional presynaptic
+differentiation at both excitatory and inhibitory synapses.
+Expression patterns of NGL-3 proteins
+Previous northern blot and in situ hybridization results have shown
+that NGL-3 mRNAs are mainly expressed in the brain and are widespread in various brain regions13. The expression patterns of NGL
+proteins have been studied using an antibody that recognizes all three
+NGL isoforms (pan-NGL)13. To study the specific expression patterns
+of NGL-3 proteins, we generated an NGL-3 antibody that does not
+cross-react with NGL-1 or NGL-2 (Fig. 2a). The NGL-3 antibody
+detected a single band (B115 kDa) in rat brain (Fig. 2a). The apparent
+molecular weight (115 kDa) of NGL-3, which falls into the upper end
+of the size range of the three NGL proteins (95–115 kDa)13, is
+consistent with the longer length of NGL-3 (709 amino acids in rat)
+relative to NGL-1 (640 amino acids) and NGL-2 (652 amino acids).
+NGL-3 expressed in heterologous cells showed two bands (B140 and
+100 kDa), which differed from the size of NGL-3 expressed in the brain.
+This may reflect differential postsynaptic modification (that is,
+glycosylation) because NGL-3 proteins expressed in heterologous
+cells (140 and 100 kDa) showed higher and lower levels of glycosylation, respectively, compared with NGL-3 in the brain (Supplementary
+Fig. 3 online).
+Expression of NGL-3 proteins was gradually increased during the
+first 3 weeks of postnatal rat brain development (Fig. 2b) and mainly
+detected in the brain, but not in other tissues (Fig. 2c). NGL-3 was
+mainly detected in synaptic fractions, including the crude synaptosomal and synaptic plasma membrane fractions (Fig. 2d). NGL-3 was
+detected in PSD fractions, including the most detergent-resistant PSD
+III fraction (Fig. 2e), indicative of a tight association of NGL-3 with the
+PSD. PNGase F, O-glycosidase and neuramidase reduced the apparent
+molecular weight of NGL-3, indicating that NGL-3 is N- and
+O-glycosylated and sialylated (Fig. 2f,g).
+Neuronal NGL-3 overexpression induces presynaptic contacts
+We next tested the effects of NGL-3 overexpression in cultured neurons.
+NGL-3 overexpression in cultured hippocampal neurons substantially
+increased presynaptic contacts, as measured by the integrated intensity
+of synapsin I clusters on dendrites (Fig. 3a,b). NGL-3 also induced a
+strong increase in excitatory presynaptic contacts, as measured by
+vGlut1 clusters (Fig. 3c,d). In contrast, inhibitory presynaptic
+contacts (VGAT clusters) were not induced by NGL-3 overexpression
+(Fig. 3e,f). These results suggest that NGL-3 expression in neurons
+selectively induces excitatory, but not inhibitory, presynaptic differentiation in contact axons, which contrasts with our findings that both
+excitatory and inhibitory presynaptic differentiation are induced by
+NGL-3 in the mixed-culture experiments (Fig. 1).
+However, the number of excitatory synapses, defined as vGlut1-
+positive PSD-95 clusters, was reduced by NGL-3 overexpression,
+mainly as the result of a decrease in the number of PSD-95 clusters
+(Supplementary Fig. 4 online). It is possible that NGL-3 overexpression causes the dispersal of NGL-3–associated proteins, including PSD95, to extrasynaptic sites in a dominant-negative manner, which have
+been observed in neurons overexpressing neuroligin-2 and SALM2
+(refs. 9,40).
+NGL-3 aggregation clusters postsynaptic proteins
+Because NGL-3 has the ability to induce presynaptic differentiation, we
+reasoned that it may also promote postsynaptic differentiation by
+recruiting various postsynaptic proteins. To test this hypothesis, we
+expressed N-terminally EGFP-tagged NGL-3 in cultured hippocampal
+neurons and induced direct clustering of EGFP–NGL-3 on the dendritic surface by incubating the neurons with beads coated with
+antibodies to EGFP. Direct NGL-3 aggregation induced secondary
+clustering of postsynaptic proteins, including PSD-95, GKAP (a postsynaptic scaffold), Shank (a postsynaptic scaffold), GluR2 (an AMPA
+receptor subunit) and NR1 (an NMDA receptor subunit), but not
+gephyrin (Fig. 4). Direct aggregation of a control membrane protein
+containing EGFP alone in the extracellular region (EGFP-pDis) did not
+200
+(kDa)
+a b
+c
+e f g
+d
+(kDa) Untrans Myc–NGL-1
+Myc–NGL-2
+Myc–NGL-3
+S2P2
+E18 1 d 1 2 3 4 6 weeks
+116
+97
+66
+45
+200
+116
+97
+66
+45
+31
+NGL-3
+NGL-3
+a-tubulin
+NGL-3
+NGL-3
+10
+P2 (µg) PSD
+2 I II III
+NGL-3
+(kDa)
+– –
+–
++
+++
+– –
+–
+–
+–
+–
++
+++
++++
+116
+97
+(kDa)
+116
+97
+PSD-95
+PNGase F
+O-glycosidase
+Neuramidase 37°C 37°C
+SynPhy
+Heart
+Brain
+Spleen
+Lung
+Liver
+Sk. muscle
+Kidney
+Testis
+H
+P1
+S2
+P2
+S3
+P3
+LP1
+LS2
+LP2
+PSD-95
+PSD-95
+Myc
+*
+*
+*
+*
+Figure 2 Expression patterns of NGL-3 proteins in rat brain. (a) NGL-3
+antibodies selectively recognized NGL-3, but not NGL-1 or NGL-2 (lanes
+1–4), and detected a 115-kDa band (arrow) in brain samples. The
+immunoblot was also probed with antibody to Myc for normalization. P2,
+crude synaptosomes; S2, supernatant after P2 precipitation. Asterisks
+indicate nonspecific bands. (b) NGL-3 protein expression gradually increased
+during the first 3 weeks of postnatal rat brain development. Whole rat brain
+extracts from different developmental stages were used. a-tubulin was
+visualized for normalization. Asterisks indicate nonspecific bands. (c) NGL-3
+proteins were mainly expressed in the brain. PSD-95 was visualized for
+comparison. Sk. muscle, skeletal muscle. (d) Distribution of NGL-3 in
+subcellular fractions of adult rat brain. Note that NGL-3 proteins were mainly
+detected in synaptic fractions, including P2 and LP1. PSD-95 and
+synaptophysin (SynPhy) were probed for comparison. H, homogenates; LP1,
+synaptosomal membranes; LP2, synaptic vesicle-enriched fraction; LS2,
+synaptosomal cytosol; P1, crude nuclear fraction; P3, light membranes; S3,
+cytosol. (e) NGL-3 was detected in PSD fractions of rat brain (3 weeks), with
+a strong enrichment in the PSD III fraction. (f) N-glycosylation of NGL-3. The
+crude synaptosomal fraction of adult rat brain was subjected to PNGase F
+digestion, followed by immunoblot assay. (g) O-glycosylation and sialylation
+of NGL-3, evidenced by O-glycosidase and neuramidase digestion.
+430 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+induce PSD-95 coclustering (Supplementary Fig. 5 online). A quantitative analysis showed that a large fraction of NGL-3 clusters colocalized with excitatory postsynaptic protein clusters, but not with
+gephyrin clusters (95.8 ± 2.7%, n ¼ 41 for PSD-95; 0.0%, n ¼ 38 for
+gephyrin; 94.6 ± 2.6%, n ¼ 45 for GKAP; 89.6 ± 5.4%, n ¼ 25 for
+Shank; 83.9 ± 6.8%, n ¼ 30 for GluR2; 98.5 ± 4.5%, n ¼ 44 for NR1;
+0.0%, n ¼ 33 for PSD-95 by EGFP-pDis). In addition, the fluorescent
+intensities of the colocalized proteins normalized to nearby dendrites
+were 2.36 ± 0.18 for PSD-95 (n ¼ 46), 0.93 ± 0.04 for gephyrin
+(n ¼ 35), 2.06 ± 0.07 for GKAP (n ¼ 47), 3.26 ± 0.27 for Shank
+(n ¼ 24), 1.64 ± 0.09 for GluR2 (n ¼ 44), 2.42 ± 0.10 for NR1 (n ¼ 40)
+and 0.95 ± 0.99 for PSD-95 by EGFP-pDis (n ¼ 33). Postsynaptic
+protein clusters induced by NGL-3 aggregation were negative for
+synapsin I or synaptophysin (Fig. 4), indicating that the postsynaptic
+protein clusters were not induced by interneuronal synapses. These
+results suggest that NGL-3 clustering on dendrites induces excitatory,
+but not inhibitory, postsynaptic differentiation.
+In additional experiments, we induced dendritic NGL-3 clustering
+by preclustered EGFP antibodies, instead of by EGFP antibody–
+coated beads. This primary NGL-3 clustering on dendrites induced
+coclustering of excitatory postsynaptic proteins (Supplementary Fig. 6 online), similar
+to our results with bead-induced protein
+clustering (Fig. 4). In quantitative analysis, a
+large fraction of NGL-3 clusters colocalized
+with excitatory postsynaptic protein clusters,
+but minimally colocalized with gephyrin
+clusters (Supplementary Fig. 6). In addition,
+the fluorescence intensities of the colocalized excitatory postsynaptic protein clusters,
+normalized to nearby dendrites, were greater
+than that of gephyrin (Supplementary
+Fig. 6). Collectively, these results suggest that
+NGL-3 is sufficient to induce dendritic clustering of excitatory, but not inhibitory, postsynaptic proteins.
+NGL-3 knockdown reduces excitatory
+synapse number
+We next tested whether knockdown of NGL-3
+in neurons would lead to a loss of excitatory
+synapses by RNA interference. We generated two independent shRNA constructs
+for NGL-3 knockdown (shNGL-3 #1 and
+shNGL-3 #2), which reduced NGL-3 expression in HEK293T cells by 61% and 46%,
+respectively (Supplementary Fig. 7 online). In hippocampal neurons,
+shNGL-3 #1 and shNGL-3 #2 also reduced the expression of exogenous
+NGL-3 by 53% and 69%, respectively (Supplementary Fig. 7).
+Knockdown of endogenous NGL-3 expression in cultured neurons
+could not be tested because we lacked NGL-3 antibodies that are
+suitable for immunostaining. In cultured hippocampal neurons,
+NGL-3 knockdown by the two shNGL-3 constructs reduced the
+number of excitatory synapses, defined as vGlut1-positive PSD-95
+clusters, compared with control neurons transfected with empty
+shRNA vector (sh-vec) (Fig. 5a,b). In contrast, NGL-3 knockdown
+did not affect the number of inhibitory synapses, defined as VGATpositive gephyrin clusters (Fig. 5c,d). A variant of shNGL-3 #1 with
+point mutations that do not induce NGL-3 knockdown in heterologous cells and neurons (shNGL-3 #1*; Supplementary Fig. 7) did
+not reduce excitatory synapse number relative to sh-vec (Fig. 5a,b).
+The reduction in excitatory synapse number by shNGL-3 #1 could be
+rescued by coexpression of a NGL-3 expression construct that is
+resistant to shNGL-3 #1 (NGL-3*) (Fig. 5a,b and Supplementary
+Fig. 7), further supporting the specific action of shNGL-3 #1. Functionally, NGL-3 knockdown reduced the frequency, but not the
+100
+**
+***
+80
+a
+c
+e
+b
+d
+f Intensity of
+synapsin I clusters (au)
+Intensity of
+vGlut1 clusters (au)
+Intensity of
+of VGAT clusters (au)
+60
+40
+20
+0
+EGFP
+NGL-3
+EGFP
+NGL-3
+EGFP
+NGL-3
+80
+60
+25
+15
+10
+5
+0
+20
+40
+20
+0
+Figure 3 Overexpression of NGL-3 in cultured
+neurons increases excitatory, but not inhibitory,
+presynaptic contacts on dendrites of transfected
+neurons. (a–f) Cultured hippocampal neurons were
+transfected with NGL-3 and EGFP or EGFP alone
+(12–15 DIV) and immunostained for synapsin I
+(a), vGlut1 (c), VGAT (e) or EGFP (a,c,e). For
+quantification, integrated fluorescence intensities
+of presynaptic protein clusters along the dendrites
+were normalized to the dendrite area (synapsin I:
+n ¼ 10 for EGFP and 11 for NGL-3, **P o 0.01,
+Student’s t test, b; vGlut1: n ¼ 12 for EGFP and
+10 for NGL-3, ***P o 0.001, d; VGAT: n ¼ 9 for
+EGFP and 10 for NGL-3, P ¼ 0.3, f). Data are
+presented as mean ± s.e.m. Scale bar represents
+20 mm.
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 431
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+amplitude, of miniature excitatory postsynaptic currents (mEPSCs) to
+a greater extent than the morphological reduction (Fig. 5e–g). These
+results suggest that NGL-3 is required for the morphological and
+functional maintenance of excitatory synapses.
+NGL-3 interacts with LAR
+NGL-3 probably induces presynaptic differentiation in contacting
+axons by interacting with a presynaptic ligand. To identify a specific
+ligand for NGL-3, we systematically screened NGL-3–expressing L cells
+for their ability to coaggregate with a panel of L cells expressing specific
+synaptic membrane proteins (examples in Supplementary Fig. 8
+online). This led us to the identification of LAR as a specific ligand
+for NGL-3.
+In additional experiments, LAR-expressing cells selectively aggregated with NGL-3–expressing cells, but not with those expressing
+NGL-1 or NGL-2 (Fig. 6a,b). Removal of extracellular calcium did
+not reduce the aggregation between NGL-3– and LAR-expressing cells
+(Fig. 6c,d). There was no homophilic adhesion between cells expressing
+NGL-3 or LAR (Supplementary Fig. 8). To further confirm the
+adhesion of NGL-3 and LAR, we incubated HEK293T cells expressing
+the three NGL isoforms with LAR-ecto-Fc, a
+soluble LAR protein formed by fusion of
+the ectodomain of LAR with the immunoglobulin Fc domain. LAR-ecto-Fc selectively
+bound to NGL-3, but not to NGL-1 or
+NGL-2 (Fig. 6e). These results suggest that
+LAR selectively interacts with NGL-3 in a
+calcium-independent manner and that this
+interaction can mediate cell adhesion.
+Deletion of the leucine-rich repeat (LRR)
+domain in the extracellular region of NGL-3
+(NGL-3DLRR), but not the Ig domain (NGL3DIg), abolished the interaction between
+NGL-3 and LAR in the cell adhesion and
+soluble LAR binding assays (Supplementary
+Fig. 9 online). In addition, NGL-3DLRR, but
+not NGL-3DIg, failed to induce presynaptic
+differentiation in contacting axons of cocultured neurons when expressed in heterologous cells (Supplementary Fig. 9). Surface
+expression levels of these NGL-3 variants
+were comparable, as determined by biotinylation assays (wild type, 22.0 ± 3.0; DLRR,
+20.1 ± 2.6; DIg, 24.3 ± 1.5 arbitrary units).
+These results indicate that the LRR domain
+of NGL-3 is important for the NGL-3–LAR
+interaction.
+We further tested the interaction between
+NGL-3 and LAR in a mixed-culture assay, in
+which NGL-3–expressing HEK293T cells were
+cocultured with neurons expressing exogenous LAR. NGL-3–expressing HEK293T
+cells induced a strong aggregation of Flagtagged LAR (LAR-Flag) in contacting axons,
+whereas EGFP-expressing HEK293T cells
+(control) induced minimal LAR clustering
+(average fluorescence intensities of LAR clusters normalized to the HEK293T cell area:
+NGL-3 induced, 24.22 ± 5.98, n ¼ 12; EGFP
+induced, 6.34 ± 0.95; n ¼ 14; P o 0.005,
+Student’s t test; Fig. 6f). Conversely,
+HEK293T cells expressing LAR, but not EGFP, induced clustering of
+Flag-tagged NGL-3 (NGL-3–Flag) in contacting dendrites (average
+fluorescence intensities of NGL-3 clusters: LAR induced, 62.27 ±
+9.48, n ¼ 11; EGFP induced, 21.37 ± 2.47, n ¼ 11; P o 0.001, Student’s
+t test; Fig. 6g). These results suggest that the interaction between
+NGL-3 and LAR may occur in a trans-synaptic manner.
+We next determined the binding affinity for the interaction between
+NGL-3 and LAR. NGL-3–expressing HEK293T cells were incubated
+with increasing amounts of LAR-ecto-Fc and proteins bound to the
+cell surface were quantified by ELISA assays. The Kd value for the
+NGL-3–LAR interaction that we calculated by Scatchard analysis was
+37.4 ± 2.1 nM (Fig. 6h).
+Soluble LAR inhibits NGL-3–dependent presynaptic induction
+If NGL-3–induced presynaptic differentiation in the mixed-culture
+assay is dependent on the interaction of NGL-3 with LAR expressed
+on the surface of axons, exogenously added soluble LAR fusion
+proteins (LAR-ecto-Fc), which compete with endogenous LAR for
+NGL-3 binding, should inhibit the NGL-3–induced presynaptic differentiation. Indeed, LAR-ecto-Fc reduced NGL-3–induced synapsin I
+a
+b
+c
+d
+e
+f
+Figure 4 Direct aggregation of NGL-3 on the surface of dendrites induces coclustering of excitatory
+postsynaptic proteins. (a–f) Cultured hippocampal neurons expressing N-terminally EGFP-tagged
+NGL-3 (14–16 DIV) were incubated with EGFP-coated beads and visualized at 17 DIV by triple
+immunofluorescence staining for EGFP (NGL-3), synapsin I (a–e) or synaptophysin (f) and the indicated
+postsynaptic proteins. sGluR2, surface GluR2. Arrowheads indicate enlarged beads and protein clusters.
+Scale bar represents 10 mm.
+432 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+clustering in contacting axons of cocultured neurons compared
+with Fc alone (control) (Fig. 7a,b).
+However, when we added LAR-ecto-Fc to cultured neurons, it did
+not reduce the number of excitatory synapses (synapsin I–positive
+PSD-95 clusters; Supplementary Fig. 10 online). It is possible that
+other trans-synaptic adhesions unaffected by LAR may be maintaining
+normal excitatory synapses when the LAR–NGL-3 interaction is
+inhibited, whereas the synapses formed in the mixed-culture assay,
+which rely on the LAR–NGL-3 interaction, but not other synaptic
+adhesions, may be more easily inhibited. These results suggest that the
+adhesion between NGL-3 and LAR is required for NGL-3–induced
+presynaptic differentiation.
+LAR in HEK293T cells induces postsynaptic differentiation
+If the trans-synaptic interaction between NGL-3 and LAR is involved in
+the formation of excitatory synapses, presynaptic LAR may also induce
+postsynaptic differentiation in contacting dendrites. Indeed, in a
+mixed-culture assay, LAR-expressing HEK293T cells induced the clustering of excitatory postsynaptic proteins PSD-95 and Shank,
+whereas EGFP alone induced minimal postsynaptic protein clustering
+(Fig. 8a–d). In addition, LAR expressed in HEK 293T cells did not
+induce gephyrin clusters in contacting dendrites (Fig. 8e,f). These
+results suggest that presynaptic LAR induces excitatory, but not
+inhibitory, postsynaptic protein clustering on contacting dendrites.
+LAR regulates excitatory synaptic development and maintenance
+partly through its association with AMPA receptors34, suggesting that
+LAR is also present on the postsynaptic plasma membrane. We therefore tested whether LAR expressed in HEK293T cells is capable of
+inducing presynaptic differentiation in contacting axons. LAR-expressing HEK293T cells did not induce synapsin I clustering in contacting
+axons (Fig. 8g,h). This suggests that postsynaptic LAR has a different
+role, which is unrelated to the induction of presynaptic differentiation.
+DISCUSSION
+Here, we identified a previously unknown trans-synaptic adhesion
+between NGL-3 and LAR. In support of the synaptogenic function
+of this interaction, NGL-3 and LAR expressed in non-neural cells
+induced pre- and postsynaptic differentiation in contacting axons and
+3.5
+vGlut1-positive
+PSD-95 clusters per 10 µm
+VGAT-positive
+gephyrin clusters per 10 µm
+Frequency (Hz)
+Amplitude (pA)
+3.0
+2.0
+0.5
+0
+sh-vec
+shNGL-3 #2
+shNGL-3 #1*
+NGL-3* shNGL-3 #1 +
+shNGL-3 #1
+sh-vec
+shNGL-3 #2
+shNGL-3 #1*
+NGL-3*
+sh-vec
+shNGL-3 #2
+sh-vec
+shNGL-3 #2
+shNGL-3 #1 +
+shNGL-3 #1
+2.5 ****
+1.5
+1.0
+2.0
+sh-vec shNGL-3 #1 shNGL-3 #2 shNGL-3 #1*
+shNGL-3 #1 +
+NGL-3*
+sh-vec a b
+e fg
+c d
+shNGL-3 #1 shNGL-3 #2
+shNGL-3 #2
+sh-vec
+10 pA
+1 s
+shNGL-3 #1*
+shNGL-3 #1 +
+NGL-3*
+0.5
+0
+2.5
+0.8 15
+10
+5
+0
+0.6
+0.4
+0.2 **
+0
+1.5
+1.0
+Figure 5 Knockdown of NGL-3 leads to decreases in the number and function of excitatory synapses. (a–d) NGL-3 knockdown reduced the number of
+excitatory synapses (vGlut1-positive PSD-95 clusters) without affecting inhibitory synapses (VGAT-positive gephyrin clusters). Cultured hippocampal neurons
+transfected with sh-vec, shNGL-3 #1 and #2, shNGL-3 #1* or shNGL-3 #1 + NGL-3* (10–14 DIV) were immunostained with the indicated antibodies (data
+are presented as mean ± s.e.m.; excitatory synapses: n ¼ 21 for sh-vec, 22 for shNGL-3 #1, 19 for shNGL-3 #2, 17 for shNGL-3 #1* and 22 for shNGL-3
+#1 + NGL-3*, *P o 0.005, ANOVA; inhibitory synapses: n ¼ 20 for sh-vec, 21 for shNGL-3 #1, 21 for shNGL-3 #2, 19 for shNGL-3 #1* and 20 for
+shNGL-3 #1 + NGL-3*). Scale bar represents 10 mm. (e–g) NGL-3 knockdown in cultured neurons (13–16 DIV) reduced the frequency (f), but not
+amplitude (g), of mEPSCs (n ¼ 12 for sh-vec and 10 for shNGL-3 #2, **P o 0.01, Student’s t test).
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 433
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+dendrites, respectively. Neuronal NGL-3 expression increased presynaptic contacts. Dendritic NGL-3 aggregation induced excitatory
+postsynaptic protein clustering. NGL-3 knockdown reduced excitatory
+synapse number and function. Soluble LAR inhibited NGL-3–induced
+presynaptic differentiation. These results suggest that the trans-synaptic
+adhesion between NGL-3 and LAR regulates excitatory synapse formation in a bidirectional manner.
+We were unable to determine the ultrastructural synaptic localization of NGL-3 because of the lack of suitable NGL-3 antibodies.
+However, our previous electron microscopy results, obtained using a
+pan-NGL antibody, indicate that NGL isoforms are mainly postsynaptically localized at excitatory synapses13. The presynaptic localization of
+LAR in C. elegans and Drosophila has been well characterized28,32,33,36,
+although the pre- or postsynaptic localization of mammalian LAR
+remains to be determined34. On the basis of the widespread distribution of both mRNAs, determined by in situ hybridization13,41, the
+adhesion between NGL-3 and LAR probably occurs in various brain
+regions. Notably, NGL-3 proteins are mainly expressed in the brain
+(Fig. 2b), whereas LAR mRNAs, determined by Northern analysis, are
+expressed in various tissues42, suggesting that the interaction between
+NGL-3 and LAR occurs primarily in the brain.
+The three NGL isoforms share an identical domain structure and
+interact with PSD-95 through their extreme C termini12,13. However,
+their primary sequences are substantially different (especially in their
+***
+0
+20
+40
+60
+Intensity of synapsin I
+clusters (au)
+80
+100
+120
+140
+160
+Fc alone
+LAR-ecto-Fc
+Fc alone
+LAR-ecto-Fc
+a b Figure 7 Soluble LAR reduces NGL-3–induced
+presynaptic differentiation. (a) Reduced NGL-3–
+induced presynaptic differentiation in the
+presence of soluble LAR. HEK293T cells
+expressing NGL-3–EGFP or EGFP alone were
+cocultured with hippocampal neurons (10–13
+DIV) in the presence of LAR-ecto-Fc or Fc alone
+(10 mg ml1) and stained for EGFP (for NGL-3),
+synapsin I and human Fc (for LAR-ecto-Fc). Scale
+bar represents 20 mm. (b) Quantification of the
+integrated intensity of synapsin I clusters
+normalized to the cell area (mean ± s.e.m.,
+n ¼ 20 for Fc alone and 23 for LAR-ecto-Fc,
+***P o 0.001, Student’s t test).
+NGL-1
+LAR-CFP
+LAR-ecto-Fc
+LAR-CFP
+NGL-2 NGL-3 NGL-3
+NGL-2 NGL-1 NGL-3
+7
+6
+Number of cell aggregates
+per frame5
+4
+3
+2
+NGL-3 + LAR NGL-3 + LAR
+NGL-1 + LAR NGL-2 + LAR NGL-3 + LAR
++ 10 mM EGTA
+0
+1
+7
+***
+a d b c e
+f gh
+6
+Number of cell aggregates
+per frame
+Bound (OD 450)
+Bound per free
+(OD 450 per nM)
+5
+4
+3
+2
+0 50 100
+LAR-ecto-Fc (nM)
+150
+1
+0.10
+0.05
+0.0001234
+0
+3
+2
+0
+1
+Bound (OD 450)
+Figure 6 NGL-3 interacts with LAR. (a) NGL-3, but not NGL-1 or NGL-2, interacted with LAR in cell-aggregation assays. L cells cotransfected with NGLs
+and EGFP or LAR (C-terminally cyan fluorescent protein (CFP)-tagged) and dsRed were mixed to induce cell aggregation. Scale bar represents 50 mm.
+(b) Quantification of the cell aggregation in a. Cell aggregates were defined by four or more clustered cells containing at least one red or green cell (mean ±
+s.e.m., n ¼ 10, ***P o 0.001, ANOVA). (c,d) Calcium-independent adhesion between NGL-3 and LAR. L cells expressing NGL-3 + EGFP or LAR-CFP +
+dsRed were mixed in the presence or absence of 10 mM EGTA (mean ± s.e.m., n ¼ 10, ***P o 0.001, Student’s t test). Scale bar represents 50 mm.
+(e) Selective association of LAR-ecto-Fc with NGL-3, but not with NGL-1 and NGL-2 expressed in HEK293T cells. Scale bar represents 10 mm. (f) NGL-3–
+expressing HEK293T cells induced LAR-Flag clustering on contacting axons of cocultured neurons. HEK293T cells expressing NGL-3–EGFP or EGFP alone
+were cocultured (14–15 DIV) with hippocampal neurons expressing LAR-Flag C1522S (C-terminally Flag-tagged, 13–14 DIV), followed by EGFP and Flag
+staining. The phosphatase-dead LAR C1522S mutant was used to minimize possible effects of phosphatase activity on transfected neurons. (g) LARexpressing HEK293T cells induce NGL-3–Flag clustering on contacting dendrites of cocultured neurons. HEK293T cells expressing LAR-CFP or EGFP alone
+were cocultured (14–15 DIV) with hippocampal neurons expressing NGL-3–Flag (13–14 DIV). Scale bar represents 20 mm. (h) Saturation curve of LAR-ecto-Fc
+binding to NGL-3 expressed in HEK293T cells. A Scatchard plot analyzed by linear regression of the data is shown in the inset. The calculated Kd for the
+interaction was 37.4 ± 2.1 nM.
+434 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+cytoplasmic domains), suggesting that NGL isoforms have different
+functions. In support of this notion, NGLs interact with netrin-Gs in an
+isoform-specific manner: NGL-1 and NGL-2 interact with netrin-G1
+and netrin-G2, respectively, whereas NGL-3 binds neither netrin-G1
+nor netrin-G2 (ref. 13). Our data indicate that NGL-3, which to date
+has remained an orphan receptor, selectively associates with LAR,
+whereas NGL-1 and NGL-2 do not bind LAR. This suggests that the
+extracellular domains of NGLs, despite their close amino acid sequence
+identity relative to the cytoplasmic region, are functionally distinct.
+Consistently, NGL-3 was more efficient than NGL-1 and NGL-2 in
+inducing presynaptic differentiation in mixed-culture assays, although
+they had comparable surface expression levels.
+Taken together with previous results, our data indicate that the two
+different types of NGL ligands, netrin-G1/2 and LAR, have both similar
+and contrasting features. Extensive alternative splicing is observed in
+both netrin-Gs21–23 and LAR43,44, suggesting that alternative splicing
+may regulate the NGL-3–LAR adhesion, as shown in the splicingdependent LAR interaction with nidogen35. NGL-3 expression, however, is probably not regulated by alternative splicing, as the NGL-3
+gene (LRRC4B) has only two coding exons. Netrin-Gs are unique in
+that they are GPI-anchored proteins21,22. In addition, netrin-G2 does
+not induce postsynaptic differentiation in contacting dendrites when it
+is expressed in non-neural cells13. These results suggest that netrin-Gs
+may require an additional co-receptor for its functional interaction
+with NGL-2. In contrast, LAR is a transmembrane protein with the
+ability to induce postsynaptic differentiation in contacting dendrites,
+suggesting that LAR alone may be sufficient to function as a presynaptic
+NGL-3 receptor.
+The NGL-3–LAR interaction is similar to the well-known adhesion
+between neuroligin and neurexin in that a heterophilic trans-synaptic
+adhesion mediates synapse formation in a bidirectional manner7–9. In
+addition, when it is expressed in non-neural cells, NGL-3 induced both
+excitatory and inhibitory presynaptic differentiation in contacting
+axons, similar to neuroligins9, which induce excitatory and inhibitory
+presynaptic differentiation by interacting with neurexins that are
+present in both glutamatergic and GABAergic axons9. Localization of
+LAR at excitatory synapses is supported by the role of LAR in the
+development and maintenance of excitatory synapses34. Whether LAR
+is present at inhibitory synapses remains to be determined. It should be
+noted that NGL-3 that is expressed in neurons selectively induces
+excitatory presynaptic contacts, contrary to the results from mixed
+cultured assays. This might be attributable to the interaction of NGL-3
+with postsynaptic proteins that promote excitatory presynaptic differentiation in contacting axons.
+LAR expressed in non-neural cells selectively induced excitatory
+postsynaptic protein clustering in contacting dendrites, unlike neurexin
+1b, which induces both excitatory and inhibitory postsynaptic protein
+clustering9. Neurexin 1b induces excitatory and inhibitory postsynaptic
+protein clustering by interacting with both neuroligin 1 and neuroligin 2
+(ref. 9), which have specific excitatory and inhibitory synaptic localizations, respectively4,5. The selective excitatory postsynaptic protein clustering by LAR may arise from LAR’s association with NGL-3 at
+excitatory synapses. This is consistent with our observation that direct
+dendritic clustering of NGL-3 selectively induced excitatory postsynaptic
+protein clustering, and suggests that it is unlikely that there are unknown
+LAR-binding postsynaptic adhesion molecules at inhibitory synapses.
+0
+Intensity of PSD-95 clusters (au) 25
+20 **
+15
+10
+5
+EGFP
+LAR-CFP
+b
+0
+Intensity of gephyrin clusters (au) 25
+20
+15
+10
+5
+EGFP
+LAR-CFP
+f
+a
+e
+c
+g
+0
+Intensity of Shank clusters (au) 25
+20
+***
+15
+10
+5
+EGFP
+LAR-CFP
+d
+0
+Intensity of synapsin I clusters (au)25
+20
+15
+10
+5
+EGFP
+LAR-CFP
+h
+Figure 8 LAR expressed in non-neural cells induces excitatory postsynaptic differentiation in contacting dendrites. (a–f) LAR induced clustering of excitatory
+postsynaptic proteins in contacting dendrites. HEK293T cells expressing LAR-CFP or EGFP alone were cocultured with neurons (10–13 DIV) and stained for
+EGFP/CFP (a,c,e), PSD-95 (a), Shank (c, pan-Shank) and gephyrin (e). Scale bar represents 20 mm. We quantified the integrated intensity of postsynaptic
+protein clusters normalized to the cell area (mean ± s.e.m.; PSD-95: n ¼ 22 for EGFP and 22 for LAR, **P o 0.01, Student’s t test, b; Shank: n ¼ 25 for
+EGFP and 29 for LAR, ***P o 0.001, Student’s t test, d; gephyrin: n ¼ 24 for EGFP and 20 for LAR, f). (g) LAR did not induce the clustering of synapsin I in
+contacting axons. HEK293T cells expressing LAR-CFP or EGFP alone were cocultured with neurons (10–13 DIV) and stained for EGFP/CFP and synapsin I (g).
+Scale bar represents 20 mm. (h) Quantification of the integrated intensity of presynaptic protein clusters normalized to the cell area (mean ± s.e.m.; synapsin I:
+n ¼ 28 for EGFP and 27 for LAR, P ¼ 0.59, Student’s t test).
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 435
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+How might NGL-3 and LAR lead to post- and presynaptic differentiation, respectively? One possible mechanism by which synaptic
+adhesion molecules contribute to synapse formation is by interacting
+with and promoting the synaptic localization of specific membrane and
+cytoplasmic proteins. PSD-95, which interacts with NGL-3, is an
+abundant postsynaptic protein that interacts with a variety of membrane, signaling and scaffolding/adaptor proteins of excitatory
+synapses. Therefore, PSD-95 may couple NGL-3–dependent synaptic
+adhesion to the localization of various postsynaptic proteins.
+Liprin-a, which binds to the membrane-distal phosphatase domain
+of LAR, may act together with LAR to mediate NGL-3–dependent
+presynaptic differentiation. Liprin-a has been implicated in the regulation of active zone assembly and presynaptic development through its
+interactions with synaptic proteins, including ERC/ELKS, RIM and
+CASK28. Studies on liprin-a homologs in C. elegans (SYD-2) and
+Drosophila (Dliprin-a) have firmly established the roles of liprin-a in
+presynaptic differentiation31,32,45,46.
+Another LAR-interacting cytoplasmic protein that may contribute to
+LAR-dependent presynaptic differentiation is b-catenin, a component
+of the cadherin-catenin complex30. Presynaptic b-catenin localizes the
+reserve pool of vesicles to presynaptic sites through mechanisms
+involving interaction of its C terminus with synaptic PDZ proteins47.
+Notably, brain-derived neurotrophic factor activation of the TrkB
+receptor tyrosine kinase regulates tyrosine phosphorylation of
+b-catenin, which disrupts the cadherin–b-catenin interaction and
+promotes synaptic vesicle splitting and synapse formation48.
+Considering that LAR dephosphorylates b-catenin30,34, LAR and
+TrkB may reciprocally regulate b-catenin–dependent presynaptic
+vesicle clustering.
+One possibility is that the binding of NGL-3 to LAR may regulate the
+tyrosine phosphatase activity of LAR. Receptor tyrosine phosphatases
+can be negatively regulated by dimerization49. However, a study on the
+crystallographic structure of the phosphatase domain of LAR has
+suggested that the phosphatase activity of LAR is probably not
+regulated by dimerization50.
+In conclusion, our results suggest that the trans-synaptic interaction
+between NGL-3 and LAR regulates excitatory synapse formation in a
+bidirectional manner. Future investigations will aim to explore
+possible functional interactions between NGL-1/2–netrin-Gs and
+NGL-3–LAR adhesions.
+METHODS
+DNA constructs and antibodies. Full-length human NGL-1 (NM_020929,
+amino acids 1–641) and rat NGL-3 (XM_218615, amino acids 1–709) were
+subcloned into pEGFP-N1 (Clontech). Human LAR (amino acids 1–1881) was
+subcloned into pECFP-N1 (Clontech). For small interfering RNA knockdown,
+nucleotides 359–377 of rat NGL-3 (GCA AGA ATC TGG TGC GCA A), its
+point mutant (GCA AGT CTC TTG TGC GCA A) and nucleotides 1,254–1,272
+(GCA CGA TGG CAC ACT CAA T) were subcloned into pSuper.gfp/
+neo (OligoEngine) to generate shNGL-3 #1, shNGL-3* and shNGL-3 #2,
+respectively. The extracellular domain of LAR (amino acids 1–1,235) was
+subcloned into pEGFP-N1, in which EGFP was replaced with human Fc. Other
+constructs, antibodies and reagents are described in the Supplementary
+Methods online.
+Mixed-culture assay. Mixed-culture assays were carried out as described39.
+Briefly, primary hippocampal neuron cultures at 10 d in vitro (10 DIV)
+prepared from embryonic day 18–19 (E18–19) rats were cocultured with
+HEK293T cells expressing NGLs, LAR or EGFP, followed by immunostaining
+at 13 DIV. For the synaptotagmin I antibody uptake assay, neurons were
+incubated with antibodies to the synaptotagmin luminal domain at the dilution
+of 1:10 in isotonic depolarizing solution for 5 min. For competitive inhibition,
+LAR-ecto-Fc proteins (10 mg ml1) were added to NGL-3–expressing HEK293T
+cells that were cocultured with neurons for 3 d (10–13 DIV).
+Transfection of neurons and immunocytochemistry. Cultured neurons were
+transfected using a mammalian transfection kit (Clontech) and fixed with 4%
+paraformaldehyde/4% sucrose (vol/vol), permeabilized with 0.2% Triton X-100
+(vol/vol) in phosphate-buffered saline, incubated with primary antibodies and
+then incubated with Cy3-, Cy5- or FITC-conjugated secondary antibodies
+(Jackson ImmunoResearch). For the inhibition of endogenous synapses
+with soluble LAR, neurons were treated with LAR-ecto-Fc for 3 d
+(20 mg ml1, 7/8–10/11 DIV) and transfected with pEGFP-N1 for visualization
+(9/10–10/11 DIV).
+Bead and antibody aggregation assays. Bead aggregation assays were performed as described previously13. Briefly, neutravidin-conjugated FluoSphere
+beads (Molecular Probes) were pre-incubated with biotin-conjugated antibodies to EGFP. The antibody-coated beads were added onto neurons expressing
+EGFP–NGL-3 (14–16 DIV) and cultured for 24 h. For antibody aggregation,
+antibodies to EGFP were clustered by FITC-conjugated antibodies to guinea pig
+in complete neurobasal medium and added to neurons at 16 DIV, followed by
+24-h culture and immunofluorescence staining at 17 DIV.
+Image acquisition and quantification. All z-stacked images were randomly
+acquired by confocal microscopy (LSM510, Zeiss) and analyzed with MetaMorph image analysis software (Universal Imaging). The density of synaptic
+protein clusters was measured from 15–30 neurons; the primary dendritic
+lengths of B50 mm from the cell body were measured for each neuron. For
+quantification of images from coculture assays, all captured images were
+thresholded and the integrated intensity of the clusters on transfected
+HEK293T cells was normalized to the cell area. All values are presented as
+mean ± s.e.m. and analyzed by Student’s t test or ANOVA Tukey’s test.
+Quantitative cell surface–binding assay. HEK293T cells transfected with
+NGL-3 were transferred to 96-well plates and grown for 24 h. After fixation
+in 4% paraformaldehyde/4% sucrose, cells were incubated with increasing
+concentrations of LAR-ecto-Fc for 1 h, incubated with horseradish peroxidase–
+conjugated antibodies to human Fc (Sigma, 1:10,000) and color reacted with
+TMB (Sigma).
+Electrophysiology. Cultured pyramidal neurons from the hippocampus transfected with shNGL-3 (13–16 DIV) were whole-cell voltage clamped at 60 mV
+using an Axopatch 200B amplifier (Axon Instruments). The extracellular
+solution contained 145 mM NaCl, 2.5 mM KCl, 10 mM HEPES, 1.25 mM
+NaH2PO4, 2 mM CaCl2, 1 mM MgCl2, 10 mM glucose and 0.4 mM sodium
+ascorbate. The intracellular solution contained 100 mM potassium gluconate,
+20 mM KCl, 10 mM HEPES, 8 mM NaCl, 4 mM magnesium ATP, 0.3 mM
+sodium GTP and 0.5 mM EGTA. For mEPSC measurement, tetrodotoxin
+(10 nM, Tocris) and bicuculline (10 mM, Tocris) were added into the
+extracellular solution. Synaptic currents were analyzed using a custom-written
+macro in Igor Pro (WaveMetrics).
+Note: Supplementary information is available on the Nature Neuroscience website.
+ACKNOWLEDGMENTS
+We would like to thank A.M. Craig for neurexin 1a, 2a, 3a and 1b cDNAs,
+T. Biederer for SynCAM 1, Y.-P. Hsueh for Syndecan-2, P. Maness for
+NCAM-140, J. Ko for quantitative analysis, J. Nam for SALM4, M.-H. Kim
+for the mini analysis program, and Y.-G. Oh, M.-S. Baek, M. Ryu and J.-G. Jung
+for the help with antibody generation. This work was supported by the National
+Creative Research Initiative Program of the Korean Ministry of Science and
+Technology (E.K.).
+AUTHOR CONTRIBUTIONS
+J.W. and S.-K.K. carried out the experiments, analyzed the data and wrote the
+manuscript. S.C. helped with the shRNA knockdown experiments. S.K., J.-R.L.,
+A.W.D. and M.S. contributed reagents. E.K. supervised the project and wrote the
+manuscript. All authors discussed the results and commented on the manuscript.
+436 VOLUME 12 [ NUMBER 4 [ APRIL 2009 NATURE NEUROSCIENCE
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.
+Published online at http://www.nature.com/natureneuroscience/
+Reprints and permissions information is available online at http://www.nature.com/
+reprintsandpermissions/
+1. Yamagata, M., Sanes, J.R. & Weiner, J.A. Synaptic adhesion molecules. Curr. Opin. Cell
+Biol. 15, 621–632 (2003).
+2. Dalva, M.B., McClelland, A.C. & Kayser, M.S. Cell adhesion molecules: signaling
+functions at the synapse. Nat. Rev. Neurosci. 8, 206–220 (2007).
+3. Washbourne, P. et al. Cell adhesion molecules in synapse formation. J. Neurosci. 24,
+9244–9249 (2004).
+4. Akins, M.R. & Biederer, T. Cell-cell interactions in synaptogenesis. Curr. Opin. Neurobiol.
+16, 83–89 (2006).
+5. Craig, A.M. & Kang, Y. Neurexin-neuroligin signaling in synapse development.
+Curr. Opin. Neurobiol. 17, 43–52 (2007).
+6. McAllister, A.K. Dynamic aspects of CNS synapse formation. Annu. Rev. Neurosci. 30,
+425–450 (2007).
+7. Ichtchenko, K. et al. Neuroligin 1: a splice site–specific ligand for beta-neurexins.
+Cell 81, 435–443 (1995).
+8. Scheiffele, P., Fan, J., Choih, J., Fetter, R. & Serafini, T. Neuroligin expressed in nonneuronal cells triggers presynaptic development in contacting axons. Cell 101,
+657–669 (2000).
+9. Graf, E.R., Zhang, X., Jin, S.X., Linhoff, M.W. & Craig, A.M. Neurexins induce
+differentiation of GABA and glutamate postsynaptic specializations via neuroligins.
+Cell 119, 1013–1026 (2004).
+10. Biederer, T. et al. SynCAM, a synaptic adhesion molecule that drives synapse assembly.
+Science 297, 1525–1531 (2002).
+11. Fogel, A.I. et al. SynCAMs organize synapses through heterophilic adhesion. J. Neurosci.
+27, 12516–12530 (2007).
+12. Lin, J.C., Ho, W.H., Gurney, A. & Rosenthal, A. The netrin-G1 ligand NGL-1 promotes the
+outgrowth of thalamocortical axons. Nat. Neurosci. 6, 1270–1276 (2003).
+13. Kim, S. et al. NGL family PSD-95–interacting adhesion molecules regulate excitatory
+synapse formation. Nat. Neurosci. 9, 1294–1301 (2006).
+14. Kayser, M.S., McClelland, A.C., Hughes, E.G. & Dalva, M.B. Intracellular and transsynaptic regulation of glutamatergic synaptogenesis by EphB receptors. J. Neurosci. 26,
+12152–12164 (2006).
+15. Boucard, A.A., Chubykin, A.A., Comoletti, D., Taylor, P. & Sudhof, T.C. A splice code for
+trans-synaptic cell adhesion mediated by binding of neuroligin 1 to alpha- and betaneurexins. Neuron 48, 229–236 (2005).
+16. Chih, B., Gollan, L. & Scheiffele, P. Alternative splicing controls selective trans-synaptic
+interactions of the neuroligin-neurexin complex. Neuron 51, 171–178 (2006).
+17. Graf, E.R., Kang, Y., Hauner, A.M. & Craig, A.M. Structure function and splice site
+analysis of the synaptogenic activity of the neurexin-1 beta LNS domain. J. Neurosci.
+26, 4256–4265 (2006).
+18. Irie, M. et al. Binding of neuroligins to PSD-95. Science 277, 1511–1515 (1997).
+19. Tabuchi, K. et al. A neuroligin-3 mutation implicated in autism increases inhibitory
+synaptic transmission in mice. Science 318, 71–76 (2007).
+20. Jamain, S. et al. Reduced social interaction and ultrasonic communication in a mouse
+model of monogenic heritable autism. Proc. Natl. Acad. Sci. USA 105, 1710–1715
+(2008).
+21. Nakashiba, T. et al. Netrin-G1: a novel glycosyl phosphatidylinositol–linked mammalian
+netrin that is functionally divergent from classical netrins. J. Neurosci. 20, 6540–6550
+(2000).
+22. Nakashiba, T., Nishimura, S., Ikeda, T. & Itohara, S. Complementary expression and
+neurite outgrowth activity of netrin-G subfamily members. Mech. Dev. 111, 47–60
+(2002).
+23. Yin, Y., Miner, J.H. & Sanes, J.R. Laminets: laminin- and netrin-related genes expressed
+in distinct neuronal subsets. Mol. Cell. Neurosci. 19, 344–358 (2002).
+24. Nishimura-Akiyoshi, S., Niimi, K., Nakashiba, T. & Itohara, S. Axonal netrin-Gs
+transneuronally determine lamina-specific subdendritic segments. Proc. Natl. Acad.
+Sci. USA 104, 14801–14806 (2007).
+25. Zhang, W. et al. Netrin-G2 and netrin-G2 ligand are both required for normal auditory
+responsiveness. Genes Brain Behav. 7, 385–392 (2008).
+26. Aoki-Suzuki, M. et al. A family-based association study and gene expression analyses of
+netrin-G1 and -G2 genes in schizophrenia. Biol. Psychiatry 57, 382–393 (2005).
+27. Johnson, K.G. & Van Vactor, D. Receptor protein tyrosine phosphatases in nervous
+system development. Physiol. Rev. 83, 1–24 (2003).
+28. Stryker, E. & Johnson, K.G. LAR, liprin alpha and the regulation of active zone
+morphogenesis. J. Cell Sci. 120, 3723–3728 (2007).
+29. Serra-Pages, C. et al. The LAR transmembrane protein tyrosine phosphatase and
+a coiled-coil LAR-interacting protein colocalize at focal adhesions. EMBO J. 14,
+2827–2838 (1995).
+30. Kypta, R.M., Su, H. & Reichardt, L.F. Association between a transmembrane protein
+tyrosine phosphatase and the cadherin-catenin complex. J. Cell Biol. 134, 1519–1529
+(1996).
+31. Zhen, M. & Jin, Y. The liprin protein SYD-2 regulates the differentiation of presynaptic
+termini in C. elegans. Nature 401, 371–375 (1999).
+32. Kaufmann, N., DeProto, J., Ranjan, R., Wan, H. & Van Vactor, D. Drosophila liprin-alpha
+and the receptor phosphatase Dlar control synapse morphogenesis. Neuron 34, 27–38
+(2002).
+33. Ackley, B.D. et al. The two isoforms of the Caenorhabditis elegans leukocyte-common
+antigen related receptor tyrosine phosphatase PTP-3 function independently in axon
+guidance and synapse formation. J. Neurosci. 25, 7517–7528 (2005).
+34. Dunah, A.W. et al. LAR receptor protein tyrosine phosphatases in the development and
+maintenance of excitatory synapses. Nat. Neurosci. 8, 458–467 (2005).
+35. O’Grady, P., Thai, T.C. & Saito, H. The laminin-nidogen complex is a ligand for a specific
+splice isoform of the transmembrane protein tyrosine phosphatase LAR. J. Cell Biol.
+141, 1675–1684 (1998).
+36. Johnson, K.G. et al. The HSPGs Syndecan and Dallylike bind the receptor phosphatase
+LAR and exert distinct effects on synaptic development. Neuron 49, 517–531 (2006).
+37. Fox, A.N. & Zinn, K. The heparan sulfate proteoglycan syndecan is an in vivo ligand for
+the Drosophila LAR receptor tyrosine phosphatase. Curr. Biol. 15, 1701–1711
+(2005).
+38. Yang, T. et al. Leukocyte antigen-related protein tyrosine phosphatase receptor: a small
+ectodomain isoform functions as a homophilic ligand and promotes neurite outgrowth.
+J. Neurosci. 23, 3353–3363 (2003).
+39. Biederer, T. & Scheiffele, P. Mixed-culture assays for analyzing neuronal synapse
+formation. Nat. Protoc. 2, 670–676 (2007).
+40. Ko, J. et al. SALM synaptic cell adhesion–like molecules regulate the differentiation of
+excitatory synapses. Neuron 50, 233–245 (2006).
+41. Zhang, J.S., Honkaniemi, J., Yang, T., Yeo, T.T. & Longo, F.M. LAR tyrosine phosphatase
+receptor: a developmental isoform is present in neurites and growth cones and its
+expression is regional- and cell-specific. Mol. Cell. Neurosci. 10, 271–286 (1998).
+42. Pulido, R., Serra-Pages, C., Tang, M. & Streuli, M. The LAR/PTP delta/PTP sigma
+subfamily of transmembrane protein-tyrosine- phosphatases: multiple human LAR, PTP
+delta and PTP sigma isoforms are expressed in a tissue-specific manner and associate
+with the LAR- interacting protein LIP.1. Proc. Natl. Acad. Sci. USA 92, 11686–11690
+(1995).
+43. O’Grady, P., Krueger, N.X., Streuli, M. & Saito, H. Genomic organization of the human
+LAR protein tyrosine phosphatase gene and alternative splicing in the extracellular
+fibronectin type-III domains. J. Biol. Chem. 269, 25193–25199 (1994).
+44. Zhang, J.S. & Longo, F.M. LAR tyrosine phosphatase receptor: alternative splicing is
+preferential to the nervous system, coordinated with cell growth and generates novel
+isoforms containing extensive CAG repeats. J. Cell Biol. 128, 415–431 (1995).
+45. Patel, M.R. et al. Hierarchical assembly of presynaptic components in defined
+C. elegans synapses. Nat. Neurosci. 9, 1488–1498 (2006).
+46. Dai, Y. et al. SYD-2 Liprin-alpha organizes presynaptic active zone formation through
+ELKS. Nat. Neurosci. 9, 1479–1487 (2006).
+47. Bamji, S.X. et al. Role of beta-catenin in synaptic vesicle localization and presynaptic
+assembly. Neuron 40, 719–731 (2003).
+48. Bamji, S.X., Rico, B., Kimes, N. & Reichardt, L.F. BDNF mobilizes synaptic vesicles and
+enhances synapse formation by disrupting cadherin-beta-catenin interactions. J. Cell
+Biol. 174, 289–299 (2006).
+49. Majeti, R. & Weiss, A. Regulatory mechanisms for receptor protein tyrosine phosphatases. Chem. Rev. 101, 2441–2448 (2001).
+50. Nam, H.J., Poy, F., Krueger, N.X., Saito, H. & Frederick, C.A. Crystal structure of the
+tandem phosphatase domains of RPTP LAR. Cell 97, 449–457 (1999).
+NATURE NEUROSCIENCE VOLUME 12 [ NUMBER 4 [ APRIL 2009 437
+ARTICLES
+© 2009 Nature America, Inc. All rights reserved.

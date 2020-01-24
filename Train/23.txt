@@ -1,0 +1,524 @@
+CaMKII modulates sodium current in neurons from
+epileptic Scn2a mutant mice
+Christopher H. Thompsona,1, Nicole A. Hawkinsa
+, Jennifer A. Kearneya
+, and Alfred L. George, Jr.a
+a
+Department of Pharmacology, Feinberg School of Medicine, Northwestern University, Chicago, IL 60611
+Edited by Bruce P. Bean, Harvard Medical School, Boston, MA, and approved December 27, 2016 (received for review September 22, 2016)
+Monogenic epilepsies with wide-ranging clinical severity have been
+associated with mutations in voltage-gated sodium channel genes. In
+the Scn2aQ54 mouse model of epilepsy, a focal epilepsy phenotype is
+caused by transgenic expression of an engineered NaV1.2 mutation
+displaying enhanced persistent sodium current. Seizure frequency
+and other phenotypic features in Scn2aQ54 mice depend on genetic
+background. We investigated the neurophysiological and molecular correlates of strain-dependent epilepsy severity in this model.
+Scn2aQ54 mice on the C57BL/6J background (B6.Q54) exhibit a mild
+disorder, whereas animals intercrossed with SJL/J mice (F1.Q54) have
+a severe phenotype. Whole-cell recording revealed that hippocampal
+pyramidal neurons from B6.Q54 and F1.Q54 animals exhibit spontaneous action potentials, but F1.Q54 neurons exhibited higher firing
+frequency and greater evoked activity compared with B6.Q54 neurons. These findings correlated with larger persistent sodium current
+and depolarized inactivation in neurons from F1.Q54 animals. Because calcium/calmodulin protein kinase II (CaMKII) is known to modify persistent current and channel inactivation in the heart, we
+investigated CaMKII as a plausible modulator of neuronal sodium
+channels. CaMKII activity in hippocampal protein lysates exhibited
+a strain-dependence in Scn2aQ54 mice with higher activity in F1.Q54
+animals. Heterologously expressed NaV1.2 channels exposed to activated CaMKII had enhanced persistent current and depolarized
+channel inactivation resembling the properties of F1.Q54 neuronal
+sodium channels. By contrast, inhibition of CaMKII attenuated persistent current, evoked a hyperpolarized channel inactivation, and
+suppressed neuronal excitability. We conclude that CaMKII-mediated
+modulation of neuronal sodium current impacts neuronal excitability
+in Scn2aQ54 mice and may represent a therapeutic target for the
+treatment of epilepsy.
+epilepsy | voltage-gated sodium channel | CaMKII
+Voltage-gated sodium channels are essential for the generation and propagation of action potentials in excitable cells
+(1). These proteins exist as heteromultimeric complexes formed
+by a large pore-forming α-subunit and one or more auxiliary
+β-subunits (2). Function of voltage-gated sodium channels is influenced by multiple intracellular factors including protein–protein interactions, channel phosphorylation, and intracellular calcium. The
+auxiliary β-subunits and a family of FGF homologous factors (FHF)
+have been shown to modulate trafficking and functional properties
+of voltage-gated sodium channels (3–5). Both PKA and PKC have
+been shown to modulate neuronal voltage-gated sodium current
+function (6, 7). Finally, intracellular calcium, calmodulin, and calcium/calmodulin protein kinase II (CaMKII) have been shown to
+have drastic effects on the cardiac sodium channel (8–10). Thus,
+differences in posttranslational modification of sodium channels may
+profoundly influence the physiology of excitable cells.
+Mutations in genes encoding neuronal voltage-gated sodium
+channels (SCN1A, NaV1.1, and SCN2A, NaV1.2) have been associated with several types of human epilepsy, including genetic epilepsy with febrile seizures plus (GEFS+) and benign familial
+neonatal infantile seizures (BFNIS), and the more severe Dravet
+syndrome and early infantile epileptic encephalopathy type 11
+(EIEE11) (2, 11). To date, more than 1,200 SCN1A mutations have
+been identified, making this gene the most frequently identified
+cause of monogenic epilepsy. Interestingly, variable expressivity is a
+common feature of monogenic epilepsy disorders, suggesting that
+genetic modifiers may contribute to clinical severity (12).
+In Scn2aQ54 mice, transgenic expression of a gain-of-function
+sodium channel mutation results in epilepsy (13). Hippocampal
+pyramidal neurons isolated acutely from Scn2aQ54 mice exhibit
+enhanced persistent sodium current and spontaneous action potential firing. Scn2aQ54 mice congenic on the C57BL/6J strain
+(B6.Q54) show a progressive epilepsy beginning with spontaneous
+partial motor seizures that evolve to include secondary generalization as the mice age. Scn2aQ54 mice also exhibit a reduced life
+span compared with wild-type (WT) animals (13). Genetic background exerts a profound effect on phenotype severity in the
+Scn2aQ54 model. A single forward cross onto the SJL/J strain
+(F1.Q54) results in significant worsening of the epilepsy phenotype, with both increased seizure frequency and reduced life
+span compared with B6.Q54 animals (14).
+Previous work identified two modifier loci that contribute to the
+strain difference in seizure frequency and severity in the Scn2aQ54
+model (14). Moe1 (modifier of epilepsy 1) involves multiple genes
+including Cacna1g, encoding the T-type Ca2+ channel CaV3.1, and
+Hlf, a PAR bZip transcription factor, whereas Moe2 involves a
+single gene, Kcnv2, which encodes the silent K+ channel subunit
+KV8.2 (15-17). Additionally, RNA sequencing analysis of parent
+mouse strains revealed several other genes with divergent expression between mouse strains that may contribute to strain-dependent
+epilepsy severity, including genes directly involved in ion transport
+and posttranslational regulation of ion channel or transporters (18).
+Significance
+Epilepsy is a neurological disorder affecting approximately 1% of
+the world population. Mutations within genes encoding voltagegated channels are the most frequently identified cause of
+monogenic epilepsies. Variable expressivity is a common feature
+of many epilepsies, suggesting that modifier genes make significant contributions to clinical phenotype. Here, we report an investigation of the molecular basis for strain-dependent seizure
+severity in the Scn2aQ54 epileptic mice. We show strain-dependent
+differences in pyramidal cell excitability correlate with divergent
+properties of voltage-gated sodium channels that could be
+explained by differences in calcium/calmodulin protein kinase II
+(CaMKII)-dependent modulation of neuronal sodium channels.
+These findings suggest that strain-dependent sodium channel
+modulation by CaMKII in Scn2aQ54 mice influences excitatory
+neuronal networks.
+Author contributions: C.H.T., J.A.K., and A.L.G. designed research; C.H.T., N.A.H., and J.A.K.
+performed research; C.H.T., N.A.H., and J.A.K. analyzed data; and C.H.T., N.A.H., J.A.K., and
+A.L.G. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+1
+To whom correspondence should be addressed. Email: christopher.thompson1@
+northwestern.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1615774114/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1615774114 PNAS Early Edition | 1 of 6
+NEUROSCIENCE
+However, the underlying physiological mechanisms of straindependent epilepsy remain unexplored.
+Here, we tested the hypothesis that strain-dependent seizure
+severity in Scn2aQ54 mice results from differential neuronal hyperexcitability stemming from divergent sodium channel properties between strains. We demonstrated that neurons from F1.Q54
+animals exhibit enhanced excitability compared with B6.Q54 animals, have greater persistent sodium current, and have sodium
+channels that are more resistant to inactivation. Additionally, we
+discovered that CaMKII modulates neuronal voltage-gated sodium conductance and may be an important mediator of straindependent seizure severity. Thus, our findings indicate that the
+epilepsy phenotype of the Scn2aQ54 model may be, in part, driven
+by divergent strain-dependent sodium channel dysfunction and
+that CaMKII modulation of neuronal voltage-gated sodium current impacts neuronal excitability.
+Results
+Scn2aQ54 mice exhibit spontaneous focal epilepsy associated with
+enhanced persistent sodium current in acutely dissociated hippocampal neurons (13). Additionally, the phenotype shows a
+strong strain dependence, with animals on a congenic C57BL/6J
+background (B6.Q54) having a significantly less severe phenotype compared with animals intercrossed with WT SJL/J mice for
+a single generation (F1.Q54) (14). However, the neurophysiological basis for strain-dependent phenotype severity is unknown.
+Strain-Dependent Neuronal Excitability. We hypothesized that differences in epilepsy severity observed between B6.Q54 and
+F1.Q54 animals correlate with differences in excitability of hippocampal pyramidal neurons. We used whole-cell current clamp
+recording to measure spontaneous and evoked action potential
+activity in pyramidal neurons isolated from transgenic animals of
+either background strain. Neurons isolated from WT animals
+exhibited minimal spontaneous action potential generation, as
+expected (Fig. 1 A and B). By contrast, and consistent with a
+spontaneous seizure phenotype, neurons from both strains of
+Scn2aQ54 animals fired spontaneous action potentials. However,
+neurons isolated from F1.Q54 animals exhibited a significantly
+higher frequency of spontaneous action potential firing compared with B6.Q54 animals (Fig. 1C; F1.Q54: 6.5 ± 1.5 Hz vs. B6.
+Q54: 2.5 ± 0.5 Hz, n = 8–9, P < 0.05).
+In addition to spontaneous activity, we also measured evoked
+action potential firing. Similar to spontaneous activity, neurons
+isolated from F1.Q54 animals exhibited significantly greater
+evoked activity compared with neurons from B6.Q54 mice across
+a range of current injection amplitudes (Fig. 2). Neurons from
+F1.Q54 mice were more excitable at low amplitude current injections and showed sustained activity at stronger stimuli compared with neurons from B6.Q54 animals (Fig. 2 A–C). No
+differences between strains were detected in either input resistance (B6.Q54 = 1.9 ± 0.3 GΩ vs. F1.Q54 = 2.2 ± 0.4 GΩ) or
+action potential threshold (B6.Q54 = −42.7 ± 0.8 mV vs. F1.Q54 =
+−42.5 ± 0.8 mV). Additionally, neurons from F1.Q54 animals displayed a more narrow action potential width both at the beginning
+and end of a train of action potentials evoked by a 50-pA stimulus
+(Fig. 2D; first action potential: B6.Q54 = 3.1 ± 0.2 ms vs. F1.Q54 =
+2.5 ± 0.1 ms, P < 0.05; final action potential: B6.Q54 = 5.1 ± 0.5 ms
+vs. F1.Q54 = 3.5 ± 0.4 ms, P < 0.05, n = 8–9). Interestingly, action
+potential duration increased significantly during a train of action
+potentials for B6.Q54 animals (first AP: 3.1 ± 0.2 ms vs. last AP:
+5.1 ± 0.5 ms, P < 0.05), whereas that of F1.Q54 animals did not (first
+AP: 2.5 ± 0.1 ms vs. last AP: 3.5 ± 0.4 ms), suggesting an adaptive
+mechanism present in B6.Q54 animals is absent in neurons
+from F1.Q54 mice. These results indicate that the strain-dependent
+epilepsy severity observed for the Scn2aQ54 mouse model is correlated with divergent excitability of hippocampal pyramidal cells.
+Differences in action potential morphology between strains further
+suggest variable contribution of conductances necessary for action
+potential generation and propagation.
+Fig. 1. Spontaneous action potential firing in pyramidal neurons. Representative current clamp recording of spontaneous action potentials from pyramidal neurons isolated from B6.WT and B6.Q54 (A) or F1.WT and F1.Q54 (B)
+mice. (C) Summary data for spontaneous action potential firing from B6.Q54
+(black symbols) and F1.Q54 (red symbols) pyramidal neurons. Open symbols
+represent individual cells, whereas closed symbols are mean ± SEM for n = 8–9
+measurements (*P < 0.05). There were no differences in spontaneous action
+potential firing frequency between nontransgenic mice on the two genetic
+backgrounds (B6.WT: 0.2 ± 0.2 Hz, vs. F1.WT: 0.3 ± 0.3 Hz; n = 2).
+Fig. 2. Evoked action potentials in pyramidal neurons. Representative current clamp recordings of action potentials evoked by escalating amplitude of
+injected current from pyramidal neurons isolated from B6.Q54 (A) or F1.Q54
+(B) mice. Cells were clamped to −80 mV and depolarizing current injections
+were made in 10-pA increments. (C) Summary data plotting the number of
+action potentials against current injection for B6.Q54 (black symbols) and
+F1.Q54 (red symbols) neurons. (D) Representative action potentials from
+either the second (Left) or final action potential (Right), evoked by a 50-pA
+current injection for either B6.Q54 (black trace) or F1.Q54 (red) trace. (E)
+Summary data of action potential half-width from either the first (circles)
+or final (triangles) action potential, evoked by a 50-pA current injection for
+either B6.Q54 (black) or F1.Q54 (red) neurons. Open symbols represent
+individual cells, whereas closed symbols are mean ± SEM for n = 8–9 cells
+(*P < 0.05; n.s., not significant).
+2 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1615774114 Thompson et al.
+Strain-Dependent Biophysical Properties of Neuronal Sodium Conductance.
+The Scn2aQ54 model was originally generated with a specific defect in
+voltage-gated sodium channels that gives rise to enhanced persistent
+sodium current. To determine strain-dependent differences in sodium current, we performed whole-cell voltage clamp recordings
+from acutely dissociated hippocampal pyramidal neurons from
+B6.Q54 and F1.Q54 mice, as well as WT animals (B6.WT and
+F1.WT). Sodium currents from neurons isolated from B6.Q54 and
+F1.Q54 animals exhibited similar current–voltage relationships and peak
+current densities (Fig. 3 A and B, B6.Q54: −366.8 ± 55.2 pA/pF vs.
+F1.Q54: −308.5 ± 31.3 pA/pF, n = 12–15). Further, there were no
+differences in peak current densities between neurons isolated from
+the corresponding nontransgenic WT animals (Fig. S1A, B6.WT:
+−266.4 ± 37.9 pA/pF vs. F1.WT: −302.0 ± 32.5 pA/pF, n = 13–16).
+Comparison of voltage dependence of activation, and recovery from
+fast inactivation, between B6.Q54 and F1.Q54 animals showed no
+significant differences (Fig. 3 C and D and Table 1). However,
+neurons from F1.Q54 animals exhibited significantly depolarized
+steady-state channel availability compared with neurons from B6.Q54
+animals (Fig. 3C and Table 1). This difference indicated that sodium
+channels present in F1.Q54 neurons are more resistant to inactivation
+compared with those present in B6.Q54 animals, and this phenomenon may contribute to neuronal hyperexcitability. Consistent with
+this hypothesis, neurons from F1.Q54 animals show a larger window
+current than B6.Q54 neurons, implying a broader voltage range over
+which F1.Q54 neurons remain active (Fig. S2). No differences in
+sodium channel properties were detected between WT strains (Fig.
+S1 and Table 1), which suggests that the observed difference in sodium channel inactivation is mediated by the transgene.
+Strain Dependence of Persistent Sodium Current. We hypothesized
+that strain dependence of neuronal excitability may be due, in
+part, to differences in persistent sodium current between B6.Q54
+and F1.Q54 animals. We found that B6.Q54 pyramidal neurons
+had persistent current levels that were not significantly different
+from WT mice (Table 1). However, pyramidal neurons isolated
+from F1.Q54 animals exhibited greater levels of persistent current compared with neurons from B6.Q54 mice (Fig. 3 E and F,
+1.1 ± 0.2% vs. 0.4 ± 0.1, n = 6–8, P < 0.05). These data suggest
+that higher levels of persistent current in hippocampal pyramidal
+neurons correlate with enhanced excitability.
+To exclude unequal transgene expression between B6.Q54 and
+F1.Q54 as an explanation for differences in persistent current, we
+quantified hippocampal transcript levels of rat NaV1.2 by using
+quantitative digital droplet RT-PCR (ddRT-PCR). Using two
+separate assays that are specific for the transgene, we found no
+difference in hippocampal transgene levels between B6.Q54 and
+F1.Q54 animals (Fig. S3; Assay Rn00680558: B6.Q54, 0.19 ± 0.03
+vs. F1.Q54, 0.22 ± 0.05; Assay Rn00561862: B6.Q54, 0.13 ± 0.02
+vs. F1.Q54 0.15 ± 0.05), thereby excluding divergent expression of
+the transgene. Therefore, we considered other factors that could
+account for the differences in sodium channel behavior.
+Strain-Dependent Hippocampal CaMKII Activity. Previous work has
+shown that the cardiac sodium channel NaV1.5 can be modulated
+by intracellular Ca2+ and by CaMKII-mediated phosphorylation,
+which have profound effects on channel inactivation and persistent sodium current (8, 10, 19). Elevated intracellular Ca2+ has
+been demonstrated to evoke a depolarized shift in the voltage
+dependence of inactivation and suppression of persistent sodium
+current for cardiac NaV1.5 channels (8, 20). Similarly, CaMKIImediated phosphorylation of NaV1.5 causes a shift in the voltage
+dependence of inactivation, as well as increased persistent sodium current (10, 19, 21, 22). We examined the effects of Ca2+
+and CaMKII on the Scn2aQ54 mutant to determine whether
+these factors could explain the observed differences in channel
+inactivation and persistent sodium current.
+The voltage dependence of inactivation and magnitude of
+persistent sodium current were determined in the absence and
+presence of 1 μM free Ca2+ for heterologously expressed mutant
+rat NaV1.2 channels (NaV1.2-Q54; SI Materials and Methods),
+which is the Scn2aQ54 transgene. We observed no difference in the
+level of persistent sodium current between these two conditions
+(0 Ca2+
+: 3.5 ± 0.4%; 1 μM Ca2+
+: 3.1 ± 0.3%, n = 10–12, P = 0.48),
+and only a slight, but nonsignificant, depolarized shift in the
+voltage dependence of inactivation (0 Ca2+
+: −65.1 ± 2.0 mV; 1 μM
+Ca2+
+: −61.7 ± 1.8 mV, n = 10, P = 0.21; Fig. S4 A–C). These
+findings were consistent with previous reports showing no effect of
+intracellular Ca2+ on inactivation of WT NaV1.2 channels (23).
+We conclude from these data that the strain differences in neuronal sodium current properties do not depend strictly on intracellular Ca2+ concentration.
+Fig. 3. Strain dependence of neuronal sodium current. (A) Representative
+whole-cell sodium current recordings from hippocampal pyramidal neurons
+isolated from either B6.Q54 (Upper) or F1.Q54 (Lower) mice. (B) Current–
+voltage relationship of voltage-dependent sodium channels from either
+B6.Q54 (black symbols) or F1.Q54 (red symbols) neurons. (C) Conductance
+voltage relationship (circles) and steady-state inactivation (triangles) of
+voltage-dependent sodium channels from either B6.Q54 (black symbols) or
+F1.Q54 (red symbols) neurons. (D) Recovery from inactivation of voltagedependent sodium channels from either B6.Q54 (black symbols) or F1.Q54
+(red symbols) neurons. (E) Representative normalized current trace illustrating persistent sodium current in response to a 200-ms depolarization (to
+0 mV) from either B6.Q54 (black trace) or F1.Q54 (red trace) neurons.
+(F) Quantification of persistent current levels of B6.Q54 and F1.Q54 neurons
+expressed as percent of peak current. Open symbols represent individual
+cells, whereas closed symbols are mean ± SEM for n = 6–15 cells (*P < 0.05).
+Thompson et al. PNAS Early Edition | 3 of 6
+NEUROSCIENCE
+To determine whether divergent CaMKII-mediated phosphorylation underlies strain-dependent differences in voltagegated sodium current, we quantified basal and maximal CaMKII
+activity from hippocampal protein lysates from B6.Q54 and F1.
+Q54 animals, and WT littermates. Basal hippocampal CaMKII
+activity measured in samples from F1.Q54 animals was significantly greater than in samples from B6.Q54 animals (2.3 ± 0.16
+A.U. vs. 1.8 ± 0.07 A.U., P < 0.05, n = 5; Fig. 4A). Levels of
+maximal CaMKII activity, which were measured after adding
+exogenous Ca2+ and CaM to protein lysates, were not different
+between Scn2aQ54 strains (B6.Q54, 2.8 ± 0.2 A.U.; F1.Q54, 2.6 ±
+0.6 A.U., P = 0.79, n = 5; Fig. 4B). Further, basal CaMKII activity normalized to maximal activity was significantly greater in
+samples from F1.Q54 mice compared with B6.Q54 animals
+(88.4 ± 3.6% vs. 68.2 ± 4.8%, P < 0.05, n = 5; Fig. 4C). There
+were no differences in basal or maximal CaMKII activity between WT littermates from the different genetic backgrounds
+(B6.WT, basal, 1.8 ± 0.03 A.U., maximal, 2.6 ± 0.04 A.U., n = 3;
+F1.WT, basal, 1.8 ± 0.05 A.U., maximal, 2.6 ± 0.07 A.U., n = 5).
+These differences suggest that differential CaMKII activity between mouse strains may contribute to strain-dependent differences in seizure severity in Scn2aQ54 mice.
+Regulation of Sodium Channel Inactivation by CaMKII. We assessed
+whether CaMKII modulates persistent sodium current and voltage
+dependence of channel inactivation exhibited by heterologously
+expressed NaV1.2-Q54. When activated CaMKII monomer was
+included in the intracellular pipette solution, persistent sodium
+current mediated by NaV1.2-Q54, was 8.5 ± 2.5% (n = 6)
+compared with 2.8 ± 0.4% for cells exposed to vehicle alone (n = 6,
+P < 0.05; Fig. 5A). Additionally, we observed a large depolarized shift
+in the voltage dependence of inactivation compared with cells exposed
+to vehicle (Fig. 5A, −49.6 ± 1.2 mV vs. −61.9 ± 2.4 mV, n = 3–5,
+P < 0.05). Importantly, we found that CaMKII exerts similar effects on
+WT NaV1.2 to enhance persistent sodium current (CaMKII = 2.0 ±
+0.4%; Vehicle = 0.5 ± 0.2%, n = 6, P < 0.05; Fig. 5B) and induce a
+large depolarized shift in the voltage dependence of inactivation
+(−43.7 ± 1.5 mV vs. −56.4 ± 1.1 mV, n = 4–5, P < 0.05; Fig. 5B).
+We also compared persistent current and steady-state inactivation in pyramidal neurons isolated from F1.Q54 animals
+pretreated with either KN-93, a CaMKII inhibitor, or KN-92, an
+inactive analog. Fig. 5C illustrates that neurons treated with KN93 exhibited virtually no persistent current (0.1 ± 0.1% n = 6) and
+a hyperpolarized V1/2 for steady-state inactivation (V1/2 = −73.9 ±
+2.2 mV, n = 6) compared with neurons treated with KN-92 (0.96 ±
+0.2% n = 7, V1/2 = −64.9 ± 2.3 mV, n = 7, P < 0.05, compared with
+KN-93–treated cells). Finally, we compared spontaneous firing
+frequency of neurons treated intracellularly with 1 μM KN-93 or
+1 μM KN-92 and found that suppression of CaMKII activity with
+KN-93 abolished spontaneous firing of F1.Q54 neurons (0.06 ±
+0.04 Hz, n = 7). By contrast, neurons treated with KN-92 exhibited
+a high spontaneous firing frequency (5.4 ± 1.1 Hz, n = 7, P < 0.05;
+Fig. 6 A and B) similar to untreated cells. We also observed that
+KN-93–treated neurons showed less evoked action potential firing
+compared with neurons treated with KN-92 (Fig. 6C). These data
+support our hypothesis that differential modulation of sodium
+channels by CaMKII significantly impacts neuronal excitability.
+Discussion
+Mutations in voltage-gated sodium channel genes are associated with
+a spectrum of genetic epilepsies that may exhibit variable expressivity,
+which is attributable in part to the action of genetic modifiers. The
+influence of genetic modifiers on variable expressivity can be studied
+by using engineered mice bearing mutations in sodium channel genes.
+In this study, we examined the strain-dependent seizure severity
+observed in the gain-of-function Scn2aQ54 epileptic mouse
+and identified neurophysiological features that may contribute to
+variable phenotype expression.
+The Scn2aQ54 mouse model exhibits spontaneous seizures
+originating within the hippocampus, the severity of which depends
+greatly on genetic background. These mice show increased persistent sodium current as a result of mutant Scn2a transgene expression, and this phenomenon is a plausible contributing factor to
+epilepsy. Extracellular recording of hippocampal slices from
+F1.Q54 animals showed that both the CA1 and CA3 regions show
+spontaneous action potential firing not present in WT mice (24).
+Additionally, brain slices from F1.Q54 animals have greater
+spontaneous and after-discharge activity following tetanic stimulation (24). Consistent with this prior work, we demonstrated that
+hippocampal pyramidal neurons isolated from WT animals show
+no spontaneous action potentials, but pyramidal neurons isolated
+acutely from either B6.Q54 or F1.Q54 animals exhibit spontaneous action potentials, with cells from F1.Q54 mice having a higher
+Fig. 4. Strain dependence of hippocampal CaMKII activity. (A) Basal CaMKII
+activity of hippocampal protein lysates from B6.Q54 (black symbols) or F1.
+Q54 (red symbols) reported as absorbance at 450 nM. (B) Maximal CaMKII
+activity following stimulation with Ca2+/CaM measured in hippocampal
+protein lysates from B6.Q54 (black symbols) or F1.Q54 (red symbols) reported
+as absorbance at 450 nM. (C) Basal CaMKII activity normalized to maximal
+activity for B6.Q54 (black symbols) or F1.Q54 (red symbols). Open symbols
+represent individual animals, whereas closed symbols are mean ± SEM for n
+= 5 animals (*P < 0.05).
+Table 1. Biophysical properties of Scn2aQ54 neuronal sodium channels
+Voltage dependence of
+activation
+Voltage dependence of fast
+inactivation Recovery from fast inactivation Persistent current
+Strain V1/2, mV k, mV n V1/2, mV k, mV n τf, ms (amplitude) τs, ms (amplitude) n % peak current n
+B6.WT −23.4 ± 1.7 8.6 ± 0.6 13 −60.9 ± 1.9 −7.1 ± 0.2 7 1.2 ± 0.1 (0.68 ± 0.04) 65.4 ± 9.8 (0.33 ± 0.03) 7 0.5 ± 0.2 8
+B6.Q54 −24.9 ± 1.9 9.0 ± 0.5 12 −63.2 ± 1.0 −7.9 ± 0.8 6 1.4 ± 0.1 (0.80 ± 0.04) 119.1 ± 24.5 (0.23 ± 0.04) 7 0.4 ± 0.1 8
+F1.WT −22.2 ± 1.8 9.9 ± 0.9 16 −62.2 ± 1.3 −7.4 ± 0.4 12 1.5 ± 0.1 (0.76 ± 0.02) 79.6 ± 7.9 (0.25 ± 0.01) 10 0.5 ± 0.2 5
+F1.Q54 −26.5 ± 1.5* 9.0 ± 0.4 15 −59.6 ± 1.0† −7.1 ± 0.4 10 1.9 ± 0.2 (0.73 ± 0.02) 81.8 ± 10.4 (0.28 ± 0.02) 11 1.1 ± 0.2† 6
+*P < 0.05 compared with nontransgenic animals of the same genetic background. †
+P < 0.05 compared with B6.Q54 animals.
+4 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1615774114 Thompson et al.
+firing frequency. Additionally, F1.Q54 animals exhibit significantly
+greater evoked action potential firing.
+Action potential morphology is an important contributor to
+neuronal firing frequency, with high frequency firing being associated with narrow action potential width (25). We observed
+that pyramidal neurons from F1.Q54 mice exhibited narrower
+action potentials compared with neurons from B6.Q54 animals.
+Moreover, neurons from B6.Q54 animals exhibited a trend toward a greater degree of action potential broadening during a
+train of action potentials compared with neurons from F1.Q54
+animals (Fig. 2), consistent with the hypothesis that excitatory
+neurons from F1.Q54 animals can maintain higher firing rates
+for longer periods of time and may promote a more severe
+seizure phenotype. Although increased persistent current is
+predicted to broaden action potentials in neurons from F1.Q54
+mice, previously reported strain-dependent differences in K+
+channel expression may also contribute in a manner opposing
+the effect of enhanced sodium current (15). Specifically, B6.Q54
+mice express a higher level of Kcnv2, a silent K+ channel subunit
+that forms heterotetramers with KV2.1 and suppresses delayed
+rectifier current. Reduced KV2.1-mediated current is predicted
+to enhance excitability of neurons from B6.Q54 mice, similar to
+what has been demonstrated for KV2.1 knockout mice, and
+evoked action potential broadening during a train of action potentials (26), which is what we observed in this study (Fig. 2).
+We observed no strain differences in sodium channel properties measured from WT neurons. By contrast, neurons isolated
+from F1.Q54 animals exhibited higher levels of persistent current
+and a depolarized steady-state inactivation compared with
+B6.Q54 mice. A consequence of the shift in steady-state inactivation for F1.Q54 animals compared with B6.Q54 animals is
+a larger window current, which has been shown to be a common
+feature of cardiac arrhythmias resulting from mutations in
+SCN5A (27, 28). The greater tendency for spontaneous action
+potential firing observed in F1.Q54 neurons may be a result of
+both increased persistent current and increased window current.
+Importantly, the larger persistent sodium current could not be
+explained by differences in transgene expression within brain
+regions we used to isolate neurons for electrophysiological recording. These observations suggest the existence of other factors that may modulate sodium channels.
+We sought to understand the basis for different persistent
+current levels between B6.Q54 and F1.Q54 animals. Phosphorylation of sodium channels is a critical regulator of channel activity, with phosphorylation state changing dramatically as a
+function of seizure activity in the brain (6, 7). In the heart,
+CaMKII phosphorylation has been shown to enhance persistent
+sodium current and induce a shift in steady-state channel availability (19). Although the sites for CaMKII phosphorylation of
+NaV1.5 are not perfectly conserved across all sodium channels,
+24 of 36 CaMKII phosphorylation sites identified by either mass
+spectrometry analysis or functional analyses, including the critical sites S516 and S571, are conserved in rodent NaV1.2 (10, 21).
+Our experiments demonstrated that hippocampal lysates from
+Scn2aQ54 mouse strains have divergent levels of CaMKII activity.
+Previous reports have shown that CaMKII autophosphorylation is initially reduced in various epilepsy models, including
+Fig. 5. CaMKII regulation of voltage-gated sodium current. (A and B, Left)
+Representative normalized current trace illustrating persistent sodium current in response to a 200-ms depolarization (to 0 mV) recorded from
+HEK293T cells transfected with NaV1.2-Q54 (A) or NaV1.2-WT (B) in the
+presence of activated CaMKII monomer (blue trace) or vehicle (black trace).
+(A and B, Center) Quantification of persistent current levels of NaV1.2-Q54
+(A) or NaV1.2-WT (B) in the presence of activated CaMKII monomer or vehicle expressed as percent of peak current. (A and B, Right) Steady-state
+inactivation for sodium channels in the presence of activated CaMKII
+monomer (blue symbols) or vehicle (black symbols). (C, Left) Representative
+normalized current trace illustrating persistent sodium current in response
+to a 200-ms depolarization (to 0 mV) recorded from F1.Q54 pyramidal
+neurons in the presence of 10 μM KN-93 (black trace) or 10 μM KN-92 (blue
+trace). (C, Center) Quantification of persistent current levels from pyramidal
+neurons in the presence of 10 μM KN-93 or 10 μM KN-92 expressed as percent of peak current. (C, Right) Steady-state inactivation for sodium channels
+in the presence of 10 μM KN-93 (black symbols) or 10 μM KN-92 (blue symbols). Open symbols represent individual cells, whereas closed symbols are
+expressed as mean ± SEM for n = 3–7 cells (*P < 0.05).
+Fig. 6. CaMKII regulation of neuronal excitability. (A) Representative current clamp recordings of spontaneous action potential activity from F1.Q54
+animals in the presence of either 1 μM intracellular KN-93 (Upper) or 1 μM
+KN-92 (Lower). (B) Summary data for spontaneous action potential firing
+from KN-93 (black symbols) and KN-92 (blue symbols) treated pyramidal
+neurons. Open symbols represent individual cells. (C) Summary data plotting
+the number of action potentials against current injection for KN-93 (black
+symbols) and KN-92 (blue symbols) treated neurons. Closed symbols represent mean ± SEM for n = 5–7 measurements (*P < 0.05).
+Thompson et al. PNAS Early Edition | 5 of 6
+NEUROSCIENCE
+pilocarpine and kainic acid-induced seizure models, but total
+CaMKII protein may be increased in prolonged timepoints following seizure onset (29–31). Interestingly, WT littermates do
+not show strain dependence of CaMKII activity, suggesting that
+seizures may also influence CaMKII activity in the hippocampus
+of Scn2aQ54 mice. Although our findings strongly support
+CaMKII modulation of neuronal sodium current and excitability
+of neurons from Scn2aQ54 mice, we cannot exclude epileptogenic
+effects of CaMKII on other cellular targets that also have strain
+dependence.
+In summary, our work demonstrated CaMKII modulation of
+neuronal sodium channels in heterologous cells and in acutely
+isolated neurons from a mouse model of epilepsy. CaMKII evokes a
+mechanism to regulate neuronal sodium current in a manner that
+impacts neuronal excitability. Pharmacological strategies for
+suppressing CaMKII activity in brain might conceivably exert
+antiepileptic effects.
+Materials and Methods
+All experiments were approved by the Animal Care and Use Committee of
+Northwestern University in accordance with the National Institutes of Health
+Guide for the Care and Use of Laboratory Animals (32). Hippocampal neuron
+dissociations were performed as described (33). All mutagenesis, heterologous expression, voltage-clamp, and current-clamp recordings were performed as described (33–37). For description of materials and methods used,
+see SI Materials and Methods.
+ACKNOWLEDGMENTS. We thank Sunita Misra for initial assistance with
+project and Jeffrey Calhoun, Alison Miller, Clint McCollom, and Nicole
+Zachwieja for mouse colony assistance. This work was supported by Epilepsy
+foundation Postdoctoral Fellowship 189645 (to C.H.T.) and NIH Grants
+NS053792 (to J.A.K.) and NS032387 (to A.L.G.).
+1. Catterall WA, Kalume F, Oakley JC (2010) NaV1.1 channels and epilepsy. J Physiol
+588(Pt 11):1849–1859.
+2. George AL, Jr (2005) Inherited disorders of voltage-gated sodium channels. J Clin
+Invest 115(8):1990–1999.
+3. Wang C, Wang C, Hoch EG, Pitt GS (2011) Identification of novel interaction sites that
+determine specificity between fibroblast growth factor homologous factors and
+voltage-gated sodium channels. J Biol Chem 286(27):24253–24263.
+4. Pablo JL, Wang C, Presby MM, Pitt GS (2016) Polarized localization of voltage-gated
+Na+ channels is regulated by concerted FGF13 and FGF14 action. Proc Natl Acad Sci
+USA 113(19):E2665–E2674.
+5. Yan H, Pablo JL, Wang C, Pitt GS (2014) FGF14 modulates resurgent sodium current in
+mouse cerebellar Purkinje neurons. eLife 3:e04193.
+6. Baek JH, Rubinstein M, Scheuer T, Trimmer JS (2014) Reciprocal changes in phosphorylation and methylation of mammalian brain sodium channels in response to
+seizures. J Biol Chem 289(22):15363–15373.
+7. Scheuer T (2011) Regulation of sodium channel activity by phosphorylation. Semin
+Cell Dev Biol 22(2):160–165.
+8. Potet F, Beckermann TM, Kunic JD, George AL, Jr (2015) Intracellular calcium attenuates late current conducted by mutant human cardiac sodium channels. Circ
+Arrhythm Electrophysiol 8(4):933–941.
+9. Van Petegem F, Lobo PA, Ahern CA (2012) Seeing the forest through the trees: Towards a unified view on physiological calcium regulation of voltage-gated sodium
+channels. Biophys J 103(11):2243–2251.
+10. Ashpole NM, et al. (2012) Ca2+/calmodulin-dependent protein kinase II (CaMKII)
+regulates cardiac sodium channel NaV1.5 gating by multiple phosphorylation sites.
+J Biol Chem 287(24):19856–19869.
+11. Meisler MH, Kearney JA (2005) Sodium channel mutations in epilepsy and other
+neurological disorders. J Clin Invest 115(8):2010–2017.
+12. Meisler MH, O’Brien JE, Sharkey LM (2010) Sodium channel gene family: Epilepsy
+mutations, gene interactions and modifier effects. J Physiol 588(Pt 11):1841–1848.
+13. Kearney JA, et al. (2001) A gain-of-function mutation in the sodium channel gene
+Scn2a results in seizures and behavioral abnormalities. Neuroscience 102(2):307–317.
+14. Bergren SK, Chen S, Galecki A, Kearney JA (2005) Genetic modifiers affecting severity of
+epilepsy caused by mutation of sodium channel Scn2a. Mamm Genome 16(9):683–690.
+15. Jorge BS, et al. (2011) Voltage-gated potassium channel KCNV2 (Kv8.2) contributes to
+epilepsy susceptibility. Proc Natl Acad Sci USA 108(13):5443–5448.
+16. Hawkins NA, Kearney JA (2016) Hlf is a genetic modifier of epilepsy caused by voltage-gated sodium channel mutations. Epilepsy Res 119:20–23.
+17. Calhoun JD, Hawkins NA, Zachwieja NJ, Kearney JA (2016) Cacna1g is a genetic
+modifier of epilepsy caused by mutation of voltage-gated sodium channel Scn2a.
+Epilepsia 57(6):e103–e107.
+18. Hawkins NA, Kearney JA (2012) Confirmation of an epilepsy modifier locus on mouse
+chromosome 11 and candidate gene analysis by RNA-Seq. Genes Brain Behav 11(4):452–460.
+19. Aiba T, et al. (2010) Na+ channel regulation by Ca2+/calmodulin and Ca2+/calmodulindependent protein kinase II in guinea-pig ventricular myocytes. Cardiovasc Res 85(3):
+454–463.
+20. Wingo TL, et al. (2004) An EF-hand in the sodium channel couples intracellular calcium to cardiac excitability. Nat Struct Mol Biol 11(3):219–225.
+21. Herren AW, et al. (2015) CaMKII phosphorylation of Na(V)1.5: Novel in vitro sites
+identified by mass spectrometry and reduced S516 phosphorylation in human heart
+failure. J Proteome Res 14(5):2298–2311.
+22. Hund TJ, et al. (2010) A β(IV)-spectrin/CaMKII signaling complex is essential for
+membrane excitability in mice. J Clin Invest 120(10):3508–3519.
+23. Wang C, et al. (2014) Structural analyses of Ca2+/CaM interaction with NaV channel
+C-termini reveal mechanisms of calcium-dependent regulation. Nat Commun 5:4896.
+24. Kile KB, Tian N, Durand DM (2008) Scn2a sodium channel mutation results in hyperexcitability in the hippocampus in vitro. Epilepsia 49(3):488–499.
+25. Bean BP (2007) The action potential in mammalian central neurons. Nat Rev Neurosci
+8(6):451–465.
+26. Speca DJ, et al. (2014) Deletion of the Kv2.1 delayed rectifier potassium channel leads
+to neuronal and behavioral hyperexcitability. Genes Brain Behav 13(4):394–408.
+27. Beckermann TM, McLeod K, Murday V, Potet F, George AL, Jr (2014) Novel SCN5A
+mutation in amiodarone-responsive multifocal ventricular ectopy-associated cardiomyopathy. Heart Rhythm 11(8):1446–1453.
+28. Nguyen TP, Wang DW, Rhodes TH, George AL, Jr (2008) Divergent biophysical defects
+caused by mutant sodium channels in dilated cardiomyopathy with arrhythmia. Circ
+Res 102(3):364–371.
+29. Kochan LD, Churn SB, Omojokun O, Rice A, DeLorenzo RJ (2000) Status epilepticus
+results in an N-methyl-D-aspartate receptor-dependent inhibition of Ca2+/calmodulindependent kinase II activity in the rat. Neuroscience 95(3):735–743.
+30. Yamagata Y, Imoto K, Obata K (2006) A mechanism for the inactivation of Ca2+/
+calmodulin-dependent protein kinase II during prolonged seizure activity and its
+consequence after the recovery from seizure activity in rats in vivo. Neuroscience
+140(3):981–992.
+31. Liu XB, Murray KD (2012) Neuronal excitability and calcium/calmodulin-dependent
+protein kinase type II: Location, location, location. Epilepsia 53(Suppl 1):45–52.
+32. Committee on Care and Use of Laboratory Animals (1996) Guide for the Care and Use
+of Laboratory Animals (Natl Inst Health, Bethesda), DHHS Publ No (NIH) 85–23.
+33. Mistry AM, et al. (2014) Strain- and age-dependent hippocampal neuron sodium currents correlate with epilepsy severity in Dravet syndrome mice. Neurobiol Dis 65:1–11.
+34. Lossin C, Wang DW, Rhodes TH, Vanoye CG, George AL, Jr (2002) Molecular basis of
+an inherited epilepsy. Neuron 34(6):877–884.
+35. Rhodes TH, Lossin C, Vanoye CG, Wang DW, George AL, Jr (2004) Noninactivating
+voltage-gated sodium channels in severe myoclonic epilepsy of infancy. Proc Natl
+Acad Sci USA 101(30):11147–11152.
+36. Kahlig KM, et al. (2008) Divergent sodium channel defects in familial hemiplegic
+migraine. Proc Natl Acad Sci USA 105(28):9799–9804.
+37. Thompson CH, Kahlig KM, George AL, Jr (2011) SCN1A splice variants exhibit divergent sensitivity to commonly used antiepileptic drugs. Epilepsia 52(5):1000–1009.
+6 of 6 | www.pnas.org/cgi/doi/10.1073/pnas.1615774114 Thompson et al.
